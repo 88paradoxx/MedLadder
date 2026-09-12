@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Supabase local dev
+.supabase/
+
+# Logs
+*.log
+npm-debug.log*
