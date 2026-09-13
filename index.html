@@ -1846,14 +1846,13 @@
     }
 
     .auth-input {
-      __TMP__
       width: 100%;
       padding: 11px 14px;
       border-radius: 12px;
       background: var(--paper-raised);
       border: 1px solid var(--line);
       color: var(--ink);
-      font-size: 16px;
+      font-size: 14px;
       transition: border-color .2s, box-shadow .2s;
       outline: none;
       font-family: inherit;
@@ -3534,7 +3533,7 @@
       });
     }
   </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P5VJLV9KRH"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-P5VJLV9KRH");</script></head>
+</head>
 
 <body>
   <div class="bg-scene">
@@ -4486,7 +4485,7 @@
             '</div>' +
             '<div style="margin-bottom:16px;">' +
             '<label for="adminOtpCode" style="display:block;font-size:11.5px;font-weight:700;margin-bottom:4px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:0.04em;">Verification Code or Admin Password</label>' +
-            '<input type="password" id="adminOtpCode" class="admin-input" style="width:100%;font-size:16px;" placeholder="Enter code or admin password">' +
+            '<input type="password" id="adminOtpCode" class="admin-input" style="width:100%;font-size:14px;" placeholder="Enter code or admin password">' +
             '</div>' +
             '<button type="submit" class="admin-action-btn" id="adminOtpVerifyBtn" style="width:100%;padding:10px;font-size:13px;display:flex;align-items:center;justify-content:center;gap:6px;">' +
             '<span>✓ Verify &amp; Enter</span>' +
@@ -5697,7 +5696,7 @@
             }
             updateMastheadAuth();
             updateProModalUI();
-            if ((event === 'SIGNED_IN' || event === 'INITIAL_SESSION') && !prevUser) {
+            if (event === 'SIGNED_IN' && !prevUser) {
               if (window.location.hash && window.location.hash.includes('access_token')) {
                 window.history.replaceState({}, document.title, window.location.pathname);
               }
@@ -5860,7 +5859,7 @@
             : 'Progress is kept for this session only. <button class="auth-link" id="noteSignInBtn" style="font-weight:600;">Sign in to save progress</button> · ') +
           '<button class="reset-link" id="resetAll">Reset all progress</button>' +
           '</div>' +
-          '<footer class="credit">MedLadder · FMGE, NEET PG &amp; NEET SS Question Bank (Main, QRP &amp; PYQ) · <a href="/privacy.html" style="color:var(--ink);text-decoration:none;font-weight:600;opacity:0.75;">Privacy</a> · <a href="/terms.html" style="color:var(--ink);text-decoration:none;font-weight:600;opacity:0.75;">Terms</a> · <a href="#" class="admin-footer-link" style="color:var(--ink);text-decoration:none;font-weight:700;opacity:1;cursor:pointer;">👑 Admin Access</a></footer>';
+          '<footer class="credit">MedLadder · FMGE, NEET PG &amp; NEET SS Question Bank (Main, QRP &amp; PYQ) · <a href="#" class="admin-footer-link" style="color:var(--ink);text-decoration:none;font-weight:700;opacity:1;cursor:pointer;">👑 Admin Access</a></footer>';
 
         wireThemeBtn();
         wireAuthControls();
@@ -6258,7 +6257,7 @@
           searchHtml +
           '<div class="item-list" id="moduleItemList" style="list-style:none;padding:0;margin:12px 0 0;">' + allCard + rows + '</div>' +
           '<div id="noMatchCard" class="no-match-card hidden">No subtopics match your search.</div>' +
-          '<footer class="credit">MedLadder · FMGE, NEET PG &amp; NEET SS Question Bank · <a href="/privacy.html" style="color:var(--ink);text-decoration:none;font-weight:600;opacity:0.75;">Privacy</a> · <a href="/terms.html" style="color:var(--ink);text-decoration:none;font-weight:600;opacity:0.75;">Terms</a> · <a href="#" class="admin-footer-link" style="color:var(--ink);text-decoration:none;font-weight:700;opacity:1;cursor:pointer;">👑 Admin Access</a></footer>';
+          '<footer class="credit">MedLadder · FMGE, NEET PG &amp; NEET SS Question Bank · <a href="#" class="admin-footer-link" style="color:var(--ink);text-decoration:none;font-weight:700;opacity:1;cursor:pointer;">👑 Admin Access</a></footer>';
 
         wireTopBar(function () { renderHome(); });
         wireRipples('.item, .theme-toggle, .auth-btn');
@@ -6768,7 +6767,7 @@
           '</div>' +
           '<button class="review-toggle" id="reviewToggle">Show full review ▾</button>' +
           '<div id="reviewBlock" class="hidden">' + reviewHtml + '</div>' +
-          '<footer class="credit">MedLadder · FMGE, NEET PG &amp; NEET SS Question Bank · <a href="/privacy.html" style="color:var(--ink);text-decoration:none;font-weight:600;opacity:0.75;">Privacy</a> · <a href="/terms.html" style="color:var(--ink);text-decoration:none;font-weight:600;opacity:0.75;">Terms</a> · <a href="#" class="admin-footer-link" style="color:var(--ink);text-decoration:none;font-weight:700;opacity:1;cursor:pointer;">👑 Admin Access</a></footer>';
+          '<footer class="credit">MedLadder · FMGE, NEET PG &amp; NEET SS Question Bank · <a href="#" class="admin-footer-link" style="color:var(--ink);text-decoration:none;font-weight:700;opacity:1;cursor:pointer;">👑 Admin Access</a></footer>';
 
         wireTopBar(resBackFn);
         wireRipples('.btn, .theme-toggle, .auth-btn');
