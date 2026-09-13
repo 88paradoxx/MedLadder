@@ -5696,7 +5696,7 @@
             }
             updateMastheadAuth();
             updateProModalUI();
-            if (event === 'SIGNED_IN' && !prevUser) {
+            if ((event === 'SIGNED_IN' || event === 'INITIAL_SESSION') && !prevUser) {
               if (window.location.hash && window.location.hash.includes('access_token')) {
                 window.history.replaceState({}, document.title, window.location.pathname);
               }
