@@ -3533,6 +3533,14 @@
       });
     }
   </script>
+<!-- Google Analytics (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P5VJLV9KRH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-P5VJLV9KRH');
+</script>
 </head>
 
 <body>
@@ -6659,7 +6667,7 @@
         var explainHtml = '';
         if (reveal) {
           explainHtml = '<div class="explain show"><span class="exlabel">Explanation</span>' +
-            (q.explanation ? esc(q.explanation) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
+            (q.explanation ? q.explanation : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
             (existing && existing.skipped ? '<div class="skip-tag">Time ran out before you answered.</div>' : '') +
             '</div>';
         }
@@ -6747,7 +6755,7 @@
             '<div class="rq">' + (idx + 1) + '. ' + esc(q.question) + '</div>' +
             imgHtml +
             optsHtml + skipTag +
-            '<div class="rexplain">' + (q.explanation ? esc(q.explanation) : 'No explanation captured.') + '</div>' +
+            '<div class="rexplain">' + (q.explanation ? q.explanation : 'No explanation captured.') + '</div>' +
             '</div>';
         }).join('');
 
