@@ -6660,7 +6660,7 @@
           }
           var delay = reveal ? '0s' : (i * 0.05) + 's';
           return '<button class="' + cls + '" data-letter="' + L + '" style="animation-delay:' + delay + '" ' + (lockedOptions ? 'disabled' : '') + '>' +
-            '<span class="letter">' + L + '</span><span>' + esc(q.options[L]) + '</span>' +
+            '<span class="letter">' + L + '</span><span>' + (q.options[L] || '') + '</span>' +
             '</button>';
         }).join('');
 
@@ -6685,7 +6685,7 @@
           '<div class="qprog-track"><div class="qprog-fill" style="width:' + Math.round(((state.idx) / total) * 100) + '%"></div></div>' +
           '<div class="qcard glass">' +
           '<div class="qnum-eyebrow">Question ' + (state.idx + 1) + ' of ' + total + ' · <span style="color:var(--accent);text-transform:none;letter-spacing:normal;font-weight:700;">' + esc(state.poolTitle) + '</span></div>' +
-          '<div class="qtext">' + esc(q.question) + '</div>' +
+          '<div class="qtext">' + (q.question ? q.question : '') + '</div>' +
           (q.image_url ? '<div class="qimage-container"><img src="' + esc(q.image_url) + '" class="qimage" alt="Clinical Exhibit" onclick="openExhibitZoom(this.src)" /><div class="qimage-zoom-hint">🔍 Click image to inspect full exhibit</div></div>' : '') +
           '<div class="options">' + optsHtml + '</div>' +
           explainHtml +
@@ -6747,12 +6747,12 @@
             var cls = 'ropt';
             if (L === q.answer) cls += ' correct';
             else if (a && L === a.picked) cls += ' incorrect';
-            return '<div class="' + cls + '">' + L + '. ' + esc(q.options[L]) + '</div>';
+            return '<div class="' + cls + '">' + L + '. ' + (q.options[L] || '') + '</div>';
           }).join('');
           var skipTag = (!a || a.skipped) ? '<div class="skip-tag">Not answered</div>' : '';
           var imgHtml = q.image_url ? '<div style="margin:8px 0;"><img src="' + esc(q.image_url) + '" class="rq-img" alt="Exhibit" onclick="openExhibitZoom(this.src)" style="cursor:zoom-in;" /></div>' : '';
           return '<div class="review-item">' +
-            '<div class="rq">' + (idx + 1) + '. ' + esc(q.question) + '</div>' +
+            '<div class="rq">' + (idx + 1) + '. ' + (q.question ? q.question : '') + '</div>' +
             imgHtml +
             optsHtml + skipTag +
             '<div class="rexplain">' + (q.explanation ? q.explanation : 'No explanation captured.') + '</div>' +
