@@ -801,6 +801,37 @@
       .footer-inner { flex-direction: column; text-align: center; gap: 18px; }
       .footer-links { justify-content: center; }
     }
+    .landing-toast-container {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 99999;
+      pointer-events: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .landing-toast {
+      padding: 10px 20px;
+      border-radius: 999px;
+      background: var(--paper-raised);
+      border: 1.5px solid var(--green);
+      color: var(--ink);
+      font-size: 13.5px;
+      font-weight: 700;
+      box-shadow: 0 10px 30px -4px rgba(0, 0, 0, 0.65), 0 0 16px -2px rgba(52, 211, 153, 0.4);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      opacity: 0;
+      transform: translateY(12px) scale(0.96);
+      transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .landing-toast.visible {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
   </style>
 
   <!-- Schema.org EducationalOrganization structured data -->
@@ -839,7 +870,7 @@
         <a href="#faq">FAQ</a>
       </div>
       <div class="nav-actions">
-        <a href="https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-v1.0.apk" target="_blank" rel="noopener noreferrer" class="nav-download-btn" download title="Download MedLadder Android APK (v1.0)">
+        <a href="https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-v1.0.apk" class="nav-download-btn" download="MedLadder-v1.0.apk" title="Download MedLadder Android APK (v1.0)">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
           <span>Download APK</span>
         </a>
@@ -1366,7 +1397,7 @@
       <div>
         <strong>MedLadder</strong> · MBBS · FMGE · NEET PG · INI-CET · NEET SS · USMLE · MCAT · PLAB · MRCS · MRCP · State PG
       </div>
-      <a href="https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-v1.0.apk" target="_blank" rel="noopener noreferrer" class="footer-apk-btn" download title="Download MedLadder Android APK (v1.0)">
+      <a href="https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-v1.0.apk" class="footer-apk-btn" download="MedLadder-v1.0.apk" title="Download MedLadder Android APK (v1.0)">
         <span class="footer-apk-icon">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.4116 13.8533 8.125 12 8.125s-3.5902.2866-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg>
         </span>
@@ -1406,5 +1437,31 @@
   <!-- Google Analytics Tag -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5VJLV9KRH"></script>
   <script src="/gtag-init.js" defer></script>
+  <script>
+    document.addEventListener('click', function(e) {
+      var btn = e.target.closest('.nav-download-btn, .footer-apk-btn');
+      if (btn) {
+        showDownloadToast('📥 Starting MedLadder APK download...');
+      }
+    });
+    function showDownloadToast(msg) {
+      var container = document.getElementById('landingToastContainer');
+      if (!container) {
+        container = document.createElement('div');
+        container.id = 'landingToastContainer';
+        container.className = 'landing-toast-container';
+        document.body.appendChild(container);
+      }
+      var toast = document.createElement('div');
+      toast.className = 'landing-toast';
+      toast.textContent = msg;
+      container.appendChild(toast);
+      setTimeout(function() { toast.classList.add('visible'); }, 10);
+      setTimeout(function() {
+        toast.classList.remove('visible');
+        setTimeout(function() { toast.remove(); }, 300);
+      }, 3500);
+    }
+  </script>
 </body>
 </html>

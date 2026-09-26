@@ -1353,6 +1353,13 @@ window.addEventListener('error', function (ev) {
         }, 3200);
       }
 
+      document.addEventListener('click', function (e) {
+        var btn = e.target.closest('.footer-apk-btn');
+        if (btn) {
+          showToast('📥 Starting MedLadder APK download...', 'success');
+        }
+      });
+
       function authBtnHtml() {
         if (!currentUser) {
           return '<button class="auth-btn" id="authTriggerBtn" title="Sign in or create account">' +
