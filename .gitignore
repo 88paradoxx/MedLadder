@@ -1,0 +1,48 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Supabase local dev
+.supabase/
+supabase/.temp/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local tooling / dev imports (never deploy)
+.pocketdev/
+
+# Backup / scratch files (never deploy)
+*.bak
+*.bak.html
+*.old
+
+# Local SEO audit files
+audit.py
+urls.txt
+bad_urls.txt
+__pycache__/
+*.pyc
+
+# Archives & packages (never commit)
+*.zip
+node_modules/
+
+# Database backups & exports (never commit)
+*.csv
+export_db.ps1
+medladder_backup*/
+medladder_*backup*
+medladder_*data*.sql

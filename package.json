@@ -1,0 +1,18 @@
+{
+  "name": "medladder-main",
+  "version": "1.0.0",
+  "description": "Medical entrance exam question bank for **FMGE, NEET PG, INI-CET & NEET SS** preparation — 19 subjects, 37,076 MCQs with previous-year questions, explanations, and progress tracking.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node tools/serve.js",
+    "build:sw": "node tools/build-sw.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
