@@ -3113,6 +3113,8 @@ window.addEventListener('error', function (ev) {
       function renderSetup(subjectId, moduleId) {
         clearTimer();
         state.screen = 'setup';
+        app.classList.remove('screen-quiz');
+        app.classList.add('screen-setup');
         state.subjectId = subjectId;
         state.moduleId = moduleId;
         var pool = resolvePool(subjectId, moduleId);
@@ -3391,6 +3393,7 @@ window.addEventListener('error', function (ev) {
 
         state.screen = 'quiz';
         if (app) {
+          app.classList.remove('screen-setup');
           app.classList.add('screen-quiz');
         }
 
