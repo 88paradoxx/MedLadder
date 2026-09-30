@@ -2248,11 +2248,17 @@ window.addEventListener('error', function (ev) {
         }
       }
       function toggleTheme() {
+        document.documentElement.classList.add('theme-switching');
         darkMode = !darkMode;
         applyTheme();
         try {
           localStorage.setItem('medladder_theme', darkMode ? 'dark' : 'light');
         } catch (e) { }
+        requestAnimationFrame(function () {
+          requestAnimationFrame(function () {
+            document.documentElement.classList.remove('theme-switching');
+          });
+        });
       }
       function shuffle(arr) {
         var a = arr.slice();

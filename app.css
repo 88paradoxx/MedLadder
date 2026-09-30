@@ -154,6 +154,7 @@ footer.credit{padding-top:44px}
 .subject-grid .item:nth-child(3n) .item-icon-box{background:#fff5df!important}
 html.dark .subject-grid .item:nth-child(3n+2) .item-icon-box{background:#153743!important}
 html.dark .subject-grid .item:nth-child(3n) .item-icon-box{background:#40331c!important}
+html.theme-switching,html.theme-switching body,html.theme-switching #app,html.theme-switching *,html.theme-switching *::before,html.theme-switching *::after{transition:none!important;animation:none!important}
 .subject-grid .item:hover .subject-icon-img{filter:drop-shadow(0 5px 8px rgba(124,58,237,.3))}
 .btn-go-pro{box-shadow:0 5px 16px rgba(190,24,93,.2)}
 .btn-go-pro:hover{box-shadow:0 8px 22px rgba(190,24,93,.3)}
