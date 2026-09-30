@@ -2633,6 +2633,10 @@ window.addEventListener('error', function (ev) {
 
       // ---------- PYQ SETUP: configure and launch a PYQ quiz ----------
       async function renderPYQSetup(examId) {
+        if (!quizStylesReady) {
+          await ensureQuizStyles();
+          return renderPYQSetup(examId);
+        }
         clearTimer();
 
         // If server Pro check is in-flight, wait for it before showing paywall
@@ -2909,7 +2913,40 @@ window.addEventListener('error', function (ev) {
       }
 
       // ---------- MODULE LIST (sub-topics within a subject) ----------
+      var quizStylesReady = false;
+      var quizStylesPromise = null;
+      function ensureQuizStyles() {
+        if (quizStylesReady) return Promise.resolve();
+        if (quizStylesPromise) return quizStylesPromise;
+
+        var link = document.getElementById('quiz-pro-css');
+        if (!link) {
+          quizStylesReady = true;
+          return Promise.resolve();
+        }
+
+        quizStylesPromise = new Promise(function (resolve) {
+          var finish = function () {
+            if (quizStylesReady) return;
+            quizStylesReady = true;
+            link.media = 'all';
+            resolve();
+          };
+          link.addEventListener('load', finish, { once: true });
+          link.addEventListener('error', finish, { once: true });
+          link.media = 'all';
+          try {
+            if (link.sheet && link.sheet.cssRules.length > 0) finish();
+          } catch (e) { /* The load event completes activation if rules are not yet readable. */ }
+        });
+        return quizStylesPromise;
+      }
+
       function renderModuleList(subjectId) {
+        if (!quizStylesReady) {
+          ensureQuizStyles().then(function () { renderModuleList(subjectId); });
+          return;
+        }
         clearTimer();
         state.screen = 'modules';
         var subjMeta = SUBJECT_INDEX.find(function (s) { return s.subjectId === subjectId; });
@@ -3150,6 +3187,10 @@ window.addEventListener('error', function (ev) {
       }
 
       function renderCustomSetup() {
+        if (!quizStylesReady) {
+          ensureQuizStyles().then(renderCustomSetup);
+          return;
+        }
         clearTimer();
         state.screen = 'setup';
         state.isPyqMode = false;
@@ -3212,6 +3253,10 @@ window.addEventListener('error', function (ev) {
       }
 
       function renderSetup(subjectId, moduleId) {
+        if (!quizStylesReady) {
+          ensureQuizStyles().then(function () { renderSetup(subjectId, moduleId); });
+          return;
+        }
         clearTimer();
         state.screen = 'setup';
         app.classList.remove('screen-quiz');
