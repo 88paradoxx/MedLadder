@@ -185,6 +185,21 @@ html.theme-switching,html.theme-switching body,html.theme-switching #app,html.th
 .masthead{position:relative;isolation:isolate;border-color:transparent!important;background-clip:padding-box!important}
 .masthead::before{content:"";position:absolute;inset:-1px;z-index:-1;border-radius:inherit;padding:1px;background:linear-gradient(110deg,#ef4444,#f59e0b,#22c55e,#06b6d4,#6366f1,#ec4899,#ef4444);background-size:220% 100%;opacity:.62;filter:blur(.2px);animation:rainbowEdge 10s linear infinite;-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
 @keyframes rainbowEdge{to{background-position:220% 0}}
+/* Keep the light header legible while retaining its multicolor edge light. */
+html:not(.dark) .masthead{background:#fff!important;box-shadow:0 8px 26px rgba(35,31,56,.10),0 1px 3px rgba(35,31,56,.06)!important}
+html:not(.dark) .masthead .brand{color:#24232d!important}
+html:not(.dark) .masthead .stat{background:#f1f1f6!important;border:1px solid #e2e1ea!important;color:#555465!important}
+html:not(.dark) .masthead .auth-user-btn,html:not(.dark) .masthead .theme-toggle{background:#fff!important;border:1px solid #d8d6e2!important;color:#24232d!important;box-shadow:0 3px 10px rgba(35,31,56,.09)!important}
+html:not(.dark) .masthead .auth-user-btn:hover,html:not(.dark) .masthead .theme-toggle:hover{border-color:#9b78ed!important;box-shadow:0 0 0 3px rgba(124,58,237,.12),0 4px 12px rgba(35,31,56,.1)!important}
+html:not(.dark) .masthead .auth-user-btn svg,html:not(.dark) .masthead .theme-toggle svg{color:#6d28d9}
+/* Improve light-theme contrast in the hero and active category filter. */
+html:not(.dark) .hero-eyebrow{color:#5b21b6!important;background:#eee7ff!important;border:1px solid #d7c8ff!important}
+html:not(.dark) h1.title{color:#211d2b!important}
+html:not(.dark) .brand-gradient{background:linear-gradient(115deg,#6426cc 0%,#8b2fe0 58%,#a21878 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+html:not(.dark) .hero-wrap .subtitle{color:#302b3b!important;font-weight:600!important;text-shadow:none!important}
+html:not(.dark) .cat-tab{color:#514c60;border-color:#d7d4e2;background:#fff}
+html:not(.dark) .cat-tab.active{background:linear-gradient(110deg,#6d28d9,#a21caf)!important;border-color:#7628c8!important;color:#fff!important;box-shadow:0 5px 14px rgba(109,40,217,.28)!important}
+html.dark .hero-wrap .subtitle{font-weight:600!important}
 .custom-module-card{width:100%;display:flex;align-items:center;gap:16px;margin:22px 0 26px;padding:18px 20px;text-align:left;color:var(--ink,#f5f3ff);background:linear-gradient(120deg,rgba(35,27,70,.92),rgba(24,25,47,.96));border:1px solid rgba(168,116,255,.5);border-left:4px solid #a855f7;border-radius:20px;box-shadow:0 12px 30px rgba(104,61,180,.16);cursor:pointer;transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease}
 .custom-module-card:hover,.custom-module-card:focus-visible{transform:translateY(-2px);border-color:#e879f9;box-shadow:0 16px 36px rgba(168,85,247,.24);outline:none}
 .custom-module-icon{display:grid;place-items:center;flex:0 0 44px;width:44px;height:44px;border-radius:14px;font-size:24px;color:#fff;background:linear-gradient(135deg,#7c3aed,#ec4899);box-shadow:0 8px 18px rgba(124,58,237,.35)}
