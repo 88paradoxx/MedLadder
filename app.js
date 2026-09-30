@@ -113,7 +113,7 @@ window.addEventListener('error', function (ev) {
       applyTheme();
       wireThemeBtn();
 
-      var setupChoice = { pool: null, quizType: 'practice', count: 'all', timeLimit: 0, orderMode: 'structured', pyqYear: null };
+      var setupChoice = { pool: null, quizType: 'practice', count: 'all', customCount: 50, timeLimit: 0, customTime: 30, orderMode: 'structured', pyqYear: null };
       var state = {
         screen: 'home', subjectId: null, moduleId: null, poolTitle: '', order: [], questions: [], idx: 0,
         answers: {}, quizType: 'practice', timeLimit: 0, remaining: 0, timerId: null, progressKey: null,
@@ -2396,7 +2396,9 @@ window.addEventListener('error', function (ev) {
         }
 
         var grid = document.getElementById('subjectGrid');
-        var alreadyRendered = !force && !!grid && grid.children.length > 0;
+        // The static shell includes a subject-grid placeholder. Rebuild it when
+        // the current home markup does not yet include the custom module entry.
+        var alreadyRendered = !force && !!grid && grid.children.length > 0 && !!document.getElementById('customModuleCard');
 
         if (!alreadyRendered) {
           var rows = SUBJECT_INDEX.map(function (s, i) {
@@ -2493,6 +2495,11 @@ window.addEventListener('error', function (ev) {
             '</div>' +
             '</div>' +
             '<div class="subject-grid" id="subjectGrid">' + rows + '</div>' +
+            '<div class="custom-module-card" id="customModuleCard" role="button" tabindex="0">' +
+            '<span class="custom-module-icon">✦</span>' +
+            '<span class="custom-module-copy"><strong>Custom Module</strong><span>Build a mixed quiz from every subject and topic.</span><small>50 · 100 · 150 · Custom&nbsp;&nbsp; · &nbsp;Practice or timed · Shuffle</small></span>' +
+            '<span class="custom-module-arrow">›</span>' +
+            '</div>' +
             '<div id="homeNoMatch" class="no-match-card hidden">No subjects match your search.</div>' +
             pyqSectionHtml +
             modeNoteHtml() +
@@ -2517,6 +2524,11 @@ window.addEventListener('error', function (ev) {
           app.querySelectorAll('.item[data-sid]').forEach(function (btn) {
             btn.onclick = function () { renderModuleList(parseInt(btn.getAttribute('data-sid'), 10)); };
           });
+          var customModuleCard = document.getElementById('customModuleCard');
+          if (customModuleCard) {
+            customModuleCard.onclick = function () { renderCustomSetup(); };
+            customModuleCard.onkeydown = function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); renderCustomSetup(); } };
+          }
           var resetBtn = document.getElementById('resetAll');
           if (resetBtn) {
             resetBtn.onclick = function () {
@@ -2663,10 +2675,11 @@ window.addEventListener('error', function (ev) {
         var PYQ_TIME_OPTIONS = [
           { label: '120 min (2 Hours)', value: 7200, hint: 'INICET Standard' },
           { label: '180 min (3 Hours)', value: 10800, hint: 'NEET PG / FMGE Standard' },
-          { label: 'Untimed / Practice', value: 0, hint: 'Self-paced study' }
+          { label: 'Untimed / Practice', value: 0, hint: 'Self-paced study' },
+          { label: 'Custom minutes', value: 'custom', hint: 'Set your own countdown' }
         ];
 
-        if (setupChoice.timeLimit !== 7200 && setupChoice.timeLimit !== 10800 && setupChoice.timeLimit !== 0) {
+        if (setupChoice.timeLimit !== 7200 && setupChoice.timeLimit !== 10800 && setupChoice.timeLimit !== 0 && setupChoice.timeLimit !== 'custom') {
           setupChoice.timeLimit = (examId === 'inicet' ? 7200 : 10800);
         }
 
@@ -2693,6 +2706,7 @@ window.addEventListener('error', function (ev) {
             '<span style="font-weight:700;">' + esc(t.label) + '</span>' +
             '</button>';
         }).join('');
+        var pyqCustomTimeHtml = setupChoice.timeLimit === 'custom' ? '<div class="custom-setup-control"><label for="customTimeInput">Minutes</label><input id="customTimeInput" type="number" min="1" max="600" value="' + esc(String(setupChoice.customTime || 30)) + '" inputmode="numeric"><span>1–600 min</span></div>' : '';
 
         app.innerHTML =
           topBar('Back to Home', renderHome) +
@@ -2717,7 +2731,7 @@ window.addEventListener('error', function (ev) {
           '</div>' +
           '</div>' +
           '<div class="setup-section"><div class="setup-label">Test Mode</div><div class="type-grid" id="typeGrid">' + typeHtml + '</div></div>' +
-          '<div class="setup-section"><div class="setup-label">Exam Duration (Timer)</div><div class="pill-row" id="timeRow">' + timeHtml + '</div>' +
+          '<div class="setup-section"><div class="setup-label">Exam Duration (Timer)</div><div class="pill-row" id="timeRow">' + timeHtml + '</div>' + pyqCustomTimeHtml +
           '<div class="pyq-time-hint">⏱ 180 min (3 Hours) for NEET PG &amp; FMGE · 120 min (2 Hours) for INICET</div>' +
           '</div>' +
           '<div class="setup-section"><div class="setup-label">Question Order</div><div class="pill-row" id="orderRow">' +
@@ -2744,10 +2758,13 @@ window.addEventListener('error', function (ev) {
         });
         app.querySelectorAll('#timeRow .pill-choice').forEach(function (btn) {
           btn.addEventListener('click', function () {
-            setupChoice.timeLimit = parseInt(btn.getAttribute('data-time'), 10);
+            var v = btn.getAttribute('data-time');
+            setupChoice.timeLimit = v === 'custom' ? 'custom' : parseInt(v, 10);
             renderPYQSetup(examId);
           });
         });
+        var pyqCustomTimeInput = document.getElementById('customTimeInput');
+        if (pyqCustomTimeInput) pyqCustomTimeInput.onchange = function () { setupChoice.customTime = pyqCustomTimeInput.value; };
         app.querySelectorAll('#orderRow .pill-choice').forEach(function (btn) {
           btn.addEventListener('click', function () {
             setupChoice.orderMode = btn.getAttribute('data-order');
@@ -2755,6 +2772,7 @@ window.addEventListener('error', function (ev) {
           });
         });
         document.getElementById('startBtn').addEventListener('click', function () {
+          setupChoice.timeLimit = resolveSetupTime();
           startPYQQuiz(examId);
         });
       }
@@ -3087,11 +3105,81 @@ window.addEventListener('error', function (ev) {
       }
 
       // ---------- SETUP ----------
-      var COUNT_OPTIONS = [10, 25, 50, 100];
+      var COUNT_OPTIONS = [10, 25, 50, 100, 150];
       var TIME_OPTIONS = [
         { label: 'No limit', value: 0 }, { label: '10 min', value: 600 },
         { label: '20 min', value: 1200 }, { label: '30 min', value: 1800 }
       ];
+
+      function resolveSetupCount(total) {
+        if (setupChoice.count === 'all') return 'all';
+        if (setupChoice.count === 'custom') {
+          var custom = parseInt(setupChoice.customCount, 10);
+          return Math.max(1, Math.min(total, Number.isFinite(custom) ? custom : Math.min(50, total)));
+        }
+        return Math.max(1, Math.min(total, parseInt(setupChoice.count, 10) || total));
+      }
+
+      function resolveSetupTime() {
+        if (setupChoice.timeLimit === 'custom') {
+          var minutes = parseInt(setupChoice.customTime, 10);
+          return Math.max(1, Math.min(600, Number.isFinite(minutes) ? minutes : 30)) * 60;
+        }
+        return Number(setupChoice.timeLimit) || 0;
+      }
+
+      function customPool() {
+        var moduleDbIds = [];
+        var questionCount = 0;
+        SUBJECT_INDEX.forEach(function (s) {
+          getSubjectModules(s.subjectId).forEach(function (m) {
+            if (m.id) moduleDbIds.push(m.id);
+            questionCount += Number(m.questionCount) || 0;
+          });
+        });
+        return {
+          title: 'Custom Module · All Questions', questionCount: questionCount,
+          moduleId: 'custom', moduleDbIds: moduleDbIds, key: 'custom:all'
+        };
+      }
+
+      function renderCustomSetup() {
+        clearTimer();
+        state.screen = 'setup';
+        state.isPyqMode = false;
+        state.subjectId = null;
+        state.moduleId = 'custom';
+        app.classList.remove('screen-quiz');
+        app.classList.add('screen-setup');
+        var pool = customPool();
+        setupChoice.pool = pool;
+        if (setupChoice.count === 'all') setupChoice.count = 50;
+        if (!setupChoice.customCount) setupChoice.customCount = 50;
+        if (!setupChoice.customTime) setupChoice.customTime = 30;
+        var total = pool.questionCount;
+        var countChoices = COUNT_OPTIONS.filter(function (n) { return n < total; }).concat(['all', 'custom']);
+        if (countChoices.indexOf(setupChoice.count) === -1) setupChoice.count = 50 < total ? 50 : 'all';
+        var countHtml = countChoices.map(function (n) {
+          var label = n === 'all' ? 'All ' + total : (n === 'custom' ? 'Custom' : n);
+          return '<button class="pill-choice ' + (setupChoice.count === n ? 'active' : '') + '" data-count="' + n + '">' + label + '</button>';
+        }).join('');
+        var timeHtml = TIME_OPTIONS.map(function (t) {
+          return '<button class="pill-choice ' + (setupChoice.timeLimit === t.value ? 'active' : '') + '" data-time="' + t.value + '">' + t.label + '</button>';
+        }).join('') + '<button class="pill-choice ' + (setupChoice.timeLimit === 'custom' ? 'active' : '') + '" data-time="custom">Custom</button>';
+        var customCountHtml = setupChoice.count === 'custom' ? '<div class="custom-setup-control"><label for="customCountInput">Questions</label><input id="customCountInput" type="number" min="1" max="' + total + '" value="' + esc(String(setupChoice.customCount || 50)) + '" inputmode="numeric"><span>of ' + total + '</span></div>' : '';
+        var customTimeHtml = setupChoice.timeLimit === 'custom' ? '<div class="custom-setup-control"><label for="customTimeInput">Minutes</label><input id="customTimeInput" type="number" min="1" max="600" value="' + esc(String(setupChoice.customTime || 30)) + '" inputmode="numeric"><span>1–600 min</span></div>' : '';
+        var typeHtml = '<button class="type-card ' + (setupChoice.quizType === 'practice' ? 'active' : '') + '" data-type="practice"><span class="tname">Practice</span><span class="tdesc">Instant answer and explanation after every question.</span></button><button class="type-card ' + (setupChoice.quizType === 'timed' ? 'active' : '') + '" data-type="timed"><span class="tname">Timed Test</span><span class="tdesc">Set a clock and work through your custom question set.</span></button>';
+        app.innerHTML = topBar('Back to Home', renderHome) + '<main id="mainContent" role="main"><h1 class="setup-chapname">✦ Custom Module</h1><p class="setup-sub">Choose questions from all ' + SUBJECT_INDEX.length + ' subjects and every topic.</p><div class="setup-section"><div class="setup-label">Quiz type</div><div class="type-grid" id="typeGrid">' + typeHtml + '</div></div><div class="setup-section"><div class="setup-label">Number of questions</div><div class="pill-row" id="countRow">' + countHtml + '</div>' + customCountHtml + '</div><div class="setup-section"><div class="setup-label">Time limit</div><div class="pill-row" id="timeRow">' + timeHtml + '</div>' + customTimeHtml + '</div><div class="setup-section"><div class="setup-label">Question order</div><div class="pill-row" id="orderRow"><button class="pill-choice ' + (setupChoice.orderMode === 'structured' ? 'active' : '') + '" data-order="structured">Structured</button><button class="pill-choice ' + (setupChoice.orderMode === 'shuffled' ? 'active' : '') + '" data-order="shuffled">Shuffled</button></div></div><div class="start-btn-wrap"><button class="btn start" id="startBtn">Start custom quiz</button></div></main>';
+        wireTopBar(renderHome);
+        wireRipples('.type-card, .pill-choice, .btn, .theme-toggle, .auth-btn');
+        app.querySelectorAll('#typeGrid .type-card').forEach(function (btn) { btn.onclick = function () { setupChoice.quizType = btn.getAttribute('data-type'); renderCustomSetup(); }; });
+        app.querySelectorAll('#countRow .pill-choice').forEach(function (btn) { btn.onclick = function () { var v = btn.getAttribute('data-count'); setupChoice.count = v === 'all' ? 'all' : (v === 'custom' ? 'custom' : parseInt(v, 10)); renderCustomSetup(); }; });
+        app.querySelectorAll('#timeRow .pill-choice').forEach(function (btn) { btn.onclick = function () { var v = btn.getAttribute('data-time'); setupChoice.timeLimit = v === 'custom' ? 'custom' : parseInt(v, 10); renderCustomSetup(); }; });
+        app.querySelectorAll('#orderRow .pill-choice').forEach(function (btn) { btn.onclick = function () { setupChoice.orderMode = btn.getAttribute('data-order'); renderCustomSetup(); }; });
+        var countInput = document.getElementById('customCountInput'); if (countInput) countInput.onchange = function () { setupChoice.customCount = countInput.value; };
+        var timeInput = document.getElementById('customTimeInput'); if (timeInput) timeInput.onchange = function () { setupChoice.customTime = timeInput.value; };
+        document.getElementById('startBtn').onclick = function () { setupChoice.timeLimit = resolveSetupTime(); startQuiz(); };
+      }
 
       function resolvePool(subjectId, moduleId) {
         var modules = getSubjectModules(subjectId);
@@ -3129,8 +3217,8 @@ window.addEventListener('error', function (ev) {
         setupChoice.pool = pool;
         var total = pool.questionCount;
 
-        var countChoices = COUNT_OPTIONS.filter(function (n) { return n < total; }).concat(['all']);
-        if (setupChoice.count !== 'all' && countChoices.indexOf(setupChoice.count) === -1) setupChoice.count = 'all';
+        var countChoices = COUNT_OPTIONS.filter(function (n) { return n < total; }).concat(['all', 'custom']);
+        if (setupChoice.count !== 'all' && setupChoice.count !== 'custom' && countChoices.indexOf(setupChoice.count) === -1) setupChoice.count = 'all';
 
         var typeHtml =
           '<button class="type-card ' + (setupChoice.quizType === 'practice' ? 'active' : '') + '" data-type="practice">' +
@@ -3141,13 +3229,15 @@ window.addEventListener('error', function (ev) {
           '</button>';
 
         var countHtml = countChoices.map(function (n) {
-          var label = n === 'all' ? 'All ' + total : n;
+          var label = n === 'all' ? 'All ' + total : (n === 'custom' ? 'Custom' : n);
           return '<button class="pill-choice ' + (setupChoice.count === n ? 'active' : '') + '" data-count="' + n + '">' + label + '</button>';
         }).join('');
 
         var timeHtml = TIME_OPTIONS.map(function (t) {
           return '<button class="pill-choice ' + (setupChoice.timeLimit === t.value ? 'active' : '') + '" data-time="' + t.value + '">' + t.label + '</button>';
-        }).join('');
+        }).join('') + '<button class="pill-choice ' + (setupChoice.timeLimit === 'custom' ? 'active' : '') + '" data-time="custom">Custom</button>';
+        var customCountHtml = setupChoice.count === 'custom' ? '<div class="custom-setup-control"><label for="customCountInput">Questions</label><input id="customCountInput" type="number" min="1" max="' + total + '" value="' + esc(String(setupChoice.customCount || 50)) + '" inputmode="numeric"><span>of ' + total + '</span></div>' : '';
+        var customTimeHtml = setupChoice.timeLimit === 'custom' ? '<div class="custom-setup-control"><label for="customTimeInput">Minutes</label><input id="customTimeInput" type="number" min="1" max="600" value="' + esc(String(setupChoice.customTime || 30)) + '" inputmode="numeric"><span>1–600 min</span></div>' : '';
 
         var modules = getSubjectModules(subjectId);
         var modIndex = -1;
@@ -3171,8 +3261,8 @@ window.addEventListener('error', function (ev) {
           '<h1 class="setup-chapname">' + esc(pool.title) + '</h1>' +
           '<p class="setup-sub">' + total + ' questions available in this bank.</p>' +
           '<div class="setup-section"><div class="setup-label">Quiz type</div><div class="type-grid" id="typeGrid">' + typeHtml + '</div></div>' +
-          '<div class="setup-section"><div class="setup-label">Number of questions</div><div class="pill-row" id="countRow">' + countHtml + '</div></div>' +
-          '<div class="setup-section"><div class="setup-label">Time limit</div><div class="pill-row" id="timeRow">' + timeHtml + '</div></div>' +
+          '<div class="setup-section"><div class="setup-label">Number of questions</div><div class="pill-row" id="countRow">' + countHtml + '</div>' + customCountHtml + '</div>' +
+          '<div class="setup-section"><div class="setup-label">Time limit</div><div class="pill-row" id="timeRow">' + timeHtml + '</div>' + customTimeHtml + '</div>' +
           '<div class="setup-section"><div class="setup-label">Question order</div><div class="pill-row" id="orderRow">' +
           '<button class="pill-choice ' + (setupChoice.orderMode === 'structured' ? 'active' : '') + '" data-order="structured">Structured (Topic Order)</button>' +
           '<button class="pill-choice ' + (setupChoice.orderMode === 'shuffled' ? 'active' : '') + '" data-order="shuffled">Shuffled (Exam Mode)</button>' +
@@ -3192,12 +3282,12 @@ window.addEventListener('error', function (ev) {
         app.querySelectorAll('#countRow .pill-choice').forEach(function (btn) {
           btn.addEventListener('click', function () {
             var v = btn.getAttribute('data-count');
-            setupChoice.count = (v === 'all') ? 'all' : parseInt(v, 10);
+            setupChoice.count = (v === 'all') ? 'all' : (v === 'custom' ? 'custom' : parseInt(v, 10));
             renderSetup(subjectId, moduleId);
           });
         });
         app.querySelectorAll('#timeRow .pill-choice').forEach(function (btn) {
-          btn.addEventListener('click', function () { setupChoice.timeLimit = parseInt(btn.getAttribute('data-time'), 10); renderSetup(subjectId, moduleId); });
+          btn.addEventListener('click', function () { var v = btn.getAttribute('data-time'); setupChoice.timeLimit = v === 'custom' ? 'custom' : parseInt(v, 10); renderSetup(subjectId, moduleId); });
         });
         app.querySelectorAll('#orderRow .pill-choice').forEach(function (btn) {
           btn.addEventListener('click', function () {
@@ -3215,8 +3305,14 @@ window.addEventListener('error', function (ev) {
             });
             return;
           }
+          setupChoice.timeLimit = resolveSetupTime();
           startQuiz();
         });
+
+        var customCountInput = document.getElementById('customCountInput');
+        if (customCountInput) customCountInput.onchange = function () { setupChoice.customCount = customCountInput.value; };
+        var customTimeInput = document.getElementById('customTimeInput');
+        if (customTimeInput) customTimeInput.onchange = function () { setupChoice.customTime = customTimeInput.value; };
 
         var setupAuthLink = document.getElementById('setupAuthLink');
         if (setupAuthLink) {
@@ -3232,12 +3328,13 @@ window.addEventListener('error', function (ev) {
       // ---------- SECURE SUPABASE QUESTION FETCH & QUIZ INITIALIZATION ----------
       function startQuiz() {
         if (quizLoadInFlight) return;
-        var modules = getSubjectModules(state.subjectId);
+        var isCustom = state.moduleId === 'custom';
+        var modules = isCustom ? [] : getSubjectModules(state.subjectId);
         var modIndex = -1;
-        if (state.moduleId !== 'all') {
+        if (!isCustom && state.moduleId !== 'all') {
           modIndex = modules.findIndex(function (m) { return String(m.moduleId) === String(state.moduleId); });
         }
-        if (isModuleLocked(state.subjectId, state.moduleId, modIndex)) {
+        if (!isCustom && isModuleLocked(state.subjectId, state.moduleId, modIndex)) {
           var modObj = modules.find(function (m) { return String(m.moduleId) === String(state.moduleId); });
           openProModal(state.moduleId === 'all' ? 'all_topics' : 'locked_module', {
             subjectId: state.subjectId,
@@ -3262,7 +3359,7 @@ window.addEventListener('error', function (ev) {
 
         // Show loading screen while fetching from Supabase
         app.innerHTML =
-          topBar('Back to setup', function () { renderSetup(state.subjectId, state.moduleId || 'all'); }) +
+          topBar('Back to setup', function () { isCustom ? renderCustomSetup() : renderSetup(state.subjectId, state.moduleId || 'all'); }) +
           '<main id="mainContent" role="main">' +
           '<div class="loading-screen" style="position:relative;margin:80px auto;max-width:440px;">' +
           '<div class="loading-card glass" style="padding:36px 24px;text-align:center;">' +
@@ -3273,11 +3370,11 @@ window.addEventListener('error', function (ev) {
           '</div>' +
           '</div>' +
           '</main>';
-        wireTopBar(function () { renderSetup(state.subjectId, state.moduleId || 'all'); });
+        wireTopBar(function () { isCustom ? renderCustomSetup() : renderSetup(state.subjectId, state.moduleId || 'all'); });
 
         // Build Supabase Query
         var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation,image_url');
-        if (pool.moduleId === 'all') {
+        if (pool.moduleId === 'all' || pool.moduleId === 'custom') {
           query = query.in('module_id', pool.moduleDbIds);
         } else {
           query = query.eq('module_id', pool.moduleDbId);
@@ -3289,7 +3386,7 @@ window.addEventListener('error', function (ev) {
           var rows = res.data || [];
           if (rows.length === 0) {
             app.innerHTML =
-              topBar('Back to setup', function () { renderSetup(state.subjectId, state.moduleId || 'all'); }) +
+              topBar('Back to setup', function () { isCustom ? renderCustomSetup() : renderSetup(state.subjectId, state.moduleId || 'all'); }) +
               '<main id="mainContent" role="main">' +
               '<div style="max-width:500px;margin:60px auto;text-align:center;padding:28px;" class="glass">' +
               '<div style="font-size:24px;margin-bottom:8px;">⚠️</div>' +
@@ -3298,7 +3395,7 @@ window.addEventListener('error', function (ev) {
               '<button class="btn" id="retryFetchBtn" style="margin-top:10px;">Retry loading</button>' +
               '</div>' +
               '</main>';
-            wireTopBar(function () { renderSetup(state.subjectId, state.moduleId || 'all'); });
+            wireTopBar(function () { isCustom ? renderCustomSetup() : renderSetup(state.subjectId, state.moduleId || 'all'); });
             var retryBtn = document.getElementById('retryFetchBtn');
             if (retryBtn) retryBtn.onclick = function () { startQuiz(); };
             return;
@@ -3325,7 +3422,8 @@ window.addEventListener('error', function (ev) {
 
           var idxs = fetchedQuestions.map(function (q, i) { return i; });
           var picked = (setupChoice.orderMode === 'shuffled') ? shuffle(idxs) : idxs.slice();
-          if (setupChoice.count !== 'all') picked = picked.slice(0, setupChoice.count);
+          var selectedCount = resolveSetupCount(fetchedQuestions.length);
+          if (selectedCount !== 'all') picked = picked.slice(0, selectedCount);
 
           state = {
             screen: 'quiz', subjectId: state.subjectId, moduleId: state.moduleId, poolTitle: pool.title, questions: fetchedQuestions,
@@ -3350,6 +3448,8 @@ window.addEventListener('error', function (ev) {
           showToast('Failed to load questions: ' + (err.message || err), 'error');
           if (state.isPyqMode && state.pyqExam) {
             renderPYQSetup(state.pyqExam);
+          } else if (state.moduleId === 'custom') {
+            renderCustomSetup();
           } else {
             renderSetup(state.subjectId, state.moduleId || 'all');
           }
@@ -3442,7 +3542,7 @@ window.addEventListener('error', function (ev) {
 
         var timerHtml = state.timeLimit > 0 ? '<span class="timer-badge" id="timerBadge">--:--</span>' : '';
         var isLast = state.idx + 1 >= total;
-        var backFn = state.isPyqMode ? function () { renderPYQSetup(state.pyqExam); } : function () { renderModuleList(state.subjectId); };
+        var backFn = state.isPyqMode ? function () { renderPYQSetup(state.pyqExam); } : (state.moduleId === 'custom' ? function () { renderCustomSetup(); } : function () { renderModuleList(state.subjectId); });
 
         app.innerHTML =
           topBar('Back', backFn) +
@@ -3587,7 +3687,7 @@ window.addEventListener('error', function (ev) {
         }).join(''); };
         var reviewHtml = '';
 
-        var resBackFn = state.isPyqMode ? function () { renderPYQSetup(state.pyqExam); } : function () { renderModuleList(state.subjectId); };
+        var resBackFn = state.isPyqMode ? function () { renderPYQSetup(state.pyqExam); } : (state.moduleId === 'custom' ? function () { renderCustomSetup(); } : function () { renderModuleList(state.subjectId); });
 
         app.innerHTML =
           topBar('Back', resBackFn) +
@@ -3617,6 +3717,8 @@ window.addEventListener('error', function (ev) {
         document.getElementById('setupBtn').addEventListener('click', function () {
           if (state.isPyqMode) {
             renderPYQSetup(state.pyqExam);
+          } else if (state.moduleId === 'custom') {
+            renderCustomSetup();
           } else {
             var mid = state.progressKey.split(':')[1];
             renderSetup(state.subjectId, mid);
@@ -3648,6 +3750,12 @@ window.addEventListener('error', function (ev) {
 
       // Delegated click handler for note sign-in and reset-all buttons
       document.addEventListener('click', function (e) {
+        var customCard = e.target && e.target.closest ? e.target.closest('#customModuleCard') : null;
+        if (customCard) {
+          e.preventDefault();
+          renderCustomSetup();
+          return;
+        }
         var noteBtn = e.target && e.target.closest ? e.target.closest('#noteSignInBtn') : null;
         if (noteBtn) {
           e.preventDefault();
