@@ -171,7 +171,8 @@ html.theme-switching,html.theme-switching body,html.theme-switching #app,html.th
 }
 /* Keep the hero composition centered in both themes and at desktop widths. */
 .hero-wrap{text-align:center}
-.hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto;margin-right:auto}
+.hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
+.hero-wrap .bento-bar{width:100%;max-width:840px!important}
 @media (min-width:641px){
   html:not(.dark) h1.title{font-size:clamp(44px,7vw,76px);letter-spacing:-.065em}
   html:not(.dark) .subtitle{max-width:62ch;font-size:15px;line-height:1.7}
