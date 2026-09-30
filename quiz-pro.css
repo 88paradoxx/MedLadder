@@ -1065,3 +1065,13 @@ html:not(.dark) .screen-setup .pill-choice{color:#635578}
 html:not(.dark) .screen-setup .pill-choice:hover{background:rgba(109,40,217,.08);color:#27163f}
 html:not(.dark) .screen-setup .pill-choice.active{color:#fff;background:linear-gradient(135deg,#6d28d9,#be185d);box-shadow:0 4px 12px rgba(109,40,217,.22)}
 @media (max-width:600px){.screen-setup .pill-row{width:100%;overflow-x:auto;flex-wrap:nowrap;scrollbar-width:none;padding:4px}.screen-setup .pill-row::-webkit-scrollbar{display:none}.screen-setup .pill-choice{min-height:32px;padding:7px 11px;font-size:11.5px}}
+
+/* Electric blue quiz-control theme */
+.screen-setup .pill-choice.active{background:linear-gradient(135deg,#2563eb 0%,#0891b2 100%);border-color:rgba(125,211,252,.72);box-shadow:0 5px 14px rgba(14,165,233,.28),inset 0 1px 0 rgba(255,255,255,.28)}
+.screen-setup .pill-choice:hover{border-color:rgba(34,211,238,.5);background:rgba(14,165,233,.13)}
+.screen-setup .pill-choice:focus-visible{outline-color:#67e8f9}
+.screen-setup .type-card:hover{border-color:rgba(34,211,238,.62);box-shadow:0 10px 24px rgba(14,165,233,.16)}
+.screen-setup .type-card.active{border-color:#38bdf8;box-shadow:0 0 0 1px rgba(56,189,248,.48),0 12px 28px rgba(14,165,233,.18)}
+.screen-setup .btn.start{background:linear-gradient(135deg,#2563eb,#0891b2);box-shadow:0 10px 22px rgba(14,165,233,.25)}
+html:not(.dark) .screen-setup .pill-choice.active{background:linear-gradient(135deg,#2563eb,#0891b2);border-color:#38bdf8;box-shadow:0 5px 14px rgba(14,165,233,.22)}
+html:not(.dark) .screen-setup .pill-choice:hover{background:rgba(14,165,233,.1);border-color:rgba(8,145,178,.42)}
