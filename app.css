@@ -155,6 +155,13 @@ footer.credit{padding-top:44px}
 html.dark .subject-grid .item:nth-child(3n+2) .item-icon-box{background:#153743!important}
 html.dark .subject-grid .item:nth-child(3n) .item-icon-box{background:#40331c!important}
 html.theme-switching,html.theme-switching body,html.theme-switching #app,html.theme-switching *,html.theme-switching *::before,html.theme-switching *::after{transition:none!important;animation:none!important}
+@media (min-width:641px){
+  html:not(.dark) .masthead{top:6px;padding:11px 16px}
+  html:not(.dark) .hero-wrap{padding:54px 0 34px}
+  html:not(.dark) .bento-stat{padding:10px 12px}
+  html:not(.dark) .subject-grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+  html:not(.dark) .item{min-height:unset;padding:16px 18px}
+}
 .subject-grid .item:hover .subject-icon-img{filter:drop-shadow(0 5px 8px rgba(124,58,237,.3))}
 .btn-go-pro{box-shadow:0 5px 16px rgba(190,24,93,.2)}
 .btn-go-pro:hover{box-shadow:0 8px 22px rgba(190,24,93,.3)}
