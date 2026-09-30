@@ -1044,3 +1044,13 @@ footer.credit::before {
 .custom-module-copy{display:flex;flex-direction:column;gap:4px;min-width:0}.custom-module-copy strong{font-size:17px}.custom-module-copy span{font-size:13px;color:var(--ink-soft,#aaa4c5)}.custom-module-copy small{font-size:11px;color:#c084fc;font-weight:700;letter-spacing:.02em}.custom-module-arrow{margin-left:auto;font-size:30px;color:#c084fc}
 .custom-setup-control{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin-top:12px;color:var(--ink-soft,#aaa4c5);font-size:12px;font-weight:700}.custom-setup-control input{width:105px;padding:9px 11px;color:var(--ink,#f5f3ff);background:rgba(15,13,30,.7);border:1px solid rgba(192,132,252,.5);border-radius:10px;font:inherit}.custom-setup-control input:focus{outline:2px solid rgba(168,85,247,.45);outline-offset:1px}
 @media (max-width:600px){.custom-module-card{padding:15px 14px;gap:11px;border-radius:16px}.custom-module-icon{flex-basis:38px;width:38px;height:38px;font-size:20px}.custom-module-copy strong{font-size:15px}.custom-module-copy span{font-size:12px}.custom-module-copy small{font-size:10px}.custom-module-arrow{font-size:26px}}
+
+/* Sleek quiz setup controls */
+.screen-setup .pill-row{display:flex;flex-wrap:wrap;gap:9px;align-items:center}
+.screen-setup .pill-choice{position:relative;min-height:38px;padding:9px 15px;border:1px solid rgba(167,139,250,.28);border-radius:12px;background:linear-gradient(145deg,rgba(33,26,59,.88),rgba(24,20,46,.94));color:var(--ink-soft);font-size:12.5px;font-weight:750;letter-spacing:.01em;box-shadow:inset 0 1px 0 rgba(255,255,255,.07),0 4px 12px rgba(0,0,0,.12);transition:transform .18s ease,border-color .18s ease,background .18s ease,color .18s ease,box-shadow .18s ease}
+.screen-setup .pill-choice:hover{transform:translateY(-1px);border-color:rgba(216,180,254,.82);color:var(--ink);box-shadow:0 7px 18px rgba(124,58,237,.2),inset 0 1px 0 rgba(255,255,255,.1)}
+.screen-setup .pill-choice.active{border-color:transparent;background:linear-gradient(135deg,#7c3aed,#d946ef 58%,#ec4899);color:#fff;box-shadow:0 8px 20px rgba(168,85,247,.32),inset 0 1px 0 rgba(255,255,255,.22)}
+.screen-setup .pill-choice:focus-visible{outline:2px solid #f0abfc;outline-offset:2px}
+html:not(.dark) .screen-setup .pill-choice{background:linear-gradient(145deg,#fff,#f5efff);border-color:rgba(109,40,217,.24);color:#493b63;box-shadow:0 4px 12px rgba(76,29,149,.08)}
+html:not(.dark) .screen-setup .pill-choice.active{color:#fff;background:linear-gradient(135deg,#6d28d9,#be185d);border-color:transparent;box-shadow:0 8px 18px rgba(109,40,217,.25)}
+@media (max-width:600px){.screen-setup .pill-row{gap:7px}.screen-setup .pill-choice{min-height:36px;padding:8px 12px;font-size:12px;border-radius:11px}.custom-module-copy small{line-height:1.4}}

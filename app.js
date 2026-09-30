@@ -2497,7 +2497,7 @@ window.addEventListener('error', function (ev) {
             '<div class="subject-grid" id="subjectGrid">' + rows + '</div>' +
             '<div class="custom-module-card" id="customModuleCard" role="button" tabindex="0">' +
             '<span class="custom-module-icon">✦</span>' +
-            '<span class="custom-module-copy"><strong>Custom Module</strong><span>Build a mixed quiz from every subject and topic.</span><small>50 · 100 · 150 · Custom&nbsp;&nbsp; · &nbsp;Practice or timed · Shuffle</small></span>' +
+            '<span class="custom-module-copy"><strong>Custom Module</strong><span>Build a mixed quiz from every subject and topic.</span><small>50 · 100 · 150 · 200 · 300 · Custom&nbsp;&nbsp; · &nbsp;Practice or timed · Shuffle</small></span>' +
             '<span class="custom-module-arrow">›</span>' +
             '</div>' +
             '<div id="homeNoMatch" class="no-match-card hidden">No subjects match your search.</div>' +
@@ -3105,7 +3105,7 @@ window.addEventListener('error', function (ev) {
       }
 
       // ---------- SETUP ----------
-      var COUNT_OPTIONS = [10, 25, 50, 100, 150];
+      var COUNT_OPTIONS = [10, 25, 50, 100, 150, 200, 300];
       var TIME_OPTIONS = [
         { label: 'No limit', value: 0 }, { label: '10 min', value: 600 },
         { label: '20 min', value: 1200 }, { label: '30 min', value: 1800 }
