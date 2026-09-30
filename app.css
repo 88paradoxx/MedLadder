@@ -105,7 +105,9 @@ html.dark .item .cmeta{color:#aaa8b8}
 :root{--ui-max:1180px;--ui-grid:#e9e8f0;--ui-purple:#7c3aed;--ui-purple-2:#a855f7;--ui-ink:#1f1e29;--ui-muted:#777685;--ui-card:#fff;--ui-line:#e8e7ef}
 html:not(.dark) body{background:#f8f8fb}
 html:not(.dark) body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.45;background-image:linear-gradient(var(--ui-grid) 1px,transparent 1px),linear-gradient(90deg,var(--ui-grid) 1px,transparent 1px);background-size:48px 48px;mask-image:linear-gradient(to bottom,rgba(0,0,0,.26),transparent 62%);z-index:-1}
-html.dark body{background:#15151b}
+/* Keep the full viewport on the same canvas as the centered app. This avoids
+   dark side bands on wide screens while preserving the content max-width. */
+html.dark body{background:var(--canvas)}
 html.dark body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.12;background-image:linear-gradient(#817c92 1px,transparent 1px),linear-gradient(90deg,#817c92 1px,transparent 1px);background-size:48px 48px;mask-image:linear-gradient(to bottom,rgba(0,0,0,.3),transparent 60%);z-index:-1}
 .app{max-width:var(--ui-max);padding-left:28px;padding-right:28px}
 .masthead{max-width:var(--ui-max);margin-left:auto;margin-right:auto;padding:11px 16px;backdrop-filter:none;-webkit-backdrop-filter:none}
