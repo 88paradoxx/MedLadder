@@ -1084,3 +1084,15 @@ html:not(.dark) .screen-setup .pill-choice:hover{background:rgba(14,165,233,.1);
 html:not(.dark) .screen-setup .pill-row{background:#f8f7fb;border-color:#ddd7e8;box-shadow:0 2px 8px rgba(49,36,76,.06)}
 html:not(.dark) .screen-setup .pill-choice:hover{background:#eeeafa;border-color:#d7cfee}
 html:not(.dark) .screen-setup .pill-choice.active{background:#2563eb;border-color:#2563eb}
+
+/* Figma option-tile redesign for quiz setup */
+.screen-setup #countRow,.screen-setup #timeRow,.screen-setup #orderRow{width:100%;max-width:760px;display:grid;grid-template-columns:repeat(auto-fit,minmax(82px,1fr));gap:8px;padding:0;border:0;border-radius:0;background:transparent;box-shadow:none;overflow:visible}
+.screen-setup #timeRow{grid-template-columns:repeat(auto-fit,minmax(96px,1fr));max-width:570px}
+.screen-setup #orderRow{grid-template-columns:repeat(2,minmax(150px,1fr));max-width:430px}
+.screen-setup #countRow .pill-choice,.screen-setup #timeRow .pill-choice,.screen-setup #orderRow .pill-choice{min-height:46px;padding:10px 12px;border:1px solid rgba(167,139,250,.22);border-radius:12px;background:rgba(28,22,53,.78);color:var(--ink-soft);font-size:12px;font-weight:750;box-shadow:0 2px 7px rgba(0,0,0,.12);transition:transform .18s ease,border-color .18s ease,background .18s ease,box-shadow .18s ease}
+.screen-setup #countRow .pill-choice:hover,.screen-setup #timeRow .pill-choice:hover,.screen-setup #orderRow .pill-choice:hover{transform:translateY(-2px);border-color:rgba(103,232,249,.55);background:rgba(14,165,233,.12);box-shadow:0 7px 16px rgba(14,165,233,.12)}
+.screen-setup #countRow .pill-choice.active,.screen-setup #timeRow .pill-choice.active,.screen-setup #orderRow .pill-choice.active{border-color:#38bdf8;background:linear-gradient(145deg,#2563eb,#0891b2);color:#fff;box-shadow:0 8px 17px rgba(14,165,233,.25),inset 0 1px 0 rgba(255,255,255,.24)}
+html:not(.dark) .screen-setup #countRow .pill-choice,html:not(.dark) .screen-setup #timeRow .pill-choice,html:not(.dark) .screen-setup #orderRow .pill-choice{background:#fff;border-color:#ddd7e8;color:#5f5373;box-shadow:0 3px 10px rgba(49,36,76,.07)}
+html:not(.dark) .screen-setup #countRow .pill-choice:hover,html:not(.dark) .screen-setup #timeRow .pill-choice:hover,html:not(.dark) .screen-setup #orderRow .pill-choice:hover{background:#f1f8ff;border-color:#7dd3fc}
+html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .screen-setup #timeRow .pill-choice.active,html:not(.dark) .screen-setup #orderRow .pill-choice.active{background:linear-gradient(145deg,#2563eb,#0891b2);border-color:#38bdf8;color:#fff}
+@media (max-width:600px){.screen-setup #countRow{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.screen-setup #timeRow{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.screen-setup #orderRow{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.screen-setup #countRow .pill-choice,.screen-setup #timeRow .pill-choice,.screen-setup #orderRow .pill-choice{min-height:42px;padding:9px 6px;font-size:11px;border-radius:10px}}
