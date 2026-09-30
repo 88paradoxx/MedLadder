@@ -173,9 +173,17 @@ html.theme-switching,html.theme-switching body,html.theme-switching #app,html.th
 .hero-wrap{text-align:center}
 .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto;margin-right:auto}
 @media (min-width:641px){
+  html:not(.dark) h1.title{font-size:clamp(44px,7vw,76px);letter-spacing:-.065em}
+  html:not(.dark) .subtitle{max-width:62ch;font-size:15px;line-height:1.7}
+}
+@media (min-width:641px){
   .home-controls{margin-left:auto!important;margin-right:auto!important}
   .category-tabs{justify-content:center}
 }
+/* Shared navigation edge light: available on the first paint in both themes. */
+.masthead{position:relative;isolation:isolate;border-color:transparent!important;background-clip:padding-box!important}
+.masthead::before{content:"";position:absolute;inset:-1px;z-index:-1;border-radius:inherit;padding:1px;background:linear-gradient(110deg,#ef4444,#f59e0b,#22c55e,#06b6d4,#6366f1,#ec4899,#ef4444);background-size:220% 100%;opacity:.62;filter:blur(.2px);animation:rainbowEdge 10s linear infinite;-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+@keyframes rainbowEdge{to{background-position:220% 0}}
 .subject-grid .item:hover .subject-icon-img{filter:drop-shadow(0 5px 8px rgba(124,58,237,.3))}
 .btn-go-pro{box-shadow:0 5px 16px rgba(190,24,93,.2)}
 .btn-go-pro:hover{box-shadow:0 8px 22px rgba(190,24,93,.3)}
