@@ -3379,6 +3379,15 @@ window.addEventListener('error', function (ev) {
         } else {
           query = query.eq('module_id', pool.moduleDbId);
         }
+        // Avoid pulling the entire multi-subject bank into a mobile browser
+        // when a finite custom set was requested. A small oversample preserves
+        // variety before the client applies shuffle/order and the final count.
+        if (pool.moduleId === 'custom') {
+          var requestedCustomCount = resolveSetupCount(pool.questionCount);
+          if (requestedCustomCount !== 'all') {
+            query = query.limit(Math.min(1000, Math.max(requestedCustomCount, requestedCustomCount * 3)));
+          }
+        }
 
         query.order('id', { ascending: true }).then(function (res) {
           quizLoadInFlight = false;

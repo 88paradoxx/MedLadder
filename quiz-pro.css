@@ -1096,3 +1096,6 @@ html:not(.dark) .screen-setup #countRow .pill-choice,html:not(.dark) .screen-set
 html:not(.dark) .screen-setup #countRow .pill-choice:hover,html:not(.dark) .screen-setup #timeRow .pill-choice:hover,html:not(.dark) .screen-setup #orderRow .pill-choice:hover{background:#f1f8ff;border-color:#7dd3fc}
 html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .screen-setup #timeRow .pill-choice.active,html:not(.dark) .screen-setup #orderRow .pill-choice.active{background:linear-gradient(145deg,#2563eb,#0891b2);border-color:#38bdf8;color:#fff}
 @media (max-width:600px){.screen-setup #countRow{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.screen-setup #timeRow{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.screen-setup #orderRow{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.screen-setup #countRow .pill-choice,.screen-setup #timeRow .pill-choice,.screen-setup #orderRow .pill-choice{min-height:42px;padding:9px 6px;font-size:11px;border-radius:10px}}
+
+/* Defer off-screen card painting on long mobile home pages. */
+.subject-grid .item,.pyq-exam-card{content-visibility:auto;contain-intrinsic-size:96px 110px}
