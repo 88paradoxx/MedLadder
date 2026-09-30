@@ -11,12 +11,10 @@ window.addEventListener('error', function (ev) {
     (function () {
       "use strict";
 
-      // Ensure non-blocking stylesheets are active
+      // Keep optional web fonts non-blocking; app stylesheets load before paint.
       try {
         var gf = document.getElementById('gfonts-css');
         if (gf && gf.media !== 'all') { gf.media = 'all'; }
-        var fa = document.getElementById('full-app-css');
-        if (fa && fa.media !== 'all') { fa.media = 'all'; }
       } catch (e) {}
 
       // ─── GA4 TELEMETRY & ATTRIBUTION ──────────────────────────────────────────
