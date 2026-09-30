@@ -119,6 +119,8 @@ window.addEventListener('error', function (ev) {
         answers: {}, quizType: 'practice', timeLimit: 0, remaining: 0, timerId: null, progressKey: null,
         isPyqMode: false, pyqExam: null, pyqYear: null
       };
+      var quizLoadInFlight = false;
+      var progressSaveTimer = null;
 
       // ---------- SUPABASE AUTHENTICATION & DATA CLIENT ----------
       var SUPABASE_URL = 'https://groeibwykzrliphzzruk.supabase.co';
@@ -1374,12 +1376,15 @@ window.addEventListener('error', function (ev) {
 
         var totalDone = 0;
         var totalCorrect = 0;
+        var attemptedTopics = 0;
         Object.keys(progress).forEach(function (k) {
           if (progress[k] && progress[k].done) {
+            attemptedTopics += 1;
             totalDone += progress[k].done;
             totalCorrect += progress[k].correct;
           }
         });
+        var accuracyPct = totalDone > 0 ? Math.round((totalCorrect / totalDone) * 100) : 0;
 
         var planSectionHtml = isPro
           ? '<div class="dropdown-stat-row"><span class="dropdown-stat-label">Membership</span><span class="dropdown-stat-val" style="color:#FFB23D;font-weight:800;">⭐ Pro Active</span></div>'
@@ -1403,14 +1408,13 @@ window.addEventListener('error', function (ev) {
           '<div class="dropdown-divider"></div>' +
           planSectionHtml +
           '<div class="dropdown-divider"></div>' +
-          '<div class="dropdown-stat-row">' +
-          '<span class="dropdown-stat-label">MCQs Completed</span>' +
-          '<span class="dropdown-stat-val">' + totalDone.toLocaleString() + '</span>' +
+          '<div class="dashboard-kicker"><span>YOUR STUDY SNAPSHOT</span><span class="dashboard-live-dot"></span></div>' +
+          '<div class="dashboard-stat-grid">' +
+          '<div class="dashboard-stat-card"><span class="dashboard-stat-icon purple">✓</span><span class="dashboard-stat-value">' + totalDone.toLocaleString() + '</span><span class="dashboard-stat-label">MCQs done</span></div>' +
+          '<div class="dashboard-stat-card"><span class="dashboard-stat-icon cyan">' + accuracyPct + '%</span><span class="dashboard-stat-value">' + (totalDone > 0 ? accuracyPct + '%' : '—') + '</span><span class="dashboard-stat-label">accuracy</span></div>' +
+          '<div class="dashboard-stat-card"><span class="dashboard-stat-icon amber">▦</span><span class="dashboard-stat-value">' + attemptedTopics.toLocaleString() + '</span><span class="dashboard-stat-label">topics started</span></div>' +
           '</div>' +
-          '<div class="dropdown-stat-row">' +
-          '<span class="dropdown-stat-label">Accuracy</span>' +
-          '<span class="dropdown-stat-val">' + (totalDone > 0 ? Math.round((totalCorrect / totalDone) * 100) + '%' : '—') + '</span>' +
-          '</div>' +
+          '<div class="dashboard-progress-note"><span class="dashboard-progress-dot"></span><span>' + (totalDone > 0 ? 'Keep building momentum across your started topics.' : 'Start a topic to begin tracking your progress here.') + '</span></div>' +
           '<div class="dropdown-divider"></div>' +
           '<button class="dropdown-action-btn" id="authSignOutBtn">' +
           '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>' +
@@ -2757,6 +2761,7 @@ window.addEventListener('error', function (ev) {
 
       // ---------- PYQ QUIZ LAUNCH ----------
       async function startPYQQuiz(examId) {
+        if (quizLoadInFlight) return;
         // If server Pro check is in-flight, wait for it before showing paywall
         if (_proStatusPromise) {
           try { await _proStatusPromise; } catch (e) { }
@@ -2773,6 +2778,7 @@ window.addEventListener('error', function (ev) {
           return;
         }
         if (!isUserPro(currentUser)) { openProModal('pyq_bank', { examId: examId }); return; }
+        quizLoadInFlight = true;
 
         var exam = PYQ_EXAMS.find(function (e) { return e.id === examId; }) || { id: examId, icon: '📝', name: examId, label: examId };
         var selectedYear = setupChoice.pyqYear || 'All Years';
@@ -2794,7 +2800,7 @@ window.addEventListener('error', function (ev) {
         wireTopBar(function () { renderPYQSetup(examId); });
 
         // Query Supabase: filter by is_pyq = true AND pyq_exam = examId
-        var query = supabaseClient.from('questions').select('*')
+        var query = supabaseClient.from('questions').select('id,question_num,q_num,question,question_text,option_a,option_b,option_c,option_d,option_e,correct_answer,answer,explanation,subject,pyq_year,year,image_url,image')
           .eq('is_pyq', true)
           .eq('pyq_exam', examId);
 
@@ -2803,6 +2809,7 @@ window.addEventListener('error', function (ev) {
         }
 
         query.order('id', { ascending: true }).then(function (res) {
+          quizLoadInFlight = false;
           if (res.error) console.warn('Supabase query error:', res.error);
           var rows = (res && res.data) ? res.data : [];
 
@@ -2871,6 +2878,7 @@ window.addEventListener('error', function (ev) {
           if (state.timeLimit > 0) startOverallTimer();
 
         }).catch(function (err) {
+          quizLoadInFlight = false;
           console.error('PYQ fetch error:', err);
           showToast('Failed to load PYQ questions: ' + (err.message || err), 'error');
           renderPYQSetup(examId);
@@ -3223,6 +3231,7 @@ window.addEventListener('error', function (ev) {
 
       // ---------- SECURE SUPABASE QUESTION FETCH & QUIZ INITIALIZATION ----------
       function startQuiz() {
+        if (quizLoadInFlight) return;
         var modules = getSubjectModules(state.subjectId);
         var modIndex = -1;
         if (state.moduleId !== 'all') {
@@ -3249,6 +3258,7 @@ window.addEventListener('error', function (ev) {
         }
 
         var pool = setupChoice.pool;
+        quizLoadInFlight = true;
 
         // Show loading screen while fetching from Supabase
         app.innerHTML =
@@ -3266,7 +3276,7 @@ window.addEventListener('error', function (ev) {
         wireTopBar(function () { renderSetup(state.subjectId, state.moduleId || 'all'); });
 
         // Build Supabase Query
-        var query = supabaseClient.from('questions').select('*');
+        var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation,image_url,image');
         if (pool.moduleId === 'all') {
           query = query.in('module_id', pool.moduleDbIds);
         } else {
@@ -3274,6 +3284,7 @@ window.addEventListener('error', function (ev) {
         }
 
         query.order('id', { ascending: true }).then(function (res) {
+          quizLoadInFlight = false;
           if (res.error) throw res.error;
           var rows = res.data || [];
           if (rows.length === 0) {
@@ -3334,6 +3345,7 @@ window.addEventListener('error', function (ev) {
           if (state.timeLimit > 0) startOverallTimer();
 
         }).catch(function (err) {
+          quizLoadInFlight = false;
           console.error('Fetch questions error:', err);
           showToast('Failed to load questions: ' + (err.message || err), 'error');
           if (state.isPyqMode && state.pyqExam) {
@@ -3513,8 +3525,14 @@ window.addEventListener('error', function (ev) {
         // Update local map
         progress[state.progressKey] = { done: answered, correct: correct, total: total };
         persistProgress();
-        // Persist to Supabase (fire-and-forget)
-        saveModuleProgressToDB(state.progressKey, answered, correct, total);
+        // Persist to Supabase after a short quiet period so rapid mobile taps do
+        // not create a burst of overlapping writes.
+        if (progressSaveTimer) clearTimeout(progressSaveTimer);
+        var saveKey = state.progressKey;
+        progressSaveTimer = setTimeout(function () {
+          progressSaveTimer = null;
+          saveModuleProgressToDB(saveKey, answered, correct, total);
+        }, 350);
       }
 
       // ---------- RESULTS ----------
@@ -3544,7 +3562,11 @@ window.addEventListener('error', function (ev) {
           is_pyq: !!state.isPyqMode
         });
 
-        var reviewHtml = state.order.map(function (oi, idx) {
+        // Build the review only when the user asks for it. Large modules can
+        // contain hundreds of explanations and images; doing this during the
+        // results render can block the mobile main thread.
+        var buildReviewHtml = function (start, end) { return state.order.slice(start, end).map(function (oi, offset) {
+          var idx = start + offset;
           var q = state.questions[oi];
           var a = state.answers[q.num];
           var letters = ['A', 'B', 'C', 'D', 'E'];
@@ -3562,7 +3584,8 @@ window.addEventListener('error', function (ev) {
             optsHtml + skipTag +
             '<div class="rexplain">' + (q.explanation ? formatExplanation(q.explanation) : 'No explanation captured.') + '</div>' +
             '</div>';
-        }).join('');
+        }).join(''); };
+        var reviewHtml = '';
 
         var resBackFn = state.isPyqMode ? function () { renderPYQSetup(state.pyqExam); } : function () { renderModuleList(state.subjectId); };
 
@@ -3580,7 +3603,7 @@ window.addEventListener('error', function (ev) {
           '<button class="btn secondary" id="setupBtn">' + (state.isPyqMode ? 'Change PYQ Setup' : 'Change setup') + '</button>' +
           '</div>' +
           '<button class="review-toggle" id="reviewToggle">Show full review ▾</button>' +
-          '<div id="reviewBlock" class="hidden">' + reviewHtml + '</div>' +
+          '<div id="reviewBlock" class="hidden" data-loaded="false">' + reviewHtml + '</div>' +
           '</main>' +
           footerHtml();
 
@@ -3601,6 +3624,17 @@ window.addEventListener('error', function (ev) {
         });
         document.getElementById('reviewToggle').addEventListener('click', function () {
           var block = document.getElementById('reviewBlock');
+          if (block && block.getAttribute('data-loaded') !== 'true') {
+            block.innerHTML = '<div class="review-loading">Loading review…</div>';
+            block.setAttribute('data-loaded', 'true');
+            var toggle = this;
+            setTimeout(function () {
+              block.innerHTML = buildReviewHtml(0, state.order.length);
+              block.classList.remove('hidden');
+              toggle.textContent = 'Hide review ▴';
+            }, 0);
+            return;
+          }
           block.classList.toggle('hidden');
           this.textContent = block.classList.contains('hidden') ? 'Show full review ▾' : 'Hide review ▴';
         });

@@ -1018,6 +1018,12 @@
         "name": "Drugs for Glaucoma"
       },
       {
+        "id": 740,
+        "key": "m51",
+        "section": "Autonomic Nervous System",
+        "name": "Parasympathomimetics & Cholinergic Agonists"
+      },
+      {
         "id": 225,
         "key": "m4",
         "section": "Cardiovascular System",

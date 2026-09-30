@@ -27,6 +27,15 @@ const server = http.createServer((req, res) => {
   let safePath = path.normalize(urlPath).replace(/^(\.\.[\\/])+/, '');
   if (safePath === '/' || safePath === '\\') safePath = '/index.html';
 
+  // Mirror production clean URLs for standalone documents while running locally.
+  const cleanRouteFiles = {
+    '/privacy': '/privacy.html',
+    '/terms': '/terms.html',
+    '/landing': '/landing.html'
+  };
+  const cleanRouteKey = safePath.replace(/\\/g, '/');
+  if (cleanRouteFiles[cleanRouteKey]) safePath = cleanRouteFiles[cleanRouteKey];
+
   let filePath = path.join(ROOT, safePath);
 
   fs.stat(filePath, (err, stats) => {
@@ -89,4 +98,3 @@ server.listen(PORT, '0.0.0.0', () => {
   }
   console.log(`\nPress Ctrl+C to stop.\n`);
 });
-

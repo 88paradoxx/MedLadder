@@ -6,6 +6,10 @@ const SUPABASE_URL = 'https://groeibwykzrliphzzruk.supabase.co';
 const SUPABASE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
 if (!SUPABASE_KEY) throw new Error('Set SUPABASE_SERVICE_ROLE_KEY in the environment before running classification.');
 const APPLY_CHANGES = process.argv.includes('--apply');
+const SUBJECT_FILTER = (() => {
+  const i = process.argv.indexOf('--subject');
+  return i >= 0 ? String(process.argv[i + 1] || '').trim().toLowerCase() : '';
+})();
 
 // Master Medical Taxonomy Builder based on standard Medical Curriculum
 function extractKeywords(name, section) {
@@ -27,6 +31,7 @@ async function runSubjectClassification() {
   const allUpdates = [];
 
   for (const [subjName, subjData] of Object.entries(structure)) {
+    if (SUBJECT_FILTER && subjName.toLowerCase() !== SUBJECT_FILTER) continue;
     console.log(`\n======================================================`);
     console.log(`Processing Subject: ${subjName} (${subjData.modules.length} modules)`);
     console.log(`======================================================`);

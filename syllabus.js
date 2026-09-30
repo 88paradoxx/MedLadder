@@ -17,7 +17,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m1",
         "name": "Pre-Embryonic Phase of Development",
         "section": "Embryology",
-        "questionCount": 85
+        "questionCount": 82
       },
       {
         "id": 3,
@@ -38,7 +38,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m4",
         "name": "Pharyngeal Arches, Skeletal & Muscular Systems",
         "section": "Embryology",
-        "questionCount": 32
+        "questionCount": 29
       },
       {
         "id": 6,
@@ -52,14 +52,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m6",
         "name": "Alimentary, Hepatobiliary Systems, Pancreas and Spleen",
         "section": "Embryology",
-        "questionCount": 13
+        "questionCount": 11
       },
       {
         "id": 8,
         "moduleId": "m7",
         "name": "Face, Nose & Palate, Eye, Ear",
         "section": "Embryology",
-        "questionCount": 20
+        "questionCount": 18
       },
       {
         "id": 9,
@@ -73,14 +73,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m9",
         "name": "Cell Structure, Epithelia, Glands & Connective Tissue",
         "section": "Histology",
-        "questionCount": 169
+        "questionCount": 153
       },
       {
         "id": 11,
         "moduleId": "m10",
         "name": "Bone, Cartilage & Muscular Tissue",
         "section": "Histology",
-        "questionCount": 35
+        "questionCount": 27
       },
       {
         "id": 12,
@@ -101,21 +101,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m13",
         "name": "Cranial Nerves",
         "section": "Neuroanatomy",
-        "questionCount": 24
+        "questionCount": 28
       },
       {
         "id": 15,
         "moduleId": "m14",
         "name": "Meninges and Dural Venous Sinuses",
         "section": "Neuroanatomy",
-        "questionCount": 9
+        "questionCount": 12
       },
       {
         "id": 16,
         "moduleId": "m15",
         "name": "Ventricular System and Subarachnoid Space",
         "section": "Neuroanatomy",
-        "questionCount": 10
+        "questionCount": 11
       },
       {
         "id": 17,
@@ -143,21 +143,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m19",
         "name": "Diencephalon",
         "section": "Neuroanatomy",
-        "questionCount": 14
+        "questionCount": 16
       },
       {
         "id": 21,
         "moduleId": "m20",
         "name": "Brainstem",
         "section": "Neuroanatomy",
-        "questionCount": 16
+        "questionCount": 20
       },
       {
         "id": 22,
         "moduleId": "m21",
         "name": "Cerebellum",
         "section": "Neuroanatomy",
-        "questionCount": 27
+        "questionCount": 25
       },
       {
         "id": 23,
@@ -171,28 +171,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m23",
         "name": "Spinal Cord",
         "section": "Neuroanatomy",
-        "questionCount": 41
+        "questionCount": 36
       },
       {
         "id": 25,
         "moduleId": "m24",
         "name": "Osteology, Scalp and Face",
         "section": "Head and Neck",
-        "questionCount": 11
+        "questionCount": 10
       },
       {
         "id": 26,
         "moduleId": "m25",
         "name": "Deep Fascia and Triangles of the Neck",
         "section": "Head and Neck",
-        "questionCount": 16
+        "questionCount": 14
       },
       {
         "id": 27,
         "moduleId": "m26",
         "name": "Muscles, Neurovascular Anatomy of Head & Neck",
         "section": "Head and Neck",
-        "questionCount": 254
+        "questionCount": 216
       },
       {
         "id": 28,
@@ -213,35 +213,35 @@ window.SYLLABUS_DATA = [
         "moduleId": "m29",
         "name": "Pharynx",
         "section": "Head and Neck",
-        "questionCount": 38
+        "questionCount": 33
       },
       {
         "id": 31,
         "moduleId": "m30",
         "name": "Upper Limb Bones and Joints",
         "section": "Upper Limb",
-        "questionCount": 60
+        "questionCount": 65
       },
       {
         "id": 32,
         "moduleId": "m31",
         "name": "Fossae and Spaces of the Upper Limb",
         "section": "Upper Limb",
-        "questionCount": 8
+        "questionCount": 6
       },
       {
         "id": 33,
         "moduleId": "m32",
         "name": "Brachial Plexus and Nerves",
         "section": "Upper Limb",
-        "questionCount": 18
+        "questionCount": 25
       },
       {
         "id": 34,
         "moduleId": "m33",
         "name": "Muscles - Upper Limb",
         "section": "Upper Limb",
-        "questionCount": 43
+        "questionCount": 30
       },
       {
         "id": 35,
@@ -255,140 +255,140 @@ window.SYLLABUS_DATA = [
         "moduleId": "m35",
         "name": "General Anatomy of Thorax",
         "section": "Thorax",
-        "questionCount": 61
+        "questionCount": 45
       },
       {
         "id": 37,
         "moduleId": "m36",
         "name": "Thoracic Wall",
         "section": "Thorax",
-        "questionCount": 21
+        "questionCount": 30
       },
       {
         "id": 38,
         "moduleId": "m37",
         "name": "Mediastinum",
         "section": "Thorax",
-        "questionCount": 20
+        "questionCount": 23
       },
       {
         "id": 39,
         "moduleId": "m38",
         "name": "Heart",
         "section": "Thorax",
-        "questionCount": 85
+        "questionCount": 81
       },
       {
         "id": 40,
         "moduleId": "m39",
         "name": "Lungs and Pleura",
         "section": "Thorax",
-        "questionCount": 3
+        "questionCount": 27
       },
       {
         "id": 41,
         "moduleId": "m40",
         "name": "Anterior Abdominal Wall",
         "section": "Abdomen and Pelvis",
-        "questionCount": 95
+        "questionCount": 78
       },
       {
         "id": 42,
         "moduleId": "m41",
         "name": "Abdominal Cavity and Peritoneum",
         "section": "Abdomen and Pelvis",
-        "questionCount": 14
+        "questionCount": 16
       },
       {
         "id": 43,
         "moduleId": "m42",
         "name": "GI Tract",
         "section": "Abdomen and Pelvis",
-        "questionCount": 6
+        "questionCount": 22
       },
       {
         "id": 44,
         "moduleId": "m43",
         "name": "Hepatobiliary System, Spleen & Pancreas",
         "section": "Abdomen and Pelvis",
-        "questionCount": 15
+        "questionCount": 16
       },
       {
         "id": 45,
         "moduleId": "m44",
         "name": "KUB & Adrenal Gland",
         "section": "Abdomen and Pelvis",
-        "questionCount": 16
+        "questionCount": 29
       },
       {
         "id": 46,
         "moduleId": "m45",
         "name": "Internal and External Genitalia",
         "section": "Abdomen and Pelvis",
-        "questionCount": 33
+        "questionCount": 31
       },
       {
         "id": 47,
         "moduleId": "m46",
         "name": "Pelvis & Perineum",
         "section": "Abdomen and Pelvis",
-        "questionCount": 25
+        "questionCount": 29
       },
       {
         "id": 48,
         "moduleId": "m47",
         "name": "Bones of the Lower Limb",
         "section": "Lower Limb",
-        "questionCount": 41
+        "questionCount": 49
       },
       {
         "id": 49,
         "moduleId": "m48",
         "name": "Joints of the Lower Limb",
         "section": "Lower Limb",
-        "questionCount": 4
+        "questionCount": 3
       },
       {
         "id": 50,
         "moduleId": "m49",
         "name": "Muscles of the Lower Limb",
         "section": "Lower Limb",
-        "questionCount": 36
+        "questionCount": 32
       },
       {
         "id": 51,
         "moduleId": "m50",
         "name": "Nerves & Vessels of Lower Limb",
         "section": "Lower Limb",
-        "questionCount": 17
+        "questionCount": 16
       },
       {
         "id": 52,
         "moduleId": "m51",
         "name": "Important Structures of Lower Limb",
         "section": "Lower Limb",
-        "questionCount": 25
+        "questionCount": 23
       },
       {
         "id": 53,
         "moduleId": "m52",
         "name": "Vertebral Column",
         "section": "Lower Limb",
-        "questionCount": 30
+        "questionCount": 31
       },
       {
         "id": 54,
         "moduleId": "m53",
         "name": "Bones, Joints and Cartilage",
         "section": "General Anatomy",
-        "questionCount": 26
+        "questionCount": 48
       },
       {
         "id": 55,
         "moduleId": "m54",
         "name": "Muscles and Tendons",
         "section": "General Anatomy",
-        "questionCount": 12
+        "questionCount": 28
       },
       {
         "id": 56,
@@ -402,7 +402,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m56",
         "name": "Skin, Connective Tissue and Ligaments",
         "section": "General Anatomy",
-        "questionCount": 15
+        "questionCount": 19
       },
       {
         "id": 58,
@@ -424,49 +424,49 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Homeostasis and Cellular Physiology",
         "section": "General Physiology",
-        "questionCount": 67
+        "questionCount": 62
       },
       {
         "id": 60,
         "moduleId": "m1",
         "name": "Cellular Messengers & Receptors",
         "section": "General Physiology",
-        "questionCount": 27
+        "questionCount": 32
       },
       {
         "id": 61,
         "moduleId": "m2",
         "name": "Transport Across Cell Membrane",
         "section": "General Physiology",
-        "questionCount": 88
+        "questionCount": 80
       },
       {
         "id": 62,
         "moduleId": "m3",
         "name": "Membrane Potentials",
         "section": "General Physiology",
-        "questionCount": 22
+        "questionCount": 38
       },
       {
         "id": 63,
         "moduleId": "m4",
         "name": "Body Fluids",
         "section": "General Physiology",
-        "questionCount": 56
+        "questionCount": 57
       },
       {
         "id": 64,
         "moduleId": "m5",
         "name": "Physiology of Nerve",
         "section": "Nerve Muscle Physiology",
-        "questionCount": 48
+        "questionCount": 45
       },
       {
         "id": 65,
         "moduleId": "m6",
         "name": "Muscle Physiology I",
         "section": "Nerve Muscle Physiology",
-        "questionCount": 70
+        "questionCount": 68
       },
       {
         "id": 66,
@@ -480,14 +480,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m8",
         "name": "Neurotransmitters",
         "section": "Central Nervous System",
-        "questionCount": 14
+        "questionCount": 20
       },
       {
         "id": 68,
         "moduleId": "m9",
         "name": "Sensory Receptors",
         "section": "Central Nervous System",
-        "questionCount": 37
+        "questionCount": 35
       },
       {
         "id": 69,
@@ -501,14 +501,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m11",
         "name": "Special Senses",
         "section": "Central Nervous System",
-        "questionCount": 21
+        "questionCount": 23
       },
       {
         "id": 71,
         "moduleId": "m12",
         "name": "Motor Physiology - 1",
         "section": "Central Nervous System",
-        "questionCount": 52
+        "questionCount": 51
       },
       {
         "id": 72,
@@ -522,14 +522,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m14",
         "name": "Hypothalamus and Limbic System",
         "section": "Central Nervous System",
-        "questionCount": 38
+        "questionCount": 32
       },
       {
         "id": 74,
         "moduleId": "m15",
         "name": "Higher Mental Functions",
         "section": "Central Nervous System",
-        "questionCount": 18
+        "questionCount": 20
       },
       {
         "id": 75,
@@ -543,7 +543,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Lung Mechanics",
         "section": "The Respiratory System",
-        "questionCount": 9
+        "questionCount": 12
       },
       {
         "id": 77,
@@ -557,28 +557,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m19",
         "name": "Gas Transport in Blood",
         "section": "The Respiratory System",
-        "questionCount": 49
+        "questionCount": 50
       },
       {
         "id": 79,
         "moduleId": "m20",
         "name": "Lung Volumes and Lung Function Tests",
         "section": "The Respiratory System",
-        "questionCount": 71
+        "questionCount": 69
       },
       {
         "id": 80,
         "moduleId": "m21",
         "name": "Respiratory Adaptations in Hypoxia, Anemia and with Pressure Changes",
         "section": "The Respiratory System",
-        "questionCount": 71
+        "questionCount": 72
       },
       {
         "id": 81,
         "moduleId": "m22",
         "name": "Regulation of Respiration",
         "section": "The Respiratory System",
-        "questionCount": 7
+        "questionCount": 6
       },
       {
         "id": 82,
@@ -592,7 +592,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m24",
         "name": "Cardiac Cycle and Cardiac Output",
         "section": "The Cardiovascular System",
-        "questionCount": 73
+        "questionCount": 70
       },
       {
         "id": 84,
@@ -606,14 +606,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m26",
         "name": "Blood Pressure and Regulation",
         "section": "The Cardiovascular System",
-        "questionCount": 89
+        "questionCount": 88
       },
       {
         "id": 86,
         "moduleId": "m27",
         "name": "Gastrointestinal Secretion and Gastrointestinal Hormones",
         "section": "The Gastrointestinal Tract",
-        "questionCount": 53
+        "questionCount": 51
       },
       {
         "id": 87,
@@ -634,7 +634,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m30",
         "name": "Glomerular Filtration Rate, Renal Blood Flow, and Renal Clearance",
         "section": "Renal Physiology",
-        "questionCount": 78
+        "questionCount": 75
       },
       {
         "id": 90,
@@ -648,21 +648,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m32",
         "name": "Acid-Base Balance, Renal Hormones and Micturition Reflex",
         "section": "Renal Physiology",
-        "questionCount": 63
+        "questionCount": 61
       },
       {
         "id": 92,
         "moduleId": "m33",
         "name": "Pituitary and Thyroid",
         "section": "Endocrine Physiology",
-        "questionCount": 113
+        "questionCount": 110
       },
       {
         "id": 93,
         "moduleId": "m34",
         "name": "The Pancreas",
         "section": "Endocrine Physiology",
-        "questionCount": 4
+        "questionCount": 9
       },
       {
         "id": 94,
@@ -676,14 +676,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m36",
         "name": "Male Reproductive Physiology",
         "section": "Reproductive Physiology",
-        "questionCount": 33
+        "questionCount": 35
       },
       {
         "id": 96,
         "moduleId": "m37",
         "name": "Female Reproductive Physiology",
         "section": "Reproductive Physiology",
-        "questionCount": 9
+        "questionCount": 11
       },
       {
         "id": 97,
@@ -697,7 +697,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m39",
         "name": "Mixed / Miscellaneous Topics",
         "section": "Exercise Physiology",
-        "questionCount": 139
+        "questionCount": 137
       }
     ]
   },
@@ -712,7 +712,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Chemistry of Carbohydrates, Amino Sugars and Mucopolysaccharides",
         "section": "Carbohydrates",
-        "questionCount": 24
+        "questionCount": 23
       },
       {
         "id": 100,
@@ -726,49 +726,49 @@ window.SYLLABUS_DATA = [
         "moduleId": "m2",
         "name": "Glycogen Metabolism and Glycogen Storage Disorders",
         "section": "Carbohydrates",
-        "questionCount": 140
+        "questionCount": 134
       },
       {
         "id": 102,
         "moduleId": "m3",
         "name": "HMP Shunt Pathway, Fructose, Galactose Metabolism",
         "section": "Carbohydrates",
-        "questionCount": 58
+        "questionCount": 57
       },
       {
         "id": 103,
         "moduleId": "m4",
         "name": "Krebs Cycle",
         "section": "Carbohydrates",
-        "questionCount": 12
+        "questionCount": 11
       },
       {
         "id": 104,
         "moduleId": "m5",
         "name": "Amino Acids: Basics",
         "section": "Amino Acids and Proteins",
-        "questionCount": 40
+        "questionCount": 52
       },
       {
         "id": 105,
         "moduleId": "m6",
         "name": "Amino Acid: Metabolism",
         "section": "Amino Acids and Proteins",
-        "questionCount": 38
+        "questionCount": 32
       },
       {
         "id": 106,
         "moduleId": "m7",
         "name": "Amino Acid: Metabolic Disorder",
         "section": "Amino Acids and Proteins",
-        "questionCount": 77
+        "questionCount": 75
       },
       {
         "id": 107,
         "moduleId": "m8",
         "name": "Protein Structure and Function",
         "section": "Amino Acids and Proteins",
-        "questionCount": 276
+        "questionCount": 269
       },
       {
         "id": 108,
@@ -789,14 +789,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m11",
         "name": "Fatty Acid Oxidation and Ketogenesis",
         "section": "Lipids",
-        "questionCount": 71
+        "questionCount": 69
       },
       {
         "id": 111,
         "moduleId": "m12",
         "name": "Biosynthesis of Fatty Acids and Eicosanoids",
         "section": "Lipids",
-        "questionCount": 8
+        "questionCount": 6
       },
       {
         "id": 112,
@@ -810,7 +810,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m14",
         "name": "Cholesterol Synthesis, Transport and Excretion",
         "section": "Lipids",
-        "questionCount": 88
+        "questionCount": 86
       },
       {
         "id": 114,
@@ -824,42 +824,42 @@ window.SYLLABUS_DATA = [
         "moduleId": "m16",
         "name": "Enzymes - Mechanism of Action & Clinical Importance",
         "section": "Enzymes and Porphyrins",
-        "questionCount": 169
+        "questionCount": 159
       },
       {
         "id": 116,
         "moduleId": "m17",
         "name": "Enzyme Kinetics and Regulation of Activity",
         "section": "Enzymes and Porphyrins",
-        "questionCount": 96
+        "questionCount": 92
       },
       {
         "id": 117,
         "moduleId": "m18",
         "name": "Fat Soluble Vitamins",
         "section": "Clinical Biochemistry & Nutrition",
-        "questionCount": 73
+        "questionCount": 72
       },
       {
         "id": 118,
         "moduleId": "m19",
         "name": "Energy Releasing Vitamins",
         "section": "Clinical Biochemistry & Nutrition",
-        "questionCount": 26
+        "questionCount": 43
       },
       {
         "id": 119,
         "moduleId": "m20",
         "name": "Antioxidants & Minerals",
         "section": "Clinical Biochemistry & Nutrition",
-        "questionCount": 27
+        "questionCount": 31
       },
       {
         "id": 120,
         "moduleId": "m21",
         "name": "Basics of Genetics - Nucleotide Metabolism and its Disorders",
         "section": "Genetics",
-        "questionCount": 21
+        "questionCount": 33
       },
       {
         "id": 121,
@@ -909,21 +909,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Cellular Adaptations and Injury",
         "section": "General Pathology",
-        "questionCount": 41
+        "questionCount": 42
       },
       {
         "id": 127,
         "moduleId": "m1",
         "name": "Cell Death",
         "section": "General Pathology",
-        "questionCount": 84
+        "questionCount": 86
       },
       {
         "id": 128,
         "moduleId": "m2",
         "name": "Intracellular Accumulations, Pathological Calcification and Cellular Ageing",
         "section": "General Pathology",
-        "questionCount": 122
+        "questionCount": 121
       },
       {
         "id": 129,
@@ -951,21 +951,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m6",
         "name": "Disorders of Hemodynamics and Hemostasis",
         "section": "General Pathology",
-        "questionCount": 7
+        "questionCount": 8
       },
       {
         "id": 133,
         "moduleId": "m7",
         "name": "Modes of Inheritance",
         "section": "General Pathology",
-        "questionCount": 17
+        "questionCount": 19
       },
       {
         "id": 134,
         "moduleId": "m8",
         "name": "Lysosomal and Glycogen Storage Diseases",
         "section": "General Pathology",
-        "questionCount": 60
+        "questionCount": 57
       },
       {
         "id": 135,
@@ -979,7 +979,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m10",
         "name": "Characteristics of Neoplasms and Epidemiology",
         "section": "General Pathology",
-        "questionCount": 13
+        "questionCount": 14
       },
       {
         "id": 137,
@@ -1056,14 +1056,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m21",
         "name": "Platelet Disorders",
         "section": "Hematology",
-        "questionCount": 32
+        "questionCount": 33
       },
       {
         "id": 148,
         "moduleId": "m22",
         "name": "Coagulation Pathway Disorders",
         "section": "Hematology",
-        "questionCount": 22
+        "questionCount": 23
       },
       {
         "id": 149,
@@ -1112,7 +1112,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m29",
         "name": "Multiple Myeloma and Plasma Cell Disorders",
         "section": "Hematology",
-        "questionCount": 59
+        "questionCount": 58
       },
       {
         "id": 156,
@@ -1133,7 +1133,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m32",
         "name": "Hypertensive Vascular Disease and Atherosclerosis",
         "section": "Cardiovascular System",
-        "questionCount": 82
+        "questionCount": 81
       },
       {
         "id": 159,
@@ -1154,7 +1154,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m35",
         "name": "Heart Failure and Ischemic Heart Disease",
         "section": "Cardiovascular System",
-        "questionCount": 40
+        "questionCount": 39
       },
       {
         "id": 162,
@@ -1168,7 +1168,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m37",
         "name": "Congenital and Valvular Heart Disease",
         "section": "Cardiovascular System",
-        "questionCount": 5
+        "questionCount": 4
       },
       {
         "id": 164,
@@ -1336,7 +1336,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m61",
         "name": "Skin Pathology",
         "section": "Skin Pathology",
-        "questionCount": 89
+        "questionCount": 88
       },
       {
         "id": 188,
@@ -1583,49 +1583,56 @@ window.SYLLABUS_DATA = [
     "subjectId": 1000114,
     "name": "Pharmacology",
     "questionCount": 1295,
-    "moduleCount": 51,
+    "moduleCount": 52,
     "modules": [
       {
         "id": 221,
         "moduleId": "m0",
         "name": "Pharmacokinetics",
         "section": "General Pharmacology",
-        "questionCount": 23
+        "questionCount": 22
       },
       {
         "id": 222,
         "moduleId": "m1",
         "name": "Clinical Trials and Miscellaneous",
         "section": "General Pharmacology",
-        "questionCount": 501
+        "questionCount": 447
       },
       {
         "id": 223,
         "moduleId": "m2",
         "name": "Sympathomimetics",
         "section": "Autonomic Nervous System",
-        "questionCount": 26
+        "questionCount": 41
       },
       {
         "id": 224,
         "moduleId": "m3",
         "name": "Drugs for Glaucoma",
         "section": "Autonomic Nervous System",
-        "questionCount": 12
+        "questionCount": 8
+      },
+      {
+        "id": 740,
+        "moduleId": "m51",
+        "name": "Parasympathomimetics & Cholinergic Agonists",
+        "section": "Autonomic Nervous System",
+        "questionCount": 31
       },
       {
         "id": 225,
         "moduleId": "m4",
         "name": "Anti-Anginal Drugs",
         "section": "Cardiovascular System",
-        "questionCount": 16
+        "questionCount": 10
       },
       {
         "id": 226,
         "moduleId": "m5",
         "name": "Heart Failure Drugs",
         "section": "Cardiovascular System",
-        "questionCount": 41
+        "questionCount": 34
       },
       {
         "id": 227,
@@ -1639,14 +1646,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m7",
         "name": "Diuretics",
         "section": "Cardiovascular System",
-        "questionCount": 52
+        "questionCount": 46
       },
       {
         "id": 229,
         "moduleId": "m8",
         "name": "Anti-Arrhythmic Drugs",
         "section": "Cardiovascular System",
-        "questionCount": 14
+        "questionCount": 12
       },
       {
         "id": 230,
@@ -1660,7 +1667,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m10",
         "name": "Renin-Angiotensin-Aldosterone System",
         "section": "Cardiovascular System",
-        "questionCount": 15
+        "questionCount": 13
       },
       {
         "id": 232,
@@ -1674,28 +1681,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m12",
         "name": "Anti-epileptics I",
         "section": "Central and Peripheral Nervous System",
-        "questionCount": 33
+        "questionCount": 28
       },
       {
         "id": 234,
         "moduleId": "m13",
         "name": "Anti-manic Drugs",
         "section": "Central and Peripheral Nervous System",
-        "questionCount": 17
+        "questionCount": 14
       },
       {
         "id": 235,
         "moduleId": "m14",
         "name": "Antidepressant and Antianxiety Drugs",
         "section": "Central and Peripheral Nervous System",
-        "questionCount": 15
+        "questionCount": 33
       },
       {
         "id": 236,
         "moduleId": "m15",
         "name": "Opioids - Functions and Classification",
         "section": "Central and Peripheral Nervous System",
-        "questionCount": 6
+        "questionCount": 5
       },
       {
         "id": 237,
@@ -1709,14 +1716,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Opioid Antagonists",
         "section": "Central and Peripheral Nervous System",
-        "questionCount": 9
+        "questionCount": 8
       },
       {
         "id": 239,
         "moduleId": "m18",
         "name": "General Principles of Antimicrobial Therapy",
         "section": "Antimicrobials",
-        "questionCount": 30
+        "questionCount": 24
       },
       {
         "id": 240,
@@ -1730,7 +1737,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m20",
         "name": "Sulfonamides, Quinolones and Urinary Antiseptics",
         "section": "Antimicrobials",
-        "questionCount": 18
+        "questionCount": 17
       },
       {
         "id": 242,
@@ -1751,35 +1758,35 @@ window.SYLLABUS_DATA = [
         "moduleId": "m23",
         "name": "Penicillins",
         "section": "Antimicrobials",
-        "questionCount": 13
+        "questionCount": 16
       },
       {
         "id": 245,
         "moduleId": "m24",
         "name": "Cephalosporins, Vancomycin and Carbapenems",
         "section": "Antimicrobials",
-        "questionCount": 3
+        "questionCount": 5
       },
       {
         "id": 246,
         "moduleId": "m25",
         "name": "Anti-Protozoal Agents and Anthelmintic Drugs",
         "section": "Antimicrobials",
-        "questionCount": 8
+        "questionCount": 7
       },
       {
         "id": 247,
         "moduleId": "m26",
         "name": "Antifungal Agents",
         "section": "Antimicrobials",
-        "questionCount": 4
+        "questionCount": 7
       },
       {
         "id": 248,
         "moduleId": "m27",
         "name": "First Line Drugs for Tuberculosis",
         "section": "Antimicrobials",
-        "questionCount": 29
+        "questionCount": 31
       },
       {
         "id": 249,
@@ -1807,21 +1814,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m31",
         "name": "Hypothalamus and Pituitary",
         "section": "Endocrine System",
-        "questionCount": 6
+        "questionCount": 5
       },
       {
         "id": 253,
         "moduleId": "m32",
         "name": "Thyroid and Antithyroid Agents",
         "section": "Endocrine System",
-        "questionCount": 9
+        "questionCount": 8
       },
       {
         "id": 254,
         "moduleId": "m33",
         "name": "Corticosteroids",
         "section": "Endocrine System",
-        "questionCount": 37
+        "questionCount": 31
       },
       {
         "id": 255,
@@ -1835,7 +1842,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m35",
         "name": "Anti-Diabetic Drugs - Oral",
         "section": "Endocrine System",
-        "questionCount": 29
+        "questionCount": 69
       },
       {
         "id": 257,
@@ -1849,7 +1856,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m37",
         "name": "Androgens and Drugs for Erectile Dysfunction",
         "section": "Endocrine System",
-        "questionCount": 10
+        "questionCount": 8
       },
       {
         "id": 259,
@@ -1863,14 +1870,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m39",
         "name": "NSAIDs",
         "section": "Autacoids",
-        "questionCount": 31
+        "questionCount": 28
       },
       {
         "id": 261,
         "moduleId": "m40",
         "name": "Anti-migraine and Antigout drugs",
         "section": "Autacoids",
-        "questionCount": 10
+        "questionCount": 8
       },
       {
         "id": 262,
@@ -1884,42 +1891,42 @@ window.SYLLABUS_DATA = [
         "moduleId": "m42",
         "name": "Antiplatelets, Fibrinolytics and Antifibrinolytics",
         "section": "Hematology",
-        "questionCount": 6
+        "questionCount": 11
       },
       {
         "id": 264,
         "moduleId": "m43",
         "name": "Anticoagulants",
         "section": "Hematology",
-        "questionCount": 18
+        "questionCount": 25
       },
       {
         "id": 265,
         "moduleId": "m44",
         "name": "Respiratory System",
         "section": "Respiratory System",
-        "questionCount": 25
+        "questionCount": 21
       },
       {
         "id": 266,
         "moduleId": "m45",
         "name": "Acid Peptic Disorders and Inflammatory Bowel Disease",
         "section": "Gastrointestinal System",
-        "questionCount": 33
+        "questionCount": 30
       },
       {
         "id": 267,
         "moduleId": "m46",
         "name": "Anti-emetics and Drugs Affecting Gastrointestinal Motility",
         "section": "Gastrointestinal System",
-        "questionCount": 54
+        "questionCount": 42
       },
       {
         "id": 268,
         "moduleId": "m47",
         "name": "Cell Cycle Specific Cytotoxic Drugs",
         "section": "Anti-Neoplastic Agents",
-        "questionCount": 47
+        "questionCount": 70
       },
       {
         "id": 269,
@@ -1933,7 +1940,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m49",
         "name": "Interleukins, Growth Factors and Targeted Therapies",
         "section": "Anti-Neoplastic Agents",
-        "questionCount": 7
+        "questionCount": 8
       },
       {
         "id": 271,
@@ -1941,7 +1948,7 @@ window.SYLLABUS_DATA = [
         "name": "Mixed / Miscellaneous Topics",
         "section": "Anti-Neoplastic Agents",
         "questionCount": 1
-      }
+      },
     ]
   },
   {
@@ -1955,14 +1962,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Skeletal and Dental Age Determination",
         "section": "Identification",
-        "questionCount": 46
+        "questionCount": 45
       },
       {
         "id": 273,
         "moduleId": "m1",
         "name": "Race, Sex and Stature Determination",
         "section": "Identification",
-        "questionCount": 11
+        "questionCount": 12
       },
       {
         "id": 274,
@@ -1976,91 +1983,91 @@ window.SYLLABUS_DATA = [
         "moduleId": "m3",
         "name": "BNS, BNSS, and BSA",
         "section": "Medical Jurisprudence",
-        "questionCount": 114
+        "questionCount": 118
       },
       {
         "id": 276,
         "moduleId": "m4",
         "name": "Death and Post-Mortem Changes",
         "section": "Death, PM Changes",
-        "questionCount": 137
+        "questionCount": 121
       },
       {
         "id": 277,
         "moduleId": "m5",
         "name": "Medico Legal Autopsy",
         "section": "Medico Legal Autopsy",
-        "questionCount": 89
+        "questionCount": 94
       },
       {
         "id": 278,
         "moduleId": "m6",
         "name": "Mechanical Injuries",
         "section": "Injuries",
-        "questionCount": 23
+        "questionCount": 38
       },
       {
         "id": 279,
         "moduleId": "m7",
         "name": "Regional Injuries",
         "section": "Injuries",
-        "questionCount": 7
+        "questionCount": 12
       },
       {
         "id": 280,
         "moduleId": "m8",
         "name": "Thermal Injuries",
         "section": "Injuries",
-        "questionCount": 10
+        "questionCount": 9
       },
       {
         "id": 281,
         "moduleId": "m9",
         "name": "Firearm Injuries and Blast Injuries",
         "section": "Injuries",
-        "questionCount": 83
+        "questionCount": 69
       },
       {
         "id": 282,
         "moduleId": "m10",
         "name": "Mechanical Asphyxia",
         "section": "Asphyxia",
-        "questionCount": 40
+        "questionCount": 49
       },
       {
         "id": 283,
         "moduleId": "m11",
         "name": "Drowning",
         "section": "Asphyxia",
-        "questionCount": 44
+        "questionCount": 37
       },
       {
         "id": 284,
         "moduleId": "m12",
         "name": "Sexual Offences and Abortion",
         "section": "Sexual Offences and Abortion",
-        "questionCount": 63
+        "questionCount": 66
       },
       {
         "id": 285,
         "moduleId": "m13",
         "name": "Childhood Violence, Infanticide and Starvation",
         "section": "Childhood Violence, Infanticide and Starvation",
-        "questionCount": 16
+        "questionCount": 17
       },
       {
         "id": 286,
         "moduleId": "m14",
         "name": "Poisoning: General Considerations",
         "section": "Toxicology",
-        "questionCount": 176
+        "questionCount": 217
       },
       {
         "id": 287,
         "moduleId": "m15",
         "name": "Organophosphorus Poisoning",
         "section": "Toxicology",
-        "questionCount": 80
+        "questionCount": 39
       },
       {
         "id": 288,
@@ -2074,21 +2081,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Alcohol Poisoning",
         "section": "Toxicology",
-        "questionCount": 41
+        "questionCount": 37
       },
       {
         "id": 290,
         "moduleId": "m18",
         "name": "Inorganic Irritants - Metallic and Non-metallic",
         "section": "Toxicology",
-        "questionCount": 7
+        "questionCount": 8
       },
       {
         "id": 291,
         "moduleId": "m19",
         "name": "Organic Irritants - Plant and Animal Poisons",
         "section": "Toxicology",
-        "questionCount": 40
+        "questionCount": 39
       },
       {
         "id": 292,
@@ -2110,35 +2117,35 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Embryology of Ear and Malformations",
         "section": "Ear",
-        "questionCount": 23
+        "questionCount": 20
       },
       {
         "id": 294,
         "moduleId": "m1",
         "name": "Anatomy of External Ear",
         "section": "Ear",
-        "questionCount": 51
+        "questionCount": 49
       },
       {
         "id": 295,
         "moduleId": "m2",
         "name": "Anatomy of Middle Ear",
         "section": "Ear",
-        "questionCount": 174
+        "questionCount": 170
       },
       {
         "id": 296,
         "moduleId": "m3",
         "name": "Anatomy of Mastoid",
         "section": "Ear",
-        "questionCount": 15
+        "questionCount": 14
       },
       {
         "id": 297,
         "moduleId": "m4",
         "name": "Anatomy of Inner Ear",
         "section": "Ear",
-        "questionCount": 10
+        "questionCount": 12
       },
       {
         "id": 298,
@@ -2152,28 +2159,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m6",
         "name": "Cholesteatoma and Types of CSOM",
         "section": "Ear",
-        "questionCount": 9
+        "questionCount": 13
       },
       {
         "id": 300,
         "moduleId": "m7",
         "name": "CSOM - Treatment and Complications",
         "section": "Ear",
-        "questionCount": 33
+        "questionCount": 29
       },
       {
         "id": 301,
         "moduleId": "m8",
         "name": "Otosclerosis",
         "section": "Ear",
-        "questionCount": 39
+        "questionCount": 36
       },
       {
         "id": 302,
         "moduleId": "m9",
         "name": "Meniere's Disease",
         "section": "Ear",
-        "questionCount": 47
+        "questionCount": 46
       },
       {
         "id": 303,
@@ -2201,21 +2208,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m13",
         "name": "Eustachian Tube",
         "section": "Ear",
-        "questionCount": 50
+        "questionCount": 44
       },
       {
         "id": 307,
         "moduleId": "m14",
         "name": "Physiology of Hearing and Tuning Fork Tests",
         "section": "Ear",
-        "questionCount": 41
+        "questionCount": 38
       },
       {
         "id": 308,
         "moduleId": "m15",
         "name": "Audiometric Tests and Special Tests of Hearing",
         "section": "Ear",
-        "questionCount": 19
+        "questionCount": 29
       },
       {
         "id": 309,
@@ -2229,14 +2236,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Anatomy of Paranasal Sinuses",
         "section": "Nose",
-        "questionCount": 8
+        "questionCount": 20
       },
       {
         "id": 311,
         "moduleId": "m18",
         "name": "Physiology of Nose and Paranasal Sinuses",
         "section": "Nose",
-        "questionCount": 19
+        "questionCount": 14
       },
       {
         "id": 312,
@@ -2250,7 +2257,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m20",
         "name": "Congenital Anomalies of Nose and Disease of Nose",
         "section": "Nose",
-        "questionCount": 289
+        "questionCount": 277
       },
       {
         "id": 314,
@@ -2278,7 +2285,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m24",
         "name": "Tumors of Nose and PNS",
         "section": "Nose",
-        "questionCount": 4
+        "questionCount": 3
       },
       {
         "id": 318,
@@ -2299,14 +2306,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m27",
         "name": "Adenoids",
         "section": "Pharynx",
-        "questionCount": 7
+        "questionCount": 6
       },
       {
         "id": 321,
         "moduleId": "m28",
         "name": "Tonsils",
         "section": "Pharynx",
-        "questionCount": 18
+        "questionCount": 39
       },
       {
         "id": 322,
@@ -2320,7 +2327,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m30",
         "name": "Nasopharyngeal Carcinoma",
         "section": "Pharynx",
-        "questionCount": 30
+        "questionCount": 29
       },
       {
         "id": 324,
@@ -2355,7 +2362,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m35",
         "name": "Mixed / Miscellaneous Topics",
         "section": "Instruments",
-        "questionCount": 50
+        "questionCount": 48
       }
     ]
   },
@@ -2398,63 +2405,63 @@ window.SYLLABUS_DATA = [
         "moduleId": "m4",
         "name": "Conjunctiva",
         "section": "Conjunctiva",
-        "questionCount": 200
+        "questionCount": 195
       },
       {
         "id": 334,
         "moduleId": "m5",
         "name": "Sclera",
         "section": "Sclera",
-        "questionCount": 77
+        "questionCount": 76
       },
       {
         "id": 335,
         "moduleId": "m6",
         "name": "Basics of Cornea and Infectious Keratitis",
         "section": "Cornea",
-        "questionCount": 92
+        "questionCount": 101
       },
       {
         "id": 336,
         "moduleId": "m7",
         "name": "Non-infectious Disorders of Cornea",
         "section": "Cornea",
-        "questionCount": 22
+        "questionCount": 20
       },
       {
         "id": 337,
         "moduleId": "m8",
         "name": "Retinal Vascular Disorders and Retinal Detachment",
         "section": "Retina and Vitreous",
-        "questionCount": 200
+        "questionCount": 194
       },
       {
         "id": 338,
         "moduleId": "m9",
         "name": "Macular Disorders, Retinal Dystrophies, and Vitreal Disorders",
         "section": "Retina and Vitreous",
-        "questionCount": 23
+        "questionCount": 30
       },
       {
         "id": 339,
         "moduleId": "m10",
         "name": "Lens - Introduction, Types of Cataract and Clinical Features",
         "section": "Lens",
-        "questionCount": 90
+        "questionCount": 88
       },
       {
         "id": 340,
         "moduleId": "m11",
         "name": "Lens - Cataract Surgery, Complications and IOLs",
         "section": "Lens",
-        "questionCount": 41
+        "questionCount": 43
       },
       {
         "id": 341,
         "moduleId": "m12",
         "name": "Glaucoma",
         "section": "Glaucoma",
-        "questionCount": 228
+        "questionCount": 222
       },
       {
         "id": 342,
@@ -2475,7 +2482,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m15",
         "name": "Disorders of the Eyelid",
         "section": "Lid and Lacrimal Apparatus",
-        "questionCount": 27
+        "questionCount": 30
       },
       {
         "id": 345,
@@ -2489,7 +2496,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Orbit Anatomy and Ocular Injuries",
         "section": "Orbit",
-        "questionCount": 51
+        "questionCount": 49
       },
       {
         "id": 347,
@@ -2517,7 +2524,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m21",
         "name": "Disorders of Visual Pathway and Pupillary Reflexes",
         "section": "Specific Disorders of the Eye",
-        "questionCount": 70
+        "questionCount": 73
       },
       {
         "id": 351,
@@ -2560,7 +2567,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "History of Medicine",
         "section": "History of Medicine",
-        "questionCount": 719
+        "questionCount": 701
       },
       {
         "id": 356,
@@ -2574,14 +2581,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m2",
         "name": "Concepts of Disease and Prevention",
         "section": "Concepts of Health and Disease",
-        "questionCount": 216
+        "questionCount": 208
       },
       {
         "id": 358,
         "moduleId": "m3",
         "name": "Principles of Epidemiology",
         "section": "Epidemiology",
-        "questionCount": 114
+        "questionCount": 116
       },
       {
         "id": 359,
@@ -2609,7 +2616,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m7",
         "name": "Dynamics of Disease Transmission",
         "section": "Epidemiology",
-        "questionCount": 27
+        "questionCount": 26
       },
       {
         "id": 363,
@@ -2637,7 +2644,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m11",
         "name": "Screening",
         "section": "Screening",
-        "questionCount": 113
+        "questionCount": 121
       },
       {
         "id": 367,
@@ -2658,7 +2665,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m14",
         "name": "Intestinal Infections",
         "section": "Epidemiology of Communicable Diseases",
-        "questionCount": 3
+        "questionCount": 4
       },
       {
         "id": 370,
@@ -2686,14 +2693,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m18",
         "name": "STDs and Surface Infections",
         "section": "Epidemiology of Communicable Diseases",
-        "questionCount": 4
+        "questionCount": 3
       },
       {
         "id": 374,
         "moduleId": "m19",
         "name": "Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
         "section": "Epidemiology of Non-Communicable Diseases",
-        "questionCount": 126
+        "questionCount": 119
       },
       {
         "id": 375,
@@ -2728,28 +2735,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m24",
         "name": "Demography I: Demographic Cycle, Annual Growth Rate and Age Pyramid",
         "section": "Demography and Family Planning",
-        "questionCount": 58
+        "questionCount": 56
       },
       {
         "id": 380,
         "moduleId": "m25",
         "name": "Demography II: Demographic Indicators",
         "section": "Demography and Family Planning",
-        "questionCount": 9
+        "questionCount": 12
       },
       {
         "id": 381,
         "moduleId": "m26",
         "name": "Family Planning",
         "section": "Demography and Family Planning",
-        "questionCount": 54
+        "questionCount": 52
       },
       {
         "id": 382,
         "moduleId": "m27",
         "name": "Preventive Obstetrics, Paediatrics and Geriatrics",
         "section": "Preventive Obstetrics, Paediatrics and Geriatrics",
-        "questionCount": 6
+        "questionCount": 7
       },
       {
         "id": 383,
@@ -2784,7 +2791,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m32",
         "name": "Water - I: Sources and purification of water",
         "section": "Environment and Health",
-        "questionCount": 29
+        "questionCount": 28
       },
       {
         "id": 388,
@@ -2826,7 +2833,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m38",
         "name": "Medical Entomology - Mosquitoes and Flies",
         "section": "Environment and Health",
-        "questionCount": 12
+        "questionCount": 23
       },
       {
         "id": 394,
@@ -2840,7 +2847,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m40",
         "name": "Methods of Pest Control",
         "section": "Environment and Health",
-        "questionCount": 23
+        "questionCount": 22
       },
       {
         "id": 396,
@@ -2861,7 +2868,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m43",
         "name": "Occupational Health Diseases",
         "section": "Occupational Community Medicine",
-        "questionCount": 28
+        "questionCount": 27
       },
       {
         "id": 399,
@@ -2896,21 +2903,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m48",
         "name": "Descriptive Statistics I - Probability and Data",
         "section": "Biostatistics",
-        "questionCount": 18
+        "questionCount": 14
       },
       {
         "id": 404,
         "moduleId": "m49",
         "name": "Descriptive Statistics II - Measures of Location",
         "section": "Biostatistics",
-        "questionCount": 9
+        "questionCount": 27
       },
       {
         "id": 405,
         "moduleId": "m50",
         "name": "Descriptive Statistics III - Measures of Dispersion",
         "section": "Biostatistics",
-        "questionCount": 16
+        "questionCount": 17
       },
       {
         "id": 406,
@@ -2924,7 +2931,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m52",
         "name": "Tests of Significance",
         "section": "Biostatistics",
-        "questionCount": 5
+        "questionCount": 6
       },
       {
         "id": 408,
@@ -2960,14 +2967,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Clinical Hypotheses",
         "section": "General Medicine",
-        "questionCount": 84
+        "questionCount": 81
       },
       {
         "id": 412,
         "moduleId": "m1",
         "name": "Acid-Base Disorders",
         "section": "Acid-Base Disorders",
-        "questionCount": 95
+        "questionCount": 90
       },
       {
         "id": 413,
@@ -2988,56 +2995,56 @@ window.SYLLABUS_DATA = [
         "moduleId": "m4",
         "name": "Pituitary Tumors and Sheehan Syndrome",
         "section": "Endocrine System",
-        "questionCount": 8
+        "questionCount": 9
       },
       {
         "id": 416,
         "moduleId": "m5",
         "name": "Posterior Pituitary - ADH, Diabetes Insipidus",
         "section": "Endocrine System",
-        "questionCount": 32
+        "questionCount": 30
       },
       {
         "id": 417,
         "moduleId": "m6",
         "name": "Thyroid Disorders - Management",
         "section": "Endocrine System",
-        "questionCount": 49
+        "questionCount": 47
       },
       {
         "id": 418,
         "moduleId": "m7",
         "name": "Thyroid Disorders - Clinical Features",
         "section": "Endocrine System",
-        "questionCount": 33
+        "questionCount": 32
       },
       {
         "id": 419,
         "moduleId": "m8",
         "name": "Types of Assessment for Diagnosis",
         "section": "Endocrine System",
-        "questionCount": 9
+        "questionCount": 7
       },
       {
         "id": 420,
         "moduleId": "m9",
         "name": "Cushing Syndrome",
         "section": "Endocrine System",
-        "questionCount": 18
+        "questionCount": 16
       },
       {
         "id": 421,
         "moduleId": "m10",
         "name": "Diabetes Mellitus - Clinical Features",
         "section": "Endocrine System",
-        "questionCount": 43
+        "questionCount": 44
       },
       {
         "id": 422,
         "moduleId": "m11",
         "name": "Diabetes Mellitus - Complications and Management",
         "section": "Endocrine System",
-        "questionCount": 24
+        "questionCount": 23
       },
       {
         "id": 423,
@@ -3051,21 +3058,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m13",
         "name": "Disorders of Parathyroid and Calcium",
         "section": "Endocrine System",
-        "questionCount": 37
+        "questionCount": 38
       },
       {
         "id": 425,
         "moduleId": "m14",
         "name": "Hyperbilirubinemia and Functions of Liver",
         "section": "Hepatobiliary System",
-        "questionCount": 3
+        "questionCount": 2
       },
       {
         "id": 426,
         "moduleId": "m15",
         "name": "Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
         "section": "Hepatobiliary System",
-        "questionCount": 59
+        "questionCount": 78
       },
       {
         "id": 427,
@@ -3079,7 +3086,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Acute Liver Failure and Complications of Cirrhosis",
         "section": "Hepatobiliary System",
-        "questionCount": 39
+        "questionCount": 38
       },
       {
         "id": 429,
@@ -3093,7 +3100,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m19",
         "name": "Portal Hypertension",
         "section": "Hepatobiliary System",
-        "questionCount": 33
+        "questionCount": 27
       },
       {
         "id": 431,
@@ -3107,21 +3114,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m21",
         "name": "Irritable Bowel Syndrome",
         "section": "Irritable Bowel Syndrome",
-        "questionCount": 129
+        "questionCount": 134
       },
       {
         "id": 433,
         "moduleId": "m22",
         "name": "Inflammatory Bowel Disease - Clinical Features and Diagnosis",
         "section": "Inflammatory Bowel Disease",
-        "questionCount": 483
+        "questionCount": 432
       },
       {
         "id": 434,
         "moduleId": "m23",
         "name": "Inflammatory Bowel Disease - Complications and Treatment",
         "section": "Inflammatory Bowel Disease",
-        "questionCount": 132
+        "questionCount": 138
       },
       {
         "id": 435,
@@ -3135,14 +3142,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m25",
         "name": "Large and medium vessel vasculitis",
         "section": "Rheumatological and Vascular Disorders",
-        "questionCount": 10
+        "questionCount": 9
       },
       {
         "id": 437,
         "moduleId": "m26",
         "name": "Small vessel vasculitis",
         "section": "Rheumatological and Vascular Disorders",
-        "questionCount": 16
+        "questionCount": 15
       },
       {
         "id": 438,
@@ -3170,21 +3177,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m30",
         "name": "Rheumatoid Arthritis",
         "section": "Rheumatological and Vascular Disorders",
-        "questionCount": 79
+        "questionCount": 69
       },
       {
         "id": 442,
         "moduleId": "m31",
         "name": "Asthma & COPD",
         "section": "Respiratory System",
-        "questionCount": 8
+        "questionCount": 9
       },
       {
         "id": 443,
         "moduleId": "m32",
         "name": "Pneumonia",
         "section": "Respiratory System",
-        "questionCount": 98
+        "questionCount": 83
       },
       {
         "id": 444,
@@ -3205,14 +3212,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m35",
         "name": "Pulmonary Function Tests",
         "section": "Respiratory System",
-        "questionCount": 27
+        "questionCount": 36
       },
       {
         "id": 447,
         "moduleId": "m36",
         "name": "Respiratory Failure and ARDS",
         "section": "Respiratory System",
-        "questionCount": 38
+        "questionCount": 48
       },
       {
         "id": 448,
@@ -3233,35 +3240,35 @@ window.SYLLABUS_DATA = [
         "moduleId": "m39",
         "name": "Acute Kidney Injury",
         "section": "Renal System",
-        "questionCount": 20
+        "questionCount": 22
       },
       {
         "id": 451,
         "moduleId": "m40",
         "name": "Chronic Kidney Disease",
         "section": "Renal System",
-        "questionCount": 26
+        "questionCount": 27
       },
       {
         "id": 452,
         "moduleId": "m41",
         "name": "Renal Replacement Therapy",
         "section": "Renal System",
-        "questionCount": 35
+        "questionCount": 63
       },
       {
         "id": 453,
         "moduleId": "m42",
         "name": "Cysts and Inherited Disorders of the Kidney",
         "section": "Renal System",
-        "questionCount": 1
+        "questionCount": 4
       },
       {
         "id": 454,
         "moduleId": "m43",
         "name": "Renal Tubular Diseases of Kidney",
         "section": "Renal System",
-        "questionCount": 28
+        "questionCount": 41
       },
       {
         "id": 455,
@@ -3296,14 +3303,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m48",
         "name": "Ischemic Heart Disease - Presentation and Diagnosis",
         "section": "Cardiovascular System",
-        "questionCount": 25
+        "questionCount": 27
       },
       {
         "id": 460,
         "moduleId": "m49",
         "name": "Ischemic Heart Disease - Complications and Management",
         "section": "Cardiovascular System",
-        "questionCount": 28
+        "questionCount": 27
       },
       {
         "id": 461,
@@ -3317,7 +3324,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m51",
         "name": "Heart Failure",
         "section": "Cardiovascular System",
-        "questionCount": 99
+        "questionCount": 86
       },
       {
         "id": 463,
@@ -3352,28 +3359,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m56",
         "name": "Myasthenia Gravis and Other Neuromuscular Disorders",
         "section": "Nervous System",
-        "questionCount": 12
+        "questionCount": 13
       },
       {
         "id": 468,
         "moduleId": "m57",
         "name": "Guillain Barre Syndrome and Other Peripheral Neuropathies",
         "section": "Nervous System",
-        "questionCount": 16
+        "questionCount": 17
       },
       {
         "id": 469,
         "moduleId": "m58",
         "name": "Multiple Sclerosis and Other Demyelinating Disorders",
         "section": "Nervous System",
-        "questionCount": 25
+        "questionCount": 24
       },
       {
         "id": 470,
         "moduleId": "m59",
         "name": "Headache",
         "section": "Nervous System",
-        "questionCount": 122
+        "questionCount": 91
       },
       {
         "id": 471,
@@ -3387,7 +3394,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m61",
         "name": "Cranial Nerve Disorders",
         "section": "Nervous System",
-        "questionCount": 19
+        "questionCount": 24
       },
       {
         "id": 473,
@@ -3408,28 +3415,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m64",
         "name": "Plasma Cell Disorders",
         "section": "Plasma Cell Disorders",
-        "questionCount": 32
+        "questionCount": 47
       },
       {
         "id": 476,
         "moduleId": "m65",
         "name": "Chronic Myeloid Leukemia and Lymphoid Leukemias",
         "section": "Chronic Myeloid Leukemia and Lymphoid Leukemias",
-        "questionCount": 80
+        "questionCount": 91
       },
       {
         "id": 477,
         "moduleId": "m66",
         "name": "HIV / AIDS - Epidemiology and Diagnosis",
         "section": "HIV / AIDS - Epidemiology and Diagnosis",
-        "questionCount": 183
+        "questionCount": 151
       },
       {
         "id": 478,
         "moduleId": "m67",
         "name": "HIV / AIDS - Investigations",
         "section": "HIV / AIDS - Investigations",
-        "questionCount": 56
+        "questionCount": 103
       },
       {
         "id": 479,
@@ -3486,14 +3493,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m5",
         "name": "Trauma - Spinal, Thoracic and Abdominal Injuries",
         "section": "General Surgery",
-        "questionCount": 101
+        "questionCount": 102
       },
       {
         "id": 486,
         "moduleId": "m6",
         "name": "Breast - Anatomy, Congenital and Benign Diseases",
         "section": "Breast",
-        "questionCount": 36
+        "questionCount": 37
       },
       {
         "id": 487,
@@ -3570,7 +3577,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Metabolic & Bariatric Surgery",
         "section": "Upper GI Surgery",
-        "questionCount": 45
+        "questionCount": 44
       },
       {
         "id": 498,
@@ -3619,14 +3626,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m24",
         "name": "Hernia",
         "section": "Lower GI & Hernia Surgery",
-        "questionCount": 123
+        "questionCount": 121
       },
       {
         "id": 505,
         "moduleId": "m25",
         "name": "Benign Conditions of Liver",
         "section": "Hepato Biliary Surgery",
-        "questionCount": 24
+        "questionCount": 25
       },
       {
         "id": 506,
@@ -3661,7 +3668,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m30",
         "name": "Spleen",
         "section": "Spleen & Pancreatic Surgery",
-        "questionCount": 28
+        "questionCount": 27
       },
       {
         "id": 511,
@@ -3710,14 +3717,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m37",
         "name": "Urinary Bladder and Ureters",
         "section": "Urology",
-        "questionCount": 26
+        "questionCount": 28
       },
       {
         "id": 518,
         "moduleId": "m38",
         "name": "Prostate",
         "section": "Urology",
-        "questionCount": 48
+        "questionCount": 46
       },
       {
         "id": 519,
@@ -3759,7 +3766,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m44",
         "name": "Wound Healing, Tissue Repair and Scar",
         "section": "Plastic Surgery",
-        "questionCount": 37
+        "questionCount": 38
       },
       {
         "id": 525,
@@ -3816,7 +3823,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Anatomy of Female Pelvic Organs",
         "section": "Fundamentals of Reproduction",
-        "questionCount": 45
+        "questionCount": 47
       },
       {
         "id": 532,
@@ -3830,7 +3837,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m2",
         "name": "Maternal Pelvis and Fetal Skull",
         "section": "Fundamentals of Reproduction",
-        "questionCount": 55
+        "questionCount": 57
       },
       {
         "id": 534,
@@ -3851,14 +3858,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m5",
         "name": "Physiological Changes During Pregnancy",
         "section": "Normal Pregnancy and Antenatal Care",
-        "questionCount": 230
+        "questionCount": 239
       },
       {
         "id": 537,
         "moduleId": "m6",
         "name": "Diagnosis of Pregnancy and Antenatal Care",
         "section": "Normal Pregnancy and Antenatal Care",
-        "questionCount": 141
+        "questionCount": 136
       },
       {
         "id": 538,
@@ -3879,7 +3886,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m9",
         "name": "Normal Labour",
         "section": "Labor and Puerperium",
-        "questionCount": 26
+        "questionCount": 25
       },
       {
         "id": 541,
@@ -3893,35 +3900,35 @@ window.SYLLABUS_DATA = [
         "moduleId": "m11",
         "name": "Induction and Augmentation of Labour",
         "section": "Labor and Puerperium",
-        "questionCount": 11
+        "questionCount": 12
       },
       {
         "id": 543,
         "moduleId": "m12",
         "name": "Operative Vaginal Delivery",
         "section": "Labor and Puerperium",
-        "questionCount": 126
+        "questionCount": 128
       },
       {
         "id": 544,
         "moduleId": "m13",
         "name": "Caesarean Section and Vaginal Birth After Caesarean (VBAC)",
         "section": "Labor and Puerperium",
-        "questionCount": 98
+        "questionCount": 104
       },
       {
         "id": 545,
         "moduleId": "m14",
         "name": "Multifetal Pregnancy",
         "section": "Obstetric Complications",
-        "questionCount": 15
+        "questionCount": 14
       },
       {
         "id": 546,
         "moduleId": "m15",
         "name": "Ectopic Pregnancy",
         "section": "Obstetric Complications",
-        "questionCount": 59
+        "questionCount": 52
       },
       {
         "id": 547,
@@ -3935,7 +3942,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Antepartum Hemorrhage",
         "section": "Obstetric Complications",
-        "questionCount": 16
+        "questionCount": 15
       },
       {
         "id": 549,
@@ -3949,28 +3956,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m19",
         "name": "Preterm Labor and Postterm Pregnancy",
         "section": "Obstetric Complications",
-        "questionCount": 28
+        "questionCount": 31
       },
       {
         "id": 551,
         "moduleId": "m20",
         "name": "Gestational Trophoblastic Diseases",
         "section": "Obstetric Complications",
-        "questionCount": 12
+        "questionCount": 13
       },
       {
         "id": 552,
         "moduleId": "m21",
         "name": "Anemia in Pregnancy",
         "section": "Medical and Surgical Complications in Pregnancy",
-        "questionCount": 45
+        "questionCount": 54
       },
       {
         "id": 553,
         "moduleId": "m22",
         "name": "Hypertensive Disorders in Pregnancy",
         "section": "Medical and Surgical Complications in Pregnancy",
-        "questionCount": 16
+        "questionCount": 15
       },
       {
         "id": 554,
@@ -3984,7 +3991,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m24",
         "name": "Cardiovascular Conditions in Pregnancy",
         "section": "Medical and Surgical Complications in Pregnancy",
-        "questionCount": 34
+        "questionCount": 32
       },
       {
         "id": 556,
@@ -3998,7 +4005,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m26",
         "name": "Hepatic Disorders and Infections in Pregnancy",
         "section": "Medical and Surgical Complications in Pregnancy",
-        "questionCount": 9
+        "questionCount": 11
       },
       {
         "id": 558,
@@ -4012,14 +4019,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m28",
         "name": "Prolapse",
         "section": "General Gynaecology",
-        "questionCount": 49
+        "questionCount": 40
       },
       {
         "id": 560,
         "moduleId": "m29",
         "name": "Fibroid",
         "section": "General Gynaecology",
-        "questionCount": 47
+        "questionCount": 41
       },
       {
         "id": 561,
@@ -4061,7 +4068,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m35",
         "name": "Pelvic Inflammatory Disease",
         "section": "Gynaecologic Infections",
-        "questionCount": 36
+        "questionCount": 33
       },
       {
         "id": 567,
@@ -4075,21 +4082,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m37",
         "name": "Infertility",
         "section": "Infertility and Menopause",
-        "questionCount": 85
+        "questionCount": 84
       },
       {
         "id": 569,
         "moduleId": "m38",
         "name": "Perimenopause, Menopause and Post-Menopausal Bleeding",
         "section": "Infertility and Menopause",
-        "questionCount": 54
+        "questionCount": 57
       },
       {
         "id": 570,
         "moduleId": "m39",
         "name": "Ovarian Tumors",
         "section": "Gynaecologic Oncology",
-        "questionCount": 73
+        "questionCount": 71
       },
       {
         "id": 571,
@@ -4110,7 +4117,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m42",
         "name": "Carcinoma Endometrium",
         "section": "Gynaecologic Oncology",
-        "questionCount": 14
+        "questionCount": 13
       },
       {
         "id": 574,
@@ -4132,14 +4139,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Basics of Neonatology and Routine Newborn Care",
         "section": "Neonatology",
-        "questionCount": 84
+        "questionCount": 83
       },
       {
         "id": 576,
         "moduleId": "m1",
         "name": "Diseases in Neonates requiring Special Care",
         "section": "Neonatology",
-        "questionCount": 48
+        "questionCount": 47
       },
       {
         "id": 577,
@@ -4160,7 +4167,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m4",
         "name": "Facets of Growth and Development",
         "section": "Growth and Development",
-        "questionCount": 95
+        "questionCount": 98
       },
       {
         "id": 580,
@@ -4237,7 +4244,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m15",
         "name": "Measles, Mumps, Rubella and Other Viral Infections",
         "section": "Childhood Infections",
-        "questionCount": 79
+        "questionCount": 77
       },
       {
         "id": 591,
@@ -4286,7 +4293,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m22",
         "name": "Acyanotic Congenital Heart Diseases",
         "section": "Cardiovascular System",
-        "questionCount": 50
+        "questionCount": 51
       },
       {
         "id": 598,
@@ -4378,28 +4385,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "History and Ethical Aspects of Anaesthesia",
         "section": "Preoperative Evaluation and Monitoring",
-        "questionCount": 18
+        "questionCount": 16
       },
       {
         "id": 610,
         "moduleId": "m1",
         "name": "Preoperative Evaluation",
         "section": "Preoperative Evaluation and Monitoring",
-        "questionCount": 18
+        "questionCount": 23
       },
       {
         "id": 611,
         "moduleId": "m2",
         "name": "CNS and CVS Monitoring in Anaesthesia",
         "section": "Preoperative Evaluation and Monitoring",
-        "questionCount": 31
+        "questionCount": 30
       },
       {
         "id": 612,
         "moduleId": "m3",
         "name": "Respiratory Monitoring in Anaesthesia",
         "section": "Preoperative Evaluation and Monitoring",
-        "questionCount": 31
+        "questionCount": 29
       },
       {
         "id": 613,
@@ -4413,14 +4420,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m5",
         "name": "Intubation",
         "section": "Airway Management and Resuscitation",
-        "questionCount": 108
+        "questionCount": 95
       },
       {
         "id": 615,
         "moduleId": "m6",
         "name": "Breathing Systems",
         "section": "Airway Management and Resuscitation",
-        "questionCount": 32
+        "questionCount": 31
       },
       {
         "id": 616,
@@ -4441,49 +4448,49 @@ window.SYLLABUS_DATA = [
         "moduleId": "m9",
         "name": "Ventilation and O2 Delivery Systems",
         "section": "Airway Management and Resuscitation",
-        "questionCount": 61
+        "questionCount": 62
       },
       {
         "id": 619,
         "moduleId": "m10",
         "name": "Depolarising Muscle Relaxants",
         "section": "Muscle Relaxants",
-        "questionCount": 85
+        "questionCount": 91
       },
       {
         "id": 620,
         "moduleId": "m11",
         "name": "Inhaled Anaesthetics - Properties, N2O and Halothane",
         "section": "General Anaesthesia",
-        "questionCount": 48
+        "questionCount": 47
       },
       {
         "id": 621,
         "moduleId": "m12",
         "name": "Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
         "section": "General Anaesthesia",
-        "questionCount": 66
+        "questionCount": 74
       },
       {
         "id": 622,
         "moduleId": "m13",
         "name": "Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
         "section": "General Anaesthesia",
-        "questionCount": 140
+        "questionCount": 134
       },
       {
         "id": 623,
         "moduleId": "m14",
         "name": "Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
         "section": "General Anaesthesia",
-        "questionCount": 100
+        "questionCount": 96
       },
       {
         "id": 624,
         "moduleId": "m15",
         "name": "Local Anaesthetics - General Properties",
         "section": "Local and Regional Anaesthesia",
-        "questionCount": 133
+        "questionCount": 142
       },
       {
         "id": 625,
@@ -4504,7 +4511,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m18",
         "name": "Regional Anaesthesia: Complications and Contraindications",
         "section": "Local and Regional Anaesthesia",
-        "questionCount": 9
+        "questionCount": 10
       },
       {
         "id": 628,
@@ -4568,7 +4575,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m2",
         "name": "Morphology and Investigations of Skin Lesions",
         "section": "Clinical Dermatology",
-        "questionCount": 34
+        "questionCount": 35
       },
       {
         "id": 636,
@@ -4582,7 +4589,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m4",
         "name": "Disorders of Hair and Nails",
         "section": "Hair and Nails",
-        "questionCount": 36
+        "questionCount": 39
       },
       {
         "id": 638,
@@ -4596,7 +4603,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m6",
         "name": "Dermatitis",
         "section": "Allergic Disorders & Dermatitis",
-        "questionCount": 102
+        "questionCount": 99
       },
       {
         "id": 640,
@@ -4624,7 +4631,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m10",
         "name": "Psoriasis",
         "section": "Papulosquamous Disorders",
-        "questionCount": 84
+        "questionCount": 77
       },
       {
         "id": 644,
@@ -4638,7 +4645,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m12",
         "name": "Mycobacterial Infections",
         "section": "Skin Infections & Infestations",
-        "questionCount": 35
+        "questionCount": 36
       },
       {
         "id": 646,
@@ -4673,28 +4680,28 @@ window.SYLLABUS_DATA = [
         "moduleId": "m17",
         "name": "Syphilis",
         "section": "Sexually Transmitted Infections",
-        "questionCount": 43
+        "questionCount": 37
       },
       {
         "id": 651,
         "moduleId": "m18",
         "name": "Non Syphilitic Sexually Transmitted Diseases",
         "section": "Sexually Transmitted Infections",
-        "questionCount": 14
+        "questionCount": 20
       },
       {
         "id": 652,
         "moduleId": "m19",
         "name": "Genodermatoses & Nutritional Disorders",
         "section": "Genodermatoses & Nutritional Disorders",
-        "questionCount": 6
+        "questionCount": 7
       },
       {
         "id": 653,
         "moduleId": "m20",
         "name": "Connective Tissue Disorders",
         "section": "Connective Tissue Disorders",
-        "questionCount": 13
+        "questionCount": 14
       },
       {
         "id": 654,
@@ -4708,7 +4715,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m22",
         "name": "Systemic Diseases and Skin",
         "section": "Skin in Systemic Disorders",
-        "questionCount": 36
+        "questionCount": 39
       },
       {
         "id": 656,
@@ -4730,35 +4737,35 @@ window.SYLLABUS_DATA = [
         "moduleId": "m0",
         "name": "Basics of Fracture and its Management",
         "section": "Fracture and its Complications",
-        "questionCount": 389
+        "questionCount": 380
       },
       {
         "id": 658,
         "moduleId": "m1",
         "name": "Complications of Fracture",
         "section": "Fracture and its Complications",
-        "questionCount": 48
+        "questionCount": 49
       },
       {
         "id": 659,
         "moduleId": "m2",
         "name": "Regional Conditions of Neck",
         "section": "Neck",
-        "questionCount": 11
+        "questionCount": 10
       },
       {
         "id": 660,
         "moduleId": "m3",
         "name": "Injuries of Clavicle, Shoulder and Arm",
         "section": "Upper Limb",
-        "questionCount": 47
+        "questionCount": 43
       },
       {
         "id": 661,
         "moduleId": "m4",
         "name": "Injuries of Elbow and Forearm",
         "section": "Upper Limb",
-        "questionCount": 22
+        "questionCount": 24
       },
       {
         "id": 662,
@@ -4772,14 +4779,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m6",
         "name": "Regional Conditions of the Upper Limb",
         "section": "Upper Limb",
-        "questionCount": 29
+        "questionCount": 31
       },
       {
         "id": 664,
         "moduleId": "m7",
         "name": "Dislocations of the Hip Joint",
         "section": "Lower Limb",
-        "questionCount": 12
+        "questionCount": 11
       },
       {
         "id": 665,
@@ -4793,21 +4800,21 @@ window.SYLLABUS_DATA = [
         "moduleId": "m9",
         "name": "Injuries of Knee, Leg and Foot",
         "section": "Lower Limb",
-        "questionCount": 42
+        "questionCount": 39
       },
       {
         "id": 667,
         "moduleId": "m10",
         "name": "AVN and Regional Conditions of Lower Limb",
         "section": "Lower Limb",
-        "questionCount": 23
+        "questionCount": 27
       },
       {
         "id": 668,
         "moduleId": "m11",
         "name": "Injuries of Spine",
         "section": "Spine & Pelvis",
-        "questionCount": 21
+        "questionCount": 28
       },
       {
         "id": 669,
@@ -4828,7 +4835,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m14",
         "name": "Injuries of Pelvis",
         "section": "Spine & Pelvis",
-        "questionCount": 1
+        "questionCount": 3
       },
       {
         "id": 672,
@@ -4842,14 +4849,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m16",
         "name": "Skeletal Tuberculosis",
         "section": "Bone and Joint Infections",
-        "questionCount": 14
+        "questionCount": 12
       },
       {
         "id": 674,
         "moduleId": "m17",
         "name": "Fractures in Children",
         "section": "Paediatric Orthopaedics",
-        "questionCount": 47
+        "questionCount": 40
       },
       {
         "id": 675,
@@ -4877,7 +4884,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m21",
         "name": "Osteoporosis and Osteomalacia",
         "section": "Metabolic Bone Diseases",
-        "questionCount": 35
+        "questionCount": 34
       },
       {
         "id": 679,
@@ -4898,14 +4905,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m24",
         "name": "Nerve Injuries",
         "section": "Nerve Injuries",
-        "questionCount": 100
+        "questionCount": 111
       },
       {
         "id": 682,
         "moduleId": "m25",
         "name": "Benign Tumors Of Bone",
         "section": "Bone Tumors",
-        "questionCount": 34
+        "questionCount": 35
       },
       {
         "id": 683,
@@ -4919,7 +4926,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m27",
         "name": "Trauma Amputations, Prosthetics and Joint Replacement Surgery",
         "section": "Advanced Orthopaedics & Management",
-        "questionCount": 42
+        "questionCount": 40
       },
       {
         "id": 685,
@@ -4955,7 +4962,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m1",
         "name": "Symptoms and Clinical Manifestations in Psychiatry",
         "section": "Clinical Psychiatry",
-        "questionCount": 186
+        "questionCount": 178
       },
       {
         "id": 689,
@@ -4969,7 +4976,7 @@ window.SYLLABUS_DATA = [
         "moduleId": "m3",
         "name": "Specific Treatment Modalities",
         "section": "Clinical Psychiatry",
-        "questionCount": 34
+        "questionCount": 32
       },
       {
         "id": 691,
@@ -4983,98 +4990,98 @@ window.SYLLABUS_DATA = [
         "moduleId": "m5",
         "name": "Schizophrenia",
         "section": "Psychotic Disorders",
-        "questionCount": 110
+        "questionCount": 92
       },
       {
         "id": 693,
         "moduleId": "m6",
         "name": "Other Psychotic Disorders",
         "section": "Psychotic Disorders",
-        "questionCount": 49
+        "questionCount": 50
       },
       {
         "id": 694,
         "moduleId": "m7",
         "name": "Delirium",
         "section": "Neurocognitive Disorders",
-        "questionCount": 37
+        "questionCount": 35
       },
       {
         "id": 695,
         "moduleId": "m8",
         "name": "Dementia",
         "section": "Neurocognitive Disorders",
-        "questionCount": 15
+        "questionCount": 14
       },
       {
         "id": 696,
         "moduleId": "m9",
         "name": "Amnestic Disorders and Other Neurocognitive Disorders",
         "section": "Neurocognitive Disorders",
-        "questionCount": 36
+        "questionCount": 33
       },
       {
         "id": 697,
         "moduleId": "m10",
         "name": "Depressive Disorders",
         "section": "Mood Disorders",
-        "questionCount": 19
+        "questionCount": 18
       },
       {
         "id": 698,
         "moduleId": "m11",
         "name": "Bipolar and Related Disorders",
         "section": "Mood Disorders",
-        "questionCount": 11
+        "questionCount": 10
       },
       {
         "id": 699,
         "moduleId": "m12",
         "name": "Alcohol-Related Disorders",
         "section": "Substance-Related Disorders",
-        "questionCount": 58
+        "questionCount": 55
       },
       {
         "id": 700,
         "moduleId": "m13",
         "name": "Other Substance Use Disorders",
         "section": "Substance-Related Disorders",
-        "questionCount": 41
+        "questionCount": 43
       },
       {
         "id": 701,
         "moduleId": "m14",
         "name": "Anxiety Disorders",
         "section": "Neurosis",
-        "questionCount": 26
+        "questionCount": 22
       },
       {
         "id": 702,
         "moduleId": "m15",
         "name": "Obsessive-Compulsive and Related Disorders",
         "section": "Neurosis",
-        "questionCount": 8
+        "questionCount": 9
       },
       {
         "id": 703,
         "moduleId": "m16",
         "name": "Trauma and Stress-Related Disorders",
         "section": "Neurosis",
-        "questionCount": 2
+        "questionCount": 3
       },
       {
         "id": 704,
         "moduleId": "m17",
         "name": "Personality Disorders",
         "section": "Personality Disorders",
-        "questionCount": 42
+        "questionCount": 38
       },
       {
         "id": 705,
         "moduleId": "m18",
         "name": "Somatoform Disorders",
         "section": "Specific Psychiatric Conditions",
-        "questionCount": 5
+        "questionCount": 3
       },
       {
         "id": 706,
@@ -5088,14 +5095,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m20",
         "name": "Dissociative Disorders",
         "section": "Specific Psychiatric Conditions",
-        "questionCount": 13
+        "questionCount": 12
       },
       {
         "id": 708,
         "moduleId": "m21",
         "name": "Sleep Disorders",
         "section": "Specific Psychiatric Conditions",
-        "questionCount": 9
+        "questionCount": 10
       },
       {
         "id": 709,
@@ -5109,14 +5116,14 @@ window.SYLLABUS_DATA = [
         "moduleId": "m23",
         "name": "Impulse-Control Disorders",
         "section": "Specific Psychiatric Conditions",
-        "questionCount": 8
+        "questionCount": 9
       },
       {
         "id": 711,
         "moduleId": "m24",
         "name": "Psychiatric Emergencies",
         "section": "Psychiatric Emergencies",
-        "questionCount": 21
+        "questionCount": 34
       },
       {
         "id": 712,
@@ -5130,35 +5137,35 @@ window.SYLLABUS_DATA = [
         "moduleId": "m26",
         "name": "Sexual Disorders and Sexual Abuse",
         "section": "Sexuality",
-        "questionCount": 5
+        "questionCount": 20
       },
       {
         "id": 714,
         "moduleId": "m27",
         "name": "Intellectual Disability & Specific Learning Disorders",
         "section": "Child Psychiatry",
-        "questionCount": 33
+        "questionCount": 34
       },
       {
         "id": 715,
         "moduleId": "m28",
         "name": "Autism Spectrum Disorder",
         "section": "Child Psychiatry",
-        "questionCount": 46
+        "questionCount": 51
       },
       {
         "id": 716,
         "moduleId": "m29",
         "name": "Attention-Deficit Disorders and Disruptive Behaviour",
         "section": "Child Psychiatry",
-        "questionCount": 27
+        "questionCount": 30
       },
       {
         "id": 717,
         "moduleId": "m30",
         "name": "Special Areas of Childhood Mental Health",
         "section": "Child Psychiatry",
-        "questionCount": 14
+        "questionCount": 20
       },
       {
         "id": 718,
