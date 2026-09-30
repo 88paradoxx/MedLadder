@@ -159,9 +159,15 @@ html.theme-switching,html.theme-switching body,html.theme-switching #app,html.th
   html:not(.dark) .app{padding-top:6px}
   html:not(.dark) .masthead{top:6px;padding:11px 16px}
   html:not(.dark) .hero-wrap{padding:54px 0 34px}
-  html:not(.dark) .bento-stat{padding:10px 12px}
+  html:not(.dark) .bento-bar{max-width:840px;margin:26px 0 18px}
+  html:not(.dark) .home-controls{max-width:920px;margin-left:0;margin-right:0}
+  html:not(.dark) .bento-stat{padding:10px 12px;border-radius:14px}
+  html:not(.dark) .home-search-input{border-radius:16px}
+  html:not(.dark) .cat-tab{padding:9px 18px}
   html:not(.dark) .subject-grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
-  html:not(.dark) .item{min-height:unset;padding:16px 18px}
+  html:not(.dark) .item{min-height:unset;padding:16px 18px;border-radius:20px!important}
+  html:not(.dark) .item-icon-box{width:44px;height:44px;border-radius:14px}
+  html:not(.dark) .item .cmeta{font-size:13px}
 }
 .subject-grid .item:hover .subject-icon-img{filter:drop-shadow(0 5px 8px rgba(124,58,237,.3))}
 .btn-go-pro{box-shadow:0 5px 16px rgba(190,24,93,.2)}
