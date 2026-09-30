@@ -1075,3 +1075,12 @@ html:not(.dark) .screen-setup .pill-choice.active{color:#fff;background:linear-g
 .screen-setup .btn.start{background:linear-gradient(135deg,#2563eb,#0891b2);box-shadow:0 10px 22px rgba(14,165,233,.25)}
 html:not(.dark) .screen-setup .pill-choice.active{background:linear-gradient(135deg,#2563eb,#0891b2);border-color:#38bdf8;box-shadow:0 5px 14px rgba(14,165,233,.22)}
 html:not(.dark) .screen-setup .pill-choice:hover{background:rgba(14,165,233,.1);border-color:rgba(8,145,178,.42)}
+
+/* Figma-inspired control finish */
+.screen-setup .pill-row{gap:4px;padding:4px;border-radius:11px;background:rgba(24,20,46,.72);border:1px solid rgba(148,163,184,.2);box-shadow:0 2px 8px rgba(0,0,0,.12)}
+.screen-setup .pill-choice{min-height:32px;padding:7px 12px;border-radius:8px;background:transparent;border:1px solid transparent;box-shadow:none;font-size:12px;font-weight:700}
+.screen-setup .pill-choice:hover{transform:none;background:rgba(148,163,184,.12);border-color:rgba(148,163,184,.28);box-shadow:none}
+.screen-setup .pill-choice.active{background:#2563eb;border-color:#2563eb;border-radius:8px;box-shadow:0 2px 7px rgba(37,99,235,.28),inset 0 1px 0 rgba(255,255,255,.2)}
+html:not(.dark) .screen-setup .pill-row{background:#f8f7fb;border-color:#ddd7e8;box-shadow:0 2px 8px rgba(49,36,76,.06)}
+html:not(.dark) .screen-setup .pill-choice:hover{background:#eeeafa;border-color:#d7cfee}
+html:not(.dark) .screen-setup .pill-choice.active{background:#2563eb;border-color:#2563eb}

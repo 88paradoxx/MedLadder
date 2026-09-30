@@ -2526,8 +2526,8 @@ window.addEventListener('error', function (ev) {
           });
           var customModuleCard = document.getElementById('customModuleCard');
           if (customModuleCard) {
-            customModuleCard.onclick = function () { renderCustomSetup(); };
-            customModuleCard.onkeydown = function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); renderCustomSetup(); } };
+            customModuleCard.onclick = function () { setupChoice.count = 'all'; renderCustomSetup(); };
+            customModuleCard.onkeydown = function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setupChoice.count = 'all'; renderCustomSetup(); } };
           }
           var resetBtn = document.getElementById('resetAll');
           if (resetBtn) {
@@ -3153,7 +3153,6 @@ window.addEventListener('error', function (ev) {
         app.classList.add('screen-setup');
         var pool = customPool();
         setupChoice.pool = pool;
-        if (setupChoice.count === 'all') setupChoice.count = 50;
         if (!setupChoice.customCount) setupChoice.customCount = 50;
         if (!setupChoice.customTime) setupChoice.customTime = 30;
         var total = pool.questionCount;
@@ -3753,6 +3752,7 @@ window.addEventListener('error', function (ev) {
         var customCard = e.target && e.target.closest ? e.target.closest('#customModuleCard') : null;
         if (customCard) {
           e.preventDefault();
+          setupChoice.count = 'all';
           renderCustomSetup();
           return;
         }
