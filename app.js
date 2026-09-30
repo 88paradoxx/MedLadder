@@ -1,4 +1,5 @@
 window.addEventListener('error', function (ev) {
+      document.documentElement.classList.add('app-ready');
       var app = document.getElementById('app');
       if (app && app.textContent.indexOf('Loading question bank') !== -1) {
         app.innerHTML = '<main id="mainContent" role="main" style="padding:40px 20px;text-align:center;">' +
@@ -4112,6 +4113,7 @@ window.addEventListener('error', function (ev) {
 
       window.addEventListener('popstate', handleSeoRoute);
       handleSeoRoute();
+      document.documentElement.classList.add('app-ready');
       initAuth();
 
       if ('serviceWorker' in navigator) {

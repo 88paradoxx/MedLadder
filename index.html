@@ -156,7 +156,10 @@ html:not(.dark) .item{background:#fff!important;border:1.5px solid rgba(109,40,2
 .item .num{font-weight:800;font-size:13px;color:var(--accent);width:34px;height:34px;min-width:34px;border-radius:10px;background:var(--accent-soft);display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;letter-spacing:-.02em}
 html.dark .item .num{background:rgba(167,139,250,.14);color:#c4b5fd;border:1px solid rgba(167,139,250,.2)}
 html:not(.dark) .item .num{background:#f5eefd;color:#6d28d9;border:1px solid rgba(109,40,217,.16)}
-.admin-footer-link { cursor: pointer; }</style>
+.admin-footer-link { cursor: pointer; }
+/* Hide the legacy static shell until the current app bundle has rendered. */
+#app{visibility:hidden}html.app-ready #app{visibility:visible}
+</style>
   <link rel="stylesheet" href="/app.css" media="print" id="full-app-css">
   <noscript><link rel="stylesheet" href="/app.css"></noscript>
   <link rel="stylesheet" href="/quiz-pro.css">
