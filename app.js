@@ -2800,7 +2800,7 @@ window.addEventListener('error', function (ev) {
         wireTopBar(function () { renderPYQSetup(examId); });
 
         // Query Supabase: filter by is_pyq = true AND pyq_exam = examId
-        var query = supabaseClient.from('questions').select('id,question_num,q_num,question,question_text,option_a,option_b,option_c,option_d,option_e,correct_answer,answer,explanation,subject,pyq_year,year,image_url,image')
+        var query = supabaseClient.from('questions').select('id,question_num,q_num,question,question_text,option_a,option_b,option_c,option_d,option_e,correct_answer,answer,explanation,subject,pyq_year,year,image_url')
           .eq('is_pyq', true)
           .eq('pyq_exam', examId);
 
@@ -3276,7 +3276,7 @@ window.addEventListener('error', function (ev) {
         wireTopBar(function () { renderSetup(state.subjectId, state.moduleId || 'all'); });
 
         // Build Supabase Query
-        var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation,image_url,image');
+        var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation,image_url');
         if (pool.moduleId === 'all') {
           query = query.in('module_id', pool.moduleDbIds);
         } else {
