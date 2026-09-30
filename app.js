@@ -2410,7 +2410,7 @@ window.addEventListener('error', function (ev) {
               scoreHtml = '<span class="score-pill">✓ ' + scorePct + '% last run</span>';
             }
             var slug = s.name.toLowerCase().replace(/&/g, '-').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-            var iconHtml = '<img src="/assets/subjects/' + slug + '.png" alt="' + esc(s.name) + '" class="subject-icon-img" width="36" height="36" loading="lazy">';
+            var iconHtml = '<img src="/assets/subjects-webp/' + slug + '.webp" onerror="this.onerror=null;this.src=\'/assets/subjects/' + slug + '.png\'" alt="' + esc(s.name) + '" class="subject-icon-img" width="36" height="36" loading="lazy">';
             return (
               '<button class="item" data-sid="' + s.subjectId + '" data-cat="' + s.cat + '" data-name="' + esc(s.name.toLowerCase()) + '" style="animation-delay:' + (Math.min(i, 12) * 0.02) + 's">' +
               '<div class="item-icon-box">' + iconHtml + '</div>' +
@@ -2923,14 +2923,14 @@ window.addEventListener('error', function (ev) {
 
         var allCard = isAllLocked
           ? ('<button class="item pro-locked" data-mod="all" data-locked="true" style="animation-delay:0s;border:1.5px solid rgba(255,178,61,0.38);">' +
-            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects/' + subjSlug + '.png" alt="" class="subject-icon-img" width="36" height="36"></div>' +
+            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects-webp/' + subjSlug + '.webp" onerror="this.onerror=null;this.src=\'/assets/subjects/' + subjSlug + '.png\'" alt="" class="subject-icon-img" width="36" height="36"></div>' +
             '<span class="num">✦</span>' +
             '<span class="info"><span class="cname">All topics <span class="pro-lock-pill">🔒 PRO</span>' + (allScore ? ' <span class="score-pill">' + allScore + '</span>' : '') + '</span>' +
             '<span class="cmeta">' + allCount + ' questions across every topic · Pro Full Mock Exam</span></span>' +
             '<span class="pro-lock-icon">🔒</span>' +
             '</button>')
           : ('<button class="item" data-mod="all" data-locked="false" style="animation-delay:0s;border:1.5px solid var(--accent);">' +
-            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects/' + subjSlug + '.png" alt="" class="subject-icon-img" width="36" height="36"></div>' +
+            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects-webp/' + subjSlug + '.webp" onerror="this.onerror=null;this.src=\'/assets/subjects/' + subjSlug + '.png\'" alt="" class="subject-icon-img" width="36" height="36"></div>' +
             '<span class="num">✦</span>' +
             '<span class="info"><span class="cname">All topics' + (allScore ? ' <span class="score-pill">' + allScore + '</span>' : '') + '</span>' +
             '<span class="cmeta">' + allCount + ' questions across every topic</span></span>' +
