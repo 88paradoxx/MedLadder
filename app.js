@@ -3108,7 +3108,8 @@ window.addEventListener('error', function (ev) {
       var COUNT_OPTIONS = [10, 25, 50, 100, 150, 200, 300];
       var TIME_OPTIONS = [
         { label: 'No limit', value: 0 }, { label: '10 min', value: 600 },
-        { label: '20 min', value: 1200 }, { label: '30 min', value: 1800 }
+        { label: '20 min', value: 1200 }, { label: '30 min', value: 1800 },
+        { label: '1 hour', value: 3600 }, { label: '2 hours', value: 7200 }
       ];
 
       function resolveSetupCount(total) {
