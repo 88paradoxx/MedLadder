@@ -172,6 +172,10 @@ html.theme-switching,html.theme-switching body,html.theme-switching #app,html.th
 /* Keep the hero composition centered in both themes and at desktop widths. */
 .hero-wrap{text-align:center}
 .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto;margin-right:auto}
+@media (min-width:641px){
+  .home-controls{margin-left:auto!important;margin-right:auto!important}
+  .category-tabs{justify-content:center}
+}
 .subject-grid .item:hover .subject-icon-img{filter:drop-shadow(0 5px 8px rgba(124,58,237,.3))}
 .btn-go-pro{box-shadow:0 5px 16px rgba(190,24,93,.2)}
 .btn-go-pro:hover{box-shadow:0 8px 22px rgba(190,24,93,.3)}
