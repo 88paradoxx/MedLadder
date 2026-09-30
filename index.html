@@ -160,7 +160,7 @@ html:not(.dark) .item .num{background:#f5eefd;color:#6d28d9;border:1px solid rgb
 /* Hide the legacy static shell until the current app bundle has rendered. */
 #app{visibility:hidden}html.app-ready #app{visibility:visible}
 </style>
-  <link rel="stylesheet" href="/app.css" media="print" id="full-app-css">
+  <link rel="stylesheet" href="/app.css" id="full-app-css">
   <noscript><link rel="stylesheet" href="/app.css"></noscript>
   <link rel="stylesheet" href="/quiz-pro.css">
 </head>
@@ -168,329 +168,22 @@ html:not(.dark) .item .num{background:#f5eefd;color:#6d28d9;border:1px solid rgb
 <body>
 
   <div class="app" id="app">
-    <header class="masthead glass" role="banner">
-      <a href="/" class="brand" style="text-decoration:none;"><span class="brand-icon">⚡</span><span>MedLadder</span></a>
-      <span class="right">
-        <span class="stat"><span class="stat-dot"></span>37,076 MCQs</span>
-        <button class="btn-go-pro" id="headerGoProBtn" title="Upgrade to MedLadder Pro (₹199)">⚡ Pro</button>
-        <button class="auth-btn" id="authTriggerBtn" title="Sign in or create account"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg><span>Sign In</span></button>
-        <button class="theme-toggle" id="themeToggle" title="Switch to light mode" aria-label="Toggle theme">☀</button>
-      </span>
-    </header>
-    <main id="mainContent" role="main">
-    <div class="hero-wrap">
-      <div class="hero-eyebrow">⚡ FMGE · NEET PG · INI-CET · NEET SS</div>
-      <h1 class="title">Med<span class="brand-gradient">Ladder</span></h1>
-      <p class="subtitle">Your climb through FMGE, NEET PG, INICET &amp; NEET SS — 19 subjects, 37,076 MCQs including Previous Year Questions. Pick a subject or launch a PYQ test.</p>
-      <div class="bento-bar">
-        <div class="bento-stat"><div class="bento-stat-num">19</div><div class="bento-stat-lbl">Subjects</div></div>
-        <div class="bento-stat"><div class="bento-stat-num">739</div><div class="bento-stat-lbl">Topics</div></div>
-        <div class="bento-stat"><div class="bento-stat-num">37,076</div><div class="bento-stat-lbl">Total MCQs</div></div>
-        <div class="bento-stat"><div class="bento-stat-num">5 Exams</div><div class="bento-stat-lbl">PYQ Papers</div></div>
+    <main id="mainContent" role="main" class="app-loading" aria-live="polite">
+      <div class="loading-card glass" style="max-width:420px;margin:18vh auto;padding:32px 24px;text-align:center;">
+        <div class="loading-logo">MedLadder</div>
+        <div class="loading-sub">Loading your question bank…</div>
+        <div class="loading-spinner" aria-hidden="true"></div>
       </div>
-      <div class="home-controls">
-        <div class="home-search-wrap">
-          <span class="home-search-icon">🔍</span>
-          <input type="text" id="homeSearchInput" class="home-search-input" placeholder="Search 19 subjects or keywords (e.g. Anatomy, Cardiology, Surgery)..." autocomplete="off" />
-          <button class="home-search-clear hidden" id="homeSearchClear">✕</button>
-        </div>
-        <div class="category-tabs">
-          <button class="cat-tab active" data-filter="all">All (19)</button>
-          <button class="cat-tab" data-filter="pre">Pre-Clinical (3)</button>
-          <button class="cat-tab" data-filter="para">Para-Clinical (4)</button>
-          <button class="cat-tab" data-filter="clinical">Clinical (12)</button>
-          <button class="cat-tab" data-filter="pyq">⭐ PYQ Banks (5)</button>
-        </div>
-      </div>
-    </div>
-    <div class="subject-grid" id="subjectGrid">
-      <button class="item" data-sid="1000109" data-cat="pre" data-name="anatomy" style="animation-delay:0.00s">
-        <div class="item-icon-box"><img src="/assets/subjects/anatomy.png" alt="Anatomy" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Pre-Clinical</span>
-          <span class="cname">Anatomy</span>
-          <span class="cmeta">1,710 questions · 58 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000110" data-cat="pre" data-name="physiology" style="animation-delay:0.02s">
-        <div class="item-icon-box"><img src="/assets/subjects/physiology.png" alt="Physiology" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Pre-Clinical</span>
-          <span class="cname">Physiology</span>
-          <span class="cmeta">1,655 questions · 40 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000187" data-cat="pre" data-name="biochemistry" style="animation-delay:0.04s">
-        <div class="item-icon-box"><img src="/assets/subjects/biochemistry.png" alt="Biochemistry" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Pre-Clinical</span>
-          <span class="cname">Biochemistry</span>
-          <span class="cmeta">1,523 questions · 27 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000112" data-cat="para" data-name="pathology" style="animation-delay:0.06s">
-        <div class="item-icon-box"><img src="/assets/subjects/pathology.png" alt="Pathology" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Para-Clinical</span>
-          <span class="cname">Pathology</span>
-          <span class="cmeta">1,880 questions · 64 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000185" data-cat="para" data-name="microbiology" style="animation-delay:0.08s">
-        <div class="item-icon-box"><img src="/assets/subjects/microbiology.png" alt="Microbiology" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Para-Clinical</span>
-          <span class="cname">Microbiology</span>
-          <span class="cmeta">1,637 questions · 31 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000114" data-cat="para" data-name="pharmacology" style="animation-delay:0.10s">
-        <div class="item-icon-box"><img src="/assets/subjects/pharmacology.png" alt="Pharmacology" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Para-Clinical</span>
-          <span class="cname">Pharmacology</span>
-          <span class="cmeta">1,503 questions · 51 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000115" data-cat="para" data-name="forensic medicine" style="animation-delay:0.12s">
-        <div class="item-icon-box"><img src="/assets/subjects/forensic-medicine.png" alt="Forensic Medicine" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Para-Clinical</span>
-          <span class="cname">Forensic Medicine</span>
-          <span class="cmeta">1,194 questions · 21 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000116" data-cat="clinical" data-name="ent" style="animation-delay:0.14s">
-        <div class="item-icon-box"><img src="/assets/subjects/ent.png" alt="ENT" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">ENT</span>
-          <span class="cmeta">1,207 questions · 36 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000117" data-cat="clinical" data-name="ophthalmology" style="animation-delay:0.16s">
-        <div class="item-icon-box"><img src="/assets/subjects/ophthalmology.png" alt="Ophthalmology" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Ophthalmology</span>
-          <span class="cmeta">1,693 questions · 26 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000118" data-cat="clinical" data-name="psm" style="animation-delay:0.18s">
-        <div class="item-icon-box"><img src="/assets/subjects/psm.png" alt="PSM" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">PSM</span>
-          <span class="cmeta">2,200 questions · 56 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000119" data-cat="clinical" data-name="medicine" style="animation-delay:0.20s">
-        <div class="item-icon-box"><img src="/assets/subjects/medicine.png" alt="Medicine" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Medicine</span>
-          <span class="cmeta">2,855 questions · 69 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000120" data-cat="clinical" data-name="surgery" style="animation-delay:0.22s">
-        <div class="item-icon-box"><img src="/assets/subjects/surgery.png" alt="Surgery" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Surgery</span>
-          <span class="cmeta">2,197 questions · 51 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000155" data-cat="clinical" data-name="ob &amp; g" style="animation-delay:0.24s">
-        <div class="item-icon-box"><img src="/assets/subjects/ob-g.png" alt="OB &amp; G" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">OB &amp; G</span>
-          <span class="cmeta">2,030 questions · 44 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000122" data-cat="clinical" data-name="pediatrics" style="animation-delay:0.24s">
-        <div class="item-icon-box"><img src="/assets/subjects/pediatrics.png" alt="Pediatrics" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Pediatrics</span>
-          <span class="cmeta">1,304 questions · 34 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000190" data-cat="clinical" data-name="anaesthesia" style="animation-delay:0.24s">
-        <div class="item-icon-box"><img src="/assets/subjects/anaesthesia.png" alt="Anaesthesia" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Anaesthesia</span>
-          <span class="cmeta">1,121 questions · 24 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000124" data-cat="clinical" data-name="dermatology" style="animation-delay:0.24s">
-        <div class="item-icon-box"><img src="/assets/subjects/dermatology.png" alt="Dermatology" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Dermatology</span>
-          <span class="cmeta">962 questions · 24 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000141" data-cat="clinical" data-name="orthopaedics" style="animation-delay:0.24s">
-        <div class="item-icon-box"><img src="/assets/subjects/orthopaedics.png" alt="Orthopaedics" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Orthopaedics</span>
-          <span class="cmeta">1,362 questions · 30 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000161" data-cat="clinical" data-name="psychiatry" style="animation-delay:0.24s">
-        <div class="item-icon-box"><img src="/assets/subjects/psychiatry.png" alt="Psychiatry" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Psychiatry</span>
-          <span class="cmeta">936 questions · 33 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-      <button class="item" data-sid="1000127" data-cat="clinical" data-name="radiology" style="animation-delay:0.24s">
-        <div class="item-icon-box"><img src="/assets/subjects/radiology.png" alt="Radiology" class="subject-icon-img" width="36" height="36" loading="lazy"></div>
-        <div class="info">
-          <span class="item-category-tag">Clinical</span>
-          <span class="cname">Radiology</span>
-          <span class="cmeta">1,245 questions · 20 topics</span>
-        </div>
-        <span class="arrow">›</span>
-      </button>
-    </div>
-    <div id="homeNoMatch" class="no-match-card hidden">No subjects match your search.</div>
-    <div class="pyq-section-wrap">
-      <button class="pyq-section-header" id="pyqBankToggle" aria-expanded="false">
-        <div class="pyq-header-left">
-          <span class="pyq-header-icon">📚</span>
-          <div class="pyq-header-text">
-            <strong>Previous Year Questions (PYQ Bank)</strong>
-            <span>NEET PG · INICET · AIIMS · NEET SS · FMGE — Pro Feature</span>
-          </div>
-        </div>
-        <div class="pyq-header-right">
-          <span class="pyq-pro-badge">⭐ PRO</span>
-          <span class="pyq-chevron">▾</span>
-        </div>
-      </button>
-      <div class="pyq-cards-wrap" id="pyqCardsWrap">
-        <div class="pyq-cards-grid">
-        <button class="pyq-exam-card" data-pyq-exam="NEET PG" title="National Eligibility cum Entrance Test PG">
-          <span class="pyq-exam-icon">🏥</span>
-          <span class="pyq-exam-info">
-            <strong>NEET PG</strong>
-            <span>National Eligibility cum Entrance Test PG</span>
-            <span class="pyq-year-badge">📅 2018 – 2025 · 8 Years (1,640+ MCQs)</span>
-          </span>
-          <span class="pyq-exam-lock">🔒 PRO</span>
-        </button>
-        <button class="pyq-exam-card" data-pyq-exam="INICET" title="Institute of National Importance CET">
-          <span class="pyq-exam-icon">🔬</span>
-          <span class="pyq-exam-info">
-            <strong>INICET</strong>
-            <span>Institute of National Importance CET</span>
-            <span class="pyq-year-badge">📅 2020 – 2025 · 10 Sessions (1,460+ MCQs)</span>
-          </span>
-          <span class="pyq-exam-lock">🔒 PRO</span>
-        </button>
-        <button class="pyq-exam-card" data-pyq-exam="FMGE" title="Foreign Medical Graduate Examination">
-          <span class="pyq-exam-icon">🌐</span>
-          <span class="pyq-exam-info">
-            <strong>FMGE</strong>
-            <span>Foreign Medical Graduate Examination</span>
-            <span class="pyq-year-badge">📅 2020 – 2025 · 10 Sessions (2,430+ MCQs)</span>
-          </span>
-          <span class="pyq-exam-lock">🔒 PRO</span>
-        </button>
-        <button class="pyq-exam-card" data-pyq-exam="AIIMS" title="All India Institute of Medical Sciences">
-          <span class="pyq-exam-icon">🏛️</span>
-          <span class="pyq-exam-info">
-            <strong>AIIMS PG</strong>
-            <span>All India Institute of Medical Sciences</span>
-            <span class="pyq-year-badge">📅 2019 – 2020 Recalls · High-Yield</span>
-          </span>
-          <span class="pyq-exam-lock">🔒 PRO</span>
-        </button>
-        <button class="pyq-exam-card" data-pyq-exam="NEET SS" title="Super Speciality Entrance Test">
-          <span class="pyq-exam-icon">⚕️</span>
-          <span class="pyq-exam-info">
-            <strong>NEET SS</strong>
-            <span>Super Speciality Entrance Test</span>
-            <span class="pyq-year-badge">📅 2022 – 2024 Exam Question Papers</span>
-          </span>
-          <span class="pyq-exam-lock">🔒 PRO</span>
-        </button>
-        </div>
-      </div>
-    </div>
-    <div class="mode-note" id="homeModeNote">
-      <span>Progress is kept for this session only.</span> <button class="auth-link" id="noteSignInBtn" style="font-weight:600;">Sign in to save progress</button> <span class="mode-note-sep" aria-hidden="true">·</span> <button class="reset-link" id="resetAll">Reset all progress</button>
-    </div>
     </main>
-    <footer class="credit">
-      <div class="footer-content">
-        <a href="https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-v1.0.apk" class="footer-apk-btn" download="MedLadder-v1.0.apk" title="Download MedLadder Android APK (v1.0)">
-          <span class="footer-apk-icon">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.4116 13.8533 8.125 12 8.125s-3.5902.2866-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg>
-          </span>
-          <span class="footer-apk-text">
-            <span class="footer-apk-sub">Android App</span>
-            <span class="footer-apk-title">Download APK</span>
-          </span>
-          <span class="footer-apk-badge">
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-            <span>v1.0</span>
-          </span>
-        </a>
-        <div class="footer-social-row">
-          <a href="https://www.facebook.com/profile.php?id=61568903965858" target="_blank" rel="noopener noreferrer" class="footer-social-btn fb" aria-label="Facebook" title="MedLadder on Facebook">
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-          </a>
-          <a href="https://www.instagram.com/medladder2026/" target="_blank" rel="noopener noreferrer" class="footer-social-btn insta" aria-label="Instagram" title="MedLadder on Instagram">
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
-          </a>
-          <a href="https://x.com/medladder2026" target="_blank" rel="noopener noreferrer" class="footer-social-btn x-tw" aria-label="X (formerly Twitter)" title="MedLadder on X">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 23.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-          </a>
-          <a href="https://t.me/+JdqZ1YlJ-NhlOThl" target="_blank" rel="noopener noreferrer" class="footer-social-btn tg" aria-label="Telegram" title="MedLadder on Telegram">
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.161c-.18 1.897-.962 6.502-1.359 8.627-.168.9-.5 1.201-.82 1.23-.697.064-1.226-.46-1.901-.903-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.479.329-.913.489-1.302.481-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.477-1.635.099-.002.321.023.465.14.121.099.155.232.164.333-.008.068.002.193-.006.31z"/></svg>
-          </a>
-        </div>
-        <div class="footer-links-row">
-          <a href="/privacy" class="footer-link">Privacy Policy</a>
-          <span class="footer-dot" aria-hidden="true">·</span>
-          <a href="/terms" class="footer-link">Terms of Service</a>
-          <span class="footer-dot" aria-hidden="true">·</span>
-          <a href="/terms#cancellation-refund" class="footer-link">Refund Policy</a>
-        </div>
-        <div class="footer-copy">
-          <strong>MedLadder</strong> · Medical Entrance Exam Question Bank
-        </div>
-        <div class="footer-subcopy">
-          MBBS · FMGE · NEET PG · INI-CET · NEET SS · USMLE · MCAT · PLAB · MRCS · MRCP · State PG
-        </div>
-      </div>
-    </footer>
-
   </div>
+
+  <noscript>
+    <main style="max-width:760px;margin:48px auto;padding:24px;font-family:system-ui,sans-serif;color:#f8fafc;background:#171329;border-radius:16px;">
+      <h1>MedLadder Medical Question Bank</h1>
+      <p>Practice medical MCQs for FMGE, NEET PG, INI-CET and NEET SS. JavaScript is required to load the interactive question bank.</p>
+      <p><a href="/subjects/anatomy">Anatomy</a> · <a href="/subjects/physiology">Physiology</a> · <a href="/subjects/pharmacology">Pharmacology</a> · <a href="/subjects/medicine">Medicine</a></p>
+    </main>
+  </noscript>
 
   <!-- Deferred Scripts -->
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js" crossorigin="anonymous" integrity="sha384-0w2KAL2YHP6wKOkUDzkCDGgVvfmHnj02DHeQ6XcHOgTfFsGyonKOpShMH1x6nk9o" defer></script>
@@ -501,3 +194,4 @@ html:not(.dark) .item .num{background:#f5eefd;color:#6d28d9;border:1px solid rgb
 </body>
 
 </html>
+
