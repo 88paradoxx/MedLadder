@@ -2922,7 +2922,7 @@ window.addEventListener('error', function (ev) {
         wireTopBar(function () { renderPYQSetup(examId); });
 
         // Query Supabase: filter by is_pyq = true AND pyq_exam = examId
-        var query = supabaseClient.from('questions').select('id,question_num,q_num,question_text,option_a,option_b,option_c,option_d,option_e,correct_answer,answer,explanation,subject,pyq_year,year')
+        var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation,subject,pyq_year')
           .eq('is_pyq', true)
           .eq('pyq_exam', examId);
 
@@ -2961,7 +2961,7 @@ window.addEventListener('error', function (ev) {
             if (r.option_d) opts.D = r.option_d;
             if (r.option_e) opts.E = r.option_e;
             return {
-              num: String(r.question_num || r.q_num || r.id),
+              num: String(r.question_num || r.id),
               question: r.question_text || '',
               options: opts,
               answer: r.correct_answer || r.answer || 'A',

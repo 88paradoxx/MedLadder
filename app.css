@@ -173,6 +173,72 @@ html.theme-switching,html.theme-switching body,html.theme-switching #app,html.th
 @media (max-width: 640px) {
   html .app.screen-quiz > .masthead { top: 2px; }
 }
+
+/* The account menu is used on the home screen, before deferred quiz styles load. */
+.auth-dropdown {
+  width: min(318px, calc(100vw - 24px));
+  padding: 14px;
+}
+.dashboard-kicker {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0 2px 9px;
+  color: var(--accent-deep);
+  font-size: 10px;
+  font-weight: 850;
+  letter-spacing: .1em;
+}
+.dashboard-live-dot {
+  width: 6px;
+  height: 6px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 8px var(--green-soft);
+}
+.dashboard-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 7px;
+}
+.dashboard-stat-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 3px;
+  padding: 9px 8px;
+  border: 1px solid var(--glass-border);
+  border-radius: 13px;
+  background: var(--paper);
+}
+.dashboard-stat-icon {
+  display: inline-flex;
+  width: 22px;
+  height: 22px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2px;
+  border-radius: 7px;
+  font-size: 10px;
+  font-weight: 850;
+}
+.dashboard-stat-icon.purple { color: var(--accent); background: var(--accent-soft); }
+.dashboard-stat-icon.cyan { color: #087e8b; background: rgba(6,182,212,.13); }
+.dashboard-stat-icon.amber { color: var(--amber); background: var(--amber-soft); }
+.dashboard-stat-value { color: var(--ink); font-size: 15px; font-weight: 850; letter-spacing: -.03em; line-height: 1.1; }
+.dashboard-stat-label { color: var(--ink-soft); font-size: 9.5px; font-weight: 650; white-space: nowrap; }
+.dashboard-progress-note {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 9px 2px 0;
+  color: var(--ink-soft);
+  font-size: 10.5px;
+  line-height: 1.4;
+}
+.dashboard-progress-dot { width: 6px; height: 6px; flex: 0 0 auto; border-radius: 50%; background: var(--accent); }
+html.dark .dashboard-stat-icon.cyan { color: #a5f3fc; }
 /* Keep the hero composition centered in both themes and at desktop widths. */
 .hero-wrap{text-align:center}
 .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
