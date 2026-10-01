@@ -1,0 +1,11 @@
+{
+  "appId": "com.medladder.app",
+  "appName": "MedLadder",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}

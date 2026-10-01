@@ -43,6 +43,12 @@ Live site: https://medladder.top/
 2. Deploy the static files. Run `python3 generate_seo.py` after any syllabus / template change and commit the output.
 3. Run the tests: `node tools/test-edge-functions.js` and `python3 tools/browser-test/run.py`.
 
+## Android APK
+
+The Capacitor Android wrapper bundles the web app in `www/`. Build and sync it with `npm run android:sync`, then run `android\\gradlew.bat assembleDebug` on Windows. The installable debug APK is written to `android/app/build/outputs/apk/debug/app-debug.apk`.
+
+Google sign-in uses the system browser and returns to the app through `com.medladder.app://auth/callback`. Add that exact URI under Supabase Dashboard → Authentication → URL Configuration → Redirect URLs before using OAuth in the APK. The Android intent filter and callback handler are included in this project.
+
 ## License
 
 All rights reserved.

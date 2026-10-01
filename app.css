@@ -212,3 +212,9 @@ html:not(.dark) .custom-module-copy span{color:#5b5272}html:not(.dark) .custom-m
 .btn-go-pro{box-shadow:0 5px 16px rgba(190,24,93,.2)}
 .btn-go-pro:hover{box-shadow:0 8px 22px rgba(190,24,93,.3)}
 @media (prefers-reduced-motion:reduce){.hero-wrap::after{animation:none}.subject-grid .item,.bento-stat{transition:none}}
+/* Reduce outer page gutters so the app uses more of the available viewport. */
+:root{--ui-max:1360px}
+.app{padding-left:16px;padding-right:16px}
+@media (max-width:900px){.app{padding-left:12px;padding-right:12px}}
+@media (max-width:640px){.app{padding-left:8px;padding-right:8px}}
+@media (max-width:480px){.app{padding-left:6px;padding-right:6px}}

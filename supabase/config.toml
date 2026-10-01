@@ -5,6 +5,9 @@
 
 project_id = "groeibwykzrliphzzruk"
 
+[auth]
+additional_redirect_urls = ["com.medladder.app://auth/callback"]
+
 [functions.razorpay-order]
 verify_jwt = false
 

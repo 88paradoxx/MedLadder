@@ -1252,6 +1252,50 @@ window.addEventListener('error', function (ev) {
         console.warn('Supabase client failed to initialize:', e);
       }
 
+      function finishNativeOAuth(urlString) {
+        var nativeBridge = window.MedLadderNative;
+        if (!nativeBridge || !nativeBridge.isNative || !urlString ||
+            urlString.indexOf('com.medladder.app://auth/callback') !== 0) return;
+
+        nativeBridge.Browser.close().catch(function () {});
+        var callback;
+        try { callback = new URL(urlString); } catch (e) { return; }
+        var callbackParams = new URLSearchParams(callback.hash.replace(/^#/, ''));
+        var authError = callback.searchParams.get('error_description') || callbackParams.get('error_description') ||
+          callback.searchParams.get('error') || callbackParams.get('error');
+        if (authError) {
+          setAuthAlert('error', authError);
+          return;
+        }
+
+        var authCode = callback.searchParams.get('code');
+        var sessionPromise;
+        if (authCode) {
+          sessionPromise = supabaseClient.auth.exchangeCodeForSession(authCode);
+        } else {
+          var accessToken = callbackParams.get('access_token');
+          var refreshToken = callbackParams.get('refresh_token');
+          if (!accessToken || !refreshToken) return;
+          sessionPromise = supabaseClient.auth.setSession({ access_token: accessToken, refresh_token: refreshToken });
+        }
+        sessionPromise.then(function (result) {
+          if (result && result.error) setAuthAlert('error', result.error.message || 'Could not finish sign-in.');
+        }).catch(function (error) {
+          setAuthAlert('error', error && error.message ? error.message : 'Could not finish sign-in.');
+        });
+      }
+
+      (function listenForNativeOAuthReturn() {
+        var nativeBridge = window.MedLadderNative;
+        if (!nativeBridge || !nativeBridge.isNative) return;
+        nativeBridge.App.addListener('appUrlOpen', function (event) {
+          finishNativeOAuth(event && event.url);
+        });
+        nativeBridge.App.getLaunchUrl().then(function (launch) {
+          if (launch && launch.url) finishNativeOAuth(launch.url);
+        }).catch(function () {});
+      })();
+
       function getUserDisplayName(user) {
         if (!user) return 'Doctor';
         if (user.user_metadata && user.user_metadata.full_name) return user.user_metadata.full_name;
@@ -1919,10 +1963,13 @@ window.addEventListener('error', function (ev) {
           b.innerHTML = '<span class="auth-spinner" style="border-top-color:var(--accent);"></span> Connecting to Google...';
         });
 
+        var nativeBridge = window.MedLadderNative;
+        var isNativeApp = !!(nativeBridge && nativeBridge.isNative);
         supabaseClient.auth.signInWithOAuth({
           provider: 'google',
           options: {
-            redirectTo: window.location.origin + window.location.pathname
+            redirectTo: isNativeApp ? 'com.medladder.app://auth/callback' : window.location.origin + window.location.pathname,
+            skipBrowserRedirect: isNativeApp
           }
         }).then(function (res) {
           if (res && res.error) {
@@ -1935,6 +1982,11 @@ window.addEventListener('error', function (ev) {
             } else {
               setAuthAlert('error', res.error.message || 'Google Sign-In failed.');
             }
+          } else if (isNativeApp && res && res.data && res.data.url) {
+            nativeBridge.Browser.open({ url: res.data.url }).catch(function (err) {
+              btns.forEach(function (b) { b.disabled = false; });
+              setAuthAlert('error', err && err.message ? err.message : 'Could not open Google Sign-In.');
+            });
           }
         }).catch(function (err) {
           btns.forEach(function (b) {
@@ -2306,6 +2358,8 @@ window.addEventListener('error', function (ev) {
               node.setAttribute('src', src);
               node.setAttribute('alt', node.getAttribute('alt') || 'Clinical exhibit');
               node.className = 'qtext-img';
+              node.setAttribute('loading', 'lazy');
+              node.setAttribute('decoding', 'async');
               return;
             }
             if (!allowed[tag]) {
@@ -3548,6 +3602,17 @@ window.addEventListener('error', function (ev) {
       }
       function currentQuestion() { return state.questions[state.order[state.idx]]; }
 
+      // Drop image element references before replacing a question. Mobile browsers
+      // can otherwise retain decoded image surfaces longer than the removed DOM.
+      function releaseQuestionImages() {
+        var images = app ? app.querySelectorAll('.qimage, .qtext-img') : [];
+        Array.prototype.forEach.call(images, function (img) {
+          img.removeAttribute('src');
+          img.removeAttribute('srcset');
+        });
+        closeExhibitZoom();
+      }
+
       function commitAndAdvance() {
         if (state.idx + 1 < state.order.length) { state.idx++; renderQuiz(); }
         else { clearTimer(); renderResults(); }
@@ -3603,6 +3668,7 @@ window.addEventListener('error', function (ev) {
         var isLast = state.idx + 1 >= total;
         var backFn = state.isPyqMode ? function () { renderPYQSetup(state.pyqExam); } : (state.moduleId === 'custom' ? function () { renderCustomSetup(); } : function () { renderModuleList(state.subjectId); });
 
+        releaseQuestionImages();
         app.innerHTML =
           topBar('Back', backFn) +
           '<main id="mainContent" role="main">' +
@@ -3614,7 +3680,7 @@ window.addEventListener('error', function (ev) {
           '<div class="qcard glass">' +
           '<h1 class="qnum-eyebrow" style="margin:0 0 10px;font-size:11px;line-height:1.4;">Question ' + (state.idx + 1) + ' of ' + total + ' · <span style="color:var(--accent);text-transform:none;letter-spacing:normal;font-weight:700;">' + esc(state.poolTitle) + '</span></h1>' +
           '<div class="qtext">' + sanitizeQuestionHtml(q.question || '') + '</div>' +
-          (q.image_url ? '<div class="qimage-container"><img src="' + esc(q.image_url) + '" class="qimage" alt="Clinical Exhibit" /><div class="qimage-zoom-hint">🔍 Click image to inspect full exhibit</div></div>' : '') +
+          (q.image_url ? '<div class="qimage-container"><img src="' + esc(q.image_url) + '" class="qimage" alt="Clinical Exhibit" loading="lazy" decoding="async" /><div class="qimage-zoom-hint">🔍 Click image to inspect full exhibit</div></div>' : '') +
           '<div class="options">' + optsHtml + '</div>' +
           explainHtml +
           '</div>' +
@@ -3705,6 +3771,7 @@ window.addEventListener('error', function (ev) {
 
       function renderResults(timedOut) {
         clearTimer();
+        releaseQuestionImages();
         state.screen = 'results';
         var total = state.order.length;
         var correct = Object.values(state.answers).filter(function (a) { return a.isCorrect; }).length;
@@ -3891,7 +3958,14 @@ window.addEventListener('error', function (ev) {
       };
       window.closeExhibitZoom = function () {
         var overlay = document.getElementById('imageModalOverlay');
-        if (overlay) overlay.classList.add('hidden');
+        if (overlay) {
+          overlay.classList.add('hidden');
+          var img = document.getElementById('imageModalImg');
+          if (img) {
+            img.removeAttribute('src');
+            img.removeAttribute('srcset');
+          }
+        }
       };
       // Global delegation for modal close buttons & overlay clicks
       document.addEventListener('click', function (e) {
