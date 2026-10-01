@@ -2944,6 +2944,13 @@ window.addEventListener('error', function (ev) {
           var idxs = fetchedQuestions.map(function (q, i) { return i; });
           var picked = (setupChoice.orderMode === 'shuffled') ? shuffle(idxs) : idxs.slice();
           if (setupChoice.count !== 'all') picked = picked.slice(0, setupChoice.count);
+          // Keep only the questions that will be shown. PYQ banks can return
+          // thousands of rows with long explanations and image URLs; retaining
+          // the unused rows wastes memory on mobile for the whole quiz session.
+          var selectedQuestions = picked.map(function (questionIndex) { return fetchedQuestions[questionIndex]; });
+          picked = selectedQuestions.map(function (q, i) { return i; });
+          rows = null;
+          fetchedQuestions = null;
 
           var yearLabelInTitle = isAll ? '' : (' · ' + selectedYear);
           state = {
@@ -2951,7 +2958,7 @@ window.addEventListener('error', function (ev) {
             subjectId: null,
             moduleId: 'pyq_' + examId + '_' + selectedYear.replace(/\s+/g, '_'),
             poolTitle: exam.icon + ' ' + exam.name + yearLabelInTitle,
-            questions: fetchedQuestions,
+            questions: selectedQuestions,
             order: picked,
             idx: 0,
             answers: {},
@@ -3550,9 +3557,16 @@ window.addEventListener('error', function (ev) {
           var picked = (setupChoice.orderMode === 'shuffled') ? shuffle(idxs) : idxs.slice();
           var selectedCount = resolveSetupCount(fetchedQuestions.length);
           if (selectedCount !== 'all') picked = picked.slice(0, selectedCount);
+          // Discard unselected records immediately. Question HTML and rationale
+          // fields can be large, and phones otherwise retain the entire fetched
+          // module even when the user asked for a short quiz.
+          var selectedQuestions = picked.map(function (questionIndex) { return fetchedQuestions[questionIndex]; });
+          picked = selectedQuestions.map(function (q, i) { return i; });
+          rows = null;
+          fetchedQuestions = null;
 
           state = {
-            screen: 'quiz', subjectId: state.subjectId, moduleId: state.moduleId, poolTitle: pool.title, questions: fetchedQuestions,
+            screen: 'quiz', subjectId: state.subjectId, moduleId: state.moduleId, poolTitle: pool.title, questions: selectedQuestions,
             order: picked, idx: 0, answers: {}, quizType: setupChoice.quizType, timeLimit: setupChoice.timeLimit,
             remaining: setupChoice.timeLimit, timerId: null, progressKey: pool.key
           };
@@ -3618,7 +3632,7 @@ window.addEventListener('error', function (ev) {
       // Drop image element references before replacing a question. Mobile browsers
       // can otherwise retain decoded image surfaces longer than the removed DOM.
       function releaseQuestionImages() {
-        var images = app ? app.querySelectorAll('.qimage, .qtext-img') : [];
+        var images = app ? app.querySelectorAll('.qimage, .qtext-img, .rq-img, .rexplain img') : [];
         Array.prototype.forEach.call(images, function (img) {
           img.removeAttribute('src');
           img.removeAttribute('srcset');
@@ -3848,7 +3862,7 @@ window.addEventListener('error', function (ev) {
             return '<div class="' + cls + '">' + L + '. ' + esc(q.options[L] || '') + '</div>';
           }).join('');
           var skipTag = (!a || a.skipped) ? '<div class="skip-tag">Not answered</div>' : '';
-          var imgHtml = q.image_url ? '<div style="margin:8px 0;"><img src="' + esc(q.image_url) + '" class="rq-img" alt="Exhibit" style="cursor:zoom-in;" /></div>' : '';
+          var imgHtml = q.image_url ? '<div style="margin:8px 0;"><img src="' + esc(q.image_url) + '" class="rq-img" alt="Exhibit" loading="lazy" decoding="async" style="cursor:zoom-in;" /></div>' : '';
           return '<div class="review-item">' +
             '<div class="rq">' + (idx + 1) + '. ' + sanitizeQuestionHtml(q.question || '') + '</div>' +
             imgHtml +
