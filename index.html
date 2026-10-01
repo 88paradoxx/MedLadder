@@ -4,16 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>
-    /* Apply the saved theme before any stylesheet can paint the default shell. */
-    (function () {
-      try {
-        if (localStorage.getItem('medladder_theme') === 'light') {
-          document.documentElement.classList.remove('dark');
-        }
-      } catch (e) {}
-    }());
-  </script>
+  <script src="/theme-init.js"></script>
   <title>MedLadder — MBBS · NEET PG · FMGE · INI-CET · USMLE · PLAB · MRCS · MRCP QBank</title>
   <meta name="description" content="Prepare for MBBS, FMGE, NEET PG, INI-CET, NEET SS, USMLE, MCAT, PLAB, MRCS, MRCP and State PG exams with MedLadder. Practice 37,076 medical MCQs, previous-year questions, detailed explanations and track your performance.">
   <meta name="robots" content="index, follow, max-image-preview:large">
@@ -137,8 +128,8 @@
   <!-- Deferred Scripts -->
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js" crossorigin="anonymous" integrity="sha384-0w2KAL2YHP6wKOkUDzkCDGgVvfmHnj02DHeQ6XcHOgTfFsGyonKOpShMH1x6nk9o" defer></script>
   <script src="/syllabus.js" defer></script>
-  <script src="/app.js" defer></script>
   <script src="/gtag-init.js" defer></script>
+  <script src="/app.js" defer></script>
   <script src="/analytics-loader.js" defer></script>
 </body>
 

@@ -234,8 +234,8 @@ def main():
   <script src="{SUPABASE_JS_URL}" crossorigin="anonymous" integrity="sha384-0w2KAL2YHP6wKOkUDzkCDGgVvfmHnj02DHeQ6XcHOgTfFsGyonKOpShMH1x6nk9o" defer></script>
   <script src="/syllabus.js" defer></script>
   <script src="/app.js" defer></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5VJLV9KRH"></script>
   <script src="/gtag-init.js" defer></script>
+  <script src="/analytics-loader.js" defer></script>
 </body>
 
 </html>

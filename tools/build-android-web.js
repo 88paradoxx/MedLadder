@@ -13,7 +13,7 @@ fs.mkdirSync(webDir, { recursive: true });
 
 const files = [
   'index.html', 'app.css', 'quiz-pro.css', 'app.js', 'syllabus.js',
-  'gtag-init.js', 'analytics-loader.js', 'manifest.json', 'favicon.ico',
+  'gtag-init.js', 'analytics-loader.js', 'theme-init.js', 'manifest.json', 'favicon.ico',
   'privacy.html', 'terms.html', 'robots.txt', 'sitemap.xml'
 ];
 const directories = ['assets', 'icons', 'subjects', 'fmge', 'inicet', 'ini-cet', 'neet-pg', 'neet-ss'];
