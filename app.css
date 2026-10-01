@@ -218,3 +218,56 @@ html:not(.dark) .custom-module-copy span{color:#5b5272}html:not(.dark) .custom-m
 @media (max-width:900px){.app{padding-left:12px;padding-right:12px}}
 @media (max-width:640px){.app{padding-left:8px;padding-right:8px}}
 @media (max-width:480px){.app{padding-left:6px;padding-right:6px}}
+/* Keep tablet and narrow-window geometry identical across light and dark themes. */
+@media (min-width:641px) and (max-width:900px){
+  .app{padding-top:6px}
+  .masthead{top:6px;padding:11px 16px}
+  .hero-wrap{padding:54px 0 34px;text-align:center}
+  .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
+  h1.title{font-size:clamp(44px,7vw,76px);letter-spacing:-.065em;margin-bottom:16px}
+  .subtitle{max-width:62ch;font-size:15px;line-height:1.7}
+  .bento-bar{max-width:840px;gap:12px;margin:26px auto 18px}
+  .home-controls{max-width:920px;margin-left:auto!important;margin-right:auto!important}
+  .bento-stat{min-height:72px;padding:10px 12px;border-radius:14px}
+  .home-search-input{height:52px;border-radius:16px}
+  .category-tabs{gap:7px;padding-bottom:10px;justify-content:center}
+  .cat-tab{padding:9px 18px}
+  .subject-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-bottom:38px}
+  .item{min-height:unset;align-items:flex-start;padding:16px 18px;border-radius:20px!important}
+  .item-icon-box{width:44px;height:44px;border-radius:14px}
+  .item .cmeta{font-size:13px}
+}
+/* Final phone rules: keep theme changes from inheriting tablet/desktop metrics. */
+@media (max-width:640px){
+  .masthead{height:58px;min-height:58px;padding:8px 10px;margin-bottom:14px;transition:background-color .18s ease,border-color .18s ease,box-shadow .18s ease}
+  .masthead .right{height:40px;gap:5px}
+  .masthead .brand-icon{width:28px;height:28px;flex:0 0 28px}
+  .theme-toggle{width:38px;height:38px;flex:0 0 38px}
+  .hero-wrap{padding:34px 0 24px;text-align:center}
+  .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
+  h1.title{font-size:46px;line-height:1.1;letter-spacing:-.03em;margin-bottom:14px}
+  .subtitle{max-width:62ch;font-size:13px;line-height:1.55}
+  .bento-bar{gap:9px;margin-top:18px}
+  .bento-stat{min-height:64px;padding:10px 7px}
+  .bento-stat-num{font-size:17px}
+  .home-search-input{height:48px}
+  .subject-grid{grid-template-columns:1fr;gap:11px}
+  .item{min-height:97px;padding:16px}
+  .item-icon-box{width:44px;height:44px}
+  /* Older light-theme selectors are more specific; normalize their geometry here. */
+  html:not(.dark) .app{padding-top:10px}
+  html:not(.dark) .masthead{top:8px;height:58px;min-height:58px;padding:8px 10px;margin-bottom:14px}
+  html:not(.dark) .masthead .right{height:40px;gap:5px}
+  html:not(.dark) .theme-toggle{width:38px;height:38px;flex:0 0 38px}
+  html:not(.dark) .hero-wrap{padding:34px 0 24px}
+  .hero-eyebrow{font-size:11px;letter-spacing:.08em;padding:6px 12px}
+  html:not(.dark) .hero-eyebrow{font-size:11px;letter-spacing:.08em;padding:6px 12px}
+  html:not(.dark) h1.title{font-size:46px;line-height:1.1;letter-spacing:-.03em;margin-bottom:14px}
+  html:not(.dark) .subtitle{max-width:62ch;font-size:13px;line-height:1.55}
+  html:not(.dark) .bento-bar{max-width:840px;gap:9px;margin:18px auto}
+  html:not(.dark) .bento-stat{min-height:64px;padding:10px 7px}
+  html:not(.dark) .home-controls{max-width:100%;margin:0 auto 24px}
+  html:not(.dark) .subject-grid{grid-template-columns:1fr;gap:11px}
+  html:not(.dark) .item{min-height:97px;padding:16px}
+  html:not(.dark) .item-icon-box{width:44px;height:44px}
+}

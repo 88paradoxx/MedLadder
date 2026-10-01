@@ -2437,6 +2437,14 @@ window.addEventListener('error', function (ev) {
         if (state._quizKeyHandler) { window.removeEventListener('keydown', state._quizKeyHandler); state._quizKeyHandler = null; }
       }
 
+      function releaseQuizPayload() {
+        releaseQuestionImages();
+        state.questions = [];
+        state.order = [];
+        state.answers = {};
+        state.idx = 0;
+      }
+
       function totalQuestions() {
         var t = 0;
         for (var i = 0; i < SUBJECT_INDEX.length; i++) t += SUBJECT_INDEX[i].questionCount;
@@ -2449,6 +2457,7 @@ window.addEventListener('error', function (ev) {
       // ---------- HOME: subject list ----------
       function renderHome(force) {
         clearTimer();
+        releaseQuizPayload();
         state.screen = 'home';
         if (app) {
           app.classList.remove('screen-quiz', 'screen-setup');
@@ -2692,6 +2701,7 @@ window.addEventListener('error', function (ev) {
           return renderPYQSetup(examId);
         }
         clearTimer();
+        releaseQuizPayload();
 
         // If server Pro check is in-flight, wait for it before showing paywall
         if (_proStatusPromise) {
@@ -3002,6 +3012,7 @@ window.addEventListener('error', function (ev) {
           return;
         }
         clearTimer();
+        releaseQuizPayload();
         state.screen = 'modules';
         var subjMeta = SUBJECT_INDEX.find(function (s) { return s.subjectId === subjectId; });
         var modules = getSubjectModules(subjectId);
@@ -3246,6 +3257,7 @@ window.addEventListener('error', function (ev) {
           return;
         }
         clearTimer();
+        releaseQuizPayload();
         state.screen = 'setup';
         state.isPyqMode = false;
         state.subjectId = null;
@@ -3312,6 +3324,7 @@ window.addEventListener('error', function (ev) {
           return;
         }
         clearTimer();
+        releaseQuizPayload();
         state.screen = 'setup';
         app.classList.remove('screen-quiz');
         app.classList.add('screen-setup');
@@ -3674,7 +3687,7 @@ window.addEventListener('error', function (ev) {
           '<main id="mainContent" role="main">' +
           '<div class="qmeta-row">' +
           '<span class="chap-tag">' + esc(state.poolTitle) + '</span>' +
-          '<span class="score-tag" style="display:flex;align-items:center;gap:8px;">' + timerHtml + correctSoFar + ' / ' + answeredCount + ' correct</span>' +
+          '<span class="score-tag" style="display:flex;align-items:center;gap:8px;">' + timerHtml + '<span id="scoreText">' + correctSoFar + ' / ' + answeredCount + ' correct</span></span>' +
           '</div>' +
           '<div class="qprog-track"><div class="qprog-fill" style="width:' + Math.round(((state.idx) / total) * 100) + '%"></div></div>' +
           '<div class="qcard glass">' +
@@ -3708,11 +3721,43 @@ window.addEventListener('error', function (ev) {
         app.querySelectorAll('.opt').forEach(function (btn) {
           btn.addEventListener('click', function () {
             if (state.answers[q.num]) return;
-            btn.classList.add('selected');
             var L = btn.getAttribute('data-letter');
             state.answers[q.num] = { picked: L, isCorrect: L === q.answer };
             saveProgress();
-            renderQuiz();
+
+            // Reveal the answer in place. Rebuilding the full quiz screen here
+            // needlessly reloads the current exhibit image on every answer.
+            var answer = state.answers[q.num];
+            app.querySelectorAll('.opt').forEach(function (option) {
+              var optionLetter = option.getAttribute('data-letter');
+              option.disabled = true;
+              option.classList.add('locked');
+              if (optionLetter === q.answer) option.classList.add('correct');
+              else if (optionLetter === answer.picked) option.classList.add('incorrect');
+              else option.classList.add('dim');
+            });
+
+            var correctNow = Object.values(state.answers).filter(function (item) { return item.isCorrect; }).length;
+            var scoreText = document.getElementById('scoreText');
+            if (scoreText) scoreText.textContent = correctNow + ' / ' + Object.keys(state.answers).length + ' correct';
+
+            var explanationHtml = '<div class="explain show"><span class="exlabel">💡 Clinical Rationale &amp; Explanation</span>' +
+              (q.explanation ? formatExplanation(q.explanation) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
+              '</div>';
+            var optionsContainer = app.querySelector('.options');
+            if (optionsContainer) optionsContainer.insertAdjacentHTML('afterend', explanationHtml);
+            var explanationBox = app.querySelector('.explain');
+            if (explanationBox) {
+              explanationBox.addEventListener('click', function (event) {
+                var target = event.target;
+                if (target && (target.tagName === 'A' || target.closest('a'))) {
+                  event.preventDefault();
+                  event.stopPropagation();
+                }
+              });
+            }
+            var nextButton = document.getElementById('nextBtn');
+            if (nextButton) nextButton.disabled = false;
           });
         });
         document.getElementById('nextBtn').addEventListener('click', function () { commitAndAdvance(); });
