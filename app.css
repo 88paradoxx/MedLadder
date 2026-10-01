@@ -169,6 +169,10 @@ html.theme-switching,html.theme-switching body,html.theme-switching #app,html.th
   html:not(.dark) .item-icon-box{width:44px;height:44px;border-radius:14px}
   html:not(.dark) .item .cmeta{font-size:13px}
 }
+
+@media (max-width: 640px) {
+  html .app.screen-quiz > .masthead { top: 2px; }
+}
 /* Keep the hero composition centered in both themes and at desktop widths. */
 .hero-wrap{text-align:center}
 .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
