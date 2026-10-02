@@ -154,7 +154,7 @@ footer.credit{padding-top:44px}
 .subject-grid .item:nth-child(3n) .item-icon-box{background:#fff5df!important}
 html.dark .subject-grid .item:nth-child(3n+2) .item-icon-box{background:#153743!important}
 html.dark .subject-grid .item:nth-child(3n) .item-icon-box{background:#40331c!important}
-html.theme-switching,html.theme-switching body,html.theme-switching #app,html.theme-switching *,html.theme-switching *::before,html.theme-switching *::after{transition:none!important;animation:none!important}
+html.theme-switching,html.theme-switching body,html.theme-switching #app,html.theme-switching *,html.theme-switching *::before,html.theme-switching *::after{transition:none!important}
 @media (min-width:641px){
   html:not(.dark) .app{padding-top:6px}
   html:not(.dark) .masthead{top:6px;padding:11px 16px}
@@ -271,3 +271,176 @@ html:not(.dark) .custom-module-copy span{color:#5b5272}html:not(.dark) .custom-m
   html:not(.dark) .item{min-height:97px;padding:16px}
   html:not(.dark) .item-icon-box{width:44px;height:44px}
 }
+
+@media (max-width: 640px) {
+  html .app.screen-quiz > .masthead { top: 2px; }
+}
+
+/* The account menu is used on the home screen, before deferred quiz styles load. */
+.auth-dropdown {
+  width: min(318px, calc(100vw - 24px));
+  padding: 14px;
+}
+.dashboard-kicker {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0 2px 9px;
+  color: var(--accent-deep);
+  font-size: 10px;
+  font-weight: 850;
+  letter-spacing: .1em;
+}
+.dashboard-live-dot {
+  width: 6px;
+  height: 6px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 8px var(--green-soft);
+}
+.dashboard-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 7px;
+}
+.dashboard-stat-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 3px;
+  padding: 9px 8px;
+  border: 1px solid var(--glass-border);
+  border-radius: 13px;
+  background: var(--paper);
+}
+.dashboard-stat-icon {
+  display: inline-flex;
+  width: 22px;
+  height: 22px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2px;
+  border-radius: 7px;
+  font-size: 10px;
+  font-weight: 850;
+}
+.dashboard-stat-icon.purple { color: var(--accent); background: var(--accent-soft); }
+.dashboard-stat-icon.cyan { color: #087e8b; background: rgba(6,182,212,.13); }
+.dashboard-stat-icon.amber { color: var(--amber); background: var(--amber-soft); }
+.dashboard-stat-value { color: var(--ink); font-size: 15px; font-weight: 850; letter-spacing: -.03em; line-height: 1.1; }
+.dashboard-stat-label { color: var(--ink-soft); font-size: 9.5px; font-weight: 650; white-space: nowrap; }
+.dashboard-progress-note {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 9px 2px 0;
+  color: var(--ink-soft);
+  font-size: 10.5px;
+  line-height: 1.4;
+}
+.dashboard-progress-dot { width: 6px; height: 6px; flex: 0 0 auto; border-radius: 50%; background: var(--accent); }
+html.dark .dashboard-stat-icon.cyan { color: #a5f3fc; }
+/* Keep the hero composition centered in both themes and at desktop widths. */
+.hero-wrap{text-align:center}
+.hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
+.hero-wrap .bento-bar{width:100%;max-width:840px!important}
+@media (min-width:641px){
+  html:not(.dark) h1.title{font-size:clamp(44px,7vw,76px);letter-spacing:-.065em}
+  html:not(.dark) .subtitle{max-width:62ch;font-size:15px;line-height:1.7}
+}
+@media (min-width:641px){
+  .home-controls{margin-left:auto!important;margin-right:auto!important}
+  .category-tabs{justify-content:center}
+}
+/* Shared navigation edge light: available on the first paint in both themes. */
+.masthead{position:relative;isolation:isolate;border-color:transparent!important;background-clip:padding-box!important}
+.masthead::before{content:"";position:absolute;inset:-1px;z-index:-1;border-radius:inherit;padding:1px;background:linear-gradient(110deg,#ef4444,#f59e0b,#22c55e,#06b6d4,#6366f1,#ec4899,#ef4444);background-size:220% 100%;opacity:.62;filter:blur(.2px);animation:rainbowEdge 10s linear infinite;-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;pointer-events:none}
+@keyframes rainbowEdge{to{background-position:220% 0}}
+/* Keep the light header legible while retaining its multicolor edge light. */
+html:not(.dark) .masthead{background:#fff!important;box-shadow:0 8px 26px rgba(35,31,56,.10),0 1px 3px rgba(35,31,56,.06)!important}
+html:not(.dark) .masthead .brand{color:#24232d!important}
+html:not(.dark) .masthead .stat{background:#f1f1f6!important;border:1px solid #e2e1ea!important;color:#555465!important}
+html:not(.dark) .masthead .auth-user-btn,html:not(.dark) .masthead .theme-toggle{background:#fff!important;border:1px solid #d8d6e2!important;color:#24232d!important;box-shadow:0 3px 10px rgba(35,31,56,.09)!important}
+html:not(.dark) .masthead .auth-user-btn:hover,html:not(.dark) .masthead .theme-toggle:hover{border-color:#9b78ed!important;box-shadow:0 0 0 3px rgba(124,58,237,.12),0 4px 12px rgba(35,31,56,.1)!important}
+html:not(.dark) .masthead .auth-user-btn svg,html:not(.dark) .masthead .theme-toggle svg{color:#6d28d9}
+/* Improve light-theme contrast in the hero and active category filter. */
+html:not(.dark) .hero-eyebrow{color:#5b21b6!important;background:#eee7ff!important;border:1px solid #d7c8ff!important}
+html:not(.dark) h1.title{color:#211d2b!important}
+html:not(.dark) .brand-gradient{background:linear-gradient(115deg,#6426cc 0%,#8b2fe0 58%,#a21878 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+html:not(.dark) .hero-wrap .subtitle{color:#302b3b!important;font-weight:600!important;text-shadow:none!important}
+html:not(.dark) .cat-tab{color:#514c60;border-color:#d7d4e2;background:#fff}
+html:not(.dark) .cat-tab.active{background:linear-gradient(110deg,#6d28d9,#a21caf)!important;border-color:#7628c8!important;color:#fff!important;box-shadow:0 5px 14px rgba(109,40,217,.28)!important}
+html.dark .hero-wrap .subtitle{font-weight:600!important}
+.custom-module-card{width:100%;display:flex;align-items:center;gap:16px;margin:22px 0 26px;padding:18px 20px;text-align:left;color:var(--ink,#f5f3ff);background:linear-gradient(120deg,rgba(35,27,70,.92),rgba(24,25,47,.96));border:1px solid rgba(168,116,255,.5);border-left:4px solid #a855f7;border-radius:20px;box-shadow:0 12px 30px rgba(104,61,180,.16);cursor:pointer;transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease}
+.custom-module-card:hover,.custom-module-card:focus-visible{transform:translateY(-2px);border-color:#e879f9;box-shadow:0 16px 36px rgba(168,85,247,.24);outline:none}
+.custom-module-icon{display:grid;place-items:center;flex:0 0 44px;width:44px;height:44px;border-radius:14px;font-size:24px;color:#fff;background:linear-gradient(135deg,#7c3aed,#ec4899);box-shadow:0 8px 18px rgba(124,58,237,.35)}
+.custom-module-copy{display:flex;flex-direction:column;gap:4px;min-width:0}.custom-module-copy strong{font-size:17px}.custom-module-copy span{font-size:13px;color:var(--ink-soft,#aaa4c5)}.custom-module-copy small{font-size:11px;color:#c084fc;font-weight:700;letter-spacing:.02em}.custom-module-arrow{margin-left:auto;font-size:30px;color:#c084fc}
+html:not(.dark) .custom-module-card{color:#241b38;background:linear-gradient(120deg,#fff 0%,#f7f4ff 58%,#fff1fa 100%);border-color:rgba(124,58,237,.28);border-left-color:#a855f7;box-shadow:0 10px 28px rgba(91,33,182,.1)}
+html:not(.dark) .custom-module-card:hover,html:not(.dark) .custom-module-card:focus-visible{border-color:#7c3aed;box-shadow:0 14px 32px rgba(124,58,237,.16)}
+html:not(.dark) .custom-module-copy span{color:#5b5272}html:not(.dark) .custom-module-copy small,html:not(.dark) .custom-module-arrow{color:#7c3aed}
+@media (max-width:600px){.custom-module-card{padding:15px 14px;gap:11px;border-radius:16px}.custom-module-icon{flex-basis:38px;width:38px;height:38px;font-size:20px}.custom-module-copy strong{font-size:15px}.custom-module-copy span{font-size:12px}.custom-module-copy small{font-size:10px}.custom-module-arrow{font-size:26px}}
+.subject-grid .item:hover .subject-icon-img{filter:drop-shadow(0 5px 8px rgba(124,58,237,.3))}
+.btn-go-pro{box-shadow:0 5px 16px rgba(190,24,93,.2)}
+.btn-go-pro:hover{box-shadow:0 8px 22px rgba(190,24,93,.3)}
+@media (prefers-reduced-motion:reduce){.hero-wrap::after{animation:none}.subject-grid .item,.bento-stat{transition:none}}
+/* Reduce outer page gutters so the app uses more of the available viewport. */
+:root{--ui-max:1360px}
+.app{padding-left:16px;padding-right:16px}
+@media (max-width:900px){.app{padding-left:12px;padding-right:12px}}
+@media (max-width:640px){.app{padding-left:8px;padding-right:8px}}
+@media (max-width:480px){.app{padding-left:6px;padding-right:6px}}
+/* Keep tablet and narrow-window geometry identical across light and dark themes. */
+@media (min-width:641px) and (max-width:900px){
+  .app{padding-top:6px}
+  .masthead{top:6px;padding:11px 16px}
+  .hero-wrap{padding:54px 0 34px;text-align:center}
+  .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
+  h1.title{font-size:clamp(44px,7vw,76px);letter-spacing:-.065em;margin-bottom:16px}
+  .subtitle{max-width:62ch;font-size:15px;line-height:1.7}
+  .bento-bar{max-width:840px;gap:12px;margin:26px auto 18px}
+  .home-controls{max-width:920px;margin-left:auto!important;margin-right:auto!important}
+  .bento-stat{min-height:72px;padding:10px 12px;border-radius:14px}
+  .home-search-input{height:52px;border-radius:16px}
+  .category-tabs{gap:7px;padding-bottom:10px;justify-content:center}
+  .cat-tab{padding:9px 18px}
+  .subject-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-bottom:38px}
+  .item{min-height:unset;align-items:flex-start;padding:16px 18px;border-radius:20px!important}
+  .item-icon-box{width:44px;height:44px;border-radius:14px}
+  .item .cmeta{font-size:13px}
+}
+/* Final phone rules: keep theme changes from inheriting tablet/desktop metrics. */
+@media (max-width:640px){
+  .masthead{height:58px;min-height:58px;padding:8px 10px;margin-bottom:14px;transition:background-color .18s ease,border-color .18s ease,box-shadow .18s ease}
+  .masthead .right{height:40px;gap:5px}
+  .masthead .brand-icon{width:28px;height:28px;flex:0 0 28px}
+  .theme-toggle{width:38px;height:38px;flex:0 0 38px}
+  .hero-wrap{padding:34px 0 24px;text-align:center}
+  .hero-wrap .hero-eyebrow,.hero-wrap .subtitle,.hero-wrap .bento-bar{margin-left:auto!important;margin-right:auto!important}
+  h1.title{font-size:46px;line-height:1.1;letter-spacing:-.03em;margin-bottom:14px}
+  .subtitle{max-width:62ch;font-size:13px;line-height:1.55}
+  .bento-bar{gap:9px;margin-top:18px}
+  .bento-stat{min-height:64px;padding:10px 7px}
+  .bento-stat-num{font-size:17px}
+  .home-search-input{height:48px}
+  .subject-grid{grid-template-columns:1fr;gap:11px}
+  .item{min-height:97px;padding:16px}
+  .item-icon-box{width:44px;height:44px}
+  /* Older light-theme selectors are more specific; normalize their geometry here. */
+  html:not(.dark) .app{padding-top:10px}
+  html:not(.dark) .masthead{top:8px;height:58px;min-height:58px;padding:8px 10px;margin-bottom:14px}
+  html:not(.dark) .masthead .right{height:40px;gap:5px}
+  html:not(.dark) .theme-toggle{width:38px;height:38px;flex:0 0 38px}
+  html:not(.dark) .hero-wrap{padding:34px 0 24px}
+  .hero-eyebrow{font-size:11px;letter-spacing:.08em;padding:6px 12px}
+  html:not(.dark) .hero-eyebrow{font-size:11px;letter-spacing:.08em;padding:6px 12px}
+  html:not(.dark) h1.title{font-size:46px;line-height:1.1;letter-spacing:-.03em;margin-bottom:14px}
+  html:not(.dark) .subtitle{max-width:62ch;font-size:13px;line-height:1.55}
+  html:not(.dark) .bento-bar{max-width:840px;gap:9px;margin:18px auto}
+  html:not(.dark) .bento-stat{min-height:64px;padding:10px 7px}
+  html:not(.dark) .home-controls{max-width:100%;margin:0 auto 24px}
+  html:not(.dark) .subject-grid{grid-template-columns:1fr;gap:11px}
+  html:not(.dark) .item{min-height:97px;padding:16px}
+  html:not(.dark) .item-icon-box{width:44px;height:44px}
+}
+

@@ -2324,6 +2324,26 @@ window.addEventListener('error', function (ev) {
           .replace(/"/g, '&quot;')
           .replace(/'/g, '&#39;');
       }
+      // Bound Supabase question images to direct CDN object cache (avoiding slow on-the-fly transcoding freezes).
+      function optimizeQuestionImageUrl(src) {
+        if (!src) return '';
+        try {
+          var url = new URL(String(src), window.location.href);
+          if (!/\.supabase\.co$/i.test(url.hostname)) return String(src);
+          if (url.pathname.startsWith('/storage/v1/render/image/public/')) {
+            url.pathname = url.pathname.replace('/storage/v1/render/image/public/', '/storage/v1/object/public/');
+            url.search = '';
+          } else if (url.pathname.startsWith('/storage/v1/object/public/')) {
+            url.search = '';
+          }
+          return url.toString();
+        } catch (_) {
+          return String(src);
+        }
+      }
+      // Local diagnostic switch: append ?debugNoQuestionImages=1 to suppress
+      // question and explanation images while isolating mobile quiz freezes.
+      var debugNoQuestionImages = new URLSearchParams(window.location.search).get('debugNoQuestionImages') === '1';
       // Render question stems that may contain trusted editorial HTML (e.g. <br> and <img>)
       // without exposing arbitrary markup or event-handler attributes to the page.
       function sanitizeQuestionHtml(input) {
@@ -2349,14 +2369,19 @@ window.addEventListener('error', function (ev) {
             if (node.nodeType !== Node.ELEMENT_NODE) return;
             var tag = node.tagName.toUpperCase();
             if (tag === 'IMG') {
+              if (debugNoQuestionImages) {
+                node.remove();
+                return;
+              }
               var src = node.getAttribute('src') || '';
+              var alt = node.getAttribute('alt') || 'Clinical exhibit';
               if (!/^https?:\/\//i.test(src)) {
                 node.remove();
                 return;
               }
               Array.from(node.attributes).forEach(function (attr) { node.removeAttribute(attr.name); });
-              node.setAttribute('src', src);
-              node.setAttribute('alt', node.getAttribute('alt') || 'Clinical exhibit');
+              node.setAttribute('src', optimizeQuestionImageUrl(src));
+              node.setAttribute('alt', alt);
               node.className = 'qtext-img';
               node.setAttribute('loading', 'lazy');
               node.setAttribute('decoding', 'async');
@@ -2891,7 +2916,7 @@ window.addEventListener('error', function (ev) {
         wireTopBar(function () { renderPYQSetup(examId); });
 
         // Query Supabase: filter by is_pyq = true AND pyq_exam = examId
-        var query = supabaseClient.from('questions').select('id,question_num,q_num,question,question_text,option_a,option_b,option_c,option_d,option_e,correct_answer,answer,explanation,subject,pyq_year,year,image_url')
+        var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation,subject,pyq_year')
           .eq('is_pyq', true)
           .eq('pyq_exam', examId);
 
@@ -2930,14 +2955,13 @@ window.addEventListener('error', function (ev) {
             if (r.option_d) opts.D = r.option_d;
             if (r.option_e) opts.E = r.option_e;
             return {
-              num: String(r.question_num || r.q_num || r.id),
-              question: r.question || r.question_text || '',
+              num: String(r.question_num || r.id),
+              question: r.question_text || '',
               options: opts,
               answer: r.correct_answer || r.answer || 'A',
               explanation: r.explanation || '',
               subject: r.subject || 'General',
-              year: r.pyq_year || r.year || selectedYear,
-              image_url: r.image_url || r.image || ''
+              year: r.pyq_year || r.year || selectedYear
             };
           });
 
@@ -3497,7 +3521,7 @@ window.addEventListener('error', function (ev) {
         wireTopBar(function () { isCustom ? renderCustomSetup() : renderSetup(state.subjectId, state.moduleId || 'all'); });
 
         // Build Supabase Query
-        var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation,image_url');
+        var query = supabaseClient.from('questions').select('id,question_num,question_text,option_a,option_b,option_c,option_d,option_e,answer,explanation');
         if (pool.moduleId === 'all' || pool.moduleId === 'custom') {
           query = query.in('module_id', pool.moduleDbIds);
         } else {
@@ -3548,8 +3572,7 @@ window.addEventListener('error', function (ev) {
               question: r.question_text || '',
               options: opts,
               answer: r.answer || 'A',
-              explanation: r.explanation || '',
-              image_url: r.image_url || r.image || ''
+              explanation: r.explanation || ''
             };
           });
 
@@ -3629,14 +3652,8 @@ window.addEventListener('error', function (ev) {
       }
       function currentQuestion() { return state.questions[state.order[state.idx]]; }
 
-      // Drop image element references before replacing a question. Mobile browsers
-      // can otherwise retain decoded image surfaces longer than the removed DOM.
+      // Cleanly release active zoom modal before rendering new question.
       function releaseQuestionImages() {
-        var images = app ? app.querySelectorAll('.qimage, .qtext-img, .rq-img, .rexplain img') : [];
-        Array.prototype.forEach.call(images, function (img) {
-          img.removeAttribute('src');
-          img.removeAttribute('srcset');
-        });
         closeExhibitZoom();
       }
 
@@ -3707,7 +3724,6 @@ window.addEventListener('error', function (ev) {
           '<div class="qcard glass">' +
           '<h1 class="qnum-eyebrow" style="margin:0 0 10px;font-size:11px;line-height:1.4;">Question ' + (state.idx + 1) + ' of ' + total + ' · <span style="color:var(--accent);text-transform:none;letter-spacing:normal;font-weight:700;">' + esc(state.poolTitle) + '</span></h1>' +
           '<div class="qtext">' + sanitizeQuestionHtml(q.question || '') + '</div>' +
-          (q.image_url ? '<div class="qimage-container"><img src="' + esc(q.image_url) + '" class="qimage" alt="Clinical Exhibit" loading="lazy" decoding="async" /><div class="qimage-zoom-hint">🔍 Click image to inspect full exhibit</div></div>' : '') +
           '<div class="options">' + optsHtml + '</div>' +
           explainHtml +
           '</div>' +
@@ -3862,10 +3878,8 @@ window.addEventListener('error', function (ev) {
             return '<div class="' + cls + '">' + L + '. ' + esc(q.options[L] || '') + '</div>';
           }).join('');
           var skipTag = (!a || a.skipped) ? '<div class="skip-tag">Not answered</div>' : '';
-          var imgHtml = q.image_url ? '<div style="margin:8px 0;"><img src="' + esc(q.image_url) + '" class="rq-img" alt="Exhibit" loading="lazy" decoding="async" style="cursor:zoom-in;" /></div>' : '';
           return '<div class="review-item">' +
             '<div class="rq">' + (idx + 1) + '. ' + sanitizeQuestionHtml(q.question || '') + '</div>' +
-            imgHtml +
             optsHtml + skipTag +
             '<div class="rexplain">' + (q.explanation ? formatExplanation(q.explanation) : 'No explanation captured.') + '</div>' +
             '</div>';

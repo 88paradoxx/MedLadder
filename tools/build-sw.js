@@ -16,6 +16,7 @@ const FILES_TO_HASH = [
   'app.css',
   'syllabus.js',
   'gtag-init.js',
+  'theme-init.js',
   'manifest.json',
   'optimize_lcp.js',
   'landing.html',

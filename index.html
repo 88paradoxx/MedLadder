@@ -4,16 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>
-    /* Apply the saved theme before any stylesheet can paint the default shell. */
-    (function () {
-      try {
-        if (localStorage.getItem('medladder_theme') === 'light') {
-          document.documentElement.classList.remove('dark');
-        }
-      } catch (e) {}
-    }());
-  </script>
+  <script src="/theme-init.js"></script>
   <title>MedLadder — MBBS · NEET PG · FMGE · INI-CET · USMLE · PLAB · MRCS · MRCP QBank</title>
   <meta name="description" content="Prepare for MBBS, FMGE, NEET PG, INI-CET, NEET SS, USMLE, MCAT, PLAB, MRCS, MRCP and State PG exams with MedLadder. Practice 37,076 medical MCQs, previous-year questions, detailed explanations and track your performance.">
   <meta name="robots" content="index, follow, max-image-preview:large">
