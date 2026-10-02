@@ -2407,13 +2407,52 @@ window.addEventListener('error', function (ev) {
         return tpl.innerHTML;
       }
 
-      function formatExplanation(text) {
+      function storageImageUrl(image) {
+        if (!image || !image.storage_bucket || !image.storage_path) return '';
+        return SUPABASE_URL + '/storage/v1/object/public/' +
+          encodeURIComponent(image.storage_bucket) + '/' +
+          String(image.storage_path).split('/').map(encodeURIComponent).join('/');
+      }
+
+      function renderQuestionContent(text, images) {
+        var imageById = {};
+        (images || []).forEach(function (image) { imageById[String(image.id)] = image; });
+        var expanded = String(text || '').replace(/\[\[mlimg:([0-9a-f-]{36})\]\]/gi, function (marker, id) {
+          var image = imageById[id];
+          var src = storageImageUrl(image);
+          if (!src) return '';
+          return '<img src="' + esc(src) + '" alt="' + esc(image.alt_text || 'Clinical exhibit') + '">';
+        });
+        return sanitizeQuestionHtml(expanded);
+      }
+
+      function formatExplanation(text, images) {
         if (!text) return '';
         var cleaned = String(text)
           .replace(/<a\b[^>]*>([\s\S]*?)<\/a>/gi, '<span class="explain-text-link">$1</span>')
           .replace(/<a\b[^>]*>/gi, '')
           .replace(/<\/a>/gi, '');
-        return sanitizeQuestionHtml(cleaned);
+        return renderQuestionContent(cleaned, images);
+      }
+
+      function loadQuestionImages(questionRows) {
+        if (!supabaseClient || !questionRows || !questionRows.length) return Promise.resolve([]);
+        var ids = questionRows.map(function (row) { return row.id; }).filter(function (id) { return id !== null && id !== undefined; });
+        var batches = [];
+        for (var i = 0; i < ids.length; i += 250) batches.push(ids.slice(i, i + 250));
+        return Promise.all(batches.map(function (batch) {
+          return supabaseClient.from('question_images')
+            .select('id,question_id,content_field,ordinal,storage_bucket,storage_path,alt_text')
+            .in('question_id', batch)
+            .order('ordinal', { ascending: true });
+        })).then(function (responses) {
+          var images = [];
+          responses.forEach(function (response) {
+            if (response.error) throw response.error;
+            images.push.apply(images, response.data || []);
+          });
+          return images;
+        });
       }
       function themeBtnHtml() {
         return '<button class="theme-toggle" id="themeToggle" title="' + (darkMode ? 'Switch to light mode' : 'Switch to dark mode') + '" aria-label="Toggle theme">' + (darkMode ? '☀' : '☾') + '</button>';
@@ -2952,6 +2991,14 @@ window.addEventListener('error', function (ev) {
             return;
           }
 
+          return loadQuestionImages(rows).then(function (imageRows) {
+          var imagesByQuestion = {};
+          imageRows.forEach(function (image) {
+            var key = String(image.question_id);
+            if (!imagesByQuestion[key]) imagesByQuestion[key] = { question_text: [], explanation: [] };
+            imagesByQuestion[key][image.content_field].push(image);
+          });
+
           // Map rows into quiz schema (support both Supabase columns and JSON properties)
           var fetchedQuestions = rows.map(function (r) {
             var opts = {};
@@ -2961,11 +3008,14 @@ window.addEventListener('error', function (ev) {
             if (r.option_d) opts.D = r.option_d;
             if (r.option_e) opts.E = r.option_e;
             return {
+              id: r.id,
               num: String(r.question_num || r.id),
               question: r.question_text || '',
               options: opts,
               answer: r.correct_answer || r.answer || 'A',
               explanation: r.explanation || '',
+              questionImages: (imagesByQuestion[String(r.id)] || {}).question_text || [],
+              explanationImages: (imagesByQuestion[String(r.id)] || {}).explanation || [],
               subject: r.subject || 'General',
               year: r.pyq_year || r.year || selectedYear
             };
@@ -3004,6 +3054,8 @@ window.addEventListener('error', function (ev) {
 
           renderQuiz();
           if (state.timeLimit > 0) startOverallTimer();
+
+          });
 
         }).catch(function (err) {
           quizLoadInFlight = false;
@@ -3564,6 +3616,14 @@ window.addEventListener('error', function (ev) {
             return;
           }
 
+          return loadQuestionImages(rows).then(function (imageRows) {
+          var imagesByQuestion = {};
+          imageRows.forEach(function (image) {
+            var key = String(image.question_id);
+            if (!imagesByQuestion[key]) imagesByQuestion[key] = { question_text: [], explanation: [] };
+            imagesByQuestion[key][image.content_field].push(image);
+          });
+
           // Map rows from Supabase into MedLadder question schema
           var fetchedQuestions = rows.map(function (r) {
             var opts = {};
@@ -3574,11 +3634,14 @@ window.addEventListener('error', function (ev) {
             if (r.option_e) opts.E = r.option_e;
 
             return {
+              id: r.id,
               num: String(r.question_num || r.id),
               question: r.question_text || '',
               options: opts,
               answer: r.answer || 'A',
-              explanation: r.explanation || ''
+              explanation: r.explanation || '',
+              questionImages: (imagesByQuestion[String(r.id)] || {}).question_text || [],
+              explanationImages: (imagesByQuestion[String(r.id)] || {}).explanation || []
             };
           });
 
@@ -3610,6 +3673,8 @@ window.addEventListener('error', function (ev) {
             is_pyq: !!state.isPyqMode
           });
           if (state.timeLimit > 0) startOverallTimer();
+
+          });
 
         }).catch(function (err) {
           quizLoadInFlight = false;
@@ -3715,7 +3780,7 @@ window.addEventListener('error', function (ev) {
         var explainHtml = '';
         if (reveal) {
           explainHtml = '<div class="explain show"><span class="exlabel">💡 Clinical Rationale &amp; Explanation</span>' +
-            (q.explanation ? formatExplanation(q.explanation) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
+            (q.explanation ? formatExplanation(q.explanation, q.explanationImages) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
             (existing && existing.skipped ? '<div class="skip-tag">Time ran out before you answered.</div>' : '') +
             '</div>';
         }
@@ -3735,7 +3800,7 @@ window.addEventListener('error', function (ev) {
           '<div class="qprog-track"><div class="qprog-fill" style="width:' + Math.round(((state.idx) / total) * 100) + '%"></div></div>' +
           '<div class="qcard glass">' +
           '<h1 class="qnum-eyebrow" style="margin:0 0 10px;font-size:11px;line-height:1.4;">Question ' + (state.idx + 1) + ' of ' + total + ' · <span style="color:var(--accent);text-transform:none;letter-spacing:normal;font-weight:700;">' + esc(state.poolTitle) + '</span></h1>' +
-          '<div class="qtext">' + sanitizeQuestionHtml(q.question || '') + '</div>' +
+          '<div class="qtext">' + renderQuestionContent(q.question || '', q.questionImages) + '</div>' +
           '<div class="options">' + optsHtml + '</div>' +
           explainHtml +
           '</div>' +
@@ -3784,7 +3849,7 @@ window.addEventListener('error', function (ev) {
             if (scoreText) scoreText.textContent = correctNow + ' / ' + Object.keys(state.answers).length + ' correct';
 
             var explanationHtml = '<div class="explain show"><span class="exlabel">💡 Clinical Rationale &amp; Explanation</span>' +
-              (q.explanation ? formatExplanation(q.explanation) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
+              (q.explanation ? formatExplanation(q.explanation, q.explanationImages) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
               '</div>';
             var optionsContainer = app.querySelector('.options');
             if (optionsContainer) optionsContainer.insertAdjacentHTML('afterend', explanationHtml);
@@ -3891,9 +3956,9 @@ window.addEventListener('error', function (ev) {
           }).join('');
           var skipTag = (!a || a.skipped) ? '<div class="skip-tag">Not answered</div>' : '';
           return '<div class="review-item">' +
-            '<div class="rq">' + (idx + 1) + '. ' + sanitizeQuestionHtml(q.question || '') + '</div>' +
+            '<div class="rq">' + (idx + 1) + '. ' + renderQuestionContent(q.question || '', q.questionImages) + '</div>' +
             optsHtml + skipTag +
-            '<div class="rexplain">' + (q.explanation ? formatExplanation(q.explanation) : 'No explanation captured.') + '</div>' +
+            '<div class="rexplain">' + (q.explanation ? formatExplanation(q.explanation, q.explanationImages) : 'No explanation captured.') + '</div>' +
             '</div>';
         }).join(''); };
         var reviewHtml = '';
