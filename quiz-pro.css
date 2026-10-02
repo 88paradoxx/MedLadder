@@ -1056,5 +1056,20 @@ html:not(.dark) .screen-setup #countRow .pill-choice:hover,html:not(.dark) .scre
 html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .screen-setup #timeRow .pill-choice.active,html:not(.dark) .screen-setup #orderRow .pill-choice.active{background:linear-gradient(145deg,#2563eb,#0891b2);border-color:#38bdf8;color:#fff}
 @media (max-width:600px){.screen-setup #countRow{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.screen-setup #timeRow{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.screen-setup #orderRow{grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.screen-setup #countRow .pill-choice,.screen-setup #timeRow .pill-choice,.screen-setup #orderRow .pill-choice{min-height:42px;padding:9px 6px;font-size:11px;border-radius:10px}}
 
-/* Defer off-screen card painting on long mobile home pages. */
-.subject-grid .item,.pyq-exam-card{content-visibility:auto;contain-intrinsic-size:96px 110px}
+/* Mobile exhibit zoom close button positioning */
+@media (max-width: 640px) {
+  .image-modal-close {
+    top: 14px !important;
+    right: 14px !important;
+    position: fixed !important;
+    width: 44px !important;
+    height: 44px !important;
+    font-size: 22px !important;
+    background: rgba(0, 0, 0, 0.75) !important;
+    border: 1.5px solid rgba(255, 255, 255, 0.4) !important;
+    z-index: 100000 !important;
+    border-radius: 50% !important;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.5) !important;
+  }
+}
+

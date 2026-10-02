@@ -2484,19 +2484,21 @@ window.addEventListener('error', function (ev) {
       }
       function wireRipples(selector) {
         document.querySelectorAll(selector).forEach(function (el) {
+          if (el._rippleWired) return;
+          el._rippleWired = true;
           el.addEventListener('pointerdown', function (evt) {
             addRipple(el, evt);
             el.classList.add('touch-glow');
-          });
+          }, { passive: true });
           el.addEventListener('pointerup', function () {
             setTimeout(function () { el.classList.remove('touch-glow'); }, 500);
-          });
+          }, { passive: true });
           el.addEventListener('pointerleave', function () {
             el.classList.remove('touch-glow');
-          });
+          }, { passive: true });
           el.addEventListener('pointercancel', function () {
             el.classList.remove('touch-glow');
-          });
+          }, { passive: true });
         });
       }
 
@@ -2989,55 +2991,54 @@ window.addEventListener('error', function (ev) {
             return;
           }
 
-          return loadQuestionImages(rows).then(function (imageRows) {
-          var imagesByQuestion = {};
-          imageRows.forEach(function (image) {
-            var key = String(image.question_id);
-            if (!imagesByQuestion[key]) imagesByQuestion[key] = { question_text: [], explanation: [] };
-            imagesByQuestion[key][image.content_field].push(image);
-          });
-
-          // Map rows into quiz schema (support both Supabase columns and JSON properties)
-          var fetchedQuestions = rows.map(function (r) {
-            var opts = {};
-            if (r.option_a) opts.A = r.option_a;
-            if (r.option_b) opts.B = r.option_b;
-            if (r.option_c) opts.C = r.option_c;
-            if (r.option_d) opts.D = r.option_d;
-            if (r.option_e) opts.E = r.option_e;
-            return {
-              id: r.id,
-              num: String(r.question_num || r.id),
-              question: r.question_text || '',
-              options: opts,
-              answer: r.correct_answer || r.answer || 'A',
-              explanation: r.explanation || '',
-              questionImages: (imagesByQuestion[String(r.id)] || {}).question_text || [],
-              explanationImages: (imagesByQuestion[String(r.id)] || {}).explanation || [],
-              subject: r.subject || 'General',
-              year: r.pyq_year || r.year || selectedYear
-            };
-          });
-
-          var idxs = fetchedQuestions.map(function (q, i) { return i; });
+          var idxs = rows.map(function (q, i) { return i; });
           var picked = (setupChoice.orderMode === 'shuffled') ? shuffle(idxs) : idxs.slice();
           if (setupChoice.count !== 'all') picked = picked.slice(0, setupChoice.count);
-          // Keep only the questions that will be shown. PYQ banks can return
-          // thousands of rows with long explanations and image URLs; retaining
-          // the unused rows wastes memory on mobile for the whole quiz session.
-          var selectedQuestions = picked.map(function (questionIndex) { return fetchedQuestions[questionIndex]; });
-          picked = selectedQuestions.map(function (q, i) { return i; });
+          var selectedRows = picked.map(function (questionIndex) { return rows[questionIndex]; });
           rows = null;
-          fetchedQuestions = null;
 
-          var yearLabelInTitle = isAll ? '' : (' · ' + selectedYear);
-          state = {
-            screen: 'quiz',
-            subjectId: null,
-            moduleId: 'pyq_' + examId + '_' + selectedYear.replace(/\s+/g, '_'),
-            poolTitle: exam.icon + ' ' + exam.name + yearLabelInTitle,
-            questions: selectedQuestions,
-            order: picked,
+          return loadQuestionImages(selectedRows).then(function (imageRows) {
+            var imagesByQuestion = {};
+            imageRows.forEach(function (image) {
+              var key = String(image.question_id);
+              if (!imagesByQuestion[key]) imagesByQuestion[key] = { question_text: [], explanation: [] };
+              if (image.content_field && imagesByQuestion[key][image.content_field]) {
+                imagesByQuestion[key][image.content_field].push(image);
+              }
+            });
+
+            // Map rows into quiz schema (support both Supabase columns and JSON properties)
+            var fetchedQuestions = selectedRows.map(function (r) {
+              var opts = {};
+              if (r.option_a) opts.A = r.option_a;
+              if (r.option_b) opts.B = r.option_b;
+              if (r.option_c) opts.C = r.option_c;
+              if (r.option_d) opts.D = r.option_d;
+              if (r.option_e) opts.E = r.option_e;
+              return {
+                id: r.id,
+                num: String(r.id || r.question_num),
+                question: r.question_text || '',
+                options: opts,
+                answer: r.correct_answer || r.answer || 'A',
+                explanation: r.explanation || '',
+                questionImages: (imagesByQuestion[String(r.id)] || {}).question_text || [],
+                explanationImages: (imagesByQuestion[String(r.id)] || {}).explanation || [],
+                subject: r.subject || 'General',
+                year: r.pyq_year || r.year || selectedYear
+              };
+            });
+            var orderIndices = fetchedQuestions.map(function (q, i) { return i; });
+            selectedRows = null;
+
+            var yearLabelInTitle = isAll ? '' : (' · ' + selectedYear);
+            state = {
+              screen: 'quiz',
+              subjectId: null,
+              moduleId: 'pyq_' + examId + '_' + selectedYear.replace(/\s+/g, '_'),
+              poolTitle: exam.icon + ' ' + exam.name + yearLabelInTitle,
+              questions: fetchedQuestions,
+              order: orderIndices,
             idx: 0,
             answers: {},
             quizType: setupChoice.quizType,
@@ -3077,18 +3078,25 @@ window.addEventListener('error', function (ev) {
         }
 
         quizStylesPromise = new Promise(function (resolve) {
+          var finished = false;
           var finish = function () {
-            if (quizStylesReady) return;
+            if (finished) return;
+            finished = true;
             quizStylesReady = true;
-            link.media = 'all';
+            try { link.media = 'all'; } catch (_) {}
             resolve();
           };
           link.addEventListener('load', finish, { once: true });
           link.addEventListener('error', finish, { once: true });
-          link.media = 'all';
+          try { link.media = 'all'; } catch (_) {}
           try {
-            if (link.sheet && link.sheet.cssRules.length > 0) finish();
-          } catch (e) { /* The load event completes activation if rules are not yet readable. */ }
+            if (link.sheet && link.sheet.cssRules && link.sheet.cssRules.length > 0) {
+              finish();
+              return;
+            }
+          } catch (e) { /* The load event or timeout completes activation if rules are not yet readable. */ }
+          // Fallback guarantee: mobile WebKit/Blink does not emit load when modifying media of preloaded stylesheets
+          setTimeout(finish, 120);
         });
         return quizStylesPromise;
       }
@@ -3586,7 +3594,7 @@ window.addEventListener('error', function (ev) {
         // Avoid pulling the entire multi-subject bank into a mobile browser
         // when a finite custom set was requested. A small oversample preserves
         // variety before the client applies shuffle/order and the final count.
-        if (pool.moduleId === 'custom') {
+        if (pool.moduleId === 'custom' || pool.moduleId === 'all') {
           var requestedCustomCount = resolveSetupCount(pool.questionCount);
           if (requestedCustomCount !== 'all') {
             query = query.limit(Math.min(1000, Math.max(requestedCustomCount, requestedCustomCount * 3)));
@@ -3614,52 +3622,51 @@ window.addEventListener('error', function (ev) {
             return;
           }
 
-          return loadQuestionImages(rows).then(function (imageRows) {
-          var imagesByQuestion = {};
-          imageRows.forEach(function (image) {
-            var key = String(image.question_id);
-            if (!imagesByQuestion[key]) imagesByQuestion[key] = { question_text: [], explanation: [] };
-            imagesByQuestion[key][image.content_field].push(image);
-          });
-
-          // Map rows from Supabase into MedLadder question schema
-          var fetchedQuestions = rows.map(function (r) {
-            var opts = {};
-            if (r.option_a) opts.A = r.option_a;
-            if (r.option_b) opts.B = r.option_b;
-            if (r.option_c) opts.C = r.option_c;
-            if (r.option_d) opts.D = r.option_d;
-            if (r.option_e) opts.E = r.option_e;
-
-            return {
-              id: r.id,
-              num: String(r.question_num || r.id),
-              question: r.question_text || '',
-              options: opts,
-              answer: r.answer || 'A',
-              explanation: r.explanation || '',
-              questionImages: (imagesByQuestion[String(r.id)] || {}).question_text || [],
-              explanationImages: (imagesByQuestion[String(r.id)] || {}).explanation || []
-            };
-          });
-
-          var idxs = fetchedQuestions.map(function (q, i) { return i; });
+          var idxs = rows.map(function (q, i) { return i; });
           var picked = (setupChoice.orderMode === 'shuffled') ? shuffle(idxs) : idxs.slice();
-          var selectedCount = resolveSetupCount(fetchedQuestions.length);
+          var selectedCount = resolveSetupCount(rows.length);
           if (selectedCount !== 'all') picked = picked.slice(0, selectedCount);
-          // Discard unselected records immediately. Question HTML and rationale
-          // fields can be large, and phones otherwise retain the entire fetched
-          // module even when the user asked for a short quiz.
-          var selectedQuestions = picked.map(function (questionIndex) { return fetchedQuestions[questionIndex]; });
-          picked = selectedQuestions.map(function (q, i) { return i; });
+          var selectedRows = picked.map(function (questionIndex) { return rows[questionIndex]; });
           rows = null;
-          fetchedQuestions = null;
 
-          state = {
-            screen: 'quiz', subjectId: state.subjectId, moduleId: state.moduleId, poolTitle: pool.title, questions: selectedQuestions,
-            order: picked, idx: 0, answers: {}, quizType: setupChoice.quizType, timeLimit: setupChoice.timeLimit,
-            remaining: setupChoice.timeLimit, timerId: null, progressKey: pool.key
-          };
+          return loadQuestionImages(selectedRows).then(function (imageRows) {
+            var imagesByQuestion = {};
+            imageRows.forEach(function (image) {
+              var key = String(image.question_id);
+              if (!imagesByQuestion[key]) imagesByQuestion[key] = { question_text: [], explanation: [] };
+              if (image.content_field && imagesByQuestion[key][image.content_field]) {
+                imagesByQuestion[key][image.content_field].push(image);
+              }
+            });
+
+            // Map rows from Supabase into MedLadder question schema
+            var fetchedQuestions = selectedRows.map(function (r) {
+              var opts = {};
+              if (r.option_a) opts.A = r.option_a;
+              if (r.option_b) opts.B = r.option_b;
+              if (r.option_c) opts.C = r.option_c;
+              if (r.option_d) opts.D = r.option_d;
+              if (r.option_e) opts.E = r.option_e;
+
+              return {
+                id: r.id,
+                num: String(r.id || r.question_num),
+                question: r.question_text || '',
+                options: opts,
+                answer: r.answer || 'A',
+                explanation: r.explanation || '',
+                questionImages: (imagesByQuestion[String(r.id)] || {}).question_text || [],
+                explanationImages: (imagesByQuestion[String(r.id)] || {}).explanation || []
+              };
+            });
+            var orderIndices = fetchedQuestions.map(function (q, i) { return i; });
+            selectedRows = null;
+
+            state = {
+              screen: 'quiz', subjectId: state.subjectId, moduleId: state.moduleId, poolTitle: pool.title, questions: fetchedQuestions,
+              order: orderIndices, idx: 0, answers: {}, quizType: setupChoice.quizType, timeLimit: setupChoice.timeLimit,
+              remaining: setupChoice.timeLimit, timerId: null, progressKey: pool.key
+            };
 
           renderQuiz();
           trackEvent('quiz_start', {
@@ -3716,7 +3723,10 @@ window.addEventListener('error', function (ev) {
       }
       function finishDueToTimeout() {
         var q = currentQuestion();
-        if (q && !state.answers[q.num]) state.answers[q.num] = { picked: null, isCorrect: false, skipped: true };
+        if (q) {
+          var qKey = String(q.id || q.num);
+          if (!state.answers[qKey]) state.answers[qKey] = { picked: null, isCorrect: false, skipped: true };
+        }
         renderResults(true);
       }
       function currentQuestion() { return state.questions[state.order[state.idx]]; }
@@ -3747,10 +3757,16 @@ window.addEventListener('error', function (ev) {
         }
 
         var q = currentQuestion();
+        if (!q) {
+          clearTimer();
+          renderResults();
+          return;
+        }
+        var qKey = String(q.id || q.num);
         var total = state.order.length;
         var answeredCount = Object.keys(state.answers).length;
         var correctSoFar = Object.values(state.answers).filter(function (a) { return a.isCorrect; }).length;
-        var existing = state.answers[q.num];
+        var existing = state.answers[qKey];
         var reveal = !!existing;
         var lockedOptions = !!existing;
 
@@ -3819,14 +3835,14 @@ window.addEventListener('error', function (ev) {
 
         app.querySelectorAll('.opt').forEach(function (btn) {
           btn.addEventListener('click', function () {
-            if (state.answers[q.num]) return;
+            if (state.answers[qKey]) return;
             var L = btn.getAttribute('data-letter');
-            state.answers[q.num] = { picked: L, isCorrect: L === q.answer };
+            state.answers[qKey] = { picked: L, isCorrect: L === q.answer };
             saveProgress();
 
             // Reveal the answer in place. Rebuilding the full quiz screen here
             // needlessly reloads the current exhibit image on every answer.
-            var answer = state.answers[q.num];
+            var answer = state.answers[qKey];
             app.querySelectorAll('.opt').forEach(function (option) {
               var optionLetter = option.getAttribute('data-letter');
               option.disabled = true;
@@ -3938,7 +3954,7 @@ window.addEventListener('error', function (ev) {
         var buildReviewHtml = function (start, end) { return state.order.slice(start, end).map(function (oi, offset) {
           var idx = start + offset;
           var q = state.questions[oi];
-          var a = state.answers[q.num];
+          var a = state.answers[String(q.id || q.num)];
           var letters = ['A', 'B', 'C', 'D', 'E'];
           var optsHtml = letters.filter(function (L) { return q.options[L]; }).map(function (L) {
             var cls = 'ropt';
@@ -4082,15 +4098,13 @@ window.addEventListener('error', function (ev) {
           div.setAttribute('aria-modal', 'true');
           div.innerHTML =
             '<div class="image-modal-content">' +
-            '<button class="image-modal-close" title="Close exhibit (Esc)">✕</button>' +
+            '<button class="image-modal-close" aria-label="Close exhibit" title="Close exhibit (Esc)">✕</button>' +
             '<img id="imageModalImg" class="image-modal-img" src="' + esc(src) + '" alt="Medical Exhibit" />' +
-            '<div class="image-modal-caption">Medical Exhibit · Click outside or press Esc to close</div>' +
+            '<div class="image-modal-caption">Medical Exhibit · Tap anywhere or ✕ to close</div>' +
             '</div>';
           div.addEventListener('click', function (e) {
-            if (e.target === div) closeExhibitZoom();
+            if (e.target !== div.querySelector('#imageModalImg')) closeExhibitZoom();
           });
-          var zoomClose = div.querySelector('.image-modal-close');
-          if (zoomClose) zoomClose.addEventListener('click', function () { closeExhibitZoom(); });
           document.body.appendChild(div);
         } else {
           var img = document.getElementById('imageModalImg');
