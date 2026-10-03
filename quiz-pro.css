@@ -1114,3 +1114,10 @@ html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .scr
 }
 .screen-quiz .explain img, .screen-quiz .qtext img { max-height: 60vh; width: auto; max-width: 100%; object-fit: contain; }
 .screen-quiz .explain { contain: layout paint; }
+/* Mobile fix: restore green/red answer fills on phones/touch devices */
+@media (max-width: 768px), (pointer: coarse) {
+  .screen-quiz .opt.correct   { background-color: var(--green-soft) !important; border-color: var(--green) !important; }
+  .screen-quiz .opt.incorrect { background-color: var(--coral-soft) !important; border-color: var(--coral) !important; }
+  html.dark .screen-quiz .opt.correct   { background-color: rgba(52,211,153,.15) !important; }
+  html.dark .screen-quiz .opt.incorrect { background-color: rgba(248,113,113,.15) !important; }
+}
