@@ -2467,6 +2467,7 @@ window.addEventListener('error', function (ev) {
       }
 
       function addRipple(el, evt) {
+        if (state && state.screen === 'quiz') return; // ripples + blur layers can freeze phones mid-quiz
         var rect = el.getBoundingClientRect();
         var x = (evt.clientX != null ? evt.clientX : rect.width / 2) - rect.left;
         var y = (evt.clientY != null ? evt.clientY : rect.height / 2) - rect.top;
@@ -2547,7 +2548,7 @@ window.addEventListener('error', function (ev) {
               scoreHtml = '<span class="score-pill">✓ ' + scorePct + '% last run</span>';
             }
             var slug = s.name.toLowerCase().replace(/&/g, '-').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-            var iconHtml = '<img src="/assets/subjects-webp/' + slug + '.webp" onerror="this.onerror=null;this.src=\'/assets/subjects/' + slug + '.png\'" alt="' + esc(s.name) + '" class="subject-icon-img" width="36" height="36" loading="lazy">';
+            var iconHtml = '<img src="/assets/subjects-webp/' + slug + '.webp" alt="' + esc(s.name) + '" class="subject-icon-img" width="36" height="36" loading="lazy">';
             return (
               '<button class="item" data-sid="' + s.subjectId + '" data-cat="' + s.cat + '" data-name="' + esc(s.name.toLowerCase()) + '" style="animation-delay:' + (Math.min(i, 12) * 0.02) + 's">' +
               '<div class="item-icon-box">' + iconHtml + '</div>' +
@@ -3124,14 +3125,14 @@ window.addEventListener('error', function (ev) {
 
         var allCard = isAllLocked
           ? ('<button class="item pro-locked" data-mod="all" data-locked="true" style="animation-delay:0s;border:1.5px solid rgba(255,178,61,0.38);">' +
-            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects-webp/' + subjSlug + '.webp" onerror="this.onerror=null;this.src=\'/assets/subjects/' + subjSlug + '.png\'" alt="" class="subject-icon-img" width="36" height="36"></div>' +
+            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects-webp/' + subjSlug + '.webp" alt="" class="subject-icon-img" width="36" height="36"></div>' +
             '<span class="num">✦</span>' +
             '<span class="info"><span class="cname">All topics <span class="pro-lock-pill">🔒 PRO</span>' + (allScore ? ' <span class="score-pill">' + allScore + '</span>' : '') + '</span>' +
             '<span class="cmeta">' + allCount + ' questions across every topic · Pro Full Mock Exam</span></span>' +
             '<span class="pro-lock-icon">🔒</span>' +
             '</button>')
           : ('<button class="item" data-mod="all" data-locked="false" style="animation-delay:0s;border:1.5px solid var(--accent);">' +
-            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects-webp/' + subjSlug + '.webp" onerror="this.onerror=null;this.src=\'/assets/subjects/' + subjSlug + '.png\'" alt="" class="subject-icon-img" width="36" height="36"></div>' +
+            '<div class="item-icon-box" aria-hidden="true"><img src="/assets/subjects-webp/' + subjSlug + '.webp" alt="" class="subject-icon-img" width="36" height="36"></div>' +
             '<span class="num">✦</span>' +
             '<span class="info"><span class="cname">All topics' + (allScore ? ' <span class="score-pill">' + allScore + '</span>' : '') + '</span>' +
             '<span class="cmeta">' + allCount + ' questions across every topic</span></span>' +
@@ -3837,12 +3838,11 @@ window.addEventListener('error', function (ev) {
           btn.addEventListener('click', function () {
             if (state.answers[qKey]) return;
             var L = btn.getAttribute('data-letter');
-            state.answers[qKey] = { picked: L, isCorrect: L === q.answer };
-            saveProgress();
+            var answer = { picked: L, isCorrect: L === q.answer };
+            state.answers[qKey] = answer;
 
-            // Reveal the answer in place. Rebuilding the full quiz screen here
-            // needlessly reloads the current exhibit image on every answer.
-            var answer = state.answers[qKey];
+            // 1) Instant visual feedback + unlock Next first, so a failure in any
+            //    later (non-essential) step can never leave the quiz looking frozen.
             app.querySelectorAll('.opt').forEach(function (option) {
               var optionLetter = option.getAttribute('data-letter');
               option.disabled = true;
@@ -3851,31 +3851,61 @@ window.addEventListener('error', function (ev) {
               else if (optionLetter === answer.picked) option.classList.add('incorrect');
               else option.classList.add('dim');
             });
+            var nextButton = document.getElementById('nextBtn');
+            if (nextButton) nextButton.disabled = false;
 
             var correctNow = Object.values(state.answers).filter(function (item) { return item.isCorrect; }).length;
             var scoreText = document.getElementById('scoreText');
             if (scoreText) scoreText.textContent = correctNow + ' / ' + Object.keys(state.answers).length + ' correct';
 
-            var explanationHtml = '<div class="explain show"><span class="exlabel">💡 Clinical Rationale &amp; Explanation</span>' +
-              (q.explanation ? formatExplanation(q.explanation, q.explanationImages) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
-              '</div>';
-            var optionsContainer = app.querySelector('.options');
-            if (optionsContainer) optionsContainer.insertAdjacentHTML('afterend', explanationHtml);
-            var explanationBox = app.querySelector('.explain');
-            if (explanationBox) {
-              explanationBox.addEventListener('click', function (event) {
-                var target = event.target;
-                if (target && (target.tagName === 'A' || target.closest('a'))) {
-                  event.preventDefault();
-                  event.stopPropagation();
-                }
-              });
+            // 2) Explanation, guarded so bad editorial HTML cannot break the tap.
+            try {
+              var explanationHtml = '<div class="explain show"><span class="exlabel">💡 Clinical Rationale &amp; Explanation</span>' +
+                (q.explanation ? formatExplanation(q.explanation, q.explanationImages) : '<span class="no-explain">No explanation was captured for this item in the source text.</span>') +
+                '</div>';
+              var optionsContainer = app.querySelector('.options');
+              if (optionsContainer && !app.querySelector('.explain')) optionsContainer.insertAdjacentHTML('afterend', explanationHtml);
+              var explanationBox = app.querySelector('.explain');
+              if (explanationBox) {
+                explanationBox.addEventListener('click', function (event) {
+                  var target = event.target;
+                  if (target && (target.tagName === 'A' || target.closest('a'))) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                  }
+                });
+              }
+            } catch (err) {
+              console.warn('Explanation render failed:', err);
             }
-            var nextButton = document.getElementById('nextBtn');
-            if (nextButton) nextButton.disabled = false;
+
+            // 3) Persistence (localStorage + Supabase) deferred off the tap's critical path.
+            setTimeout(function () {
+              try { saveProgress(); } catch (err) { console.warn('saveProgress failed:', err); }
+            }, 0);
           });
         });
         document.getElementById('nextBtn').addEventListener('click', function () { commitAndAdvance(); });
+
+        // Warm the explanation images while the user reads, so revealing the
+        // answer doesn't trigger a big network fetch + decode at tap time.
+        if (!debugNoQuestionImages && !existing && q.explanation) {
+          var warm = function () {
+            try {
+              var urls = [];
+              (q.explanationImages || []).forEach(function (im) { var u = storageImageUrl(im); if (u) urls.push(u); });
+              var m, re = /<img[^>]+src=["']([^"']+)["']/gi;
+              while ((m = re.exec(String(q.explanation))) && urls.length < 4) { if (/^https?:\/\//i.test(m[1])) urls.push(optimizeQuestionImageUrl(m[1])); }
+              urls.slice(0, 3).forEach(function (u) {
+                var img = new Image();
+                img.decoding = 'async';
+                img.src = u;
+                if (img.decode) img.decode().catch(function () {});
+              });
+            } catch (_) {}
+          };
+          if (window.requestIdleCallback) requestIdleCallback(warm, { timeout: 2500 }); else setTimeout(warm, 800);
+        }
 
         // Desktop keyboard shortcut handler
         if (state._quizKeyHandler) {
@@ -3886,7 +3916,7 @@ window.addEventListener('error', function (ev) {
           var key = e.key ? e.key.toUpperCase() : '';
           var map = { '1': 'A', '2': 'B', '3': 'C', '4': 'D', '5': 'E' };
           var letter = map[key] || (['A', 'B', 'C', 'D', 'E'].indexOf(key) !== -1 ? key : null);
-          if (letter && !state.answers[q.num]) {
+          if (letter && !state.answers[qKey]) {
             var optBtn = app.querySelector('.opt[data-letter="' + letter + '"]');
             if (optBtn && !optBtn.disabled) {
               e.preventDefault();

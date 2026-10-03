@@ -1073,3 +1073,44 @@ html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .scr
   }
 }
 
+
+/* Mobile quiz freeze fix: backdrop-filter blur layers + entrance animations
+   are very expensive on low/mid-range phones, especially while a large
+   question image decodes. Drop them on small screens / touch devices. */
+@media (max-width: 768px), (pointer: coarse) {
+  .screen-quiz .qcard, .screen-quiz .glass, .screen-quiz .opt, .screen-quiz .explain,
+  .screen-quiz .quiz-card, .screen-quiz .timer-badge, .screen-quiz .theme-toggle,
+  .screen-quiz .auth-btn, .screen-quiz .auth-user-btn,
+  .toast-item, .image-modal-overlay, .auth-modal-overlay, .pro-modal-overlay, .admin-modal-overlay {
+    -webkit-backdrop-filter: none !important;
+    backdrop-filter: none !important;
+  }
+  .screen-quiz, .screen-quiz .qcard, .screen-quiz .opt, .screen-quiz .explain.show {
+    animation: none !important;
+  }
+  .screen-quiz .opt { transition: border-color .15s ease, background-color .15s ease !important; }
+  .screen-quiz .opt:hover:not(.locked) { transform: none !important; }
+  .screen-quiz .ripple { display: none !important; }
+  .screen-quiz .qtext img, .screen-quiz .qimage { box-shadow: none !important; }
+  /* Opaque fallbacks so cards stay readable without blur */
+  .screen-quiz .qcard, .screen-quiz .opt, .screen-quiz .explain { background-color: var(--surface-elevated, var(--glass-bg-strong)) !important; }
+}
+
+/* Text-question freeze fix: the header's rainbow border (masked, blurred,
+   background-position animated forever) and other infinite animations force a
+   repaint every frame. Stop them on phones/touch devices and during quizzes. */
+@media (max-width: 768px), (pointer: coarse) {
+  .masthead::before { animation: none !important; filter: none !important; }
+  .masthead .stat-dot, .timer-badge.low, .hero-wrap::after { animation: none !important; }
+  .hero-wrap::before { filter: none !important; }
+}
+.screen-quiz .masthead::before { animation: none !important; filter: none !important; }
+.screen-quiz .timer-badge.low { animation: none !important; }
+
+/* Tap-to-answer responsiveness */
+.screen-quiz .opt, .screen-quiz .btn, .screen-quiz .back-btn {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+.screen-quiz .explain img, .screen-quiz .qtext img { max-height: 60vh; width: auto; max-width: 100%; object-fit: contain; }
+.screen-quiz .explain { contain: layout paint; }
