@@ -1,0 +1,2372 @@
+[
+  {
+    "id": 15064,
+    "old_module_id": 380,
+    "new_module_id": 379,
+    "currentScore": 0,
+    "bestScore": 24,
+    "from_module": "[380] Demography and Family Planning > Demography II: Demographic Indicators",
+    "to_module": "[379] Demography and Family Planning > Demography I: Demographic Cycle, Annual Growth Rate and Age Pyramid",
+    "question": "If birth rate - 42 and death rate 31 the annual growth rate"
+  },
+  {
+    "id": 15260,
+    "old_module_id": 382,
+    "new_module_id": 381,
+    "currentScore": 0,
+    "bestScore": 18,
+    "from_module": "[382] Preventive Obstetrics, Paediatrics and Geriatrics > Preventive Obstetrics, Paediatrics and Geriatrics",
+    "to_module": "[381] Demography and Family Planning > Family Planning",
+    "question": "Which of the following is a component of RMNCH+A strategy? Adolescent health Family planning Geriatric health Maternal and Child health Newborn Health"
+  },
+  {
+    "id": 15736,
+    "old_module_id": 381,
+    "new_module_id": 400,
+    "currentScore": 4,
+    "bestScore": 18,
+    "from_module": "[381] Demography and Family Planning > Family Planning",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "Which of the following is the most appropriate method used in health planning to assess whether objectives and targets are being fulfilled and to evaluate the quality of outcomes?"
+  },
+  {
+    "id": 14545,
+    "old_module_id": 374,
+    "new_module_id": 389,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[389] Environment and Health > Water- III: Water Quality and Standards",
+    "question": "Irrespective of microbiological quality of water, following diseases occur due to the inadequate quantity of water EXCEPT"
+  },
+  {
+    "id": 15297,
+    "old_module_id": 357,
+    "new_module_id": 394,
+    "currentScore": 2,
+    "bestScore": 14,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "_____________ is the presence of a disease agent on a body surface like clothes, toys, etc. and also in substances like food or water."
+  },
+  {
+    "id": 14069,
+    "old_module_id": 396,
+    "new_module_id": 372,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "50-year-old male presents to with you with fever for 3 weeks duration. Antibiotics and anti-malarial do no work. Abdomen distension present. rk39 dipstick test positive. What will "
+  },
+  {
+    "id": 14556,
+    "old_module_id": 396,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "A mother brought a 2-month-old child with complaints of diarrhoea and vomiting. As a part of management, you advise her regarding vaccination for rotavirus. Which is the false stat"
+  },
+  {
+    "id": 14824,
+    "old_module_id": 374,
+    "new_module_id": 377,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "Under the Integrated Disease Surveillance Programme (IDSP), sentinel surveillance is conducted for which of the following diseases?"
+  },
+  {
+    "id": 15569,
+    "old_module_id": 374,
+    "new_module_id": 394,
+    "currentScore": 2,
+    "bestScore": 13,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "______________ is the average number of free-living fleas per species per rodent burrow."
+  },
+  {
+    "id": 15094,
+    "old_module_id": 381,
+    "new_module_id": 379,
+    "currentScore": 9,
+    "bestScore": 20,
+    "from_module": "[381] Demography and Family Planning > Family Planning",
+    "to_module": "[379] Demography and Family Planning > Demography I: Demographic Cycle, Annual Growth Rate and Age Pyramid",
+    "question": "The spindle shaped Age pyramid denotes"
+  },
+  {
+    "id": 14441,
+    "old_module_id": 396,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 13,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "As per Bio medical waste management guidelines, Latex gloves after use are discarded into"
+  },
+  {
+    "id": 14892,
+    "old_module_id": 357,
+    "new_module_id": 374,
+    "currentScore": 4,
+    "bestScore": 14,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "question": "A 54-year-old male presents to a Health & Wellness Centre for a routine check-up. His blood pressure readings on two separate visits are 148/90 mmHg. He is asymptomatic, has no dia"
+  },
+  {
+    "id": 14718,
+    "old_module_id": 366,
+    "new_module_id": 403,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "A diagnostic test for a particular disease has a sensitivity of 0.90 and specificity of 0.90. A single test is applied to each subject in the population in which the diseased popul"
+  },
+  {
+    "id": 14143,
+    "old_module_id": 374,
+    "new_module_id": 388,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[388] Environment and Health > Water- II: Disinfection of water",
+    "question": "Disinfecting action of chlorine on water is mainly due to"
+  },
+  {
+    "id": 14554,
+    "old_module_id": 374,
+    "new_module_id": 389,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[389] Environment and Health > Water- III: Water Quality and Standards",
+    "question": "The reduction in cases of diphtheria in recent surveillance reports is due to-"
+  },
+  {
+    "id": 14573,
+    "old_module_id": 374,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "A 8 month old child is presenting to you after MMR vaccination what is the dose of vitamin A you will provide him for today ?"
+  },
+  {
+    "id": 16152,
+    "old_module_id": 374,
+    "new_module_id": 372,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "JALMA Institute for leprosy and other mycobacterial diseases is located in"
+  },
+  {
+    "id": 16153,
+    "old_module_id": 374,
+    "new_module_id": 393,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "question": "Tropical diseases targeted for research and training by WHO includes all except:"
+  },
+  {
+    "id": 15076,
+    "old_module_id": 374,
+    "new_module_id": 394,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "Life cycle Image of an organism is given below. Identify it"
+  },
+  {
+    "id": 14222,
+    "old_module_id": 374,
+    "new_module_id": 357,
+    "currentScore": 2,
+    "bestScore": 12,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "Dr. Sarah gave a presentation on infectious diseases and discussed the prevention and treatment of Zika virus. Which of the following statements is true regarding Zika virus preven"
+  },
+  {
+    "id": 15543,
+    "old_module_id": 374,
+    "new_module_id": 393,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "question": "Which of the following flies is found in cracks and crevices of walls during daytime:"
+  },
+  {
+    "id": 14080,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "Quality assessment for health-related programs. What type of evaluation does 'clinical management' in a health service belongs to ?"
+  },
+  {
+    "id": 15528,
+    "old_module_id": 396,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 12,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "Following are the waste types not to be incinerated EXCEPT:"
+  },
+  {
+    "id": 15291,
+    "old_module_id": 396,
+    "new_module_id": 387,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[387] Environment and Health > Water - I: Sources and purification of water",
+    "question": "A 45-year-old male from a rural area presents with joint pain, stiffness, and limited mobility. X-rays reveal increased bone density and calcification of ligaments. He reports cons"
+  },
+  {
+    "id": 14564,
+    "old_module_id": 396,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "A young male patient presents with a clean, non-bleeding cut wound. He reports having completed the full course of tetanus vaccination 10 years ago. What is the most appropriate ma"
+  },
+  {
+    "id": 14149,
+    "old_module_id": 357,
+    "new_module_id": 389,
+    "currentScore": 2,
+    "bestScore": 11,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[389] Environment and Health > Water- III: Water Quality and Standards",
+    "question": "Human living standards can be compared in different countries by"
+  },
+  {
+    "id": 14516,
+    "old_module_id": 361,
+    "new_module_id": 394,
+    "currentScore": 6,
+    "bestScore": 15,
+    "from_module": "[361] Epidemiology > Basic Definitions in Infectious Disease Epidemiology",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "______________ is the communication of a disease from one person to another by close contact."
+  },
+  {
+    "id": 15645,
+    "old_module_id": 368,
+    "new_module_id": 394,
+    "currentScore": 6,
+    "bestScore": 15,
+    "from_module": "[368] Epidemiology of Communicable Diseases > Bacterial Respiratory Infections",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "Epidemics after disaster are caused by all except"
+  },
+  {
+    "id": 14043,
+    "old_module_id": 374,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "Which of the following is true about the calculation of YLD in DALYs?"
+  },
+  {
+    "id": 14330,
+    "old_module_id": 374,
+    "new_module_id": 378,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[378] Indian Health Programmes > National Health Programmes III - NIS, JSY, RBSK and Others",
+    "question": "A study conducted on 46 mothers who delivered deformed babies showed that 41 were found to have taken thalidomide during their early pregnancy; what kind of study is being done her"
+  },
+  {
+    "id": 15552,
+    "old_module_id": 374,
+    "new_module_id": 393,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "question": "Vector of Zika Virus"
+  },
+  {
+    "id": 15556,
+    "old_module_id": 374,
+    "new_module_id": 393,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "question": "Which of the following does not have wings"
+  },
+  {
+    "id": 15550,
+    "old_module_id": 374,
+    "new_module_id": 393,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "question": "Which of the following is not a biting fly"
+  },
+  {
+    "id": 14357,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "IMNCI(Integrated Management of Neonatal and Childhood Illness) includes all except:"
+  },
+  {
+    "id": 15516,
+    "old_module_id": 396,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 11,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "According to biochemical waste, which of the following bag can be incinerated?"
+  },
+  {
+    "id": 15735,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A study is conducted among nursing staff to analyze the time spent on different activities of patient care, such as bed preparation, monitoring vital signs, attending doctor's roun"
+  },
+  {
+    "id": 16010,
+    "old_module_id": 399,
+    "new_module_id": 403,
+    "currentScore": 3,
+    "bestScore": 12,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Mean and Standard deviation can be worked only if the data is on"
+  },
+  {
+    "id": 16114,
+    "old_module_id": 404,
+    "new_module_id": 403,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[404] Biostatistics > Descriptive Statistics II - Measures of Location",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "A study is conducted to assess the relationship between smoking status and forced expiratory volume in one second (FEV1)- Subjects are randomly selected and categorized based on sm"
+  },
+  {
+    "id": 14196,
+    "old_module_id": 355,
+    "new_module_id": 357,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "Analyse the following intervention done in a TB patient and estimate the levels of prevention- Sputum examination of suspects, BCG vaccination, hemi thoracotomy for widespread fibr"
+  },
+  {
+    "id": 14194,
+    "old_module_id": 355,
+    "new_module_id": 357,
+    "currentScore": 3,
+    "bestScore": 11,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "A child presented with manifestation of Streptococcal infection but no carditis. What will you suggest for secondary prevention?"
+  },
+  {
+    "id": 14821,
+    "old_module_id": 355,
+    "new_module_id": 377,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "According to NTEP, TB patient who had taken drugs for three weeks in the past is considered as a ___________"
+  },
+  {
+    "id": 14822,
+    "old_module_id": 355,
+    "new_module_id": 377,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "As per the NTEP, high priority TB- HIV District is defined as"
+  },
+  {
+    "id": 15479,
+    "old_module_id": 355,
+    "new_module_id": 390,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[390] Environment and Health > Housing and Ventilation",
+    "question": "All of the following are types of mechanical ventilation except"
+  },
+  {
+    "id": 14195,
+    "old_module_id": 355,
+    "new_module_id": 357,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "Which of the following is not tertiary prevention"
+  },
+  {
+    "id": 14927,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Blindness caused by opacities in the lens comes under"
+  },
+  {
+    "id": 14931,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Most common cause of blindness in India is"
+  },
+  {
+    "id": 15484,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Daylight factor in living room should be"
+  },
+  {
+    "id": 15945,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Consider the two events - an individual belonging to blood group A (probability = 0.42) and the individual getting a 'head' when tossing a coin (probability = 0.50). Which of the f"
+  },
+  {
+    "id": 15978,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "For dof 1 in t test, the value of t for a probability of 0.05 is"
+  },
+  {
+    "id": 15968,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Centile divides data into"
+  },
+  {
+    "id": 15976,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "For dof 1 in chi-square test, the value of x 2 for a probability of 0.05 is"
+  },
+  {
+    "id": 15944,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "There are 50 patients in a ward 20 girls and 30 boys of them 10 girls and 20 boys required surgery. What is the probability of each patient being selected correctly for the surgery"
+  },
+  {
+    "id": 15942,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "For Mrs. Rekha, probability of having a baby of BW<2500gms is 0.50 and of having a BW 2500-2999 gms is 0.20. So, the probability for Mrs. Rekha a baby BW<3 kg is"
+  },
+  {
+    "id": 15943,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Probability of Mr. Ram developing Acute MI in his lifetime is 0.75. What are the Odds of developing Acute MI in his lifetime"
+  },
+  {
+    "id": 14823,
+    "old_module_id": 355,
+    "new_module_id": 377,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "As per the NTEP, high priority TB- HIV District is defined as"
+  },
+  {
+    "id": 14566,
+    "old_module_id": 355,
+    "new_module_id": 363,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "A 10-week-old baby has come for vaccination. The baby has had a previous history of inconsolable crying and fever (40 degrees C) after vaccination at 6 weeks. What should be the ne"
+  },
+  {
+    "id": 14923,
+    "old_module_id": 355,
+    "new_module_id": 356,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[356] Concepts of Health and Disease > Health Determinants and Indicators",
+    "question": "All the following indicators of obesity use body weight for the calculation EXCEPT:"
+  },
+  {
+    "id": 14940,
+    "old_module_id": 356,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[356] Concepts of Health and Disease > Health Determinants and Indicators",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "According to the World Health Organization (WHO), blindness is defined as a condition where the level of visual acuity is below:"
+  },
+  {
+    "id": 14796,
+    "old_module_id": 357,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "You have diagnosed a patient clinically as having SLE and ordered 6 tests . Out of which 4 tests have come positive and 2 are negative. To determine the probability of SLE at this "
+  },
+  {
+    "id": 14707,
+    "old_module_id": 357,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "The probability that a patient tested positive, actually having the disease is-"
+  },
+  {
+    "id": 14843,
+    "old_module_id": 357,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Ixodes ticks transmit A. Babesiosis B. Tularaemia C. Lymes disease D. KFD"
+  },
+  {
+    "id": 14888,
+    "old_module_id": 357,
+    "new_module_id": 374,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "question": "If the prevalence of a disease is 10%, the probability that either one among three will have diabetes"
+  },
+  {
+    "id": 15941,
+    "old_module_id": 357,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Chance of passing a genetic disease 'y' trait by the affected parents to children is 0.16. They plan two children. Probability of both the children having 'y' trait is"
+  },
+  {
+    "id": 15396,
+    "old_module_id": 357,
+    "new_module_id": 400,
+    "currentScore": 8,
+    "bestScore": 16,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "The management technique which is more promising tool for application in health field is:"
+  },
+  {
+    "id": 15940,
+    "old_module_id": 357,
+    "new_module_id": 374,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "question": "If the prevalence of a disease is 10%, the probability that 3 people selected at random from the population will have diabetes"
+  },
+  {
+    "id": 15870,
+    "old_module_id": 357,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "180 patients were treated for disease X from 1991 to 1993 and their progress was followed to 1994. treatment results given in the table below. No patients were lost to follow up. W"
+  },
+  {
+    "id": 14846,
+    "old_module_id": 357,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Identify the disease depicted in the image."
+  },
+  {
+    "id": 14223,
+    "old_module_id": 366,
+    "new_module_id": 357,
+    "currentScore": 5,
+    "bestScore": 13,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "A 45-year-old healthy man with a history of small streaks of blood in his stools is being sent for a colonoscopy to screen for colon cancer. This type of prevention is:"
+  },
+  {
+    "id": 14984,
+    "old_module_id": 366,
+    "new_module_id": 378,
+    "currentScore": 5,
+    "bestScore": 13,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[378] Indian Health Programmes > National Health Programmes III - NIS, JSY, RBSK and Others",
+    "question": "Disease not screened under Rashtriya Bal Swasthya Karyakram (RBSK):"
+  },
+  {
+    "id": 14380,
+    "old_module_id": 374,
+    "new_module_id": 387,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[387] Environment and Health > Water - I: Sources and purification of water",
+    "question": "Which of the following diseases doesn't have healthy carriers?"
+  },
+  {
+    "id": 14509,
+    "old_module_id": 374,
+    "new_module_id": 394,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "Which of the following diseases is not transmitted by fomites?"
+  },
+  {
+    "id": 15515,
+    "old_module_id": 374,
+    "new_module_id": 392,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "All are incinerated except"
+  },
+  {
+    "id": 15568,
+    "old_module_id": 374,
+    "new_module_id": 394,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "Plague is transmitted by-"
+  },
+  {
+    "id": 15571,
+    "old_module_id": 374,
+    "new_module_id": 394,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "Rat flea transmit following diseases except"
+  },
+  {
+    "id": 14540,
+    "old_module_id": 374,
+    "new_module_id": 383,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "All are \"water washed diseases\" except"
+  },
+  {
+    "id": 15867,
+    "old_module_id": 374,
+    "new_module_id": 403,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "You are a medical officer at a PHC collecting data for disease burden. You divide those with diseases into mild, moderate and severe groups. Then few are selected from each group f"
+  },
+  {
+    "id": 16008,
+    "old_module_id": 374,
+    "new_module_id": 403,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "State whether the data reflecting the age at death of individuals in the general population are likely to be skewed to the right, skewed to the left or symmetrical."
+  },
+  {
+    "id": 14331,
+    "old_module_id": 374,
+    "new_module_id": 375,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "A study is being conducted to evaluate the link between aniline dye exposure and the development of bladder cancer in industrial workers with more than 20 years of employment. One "
+  },
+  {
+    "id": 15567,
+    "old_module_id": 374,
+    "new_module_id": 394,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "Rat flea transmit following diseases except:"
+  },
+  {
+    "id": 15211,
+    "old_module_id": 380,
+    "new_module_id": 403,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[380] Demography and Family Planning > Demography II: Demographic Indicators",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Calculate the maternal mortality ratio (MMR) for the year 2023, from the given data: 1. Total women who died: 6 2. Total live births: 4000 Causes of death: 1. 1 due to road traffic"
+  },
+  {
+    "id": 15686,
+    "old_module_id": 381,
+    "new_module_id": 389,
+    "currentScore": 9,
+    "bestScore": 17,
+    "from_module": "[381] Demography and Family Planning > Family Planning",
+    "to_module": "[389] Environment and Health > Water- III: Water Quality and Standards",
+    "question": "Which organization is responsible for vaccines, child health and nutrition, safe water and sanitation, quality education, and skill-building?"
+  },
+  {
+    "id": 14852,
+    "old_module_id": 393,
+    "new_module_id": 383,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "A mosquito larva is examined under a hand lens. It showed no siphon tube, abdominal palmate hairs are present, and the larvae rest parallel to the water surface. What is the likely"
+  },
+  {
+    "id": 14173,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "Which kit should be recommended for a 20-year-old female presenting with vaginal discharge and lower abdominal pain after recent sexual activity, based on the syndromic management "
+  },
+  {
+    "id": 15731,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "Identify from the given image, A-management technique and B-Critical path?"
+  },
+  {
+    "id": 15729,
+    "old_module_id": 399,
+    "new_module_id": 400,
+    "currentScore": 7,
+    "bestScore": 15,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A woman 25-45 years, 8th pass, married/divorced, belongs to the same village community, with well communication skill/leadership quality. Selected by village personnel. She is elig"
+  },
+  {
+    "id": 14105,
+    "old_module_id": 404,
+    "new_module_id": 394,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[404] Biostatistics > Descriptive Statistics II - Measures of Location",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "A smoker states that he has been smoking for 6 years. In the first year he was taking up to 5 sticks per day only. In the next 3 years he increased it to half pack per day. In the "
+  },
+  {
+    "id": 15975,
+    "old_module_id": 404,
+    "new_module_id": 403,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[404] Biostatistics > Descriptive Statistics II - Measures of Location",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "In a dataset of patient blood pressure readings, which measure of central tendency identifies the value that is recorded most frequently?"
+  },
+  {
+    "id": 16005,
+    "old_module_id": 404,
+    "new_module_id": 403,
+    "currentScore": 8,
+    "bestScore": 16,
+    "from_module": "[404] Biostatistics > Descriptive Statistics II - Measures of Location",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "A medical student is conducting a chart review of patients admitted to the local emergency department with acute pancreatitis. He is interested in comparing blood glucose levels be"
+  },
+  {
+    "id": 14440,
+    "old_module_id": 355,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "What is the colour coding of bag in hospitals to dispose of human anatomical wastes such as body parts"
+  },
+  {
+    "id": 14935,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 1,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "What is the most common condition associated with lung cancer?"
+  },
+  {
+    "id": 14640,
+    "old_module_id": 355,
+    "new_module_id": 363,
+    "currentScore": 3,
+    "bestScore": 10,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "A patient came with category 3 bite by a stray dog, recently she took post exposure vaccination for monkey bite with 2 months, what is the management you will provide?"
+  },
+  {
+    "id": 14970,
+    "old_module_id": 355,
+    "new_module_id": 377,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "Which among the following is the NTEP software online to monitor TB control program?"
+  },
+  {
+    "id": 15299,
+    "old_module_id": 355,
+    "new_module_id": 370,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[370] Epidemiology of Communicable Diseases > Arthropod-Borne Infections",
+    "question": "Identify the incorrect statement about salmonellosis"
+  },
+  {
+    "id": 15910,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Area falling under 2 SD curve would be around"
+  },
+  {
+    "id": 15912,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "P value is defined as"
+  },
+  {
+    "id": 15961,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Regarding the normal curve, which of the following is true:"
+  },
+  {
+    "id": 15989,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "All are true about p value except"
+  },
+  {
+    "id": 15982,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "The p value of an RCT comparing Operation A (new procedure) and Operation B (Gold standard) is 0.04. this concludes that:"
+  },
+  {
+    "id": 15990,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "How do you interpret p value of 0.4"
+  },
+  {
+    "id": 14926,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 1,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "According to the Colombo plan, which of the following statements regarding cancer treatment is correct?"
+  },
+  {
+    "id": 14558,
+    "old_module_id": 357,
+    "new_module_id": 363,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "Immunization for elderly is recommended for Influenza vaccine. Which of the following is the Other vaccine preventable disease in elderly ?"
+  },
+  {
+    "id": 15911,
+    "old_module_id": 357,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Which distribution is the proportion of individuals with a disease who are successfully treated with a new drug likely to follow?"
+  },
+  {
+    "id": 15535,
+    "old_module_id": 357,
+    "new_module_id": 393,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "question": "Which disease the vector in picture causes?"
+  },
+  {
+    "id": 14518,
+    "old_module_id": 362,
+    "new_module_id": 394,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[362] Epidemiology > Dynamics of Disease Transmission",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "A patient presents with fever, an eschar, and regional lymphadenopathy after a trip to a forested area. The causative organism is Orientia tsutsugamushi. Which of the following vec"
+  },
+  {
+    "id": 15582,
+    "old_module_id": 364,
+    "new_module_id": 372,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[364] Epidemiology > Vaccine Production and Storage",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "What kit would you recommend for a 30-year-old woman who has been experiencing creamy discharge with a fishy odor for the past month, AMSEL's score of 3 out of 4 on the Whiff test,"
+  },
+  {
+    "id": 14198,
+    "old_module_id": 366,
+    "new_module_id": 357,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "Which of the following is the best level of prevention of breast cancer?"
+  },
+  {
+    "id": 14191,
+    "old_module_id": 366,
+    "new_module_id": 357,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "A government plans to implement laws to control tobacco use. Which level of prevention does this represent?"
+  },
+  {
+    "id": 14907,
+    "old_module_id": 366,
+    "new_module_id": 357,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "Which of the following is not a primary method of prevention of carcinoma in the population?"
+  },
+  {
+    "id": 15506,
+    "old_module_id": 366,
+    "new_module_id": 387,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[387] Environment and Health > Water - I: Sources and purification of water",
+    "question": "Mode of disposal of sewage ground water:"
+  },
+  {
+    "id": 14577,
+    "old_module_id": 374,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "GAVI is"
+  },
+  {
+    "id": 14553,
+    "old_module_id": 374,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "All of the following are true about measles elimination program except-"
+  },
+  {
+    "id": 15618,
+    "old_module_id": 374,
+    "new_module_id": 387,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[387] Environment and Health > Water - I: Sources and purification of water",
+    "question": "In Kerala floods, tab doxycycline is distributed for prophylaxis along with"
+  },
+  {
+    "id": 14555,
+    "old_module_id": 374,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "All diseases are covered under Indradanush except"
+  },
+  {
+    "id": 14580,
+    "old_module_id": 374,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "1 year child's mother comes to your immunisation clinic telling that the child received 1st dose of Pentavalent was taken at 6 weeks only. What's your plan ?"
+  },
+  {
+    "id": 14590,
+    "old_module_id": 374,
+    "new_module_id": 372,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Following earthquake in Pakistan, which of the following vaccines is recommended by WHO?"
+  },
+  {
+    "id": 14634,
+    "old_module_id": 374,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "18-month baby come for first time. Which all vaccines can be given"
+  },
+  {
+    "id": 14838,
+    "old_module_id": 374,
+    "new_module_id": 383,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "Number of water-holding containers infected with Aedes larvae per 100 houses inspected is known as"
+  },
+  {
+    "id": 14530,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A pregnant lady was found to be HIV positive in first trimester. Line of management is"
+  },
+  {
+    "id": 15144,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A 16-month-old child weighing 8 kg. In WHO weight for age chart the child is below -2SD curve. What is the diagnosis and management?"
+  },
+  {
+    "id": 15292,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A 50-year-old man from Chittoor, Andhra Pradesh, presents to the OPD with features of osteoporosis. Examination reveals outward bending of both legs. Which of the following is not "
+  },
+  {
+    "id": 14372,
+    "old_module_id": 396,
+    "new_module_id": 378,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[378] Indian Health Programmes > National Health Programmes III - NIS, JSY, RBSK and Others",
+    "question": "All of the following regarding the management of lymphoedema are correct EXCEPT"
+  },
+  {
+    "id": 14596,
+    "old_module_id": 396,
+    "new_module_id": 363,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "Which of the following is correct about management of HIV patients with multiple dog bites?"
+  },
+  {
+    "id": 16034,
+    "old_module_id": 396,
+    "new_module_id": 383,
+    "currentScore": 1,
+    "bestScore": 8,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "Per capita allowance of water per day is recommended at"
+  },
+  {
+    "id": 15419,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A patient comes to you with a single, hypopigmented, hypo aesthetic plaque with thickened feeder Nerve. What's the management protocol for this patient? Images of PB, MB MDT was gi"
+  },
+  {
+    "id": 14071,
+    "old_module_id": 399,
+    "new_module_id": 389,
+    "currentScore": 3,
+    "bestScore": 10,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[389] Environment and Health > Water- III: Water Quality and Standards",
+    "question": "Identify the index explained in the image?"
+  },
+  {
+    "id": 15475,
+    "old_module_id": 402,
+    "new_module_id": 389,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[402] International Health > International Health",
+    "to_module": "[389] Environment and Health > Water- III: Water Quality and Standards",
+    "question": "International food standards include"
+  },
+  {
+    "id": 15967,
+    "old_module_id": 404,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[404] Biostatistics > Descriptive Statistics II - Measures of Location",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Standard deviation is the measure of"
+  },
+  {
+    "id": 15898,
+    "old_module_id": 404,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[404] Biostatistics > Descriptive Statistics II - Measures of Location",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Bimodal distribution is represented by"
+  },
+  {
+    "id": 14278,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Which of the following is true about pertussis?"
+  },
+  {
+    "id": 14920,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "A female presented with anogenital wart. With gene study, they came to know she's having risk of Cancer cervix. Which is most likely responsible for high risk of Cervial cancer?"
+  },
+  {
+    "id": 15496,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "For ensuring optimum and uniform day light illumination, buildings should be oriented"
+  },
+  {
+    "id": 14075,
+    "old_module_id": 355,
+    "new_module_id": 383,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "Temporary hardness of water is primarily due to the presence of"
+  },
+  {
+    "id": 14320,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "In a particular trial, the association of lung cancer with smoking is found to be 40% in one sample and 60% in other. Best test to compare the result"
+  },
+  {
+    "id": 14636,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Which of the following is Anti-cancer vaccine"
+  },
+  {
+    "id": 14826,
+    "old_module_id": 355,
+    "new_module_id": 377,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "A patient having cough 3 weeks was started on ATT under NTEP. IP and CP were completed and then he tested smear negative for AFB on two samples. What's the status of patient?"
+  },
+  {
+    "id": 14922,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Which of the following women is not at an increased risk of developing breast cancer in future?"
+  },
+  {
+    "id": 14908,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Besides pregnancy the oral contraceptive protect against all except"
+  },
+  {
+    "id": 16001,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Data that is obtained directly from an individual is called"
+  },
+  {
+    "id": 15835,
+    "old_module_id": 355,
+    "new_module_id": 371,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[371] Epidemiology of Communicable Diseases > Zoonotic Infections - Viral",
+    "question": "Viral Haemorrhagic fever confirmed in India?"
+  },
+  {
+    "id": 15331,
+    "old_module_id": 355,
+    "new_module_id": 378,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[378] Indian Health Programmes > National Health Programmes III - NIS, JSY, RBSK and Others",
+    "question": "In a study, two groups of new-borns are checked for their weights based on whether mothers received food supplements or not. Appropriate statistical test that can be used is"
+  },
+  {
+    "id": 15489,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Exposure to following minimal level of sound can cause rupture of tympanic membrane leading to permanent hearing loss"
+  },
+  {
+    "id": 15494,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Minimum day light factor recommended for a living room is:"
+  },
+  {
+    "id": 16007,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "State whether the data reflecting the heights of individuals in the general population are likely to be skewed to the right, skewed to the left or symmetrical."
+  },
+  {
+    "id": 16002,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Primary data is also known as"
+  },
+  {
+    "id": 16096,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "An investigator wants to study the association between maternal intake of Iron supplements (yes/No) and incidence of low birth weight. He collects relevant data from 100 pregnant w"
+  },
+  {
+    "id": 15914,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "In a village with 180 eligible couples, FP data of contraceptive methods is Sterilisation: Vasectomy-3 & Tubectomy-8 IUD users-10 OCP users-10 Condom users-29 Effective CPR in the "
+  },
+  {
+    "id": 15928,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "BP of 200 persons were collected. The first quartile BP of data was 94 mmHg and 3rd quartile was 110mmHg. How many patients lie between 3rd and 4th quartile"
+  },
+  {
+    "id": 15922,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "According to empirical rule, what percentage of data should lie within normal limit"
+  },
+  {
+    "id": 15921,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "If the mean of a normal distribution is 20 and its standard deviation is 5, then 95% of the data lie within which of the following ranges?"
+  },
+  {
+    "id": 15926,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Nominal data is"
+  },
+  {
+    "id": 15955,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Popular method of presenting data to the man in the street is"
+  },
+  {
+    "id": 15930,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Histogram is used to present which type of data"
+  },
+  {
+    "id": 16030,
+    "old_module_id": 355,
+    "new_module_id": 375,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "The correlation between Smoking and Lung cancer in a study was found to be 1.5. This indicates"
+  },
+  {
+    "id": 16105,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Difference between lowest and highest value in a data distribution is known as"
+  },
+  {
+    "id": 15490,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Whispering produces a sound of:"
+  },
+  {
+    "id": 15495,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Brightness or luminance is the amount of light reflected from a surface and is measured by"
+  },
+  {
+    "id": 15936,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Identify this data presentation method"
+  },
+  {
+    "id": 14827,
+    "old_module_id": 355,
+    "new_module_id": 377,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "A 35-year-old homeless man presents with a one-month history of fever, cough, and weight loss. Although both sputum smear tests are negative, the chest X-ray findings are suggestiv"
+  },
+  {
+    "id": 14279,
+    "old_module_id": 357,
+    "new_module_id": 378,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[378] Indian Health Programmes > National Health Programmes III - NIS, JSY, RBSK and Others",
+    "question": "A group of 75 teenagers went on a camping trip. Among them, 80% were vaccinated against a particular disease. One unvaccinated camper became infected and transmitted the infection "
+  },
+  {
+    "id": 14887,
+    "old_module_id": 357,
+    "new_module_id": 374,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "question": "A DM patient went to his physician for regular check-up and his physician noted some joint deformities in him. Then he drew a diagram to depict the changes associated with diabetes"
+  },
+  {
+    "id": 15018,
+    "old_module_id": 357,
+    "new_module_id": 394,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "In which vector only larval stage can transmit disease"
+  },
+  {
+    "id": 14661,
+    "old_module_id": 357,
+    "new_module_id": 383,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "During a disease outbreak, what is the correct method for collecting a water sample for bacteriological analysis?"
+  },
+  {
+    "id": 14702,
+    "old_module_id": 357,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "A test for Hepatitis C is performed on 200 patients with biopsy-proven disease and 200 patients free of the disease. The test shows positive results on 180 of the patients with the"
+  },
+  {
+    "id": 15879,
+    "old_module_id": 357,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "A novel, highly contagious respiratory virus emerges in a previously unexposed population. Following its introduction, surveillance data confirms a steady rise in the number of new"
+  },
+  {
+    "id": 14845,
+    "old_module_id": 357,
+    "new_module_id": 394,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[394] Environment and Health > Medical Entomology - Ticks, Fleas and Mites",
+    "question": "Identify the disease caused by the organism in picture"
+  },
+  {
+    "id": 14837,
+    "old_module_id": 357,
+    "new_module_id": 383,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "Which of the following hepatitis viruses is classified as a water-borne disease?"
+  },
+  {
+    "id": 14456,
+    "old_module_id": 357,
+    "new_module_id": 376,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[376] Indian Health Programmes > National Health Programmes I - NVBDCP",
+    "question": "Which disease is targeted by the National Vector Borne Disease Control Program, where the insect shown below serves as the vector?"
+  },
+  {
+    "id": 14301,
+    "old_module_id": 361,
+    "new_module_id": 400,
+    "currentScore": 3,
+    "bestScore": 9,
+    "from_module": "[361] Epidemiology > Basic Definitions in Infectious Disease Epidemiology",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "In an outbreak investigation, the primary attack rate is calculated based on:"
+  },
+  {
+    "id": 15285,
+    "old_module_id": 364,
+    "new_module_id": 383,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[364] Epidemiology > Vaccine Production and Storage",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "Which of the following substances should be eaten to prevent thiamine deficiency?"
+  },
+  {
+    "id": 14307,
+    "old_module_id": 364,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[364] Epidemiology > Vaccine Production and Storage",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "A study investigates the efficacy of a new malaria vaccine. The data collected is presented in the table below. Calculate the Relative Risk (RR) for contracting malaria among the v"
+  },
+  {
+    "id": 14219,
+    "old_module_id": 366,
+    "new_module_id": 357,
+    "currentScore": 5,
+    "bestScore": 11,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "question": "A cancer patient receiving chemotherapy and radiotherapy is undergoing which level of prevention?"
+  },
+  {
+    "id": 14402,
+    "old_module_id": 374,
+    "new_module_id": 361,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[361] Epidemiology > Basic Definitions in Infectious Disease Epidemiology",
+    "question": "Transition from increased prevalence of infectious pandemic diseases to man made disease is known as"
+  },
+  {
+    "id": 14498,
+    "old_module_id": 374,
+    "new_module_id": 362,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[362] Epidemiology > Dynamics of Disease Transmission",
+    "question": "Malaria is an example of _________ type of biological transmission in vector-borne diseases."
+  },
+  {
+    "id": 14848,
+    "old_module_id": 374,
+    "new_module_id": 373,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[373] Epidemiology of Communicable Diseases > STDs and Surface Infections",
+    "question": "STD kit colour for lower abdominal tenderness"
+  },
+  {
+    "id": 14354,
+    "old_module_id": 374,
+    "new_module_id": 383,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "Father of public health -"
+  },
+  {
+    "id": 14466,
+    "old_module_id": 374,
+    "new_module_id": 361,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[374] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cardiovascular Diseases and Diabetes",
+    "to_module": "[361] Epidemiology > Basic Definitions in Infectious Disease Epidemiology",
+    "question": "In the study of infectious diseases, what does the term \"serial interval\" refer to?"
+  },
+  {
+    "id": 15752,
+    "old_module_id": 376,
+    "new_module_id": 400,
+    "currentScore": 6,
+    "bestScore": 12,
+    "from_module": "[376] Indian Health Programmes > National Health Programmes I - NVBDCP",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "According to the national guidelines in India, for what population size is a standard Urban Primary Health Centre (U-PHC) typically established?"
+  },
+  {
+    "id": 14098,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A 5 year old patient was brought to OPD with complaints of loose stools, the child looked severely dehydrated, hypotensive, lethargic and had tachypnea. What will be your managemen"
+  },
+  {
+    "id": 14571,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "32 year male presented to the emergency following severe crush injury on hand. He had received last TT injection at the age of 25 years. After proper wound cleaning is done. What i"
+  },
+  {
+    "id": 15508,
+    "old_module_id": 396,
+    "new_module_id": 392,
+    "currentScore": 1,
+    "bestScore": 7,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "What type of sanitation facilities should be provided for the soldiers returning from war?"
+  },
+  {
+    "id": 15511,
+    "old_module_id": 396,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "Human anatomical waste is disposed in which coloured bag"
+  },
+  {
+    "id": 14668,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "In the management of stores VED, D stands for"
+  },
+  {
+    "id": 15021,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A 2 year old child is presenting to PHC with fever and breathlessness. O/E respiratory rate was 46/min and chest indrawing was present. What is the management protocol?"
+  },
+  {
+    "id": 16174,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A 22-year-old woman visits the STI clinic with complaints of minimal vaginal discharge. Speculum examination reveals cervical erosions. Which syndromic management kit is most appro"
+  },
+  {
+    "id": 14443,
+    "old_module_id": 396,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "What type of waste in the bag below is disposed of through ration?"
+  },
+  {
+    "id": 14963,
+    "old_module_id": 396,
+    "new_module_id": 377,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "A woman with leprosy was started on MB-MDT but discontinued treatment after taking it for 4 months. She remained off drugs for 1 year and now presents with recurrence of symptoms. "
+  },
+  {
+    "id": 15020,
+    "old_module_id": 396,
+    "new_module_id": 400,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "You are a doctor working in a village. A 1-year-old child, refusing to feed, has had fever and cough for 2 days. On examination, the child is calm but has a respiratory rate of 51 "
+  },
+  {
+    "id": 15532,
+    "old_module_id": 396,
+    "new_module_id": 392,
+    "currentScore": 6,
+    "bestScore": 12,
+    "from_module": "[396] Biomedical Waste Management > Biomedical Waste Management",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "The process of treating biomedical waste by mixing it with cement and other substances before disposal is known as:"
+  },
+  {
+    "id": 14685,
+    "old_module_id": 397,
+    "new_module_id": 388,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[397] Disaster Management > Disaster Management",
+    "to_module": "[388] Environment and Health > Water- II: Disinfection of water",
+    "question": "Minimum recommended dose of free residual chlorine in water bodies during post disaster phase"
+  },
+  {
+    "id": 15903,
+    "old_module_id": 398,
+    "new_module_id": 403,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[398] Occupational Community Medicine > Occupational Health Diseases",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Examine the provided graphs depicting various occupational groups and their likelihood of developing fever. Identify the group with the greatest probability of experiencing fever."
+  },
+  {
+    "id": 14214,
+    "old_module_id": 399,
+    "new_module_id": 356,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[356] Concepts of Health and Disease > Health Determinants and Indicators",
+    "question": "The Jakarta Declaration on Health Promotion recognizes which factor as essential for sustainable health promotion?"
+  },
+  {
+    "id": 15692,
+    "old_module_id": 399,
+    "new_module_id": 378,
+    "currentScore": 3,
+    "bestScore": 9,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[378] Indian Health Programmes > National Health Programmes III - NIS, JSY, RBSK and Others",
+    "question": "Best method of teaching mothers in slum area about ORS is:"
+  },
+  {
+    "id": 15833,
+    "old_module_id": 401,
+    "new_module_id": 375,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[401] Healthcare of the Community > Healthcare in India",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Which of the following is the most common cause of blindness in India?"
+  },
+  {
+    "id": 16110,
+    "old_module_id": 405,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[405] Biostatistics > Descriptive Statistics III - Measures of Dispersion",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Difference between lowest and highest in data distribution is known as:"
+  },
+  {
+    "id": 14904,
+    "old_module_id": 355,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Which of the following statements is true about the pathogenic organisms of trachoma?"
+  },
+  {
+    "id": 15320,
+    "old_module_id": 355,
+    "new_module_id": 383,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[383] Nutrition and Health > Micronutrients and Water",
+    "question": "Guidelines according to BFHI includes all except"
+  },
+  {
+    "id": 15491,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "All the following statement about agent of hepatitis B are correct EXCEPT:"
+  },
+  {
+    "id": 15548,
+    "old_module_id": 355,
+    "new_module_id": 393,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[393] Environment and Health > Medical Entomology - Mosquitoes and Flies",
+    "question": "Normal life span of mosquito is"
+  },
+  {
+    "id": 14059,
+    "old_module_id": 355,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Causative organism of donovanosis is:"
+  },
+  {
+    "id": 14065,
+    "old_module_id": 355,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "A 5-yr old boy has had 15 episodes of loose stools in the last 24 hours and vomited twice in the last 4 hours. The child is restless and has sunken eyes. On examination, he is irri"
+  },
+  {
+    "id": 14076,
+    "old_module_id": 355,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "Biochemical oxygen demand is determined by"
+  },
+  {
+    "id": 14142,
+    "old_module_id": 355,
+    "new_module_id": 388,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[388] Environment and Health > Water- II: Disinfection of water",
+    "question": "Which of the following is the cause of the brown discoloration of the incisors in a child who initially had white patches, resulting from excessive supplementation?"
+  },
+  {
+    "id": 14200,
+    "old_module_id": 355,
+    "new_module_id": 400,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A 40-year-old female patient has a family history of breast cancer. She is concerned about her risk and wants to take preventive measures. Which of the following principles of heal"
+  },
+  {
+    "id": 14484,
+    "old_module_id": 355,
+    "new_module_id": 363,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "True statement regarding measures of typhoid control"
+  },
+  {
+    "id": 14602,
+    "old_module_id": 355,
+    "new_module_id": 363,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "Intussusception is associated with which vaccine?"
+  },
+  {
+    "id": 14630,
+    "old_module_id": 355,
+    "new_module_id": 378,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[378] Indian Health Programmes > National Health Programmes III - NIS, JSY, RBSK and Others",
+    "question": "True about history of Japanese encephalitis is EXCEPT:"
+  },
+  {
+    "id": 15817,
+    "old_module_id": 355,
+    "new_module_id": 389,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[389] Environment and Health > Water- III: Water Quality and Standards",
+    "question": "One health assistant male/female should be posted for a every"
+  },
+  {
+    "id": 14816,
+    "old_module_id": 355,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Chemoprophylaxis of H1N1"
+  },
+  {
+    "id": 14982,
+    "old_module_id": 355,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Which of the following is true about Measles?"
+  },
+  {
+    "id": 15109,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Power of study can be increased by"
+  },
+  {
+    "id": 15134,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Mc Ardle's maximum allowable sweat rate is"
+  },
+  {
+    "id": 15267,
+    "old_module_id": 355,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "Regular drinking of which of the following can prevent UTI"
+  },
+  {
+    "id": 15334,
+    "old_module_id": 355,
+    "new_module_id": 384,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[384] Nutrition and Health > Food Quality and Processing",
+    "question": "Which one of the following is not a component of dietary fibre"
+  },
+  {
+    "id": 15579,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "For calculating the sample size for a prevalence study all the following are necessary except"
+  },
+  {
+    "id": 15965,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "Power of study can be increased by"
+  },
+  {
+    "id": 15988,
+    "old_module_id": 355,
+    "new_module_id": 403,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[403] Biostatistics > Descriptive Statistics I - Probability and Data",
+    "question": "A randomized trial comparing efficacy of two regimens showed that difference is statically significant with p< 0.001 but in reality the two drugs do not differ in their efficacy. T"
+  },
+  {
+    "id": 16068,
+    "old_module_id": 355,
+    "new_module_id": 390,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[390] Environment and Health > Housing and Ventilation",
+    "question": "The instrument used nowadays to measure slow velocity of air rather than cooling power of air is"
+  },
+  {
+    "id": 15527,
+    "old_module_id": 355,
+    "new_module_id": 392,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "Following latrines are suitable for camps and temporary use except:"
+  },
+  {
+    "id": 14158,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Causative organism of farmer's lung is"
+  },
+  {
+    "id": 15483,
+    "old_module_id": 355,
+    "new_module_id": 391,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[355] History of Medicine > History of Medicine",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Which of the following is non-natural gas causing green house effect?"
+  },
+  {
+    "id": 14280,
+    "old_module_id": 357,
+    "new_module_id": 377,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[377] Indian Health Programmes > National Health Programmes II - NLEP, NTEP & NACO",
+    "question": "Elimination of leprosy in India is defined as prevalence of ________________"
+  },
+  {
+    "id": 14437,
+    "old_module_id": 357,
+    "new_module_id": 387,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[387] Environment and Health > Water - I: Sources and purification of water",
+    "question": "You are a medical officer posted in a village 'X'. The village has been affected by the epidemic of cholera. What is the first step that should be taken to decrease the incidence o"
+  },
+  {
+    "id": 15566,
+    "old_module_id": 357,
+    "new_module_id": 387,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[357] Concepts of Health and Disease > Concepts of Disease and Prevention",
+    "to_module": "[387] Environment and Health > Water - I: Sources and purification of water",
+    "question": "Step wells are associated with which disease?"
+  },
+  {
+    "id": 14956,
+    "old_module_id": 362,
+    "new_module_id": 376,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[362] Epidemiology > Dynamics of Disease Transmission",
+    "to_module": "[376] Indian Health Programmes > National Health Programmes I - NVBDCP",
+    "question": "MBER(Monthly Blood Examination Rate) norms laid down by NVBDCP for Malaria fever surveillance during transmission season is"
+  },
+  {
+    "id": 14582,
+    "old_module_id": 364,
+    "new_module_id": 363,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[364] Epidemiology > Vaccine Production and Storage",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "Which of the following statements about the rotavirus vaccine is incorrect?"
+  },
+  {
+    "id": 15905,
+    "old_module_id": 366,
+    "new_module_id": 400,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[366] Screening > Screening",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A public health worker visits the community every 15 days to collect blood smears for malaria surveillance. What type of surveillance does this represent?"
+  },
+  {
+    "id": 14013,
+    "old_module_id": 369,
+    "new_module_id": 372,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[369] Epidemiology of Communicable Diseases > Intestinal Infections",
+    "to_module": "[372] Epidemiology of Communicable Diseases > Zoonotic Infections - Bacterial & Parasitic",
+    "question": "A child is brought to the PHC with acute diarrhea. The doctor based on the history suspects that the child may be suffering from an infection due to shigella over cholera. Which of"
+  },
+  {
+    "id": 15243,
+    "old_module_id": 381,
+    "new_module_id": 390,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[381] Demography and Family Planning > Family Planning",
+    "to_module": "[390] Environment and Health > Housing and Ventilation",
+    "question": "There is a report of toxic fumes leaking from a nearby chemical factory. What should be your immediate action?"
+  },
+  {
+    "id": 14917,
+    "old_module_id": 386,
+    "new_module_id": 375,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[386] Medicine and Social Sciences > Social Organization and Economics",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "According to the WHO, what is the cut-off for visual acuity for blindness?"
+  },
+  {
+    "id": 14304,
+    "old_module_id": 386,
+    "new_module_id": 375,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[386] Medicine and Social Sciences > Social Organization and Economics",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Vitamin A deficiency is considered a public health problem if prevalence rate of night blindness in children between 6 months to 6 years is more than:"
+  },
+  {
+    "id": 15499,
+    "old_module_id": 386,
+    "new_module_id": 391,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[386] Medicine and Social Sciences > Social Organization and Economics",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Maximum sound level (db) which can be tolerated without any untoward effect on health"
+  },
+  {
+    "id": 15517,
+    "old_module_id": 387,
+    "new_module_id": 392,
+    "currentScore": 8,
+    "bestScore": 13,
+    "from_module": "[387] Environment and Health > Water - I: Sources and purification of water",
+    "to_module": "[392] Environment and Health > Waste and Sewage Disposal",
+    "question": "Best way to dispose e-waste is"
+  },
+  {
+    "id": 14941,
+    "old_module_id": 398,
+    "new_module_id": 375,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[398] Occupational Community Medicine > Occupational Health Diseases",
+    "to_module": "[375] Epidemiology of Non-Communicable Diseases > Non-Communicable Diseases - Cancer, Obesity and Blindness",
+    "question": "Earliest association between a cancer and an occupation was established between"
+  },
+  {
+    "id": 14213,
+    "old_module_id": 399,
+    "new_module_id": 400,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "A 30-year-old male patient presents with high blood pressure and obesity. He expresses concerns about his health and the impact on his overall well-being. Which of the following pr"
+  },
+  {
+    "id": 14593,
+    "old_module_id": 399,
+    "new_module_id": 363,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[363] Epidemiology > Principles of Immunization and Vaccination",
+    "question": "A 37 weeks pregnant woman attends an antenatal clinic at a Primary Health Centre. She has not had any antenatal care till now. The best approach regarding tetanus immunization in t"
+  },
+  {
+    "id": 15696,
+    "old_module_id": 399,
+    "new_module_id": 400,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[399] Communication for Health Education > Communication for Health Education",
+    "to_module": "[400] Healthcare of the Community > Health Planning and Management",
+    "question": "According to the Alma-Ata Declaration, which of the following is NOT one of the four fundamental pillars of Primary Health Care (PHC)?"
+  },
+  {
+    "id": 15498,
+    "old_module_id": 402,
+    "new_module_id": 391,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[402] International Health > International Health",
+    "to_module": "[391] Environment and Health > Light, Sound and Radiation",
+    "question": "Global warming - true is"
+  }
+]

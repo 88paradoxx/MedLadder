@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "PSM",
+    "slug": "psm",
+    "total": 2184,
+    "flagged": 237,
+    "percentage": "10.9%",
+    "mdFile": "tools/psm_flagged_questions.md"
+  },
+  {
+    "subject": "OB & G",
+    "slug": "ob_g",
+    "total": 1805,
+    "flagged": 139,
+    "percentage": "7.7%",
+    "mdFile": "tools/ob_g_flagged_questions.md"
+  },
+  {
+    "subject": "Pediatrics",
+    "slug": "pediatrics",
+    "total": 1274,
+    "flagged": 22,
+    "percentage": "1.7%",
+    "mdFile": "tools/pediatrics_flagged_questions.md"
+  },
+  {
+    "subject": "ENT",
+    "slug": "ent",
+    "total": 1200,
+    "flagged": 123,
+    "percentage": "10.3%",
+    "mdFile": "tools/ent_flagged_questions.md"
+  },
+  {
+    "subject": "Ophthalmology",
+    "slug": "ophthalmology",
+    "total": 1556,
+    "flagged": 140,
+    "percentage": "9.0%",
+    "mdFile": "tools/ophthalmology_flagged_questions.md"
+  },
+  {
+    "subject": "Orthopaedics",
+    "slug": "orthopaedics",
+    "total": 1359,
+    "flagged": 102,
+    "percentage": "7.5%",
+    "mdFile": "tools/orthopaedics_flagged_questions.md"
+  },
+  {
+    "subject": "Dermatology",
+    "slug": "dermatology",
+    "total": 836,
+    "flagged": 63,
+    "percentage": "7.5%",
+    "mdFile": "tools/dermatology_flagged_questions.md"
+  },
+  {
+    "subject": "Psychiatry",
+    "slug": "psychiatry",
+    "total": 926,
+    "flagged": 87,
+    "percentage": "9.4%",
+    "mdFile": "tools/psychiatry_flagged_questions.md"
+  },
+  {
+    "subject": "Anaesthesia",
+    "slug": "anaesthesia",
+    "total": 1102,
+    "flagged": 60,
+    "percentage": "5.4%",
+    "mdFile": "tools/anaesthesia_flagged_questions.md"
+  },
+  {
+    "subject": "Radiology",
+    "slug": "radiology",
+    "total": 1184,
+    "flagged": 56,
+    "percentage": "4.7%",
+    "mdFile": "tools/radiology_flagged_questions.md"
+  }
+]

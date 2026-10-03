@@ -1,0 +1,2532 @@
+[
+  {
+    "id": 8629,
+    "old_module_id": 740,
+    "new_module_id": 224,
+    "currentScore": 7,
+    "bestScore": 31,
+    "from_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "to_module": "[224] Autonomic Nervous System > Drugs for Glaucoma",
+    "question": "Identify drugs acting on shown by ARROW in given illustrated image. 1. Betaxolol 2. Brimonidine 3. Bimatoprost 4. Brinzolamide 5. Dipiverfine 6. Physostigmine 7. Pilocarpine"
+  },
+  {
+    "id": 8887,
+    "old_module_id": 234,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 24,
+    "from_module": "[234] Central and Peripheral Nervous System > Anti-manic Drugs",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A patient presented with absence seizures. Which of the following drugs are useful for this patient? 1. Carbamazepine 2. Ethosuximide 3. Gabapentin 4. Valproate Select the answer f"
+  },
+  {
+    "id": 9134,
+    "old_module_id": 251,
+    "new_module_id": 243,
+    "currentScore": 0,
+    "bestScore": 20,
+    "from_module": "[251] Antimicrobials > Anti-virals (Non-retroviral)",
+    "to_module": "[243] Antimicrobials > Antiretroviral Drugs",
+    "question": "What dose adjustment is necessary for a patient who has initiated anti-tubercular therapy and is already receiving antiretroviral treatment with Tenofovir 200 mg, Dolutegravir 100 "
+  },
+  {
+    "id": 8834,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 18,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "60-year-old man with diabetic kidney disease and hypertension is treated with lisinopril but stopped a week ago due to a dry, nagging cough. Which of the following is the best trea"
+  },
+  {
+    "id": 8536,
+    "old_module_id": 226,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 18,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 7-year-old child accidentally disturbs a bee hive and sustains multiple stings. Within minutes, the child develops dyspnea, hypotension, and generalized urticaria. Which of the f"
+  },
+  {
+    "id": 8894,
+    "old_module_id": 267,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 18,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "An epileptic patient presents with gingival hypertrophy and bleeding gums. Which antiepileptic drug is most likely responsible for this adverse effect?"
+  },
+  {
+    "id": 8473,
+    "old_module_id": 270,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 18,
+    "from_module": "[270] Anti-Neoplastic Agents > Interleukins, Growth Factors and Targeted Therapies",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "Lignocaine is used as a loading dose for the treatment of arrhythmias. The loading dose depends on which of the following factors?"
+  },
+  {
+    "id": 9677,
+    "old_module_id": 222,
+    "new_module_id": 264,
+    "currentScore": 0,
+    "bestScore": 17,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[264] Hematology > Anticoagulants",
+    "question": "A 65-year-old man is started on rivaroxaban for his atrial fibrillation. Which of the following tests would provide accurate information about the coagulation status of a patient t"
+  },
+  {
+    "id": 8480,
+    "old_module_id": 228,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 17,
+    "from_module": "[228] Cardiovascular System > Diuretics",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "A young female weighing 46 kg is on digoxin therapy. Given that the volume of distribution (Vd) of digoxin is 6 L/kg and its clearance (CL) is 4.6 L/h, calculate the half-life (t&#"
+  },
+  {
+    "id": 8878,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 27-year-old woman comes to you for advise regarding discontinuation of valproate as she is planning to conceive. She has seizure free interval since 12 months. What would be appr"
+  },
+  {
+    "id": 8855,
+    "old_module_id": 256,
+    "new_module_id": 232,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[232] Cardiovascular System > Anti-diuretics",
+    "question": "Which medication is considered the first-line treatment for central diabetes insipidus?"
+  },
+  {
+    "id": 8665,
+    "old_module_id": 265,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A patient presents to the emergency department following organophosphate compound poisoning and is treated with intravenous atropine infusion and pralidoxime. Two hours later, the "
+  },
+  {
+    "id": 8806,
+    "old_module_id": 222,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 15,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "68-year-old man has achy pain in thigh that is not related to activity. The patient has tried warm compresses. Physical examination shows diffuse tenderness in the proximal muscles"
+  },
+  {
+    "id": 8581,
+    "old_module_id": 226,
+    "new_module_id": 223,
+    "currentScore": 4,
+    "bestScore": 19,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 67-year-old man presents with severe substernal chest pain and shortness of breath since 3 hours. Physical examination reveals bilateral crackles and a third heart sound. ECG sho"
+  },
+  {
+    "id": 8912,
+    "old_module_id": 228,
+    "new_module_id": 234,
+    "currentScore": 0,
+    "bestScore": 15,
+    "from_module": "[228] Cardiovascular System > Diuretics",
+    "to_module": "[234] Central and Peripheral Nervous System > Anti-manic Drugs",
+    "question": "A 30 year old patient was started on lithium carbonate for bipolar disorder. The nurse will give instructions on adverse effects of the therapy. The patient should report back if t"
+  },
+  {
+    "id": 9210,
+    "old_module_id": 239,
+    "new_module_id": 245,
+    "currentScore": 0,
+    "bestScore": 15,
+    "from_module": "[239] Antimicrobials > General Principles of Antimicrobial Therapy",
+    "to_module": "[245] Antimicrobials > Cephalosporins, Vancomycin and Carbapenems",
+    "question": "Match the following antimicrobial drug with the micro organism they are used against. Drug: A. Meropenem B. Metronidazole C.Ceftriaxone D. Vancomycin Organism: 1. MRSA 2. Klebsiell"
+  },
+  {
+    "id": 9302,
+    "old_module_id": 249,
+    "new_module_id": 248,
+    "currentScore": 0,
+    "bestScore": 15,
+    "from_module": "[249] Antimicrobials > Second Line Drugs for Tuberculosis",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "A 41-year-old woman presents to clinic complaining of severe shortness of breath, cough, and hemoptysis. A chest radiograph reveals right upper lobe fibrosis and her sputum is posi"
+  },
+  {
+    "id": 8807,
+    "old_module_id": 267,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 15,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "A 45-year-old man with dyslipidaemia. He is started on simvastatin and cholestyramine. Which of the following best describes the independent effects of simvastatin and cholestyrami"
+  },
+  {
+    "id": 8919,
+    "old_module_id": 222,
+    "new_module_id": 235,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "question": "A 28-year-old woman comes to the ED for the evaluation of a headache and palpitations associated with increased sweating for the last 6 hours. Patient has history of psychiatric di"
+  },
+  {
+    "id": 8973,
+    "old_module_id": 222,
+    "new_module_id": 236,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[236] Central and Peripheral Nervous System > Opioids - Functions and Classification",
+    "question": "Which of the following is true for Nalbuphine ?"
+  },
+  {
+    "id": 8538,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 55-year-old man comes to the physician because of episodic retrosternal chest pain and shortness of breath for the past 6 months. His symptoms occur when he takes long walks or c"
+  },
+  {
+    "id": 8717,
+    "old_module_id": 226,
+    "new_module_id": 227,
+    "currentScore": 4,
+    "bestScore": 18,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 56-year-old man with male pattern baldness and hypertension is placed on minoxidil. He has had a lack of response to antihypertensive agents with failure to respond to calcium ch"
+  },
+  {
+    "id": 9181,
+    "old_module_id": 265,
+    "new_module_id": 244,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[244] Antimicrobials > Penicillins",
+    "question": "A patient in the emergency has the following lab parameters: creatinine 1.5 and BUN 45. The chest x-ray (pneumonia with infiltrates in the middle part of the right lung and patchy "
+  },
+  {
+    "id": 8459,
+    "old_module_id": 222,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "A 60-year-old man is evaluated for Infective endocarditis. He has a history of aortic valve replacement for aortic stenosis. As part of the patient's treatment, 240 mg of intraveno"
+  },
+  {
+    "id": 8720,
+    "old_module_id": 222,
+    "new_module_id": 227,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 35-year-old man presents to the emergency department complaining of a cough and runny nose of 1-week duration. While being evaluated, it is discovered that his blood pressure is "
+  },
+  {
+    "id": 8805,
+    "old_module_id": 226,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "Which of the following drugs is most effective at lowering LDL cholesterol levels?"
+  },
+  {
+    "id": 8688,
+    "old_module_id": 229,
+    "new_module_id": 226,
+    "currentScore": 2,
+    "bestScore": 15,
+    "from_module": "[229] Cardiovascular System > Anti-Arrhythmic Drugs",
+    "to_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "question": "A 51-year-old man with congestive heart failure and hypertension comes for follow-up. His current medications include digoxin and a calcium channel blocker. Serum electrolytes and "
+  },
+  {
+    "id": 9395,
+    "old_module_id": 239,
+    "new_module_id": 253,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[239] Antimicrobials > General Principles of Antimicrobial Therapy",
+    "to_module": "[253] Endocrine System > Thyroid and Antithyroid Agents",
+    "question": "A pregnancy woman is diagnosed to suffering from Graves' disease. The most appropriate therapy for her would be:"
+  },
+  {
+    "id": 8646,
+    "old_module_id": 255,
+    "new_module_id": 225,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "to_module": "[225] Cardiovascular System > Anti-Anginal Drugs",
+    "question": "A 75-year-old man with chronic stable angina is on sublingual nitroglycerin on SOS basis. While discussing a plan to start isosorbide dinitrate therapy, the patient becomes concern"
+  },
+  {
+    "id": 9602,
+    "old_module_id": 266,
+    "new_module_id": 260,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "to_module": "[260] Autacoids > NSAIDs",
+    "question": "A 26-year-old male presents with fever and arthritis. Echocardiography confirms carditis. He has a past history of myocardial infarction and peptic ulcer disease. Which of the foll"
+  },
+  {
+    "id": 8406,
+    "old_module_id": 222,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "While reviewing the data of phase I clinical trials, the researchers note that the newly developed drug's half-life seems to vary amongst the healthy volunteers. An increase in whi"
+  },
+  {
+    "id": 9096,
+    "old_module_id": 222,
+    "new_module_id": 241,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "A 46-year-old man comes with fever, perianal pain, and dysuria. Rectal examination shows a boggy, tender prostate. Gram stain of the urine shows gram-negative rods. He is given an "
+  },
+  {
+    "id": 8577,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 72-year-old man is brought to the hospital due to severe chest pain and shortness of breath for the last several hours. Physical examination reveals bilateral crackles and a thir"
+  },
+  {
+    "id": 8615,
+    "old_module_id": 740,
+    "new_module_id": 224,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "to_module": "[224] Autonomic Nervous System > Drugs for Glaucoma",
+    "question": "A 70-year-old woman has been treated with eye drops for her open angle glaucoma. At her most recent follow-up appointment, you note peculiar side effects of the eye-drop as shown b"
+  },
+  {
+    "id": 8831,
+    "old_module_id": 256,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "Which of the following statements about Aliskiren is true?"
+  },
+  {
+    "id": 8472,
+    "old_module_id": 265,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "In the Pritchard regimen for the management of eclampsia, what is the loading dose of magnesium sulfate?"
+  },
+  {
+    "id": 8911,
+    "old_module_id": 268,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 50-year-old male on long-term treatment for a seizure disorder presents with marked gingival hyperplasia. Which of the following drugs is NOT known to cause gingival hyperplasia?"
+  },
+  {
+    "id": 8985,
+    "old_module_id": 222,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "A : Fentanyl has high first pass metabolism. B : CYP3A4 contributes to first pass metabolism when it is taken orally"
+  },
+  {
+    "id": 9769,
+    "old_module_id": 222,
+    "new_module_id": 266,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "question": "A 34-year-old woman presents with intermittent burning sensation in her chest with an occasional simultaneous acidic taste at the back of her throat. The symptoms occur soon after "
+  },
+  {
+    "id": 8921,
+    "old_module_id": 222,
+    "new_module_id": 235,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "question": "Drug \"X\" is used in the management of insomnia and facilitates the inhibitory actions of GABA, but it lacks anticonvulsant or muscle-relaxing properties and has minimal effect on R"
+  },
+  {
+    "id": 9058,
+    "old_module_id": 222,
+    "new_module_id": 240,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[240] Antimicrobials > Antimalarial Drugs",
+    "question": "Which of the following sentence is FALSE for Artemisinin?"
+  },
+  {
+    "id": 8655,
+    "old_module_id": 226,
+    "new_module_id": 223,
+    "currentScore": 2,
+    "bestScore": 13,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "Which of the following beta-blockers is effective in patients with reduced ejection fraction and has been shown to reduce mortality in chronic heart failure without causing long-te"
+  },
+  {
+    "id": 8532,
+    "old_module_id": 236,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[236] Central and Peripheral Nervous System > Opioids - Functions and Classification",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "Which of the following statements is true regarding the mechanism of action of labetalol?"
+  },
+  {
+    "id": 9283,
+    "old_module_id": 248,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A 47-year-old female presents with muscle weakness, blurred vision after exertion, and ptosis, which improves after undergoing the edrophonium test. Which of the following is the m"
+  },
+  {
+    "id": 8824,
+    "old_module_id": 256,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 64-year-old man has been treated with lisinopril for the past 5 years, His medical history is significant for type 2 diabetes mellitus, coronary artery disease with stable angina"
+  },
+  {
+    "id": 9405,
+    "old_module_id": 266,
+    "new_module_id": 253,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "to_module": "[253] Endocrine System > Thyroid and Antithyroid Agents",
+    "question": "A 7-day-old new-born is becoming increasingly irritable and 10 bowel movements over the past 2 days. He was born at 38 weeks' gestation and weighed 1800 g ; he currently weighs 170"
+  },
+  {
+    "id": 9688,
+    "old_module_id": 266,
+    "new_module_id": 264,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "to_module": "[264] Hematology > Anticoagulants",
+    "question": "In a 35-year-old female with sickle cell disease who presents with unprovoked pain in her extremities and torso, thromboembolic events are suspected. What initial medication should"
+  },
+  {
+    "id": 8815,
+    "old_module_id": 268,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "Which of the following drugs is a PCSK9 inhibitor?"
+  },
+  {
+    "id": 9274,
+    "old_module_id": 221,
+    "new_module_id": 247,
+    "currentScore": 2,
+    "bestScore": 12,
+    "from_module": "[221] General Pharmacology > Pharmacokinetics",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "A patient presents to the OPD with black discoloration of the nose and the posterior part of the buccal cavity. He also reports a history of high-dose steroid therapy in the recent"
+  },
+  {
+    "id": 8539,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "Pharmacotherapy with carvedilol is initiated for patient with Idiopathic recurrent atrial fibrillation. Compared to treatment with propranolol, which of the following adverse effec"
+  },
+  {
+    "id": 8864,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 27-year-old man is brought to the ED after found him violently shaking on the floor. The patient bit his tongue during the episode. He has past history of post-traumatic epilepsy"
+  },
+  {
+    "id": 8635,
+    "old_module_id": 222,
+    "new_module_id": 224,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[224] Autonomic Nervous System > Drugs for Glaucoma",
+    "question": "A 70-year-old man with chronic myopia comes to the ophthalmologist for regular check-up. Examination shows bilateral narrowing of peripheral visual fields, cupping of the optic dis"
+  },
+  {
+    "id": 8642,
+    "old_module_id": 222,
+    "new_module_id": 225,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[225] Cardiovascular System > Anti-Anginal Drugs",
+    "question": "Which one of the following is not a nitric oxide donor but causes it to be synthesized and released from endogenous precursors, resulting in vasodilation?"
+  },
+  {
+    "id": 8722,
+    "old_module_id": 222,
+    "new_module_id": 227,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 62-year-old man with hypertension has had to discontinue several medications due to side effects such as dizziness, palpitations, and headaches. Currently he takes ramipril and c"
+  },
+  {
+    "id": 8877,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "You're being asked the difference between carbamazepine and oxcarbazepine. Which of the following sentence is NOT true about difference between these two drugs ?"
+  },
+  {
+    "id": 9038,
+    "old_module_id": 222,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "A 45-year-old man is also started on high-intensity atorvastatin therapy, along with antiplatelet therapy and appropriate medications to control blood pressure. Four weeks later, t"
+  },
+  {
+    "id": 9051,
+    "old_module_id": 222,
+    "new_module_id": 240,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[240] Antimicrobials > Antimalarial Drugs",
+    "question": "Which of the following sentences are TRUE for use of artemisinin-based combination therapy in pregnancy? 1. Recommended for uncomplicated falciparum malaria in 2nd & 3rd trimester "
+  },
+  {
+    "id": 9068,
+    "old_module_id": 222,
+    "new_module_id": 241,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "A 25 years old male patient came to OPD with the complaints of high-grade fever, coughing, blood in sputum, dyspnoea. His pulse rate is 120/min, BP is 110/76 mm Hg, SpO2 on room ai"
+  },
+  {
+    "id": 9092,
+    "old_module_id": 222,
+    "new_module_id": 241,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "A 32-year-old woman complaints of burning upon urination. Urinalysis shows 1+ WBC/hpf, 1+ RBC/hpf, and abundant bacteria, with mostly gram-negative rods. Treatment is begun with a "
+  },
+  {
+    "id": 9264,
+    "old_module_id": 222,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "A 3-year-old-child with ventriculoperitoneal shunt develops fever with chills. On examination, right eye deviated towards left side. Treatment with antibiotics did not improve cond"
+  },
+  {
+    "id": 9432,
+    "old_module_id": 222,
+    "new_module_id": 254,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[254] Endocrine System > Corticosteroids",
+    "question": "A 34-year-old woman presents with worsening breathlessness and cough. Chest auscultation revealed bilateral polyphonic inspiratory and expiratory wheeze. Supplemental oxygen, nebul"
+  },
+  {
+    "id": 8625,
+    "old_module_id": 222,
+    "new_module_id": 224,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[224] Autonomic Nervous System > Drugs for Glaucoma",
+    "question": "A 65-year-old woman has been treated with eye drops for her open angle glaucoma. At her most recent follow-up appointment, you note peculiar side effects of the eye-drop as shown b"
+  },
+  {
+    "id": 8871,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 2,
+    "bestScore": 12,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 32-year-old man is on valproate therapy for GTCS. Which of the following is NOT true about the therapy?"
+  },
+  {
+    "id": 8520,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "Which of the following sentence is/are NOT true about hydrophilic beta-blockers? 1. Do not cross the blood-brain-barrier. 2. Require multiple doses per day. 3. Metoprolol & Propran"
+  },
+  {
+    "id": 8600,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 50-year-old man presents with complains of urinary retention. He has hypertension but not compliant with treatment. BP : 160/100. On DRE : an enlarged prostate rubbery consistenc"
+  },
+  {
+    "id": 9742,
+    "old_module_id": 223,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "Gastrin, acetylcholine, and histamine all regulate gastric acid secretion from parietal cells under normal conditions. Administration of atropine will most likely cause which of th"
+  },
+  {
+    "id": 8709,
+    "old_module_id": 234,
+    "new_module_id": 227,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[234] Central and Peripheral Nervous System > Anti-manic Drugs",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 70-year-old man comes to the ED because of blurry vision and headaches for the past 2 days. His temperature is 99 F, pulse is 90/min, and blood pressure is 230/130 mm-Hg. Fundosc"
+  },
+  {
+    "id": 9057,
+    "old_module_id": 248,
+    "new_module_id": 240,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "to_module": "[240] Antimicrobials > Antimalarial Drugs",
+    "question": "Which of the following is the first-line treatment for Plasmodium falciparum malaria?"
+  },
+  {
+    "id": 8905,
+    "old_module_id": 248,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "The parents of a 8 -year-old girl notice that she frequently stares blankly, sometimes with chewing movements. She shows daydreaming and declining school performance. During episod"
+  },
+  {
+    "id": 9383,
+    "old_module_id": 252,
+    "new_module_id": 232,
+    "currentScore": 2,
+    "bestScore": 12,
+    "from_module": "[252] Endocrine System > Hypothalamus and Pituitary",
+    "to_module": "[232] Cardiovascular System > Anti-diuretics",
+    "question": "On Binding of drug \"X\" to a GPCR receptor leads to increased production of inositol triphosphate (IP3) in the basophilic cells of the anterior pituitary. Administration of this dru"
+  },
+  {
+    "id": 9086,
+    "old_module_id": 254,
+    "new_module_id": 241,
+    "currentScore": 2,
+    "bestScore": 12,
+    "from_module": "[254] Endocrine System > Corticosteroids",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "A female patient with symptoms of urinary tract infection was prescribed an antibiotic that later led to tendon rupture and joint problems. What is the drug’s mechanism of action?"
+  },
+  {
+    "id": 9443,
+    "old_module_id": 255,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A farmer presents to the ED with diarrhea, sweating, tearing, and salivation. Which statement about managing his condition is inaccurate?"
+  },
+  {
+    "id": 9220,
+    "old_module_id": 256,
+    "new_module_id": 244,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[244] Antimicrobials > Penicillins",
+    "question": "A 15-year-old girl is brought because of difficulty swallowing, drowsiness, abdominal pain, nausea and vomiting. Physical examination shows dry mucous membranes, peritonsillar absc"
+  },
+  {
+    "id": 9358,
+    "old_module_id": 267,
+    "new_module_id": 251,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[251] Antimicrobials > Anti-virals (Non-retroviral)",
+    "question": "AIDS patients who are treated with valacyclovir(8g/d) chronically, had an increased incidence of _____________."
+  },
+  {
+    "id": 8562,
+    "old_module_id": 267,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 20-year-old unconscious female brought to the ED 6 hours after the ingestion of 10 tablets of an unknown drug in an attempt to die by suicide. Temperature 98.1 F Pulse : 41/min, "
+  },
+  {
+    "id": 8792,
+    "old_module_id": 267,
+    "new_module_id": 229,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[229] Cardiovascular System > Anti-Arrhythmic Drugs",
+    "question": "A 68-year-old woman comes to the ED with chest pain radiating to left shoulder. Her ECG reveals ventricular tachycardia with ST-segment elevation. Trop C levels are markedly increa"
+  },
+  {
+    "id": 8599,
+    "old_module_id": 268,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "An 85-year-old man develops bilateral pedal cyanosis and beginning necrosis of the toes 5 days after admission to the ICU for CAP and severe hypotension. The patient has received e"
+  },
+  {
+    "id": 8884,
+    "old_module_id": 268,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "Which of the following drugs causes modulation of voltage-gated sodium channels by selectively enhancing slow inactivation?"
+  },
+  {
+    "id": 8802,
+    "old_module_id": 222,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "A 36-year-old man comes for regular check-up. His lab report shown below. Total cholesterol= 290 mg/dL HDL = 45 mg/dL LDL =110 mg/dL Triglycerides = 675 mg/dL He is started on feno"
+  },
+  {
+    "id": 8844,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 47-year-old woman comes with facial swelling and difficulty breathing. There is no itching or skin rash. She also began taking lisinopril 3 months ago for hypertension. Audible s"
+  },
+  {
+    "id": 8866,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 13-year-old boy presents with a pruritic generalized rash, facial edema, and fever for 2 days. He was diagnosed with a seizure disorder and started on Carbamazepine 4 weeks ago. "
+  },
+  {
+    "id": 8988,
+    "old_module_id": 222,
+    "new_module_id": 237,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[237] Central and Peripheral Nervous System > Synthetic Opioids",
+    "question": "Which properties of Remifentanil makes it useful in anesthesia practice ?"
+  },
+  {
+    "id": 8458,
+    "old_module_id": 222,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "A 56-year-old patient is being treated with oral levofloxacin for community-acquired pneumonia. The plasma clearance of the drug is calculated as 12.0 L/h. Oral bioavailability of "
+  },
+  {
+    "id": 8524,
+    "old_module_id": 222,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "Which one of the following can be blocked by atropine?"
+  },
+  {
+    "id": 8740,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 68-year-old man is on metoprolol, ACEIs and Chlorthalidone for his cardiac condition. Which of the following drug should be avoided to prevent AV block ?"
+  },
+  {
+    "id": 8782,
+    "old_module_id": 222,
+    "new_module_id": 229,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[229] Cardiovascular System > Anti-Arrhythmic Drugs",
+    "question": "A 70-year-old female presents to the ED with a racing heartbeat. She is subsequently placed on continuous ECG monitor and irregular rhythm is seen. The diagnosis of atrial fibrilla"
+  },
+  {
+    "id": 9560,
+    "old_module_id": 228,
+    "new_module_id": 229,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[228] Cardiovascular System > Diuretics",
+    "to_module": "[229] Cardiovascular System > Anti-Arrhythmic Drugs",
+    "question": "Which of the following sets of drug interaction and mechanism is accurately described?"
+  },
+  {
+    "id": 8715,
+    "old_module_id": 239,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[239] Antimicrobials > General Principles of Antimicrobial Therapy",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A patient was on metoprolol therapy for hypertension. He was also administered verapamil. Which of the following is likely to happen with above combination therapy?"
+  },
+  {
+    "id": 8808,
+    "old_module_id": 239,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[239] Antimicrobials > General Principles of Antimicrobial Therapy",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "A 55-year-old man with a history of hyperlipidemia was started on statin therapy for high triglyceride levels. However, his triglycerides remain above 600 mg/dL despite treatment. "
+  },
+  {
+    "id": 8590,
+    "old_module_id": 241,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 72-year-old male presents with a weak urinary stream and frequent urination in small amounts. He is currently taking prazosin. He also reports frequent episodes of light-headedne"
+  },
+  {
+    "id": 8781,
+    "old_module_id": 248,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 60-year-old man with COPD comes to the you with palpitations and dizziness since 1 week. Her pulse is 75/min and regular, BP is 3.110/80 mm-Hg. An ECG is shown. What is the first"
+  },
+  {
+    "id": 8767,
+    "old_module_id": 256,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 72-year-old woman with type 2 diabetes mellitus and hypertension under hydrochlorothiazide therapy comes with lab shows a serum potassium level of 4.2 mEq/L and a creatinine leve"
+  },
+  {
+    "id": 9649,
+    "old_module_id": 256,
+    "new_module_id": 263,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[263] Hematology > Antiplatelets, Fibrinolytics and Antifibrinolytics",
+    "question": "A 76-year-old man is brought to the emergency department with severe midsternal chest pain and diaphoresis. Past medical history is significant for hypertension, type 2 diabetes me"
+  },
+  {
+    "id": 8846,
+    "old_module_id": 256,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 45-year-old man is brought for a syncopal episode. He started on lisinopril for his HTN today. On arrival, he is fully oriented. His pulse is 100/min and blood pressure is 90/60 "
+  },
+  {
+    "id": 8693,
+    "old_module_id": 265,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "Which symptom of organophosphate (OP) poisoning is not reversed by atropine?"
+  },
+  {
+    "id": 8830,
+    "old_module_id": 265,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 45 year old patient presents to the OPD with a chronic dry cough with no fever or other associated symptoms who was recently diagnosed with hypertension and managed with anti-hyp"
+  },
+  {
+    "id": 9748,
+    "old_module_id": 266,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "Which of the following is true regarding bempedoic acid? 1. It is a non-competitive inhibitor of ATP-citrate lyase 2. It is a dicarboxylic acid 3. It inhibits de novo cholesterol s"
+  },
+  {
+    "id": 8906,
+    "old_module_id": 268,
+    "new_module_id": 234,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[234] Central and Peripheral Nervous System > Anti-manic Drugs",
+    "question": "A 33-year-old male complains that he feels \"flat\" and that he gets confused at times. He has been gaining weight and has lost his sex drive. As he moves his hands, you notice a sli"
+  },
+  {
+    "id": 8643,
+    "old_module_id": 222,
+    "new_module_id": 227,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 53-year-old man comes with shortness of breath and chest tightness. Blood pressure is 200/110 mm Hg and pulse is 90/min and regular. Lung examination reveals bibasilar crackles. "
+  },
+  {
+    "id": 8935,
+    "old_module_id": 222,
+    "new_module_id": 235,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "question": "A 21-year-old man comes to the psychiatrist for a follow-up. He is on Paroxetine since 8 months for a major depressive episode. He now feels much better. He gets around 7 hours of "
+  },
+  {
+    "id": 9113,
+    "old_module_id": 222,
+    "new_module_id": 241,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "A 78-year-old man presents with headache and nonproductive cough for 5 days. Results of cold agglutinin titer testing show a 4-fold elevation above normal. CXR shows diffuse, patch"
+  },
+  {
+    "id": 9263,
+    "old_module_id": 222,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "In which of the following scenario, Treatment with Amphotericin-B should be avoided?"
+  },
+  {
+    "id": 9376,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 44-year-old man comes to you with abdominal ultrasound shows an atrophic, hyper-echoic, nodular liver. An upper endoscopy is performed and shows dilated submucosal veins 2 mm in "
+  },
+  {
+    "id": 9029,
+    "old_module_id": 222,
+    "new_module_id": 228,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[228] Cardiovascular System > Diuretics",
+    "question": "A 27-year-old woman presents with severe headache and vomiting during high-altitude hiking. Therapy is initiated with Acetazolamide, a carbonic anhydrase inhibitor that alkalinizes"
+  },
+  {
+    "id": 8468,
+    "old_module_id": 222,
+    "new_module_id": 266,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "question": "A 43-year-old woman is diagnosed with pulmonary blastomycosis and is initiated on therapy with oral itraconazole therapy. All of the following could affect the bioavailability of t"
+  },
+  {
+    "id": 8647,
+    "old_module_id": 222,
+    "new_module_id": 225,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[225] Cardiovascular System > Anti-Anginal Drugs",
+    "question": "A 60-year-old male is diagnosed with exertional angina. His treatment regimen includes metoprolol, isosorbide dinitrate and aspirin. He takes isosorbide dinitrate early in the morn"
+  },
+  {
+    "id": 8837,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 56-year-old female presents with chronic cough. She says that the cough is dry and affects quality of her life significantly. She denies chest pain, hemoptysis and shortness of b"
+  },
+  {
+    "id": 9026,
+    "old_module_id": 222,
+    "new_module_id": 225,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[225] Cardiovascular System > Anti-Anginal Drugs",
+    "question": "A 65-year-old man with known CAD comes with exertional chest tightness. The patient underwent coronary artery bypass graft surgery 3 years ago for progressive angina. You discuss a"
+  },
+  {
+    "id": 9093,
+    "old_module_id": 222,
+    "new_module_id": 241,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "Supplementary folinic acid may prevent anemia in folate-deficient persons who use this drug; it is a weak base achieving tissue levels similar to those in plasma."
+  },
+  {
+    "id": 9144,
+    "old_module_id": 222,
+    "new_module_id": 243,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[243] Antimicrobials > Antiretroviral Drugs",
+    "question": "Which of the following is not the ART agent?"
+  },
+  {
+    "id": 9275,
+    "old_module_id": 222,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "A 35-year-old man presents with 3-week history of fever, fatigue, dry cough, headache, and myalgia. Current medications Include prednisone for Crohn disease. He travelled to Ohio f"
+  },
+  {
+    "id": 9545,
+    "old_module_id": 222,
+    "new_module_id": 224,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[224] Autonomic Nervous System > Drugs for Glaucoma",
+    "question": "Adverse effects of depolarizing agents are... 1. Hyperkalemia 2. Hypokalemia 3. Increased intraocular pressure 4. Decreased intraocular pressure 5. Increased intragastric pressure "
+  },
+  {
+    "id": 9544,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "Which of the following have convincingly demonstrated mortality reduction for patients with HFpEF?"
+  },
+  {
+    "id": 8867,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 24-year-old girl is presented with painful, blistering rash. She has a history of bipolar disorder and is on treatment since one month. Physical examination shows numerous coales"
+  },
+  {
+    "id": 9446,
+    "old_module_id": 222,
+    "new_module_id": 257,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[257] Endocrine System > OCPs, Estrogens and Progestins",
+    "question": "A 58-year-old woman was diagnosed with metastatic breast cancer, for which she is currently receiving pharmacotherapy. A DEXA study of the hip shows a T-score of -2.8. Six months a"
+  },
+  {
+    "id": 8430,
+    "old_module_id": 222,
+    "new_module_id": 266,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "question": "A laboratory study of new H2 blockers is planned. Which of the following will result from blockade of H2 receptors?"
+  },
+  {
+    "id": 8984,
+    "old_module_id": 222,
+    "new_module_id": 236,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[236] Central and Peripheral Nervous System > Opioids - Functions and Classification",
+    "question": "A 35 years old male patient came to Emergency department with complaints of severe pain in abdomen right side radiating to back and vomiting. He was given intravenous tramadol for "
+  },
+  {
+    "id": 9258,
+    "old_module_id": 222,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "Regarding the clinical use of liposomal formulations of amphotericin B, which statement is accurate?"
+  },
+  {
+    "id": 9551,
+    "old_module_id": 222,
+    "new_module_id": 258,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[258] Endocrine System > Androgens and Drugs for Erectile Dysfunction",
+    "question": "Rohan, a male athlete, use large doses of anabolic steroids are at increased risk of which of the following?"
+  },
+  {
+    "id": 9251,
+    "old_module_id": 225,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[225] Cardiovascular System > Anti-Anginal Drugs",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "A 21-year-old patient has experienced severe headache and double vision for a week. His temperature is 101.5&deg;F. His CSF culture was positive for cryptococcal antigen. What is t"
+  },
+  {
+    "id": 8812,
+    "old_module_id": 226,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "A 57-year-old male is admitted due to muscle pain, fatigue and dark urine. Current medications include metoprolol, atorvastatin, and aspirin. Laboratory evaluation reveals that he "
+  },
+  {
+    "id": 8728,
+    "old_module_id": 226,
+    "new_module_id": 222,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "question": "Identify the correct match regarding the drug and its adverse drug reaction?"
+  },
+  {
+    "id": 8576,
+    "old_module_id": 228,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[228] Cardiovascular System > Diuretics",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A patient on hypertension was started in anti-hypertensive medications. Which of the following drugs would have caused this adverse effect?"
+  },
+  {
+    "id": 8557,
+    "old_module_id": 233,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 39-year-old woman is presented with intermittent episodes of heart palpitations for 4 weeks. She appears nervous. Her pulse is 110/min and irregularly irregular, and blood pressu"
+  },
+  {
+    "id": 9396,
+    "old_module_id": 233,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 29-year-old woman comes to the physician for intermittent episodes of sharp chest pain and palpitations. She appears nervous. Her pulse is 115/min and irregularly irregular, and "
+  },
+  {
+    "id": 8546,
+    "old_module_id": 233,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 21-year-old male is brought to the ED from a college party because of a 1-hour history of a crawling sensation under his skin. He appears anxious. His temperature is 100.4 F, pul"
+  },
+  {
+    "id": 9060,
+    "old_module_id": 233,
+    "new_module_id": 240,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "to_module": "[240] Antimicrobials > Antimalarial Drugs",
+    "question": "A 30-year-old man recently returned from Assam presents with high-grade fever, chills, seizures, hypotension (BP 70/50 mmHg), and laboured breathing. Peripheral blood smear confirm"
+  },
+  {
+    "id": 8915,
+    "old_module_id": 235,
+    "new_module_id": 232,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "to_module": "[232] Cardiovascular System > Anti-diuretics",
+    "question": "A 52-year-old woman generalized anxiety disorder comes to the emergency department because of persistent nausea, malaise, muscle cramps, drowsiness, and confusion. Laboratory studi"
+  },
+  {
+    "id": 9343,
+    "old_module_id": 250,
+    "new_module_id": 248,
+    "currentScore": 3,
+    "bestScore": 11,
+    "from_module": "[250] Antimicrobials > Anti-leprosy Drugs",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "Which of the following drug given supervised as per national leprosy elimination programme? i) Rifampicin 600 mg once a month ii) Clofazimine 300 mg once a month iii) Dapsone 100 m"
+  },
+  {
+    "id": 9455,
+    "old_module_id": 255,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "What is the main role of phase 1 in xenobiotic metabolism?"
+  },
+  {
+    "id": 9574,
+    "old_module_id": 256,
+    "new_module_id": 226,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "question": "A 58-year-old woman with chronic hypertension and diabetes mellitus was recently admitted to the hospital for congestive heart failure and new onset atrial fibrillation. An echocar"
+  },
+  {
+    "id": 8908,
+    "old_module_id": 258,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[258] Endocrine System > Androgens and Drugs for Erectile Dysfunction",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "Which of the following statements is true about lithium?"
+  },
+  {
+    "id": 9202,
+    "old_module_id": 265,
+    "new_module_id": 245,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[245] Antimicrobials > Cephalosporins, Vancomycin and Carbapenems",
+    "question": "A 57-year-old man with a history of alcoholism is admitted to the intensive care unit after being involved in a motor vehicle collision. One day later, he develops a fever and a co"
+  },
+  {
+    "id": 9598,
+    "old_module_id": 265,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A young woman presents to the emergency department after ingesting approximately 100 aspirin tablets. What is the most appropriate next step in her management?"
+  },
+  {
+    "id": 9773,
+    "old_module_id": 266,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A patient with inflammatory bowel disease experiences severe abdominal cramping. Which of the following drugs is most likely prescribed for its direct spasmolytic action on gastroi"
+  },
+  {
+    "id": 8814,
+    "old_module_id": 267,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "Which of the following drugs should be avoided in a patient on rosuvastatin therapy?"
+  },
+  {
+    "id": 8849,
+    "old_module_id": 267,
+    "new_module_id": 232,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[232] Cardiovascular System > Anti-diuretics",
+    "question": "An investigator has designed a drug that acts on the kidneys to increase urine flow rate. Iit is increasing the free water clearance (CH20) without affecting sodium or potassium ex"
+  },
+  {
+    "id": 9276,
+    "old_module_id": 267,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "Which of the anti-fungal drug cause visual disturbances?"
+  },
+  {
+    "id": 9196,
+    "old_module_id": 268,
+    "new_module_id": 244,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[244] Antimicrobials > Penicillins",
+    "question": "A 57-year-old man is brought with right upper quadrant abdominal pain. He states that the pain is worse after eating a fatty meal. His temperature is 102.5 F. Physical examination "
+  },
+  {
+    "id": 9613,
+    "old_module_id": 269,
+    "new_module_id": 260,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[269] Anti-Neoplastic Agents > Monoclonal Antibodies",
+    "to_module": "[260] Autacoids > NSAIDs",
+    "question": "A female patient presents with headache accompanied by photophobia and phonophobia. Which of the following medications would provide rapid symptomatic relief?"
+  },
+  {
+    "id": 8870,
+    "old_module_id": 270,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[270] Anti-Neoplastic Agents > Interleukins, Growth Factors and Targeted Therapies",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 7-year-old girl is presented with multiple episodes of staring and facial grimacing since 4 weeks. She recall having a vague muddy taste in her mouth prior to the onset of sympto"
+  },
+  {
+    "id": 8818,
+    "old_module_id": 222,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "58-year-old woman with longstanding hypothyroidism was diagnosed with uterine fibroids and started on iron recently. Her other medications include levothyroxine, atorvastatin, and "
+  },
+  {
+    "id": 8899,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "What is the most common and clinically significant side effect of Lamotrigine?"
+  },
+  {
+    "id": 9357,
+    "old_module_id": 222,
+    "new_module_id": 251,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[251] Antimicrobials > Anti-virals (Non-retroviral)",
+    "question": "Which of the following drug achieves serum levels orally that is approximately those achieved by intravenous acyclovir?"
+  },
+  {
+    "id": 9401,
+    "old_module_id": 222,
+    "new_module_id": 253,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[253] Endocrine System > Thyroid and Antithyroid Agents",
+    "question": "A 24-year-old woman was found to have mild hyperthyroidism due to Graves disease. She appears to be in good health otherwise. The decision is made to begin treatment with methimazo"
+  },
+  {
+    "id": 8662,
+    "old_module_id": 222,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A 68-year-old woman referred to you for ECG showing 2:1 second-degree AV block. If you administer atropine intravenously to the patient in, you would expect which of the following "
+  },
+  {
+    "id": 8991,
+    "old_module_id": 222,
+    "new_module_id": 237,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[237] Central and Peripheral Nervous System > Synthetic Opioids",
+    "question": "Which drug can be used to treat overdose of opioids with Methadone ?"
+  },
+  {
+    "id": 9235,
+    "old_module_id": 222,
+    "new_module_id": 246,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[246] Antimicrobials > Anti-Protozoal Agents and Anthelmintic Drugs",
+    "question": "Diethylcarbamazine (DEC) is the drug of choice for________."
+  },
+  {
+    "id": 9245,
+    "old_module_id": 222,
+    "new_module_id": 246,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[246] Antimicrobials > Anti-Protozoal Agents and Anthelmintic Drugs",
+    "question": "What is the dose of albendazole for treatment of hydatid cyst?"
+  },
+  {
+    "id": 9467,
+    "old_module_id": 222,
+    "new_module_id": 255,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "question": "Which of the following is NOT true about Teriparatide ?"
+  },
+  {
+    "id": 9784,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "54-year-old man presents with severe pain in a neuronal dermatome region of her chest. This area was previously affected by a herpes zoster rash. Which of the following might be of"
+  },
+  {
+    "id": 8701,
+    "old_module_id": 222,
+    "new_module_id": 226,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "question": "An 78-year-old man is presented with diarrhea, palpitations, blurry vision, and headache for 3 days. Current medications include warfarin, metoprolol, digoxin, ramipril, insulin, a"
+  },
+  {
+    "id": 9403,
+    "old_module_id": 222,
+    "new_module_id": 253,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[253] Endocrine System > Thyroid and Antithyroid Agents",
+    "question": "36-year-old woman presents with fever with chills and malaise. She has had a sore throat since this morning. The patient was recently diagnosed with Graves disease and started on m"
+  },
+  {
+    "id": 8550,
+    "old_module_id": 223,
+    "new_module_id": 222,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "to_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "question": "A log dose-response curve (DRC) was drawn for isoprenaline alone and again in the presence of propranolol. Based on the curve, propranolol is best classified as a:"
+  },
+  {
+    "id": 9009,
+    "old_module_id": 740,
+    "new_module_id": 236,
+    "currentScore": 10,
+    "bestScore": 17,
+    "from_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "to_module": "[236] Central and Peripheral Nervous System > Opioids - Functions and Classification",
+    "question": "A patient underwent a hysterectomy and was given morphine in the post-operative period and in the ward for pain. She now presents with respiratory depression and pinpoint pupils. W"
+  },
+  {
+    "id": 8586,
+    "old_module_id": 225,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[225] Cardiovascular System > Anti-Anginal Drugs",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "A 53-year-old obese man with past history of acute myocardial infarction is on metoprolol and low- dose aspirin. His total serum cholesterol level is 155 mg/dL, with an HDL level o"
+  },
+  {
+    "id": 9337,
+    "old_module_id": 226,
+    "new_module_id": 249,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[249] Antimicrobials > Second Line Drugs for Tuberculosis",
+    "question": "Which of the following statements about pretomanid is true?"
+  },
+  {
+    "id": 8580,
+    "old_module_id": 226,
+    "new_module_id": 223,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 72-year-old man presents with severe substernal chest pain and shortness of breath. Physical examination reveals bilateral crackles and a third heart sound. ECG shows ST elevatio"
+  },
+  {
+    "id": 8978,
+    "old_module_id": 226,
+    "new_module_id": 237,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[237] Central and Peripheral Nervous System > Synthetic Opioids",
+    "question": "Meperidine is contraindicated in heart failure because of its which action ?"
+  },
+  {
+    "id": 9595,
+    "old_module_id": 226,
+    "new_module_id": 260,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[260] Autacoids > NSAIDs",
+    "question": "A 70-year-old woman presents with nausea and vomiting. She has been taking PCM for knee pain. Examination shows scleral icterus and tender hepatomegaly. She appears confused. Which"
+  },
+  {
+    "id": 9230,
+    "old_module_id": 233,
+    "new_module_id": 246,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "to_module": "[246] Antimicrobials > Anti-Protozoal Agents and Anthelmintic Drugs",
+    "question": "Which of the following is the adverse effect of metronidazole?"
+  },
+  {
+    "id": 8544,
+    "old_module_id": 238,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[238] Central and Peripheral Nervous System > Opioid Antagonists",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 38-year-old female presents with a pounding headache, palpitations, and sweating for 2 months. Each episode lasts for 20 minutes and is triggered by stress or physical exertion. "
+  },
+  {
+    "id": 9006,
+    "old_module_id": 238,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[238] Central and Peripheral Nervous System > Opioid Antagonists",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "Diphenoxylate is commonly prescribed for secretory diarrhoea in combination with atropine. What is the main purpose of adding atropine to this regimen?"
+  },
+  {
+    "id": 8551,
+    "old_module_id": 239,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[239] Antimicrobials > General Principles of Antimicrobial Therapy",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A chronic smoker undergoing nicotine replacement therapy was also prescribed clonidine for smoking cessation. After abruptly discontinuing clonidine, he developed a headache. What "
+  },
+  {
+    "id": 8891,
+    "old_module_id": 239,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[239] Antimicrobials > General Principles of Antimicrobial Therapy",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 28-year-old male with a history of generalized tonic-clonic seizures is on long-term carbamazepine therapy. He started taking erythromycin for a throat infection. Two days later,"
+  },
+  {
+    "id": 9530,
+    "old_module_id": 248,
+    "new_module_id": 257,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "to_module": "[257] Endocrine System > OCPs, Estrogens and Progestins",
+    "question": "A female patient on Oral contraceptive pills was diagnosed to have tuberculosis. She was started on ATT but also advised to use additional barrier contraception. What might be the "
+  },
+  {
+    "id": 9163,
+    "old_module_id": 251,
+    "new_module_id": 243,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[251] Antimicrobials > Anti-virals (Non-retroviral)",
+    "to_module": "[243] Antimicrobials > Antiretroviral Drugs",
+    "question": "If a protease inhibitor-based antiretroviral regimen is used to treat his HIV, Then which of the following anti-tuberculosis drug should be avoided?"
+  },
+  {
+    "id": 9137,
+    "old_module_id": 251,
+    "new_module_id": 243,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[251] Antimicrobials > Anti-virals (Non-retroviral)",
+    "to_module": "[243] Antimicrobials > Antiretroviral Drugs",
+    "question": "A 43-year-old presents today complaining of a new rash on his chest and axilla, which you diagnose as tinea corporis. He has a history of HIV, hypertension, coronary artery disease"
+  },
+  {
+    "id": 8845,
+    "old_module_id": 256,
+    "new_module_id": 231,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 45-year-old man is brought in for a syncopal episode. He started on lisinopril for his hypertension today. On arrival, he is fully oriented. His pulse is 100/min and blood pressu"
+  },
+  {
+    "id": 9612,
+    "old_module_id": 260,
+    "new_module_id": 261,
+    "currentScore": 1,
+    "bestScore": 8,
+    "from_module": "[260] Autacoids > NSAIDs",
+    "to_module": "[261] Autacoids > Anti-migraine and Antigout drugs",
+    "question": "A patient presents with swelling in his big toe and is found to have elevated serum uric acid levels. After acute treatment, he is started on a first-line maintenance drug for chro"
+  },
+  {
+    "id": 9469,
+    "old_module_id": 266,
+    "new_module_id": 255,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[266] Gastrointestinal System > Acid Peptic Disorders and Inflammatory Bowel Disease",
+    "to_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "question": "A 65-year-old male with Paget's disease of the bone presents to the rheumatology clinic for management. After discussing treatment options, the physician initiates teriparatide the"
+  },
+  {
+    "id": 9816,
+    "old_module_id": 267,
+    "new_module_id": 237,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[237] Central and Peripheral Nervous System > Synthetic Opioids",
+    "question": "A 40-year-old woman comes to the office with a 4-week history of diarrhea accompanied by occasional abdominal bloating. She has noticed that her stools contain mucus but has not se"
+  },
+  {
+    "id": 9636,
+    "old_module_id": 268,
+    "new_module_id": 262,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[262] Autacoids > Anti-rheumatoid drugs",
+    "question": "Inhibition of which of the following is the mechanism of action of Tocilizumab?"
+  },
+  {
+    "id": 9641,
+    "old_module_id": 268,
+    "new_module_id": 262,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[262] Autacoids > Anti-rheumatoid drugs",
+    "question": "Which of the following disease-modifying antirheumatic drugs (DMARDs) requires regular monitoring of visual acuity and fundus examinations?"
+  },
+  {
+    "id": 8734,
+    "old_module_id": 268,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "Which of the following drugs is an established inhibitor of P-glycoprotein (P-gp) drug transporters? 1. Cimetidine 2. Ethanol 3. Ketoconazole 4. Ritonavir 5. Verapamil 6. Amiodaron"
+  },
+  {
+    "id": 9286,
+    "old_module_id": 221,
+    "new_module_id": 248,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[221] General Pharmacology > Pharmacokinetics",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "Resistance to which of the following antitubercular drugs occurs due to a mutation in katG gene?"
+  },
+  {
+    "id": 8521,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 45-year-old woman found obtunded in her apartment. She is hypotensive and bradycardic. Intravenous glucagon is administered, and her condition improves. Which of the following in"
+  },
+  {
+    "id": 8547,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "48-year-old man comes with blood pressure is 160/100 mm Hg despite the use of enalapril as well as an appropriate dietary and exercise program. He has had problems with asthma sinc"
+  },
+  {
+    "id": 8574,
+    "old_module_id": 222,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "Examiner has asked you to identify the drug in viva-voice: \"When administered by intravenous bolus, the blood pressure increases. When given orally for 1 week, the blood pressure d"
+  },
+  {
+    "id": 8836,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 49-year-old woman comes with blood pressure of 180/100 mm Hg after instituting the non-pharmacological treatment measures. Treatment is begun with a drug that results in decrease"
+  },
+  {
+    "id": 8869,
+    "old_module_id": 222,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 32-year-old man is presented with violent jerky movements of his arms and legs since 10 minutes. He has a history of epilepsy. He is not responsive. IV lorazepam is initiated. Th"
+  },
+  {
+    "id": 9112,
+    "old_module_id": 222,
+    "new_module_id": 242,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[242] Antimicrobials > Antimicrobials Acting on 30S Subunit",
+    "question": "A 4-year-old girl has most of her teeth have had stains since the time that they erupted. Examination shows brownish-grey discoloration of the teeth. She has lower limb length disc"
+  },
+  {
+    "id": 9644,
+    "old_module_id": 222,
+    "new_module_id": 263,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[263] Hematology > Antiplatelets, Fibrinolytics and Antifibrinolytics",
+    "question": "A 45-year-old man presents with severe chest pain, sweating, and nausea. Examination shows normal heart sounds and breath sounds. ECG shows sinus tachycardia with ST segment elevat"
+  },
+  {
+    "id": 8455,
+    "old_module_id": 222,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "Which is FALSE sentence regarding Articaine?"
+  },
+  {
+    "id": 8460,
+    "old_module_id": 222,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "A 17-year-old woman is given a prescription of fluconazole to be taken daily (q 12 h) for 3 days. The half-life is 12 h. How long will it take for the medication to reach 90% of it"
+  },
+  {
+    "id": 8624,
+    "old_module_id": 222,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A 48-year-old woman complains of fatigue that increases throughout the day. At the end of her workday, she says her eyes feel \"heavy\" and \"droopy,\" although she does not feel parti"
+  },
+  {
+    "id": 8721,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 54-year-old man with diabetes presents to clinic for a routine checkup. His blood pressure is 142/88 mm Hg. His last urinalysis showed a urine micro-albumin of 150 mcg. What is t"
+  },
+  {
+    "id": 9003,
+    "old_module_id": 222,
+    "new_module_id": 238,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[238] Central and Peripheral Nervous System > Opioid Antagonists",
+    "question": "Which are the pure opioid antagonist agents ?"
+  },
+  {
+    "id": 8841,
+    "old_module_id": 222,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 78-year-old woman presents with increasing shortness of breath since 3 months. She underwent an emergency PCI for myocardial infarction 12 months ago. At the time of discharge, E"
+  },
+  {
+    "id": 8976,
+    "old_module_id": 222,
+    "new_module_id": 237,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[237] Central and Peripheral Nervous System > Synthetic Opioids",
+    "question": "Codeine, oxycodone and hydroxycodone undergo metabolism in liver by _________."
+  },
+  {
+    "id": 9013,
+    "old_module_id": 222,
+    "new_module_id": 235,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "question": "A 63-year-old woman comes is started with an opioid analgesic and docusate sodium. Which of the following best describes the medication administered with the opioid analgesic?"
+  },
+  {
+    "id": 9095,
+    "old_module_id": 222,
+    "new_module_id": 241,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "A 14-day-old infant is brought because of decreased alertness and poor feeding. Laboratory studies show an unconjugated bilirubin level of 33 mg/dL. Which of the following drugs ta"
+  },
+  {
+    "id": 9117,
+    "old_module_id": 222,
+    "new_module_id": 242,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[242] Antimicrobials > Antimicrobials Acting on 30S Subunit",
+    "question": "A 67-year-old man develops dysuria, flank pain, and fever. Examination shows marked tenderness in the right costovertebral area. Treatment with an antibiotic is begun, but his symp"
+  },
+  {
+    "id": 9201,
+    "old_module_id": 222,
+    "new_module_id": 245,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[245] Antimicrobials > Cephalosporins, Vancomycin and Carbapenems",
+    "question": "A 56-year-old woman presents with productive cough, fever and dyspnea since 2 days. Pulmonary examination shows diffuse crackles. CXR shows a left upper-lobe infiltrate of the lung"
+  },
+  {
+    "id": 9277,
+    "old_module_id": 222,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "Interactions between this drug and cell membrane components can result in the formation of pores lined by hydrophilic groups present in the drug molecule."
+  },
+  {
+    "id": 9278,
+    "old_module_id": 222,
+    "new_module_id": 247,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[247] Antimicrobials > Antifungal Agents",
+    "question": "A biopsy is taken from the area of necrosis and direct microscopy reveals broad, non-septate hyphae with right angle branching. In addition to surgical debridement and aggressive b"
+  },
+  {
+    "id": 9317,
+    "old_module_id": 222,
+    "new_module_id": 248,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "Which of the following anti-tubercular drug contraindicated in pregnancy?"
+  },
+  {
+    "id": 9315,
+    "old_module_id": 222,
+    "new_module_id": 248,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "M. Kansai (Non-Tubercular Mycobacterium) is resistant to which of the following drugs?"
+  },
+  {
+    "id": 9632,
+    "old_module_id": 222,
+    "new_module_id": 261,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[261] Autacoids > Anti-migraine and Antigout drugs",
+    "question": "Over the next 7 months, the patient had 2 more attacks of acute gout. Her serum concentration of uric acid was elevated. The decision was made to put her on chronic drug therapy to"
+  },
+  {
+    "id": 9652,
+    "old_module_id": 222,
+    "new_module_id": 263,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[263] Hematology > Antiplatelets, Fibrinolytics and Antifibrinolytics",
+    "question": "A 59-year-old man with MI is admitted for emergency percutaneous insertion of a coronary stent. Which of the following drugs might cause unexpected results based on the patient's C"
+  },
+  {
+    "id": 8972,
+    "old_module_id": 222,
+    "new_module_id": 236,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[236] Central and Peripheral Nervous System > Opioids - Functions and Classification",
+    "question": "A male 34 years old female patient came to OPD with the complaints of dry cough, mild difficulty in breathing on exertion, evening rise of temperature, loss of appetite, loosening "
+  },
+  {
+    "id": 9072,
+    "old_module_id": 222,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A 46-year-old man has not urinated after a hernioplasty under spinal anesthesia for 2 days. Examination shows a palpable bladder, 4 cm above the symphysis pubis. He is treated with"
+  },
+  {
+    "id": 9420,
+    "old_module_id": 222,
+    "new_module_id": 254,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[254] Endocrine System > Corticosteroids",
+    "question": "A 7-year-old boy is presented with progressive fatigue and weight loss. Physical examination shows tanned skin and hyperpigmentation of the gums. Serum studies show: Intravenous fl"
+  },
+  {
+    "id": 9174,
+    "old_module_id": 222,
+    "new_module_id": 244,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[244] Antimicrobials > Penicillins",
+    "question": "A 33-year-old man presents with complaint of dysuria and urethral discharge. Gram stain of the urethral exudate shown below. Most appropriate treatment of in this patient is."
+  },
+  {
+    "id": 8760,
+    "old_module_id": 222,
+    "new_module_id": 228,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[228] Cardiovascular System > Diuretics",
+    "question": "A patient with hypertension and chronic kidney disease presents with recurrent episodes of renal colic. Which diuretic is most suitable for use in this clinical scenario?"
+  },
+  {
+    "id": 8494,
+    "old_module_id": 222,
+    "new_module_id": 250,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[250] Antimicrobials > Anti-leprosy Drugs",
+    "question": "Which of the following are correct statements about thalidomide? 1) Has antimetabolite action? 2) Used in type 2 lepra reaction? 3) Has teratogenic effect? 4) Used in refractory ca"
+  },
+  {
+    "id": 9205,
+    "old_module_id": 222,
+    "new_module_id": 245,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[245] Antimicrobials > Cephalosporins, Vancomycin and Carbapenems",
+    "question": "Identify the site of action of drug which can cause anaphylactoid reaction caused by rapid IV"
+  },
+  {
+    "id": 9314,
+    "old_module_id": 222,
+    "new_module_id": 248,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "Which of the following first line anti-tubercular drug is not having only hepatic clearance and dose need to be reduced in patient with renal failure?"
+  },
+  {
+    "id": 8645,
+    "old_module_id": 228,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[228] Cardiovascular System > Diuretics",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 26-year-old man with chest discomfort occurs with climbing stairs. Family history includes an uncle who died suddenly at the age of 35 years. Apical impulse is strong and sustain"
+  },
+  {
+    "id": 8583,
+    "old_module_id": 228,
+    "new_module_id": 231,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[228] Cardiovascular System > Diuretics",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "A 35 yr old female, a known case of chronic hypertension, visited the OPD for preconception counselling. Which of the following drugs should be discontinued or changed for this pat"
+  },
+  {
+    "id": 8719,
+    "old_module_id": 234,
+    "new_module_id": 227,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[234] Central and Peripheral Nervous System > Anti-manic Drugs",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 54-year-old man comes to you due to swelling of his both legs for 2 months. His blood pressure is 145/95 mm Hg, was started on a new medication three months ago. Physical examina"
+  },
+  {
+    "id": 9400,
+    "old_module_id": 237,
+    "new_module_id": 253,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[237] Central and Peripheral Nervous System > Synthetic Opioids",
+    "to_module": "[253] Endocrine System > Thyroid and Antithyroid Agents",
+    "question": "A 38-year-old woman presents with tachycardia, heat intolerance, tremor, and unintentional weight loss. A thyroid scan shows multiple regions of thyroid taking up excess iodine. Sh"
+  },
+  {
+    "id": 9214,
+    "old_module_id": 239,
+    "new_module_id": 241,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[239] Antimicrobials > General Principles of Antimicrobial Therapy",
+    "to_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "question": "A 56-year-old man is brought because of fever, chills, and productive cough for the past 4 days. Physical examination shows dullness to percussion, and decreased breath sounds are "
+  },
+  {
+    "id": 9098,
+    "old_module_id": 241,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[241] Antimicrobials > Sulfonamides, Quinolones and Urinary Antiseptics",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "A 66-year-old female presents with urinary incontinence along with dementia and cognitive decline. Which of the following is a useful treatment for urinary incontinence in this pat"
+  },
+  {
+    "id": 9111,
+    "old_module_id": 242,
+    "new_module_id": 235,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[242] Antimicrobials > Antimicrobials Acting on 30S Subunit",
+    "to_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "question": "Extrapyramidal syndrome like side effects are seen in -"
+  },
+  {
+    "id": 9123,
+    "old_module_id": 246,
+    "new_module_id": 235,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[246] Antimicrobials > Anti-Protozoal Agents and Anthelmintic Drugs",
+    "to_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "question": "A patient was prescribed a high dose penicillin along with gentamicin for his symptoms. Which of the following statement is true regarding this:"
+  },
+  {
+    "id": 9794,
+    "old_module_id": 248,
+    "new_module_id": 267,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "to_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "question": "Which drug is considered the first-line treatment for morning sickness in pregnant women?"
+  },
+  {
+    "id": 9329,
+    "old_module_id": 249,
+    "new_module_id": 248,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[249] Antimicrobials > Second Line Drugs for Tuberculosis",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "MDR-TB defined as:"
+  },
+  {
+    "id": 9615,
+    "old_module_id": 254,
+    "new_module_id": 261,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[254] Endocrine System > Corticosteroids",
+    "to_module": "[261] Autacoids > Anti-migraine and Antigout drugs",
+    "question": "A 55-year-old male presents with sudden onset of severe pain, redness, and swelling in the first metatarsophalangeal joint. Serum uric acid is elevated. The physician prescribes a "
+  },
+  {
+    "id": 9325,
+    "old_module_id": 255,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "Which of the following drugs has higher first-pass metabolism but used orally?"
+  },
+  {
+    "id": 8860,
+    "old_module_id": 255,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "Which of the following drugs is not processed through acetylation metabolism?"
+  },
+  {
+    "id": 9495,
+    "old_module_id": 256,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "An elderly patient with dementia is not compliant with oral medications. Which of the following will be beneficial in this case?"
+  },
+  {
+    "id": 9614,
+    "old_module_id": 256,
+    "new_module_id": 225,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[225] Cardiovascular System > Anti-Anginal Drugs",
+    "question": "A 43-year-old woman comes with occasional chest discomfort as a mid-line pressure or squeezing sensation that lasts 10 minutes and is accompanied by diaphoresis. The patient has no"
+  },
+  {
+    "id": 9546,
+    "old_module_id": 256,
+    "new_module_id": 258,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[258] Endocrine System > Androgens and Drugs for Erectile Dysfunction",
+    "question": "A 22-year-old woman comes to the physician because of bothersome hair growth on her face. She does not take any medications. She weighs 85 kg; BMI is 32 kg/m2. Her serum follicle-s"
+  },
+  {
+    "id": 9899,
+    "old_module_id": 256,
+    "new_module_id": 233,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[256] Endocrine System > Anti-Diabetic Drugs - Oral",
+    "to_module": "[233] Central and Peripheral Nervous System > Anti-epileptics I",
+    "question": "A 2100-g female newborn is delivered vaginally. Examination of the newborn shows a short, mildly webbed neck and low-set ears. Ocular hypertelorism along with slanted palpebral fis"
+  },
+  {
+    "id": 9543,
+    "old_module_id": 258,
+    "new_module_id": 235,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[258] Endocrine System > Androgens and Drugs for Erectile Dysfunction",
+    "to_module": "[235] Central and Peripheral Nervous System > Antidepressant and Antianxiety Drugs",
+    "question": "A psychotropic drug inhibiting the reuptake of serotonin is likely to cause the following adverse effect?"
+  },
+  {
+    "id": 9461,
+    "old_module_id": 260,
+    "new_module_id": 255,
+    "currentScore": 1,
+    "bestScore": 7,
+    "from_module": "[260] Autacoids > NSAIDs",
+    "to_module": "[255] Endocrine System > Osteoporosis and Calcium Metabolism",
+    "question": "A patient taking alendronate is advised to remain upright for at least half an hour after administration. What is the reason for this recommendation?"
+  },
+  {
+    "id": 9618,
+    "old_module_id": 260,
+    "new_module_id": 261,
+    "currentScore": 3,
+    "bestScore": 9,
+    "from_module": "[260] Autacoids > NSAIDs",
+    "to_module": "[261] Autacoids > Anti-migraine and Antigout drugs",
+    "question": "A female diagnosed with migraine presents to the OPD and complains of 4-5 episodes per month, with each episode lasting 24-48 hours. She also experiences anxiety and palpitations. "
+  },
+  {
+    "id": 9663,
+    "old_module_id": 264,
+    "new_module_id": 231,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[264] Hematology > Anticoagulants",
+    "to_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "question": "Patients with a history of mitral stenosis and stroke presents with irregularly irregular heart beats. There is no clot in the left atrium on TEE. Patient is already on ACE inhibit"
+  },
+  {
+    "id": 9083,
+    "old_module_id": 265,
+    "new_module_id": 244,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[244] Antimicrobials > Penicillins",
+    "question": "A patient having a history of paronychia on finger presents with the following features as shown in image below. Drug of choice for treatment of this patient is"
+  },
+  {
+    "id": 9805,
+    "old_module_id": 265,
+    "new_module_id": 740,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[265] Respiratory System > Respiratory System",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "Four friends are planning a trip to Ladakh. During their stay, one of them began experiencing headaches, nausea, dizziness, and fatigue. Which of the following is the most appropri"
+  },
+  {
+    "id": 8813,
+    "old_module_id": 267,
+    "new_module_id": 230,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[230] Cardiovascular System > Hypolipidemic Drugs",
+    "question": "A patient being treated for hypertriglyceridemia develops flushing, gout, and elevated liver enzymes after starting medication. Which of the following drugs is most likely responsi"
+  },
+  {
+    "id": 9211,
+    "old_module_id": 267,
+    "new_module_id": 245,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[245] Antimicrobials > Cephalosporins, Vancomycin and Carbapenems",
+    "question": "Carbapenem with maximum seizure risk is:"
+  },
+  {
+    "id": 9290,
+    "old_module_id": 267,
+    "new_module_id": 248,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "to_module": "[248] Antimicrobials > First Line Drugs for Tuberculosis",
+    "question": "Which anti-tubercular drug is known to cause visual disturbances?"
+  },
+  {
+    "id": 9160,
+    "old_module_id": 268,
+    "new_module_id": 243,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[243] Antimicrobials > Antiretroviral Drugs",
+    "question": "Which of the following drugs binds to CD4 and has both CXCR4 and CCR5 activity?"
+  },
+  {
+    "id": 9585,
+    "old_module_id": 268,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "What is the mechanism of action of N-acetylcysteine in paracetamol toxicity?"
+  },
+  {
+    "id": 9789,
+    "old_module_id": 268,
+    "new_module_id": 267,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "question": "A 65-year-old woman presents with intractable nausea and vomiting. She has not been able to keep anything down and feels weak and tired. She was diagnosed with breast cancer 4 week"
+  },
+  {
+    "id": 8703,
+    "old_module_id": 268,
+    "new_module_id": 223,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "question": "A 72-year-old woman with chemotherapy-related cardiomyopathy and now has an ejection fraction of 15%. She has been hospitalised two times in the last 6 months with acute decompensa"
+  },
+  {
+    "id": 9579,
+    "old_module_id": 268,
+    "new_module_id": 260,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[260] Autacoids > NSAIDs",
+    "question": "Which of the following is the drug of choice for paracetamol poisoning?"
+  },
+  {
+    "id": 9829,
+    "old_module_id": 268,
+    "new_module_id": 267,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[268] Anti-Neoplastic Agents > Cell Cycle Specific Cytotoxic Drugs",
+    "to_module": "[267] Gastrointestinal System > Anti-emetics and Drugs Affecting Gastrointestinal Motility",
+    "question": "Which of the following medications are commonly prescribed for managing nausea and vomiting caused by chemotherapy?"
+  },
+  {
+    "id": 9873,
+    "old_module_id": 269,
+    "new_module_id": 262,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[269] Anti-Neoplastic Agents > Monoclonal Antibodies",
+    "to_module": "[262] Autacoids > Anti-rheumatoid drugs",
+    "question": "Benralizumab, a monoclonal antibody used to treat asthma, acts against which of the following?"
+  },
+  {
+    "id": 8413,
+    "old_module_id": 270,
+    "new_module_id": 221,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[270] Anti-Neoplastic Agents > Interleukins, Growth Factors and Targeted Therapies",
+    "to_module": "[221] General Pharmacology > Pharmacokinetics",
+    "question": "Which of the following factors in Plasma concentration vs time graph is a measure of extent of absorption of a drug?"
+  },
+  {
+    "id": 8525,
+    "old_module_id": 223,
+    "new_module_id": 740,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "to_module": "[740] Autonomic Nervous System > Parasympathomimetics & Cholinergic Agonists",
+    "question": "Drug X caused a 50 mm Hg rise in mean blood pressure in the control animal, no blood pressure change in the ganglion-blocked animal, and a 75 mm mean blood pressure rise in the atr"
+  },
+  {
+    "id": 8787,
+    "old_module_id": 223,
+    "new_module_id": 229,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[223] Autonomic Nervous System > Sympathomimetics",
+    "to_module": "[229] Cardiovascular System > Anti-Arrhythmic Drugs",
+    "question": "A 48-year old male had an overdose, and manifested severe acute procainamide toxicity with markedly long QT. Which of the following should be given immediately?"
+  },
+  {
+    "id": 8676,
+    "old_module_id": 226,
+    "new_module_id": 228,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "to_module": "[228] Cardiovascular System > Diuretics",
+    "question": "A 35-year-old man goes on a pilgrimage to a high-altitude shrine. At the summit, he develops chest tightness, shortness of breath, and altered sensorium. Which of the following dru"
+  },
+  {
+    "id": 8683,
+    "old_module_id": 228,
+    "new_module_id": 226,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[228] Cardiovascular System > Diuretics",
+    "to_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "question": "A 62-year-old woman develops acute severe heart failure with marked pulmonary edema, but no evidence of peripheral edema. She has been admitted to ICU for LVMI. She Which one of th"
+  },
+  {
+    "id": 8689,
+    "old_module_id": 229,
+    "new_module_id": 226,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[229] Cardiovascular System > Anti-Arrhythmic Drugs",
+    "to_module": "[226] Cardiovascular System > Heart Failure Drugs",
+    "question": "A 6-year-old child presents with collapse while playing. He has sinus arrest and a ventricular rate of 35 bpm. An empty bottle of his uncle's digoxin was found where he was playing"
+  },
+  {
+    "id": 8718,
+    "old_module_id": 231,
+    "new_module_id": 227,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 77-year-old man came with blood pressure of 170/70 mm Hg and pulse of 74/min. During his follow-up visit 3 weeks later, he reports bilateral leg swelling. His blood pressure is 1"
+  },
+  {
+    "id": 8842,
+    "old_module_id": 231,
+    "new_module_id": 222,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[231] Cardiovascular System > Renin-Angiotensin-Aldosterone System",
+    "to_module": "[222] General Pharmacology > Clinical Trials and Miscellaneous",
+    "question": "The image depicts the synthesis pathway of angiotensin II and the role of neprilysin, with arrows pointing to the ACE and neprilysin enzymes. Which drug exerts its action by inhibi"
+  },
+  {
+    "id": 9347,
+    "old_module_id": 254,
+    "new_module_id": 250,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[254] Endocrine System > Corticosteroids",
+    "to_module": "[250] Antimicrobials > Anti-leprosy Drugs",
+    "question": "Pregnant female with history of lepromatous leprosy presents to OPD with type 2 lepra reaction. What should be the management?"
+  },
+  {
+    "id": 8732,
+    "old_module_id": 260,
+    "new_module_id": 227,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[260] Autacoids > NSAIDs",
+    "to_module": "[227] Cardiovascular System > Antihypertensive Drugs",
+    "question": "A 65-year-old woman with chronic CHF. All of the following drug should be avoided except ?"
+  },
+  {
+    "id": 9570,
+    "old_module_id": 260,
+    "new_module_id": 244,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[260] Autacoids > NSAIDs",
+    "to_module": "[244] Antimicrobials > Penicillins",
+    "question": "A 33-year-old woman receives a dose of intramuscular benzathine penicillin G. Two hours later, he reports of headache, myalgias, and chills. His temperature is 101.8 F, pulse is 11"
+  },
+  {
+    "id": 9608,
+    "old_module_id": 260,
+    "new_module_id": 263,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[260] Autacoids > NSAIDs",
+    "to_module": "[263] Hematology > Antiplatelets, Fibrinolytics and Antifibrinolytics",
+    "question": "A 50 year old male presents to the hospital with a complaint of chest pain. Angiogram revealed left circumflex artery occlusion. Stenting is done and the patient was started on asp"
+  }
+]

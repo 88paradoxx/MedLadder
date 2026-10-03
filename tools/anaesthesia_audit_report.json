@@ -1,0 +1,602 @@
+[
+  {
+    "id": 24796,
+    "old_module_id": 614,
+    "new_module_id": 618,
+    "currentScore": 1,
+    "bestScore": 11,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Which of the following are methods of invasive ventilation"
+  },
+  {
+    "id": 25267,
+    "old_module_id": 619,
+    "new_module_id": 622,
+    "currentScore": 4,
+    "bestScore": 14,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[622] General Anaesthesia > Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
+    "question": "A 45 years old female posted for a laparoscopic hernia repair surgery was induced for general anesthesia with Propofol, fentanyl and intermediate acting non-depolarizing muscle rel"
+  },
+  {
+    "id": 25577,
+    "old_module_id": 622,
+    "new_module_id": 627,
+    "currentScore": 4,
+    "bestScore": 14,
+    "from_module": "[622] General Anaesthesia > Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
+    "to_module": "[627] Local and Regional Anaesthesia > Regional Anaesthesia: Complications and Contraindications",
+    "question": "All are contraindications of spinal anaesthesia Except?"
+  },
+  {
+    "id": 25077,
+    "old_module_id": 623,
+    "new_module_id": 620,
+    "currentScore": 6,
+    "bestScore": 16,
+    "from_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "Inhalational agent suitable for neurosurgery is?"
+  },
+  {
+    "id": 25076,
+    "old_module_id": 614,
+    "new_module_id": 620,
+    "currentScore": 5,
+    "bestScore": 14,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "A patient in OT was given anaesthesia ( isoflurane, halothane, etc) suddenly developed lung collapse and hypotension. what is the reason for it"
+  },
+  {
+    "id": 25075,
+    "old_module_id": 619,
+    "new_module_id": 623,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "A 25-year-old patient undergoing orthopedic surgery under general anaesthesia suddenly developed a rise in EtCO 2 , temperature, and also muscle rigidity. Which of the following dr"
+  },
+  {
+    "id": 25052,
+    "old_module_id": 619,
+    "new_module_id": 622,
+    "currentScore": 3,
+    "bestScore": 12,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[622] General Anaesthesia > Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
+    "question": "How does chronic liver disease affect the drugs used in anesthesia? Which of the following drugs can be used in a liver patient?"
+  },
+  {
+    "id": 25295,
+    "old_module_id": 610,
+    "new_module_id": 623,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[610] Preoperative Evaluation and Monitoring > Preoperative Evaluation",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "Which medication is often recommended to decrease the likelihood of coughing and laryngospasm due to ketamine-induced salivary secretions?"
+  },
+  {
+    "id": 24800,
+    "old_module_id": 614,
+    "new_module_id": 609,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[609] Preoperative Evaluation and Monitoring > History and Ethical Aspects of Anaesthesia",
+    "question": "A 37-year-old man with myasthenia gravis arrives in the emergency room confused and agitated after a 2-day history of weakness and increased difficulty breathing. ABGs on room air "
+  },
+  {
+    "id": 24804,
+    "old_module_id": 614,
+    "new_module_id": 624,
+    "currentScore": 5,
+    "bestScore": 13,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[624] Local and Regional Anaesthesia > Local Anaesthetics - General Properties",
+    "question": "Clinical uses of fentanyl include all except?"
+  },
+  {
+    "id": 25073,
+    "old_module_id": 619,
+    "new_module_id": 620,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "A patient undergoing surgery was administered halothane. Shortly after, the anesthetist observed that the patient developed muscle rigidity and a significant rise in body temperatu"
+  },
+  {
+    "id": 25025,
+    "old_module_id": 619,
+    "new_module_id": 618,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "A 35-year-old male undergoing abdominal surgery under general anaesthesia developssudden generalised muscle rigidity, rapid increase in body temperature, and tachycardia shortly af"
+  },
+  {
+    "id": 25531,
+    "old_module_id": 619,
+    "new_module_id": 625,
+    "currentScore": 3,
+    "bestScore": 11,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[625] Local and Regional Anaesthesia > Local Anaesthetics - Specific Drugs",
+    "question": "All of the following groups of drugs can be used in the pharmacological management of chronic pain except:"
+  },
+  {
+    "id": 24998,
+    "old_module_id": 619,
+    "new_module_id": 620,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "A patient undergoing surgery is maintained on anesthesia with halothane. During the procedure, the patient suddenly developed hyperthermia and muscle rigidity. Which of the followi"
+  },
+  {
+    "id": 25314,
+    "old_module_id": 621,
+    "new_module_id": 623,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "A patient with Addison's disease is planned for removal of a right suprarenal mass. During induction, the anesthesiologist must avoid agents that suppress cortisol synthesis and co"
+  },
+  {
+    "id": 25155,
+    "old_module_id": 621,
+    "new_module_id": 614,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[614] Airway Management and Resuscitation > Intubation",
+    "question": "A 30-year-old man presents for open reduction and internal fixation of a left radius fracture as an outpatient. He has smoked 1 pack of cigarettes per day for 12 years. The plan is"
+  },
+  {
+    "id": 25245,
+    "old_module_id": 621,
+    "new_module_id": 622,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[622] General Anaesthesia > Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
+    "question": "Propofol is a commonly used induction agents. It's main side effect is pain on injection. This can be minimized or avoiding by employing the following means:"
+  },
+  {
+    "id": 25310,
+    "old_module_id": 621,
+    "new_module_id": 623,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "Which of the following induction agents is considered as cardiac stable:"
+  },
+  {
+    "id": 25328,
+    "old_module_id": 621,
+    "new_module_id": 623,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "Regarding ketamine, mark true (T) or false (F). 1. Stimulation of the sympathetic nervous system 2. Decreased myocardial oxygen requirements 3. Bronchodilatation 4. Dissociation be"
+  },
+  {
+    "id": 25563,
+    "old_module_id": 623,
+    "new_module_id": 609,
+    "currentScore": 6,
+    "bestScore": 14,
+    "from_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "to_module": "[609] Preoperative Evaluation and Monitoring > History and Ethical Aspects of Anaesthesia",
+    "question": "A 70 year old male patient with history of chronic hypertension, undergoes surgery for benign prostatic hypertrophy, under spinal anaesthesia. In the middle of the surgery patient "
+  },
+  {
+    "id": 24635,
+    "old_module_id": 610,
+    "new_module_id": 618,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[610] Preoperative Evaluation and Monitoring > Preoperative Evaluation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "A 68-year-old woman with severe rheumatoid arthritis undergoes pulmonary function evaluation before an elective abdominal surgery. Forced expiratory volume in 1 second (FEV1) and F"
+  },
+  {
+    "id": 25020,
+    "old_module_id": 616,
+    "new_module_id": 624,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[616] Airway Management and Resuscitation > Anaesthesia Workstation",
+    "to_module": "[624] Local and Regional Anaesthesia > Local Anaesthetics - General Properties",
+    "question": "Allergic reactions occurring during the immediate perioperative period are most commonly attributable to administration of"
+  },
+  {
+    "id": 25478,
+    "old_module_id": 624,
+    "new_module_id": 618,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[624] Local and Regional Anaesthesia > Local Anaesthetics - General Properties",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Refractory cardiac arrest is MOST likely after the rapid unintentional IV injection of which of the following local anesthetics?"
+  },
+  {
+    "id": 25199,
+    "old_module_id": 631,
+    "new_module_id": 620,
+    "currentScore": 6,
+    "bestScore": 13,
+    "from_module": "[631] Complications of Anaesthesia > Complications of Anaesthesia",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "You discover that and anaesthetic machine with soda-lime absorber and a sevoflurane vapouriser has not been used for the last 2days. However the fresh gas flow was left running at "
+  },
+  {
+    "id": 25068,
+    "old_module_id": 612,
+    "new_module_id": 620,
+    "currentScore": 6,
+    "bestScore": 12,
+    "from_module": "[612] Preoperative Evaluation and Monitoring > Respiratory Monitoring in Anaesthesia",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "Respiratory effects of halothane are all except?"
+  },
+  {
+    "id": 24684,
+    "old_module_id": 612,
+    "new_module_id": 630,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[612] Preoperative Evaluation and Monitoring > Respiratory Monitoring in Anaesthesia",
+    "to_module": "[630] Anaesthesia in Specific Conditions > Paediatric and Obstetric Anaesthesia",
+    "question": "True about paediatric respiratory system in comparison to adult?"
+  },
+  {
+    "id": 24687,
+    "old_module_id": 612,
+    "new_module_id": 618,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[612] Preoperative Evaluation and Monitoring > Respiratory Monitoring in Anaesthesia",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Which of the following statements about Dexmedetomidine is most likely true?"
+  },
+  {
+    "id": 25296,
+    "old_module_id": 612,
+    "new_module_id": 623,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[612] Preoperative Evaluation and Monitoring > Respiratory Monitoring in Anaesthesia",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "Not true about effects of etomidate on respiratory system?"
+  },
+  {
+    "id": 24801,
+    "old_module_id": 614,
+    "new_module_id": 620,
+    "currentScore": 5,
+    "bestScore": 11,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "Curare was introduced by:"
+  },
+  {
+    "id": 24835,
+    "old_module_id": 615,
+    "new_module_id": 618,
+    "currentScore": 6,
+    "bestScore": 12,
+    "from_module": "[615] Airway Management and Resuscitation > Breathing Systems",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Since fresh gas flow equal to minute ventilation is sufficient to prevent rebreathing, which of the following Mapleson circuit breathing/ventilation systems is the most efficient f"
+  },
+  {
+    "id": 25690,
+    "old_module_id": 620,
+    "new_module_id": 630,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "to_module": "[630] Anaesthesia in Specific Conditions > Paediatric and Obstetric Anaesthesia",
+    "question": "Volatile anaesthetics inhibit thermogenesis in paediatric patients by interfering with?"
+  },
+  {
+    "id": 25148,
+    "old_module_id": 621,
+    "new_module_id": 620,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "Which of the following inhalational anesthetic agents has a blood-gas partition coefficient comparable to that of nitrous oxide?"
+  },
+  {
+    "id": 25202,
+    "old_module_id": 621,
+    "new_module_id": 609,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[609] Preoperative Evaluation and Monitoring > History and Ethical Aspects of Anaesthesia",
+    "question": "A 20-year-old college basketball player with a history of prolonged QT syndrome presents for an inguinal hernia repair. Which of the following agents would be least likely to furth"
+  },
+  {
+    "id": 25184,
+    "old_module_id": 621,
+    "new_module_id": 630,
+    "currentScore": 8,
+    "bestScore": 14,
+    "from_module": "[621] General Anaesthesia > Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases",
+    "to_module": "[630] Anaesthesia in Specific Conditions > Paediatric and Obstetric Anaesthesia",
+    "question": "Sevoflurane is preferred agent for inhaled induction in paediatric anaesthesia due to?"
+  },
+  {
+    "id": 25270,
+    "old_module_id": 622,
+    "new_module_id": 618,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[622] General Anaesthesia > Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "20-year-old burns patient with post burns contracture needs wound dressing. Which is the induction agent of choice for such a patient?"
+  },
+  {
+    "id": 25104,
+    "old_module_id": 623,
+    "new_module_id": 609,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "to_module": "[609] Preoperative Evaluation and Monitoring > History and Ethical Aspects of Anaesthesia",
+    "question": "A 30-year-old male is posted for revision laparotomy surgery. He gives a history of jaundice following the previous surgery. Which drug should likely be avoided?"
+  },
+  {
+    "id": 25286,
+    "old_module_id": 623,
+    "new_module_id": 609,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "to_module": "[609] Preoperative Evaluation and Monitoring > History and Ethical Aspects of Anaesthesia",
+    "question": "A 30-year-old patient has presented with acute abdominal pain. He was diagnosed of acute appendicitis and is planned for surgery. He has history of porphyria in the family. Which o"
+  },
+  {
+    "id": 25514,
+    "old_module_id": 624,
+    "new_module_id": 609,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[624] Local and Regional Anaesthesia > Local Anaesthetics - General Properties",
+    "to_module": "[609] Preoperative Evaluation and Monitoring > History and Ethical Aspects of Anaesthesia",
+    "question": "A patient has a history of an allergic reaction to a local anesthetic but does not recall the name. Which of the following local anesthetics will most likely be the cause of a true"
+  },
+  {
+    "id": 25578,
+    "old_module_id": 626,
+    "new_module_id": 624,
+    "currentScore": 7,
+    "bestScore": 13,
+    "from_module": "[626] Local and Regional Anaesthesia > Regional Anaesthesia: Techniques",
+    "to_module": "[624] Local and Regional Anaesthesia > Local Anaesthetics - General Properties",
+    "question": "Cocaine was first used for intradermal infiltration by:"
+  },
+  {
+    "id": 24734,
+    "old_module_id": 629,
+    "new_module_id": 618,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[629] Anaesthesia in Specific Conditions > Anaesthetic Implication of Concurrent Diseases",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Under which of the following conditions is the use of Bi-PAP contraindicated?"
+  },
+  {
+    "id": 25090,
+    "old_module_id": 631,
+    "new_module_id": 620,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[631] Complications of Anaesthesia > Complications of Anaesthesia",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "A patient undergoing surgery is administered an inhalational anesthetic agent. This agent is known for rare but serious hepatic complications and has specific cardiovascular effect"
+  },
+  {
+    "id": 24721,
+    "old_module_id": 613,
+    "new_module_id": 618,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[613] Airway Management and Resuscitation > Airway Devices",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Airway resistance to flow of gases through endotracheal tube is due to"
+  },
+  {
+    "id": 24737,
+    "old_module_id": 613,
+    "new_module_id": 618,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[613] Airway Management and Resuscitation > Airway Devices",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "A nasopharyngeal airway may be used as an airway adjunct in all of the following conditions except patients with:"
+  },
+  {
+    "id": 24738,
+    "old_module_id": 613,
+    "new_module_id": 618,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[613] Airway Management and Resuscitation > Airway Devices",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "An esophageal-tracheal combitube (ETC) is inserted into the:"
+  },
+  {
+    "id": 24742,
+    "old_module_id": 613,
+    "new_module_id": 618,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[613] Airway Management and Resuscitation > Airway Devices",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Airway resistance may be increased in all of the following clinical conditions except:"
+  },
+  {
+    "id": 25687,
+    "old_module_id": 613,
+    "new_module_id": 614,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[613] Airway Management and Resuscitation > Airway Devices",
+    "to_module": "[614] Airway Management and Resuscitation > Intubation",
+    "question": "26-year-old female is planned for emergency cesarean section for preeclampsia. She is planned for general anaesthesia under rapid sequence induction. The airway should be secured u"
+  },
+  {
+    "id": 24739,
+    "old_module_id": 613,
+    "new_module_id": 618,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[613] Airway Management and Resuscitation > Airway Devices",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Identify the given supraglottic airway"
+  },
+  {
+    "id": 24741,
+    "old_module_id": 613,
+    "new_module_id": 618,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[613] Airway Management and Resuscitation > Airway Devices",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Which of these is a second-generation Laryngeal Mask Airway (LMA)?"
+  },
+  {
+    "id": 24679,
+    "old_module_id": 614,
+    "new_module_id": 618,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": ": A 60-year-old chronic smoker presented with acute exacerbation of COPD, with complaints of dyspnoea, palpitations, desaturation. After initial drug therapy, you admit the patient"
+  },
+  {
+    "id": 24915,
+    "old_module_id": 614,
+    "new_module_id": 618,
+    "currentScore": 6,
+    "bestScore": 11,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "THRIVE is a recent mode of ventilation. What is true regarding THRIVE:"
+  },
+  {
+    "id": 24932,
+    "old_module_id": 614,
+    "new_module_id": 618,
+    "currentScore": 6,
+    "bestScore": 11,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "One of the following is a primary risk factor for difficult mask ventilation"
+  },
+  {
+    "id": 24953,
+    "old_module_id": 614,
+    "new_module_id": 623,
+    "currentScore": 7,
+    "bestScore": 12,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "You are preparing for an emergency cesarean section in a patient who has just recovered from an episode of seizures. A rapid sequence induction (RSI) is planned to minimize aspirat"
+  },
+  {
+    "id": 24783,
+    "old_module_id": 614,
+    "new_module_id": 618,
+    "currentScore": 6,
+    "bestScore": 11,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "Immediately after intubating a patient who required vigorous mask ventilation, the anaesthetist observes the capnogram shown. After a few manual breaths, the waveform disappears co"
+  },
+  {
+    "id": 24792,
+    "old_module_id": 614,
+    "new_module_id": 618,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "A patient in the ICU with an endotracheal tube now requires a tracheostomy. Which type of tracheostomy tube should be used?"
+  },
+  {
+    "id": 24795,
+    "old_module_id": 614,
+    "new_module_id": 618,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[614] Airway Management and Resuscitation > Intubation",
+    "to_module": "[618] Airway Management and Resuscitation > Ventilation and O2 Delivery Systems",
+    "question": "What is this device called?"
+  },
+  {
+    "id": 25702,
+    "old_module_id": 619,
+    "new_module_id": 620,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[619] Muscle Relaxants > Depolarising Muscle Relaxants",
+    "to_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "question": "Which of the following drugs can trigger malignant hyperthermia?"
+  },
+  {
+    "id": 25101,
+    "old_module_id": 620,
+    "new_module_id": 627,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[620] General Anaesthesia > Inhaled Anaesthetics - Properties, N2O and Halothane",
+    "to_module": "[627] Local and Regional Anaesthesia > Regional Anaesthesia: Complications and Contraindications",
+    "question": "Megaloblastic anaemia is an adverse effect of which drug ?"
+  },
+  {
+    "id": 25271,
+    "old_module_id": 622,
+    "new_module_id": 623,
+    "currentScore": 6,
+    "bestScore": 11,
+    "from_module": "[622] General Anaesthesia > Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
+    "to_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "question": "Among the given intravenous induction agent, which is an imidazole compound?"
+  },
+  {
+    "id": 25256,
+    "old_module_id": 623,
+    "new_module_id": 622,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "to_module": "[622] General Anaesthesia > Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol",
+    "question": "Which intravenous induction agent may predispose to pancreatitis?"
+  },
+  {
+    "id": 25339,
+    "old_module_id": 623,
+    "new_module_id": 630,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[623] General Anaesthesia > Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery",
+    "to_module": "[630] Anaesthesia in Specific Conditions > Paediatric and Obstetric Anaesthesia",
+    "question": "A paediatric patient presents with an open globe injury. Which induction agent should be avoided?"
+  }
+]

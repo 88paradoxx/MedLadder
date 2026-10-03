@@ -1,0 +1,1162 @@
+[
+  {
+    "id": 16326,
+    "old_module_id": 447,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 21,
+    "from_module": "[447] Respiratory System > Respiratory Failure and ARDS",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A patient's ABG reveals: pH = 7.12, pCO 2 = 50 mmHg, HCO 3 - = 28 mEq/L. What is the most appropriate interpretation?"
+  },
+  {
+    "id": 16678,
+    "old_module_id": 446,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 19,
+    "from_module": "[446] Respiratory System > Pulmonary Function Tests",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 65-year-old female presents with a four hour history of fatigue and palpitations. On examination she is vomiting, and is noted to have a slight tremor, some lid lag and has an ir"
+  },
+  {
+    "id": 16657,
+    "old_module_id": 446,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 19,
+    "from_module": "[446] Respiratory System > Pulmonary Function Tests",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 41-year-old woman presents with palpitations and heat intolerance. On examination her pulse is 90/min and a small, diffuse goitre is noted which is tender to touch. Thyroid funct"
+  },
+  {
+    "id": 16940,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 22 year old man is well but jaundiced. His urine color is normal. His liver function tests show total bilirubin 3.2 mg/dl; unconjugated bilirubin: 2.8 mg/dL, ALT 26 U/l, AST 25 U"
+  },
+  {
+    "id": 16348,
+    "old_module_id": 432,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[432] Irritable Bowel Syndrome > Irritable Bowel Syndrome",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 30-year-old woman with Sjogren's syndrome presents with severe left-sided loin pain and haematuria. Blood tests reveal hypokalemia and acidosis. The anion gap is 10 mmol/l. There"
+  },
+  {
+    "id": 16329,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 69-year-old man presents with severe dyspnea and increasing amounts of clear sputum. ABG reveals pH 7.2, PCO2 66 mmHg, PaO2 44 mmHg, and bicarbonate 26 mEq/L. His SpO2 is 77%. Wh"
+  },
+  {
+    "id": 16296,
+    "old_module_id": 447,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[447] Respiratory System > Respiratory Failure and ARDS",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 45-year-old female presents to the emergency department. An arterial blood gas (ABG) reveals: pH 7.55, PaCO&#8322; 40 mmHg, HCO&#8323;&#8315; 32 mEq/L. Which of the following con"
+  },
+  {
+    "id": 16330,
+    "old_module_id": 449,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[449] Respiratory System > Sleep Apnea",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A male patient reports to the emergency room with the following arterial blood gas (ABG) results: pH: 7.2 pCO&#8322;: 81 mmHg HCO&#8323;&#8315;: 40 mEq/L What is the most likely di"
+  },
+  {
+    "id": 16350,
+    "old_module_id": 470,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[470] Nervous System > Headache",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A young man trekking at 5000 meters develops headache, dizziness, dyspnea, and blurred vision. Which acid-base disturbance occurs at high altitude?"
+  },
+  {
+    "id": 18148,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 30-year-old patient presents with weakness. Laboratory values are as follows: Blood pH: 7.3 Na+: 134 mEq/L K+: 2.8 mEq/L Cl-: 113 mEq/L HCO3-: 12 mEq/L BUN: 3 mg/dL Creatinine: 0"
+  },
+  {
+    "id": 16287,
+    "old_module_id": 411,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[411] General Medicine > Clinical Hypotheses",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Which of the following is not a cause of metabolic alkalosis?"
+  },
+  {
+    "id": 16751,
+    "old_module_id": 422,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 19-year-old woman with type 1 diabetes mellitus is admitted with confusion, vomiting, and abdominal pain. Blood glucose is 520 mg/dL, and urine is positive for ketones. What is t"
+  },
+  {
+    "id": 16947,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 20-year-old male presented with a history of yellowing of the skin and eyes for 11 weeks, but he does not have any other symptoms. He had a viral infection 10 days ago and experi"
+  },
+  {
+    "id": 16325,
+    "old_module_id": 447,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[447] Respiratory System > Respiratory Failure and ARDS",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 64-year-old woman with COPD develops diarrhea of 1-week duration. She says that she took enough fluids 'to keep up with diarrhea', but abdominal cramps and slight dizziness broug"
+  },
+  {
+    "id": 18142,
+    "old_module_id": 454,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[454] Renal System > Renal Tubular Diseases of Kidney",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Choose the incorrect statement about Renal Tubular Acidosis (RTA):"
+  },
+  {
+    "id": 16343,
+    "old_module_id": 454,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[454] Renal System > Renal Tubular Diseases of Kidney",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Ph 7.2, bicarbonate-10, PC02-32, uncompensated metabolic acidosis is probably due to?"
+  },
+  {
+    "id": 16578,
+    "old_module_id": 475,
+    "new_module_id": 416,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[475] Plasma Cell Disorders > Plasma Cell Disorders",
+    "to_module": "[416] Endocrine System > Posterior Pituitary - ADH, Diabetes Insipidus",
+    "question": "A 28-year-old female sustained a minor head injury, was seen in the emergency department with headache and was discharged following a normal computed tomography of the head, She pr"
+  },
+  {
+    "id": 16666,
+    "old_module_id": 478,
+    "new_module_id": 418,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[418] Endocrine System > Thyroid Disorders - Clinical Features",
+    "question": "A 66-year-old man presents with lethargy and weight loss. This has gradually occurred over the last 6 months. On examination, a small goitre is palpable. There is no evidence of ey"
+  },
+  {
+    "id": 16638,
+    "old_module_id": 417,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[417] Endocrine System > Thyroid Disorders - Management",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 26-year-old woman is referred by her family doctor. She is 10 week's pregnant and complaining of anxiety and an inability to sleep. Total thyroxine (T4) is noted to be 160 nmol/l"
+  },
+  {
+    "id": 16630,
+    "old_module_id": 433,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "An elderly woman came with a weight loss of 6 kg over 6 months and increased fatigue and prostration during febrile episodes. Investigation showed lowFree T3, low Free T4 and low T"
+  },
+  {
+    "id": 16636,
+    "old_module_id": 433,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 44-year-old woman presents to the Emergency department with palpitations and shortness of breath. Recent thyroid function tests on the hospital computer reveal thyroid-stimulatin"
+  },
+  {
+    "id": 16635,
+    "old_module_id": 433,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "You are asked to review a 58-year-old woman who presents with a slowly enlarging hard mass in the anterior neck. Thyroid ultrasound reveals infiltration of the mass to adjacent str"
+  },
+  {
+    "id": 16616,
+    "old_module_id": 434,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[434] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Complications and Treatment",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 45-year-old woman presents with weight loss, palpitations, diarrhoea and irregular menstrual cycles. Examination reveals a single nodule on the left lobe of her thyroid gland, ab"
+  },
+  {
+    "id": 16688,
+    "old_module_id": 434,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[434] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Complications and Treatment",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 32-year-old woman with relapsed Grave's disease. TSH is less than 0.05 mU/l, with a Free T4 of 32.5 pmol/l(9-20). She has severe bilateral thyroid eye disease with marked orbital"
+  },
+  {
+    "id": 16681,
+    "old_module_id": 460,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[460] Cardiovascular System > Ischemic Heart Disease - Complications and Management",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 72 year old man is being reviewed at a medical outpatient clinic complaining of tiredness. He takes amiodarone, aspirin, atenolol and atorvastatin. His heart rate on examination "
+  },
+  {
+    "id": 16633,
+    "old_module_id": 475,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[475] Plasma Cell Disorders > Plasma Cell Disorders",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A patient presents with lethargy, increased sleep, and weight gain. Lab values show low plasma TSH, low T3, and low T4. After TRH administration, TSH levels increase. Which conditi"
+  },
+  {
+    "id": 16661,
+    "old_module_id": 478,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 24-year-old pharmacist is admitted to the Emergency room with a panic attack. On further questioning it transpires that she has been suffering from palpitations and has lost weig"
+  },
+  {
+    "id": 16331,
+    "old_module_id": 478,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 45-year-old patient is admitted with a decreased conscious level. She is oliguric and hyperventilating. Her investigations show: sodium 125 meq/l, potassium 6.0 meq/l, chloride 9"
+  },
+  {
+    "id": 18703,
+    "old_module_id": 478,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 47-year-old woman presents to the Emergency department complaining of a severe headache and vomiting for 12 hours.She was previously well and takes no medication.On examination, "
+  },
+  {
+    "id": 17438,
+    "old_module_id": 433,
+    "new_module_id": 440,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[440] Rheumatological and Vascular Disorders > Antiphospholipid Antibody Syndrome",
+    "question": "A 28-year-old pregnant woman with known Systemic Lupus Erythematosus (SLE) undergoes a routine fetal ultrasound at 22 weeks. The scan reveals a persistent fetal heart rate of 55 bp"
+  },
+  {
+    "id": 16629,
+    "old_module_id": 433,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 19-year-old girl referred for evaluation of menstrual disturbances. She weighs only 38 kg and is 1.78 m tall. She is emaciated, her skin is dry and she has excessive growth of la"
+  },
+  {
+    "id": 16658,
+    "old_module_id": 433,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 40-year-old woman presents with fatigue and weight gain. On examination, a diffuse, non-tender goiter is noted. Her blood test results are shown below. What is the most likely di"
+  },
+  {
+    "id": 17313,
+    "old_module_id": 433,
+    "new_module_id": 435,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[435] Inflammatory Bowel Disease > Malabsorption Syndrome",
+    "question": "What is the diagnosis of a patient who presents with chronic small bowel diarrhea, with duodenal biopsy showing villous atrophy, and positive results for anti-endomysial antibodies"
+  },
+  {
+    "id": 16327,
+    "old_module_id": 447,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[447] Respiratory System > Respiratory Failure and ARDS",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "ABG of a person presenting with abdominal pain and vomiting are as follows: 1. pH: 7.31 2. HCO 3 - : 20 mEq/L 3. Na + : 135 mEq/L 4. K + : 5 mEq/L 5. Cl - : 92 mEq/L 6. Blood gluco"
+  },
+  {
+    "id": 16734,
+    "old_module_id": 411,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[411] General Medicine > Clinical Hypotheses",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Which of the following is not a feature of Diabetic Ketoacidosis (DKA)?"
+  },
+  {
+    "id": 16774,
+    "old_module_id": 416,
+    "new_module_id": 422,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[416] Endocrine System > Posterior Pituitary - ADH, Diabetes Insipidus",
+    "to_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "question": "A 40 year old man with type 1 diabetes attends a follow up appointment in the diabetic clinic. He has a blood pressure of 145/86 mmHg. There is no evidence of diabetic retinopathy "
+  },
+  {
+    "id": 16683,
+    "old_module_id": 418,
+    "new_module_id": 417,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[418] Endocrine System > Thyroid Disorders - Clinical Features",
+    "to_module": "[417] Endocrine System > Thyroid Disorders - Management",
+    "question": "Which of the following is incorrect regarding Myxedema coma?"
+  },
+  {
+    "id": 16749,
+    "old_module_id": 422,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "The method of action Imeglimin - a new drug in management of Type 2 Diabetes mellitus is:"
+  },
+  {
+    "id": 16748,
+    "old_module_id": 422,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 29-year-old woman came to the diabetes clinic with her two children. This is her third pregnancy and although not normally diabetic, she was diagnosed with gestational diabetes m"
+  },
+  {
+    "id": 16367,
+    "old_module_id": 422,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 18-year-old female with Type 1 Diabetes mellitus with history of treatment default presented to the emergency room with vomiting and abdominal pain. Investigations revealed a GRB"
+  },
+  {
+    "id": 16904,
+    "old_module_id": 424,
+    "new_module_id": 451,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[424] Endocrine System > Disorders of Parathyroid and Calcium",
+    "to_module": "[451] Renal System > Chronic Kidney Disease",
+    "question": "A 67-year-old man has been receiving dialysis for 6 years. His PTH is elevated at 345 pg/ml(Normal Range 25-65), phosphate 6.6 mg/dl and corrected calcium 8 mg/dl. Of the following"
+  },
+  {
+    "id": 16341,
+    "old_module_id": 426,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Sustained metabolic alkalosis is always due to:"
+  },
+  {
+    "id": 17084,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 23-year-old man was admitted with confusion.He was noted to have Kayser-Fleischer rings and his liver function tests were consistent with acute hepatitis.Which chromosome contain"
+  },
+  {
+    "id": 17158,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "Laboratory investigations of a patient with jaundice reveal elevated bilirubin and markedly raised alkaline phosphatase (ALP) levels. Other liver enzymes (AST, ALT) are within norm"
+  },
+  {
+    "id": 17211,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A patient arrives at the emergency department after consuming ten paracetamol tablets. He now has oliguria, and his liver function tests are abnormal. Which of the following is the"
+  },
+  {
+    "id": 16993,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 38 year old lady has noticed mild jaundice, worsening joint pains and is complaining of itching on her skin for the past 8 months. On examination, she has palpable hepatomegaly a"
+  },
+  {
+    "id": 18915,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 12 year old male was admitted to the emergency department with significant lethargy which had worsened over the past year. On examination he was conscious and oriented. His heart"
+  },
+  {
+    "id": 16992,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 32 year old psychology lecturer has deranged liver function tests. She also has jaundice, pruritus and xanthelasmata .Blood tests reveal elevated levels of conjugated bilirubin, "
+  },
+  {
+    "id": 16994,
+    "old_module_id": 426,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 32 year old psychology lecturer has deranged liver function tests. She also has jaundice, pruritus and xanthelasma.Blood tests reveal elevated levels of conjugated bilirubin, alk"
+  },
+  {
+    "id": 17124,
+    "old_module_id": 426,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "Metabolic syndrome criteria include all. except?"
+  },
+  {
+    "id": 18134,
+    "old_module_id": 426,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[426] Hepatobiliary System > Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "All of the following are cause of salt losing nephropathy, except?"
+  },
+  {
+    "id": 17100,
+    "old_module_id": 430,
+    "new_module_id": 428,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[430] Hepatobiliary System > Portal Hypertension",
+    "to_module": "[428] Hepatobiliary System > Acute Liver Failure and Complications of Cirrhosis",
+    "question": "A 60-year-old male with a history of cirrhosis presents with worsening ascites. The physician decides to calculate the Serum-Ascitic Albumin Gradient(SAAG). Based on the SAAG value"
+  },
+  {
+    "id": 16782,
+    "old_module_id": 431,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[431] Hepatobiliary System > Evaluation of Jaundice",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 43 year old man is being investigated for a 3 year history of arthralgia. On examination, his skin color was normal and there was no evidence of jaundice or hepatomegaly. He has "
+  },
+  {
+    "id": 17919,
+    "old_module_id": 432,
+    "new_module_id": 420,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[432] Irritable Bowel Syndrome > Irritable Bowel Syndrome",
+    "to_module": "[420] Endocrine System > Cushing Syndrome",
+    "question": "Paraneoplastic syndromes associated with lung cancer is/are 1. Ectopic ACTH 2. SIADH 3. Lambert Eaton Syndrome 4. Trousseau syndrome"
+  },
+  {
+    "id": 16542,
+    "old_module_id": 432,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[432] Irritable Bowel Syndrome > Irritable Bowel Syndrome",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "Which of the following is not a component of the atherogenic 'metabolic syndrome'?"
+  },
+  {
+    "id": 17055,
+    "old_module_id": 432,
+    "new_module_id": 428,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[432] Irritable Bowel Syndrome > Irritable Bowel Syndrome",
+    "to_module": "[428] Hepatobiliary System > Acute Liver Failure and Complications of Cirrhosis",
+    "question": "A 45-year-old patient with chronic hepatitis C has now developed hypotension and oliguria. His liver and renal function tests suggest hepatorenal syndrome. Which of the following m"
+  },
+  {
+    "id": 16358,
+    "old_module_id": 432,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[432] Irritable Bowel Syndrome > Irritable Bowel Syndrome",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "All of the following are the cause of metabolic alkalosis, except?"
+  },
+  {
+    "id": 16314,
+    "old_module_id": 432,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[432] Irritable Bowel Syndrome > Irritable Bowel Syndrome",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "All the below are features of Conn's syndrome except?"
+  },
+  {
+    "id": 16378,
+    "old_module_id": 432,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[432] Irritable Bowel Syndrome > Irritable Bowel Syndrome",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "29-year-old man presents with hypertension that is refractory to 3 anti-hypertensive medications.. The treating physician &nbsp;is concerned about the possibility of Conn's syndrom"
+  },
+  {
+    "id": 17466,
+    "old_module_id": 433,
+    "new_module_id": 439,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[439] Rheumatological and Vascular Disorders > Dermatomyositis and Related Disorders",
+    "question": "A 55-year-old woman presents with a history of progressive difficulty in climbing stairs and rising from chairs. She also complains of difficulty in swallowing. She complains that "
+  },
+  {
+    "id": 18147,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A young child is brought in with short stature and muscle weakness. Vital signs reveal a blood pressure of 70/50 mmHg and a pulse rate of 80 bpm. Laboratory evaluation shows metabo"
+  },
+  {
+    "id": 16377,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A patient presents with salt wasting, craving, hyperkalemia, metabolic acidosis, and skin pigmentation. What is the most likely diagnosis?"
+  },
+  {
+    "id": 16382,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 63-year-old woman presents a 5 day history of progressive shortness of breath. Her family brought her in because she was increasingly sleepy during the last 24 hours. She was dia"
+  },
+  {
+    "id": 16718,
+    "old_module_id": 433,
+    "new_module_id": 420,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[420] Endocrine System > Cushing Syndrome",
+    "question": "Which of the following findings is more suggestive of an ectopic ACTH secretion rather than Cushing's disease?"
+  },
+  {
+    "id": 17646,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Which of the following goes against a diagnosis of chronic obstructive pulmonary disease?"
+  },
+  {
+    "id": 17694,
+    "old_module_id": 433,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 30 year old lady is referred for investigation of abnormal liver function tests. She has been taking several drugs to treat tuberculosis for a long period of time.Her albumin is "
+  },
+  {
+    "id": 17867,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Which condition is characterized by an FEV 1 /FVC ratio 1 < 80% of predicted, and clinical features including morning wheezing and shortness of breath?"
+  },
+  {
+    "id": 18130,
+    "old_module_id": 433,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Which of the following causes hypokalemia with metabolic alkalosis and hypertension?"
+  },
+  {
+    "id": 16829,
+    "old_module_id": 433,
+    "new_module_id": 420,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[420] Endocrine System > Cushing Syndrome",
+    "question": "What condition is illustrated in the image provided below?"
+  },
+  {
+    "id": 17823,
+    "old_module_id": 433,
+    "new_module_id": 444,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[444] Respiratory System > Interstitial Lung Diseases and Sarcoidosis",
+    "question": "A patient presents with fever, night sweats, ptosis, and bilateral facial nerve palsy. Investigations reveal leukocytosis and bilateral hilar lymphadenopathy. Which of the followin"
+  },
+  {
+    "id": 17627,
+    "old_module_id": 434,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[434] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Complications and Treatment",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 75 year old lady is admitted with an acute exacerbation of chronic obstructive pulmonary disease (COPD). One hour after admission she remains distressed with a respiratory rate o"
+  },
+  {
+    "id": 16622,
+    "old_module_id": 434,
+    "new_module_id": 418,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[434] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Complications and Treatment",
+    "to_module": "[418] Endocrine System > Thyroid Disorders - Clinical Features",
+    "question": "A 37-year-old woman comes to you for consultation . She has experienced cold intolerance, weakness and constipation for 3 months. Her menses are regular but scanty. Her history is "
+  },
+  {
+    "id": 17579,
+    "old_module_id": 434,
+    "new_module_id": 441,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[434] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Complications and Treatment",
+    "to_module": "[441] Rheumatological and Vascular Disorders > Rheumatoid Arthritis",
+    "question": "A 70 year old male with history of long standing arthritis of small and large joints that are symmetrical presents with the following lesion in the elbow. Which of the following st"
+  },
+  {
+    "id": 16619,
+    "old_module_id": 434,
+    "new_module_id": 418,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[434] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Complications and Treatment",
+    "to_module": "[418] Endocrine System > Thyroid Disorders - Clinical Features",
+    "question": "What would be the most suitable course of action for managing a 65-year-old male who presented with symptoms of weakness, lethargy, excessive cold intolerance, and slow ankle jerk?"
+  },
+  {
+    "id": 17578,
+    "old_module_id": 434,
+    "new_module_id": 441,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[434] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Complications and Treatment",
+    "to_module": "[441] Rheumatological and Vascular Disorders > Rheumatoid Arthritis",
+    "question": "A 70-year-old male with a history of long standing arthritis of small and large joints that are symmetrical presents with the following lesion in the elbow. Which of the following "
+  },
+  {
+    "id": 16811,
+    "old_module_id": 441,
+    "new_module_id": 422,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[441] Rheumatological and Vascular Disorders > Rheumatoid Arthritis",
+    "to_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "question": "A 50-year-old lady has been diagnosed with type 2 diabetes, a year ago. Since the diagnosis was made, she was found to have pre-proliferative diabetic retinopathy. She has a histor"
+  },
+  {
+    "id": 16308,
+    "old_module_id": 447,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[447] Respiratory System > Respiratory Failure and ARDS",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "What would be expected change in HCO3- level per change of PaCO2 in acute respiratory acidosis?"
+  },
+  {
+    "id": 17950,
+    "old_module_id": 450,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[450] Renal System > Acute Kidney Injury",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 17-year-old female student is admitted for confusion and acute kidney injury. She is able to give some history that she had a fight with her boy friend 2 days ago, and she drank "
+  },
+  {
+    "id": 16822,
+    "old_module_id": 454,
+    "new_module_id": 422,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[454] Renal System > Renal Tubular Diseases of Kidney",
+    "to_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "question": "A 70-year-old man with type-2 diabetes is found to have an elevated plasma creatinine of 1.6 mg/dl. His blood pressure is 180/100 mmHg and fundoscopy reveals mild hypertensive chan"
+  },
+  {
+    "id": 18132,
+    "old_module_id": 454,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[454] Renal System > Renal Tubular Diseases of Kidney",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Which of the following is not a cause of hypokalemic distal (type 1) renal tubular acidosis?"
+  },
+  {
+    "id": 18140,
+    "old_module_id": 454,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[454] Renal System > Renal Tubular Diseases of Kidney",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 42-year-old man presents to his primary care physician for left flank pain and hematuria. Urinalysis reveals a pH of 6.9 and hematuria only. There is no evidence of UTI. Renal ul"
+  },
+  {
+    "id": 18141,
+    "old_module_id": 454,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[454] Renal System > Renal Tubular Diseases of Kidney",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "Which of the following conditions does not present with hypokalemia?"
+  },
+  {
+    "id": 18139,
+    "old_module_id": 454,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[454] Renal System > Renal Tubular Diseases of Kidney",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 28-year-old woman presents with muscle weakness and lethargy. Her plasma sodium is 138 mmol/l, potassium 2.1 mmol/l, bicarbonate 12 mmol/l and chloride 113 mmol/l. Creatinine is "
+  },
+  {
+    "id": 16340,
+    "old_module_id": 455,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[455] Cardiovascular System > Diagnosis of cardiovascular disorders",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 73-year-old man is admitted hypothermic and unconscious, having been found collapsed on his kitchen floor. Biochemistry reveals a significant metabolic acidosis(bicarbonate 8 mmo"
+  },
+  {
+    "id": 18855,
+    "old_module_id": 459,
+    "new_module_id": 458,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[459] Cardiovascular System > Ischemic Heart Disease - Presentation and Diagnosis",
+    "to_module": "[458] Cardiovascular System > Vascular Heart Diseases",
+    "question": "A 52-year-old woman develops sudden-onset facial droop, slurred speech, and inability to raise her right arm. The symptoms gradually improve and completely resolve within 24 hours."
+  },
+  {
+    "id": 16814,
+    "old_module_id": 462,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[462] Cardiovascular System > Heart Failure",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 52-year-old obese female with a 10-year duration of Type 2 Diabetes mellitus was admitted for evaluation of exertional dyspnea and orthopnea. Echocardiogram revealed heart failur"
+  },
+  {
+    "id": 18458,
+    "old_module_id": 462,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[462] Cardiovascular System > Heart Failure",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 64-year-old male with hypertension and type 2 diabetes mellitus has fatigue and exertional dyspnea. He is compliant with his medications. Echo reveals normal systolic function an"
+  },
+  {
+    "id": 18286,
+    "old_module_id": 462,
+    "new_module_id": 458,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[462] Cardiovascular System > Heart Failure",
+    "to_module": "[458] Cardiovascular System > Vascular Heart Diseases",
+    "question": "A 45-year-old woman presents with a 6-month history of paroxysmal nocturnal dyspnea, palpitations, and breathlessness. On examination, blood pressure and oxygen saturation are norm"
+  },
+  {
+    "id": 17351,
+    "old_module_id": 470,
+    "new_module_id": 436,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[470] Nervous System > Headache",
+    "to_module": "[436] Rheumatological and Vascular Disorders > Large and medium vessel vasculitis",
+    "question": "Patients with Giant cell arteritis present with history of headache, jaw claudication, polymyalgia rheumatica and mononeuritis multiplex. What should be the first line treatment?"
+  },
+  {
+    "id": 18537,
+    "old_module_id": 470,
+    "new_module_id": 465,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[470] Nervous System > Headache",
+    "to_module": "[465] Nervous System > Seizure and Epilepsy",
+    "question": "A 60 year old man presents with breathlessness, visual blurring and headaches to ER. During examination, he has a generalized tonic clonic seizure. He has a blood pressure of 240/1"
+  },
+  {
+    "id": 16346,
+    "old_module_id": 475,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[475] Plasma Cell Disorders > Plasma Cell Disorders",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A woman with long-standing glaucoma and type-2 diabetes is admitted for an ophthalmological procedure. Her current medications include acetazolamide, metformin and atenolol. The op"
+  },
+  {
+    "id": 16376,
+    "old_module_id": 475,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[475] Plasma Cell Disorders > Plasma Cell Disorders",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 42-year-old woman presents with complaints of persistent headaches, muscle weakness, and occasional palpitations. She has a history of hypertension that has been difficult to con"
+  },
+  {
+    "id": 16568,
+    "old_module_id": 475,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[475] Plasma Cell Disorders > Plasma Cell Disorders",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 46-year-old patient with hypomania is referred for opinion. She is noted to have a sodium concentration of 142 mmol/l, with a urea of 72 mg/dl and a creatinine of 1.58 mg/dL. Uri"
+  },
+  {
+    "id": 16756,
+    "old_module_id": 475,
+    "new_module_id": 421,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[475] Plasma Cell Disorders > Plasma Cell Disorders",
+    "to_module": "[421] Endocrine System > Diabetes Mellitus - Clinical Features",
+    "question": "A 44-year-old man has had no major medical problems throughout his life, except for arthritis involving both small and large joints for the past couple of years. He has had worseni"
+  },
+  {
+    "id": 16625,
+    "old_module_id": 477,
+    "new_module_id": 423,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[477] HIV / AIDS - Epidemiology and Diagnosis > HIV / AIDS - Epidemiology and Diagnosis",
+    "to_module": "[423] Endocrine System > Reproductive Endocrinology",
+    "question": "35 year old with history of repeated D&C. She now has secondary amenorrhea. What is your diagnosis?"
+  },
+  {
+    "id": 17812,
+    "old_module_id": 477,
+    "new_module_id": 444,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[477] HIV / AIDS - Epidemiology and Diagnosis > HIV / AIDS - Epidemiology and Diagnosis",
+    "to_module": "[444] Respiratory System > Interstitial Lung Diseases and Sarcoidosis",
+    "question": "A 50 year old man presents with a 3 month history of cough and breathlessness. He was apyrexial on admission. His blood shows ESR 60 mm/hr, sodium 137 mg/dl, potassium 4.1mg/dl. Ch"
+  },
+  {
+    "id": 16942,
+    "old_module_id": 477,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[477] HIV / AIDS - Epidemiology and Diagnosis > HIV / AIDS - Epidemiology and Diagnosis",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 20-year-old man presents with jaundice for 1 week. He had a viral URI 10 days ago, now resolved. He recalls a similar episode after strenuous exercise 2 years back. Labs: Total b"
+  },
+  {
+    "id": 18301,
+    "old_module_id": 477,
+    "new_module_id": 458,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[477] HIV / AIDS - Epidemiology and Diagnosis > HIV / AIDS - Epidemiology and Diagnosis",
+    "to_module": "[458] Cardiovascular System > Vascular Heart Diseases",
+    "question": "A 23-year-old woman is seen in outpatients and is found to have loud first heart sound, an early diastole sound followed by a mid-diastolic murmur.What is the likely diagnosis?"
+  },
+  {
+    "id": 16534,
+    "old_module_id": 477,
+    "new_module_id": 423,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[477] HIV / AIDS - Epidemiology and Diagnosis > HIV / AIDS - Epidemiology and Diagnosis",
+    "to_module": "[423] Endocrine System > Reproductive Endocrinology",
+    "question": "A 19 year old presents with primary amenorrhea. On examination breast development and secondary sexual maturation was normal. Pubic and axillary hair growth were also normal. USG s"
+  },
+  {
+    "id": 18280,
+    "old_module_id": 477,
+    "new_module_id": 458,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[477] HIV / AIDS - Epidemiology and Diagnosis > HIV / AIDS - Epidemiology and Diagnosis",
+    "to_module": "[458] Cardiovascular System > Vascular Heart Diseases",
+    "question": "A 40-year-old female presents with complaints of chest pain, palpitations, and shortness of breath. On examination, a mid-diastolic murmur is heard, and a prominent 'a'wave is note"
+  },
+  {
+    "id": 16345,
+    "old_module_id": 478,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 27 year old man is admitted with pains radiating from his right loin to the groin. He also has haematuria. He gives a history of previous urinary tract infections. Clinical exami"
+  },
+  {
+    "id": 16557,
+    "old_module_id": 478,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 19-year-old woman sustains severe head injuries in a road traffic accident. The following day her investigations show: Sodium 160 mmol/l (137-144) Potassium 3.7 mmol/l (3.5-4.9) "
+  },
+  {
+    "id": 16344,
+    "old_module_id": 478,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 15 year old boy is being investigated for growth retardation. He has had no previous medical problems. He mentions that he had symptoms of worsening muscle weakness and fatigue. "
+  },
+  {
+    "id": 16803,
+    "old_module_id": 478,
+    "new_module_id": 422,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[422] Endocrine System > Diabetes Mellitus - Complications and Management",
+    "question": "A 60-year-old type 2 diabetes patient who is fasting for religious rituals. He has background diabetic retinopathy, and currently takes metformin 500mg TDS as well as ramipril 10mg"
+  },
+  {
+    "id": 17634,
+    "old_module_id": 478,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 17-year-old female presents after taking an overdose of her grandmother's medication. Investigations revealed: Serum potassium 6 mmol/L (3.5-4.9) Which one of the following drugs"
+  },
+  {
+    "id": 16562,
+    "old_module_id": 478,
+    "new_module_id": 416,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[416] Endocrine System > Posterior Pituitary - ADH, Diabetes Insipidus",
+    "question": "A 22-year-old is noted to have persistent polyuria in excess of 6 liters per day. She mentions recently being involved in an accident and sustained head injury which she thinks she"
+  },
+  {
+    "id": 16944,
+    "old_module_id": 478,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 63 year old male presents with a two month history of shortness of breath, weight loss and lethargy. He looks pale and is jaundiced. Investigations show : Haemoglobin 6 g/dL MCV "
+  },
+  {
+    "id": 17148,
+    "old_module_id": 478,
+    "new_module_id": 425,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[425] Hepatobiliary System > Hyperbilirubinemia and Functions of Liver",
+    "question": "A 42 year old man has worsening jaundice and has deranged liver function tests which have worsened over the last 3 months. He has positive IgG to hepatitis C. Which of the followin"
+  },
+  {
+    "id": 16316,
+    "old_module_id": 478,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 5-year diabetic patient presents with abdominal pain, recurrent vomiting, and dehydration. She has not been compliant with her medications. Investigations reveal blood glucose of"
+  },
+  {
+    "id": 18133,
+    "old_module_id": 478,
+    "new_module_id": 412,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[478] HIV / AIDS - Investigations > HIV / AIDS - Investigations",
+    "to_module": "[412] Acid-Base Disorders > Acid-Base Disorders",
+    "question": "A 40-year-old woman with Hashimoto's thyroiditis presents to the clinic for review. She is managed with thyroxine 125 mcg/day replacement. She presents to the clinic complaining of"
+  },
+  {
+    "id": 17421,
+    "old_module_id": 433,
+    "new_module_id": 438,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[438] Rheumatological and Vascular Disorders > Sjogrens Syndrome and Scleroderma",
+    "question": "A 45-year-old woman presents with symptoms of dry mouth and eyes and tests positive for anti-Ro and anti-La antibodies. The image below demonstrates a positive test result, showing"
+  },
+  {
+    "id": 17468,
+    "old_module_id": 433,
+    "new_module_id": 439,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[439] Rheumatological and Vascular Disorders > Dermatomyositis and Related Disorders",
+    "question": "A 50-year-old female reports trouble performing tasks such as climbing stairs, rising from a seated position, and combing her hair. On examination, a violaceous rash over the upper"
+  },
+  {
+    "id": 16672,
+    "old_module_id": 433,
+    "new_module_id": 419,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[433] Inflammatory Bowel Disease > Inflammatory Bowel Disease - Clinical Features and Diagnosis",
+    "to_module": "[419] Endocrine System > Types of Assessment for Diagnosis",
+    "question": "A 25-year-old male patient came with complaints of palpitations, sweating, and restlessness. He has a complaint of sweaty palms. Clinical findings are depicted in the image given b"
+  },
+  {
+    "id": 17489,
+    "old_module_id": 441,
+    "new_module_id": 438,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[441] Rheumatological and Vascular Disorders > Rheumatoid Arthritis",
+    "to_module": "[438] Rheumatological and Vascular Disorders > Sjogrens Syndrome and Scleroderma",
+    "question": "A 35-year-old woman experiences skin thickening, muscle weakness, and pale peripheries upon cold exposure. Her creatine kinase is increased with positive ANA, and biopsy revealed s"
+  },
+  {
+    "id": 17391,
+    "old_module_id": 469,
+    "new_module_id": 439,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[469] Nervous System > Multiple Sclerosis and Other Demyelinating Disorders",
+    "to_module": "[439] Rheumatological and Vascular Disorders > Dermatomyositis and Related Disorders",
+    "question": "A 38-year-old male patient complains of paranasal sinus pain and bloody nasal discharge over the past few days. He has a history of previous hemoptysis and hematuria. Imaging studi"
+  },
+  {
+    "id": 16503,
+    "old_module_id": 470,
+    "new_module_id": 415,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[470] Nervous System > Headache",
+    "to_module": "[415] Endocrine System > Pituitary Tumors and Sheehan Syndrome",
+    "question": "A 48-year-old man presents with persistent headaches and progressive visual disturbance. On examination, he has prominent frontal bossing, thickened palms and soles, spaced central"
+  }
+]

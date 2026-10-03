@@ -1,0 +1,802 @@
+[
+  {
+    "id": 19853,
+    "old_module_id": 498,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 26,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "A 45-year-old patient presents after undergoing a Billroth II gastrectomy operation and complains of symptoms suggestive of dumping syndrome, including vomiting and diarrhoea occur"
+  },
+  {
+    "id": 19855,
+    "old_module_id": 513,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 20,
+    "from_module": "[513] Spleen & Pancreatic Surgery > Chronic Pancreatitis",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "A middle-aged chronic alcoholic male, previously diagnosed with a hollow viscus perforation, is taken up for emergency laparotomy. Intraoperatively, a 2 cm perforation is identifie"
+  },
+  {
+    "id": 19463,
+    "old_module_id": 487,
+    "new_module_id": 486,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[487] Breast > Carcinoma Breast - Risk Factors and Types",
+    "to_module": "[486] Breast > Breast - Anatomy, Congenital and Benign Diseases",
+    "question": "Smoking increases the risk of which of the following diseases? i. Duct ectasia ii. Fibroadenoma iii. Mondor disease iv. Breast carcinoma"
+  },
+  {
+    "id": 20000,
+    "old_module_id": 483,
+    "new_module_id": 499,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[499] Lower GI & Hernia Surgery > Large Intestine",
+    "question": "Which is the investigation of choice for caecal volvulus?"
+  },
+  {
+    "id": 19760,
+    "old_module_id": 487,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[487] Breast > Carcinoma Breast - Risk Factors and Types",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "Which among the following is not the criteria for total thyroidectomy in a patient of differential thyroid carcinoma?"
+  },
+  {
+    "id": 19704,
+    "old_module_id": 490,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[490] Breast > Carcinoma Breast - Treatment",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "A 45-year-old female with a history of thyroid disorder underwent a total thyroidectomy and has been started on Iodine-131 (I-131) therapy. What is the most likely adverse effect a"
+  },
+  {
+    "id": 19703,
+    "old_module_id": 491,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[491] Endocrine System > Benign Lesions of Thyroid",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "Radio isotope used in Thyroid cancer treatment:"
+  },
+  {
+    "id": 19319,
+    "old_module_id": 498,
+    "new_module_id": 485,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[485] General Surgery > Trauma - Spinal, Thoracic and Abdominal Injuries",
+    "question": "A 27-year-old male, restrained driver, presents to the emergency department following a high-velocity motor vehicle collision. On examination, he is hemodynamically stable but demo"
+  },
+  {
+    "id": 20014,
+    "old_module_id": 498,
+    "new_module_id": 499,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[499] Lower GI & Hernia Surgery > Large Intestine",
+    "question": "Which among the following volvulus is associated with hiccough and retchings?"
+  },
+  {
+    "id": 19849,
+    "old_module_id": 483,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "Which anastomosis is performed in bilroth-II surgery?"
+  },
+  {
+    "id": 20154,
+    "old_module_id": 504,
+    "new_module_id": 483,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "The most common congenital diaphragmatic hernia seen in neonates is:"
+  },
+  {
+    "id": 19884,
+    "old_module_id": 493,
+    "new_module_id": 483,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[493] Upper GI Surgery > Esophagus - Congenital, Motility & Inflammatory Disorders",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "Which of the following is not true about Congenital Hypertrophic Pyloric Stenosis?"
+  },
+  {
+    "id": 19895,
+    "old_module_id": 498,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "An elderly man underwent Roux-en-Y gastric bypass surgery for obesity. He now presents to his physician with complaints of dizziness, fatigue, and tremors 2 hours after the ingesti"
+  },
+  {
+    "id": 19063,
+    "old_module_id": 480,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "A 35 years old male with gastric outlet obstruction presented to emergency with multiple episodes of vomiting. Which of the following fluids is preferred for this patient?"
+  },
+  {
+    "id": 19889,
+    "old_module_id": 483,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "Which among the following statements is false for early dumping syndrome?"
+  },
+  {
+    "id": 19355,
+    "old_module_id": 483,
+    "new_module_id": 484,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[484] General Surgery > Trauma - Scores, Investigations and Assessment",
+    "question": "Which of the following is not an indication for Damage Control Surgery (DCS)?"
+  },
+  {
+    "id": 19059,
+    "old_module_id": 483,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "All of the following can be seen in refeeding syndrome except:"
+  },
+  {
+    "id": 19074,
+    "old_module_id": 483,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "Mr. X has been admitted in casualty and his parameters were P-102/min,BP- 90/64 mmHg and urine output- 20ml/hour. He has been given 250 ml of ringer lactate. Following this his par"
+  },
+  {
+    "id": 19285,
+    "old_module_id": 483,
+    "new_module_id": 499,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[499] Lower GI & Hernia Surgery > Large Intestine",
+    "question": "When does intestinal obstruction occurs in a case of volvulus?"
+  },
+  {
+    "id": 19312,
+    "old_module_id": 483,
+    "new_module_id": 484,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[484] General Surgery > Trauma - Scores, Investigations and Assessment",
+    "question": "Injury severity score to categorise an injury as a severe injury is?"
+  },
+  {
+    "id": 19481,
+    "old_module_id": 483,
+    "new_module_id": 486,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[486] Breast > Breast - Anatomy, Congenital and Benign Diseases",
+    "question": "What is the size in diameter of giant fibroadenomas?"
+  },
+  {
+    "id": 19740,
+    "old_module_id": 483,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "What is the TNM grade of the patient of thyroid cancer for 3 cm size tumour with unilateral metastasis to delphian lymph nodes with no distant metastasis?"
+  },
+  {
+    "id": 19851,
+    "old_module_id": 483,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "Which among the following factors is not associated with poor outcome in case of perforated peptic ulcer?"
+  },
+  {
+    "id": 20126,
+    "old_module_id": 483,
+    "new_module_id": 503,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[503] Lower GI & Hernia Surgery > Anus and Anal Canal",
+    "question": "Which among the following is not the symptom for anal fissure?"
+  },
+  {
+    "id": 20978,
+    "old_module_id": 483,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "How much grams of tissue is left in subtotal thyroidectomy?"
+  },
+  {
+    "id": 21203,
+    "old_module_id": 483,
+    "new_module_id": 484,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[484] General Surgery > Trauma - Scores, Investigations and Assessment",
+    "question": "Mark the criteria that calls for damage control surgery"
+  },
+  {
+    "id": 19605,
+    "old_module_id": 483,
+    "new_module_id": 484,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[484] General Surgery > Trauma - Scores, Investigations and Assessment",
+    "question": "Identify the fourth stage from the philosophy of 'damage control orthopedic' or the 'damage control surgery'"
+  },
+  {
+    "id": 20044,
+    "old_module_id": 483,
+    "new_module_id": 500,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[500] Lower GI & Hernia Surgery > Appendix",
+    "question": "Which of the following sign is not a sign elicited in acute appendicitis?"
+  },
+  {
+    "id": 20272,
+    "old_module_id": 483,
+    "new_module_id": 505,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[505] Hepato Biliary Surgery > Benign Conditions of Liver",
+    "question": "Which among the following is the most commonly affected region of the liver in pyogenic liver abscess?"
+  },
+  {
+    "id": 20256,
+    "old_module_id": 483,
+    "new_module_id": 505,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[505] Hepato Biliary Surgery > Benign Conditions of Liver",
+    "question": "Which is the relative contraindication of percutaneous drainage of pyogenic liver abscess?"
+  },
+  {
+    "id": 21205,
+    "old_module_id": 483,
+    "new_module_id": 484,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[484] General Surgery > Trauma - Scores, Investigations and Assessment",
+    "question": "Mark stage - II of damage control surgery"
+  },
+  {
+    "id": 19356,
+    "old_module_id": 483,
+    "new_module_id": 484,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[484] General Surgery > Trauma - Scores, Investigations and Assessment",
+    "question": "Which of the following is the correct sequence for damage control surgery?"
+  },
+  {
+    "id": 20048,
+    "old_module_id": 483,
+    "new_module_id": 500,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[500] Lower GI & Hernia Surgery > Appendix",
+    "question": "Which of the following is not a differential diagnosis of acute appendicitis in children?"
+  },
+  {
+    "id": 19313,
+    "old_module_id": 485,
+    "new_module_id": 493,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[485] General Surgery > Trauma - Spinal, Thoracic and Abdominal Injuries",
+    "to_module": "[493] Upper GI Surgery > Esophagus - Congenital, Motility & Inflammatory Disorders",
+    "question": "A 45-year-old alcoholic with a history of binge drinking presents with an episode of vomiting bright red blood. His vitals are stable. An endoscopy was performed; what is the proba"
+  },
+  {
+    "id": 20013,
+    "old_module_id": 485,
+    "new_module_id": 499,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[485] General Surgery > Trauma - Spinal, Thoracic and Abdominal Injuries",
+    "to_module": "[499] Lower GI & Hernia Surgery > Large Intestine",
+    "question": "A 70-year-old patient presents with absolute constipation and abdominal distension, the physician orders an erect abdominal X-ray, X-ray is shown below. What is the most likely dia"
+  },
+  {
+    "id": 19502,
+    "old_module_id": 486,
+    "new_module_id": 487,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[486] Breast > Breast - Anatomy, Congenital and Benign Diseases",
+    "to_module": "[487] Breast > Carcinoma Breast - Risk Factors and Types",
+    "question": "Which among the following is not a feature of inflammatory breast cancer?"
+  },
+  {
+    "id": 19601,
+    "old_module_id": 487,
+    "new_module_id": 488,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[487] Breast > Carcinoma Breast - Risk Factors and Types",
+    "to_module": "[488] Breast > Investigations in Breast diseases",
+    "question": "What is the recommended age of woman for annual mammography screening for breast cancer according to American cancer society?"
+  },
+  {
+    "id": 19479,
+    "old_module_id": 487,
+    "new_module_id": 486,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[487] Breast > Carcinoma Breast - Risk Factors and Types",
+    "to_module": "[486] Breast > Breast - Anatomy, Congenital and Benign Diseases",
+    "question": "Which among the following findings is seen in duct ectasia of breast?"
+  },
+  {
+    "id": 19757,
+    "old_module_id": 487,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[487] Breast > Carcinoma Breast - Risk Factors and Types",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "A 40-year-old patient, previously treated for Hodgkin's lymphoma with neck radiation, presents with a right-sided thyroid nodule. FNAC confirms papillary thyroid carcinoma with no "
+  },
+  {
+    "id": 20106,
+    "old_module_id": 489,
+    "new_module_id": 502,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[489] Breast > Carcinoma Breast - Staging, Prognosis & Molecular Types",
+    "to_module": "[502] Lower GI & Hernia Surgery > Rectum",
+    "question": "What is the investigation of choice for evaluation and staging of the rectal cancer?"
+  },
+  {
+    "id": 19698,
+    "old_module_id": 489,
+    "new_module_id": 490,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[489] Breast > Carcinoma Breast - Staging, Prognosis & Molecular Types",
+    "to_module": "[490] Breast > Carcinoma Breast - Treatment",
+    "question": "A 55 years old woman underwent a modified radical mastectomy 3 months back for breast cancer, which was located in the upper outer quadrant of left breast. Now, she developed painl"
+  },
+  {
+    "id": 20107,
+    "old_module_id": 489,
+    "new_module_id": 502,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[489] Breast > Carcinoma Breast - Staging, Prognosis & Molecular Types",
+    "to_module": "[502] Lower GI & Hernia Surgery > Rectum",
+    "question": "What is the TNM staging in a case of rectal cancer where a tumour invades the muscularis propria with metastasis in 2 regional lymph nodes with no distant metastasis?"
+  },
+  {
+    "id": 19664,
+    "old_module_id": 489,
+    "new_module_id": 490,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[489] Breast > Carcinoma Breast - Staging, Prognosis & Molecular Types",
+    "to_module": "[490] Breast > Carcinoma Breast - Treatment",
+    "question": "A 42-year-old woman presents with progressive, non-pitting swelling of her right upper limb, 12 years after undergoing a modified radical mastectomy with axillary clearance and rad"
+  },
+  {
+    "id": 19621,
+    "old_module_id": 489,
+    "new_module_id": 501,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[489] Breast > Carcinoma Breast - Staging, Prognosis & Molecular Types",
+    "to_module": "[501] Lower GI & Hernia Surgery > Polyps and Colorectal Carcinoma",
+    "question": "A 62-year-old man is diagnosed with colorectal cancer. Histopathology reveals that the tumor has invaded the muscularis propria but there is no involvement of lymph nodes or distan"
+  },
+  {
+    "id": 19764,
+    "old_module_id": 491,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[491] Endocrine System > Benign Lesions of Thyroid",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "After a total thyroidectomy under GA, the anesthetist tried to extubate the patient but he was unable to extubate. What is the most probable reason?"
+  },
+  {
+    "id": 19745,
+    "old_module_id": 491,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[491] Endocrine System > Benign Lesions of Thyroid",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "Which type of thyroid cancer is commonly associated with prior radiation exposure and is frequently linked to RET/PTC rearrangements and BRAF mutations?"
+  },
+  {
+    "id": 19753,
+    "old_module_id": 491,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[491] Endocrine System > Benign Lesions of Thyroid",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "A 45-year-old female patient undergoes a routine thyroid examination, during which a palpable thyroid nodule is discovered. Fine-needle aspiration cytology confirms the presence of"
+  },
+  {
+    "id": 19807,
+    "old_module_id": 493,
+    "new_module_id": 494,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[493] Upper GI Surgery > Esophagus - Congenital, Motility & Inflammatory Disorders",
+    "to_module": "[494] Upper GI Surgery > Esophagus - GERD & Carcinoma",
+    "question": "Identify the procedure commonly performed in patients with recurrent gastroesophageal reflux disease (GERD):"
+  },
+  {
+    "id": 19800,
+    "old_module_id": 494,
+    "new_module_id": 493,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[494] Upper GI Surgery > Esophagus - GERD & Carcinoma",
+    "to_module": "[493] Upper GI Surgery > Esophagus - Congenital, Motility & Inflammatory Disorders",
+    "question": "IOC to diagnose the disease?"
+  },
+  {
+    "id": 19801,
+    "old_module_id": 494,
+    "new_module_id": 493,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[494] Upper GI Surgery > Esophagus - GERD & Carcinoma",
+    "to_module": "[493] Upper GI Surgery > Esophagus - Congenital, Motility & Inflammatory Disorders",
+    "question": "A 25 year female patient presents with progressive dysphagia to solids and liquids. Barium swallow was done. What are the investigation needed to confirm your diagnosis?"
+  },
+  {
+    "id": 19857,
+    "old_module_id": 497,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[497] Upper GI Surgery > Metabolic & Bariatric Surgery",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "Which among the following is not the metabolic change in gastric outlet obstruction?"
+  },
+  {
+    "id": 19951,
+    "old_module_id": 498,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "Which among the following statement is false for enterocutaneous fistulas?"
+  },
+  {
+    "id": 19094,
+    "old_module_id": 498,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "Which among the following is not a complication of home parenteral nutrition?"
+  },
+  {
+    "id": 19950,
+    "old_module_id": 498,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "What is the threshold for high output fistula in enterocutaneous fistula?"
+  },
+  {
+    "id": 19282,
+    "old_module_id": 502,
+    "new_module_id": 483,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[502] Lower GI & Hernia Surgery > Rectum",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "Identify the pathology in the given radiograph of a newborn."
+  },
+  {
+    "id": 19685,
+    "old_module_id": 502,
+    "new_module_id": 500,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[502] Lower GI & Hernia Surgery > Rectum",
+    "to_module": "[500] Lower GI & Hernia Surgery > Appendix",
+    "question": "Which of the following is not a poor prognostic factor for pseudomyxoma peritonei?"
+  },
+  {
+    "id": 20249,
+    "old_module_id": 504,
+    "new_module_id": 482,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[482] General Surgery > Instruments & Sutures",
+    "question": "Mayo's repair for umbilical hernia is usually performed for how much centimetre radius of defect?"
+  },
+  {
+    "id": 21250,
+    "old_module_id": 504,
+    "new_module_id": 493,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[493] Upper GI Surgery > Esophagus - Congenital, Motility & Inflammatory Disorders",
+    "question": "Killian dehiscence is in ?"
+  },
+  {
+    "id": 20254,
+    "old_module_id": 504,
+    "new_module_id": 482,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[482] General Surgery > Instruments & Sutures",
+    "question": "What type of material is used in the mesh used in Lichtenstein hernioplasty?"
+  },
+  {
+    "id": 20015,
+    "old_module_id": 504,
+    "new_module_id": 499,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[499] Lower GI & Hernia Surgery > Large Intestine",
+    "question": "The given diaphragm depicts the plain radiograph of large bowel obstruction. What is the probable diagnosis?"
+  },
+  {
+    "id": 20393,
+    "old_module_id": 509,
+    "new_module_id": 508,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[509] Hepato Biliary Surgery > Bile Duct",
+    "to_module": "[508] Hepato Biliary Surgery > Gall Bladder",
+    "question": "Which of the following is the most common side effect of cholecystectomy?"
+  },
+  {
+    "id": 20350,
+    "old_module_id": 509,
+    "new_module_id": 508,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[509] Hepato Biliary Surgery > Bile Duct",
+    "to_module": "[508] Hepato Biliary Surgery > Gall Bladder",
+    "question": "A patient underwent laparoscopic cholecystectomy and was discharged after drain removal on day 1. On day 2, he returned with abdominal pain, tachycardia, fever, and ultrasound show"
+  },
+  {
+    "id": 20358,
+    "old_module_id": 509,
+    "new_module_id": 508,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[509] Hepato Biliary Surgery > Bile Duct",
+    "to_module": "[508] Hepato Biliary Surgery > Gall Bladder",
+    "question": "A patient who underwent laparoscopic cholecystectomy 4 days ago now complains of right upper quadrant (RUQ) pain. An ultrasound shows a 300 ml fluid collection in the abdomen. What"
+  },
+  {
+    "id": 20355,
+    "old_module_id": 509,
+    "new_module_id": 508,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[509] Hepato Biliary Surgery > Bile Duct",
+    "to_module": "[508] Hepato Biliary Surgery > Gall Bladder",
+    "question": "A patient presents with jaundice. Imaging shows dilation of the common hepatic duct due to an impacted stone in the cystic duct compressing the common bile duct. What is the most l"
+  },
+  {
+    "id": 19098,
+    "old_module_id": 512,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[512] Spleen & Pancreatic Surgery > Congenital Anomalies and Acute Pancreatitis",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "A 45-year-old male presents to the emergency department with severe abdominal pain radiating to the back. Laboratory investigations reveal elevated serum amylase and lipase levels."
+  },
+  {
+    "id": 19856,
+    "old_module_id": 514,
+    "new_module_id": 495,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[514] Spleen & Pancreatic Surgery > Carcinoma Pancreas",
+    "to_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "question": "A 60 years old male patient presented to the hospital with gastric outlet obstruction. On evaluation, there was antral gastric carcinoma extending to the head of pancreas with mult"
+  },
+  {
+    "id": 20667,
+    "old_module_id": 518,
+    "new_module_id": 500,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[518] Urology > Prostate",
+    "to_module": "[500] Lower GI & Hernia Surgery > Appendix",
+    "question": "Which of the following is used for prostate cancer?"
+  },
+  {
+    "id": 20778,
+    "old_module_id": 521,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[521] Neurosurgery > Head Injury",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "In a hypotensive patient with a head injury, which of the subsequent fluids should be avoided?"
+  },
+  {
+    "id": 19109,
+    "old_module_id": 521,
+    "new_module_id": 481,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[521] Neurosurgery > Head Injury",
+    "to_module": "[481] General Surgery > Shock and Blood Transfusion",
+    "question": "Optimal ratio for PRC: FFP: PRP for massive transfusion protocol"
+  },
+  {
+    "id": 20943,
+    "old_module_id": 523,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[523] Plastic Surgery > Burns",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "A 20-year-old female presents with complete dysphagia after ingestion of a cleaning agent containing 90% sodium hydroxide. What is the best next step in management?"
+  },
+  {
+    "id": 19228,
+    "old_module_id": 523,
+    "new_module_id": 481,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[523] Plastic Surgery > Burns",
+    "to_module": "[481] General Surgery > Shock and Blood Transfusion",
+    "question": "Which of the following is characteristic of hypovolemic shock?"
+  },
+  {
+    "id": 19913,
+    "old_module_id": 525,
+    "new_module_id": 492,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[525] Plastic Surgery > Reconstructive Surgery",
+    "to_module": "[492] Endocrine System > Thyroid Malignancies",
+    "question": "Which among the following criteria is associated with suggestive of locally advanced thyroid cancer?"
+  },
+  {
+    "id": 21087,
+    "old_module_id": 526,
+    "new_module_id": 480,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[526] Cardiothoracic & Vascular Surgery > Ischemic Arterial Diseases",
+    "to_module": "[480] General Surgery > Fluids, Electrolytes & Nutrition",
+    "question": "Which is the best method to check the correct placement of a central venous catheter in the IJV?"
+  },
+  {
+    "id": 20121,
+    "old_module_id": 483,
+    "new_module_id": 503,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[483] General Surgery > Paediatric Surgery",
+    "to_module": "[503] Lower GI & Hernia Surgery > Anus and Anal Canal",
+    "question": "A patient with grade 4 haemorrhoids underwent surgery. Identify the instrument from the image used during the procedure?"
+  },
+  {
+    "id": 19572,
+    "old_module_id": 489,
+    "new_module_id": 487,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[489] Breast > Carcinoma Breast - Staging, Prognosis & Molecular Types",
+    "to_module": "[487] Breast > Carcinoma Breast - Risk Factors and Types",
+    "question": "A 51-year-old lady presents with complaints of a mass in the right breast. On examination, the mass was larger than 5 cm and ipsilateral mobile axillary lymph nodes were present. W"
+  },
+  {
+    "id": 19271,
+    "old_module_id": 498,
+    "new_module_id": 483,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[498] Lower GI & Hernia Surgery > Small Intestine",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "A 28-year-old primigravida presents in the third trimester with a history of polyhydramnios. Soon after delivery, the neonate develops severe respiratory distress and central cyano"
+  },
+  {
+    "id": 20155,
+    "old_module_id": 504,
+    "new_module_id": 483,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "A baby born with scaphoid abdomen and breathlessness. X-RAY chest is shown below. What is your diagnosis?"
+  },
+  {
+    "id": 20157,
+    "old_module_id": 504,
+    "new_module_id": 483,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "A neonate presents with mild, intermittent upper abdominal pain. On examination, the infant has a scaphoid abdomen with decreased breath sounds bilaterally. The X-ray is given belo"
+  },
+  {
+    "id": 20177,
+    "old_module_id": 504,
+    "new_module_id": 483,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[504] Lower GI & Hernia Surgery > Hernia",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "Identify the Hernia, in 5 years child with intermittent abdominal pain, image shown below?"
+  },
+  {
+    "id": 19287,
+    "old_module_id": 495,
+    "new_module_id": 483,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[495] Upper GI Surgery > Stomach and Duodenum",
+    "to_module": "[483] General Surgery > Paediatric Surgery",
+    "question": "A neonate presents with forceful, non-bilious vomiting after feeds, lethargy, and dehydration. On abdominal examination, visible gastric peristalsis is noted. A barium meal study s"
+  }
+]

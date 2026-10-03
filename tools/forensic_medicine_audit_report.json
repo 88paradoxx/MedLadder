@@ -1,0 +1,982 @@
+[
+  {
+    "id": 10559,
+    "old_module_id": 276,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 31,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "A 46-year-old man who was found dead in his home was taken for a postmortem examination. It revealed clogging of the respiratory tract by semi-digested food particles consisting of"
+  },
+  {
+    "id": 10560,
+    "old_module_id": 276,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 27,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "A 46-year-old man who was found dead in his home was taken for a postmortem examination. It revealed clogging of the respiratory tract by semi-digested food particles consisting of"
+  },
+  {
+    "id": 10199,
+    "old_module_id": 277,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 25,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "A body brought for autopsy was found cold to the touch, with rigor mortis present in all four limbs and livor mortis observed over the back. There were no signs of putrefaction. Wh"
+  },
+  {
+    "id": 10214,
+    "old_module_id": 283,
+    "new_module_id": 276,
+    "currentScore": 2,
+    "bestScore": 20,
+    "from_module": "[283] Asphyxia > Drowning",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "Post-mortem examination of a dead body reveals contraction of the hands with absent primary relaxation. What is this suggestive of?"
+  },
+  {
+    "id": 10518,
+    "old_module_id": 277,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 17,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "A person was brought dead, and an autopsy was performed to find out the cause of death. The following findings were noted on examination. What is the probable cause of death?"
+  },
+  {
+    "id": 10524,
+    "old_module_id": 277,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 17,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "A person was brought dead, and an autopsy was performed to find the cause of death. The following findings were noted on examination. What is the probable cause of death?"
+  },
+  {
+    "id": 10298,
+    "old_module_id": 286,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 17,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "Putrefaction is likely to be delayed in which of the following poisoning cases?"
+  },
+  {
+    "id": 9910,
+    "old_module_id": 272,
+    "new_module_id": 273,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "to_module": "[273] Identification > Race, Sex and Stature Determination",
+    "question": "You are asked to determine the sex of a person from the skeletal remains found on an empty site. Which of the following bones is most accurate for the same?"
+  },
+  {
+    "id": 11038,
+    "old_module_id": 276,
+    "new_module_id": 290,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[290] Toxicology > Inorganic Irritants - Metallic and Non-metallic",
+    "question": "A child is diagnosed with chronic mercury poisoning. Which of the following clinical features is most characteristically associated with this condition?"
+  },
+  {
+    "id": 10344,
+    "old_module_id": 277,
+    "new_module_id": 272,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "question": "A lady comes to the hospital alleging her daughter was raped. The mother says the daughter's age is 18 years, according to epiphyseal fusion?"
+  },
+  {
+    "id": 11026,
+    "old_module_id": 287,
+    "new_module_id": 290,
+    "currentScore": 0,
+    "bestScore": 16,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[290] Toxicology > Inorganic Irritants - Metallic and Non-metallic",
+    "question": "The features present in chronic arsenic poisoning are A. Mees' lines B. Rain drop pigmentation C. Luminous Vomitus D. Peripheral neuropathy E. Bone marrow suppression"
+  },
+  {
+    "id": 10516,
+    "old_module_id": 276,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 15,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "What is the most likely cause of death in a body with a horizontal ligature mark completely encircling the neck and located below the thyroid, with no dribbling of saliva?"
+  },
+  {
+    "id": 10893,
+    "old_module_id": 286,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 15,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A 42-year-old patient, victim of a road traffic accident, presents with an epidural hematoma (EDH) due to rupture of the middle meningeal artery. Where is the likely site of impact"
+  },
+  {
+    "id": 10588,
+    "old_module_id": 277,
+    "new_module_id": 283,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[283] Asphyxia > Drowning",
+    "question": "A 30-year-old fisherman was brought dead. His autopsy findings revealed emphysema aquosum. What is the most probable cause of death?"
+  },
+  {
+    "id": 10397,
+    "old_module_id": 281,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "A person was hit with a heavy blunt object on the head. The hair bulbs were crushed. The injury is depicted below. This injury is known as"
+  },
+  {
+    "id": 10577,
+    "old_module_id": 283,
+    "new_module_id": 280,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[283] Asphyxia > Drowning",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "Hide and die syndrome occurs in:"
+  },
+  {
+    "id": 10905,
+    "old_module_id": 286,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 14,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A 70 year old lady with an alleged history of impact on head following fall on an ice slab presents to the ER after 4 days with symptoms of headache, nausea, excessive sleep and le"
+  },
+  {
+    "id": 10372,
+    "old_module_id": 272,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "Identify the type of injury:"
+  },
+  {
+    "id": 10845,
+    "old_module_id": 286,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 13,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "Lucid interval is seen in"
+  },
+  {
+    "id": 10380,
+    "old_module_id": 272,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "Identify the type of injury:"
+  },
+  {
+    "id": 10406,
+    "old_module_id": 276,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "Identify the type of wound from the image"
+  },
+  {
+    "id": 10509,
+    "old_module_id": 276,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "Anteroposterior compression fracture of the hyoid bone is seen in:"
+  },
+  {
+    "id": 10511,
+    "old_module_id": 277,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "A 26-year-old woman is brought dead to the emergency department. On examination, there are multiple crescentic abrasions over the sides of her neck and lower jaw, along with deep b"
+  },
+  {
+    "id": 10889,
+    "old_module_id": 286,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 12,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "Which vessel is responsible for bleeding in an extradural hemorrhage?"
+  },
+  {
+    "id": 10393,
+    "old_module_id": 281,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "A dead body was found with a neck wound showing clean-cut edges, crushed tissue, and fractured vertebral bones. What is the type of wound?"
+  },
+  {
+    "id": 10512,
+    "old_module_id": 281,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 11,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "The dead body shows characteristic findings (as depicted in the image). What is the most likely cause of death?"
+  },
+  {
+    "id": 10286,
+    "old_module_id": 276,
+    "new_module_id": 280,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "Paradoxical undressing is seen in case of:"
+  },
+  {
+    "id": 10580,
+    "old_module_id": 277,
+    "new_module_id": 283,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[283] Asphyxia > Drowning",
+    "question": "A person was found dead in a swimming pool. On autopsy, his stomach and lungs were filled with water, and there was evidence of mucinous froth at the nose and mouth. What is the mo"
+  },
+  {
+    "id": 10259,
+    "old_module_id": 277,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "You are performing an autopsy on a fetus born dead at 6 months. Which of the following is least likely to be seen in this case?"
+  },
+  {
+    "id": 10377,
+    "old_module_id": 278,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[278] Injuries > Mechanical Injuries",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A 65-year-old woman falls in the bathroom and hurts her head. She regains her consciousness after a few minutes and continues with her daily activities. After 3 hours, she again be"
+  },
+  {
+    "id": 10394,
+    "old_module_id": 281,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "Identify the injury"
+  },
+  {
+    "id": 10457,
+    "old_module_id": 281,
+    "new_module_id": 280,
+    "currentScore": 4,
+    "bestScore": 14,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "In which of the following injuries is the pugilistic attitude of the victim usually seen?"
+  },
+  {
+    "id": 10728,
+    "old_module_id": 286,
+    "new_module_id": 280,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "An elderly woman was found dead during winter in her wardrobe. On house inspection, the heater was found to be broken. She was also identified to be a known case of hypothyroidism."
+  },
+  {
+    "id": 10975,
+    "old_module_id": 287,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "Carbon monoxide poisoning causes"
+  },
+  {
+    "id": 10072,
+    "old_module_id": 289,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 10,
+    "from_module": "[289] Toxicology > Alcohol Poisoning",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "A surgeon returns home from a party after many pegs of alcohol and was called to perform an emergency operation. During the operation, the assisting staff noticed the surgeon's han"
+  },
+  {
+    "id": 10157,
+    "old_module_id": 272,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "Which of the following statements about adipocere formation is correct?"
+  },
+  {
+    "id": 10531,
+    "old_module_id": 276,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "Accidental death by impaction of a bolus of food in the respiratory passage is known as:"
+  },
+  {
+    "id": 10523,
+    "old_module_id": 276,
+    "new_module_id": 282,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "Antero-posterior compression fracture of hyoid bone is seen in"
+  },
+  {
+    "id": 10220,
+    "old_module_id": 276,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "A doctor who is drunk, while performing the surgery, injured a major vessel & death of the patient. This is"
+  },
+  {
+    "id": 10271,
+    "old_module_id": 277,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "A 45-year-old male was found dead in a desert region after being missing for several weeks. On autopsy, the body appeared dry, leathery, and shrunken, with preserved facial feature"
+  },
+  {
+    "id": 10070,
+    "old_module_id": 277,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "When a victim of an unlawful act was dying, the police recorded the dying declaration. The doctor certifies that the victim was conscious and mentally oriented. The dying declarati"
+  },
+  {
+    "id": 10304,
+    "old_module_id": 291,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[291] Toxicology > Organic Irritants - Plant and Animal Poisons",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "Which of the following is false regarding adipocere formation?"
+  },
+  {
+    "id": 9946,
+    "old_module_id": 272,
+    "new_module_id": 273,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "to_module": "[273] Identification > Race, Sex and Stature Determination",
+    "question": "Which bone provides the highest accuracy in determining sex during forensic examination?"
+  },
+  {
+    "id": 10888,
+    "old_module_id": 272,
+    "new_module_id": 280,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "A 35-year-old female is brought to the emergency department after an accidental burn. Upon examination, burns are present on her right upper limb, the entire right lower limb, and "
+  },
+  {
+    "id": 9927,
+    "old_module_id": 272,
+    "new_module_id": 291,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "to_module": "[291] Toxicology > Organic Irritants - Plant and Animal Poisons",
+    "question": "While resting in his field, a farmer suddenly experienced a sharp pain in his leg and noticed a fast-moving creature retreating. Soon after, he became drowsy and was taken to the h"
+  },
+  {
+    "id": 10618,
+    "old_module_id": 275,
+    "new_module_id": 284,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "to_module": "[284] Sexual Offences and Abortion > Sexual Offences and Abortion",
+    "question": "Which of the following is not an indication for Medical Termination of Pregnancy under the MTP Act, 1971?"
+  },
+  {
+    "id": 10039,
+    "old_module_id": 275,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "A 30-year-old male was brought to the emergency department after suspected cyanide poisoning in an industrial accident. The medical team initiates treatment with the standard cyani"
+  },
+  {
+    "id": 10373,
+    "old_module_id": 276,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "A person was stabbed on the anterior thigh and brought to the emergency room, where he died shortly after arrival. The body is sent for post-mortem examination. What is the type of"
+  },
+  {
+    "id": 10976,
+    "old_module_id": 276,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "A deceased individual is found to have a body temperature of 39&deg;C during examination. What is the most likely explanation for this elevated postmortem temperature?"
+  },
+  {
+    "id": 9933,
+    "old_module_id": 276,
+    "new_module_id": 272,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[272] Identification > Skeletal and Dental Age Determination",
+    "question": "Match the following"
+  },
+  {
+    "id": 10149,
+    "old_module_id": 276,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "The term 'Professional Death Sentence' denotes-"
+  },
+  {
+    "id": 10378,
+    "old_module_id": 276,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "Identify the postmortem finding in a patient with a stab wound on the left side of the chest."
+  },
+  {
+    "id": 10208,
+    "old_module_id": 277,
+    "new_module_id": 280,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "An autopsy was done on a burn victim. Which of the following is a reliable indicator that the victim was alive while the fire was in progress?"
+  },
+  {
+    "id": 10213,
+    "old_module_id": 277,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "You notice the given findings on the body on which you have to perform an autopsy. Which test can be used to differentiate this from antemortem bruising?"
+  },
+  {
+    "id": 9998,
+    "old_module_id": 277,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "Who among the following is legally permitted to receive a dying declaration?"
+  },
+  {
+    "id": 10069,
+    "old_module_id": 277,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "A seriously injured villager is brought to the hospital after being assaulted by a group of 4-5 individuals. A dying declaration is being recorded in the hospital. Which of the fol"
+  },
+  {
+    "id": 10215,
+    "old_module_id": 277,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "A patient who was involved in a road traffic accident 20 minutes ago has been brought in for autopsy. Rigidity was observed in the neck, upper, and lower limbs without any initial "
+  },
+  {
+    "id": 10074,
+    "old_module_id": 277,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "A 32-year-old male patient underwent laparotomy for intestinal obstruction. Two days later, he developed high-grade fever and abdominal pain. Imaging revealed a pair of surgical sc"
+  },
+  {
+    "id": 10272,
+    "old_module_id": 277,
+    "new_module_id": 276,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "question": "While performing an autopsy, you notice honeycombing of the liver. What does it signify?"
+  },
+  {
+    "id": 10350,
+    "old_module_id": 277,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A famous boxer suddenly died in a boxing ring and headlines in the paper read that he died of the punch-drunk syndrome. Which of the following would be likely seen on autopsy?"
+  },
+  {
+    "id": 10381,
+    "old_module_id": 277,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "A wound from assault has ragged, irregular margins, tissue bridging, \"swallowtail\" tears at the ends, and crushed underlying structures with minimal bleeding. How is this wound cla"
+  },
+  {
+    "id": 10693,
+    "old_module_id": 277,
+    "new_module_id": 285,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[285] Childhood Violence, Infanticide and Starvation > Childhood Violence, Infanticide and Starvation",
+    "question": "X-ray of a child shows a nobbing fracture. Which of the following is the most likely cause?"
+  },
+  {
+    "id": 10398,
+    "old_module_id": 281,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "The following picture depicts"
+  },
+  {
+    "id": 10629,
+    "old_module_id": 281,
+    "new_module_id": 284,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[284] Sexual Offences and Abortion > Sexual Offences and Abortion",
+    "question": "The vaginal epithelial cells of a victim of rape on the accused can be identified by A. Lugol's iodine test B. Florence test C. Precipitin test D. Toluidine blue test"
+  },
+  {
+    "id": 10269,
+    "old_module_id": 281,
+    "new_module_id": 277,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "question": "Match the following."
+  },
+  {
+    "id": 10456,
+    "old_module_id": 281,
+    "new_module_id": 280,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "In which of the following injuries is the pugilistic attitude of the victim seen?"
+  },
+  {
+    "id": 11024,
+    "old_module_id": 286,
+    "new_module_id": 290,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[290] Toxicology > Inorganic Irritants - Metallic and Non-metallic",
+    "question": "Black foot disease with peripheral neuropathy is seen in which metal poisoning?"
+  },
+  {
+    "id": 10284,
+    "old_module_id": 286,
+    "new_module_id": 290,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[290] Toxicology > Inorganic Irritants - Metallic and Non-metallic",
+    "question": "A patient presents with hair loss, behavioral changes, lateral eyebrow loss, and nail changes. What is the type of poisoning in this case?"
+  },
+  {
+    "id": 10831,
+    "old_module_id": 286,
+    "new_module_id": 275,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "question": "In a civil negligence case against a doctor who bears the onus of proof?"
+  },
+  {
+    "id": 10952,
+    "old_module_id": 286,
+    "new_module_id": 287,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "question": "Which of the following characterises the intermediate syndrome in OP poisoning?"
+  },
+  {
+    "id": 10720,
+    "old_module_id": 286,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A patient died after a car accident and the cause was suspected as diffuse axonal injury. Forensic pathology examination revealed the following finding. After how many hours of inj"
+  },
+  {
+    "id": 10744,
+    "old_module_id": 286,
+    "new_module_id": 281,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "question": "A person has been shot by a full choke shotgun. On examination, the dispersion of pellets is 25 centimetres. The range of firing is most likely to be?"
+  },
+  {
+    "id": 10750,
+    "old_module_id": 286,
+    "new_module_id": 281,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "question": "Which of the following is a smooth-barreled weapon?"
+  },
+  {
+    "id": 10719,
+    "old_module_id": 286,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A 48-year-old man was brought unconscious into the ER after he met with a head-on collision accident. His GCS was 4/15 and CT brain did not reveal any significant haemorrhage. MRI "
+  },
+  {
+    "id": 10739,
+    "old_module_id": 286,
+    "new_module_id": 281,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "question": "Which of the following is a smooth barrel weapon?"
+  },
+  {
+    "id": 10752,
+    "old_module_id": 286,
+    "new_module_id": 281,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "question": "Which of the following weapons is most likely to produce this type of lesion?"
+  },
+  {
+    "id": 11019,
+    "old_module_id": 286,
+    "new_module_id": 290,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[290] Toxicology > Inorganic Irritants - Metallic and Non-metallic",
+    "question": "Blue lines are not seen in poisoning by"
+  },
+  {
+    "id": 10766,
+    "old_module_id": 287,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "Mechanism of cyanide poisoning is by inhibiting:"
+  },
+  {
+    "id": 11027,
+    "old_module_id": 287,
+    "new_module_id": 286,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[286] Toxicology > Poisoning: General Considerations",
+    "question": "Treatment of choice for acute arsenic poisoning is"
+  },
+  {
+    "id": 10776,
+    "old_module_id": 287,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "Which of the following substances are antidotes for cyanide poisoning? 1.Amyl nitrate 2.Sodium nitrate 3.Sodium thiosulphate 4.Benzyl thiocyanate"
+  },
+  {
+    "id": 10782,
+    "old_module_id": 287,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "Mechanism of cyanide poisoning is by inhibiting: NEET 13"
+  },
+  {
+    "id": 10947,
+    "old_module_id": 287,
+    "new_module_id": 286,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[286] Toxicology > Poisoning: General Considerations",
+    "question": "Gastric lavage is contraindicated in which of the following: September 2010"
+  },
+  {
+    "id": 11030,
+    "old_module_id": 287,
+    "new_module_id": 290,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[287] Toxicology > Organophosphorus Poisoning",
+    "to_module": "[290] Toxicology > Inorganic Irritants - Metallic and Non-metallic",
+    "question": "Chronic arsenic poisoning does not cause: NEET 13,15"
+  },
+  {
+    "id": 10685,
+    "old_module_id": 289,
+    "new_module_id": 284,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[289] Toxicology > Alcohol Poisoning",
+    "to_module": "[284] Sexual Offences and Abortion > Sexual Offences and Abortion",
+    "question": "A 5-year-old child with a history of perianal pain is brought to the OPD. On subjecting the specimen from the perianal region to a test, it produces yellow rhombic crystals of sper"
+  },
+  {
+    "id": 10143,
+    "old_module_id": 275,
+    "new_module_id": 289,
+    "currentScore": 1,
+    "bestScore": 8,
+    "from_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "to_module": "[289] Toxicology > Alcohol Poisoning",
+    "question": "An alcoholic patient is brought for medical examination for alleged assault of his neighbour. On examination, abnormal behaviour with irrelevant talk is noted. He has history of ab"
+  },
+  {
+    "id": 10144,
+    "old_module_id": 275,
+    "new_module_id": 289,
+    "currentScore": 1,
+    "bestScore": 8,
+    "from_module": "[275] Medical Jurisprudence > BNS, BNSS, and BSA",
+    "to_module": "[289] Toxicology > Alcohol Poisoning",
+    "question": "An alcoholic patient is brought for medical examination for alleged assault of his neighbour. On examination, abnormal behaviour with irrelevant talk is noted. He has history of ab"
+  },
+  {
+    "id": 10426,
+    "old_module_id": 278,
+    "new_module_id": 279,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[278] Injuries > Mechanical Injuries",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A 65-year-old woman falls in the bathroom and hurts her head. She regains consciousness after a few minutes and continues with her daily activities. After 3 hours, she again become"
+  },
+  {
+    "id": 10241,
+    "old_module_id": 276,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "What is the cause of death in smoke inhalation?"
+  },
+  {
+    "id": 10205,
+    "old_module_id": 276,
+    "new_module_id": 280,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[280] Injuries > Thermal Injuries",
+    "question": "The body of a hiker is found naked on a snow trail. It is hypothesised that he actively undressed just minutes prior to his death. Which of the following statements regarding this "
+  },
+  {
+    "id": 10223,
+    "old_module_id": 276,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "A 40-year-old man is rescued unconscious from the wreckage of a crashed aeroplane. He had been trapped in a confined cabin surrounded by thick smoke for over 10 minutes. On arrival"
+  },
+  {
+    "id": 10281,
+    "old_module_id": 276,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[276] Death, PM Changes > Death and Post-Mortem Changes",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "A person was found dead by his wife in his garage with his car running. Carbon monoxide gas poisoning was confirmed to be the cause of his death. What will be the colour of postmor"
+  },
+  {
+    "id": 10449,
+    "old_module_id": 277,
+    "new_module_id": 279,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[279] Injuries > Regional Injuries",
+    "question": "A victim of a house fire is brought to you for autopsy. On examination, you find an intracranial collection of blood. It is brown and friable, and the adjacent brain tissue shows d"
+  },
+  {
+    "id": 10273,
+    "old_module_id": 277,
+    "new_module_id": 283,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[277] Medico Legal Autopsy > Medico Legal Autopsy",
+    "to_module": "[283] Asphyxia > Drowning",
+    "question": "You notice the given findings on the body on which you have to perform autopsy. Which test can be used to differentiate this from antemortem bruising?"
+  },
+  {
+    "id": 10399,
+    "old_module_id": 281,
+    "new_module_id": 278,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[281] Injuries > Firearm Injuries and Blast Injuries",
+    "to_module": "[278] Injuries > Mechanical Injuries",
+    "question": "A patient has come to the emergency room with a lacerated wound, measuring 4cm x 0.5 cm x bone deep over the scalp. The mechanism of formation of this lacerated wound is"
+  },
+  {
+    "id": 10578,
+    "old_module_id": 283,
+    "new_module_id": 282,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[283] Asphyxia > Drowning",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "Suspended animation can occur in all the following conditions except:"
+  },
+  {
+    "id": 11009,
+    "old_module_id": 286,
+    "new_module_id": 289,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[289] Toxicology > Alcohol Poisoning",
+    "question": "Match the antidote to the poison"
+  },
+  {
+    "id": 10225,
+    "old_module_id": 286,
+    "new_module_id": 288,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[286] Toxicology > Poisoning: General Considerations",
+    "to_module": "[288] Toxicology > Corrosives and Asphyxiants",
+    "question": "In which poisoning is cherry red hypostasis seen on post-mortem examination?"
+  },
+  {
+    "id": 10557,
+    "old_module_id": 283,
+    "new_module_id": 282,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[283] Asphyxia > Drowning",
+    "to_module": "[282] Asphyxia > Mechanical Asphyxia",
+    "question": "A 22 years old female was found dead in her house. The following are the images of the dead body on external and internal examination. What is the cause of death?"
+  }
+]

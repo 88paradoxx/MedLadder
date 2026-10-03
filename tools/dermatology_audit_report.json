@@ -1,0 +1,632 @@
+[
+  {
+    "id": 26094,
+    "old_module_id": 634,
+    "new_module_id": 640,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[640] Allergic Disorders & Dermatitis > Urticaria & Angioedema",
+    "question": "A 17-year-old female with no previous medical history presented with swelling of her lips, face and mouth area. She claims that she had four previous episodes over the past two mon"
+  },
+  {
+    "id": 26013,
+    "old_module_id": 639,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "This kind of skin appearance is seen in:"
+  },
+  {
+    "id": 26481,
+    "old_module_id": 639,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "What is the most likely diagnosis of a 6-year-old with intensely itchy skin lesions as shown below?"
+  },
+  {
+    "id": 26175,
+    "old_module_id": 639,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A patient presented with itchy lesions on the body. A skin biopsy was sent, and the following histopathology result was seen. What is the diagnosis?"
+  },
+  {
+    "id": 26277,
+    "old_module_id": 639,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Immunofluorescent microscopy from a blistering skin lesion is shown below. Histology showed suprabasal blister. What is your diagnosis?"
+  },
+  {
+    "id": 26298,
+    "old_module_id": 639,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A hypertensive patient was started on a medication by his physician. A few weeks later, he developed shallow skin erosions with crust formation. There is no involvement of the scal"
+  },
+  {
+    "id": 26490,
+    "old_module_id": 639,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "What is the most likely diagnosis of a 6-year-old with an intensely itchy skin lesions as shown below?"
+  },
+  {
+    "id": 26199,
+    "old_module_id": 643,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A young patient presented with left knee and right ankle swelling and pain. On examination skin lesions were seen on palm & soles and erythema with pain in the eye. There is h/o bu"
+  },
+  {
+    "id": 26637,
+    "old_module_id": 643,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Total Skin Electron Beam therapy is used for the treatment of -"
+  },
+  {
+    "id": 26076,
+    "old_module_id": 643,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Serpiginous pattern of skin lesion is characteristically seen in ____"
+  },
+  {
+    "id": 26338,
+    "old_module_id": 645,
+    "new_module_id": 648,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[645] Skin Infections & Infestations > Mycobacterial Infections",
+    "to_module": "[648] Skin Infections & Infestations > Fungal and Protozoal Infections",
+    "question": "Which of the following drugs is not antifungal?"
+  },
+  {
+    "id": 26287,
+    "old_module_id": 650,
+    "new_module_id": 655,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[650] Sexually Transmitted Infections > Syphilis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 8-day-old child with history of consanguinity in the parents, the mother reports blisters and peeling off of the skin at the site of handling and pressure. There was a similar hi"
+  },
+  {
+    "id": 25871,
+    "old_module_id": 651,
+    "new_module_id": 655,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[651] Sexually Transmitted Infections > Non Syphilitic Sexually Transmitted Diseases",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "What is the diagnosis in a patient suffering from ulcerative colitis who presents with an ulcer on the anterior leg as shown in the image below?"
+  },
+  {
+    "id": 26391,
+    "old_module_id": 634,
+    "new_module_id": 649,
+    "currentScore": 3,
+    "bestScore": 10,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[649] Skin Infections & Infestations > Arthropod and Parasitic Infections",
+    "question": "A 17-year-old-male presents with a one-week history of localized swelling and redness on his face. He also complains of a mild headache, fatigue, and body aches. He returned five d"
+  },
+  {
+    "id": 26259,
+    "old_module_id": 639,
+    "new_module_id": 640,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[640] Allergic Disorders & Dermatitis > Urticaria & Angioedema",
+    "question": "A patient receiving anti-PD-1 immunotherapy (Nivolumab) presents with pruritus, eczema-like lesions, and urticarial rashes. Histopathological examination shows a subepidermal blist"
+  },
+  {
+    "id": 25896,
+    "old_module_id": 639,
+    "new_module_id": 636,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[636] Adnexa and Appendages > Acne, Rosacea and Others",
+    "question": "Differential diagnosis of Rosacea includes all of the following except:"
+  },
+  {
+    "id": 25905,
+    "old_module_id": 639,
+    "new_module_id": 636,
+    "currentScore": 5,
+    "bestScore": 12,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[636] Adnexa and Appendages > Acne, Rosacea and Others",
+    "question": "Local side effects of topical corticosteroids among the following: 1. Blue discolouration of skin 2. Atrophy 3. Acneiform eruption 4. Hypertrichosis"
+  },
+  {
+    "id": 26046,
+    "old_module_id": 639,
+    "new_module_id": 641,
+    "currentScore": 7,
+    "bestScore": 14,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[641] Allergic Disorders & Dermatitis > Reactive Skin Diseases and Drug Eruptions",
+    "question": "A 35 year old lady with a history of hair dye application presents with the following clinical picture. What is the cause ?"
+  },
+  {
+    "id": 26365,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A patient presents with the following lesion. Skin biopsy from the lesion shows non-caseating granulomas with epithelioid histiocytes and multinucleate giant cells in the superfici"
+  },
+  {
+    "id": 26384,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Diagnostic test used in this asymptomatic skin rash is:"
+  },
+  {
+    "id": 25711,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "All are true about skin except:"
+  },
+  {
+    "id": 25728,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Skin doubling time is__________ weeks"
+  },
+  {
+    "id": 25729,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "All of the following statements are true regarding the skin, except that ____."
+  },
+  {
+    "id": 25730,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Which of the following component in the skin give protection from UV radiation?"
+  },
+  {
+    "id": 25738,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "An 18-year-old male presents to the clinic with a complaint of a white spot on his back. You suspect nevus anemicus and perform skin biopsy. What will be the findings?"
+  },
+  {
+    "id": 25778,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "All of the following are true about skin except ?"
+  },
+  {
+    "id": 25788,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Pre-malignant condition of the skin include all of the following EXCEPT:"
+  },
+  {
+    "id": 25786,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "The skin color in humans is influenced by all except:"
+  },
+  {
+    "id": 25989,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A bullous eruption of skin associated with pregnancy-"
+  },
+  {
+    "id": 26077,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 17-year-old male presents to the clinic due to an intermittent pruritic rash. He has a past medical history of asthma. On physical examination, the rash can be reproduced by draw"
+  },
+  {
+    "id": 26125,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 40-year-old male patient came with history of fever, malaise, skin peeling and painful oral ulcers for past 3 days. On examination, there was extensive skin involved with peeling"
+  },
+  {
+    "id": 25844,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "All are true about Fitzpatrick skin type except :"
+  },
+  {
+    "id": 25777,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "What is the ratio of Type 1 to Type 3 collagen in the adult human skin?"
+  },
+  {
+    "id": 25784,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A neonate presents with a growing skin lesion, as shown in the image provided. The mother reports that the lesion has been increasing in size daily. What is the appropriate managem"
+  },
+  {
+    "id": 26322,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Skin tuberculosis secondary to underlying tubercular osteomyelitis is called"
+  },
+  {
+    "id": 26399,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Most common skin infection in children is:"
+  },
+  {
+    "id": 25981,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 35-year-old male presents to the clinic with skin lesions as shown below. The skin biopsy for histopathology done from one of the chest lesions. What are the appropriate histolog"
+  },
+  {
+    "id": 26633,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Which of the following are premalignant conditions of skin:"
+  },
+  {
+    "id": 26325,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A patient presents with the following lesion. Skin biopsy from the lesion shows non - caseating granulomas with epitheliod histiocytes and multinucleate giant cells in the superfic"
+  },
+  {
+    "id": 26480,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Scabies, an infection of the skin caused by Sarcoptes scabies, is an example of:"
+  },
+  {
+    "id": 26564,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Neurofibromatosis type 1 is a hereditary condition commonly associated with multiple caf&eacute;-au-lait spots on the skin. Which pattern of inheritance is seen in this?"
+  },
+  {
+    "id": 26563,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "An image shows the characteristic skin findings of phrynoderma, described as plugged keratotic papules. Which of the following should be done next?"
+  },
+  {
+    "id": 25727,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 30-year-old patient presents with a scaly, red plaque on the forearm. A skin biopsy is performed, and histology shows keratinocytes connected by numerous desmosomes, as given in "
+  },
+  {
+    "id": 25742,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Which of the following statements about skin structure and embryology are correct? 1. The epidermis can regenerate from the hair bulb and sebaceous glands 2. The stratum corneum is"
+  },
+  {
+    "id": 26630,
+    "old_module_id": 633,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[633] The Skin > Anatomy & Physiology of Skin",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "Cutaneous horn is associated with which of the following skin cancers?"
+  },
+  {
+    "id": 25897,
+    "old_module_id": 634,
+    "new_module_id": 636,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[636] Adnexa and Appendages > Acne, Rosacea and Others",
+    "question": "A 40-year-old woman presents with a 2-year history of erythematous papulopustular lesions on a background of erythema and telangiectasia, as shown below. What is the most likely di"
+  },
+  {
+    "id": 26315,
+    "old_module_id": 634,
+    "new_module_id": 655,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 45-year-old individual presents with coarse, thickened, and deeply grooved skin affecting the forehead, cheeks, and nose, along with complaints of numbness and limb weakness. On "
+  },
+  {
+    "id": 25945,
+    "old_module_id": 639,
+    "new_module_id": 641,
+    "currentScore": 7,
+    "bestScore": 13,
+    "from_module": "[639] Allergic Disorders & Dermatitis > Dermatitis",
+    "to_module": "[641] Allergic Disorders & Dermatitis > Reactive Skin Diseases and Drug Eruptions",
+    "question": "A 35-year-old lady with history of hair dye application presents with the following clinical picture. What is the allergen present in the hair dye"
+  },
+  {
+    "id": 26129,
+    "old_module_id": 643,
+    "new_module_id": 641,
+    "currentScore": 5,
+    "bestScore": 11,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[641] Allergic Disorders & Dermatitis > Reactive Skin Diseases and Drug Eruptions",
+    "question": "A male aged 30 years presents a skin lesion over his body 1 week after taking NSAIDs. What appears to be the most probable diagnosis?"
+  },
+  {
+    "id": 26234,
+    "old_module_id": 655,
+    "new_module_id": 643,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "to_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "question": "Only definitive indication of Systemic steroids in Psoriasis is?"
+  },
+  {
+    "id": 25899,
+    "old_module_id": 655,
+    "new_module_id": 636,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "to_module": "[636] Adnexa and Appendages > Acne, Rosacea and Others",
+    "question": "Which of the following is the most effective treatment for severe nodular acne?"
+  },
+  {
+    "id": 25843,
+    "old_module_id": 634,
+    "new_module_id": 655,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 20-year-old presented with a non-progressive hypopigmented skin lesion that has been present since birth. It shows white accentuation under Wood's lamp examination, and diascopy "
+  },
+  {
+    "id": 26449,
+    "old_module_id": 634,
+    "new_module_id": 655,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A farmer presented with history of swelling of the right lower leg and discharge of white granules from sinuses was noted on examination. Skin biopsy showed gram positive cocci sur"
+  },
+  {
+    "id": 26356,
+    "old_module_id": 634,
+    "new_module_id": 655,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A patient presented with a single skin lesion on arm with loss sensation and ulnar nerve enlargement. Histopathology shown below. What is the diagnosis and antigen test status?"
+  },
+  {
+    "id": 26074,
+    "old_module_id": 634,
+    "new_module_id": 640,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[640] Allergic Disorders & Dermatitis > Urticaria & Angioedema",
+    "question": "Among the following conditions, which one is least likely to present with annular lesions?"
+  },
+  {
+    "id": 25783,
+    "old_module_id": 634,
+    "new_module_id": 655,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[634] Clinical Dermatology > Dermatopathology of Skin Lesions",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A neonate presents with a growing skin lesion, progressively increasing in size as reported by the mother. What is the appropriate management?"
+  },
+  {
+    "id": 26122,
+    "old_module_id": 638,
+    "new_module_id": 641,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[638] Skin Pigmentation > Disorders of Skin Pigmentation",
+    "to_module": "[641] Allergic Disorders & Dermatitis > Reactive Skin Diseases and Drug Eruptions",
+    "question": "27-year-old sexually active male develops an erosive lesion on the glans 2 days after taking a tablet for stomach upset. The lesion healed with hyperpigmentation. The most likely d"
+  },
+  {
+    "id": 26233,
+    "old_module_id": 643,
+    "new_module_id": 655,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 7 months pregnant woman presented with fever, redness and pustules on skin forming lakes of pus, which began from intertriginous areas and now increasing."
+  },
+  {
+    "id": 26240,
+    "old_module_id": 643,
+    "new_module_id": 655,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 7-month pregnant woman presented with fever, redness and pustules on skin forming lakes of pus, which began from intertriginous areas and now increasing."
+  },
+  {
+    "id": 26210,
+    "old_module_id": 643,
+    "new_module_id": 655,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "What is the most likely diagnosis for a child who has a sore throat and is developing skin lesions, as shown in the image?"
+  },
+  {
+    "id": 26209,
+    "old_module_id": 643,
+    "new_module_id": 655,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[643] Papulosquamous Disorders > Psoriasis",
+    "to_module": "[655] Skin in Systemic Disorders > Systemic Diseases and Skin",
+    "question": "A 50-year-old individual presents with red, scaly skin patches along with pain and swelling in a finger joint, which is tender and inflamed on examination. What is the most probabl"
+  },
+  {
+    "id": 26554,
+    "old_module_id": 651,
+    "new_module_id": 650,
+    "currentScore": 6,
+    "bestScore": 11,
+    "from_module": "[651] Sexually Transmitted Infections > Non Syphilitic Sexually Transmitted Diseases",
+    "to_module": "[650] Sexually Transmitted Infections > Syphilis",
+    "question": "A 28 year old sexually active male presents with scanty mucoid discharge from the urethra. Gram stain from the discharge is shown below. The patient is suffering from?"
+  },
+  {
+    "id": 26555,
+    "old_module_id": 651,
+    "new_module_id": 650,
+    "currentScore": 6,
+    "bestScore": 11,
+    "from_module": "[651] Sexually Transmitted Infections > Non Syphilitic Sexually Transmitted Diseases",
+    "to_module": "[650] Sexually Transmitted Infections > Syphilis",
+    "question": "A sexually active patient presents with painful lesions on the penis"
+  }
+]

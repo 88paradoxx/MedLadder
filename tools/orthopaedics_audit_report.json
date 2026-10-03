@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 27596,
+    "old_module_id": 676,
+    "new_module_id": 679,
+    "currentScore": 4,
+    "bestScore": 16,
+    "from_module": "[676] Paediatric Orthopaedics > Congenital Malformations, Perthes Disease and SCFE",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "Deafness in Paget's disease is"
+  },
+  {
+    "id": 26934,
+    "old_module_id": 658,
+    "new_module_id": 674,
+    "currentScore": 6,
+    "bestScore": 17,
+    "from_module": "[658] Fracture and its Complications > Complications of Fracture",
+    "to_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "question": "A 6 year old girl presents with pain, swelling and deformity after falling on an outstretched hand. X Ray reveals supracondylar humerus fracture. All of these modalities can be use"
+  },
+  {
+    "id": 27598,
+    "old_module_id": 677,
+    "new_module_id": 679,
+    "currentScore": 4,
+    "bestScore": 15,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "A physician refers a 44 yr female with clinical diagnosis of hyperparathyroidism after relevant investigation to an orthopedician for complaints of multiple bone pains especially i"
+  },
+  {
+    "id": 26842,
+    "old_module_id": 657,
+    "new_module_id": 660,
+    "currentScore": 4,
+    "bestScore": 14,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A boy falls on the left shoulder joint and presents to the emergency department with shoulder pain. His left elbow is flexed and is supported by the right hand. Which bone might be"
+  },
+  {
+    "id": 27556,
+    "old_module_id": 677,
+    "new_module_id": 678,
+    "currentScore": 2,
+    "bestScore": 12,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "Which of the following is not a treatment option for osteoporosis?"
+  },
+  {
+    "id": 27112,
+    "old_module_id": 681,
+    "new_module_id": 666,
+    "currentScore": 4,
+    "bestScore": 14,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A football player sustains a twisting injury to the ankle and knee during a match. There are no bony injuries detected on examination. The examiner is performing the test shown in "
+  },
+  {
+    "id": 1067,
+    "old_module_id": 657,
+    "new_module_id": 674,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "question": "True about supracondylar fracture of humerus"
+  },
+  {
+    "id": 26684,
+    "old_module_id": 657,
+    "new_module_id": 674,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "question": "An 11 yr old boy presents with grossly displaced SCH fracture and absent pulse or perfusion in the emergency room. Gentle traction for sometime followed by CRIF using pins in the o"
+  },
+  {
+    "id": 26765,
+    "old_module_id": 657,
+    "new_module_id": 674,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "question": "What is the most common complication after successful treatment of a distal femoral physeal fracture?"
+  },
+  {
+    "id": 26850,
+    "old_module_id": 657,
+    "new_module_id": 660,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A 44 yr man fell on outstretched hand while jogging in the park. He had pain, deformity and crepitus over the collar bone. Xray shows displaced midshaft clavicle fracture. Clavicle"
+  },
+  {
+    "id": 26969,
+    "old_module_id": 657,
+    "new_module_id": 674,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "question": "A 6 year old child presents to he casualty with a type III supracondylar fracture of humerus. His radial and ulnar pulses are not palpable. His hand is pink and capillary filling i"
+  },
+  {
+    "id": 27578,
+    "old_module_id": 657,
+    "new_module_id": 678,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "The most common cause of pathological fracture is"
+  },
+  {
+    "id": 27547,
+    "old_module_id": 657,
+    "new_module_id": 678,
+    "currentScore": 2,
+    "bestScore": 11,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "Which of the following statement is incorrect regarding Osteoporosis?"
+  },
+  {
+    "id": 26894,
+    "old_module_id": 657,
+    "new_module_id": 674,
+    "currentScore": 4,
+    "bestScore": 13,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "question": "Identify the fracture."
+  },
+  {
+    "id": 27573,
+    "old_module_id": 657,
+    "new_module_id": 679,
+    "currentScore": 6,
+    "bestScore": 15,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "A 70-year-old man undergoes routine blood work as part of a health check-up. He has no major complaints except for occasional bone pain. He denies weakness or recent fractures. On "
+  },
+  {
+    "id": 26710,
+    "old_module_id": 658,
+    "new_module_id": 674,
+    "currentScore": 6,
+    "bestScore": 15,
+    "from_module": "[658] Fracture and its Complications > Complications of Fracture",
+    "to_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "question": "A 35 yr gentleman sustained a humerus mid-shaft fracture following an RTA. All of these treatment modalities can be used to treat this fracture except:"
+  },
+  {
+    "id": 27571,
+    "old_module_id": 663,
+    "new_module_id": 680,
+    "currentScore": 2,
+    "bestScore": 11,
+    "from_module": "[663] Upper Limb > Regional Conditions of the Upper Limb",
+    "to_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "question": "A 73-year-old lady presents with complaints of long-standing back pain and kyphotic posture of her upper body. The X-ray of her spine looks as follows. Which of the following will "
+  },
+  {
+    "id": 27431,
+    "old_module_id": 674,
+    "new_module_id": 675,
+    "currentScore": 6,
+    "bestScore": 15,
+    "from_module": "[674] Paediatric Orthopaedics > Fractures in Children",
+    "to_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "question": "5 year old child presented with bilateral genu Varun. X-RAY of the child Is given below. What is the most probable diagnosis?"
+  },
+  {
+    "id": 27419,
+    "old_module_id": 675,
+    "new_module_id": 666,
+    "currentScore": 0,
+    "bestScore": 9,
+    "from_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "Which of the following components of the clubfoot deformity should be addressed first when using the Ponsetti method?"
+  },
+  {
+    "id": 27667,
+    "old_module_id": 677,
+    "new_module_id": 680,
+    "currentScore": 3,
+    "bestScore": 12,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "question": "A middle-aged woman presents with severe pain and deformity in hands and fingers. X Rays of hand shows typical pencil-in-cup type of deformity in DIP. Probable diagnosis would be?"
+  },
+  {
+    "id": 27445,
+    "old_module_id": 684,
+    "new_module_id": 676,
+    "currentScore": 1,
+    "bestScore": 10,
+    "from_module": "[684] Advanced Orthopaedics & Management > Trauma Amputations, Prosthetics and Joint Replacement Surgery",
+    "to_module": "[676] Paediatric Orthopaedics > Congenital Malformations, Perthes Disease and SCFE",
+    "question": "A 6-month-old baby presents with a deformity, as shown in the image below. What is the recommended management?"
+  },
+  {
+    "id": 27723,
+    "old_module_id": 657,
+    "new_module_id": 660,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A 60 year old female presents to the emergency room with a history of falling on her right shoulder. She complains of shoulder pain and inability to raise her right arm. Physical e"
+  },
+  {
+    "id": 27102,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 50-year-old male with long-standing type 1 diabetes presents with redness, swelling and crepitus in his foot two weeks after a twisting injury. Elevation of the extremity reduces"
+  },
+  {
+    "id": 27996,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A patient suffers an inversion injury to the ankle during a football match. Which structure is most likely to get injured?"
+  },
+  {
+    "id": 27507,
+    "old_module_id": 657,
+    "new_module_id": 665,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[665] Lower Limb > Fractures of Femur",
+    "question": "An elderly female with history of Colle's fracture is complaining of back ache. Which of the given statement is wrong in relation to treatment of this patient."
+  },
+  {
+    "id": 27421,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "Rocker bottom foot is due to"
+  },
+  {
+    "id": 26823,
+    "old_module_id": 657,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "Weakest portion of shoulder joint capsule is"
+  },
+  {
+    "id": 27145,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 23 year old female slipped from stairs, causing her right foot to go into excessive inversion. She has pain and swelling around the ankle. Which structure is most likely injured?"
+  },
+  {
+    "id": 27948,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "Identify the radiological sign pathognomonic of this foot injury."
+  },
+  {
+    "id": 26762,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 25-year-old man presents to the emergency department following a motorbike accident and is found to have a closed midshaft fracture of the left tibia. Six hours later, he develop"
+  },
+  {
+    "id": 27607,
+    "old_module_id": 658,
+    "new_module_id": 680,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[658] Fracture and its Complications > Complications of Fracture",
+    "to_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "question": "A 35-year-old patient presents with complaints of back pain, stiffness, and recurrent episodes of eye pain with redness. On examination, they are found to have anterior uveitis and"
+  },
+  {
+    "id": 27107,
+    "old_module_id": 667,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "An 18-year-old male sustains a right hip injury after being tackled on the football field. Figure shows his radiograph upon presentation to the emergency room three hours later. On"
+  },
+  {
+    "id": 27477,
+    "old_module_id": 667,
+    "new_module_id": 680,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "question": "A mother brings her 7 yr kid with complaints of low grade fever, pain and swelling in the left hip region for 2-3 days. The left lower limb has a FABER attitude with mild decrease "
+  },
+  {
+    "id": 27581,
+    "old_module_id": 678,
+    "new_module_id": 679,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "35-year-old patient from Bihar presented with generalized bone pain and had excess fluoride intake. He was diagnosed with fluorosis. Fluorosis of bone is commonly associated with w"
+  },
+  {
+    "id": 27610,
+    "old_module_id": 680,
+    "new_module_id": 679,
+    "currentScore": 0,
+    "bestScore": 8,
+    "from_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "26yr old male with backache, morning stiffness and reddening of eyes presented to the OPD. His X-RAY of the spine is given below. Most likely diagnosis for this patient is:"
+  },
+  {
+    "id": 26866,
+    "old_module_id": 680,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A 50 year old female presents with severe pain of the left shoulder for the last 3 days. There is no history of trauma or fever. She has no comorbidities. Her x ray is shown here. "
+  },
+  {
+    "id": 27253,
+    "old_module_id": 681,
+    "new_module_id": 670,
+    "currentScore": 3,
+    "bestScore": 11,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[670] Spine & Pelvis > Spondylolisthesis & IVDP",
+    "question": "Beheaded Scottish dog sign which is diagnostic of spondylolisthesis is seen in which view of xray?"
+  },
+  {
+    "id": 27726,
+    "old_module_id": 681,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A patient presents with weakness of his right shoulder. He develops a deformity as shown in the image when asked to push against a wall. Which nerve is affected here?"
+  },
+  {
+    "id": 27955,
+    "old_module_id": 681,
+    "new_module_id": 666,
+    "currentScore": 4,
+    "bestScore": 12,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "Sudden dorsiflexion of foot may lead to which of the following injuries?"
+  },
+  {
+    "id": 27740,
+    "old_module_id": 681,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "Anterior dislocation of the shoulder is likely to result in the damage of which of the following nerves?"
+  },
+  {
+    "id": 27724,
+    "old_module_id": 681,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "In Anterior dislocation of shoulder, which nerve is commonly affected?"
+  },
+  {
+    "id": 27572,
+    "old_module_id": 682,
+    "new_module_id": 678,
+    "currentScore": 2,
+    "bestScore": 10,
+    "from_module": "[682] Bone Tumors > Benign Tumors Of Bone",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "Which of the following tumors can cause osteomalacia?"
+  },
+  {
+    "id": 27087,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 25-year-old male presents to the emergency department with pain and swelling of the right knee. Radiographs are shown below. What is the most likely diagnosis?"
+  },
+  {
+    "id": 27509,
+    "old_module_id": 657,
+    "new_module_id": 678,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "In comparison of two patient. Patient-1 is 34yr old female with pathological fracture of shaft of femur due to metastasis of breast cancer and patient-2 is 64year old female with p"
+  },
+  {
+    "id": 26946,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 2,
+    "bestScore": 9,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A 33-year-old man sustains blunt trauma to his forearm and presents with the injury seen in Figure. Definitive management of this injury involves the following:"
+  },
+  {
+    "id": 26865,
+    "old_module_id": 657,
+    "new_module_id": 660,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A 10-year-old boy injured his right shoulder playing lacrosse. He denies previous shoulder pain or injury. Radiographs of the shoulder are showing non-displaced pathologic fracture"
+  },
+  {
+    "id": 26914,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 0,
+    "bestScore": 7,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A 4yr child while playing, suddenly pulled back her elbow from nanny's hand and started crying and not allowing anyone to touch the elbow. She is keeping the elbow extended and pro"
+  },
+  {
+    "id": 26953,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 22-year-old football player sustained an injury to left thumb. Radiographic evaluation shows a Bennett fracture at the base of his thumb. Which muscle provides the predominant de"
+  },
+  {
+    "id": 27514,
+    "old_module_id": 658,
+    "new_module_id": 678,
+    "currentScore": 4,
+    "bestScore": 11,
+    "from_module": "[658] Fracture and its Complications > Complications of Fracture",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "A lady with osteoporosis is on prolonged bisphosphonates. She develops pain in her right hip. Next investigation is?"
+  },
+  {
+    "id": 26836,
+    "old_module_id": 680,
+    "new_module_id": 660,
+    "currentScore": 3,
+    "bestScore": 10,
+    "from_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A 55 year old lady who is a known case of diabetes, presents with severe pain and stiffness of the right shoulder for the last 3 months. O/E, there is global restriction of both ac"
+  },
+  {
+    "id": 27800,
+    "old_module_id": 681,
+    "new_module_id": 666,
+    "currentScore": 1,
+    "bestScore": 8,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 40-year-old female presents with chronic left plantar forefoot pain, exacerbated by narrow-toed shoes. She has a history of polyarthropathy. Physical exam demonstrates no palpabl"
+  },
+  {
+    "id": 27435,
+    "old_module_id": 684,
+    "new_module_id": 675,
+    "currentScore": 3,
+    "bestScore": 10,
+    "from_module": "[684] Advanced Orthopaedics & Management > Trauma Amputations, Prosthetics and Joint Replacement Surgery",
+    "to_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "question": "Select the false statement in view of Kite's and Ponseti's method of correction of CTEV:"
+  },
+  {
+    "id": 27434,
+    "old_module_id": 657,
+    "new_module_id": 675,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "question": "In which condition is JESS (Joshi's External Stabilization System) used for?"
+  },
+  {
+    "id": 27332,
+    "old_module_id": 657,
+    "new_module_id": 676,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[676] Paediatric Orthopaedics > Congenital Malformations, Perthes Disease and SCFE",
+    "question": "A 30 yr individual developed discharging sinus after a chronic treatment for a fracture. His x rays shows sequestrum formation due to chronic osteomyelitis. Identify the cause of c"
+  },
+  {
+    "id": 27689,
+    "old_module_id": 657,
+    "new_module_id": 680,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "question": "A 46-year-old male is 2.5 years out from a closed subtalar dislocation treated with reduction and casting. His current radiographs are shown in figure A. An MRI is performed which "
+  },
+  {
+    "id": 27703,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A patient was involved in a RTA and sustained fracture of the humerus following which there is loss of sensation over lateral side of forearm, difficulty in flexion of elbow and su"
+  },
+  {
+    "id": 1229,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A 30-year-old man was injured in a motor vehicle accident and X-rays confirmed a displaced distal radius fracture in his left forearm. Upon examination, the patient exhibits weaken"
+  },
+  {
+    "id": 26900,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 0,
+    "bestScore": 6,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A 4 year boy presents to the OPD with history of sudden onset pain around the left elbow while playing with his elder sibling. O/E, the child is holding the elbow in pronation and "
+  },
+  {
+    "id": 26674,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "An army recruit has pain over both of his feet for the last 3 months since he started training. He has point tenderness and pain in the forefoot which is aggravated by activity. Ho"
+  },
+  {
+    "id": 26728,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 30-year-old marathon runner presents with persistent pain over the dorsum of the foot on weight bearing. What is the most likely diagnosis?"
+  },
+  {
+    "id": 26920,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A 3 year old boy is brought with the history that he had a fight with his older sister, who pulled his hand forcefully to get her favorite toy from him. After this, the boy started"
+  },
+  {
+    "id": 26933,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "8 year old boy comes to trauma centre with swelling and pain in his right forearm after fall while playing, and his radiograph is given below. What would be the suspected mechanism"
+  },
+  {
+    "id": 27091,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 22-year-old man presents to the emergency department with foot pain after landing on his foot improperly while playing basketball last night. His X-ray is shown here. What is the"
+  },
+  {
+    "id": 27090,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "An army recruit with smoking addiction has pain in his right foot for the last 3 months after he started training. He has point tenderness and pain in the forefoot which is aggrava"
+  },
+  {
+    "id": 27106,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 20 years old man presents to the trauma bay after rolling a dune buggy. He is intoxicated, limping, and he describes right foot pain. Where is the injury?"
+  },
+  {
+    "id": 1022,
+    "old_module_id": 657,
+    "new_module_id": 661,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A 15-year-old boy fell from a bicycle and sustained a supracondylar fracture of the humerus. An above-elbow cast was applied. After cast removal, he now complains of weakness and i"
+  },
+  {
+    "id": 27452,
+    "old_module_id": 667,
+    "new_module_id": 676,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[676] Paediatric Orthopaedics > Congenital Malformations, Perthes Disease and SCFE",
+    "question": "Apparent lengthening of the lower limb is seen in which condition?"
+  },
+  {
+    "id": 27418,
+    "old_module_id": 675,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "All are causes of clubfoot at birth except"
+  },
+  {
+    "id": 27444,
+    "old_module_id": 676,
+    "new_module_id": 675,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[676] Paediatric Orthopaedics > Congenital Malformations, Perthes Disease and SCFE",
+    "to_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "question": "Not a feature of Blount's disease is"
+  },
+  {
+    "id": 27076,
+    "old_module_id": 677,
+    "new_module_id": 679,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "Woven bone is found in all of the following except"
+  },
+  {
+    "id": 27872,
+    "old_module_id": 677,
+    "new_module_id": 679,
+    "currentScore": 4,
+    "bestScore": 10,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "A 50-year-old woman reports months of dull bone pain. Skull radiograph is given below. What is the most likely diagnosis?"
+  },
+  {
+    "id": 27621,
+    "old_module_id": 680,
+    "new_module_id": 660,
+    "currentScore": 1,
+    "bestScore": 7,
+    "from_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "Gaenslen's test is used to identify which of the following conditions?"
+  },
+  {
+    "id": 27697,
+    "old_module_id": 680,
+    "new_module_id": 666,
+    "currentScore": 3,
+    "bestScore": 9,
+    "from_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 40-year-old man presents with acute onset pain on his left great toe. X ray of the left foot shows punched out lesions with overhanging margins on the 1st metatarsal head. What i"
+  },
+  {
+    "id": 27741,
+    "old_module_id": 681,
+    "new_module_id": 661,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A 7 year old child sustains injury to his left forearm. His x ray is shown in the image. Which nerve is at risk here?"
+  },
+  {
+    "id": 26907,
+    "old_module_id": 681,
+    "new_module_id": 661,
+    "currentScore": 2,
+    "bestScore": 8,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "A patient presents with decreased sensation over the radial aspect of the forearm, thumb, index and middle finger. There is weakness of Extensor carpi radialis longus. Which nerve "
+  },
+  {
+    "id": 26846,
+    "old_module_id": 657,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "Bankart's lesion involves the avulsion of labrum from which part of the glenoid?"
+  },
+  {
+    "id": 27541,
+    "old_module_id": 657,
+    "new_module_id": 678,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "Regarding bone densitometry, a T-score of -3.5 is defined as which of the following?"
+  },
+  {
+    "id": 27149,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 35 year old man with a history of lifting weights, presents the next day with back pain, right sided radiculopathy, loss of bladder function, loss of sensation of the feet, weakn"
+  },
+  {
+    "id": 27236,
+    "old_module_id": 657,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[657] Fracture and its Complications > Basics of Fracture and its Management",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 65 years old postmenopausal female came with persistent backache not responding to conservative treatment. History of lifting heavy weight 4 months back with progressively increa"
+  },
+  {
+    "id": 26797,
+    "old_module_id": 659,
+    "new_module_id": 660,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[659] Neck > Regional Conditions of Neck",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "Identify the condition shown in the given image."
+  },
+  {
+    "id": 26789,
+    "old_module_id": 663,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[663] Upper Limb > Regional Conditions of the Upper Limb",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A 14-year-old patient comes to the clinic with a visible deformity involving the neck and upper back. On examination, the scapula is found to be elevated and rotated medially, givi"
+  },
+  {
+    "id": 26860,
+    "old_module_id": 663,
+    "new_module_id": 660,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[663] Upper Limb > Regional Conditions of the Upper Limb",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "Match the following splints with their uses:"
+  },
+  {
+    "id": 26859,
+    "old_module_id": 664,
+    "new_module_id": 660,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[664] Lower Limb > Dislocations of the Hip Joint",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "A young volleyball player dislocated his left shoulder anteriorly while playing which was reduced in an emergency. After this he started having recurrent dislocations while doing s"
+  },
+  {
+    "id": 27456,
+    "old_module_id": 664,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[664] Lower Limb > Dislocations of the Hip Joint",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "All of the following are true regarding congenital dislocation of hip except"
+  },
+  {
+    "id": 27415,
+    "old_module_id": 666,
+    "new_module_id": 675,
+    "currentScore": 3,
+    "bestScore": 8,
+    "from_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "to_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "question": "A 7 month old child is brought to the OPD with signs, symptoms and biochemical changes of rickets. Which of the following findings is unlikely to be found in this child?"
+  },
+  {
+    "id": 27252,
+    "old_module_id": 667,
+    "new_module_id": 680,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "question": "An 55 yr old man with chronic lower back pain radiating to both lower limbs consulted an orthopedic surgeon. Xray LS spine lateral which looked as shown. Diagnose the condition."
+  },
+  {
+    "id": 27201,
+    "old_module_id": 667,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A 52-year-old woman presents to her GP with a longstanding history of lower back pain which has suddenly worsened in severity over the past few days. An urgent MRI scan of the lumb"
+  },
+  {
+    "id": 27255,
+    "old_module_id": 667,
+    "new_module_id": 670,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[670] Spine & Pelvis > Spondylolisthesis & IVDP",
+    "question": "A 66-year-old female presents with chronic lower back pain. An oblique lumbar spine X-ray is done and shown below. Based on the radiological findings, which of the following is the"
+  },
+  {
+    "id": 27199,
+    "old_module_id": 667,
+    "new_module_id": 679,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "What is the probable diagnosis for a child brought to the orthopedics OPD with a lower limb deformity and hyperpigmented skin lesions, based on the presented X-ray of her thigh?"
+  },
+  {
+    "id": 27709,
+    "old_module_id": 667,
+    "new_module_id": 666,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[667] Lower Limb > AVN and Regional Conditions of Lower Limb",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "A heavy lifter presents with lower back ache. Identify the nerve compressed in the following disc prolapse?"
+  },
+  {
+    "id": 27591,
+    "old_module_id": 669,
+    "new_module_id": 679,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[669] Spine & Pelvis > Regional Conditions of Spine",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "Which of the following conditions produce the x-ray finding given in the image below?"
+  },
+  {
+    "id": 27913,
+    "old_module_id": 672,
+    "new_module_id": 684,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[672] Bone and Joint Infections > Infections of the Bone",
+    "to_module": "[684] Advanced Orthopaedics & Management > Trauma Amputations, Prosthetics and Joint Replacement Surgery",
+    "question": "Myodesis is contraindicated in amputations done for which condition?"
+  },
+  {
+    "id": 27554,
+    "old_module_id": 672,
+    "new_module_id": 678,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[672] Bone and Joint Infections > Infections of the Bone",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "Maximum change in bone mineral density in hemiplegic patients after 1 year is seen in?"
+  },
+  {
+    "id": 26863,
+    "old_module_id": 676,
+    "new_module_id": 660,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[676] Paediatric Orthopaedics > Congenital Malformations, Perthes Disease and SCFE",
+    "to_module": "[660] Upper Limb > Injuries of Clavicle, Shoulder and Arm",
+    "question": "Sprengel shoulder can be associated with all except"
+  },
+  {
+    "id": 27529,
+    "old_module_id": 677,
+    "new_module_id": 678,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "All of the following are markers of bone formation except:"
+  },
+  {
+    "id": 27669,
+    "old_module_id": 677,
+    "new_module_id": 680,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "question": "A 49 yr old patient presented with severe pain and deformity of the right hip. X Ray showed severe arthritis of right hip and hence he was advised total hip replacement. During the"
+  },
+  {
+    "id": 27433,
+    "old_module_id": 677,
+    "new_module_id": 675,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[677] Metabolic Bone Diseases > Metabolic Bone Diseases in Children",
+    "to_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "question": "A pediatrician referred a 3 yr old malnourished child to an orthopaedician with complaints of lethargy, swollen wrists and following xray. Which radiological finding is not seen in"
+  },
+  {
+    "id": 27559,
+    "old_module_id": 678,
+    "new_module_id": 679,
+    "currentScore": 2,
+    "bestScore": 7,
+    "from_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "to_module": "[679] Metabolic Bone Diseases > Paget's Disease and Hyperparathyroidism",
+    "question": "Which condition causes 'bones, stones, groans, and psychic moans'?"
+  },
+  {
+    "id": 27612,
+    "old_module_id": 680,
+    "new_module_id": 678,
+    "currentScore": 1,
+    "bestScore": 6,
+    "from_module": "[680] Arthritis & Other Joint Disorders > Rheumatoid Arthritis and Osteoarthritis",
+    "to_module": "[678] Metabolic Bone Diseases > Osteoporosis and Osteomalacia",
+    "question": "Which of the following is the earliest radiological sign in Ankylosing Spondylitis (AS)?"
+  },
+  {
+    "id": 27119,
+    "old_module_id": 681,
+    "new_module_id": 666,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[666] Lower Limb > Injuries of Knee, Leg and Foot",
+    "question": "Which of the following is the most common mechanism of meniscus injuries?"
+  },
+  {
+    "id": 26915,
+    "old_module_id": 681,
+    "new_module_id": 661,
+    "currentScore": 4,
+    "bestScore": 9,
+    "from_module": "[681] Nerve Injuries > Nerve Injuries",
+    "to_module": "[661] Upper Limb > Injuries of Elbow and Forearm",
+    "question": "In which of the following injuries, will 3 point bony relation be maintained?"
+  },
+  {
+    "id": 27424,
+    "old_module_id": 684,
+    "new_module_id": 675,
+    "currentScore": 5,
+    "bestScore": 10,
+    "from_module": "[684] Advanced Orthopaedics & Management > Trauma Amputations, Prosthetics and Joint Replacement Surgery",
+    "to_module": "[675] Paediatric Orthopaedics > CTEV, Genu Varum and Valgum",
+    "question": "Identify the surgery shown in the image that is used to treat CTEV."
+  }
+]
