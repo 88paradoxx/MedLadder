@@ -5,7 +5,7 @@
 // Cross-origin traffic (Supabase, Razorpay, Google, CDN) is never intercepted.
 //
 // Bump CACHE_NAME if you ever need to force-drop old caches.
-const CACHE_NAME = 'medladder-curriculum-v20261006';
+const CACHE_NAME = 'medladder-curriculum-v20261006-live';
 const APP_SHELL = ['/', '/app.css', '/quiz-pro.css', '/app.js', '/syllabus.js', '/gtag-init.js', '/analytics-loader.js', '/theme-init.js', '/manifest.json'];
 
 self.addEventListener('install', (event) => {
