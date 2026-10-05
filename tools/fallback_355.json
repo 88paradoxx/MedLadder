@@ -1,0 +1,524 @@
+[
+  {
+    "id": 14007,
+    "qText": "To prevent Neural tube defects in a woman with history of NTD, dose of folic acid to be given to woman is",
+    "ansText": "4 mg",
+    "expl": "FOLIC ACID SUPPLEMENTATION IN PREGNANCY Should be started ideally 3 months prior to pregnancy and continued throughout the pregnancy Folic acid supple"
+  },
+  {
+    "id": 14010,
+    "qText": "What is the probable diagnosis in a 50-year-old man with a history of working in the dye industry, exposure to aniline dyes, and current bladder-related symptoms?",
+    "ansText": "Transitional cell carcinoma",
+    "expl": "Explanation: Given the individual's history of aniline dye exposure, the most likely diagnosis is bladder cancer , specifically transitional cell carc"
+  },
+  {
+    "id": 14014,
+    "qText": "Below is a diagram depicting the natural history of a disease. Which point marks the onset of symptoms?",
+    "ansText": "C",
+    "expl": "Point C marks onset of clinical signs and symptoms. Point A marks the entry of an infectious agent into the host. Point B marks subclinical phase wher"
+  },
+  {
+    "id": 14017,
+    "qText": "A 54-year-old male from Chhattisgarh is having progressive motor paresis and leg stiffness. What history will you enquire for making a diagnosis",
+    "ansText": "Diet history",
+    "expl": "Given the symptoms of progressive motor paresis and leg stiffness, it is important to consider differential diagnoses that may include neurological co"
+  },
+  {
+    "id": 14061,
+    "qText": "HIV positive patient with a CD4 count of <100, among the following he is at risk of developing which infection?",
+    "ansText": "MAC",
+    "expl": "Individuals with HIV/AIDS, particularly those with a CD4 count of less than 100 cells/mm^3, are at increased risk of developing opportunistic infectio"
+  },
+  {
+    "id": 14062,
+    "qText": "Which of the following is/are signs of severe pneumonia i. Convulsions ii. Lethargic or unconscious iii. Fever iv. Not able to drink",
+    "ansText": "i, ii, iv",
+    "expl": "Severe pneumonia is a serious condition that requires urgent medical attention. The signs of severe pneumonia indicate significant respiratory comprom"
+  },
+  {
+    "id": 14085,
+    "qText": "Which anti TB drug causes visual disturbances?",
+    "ansText": "Ethambutol",
+    "expl": "c. Ethambutol: Ethambutol is well known for its potential to cause optic neuritis, which can lead to irreversible visual disturbances, including blurr"
+  },
+  {
+    "id": 14095,
+    "qText": "What is the recommended dosage for zinc supplements in children with diarrhoea?",
+    "ansText": "10 mg zinc for children <6 months of age for 10-14 days",
+    "expl": "Zinc supplementation is an important adjunct therapy for the management of diarrhoea in children, as it helps reduce the duration and severity of diar"
+  },
+  {
+    "id": 14104,
+    "qText": "Out of 11 births in a hospital, 5 babies weighed over 2.5 kg and 5 weighed less than 2.5 kg. What value do 2.5 represent",
+    "ansText": "Median",
+    "expl": "The value 2.5 kg represents the median birth weight in this scenario. Explanation why the other options are not correct: A. Geometric average: The geo"
+  },
+  {
+    "id": 14124,
+    "qText": "Mode is defined as",
+    "ansText": "Most frequent value",
+    "expl": "a. Most frequent value: The mode of a dataset is the value that appears most frequently. In other words, it is the value with the highest frequency or"
+  },
+  {
+    "id": 14135,
+    "qText": "A truly random sample of the general population would be obtained by:",
+    "ansText": "Allocating each individual a unique number and using a computer to randomly generate numbers for selection.",
+    "expl": "Option (d) is the correct answer because using a computer to randomly generate numbers for selection ensures that each individual in the population ha"
+  },
+  {
+    "id": 14155,
+    "qText": "The overall agreement and kappa value are",
+    "ansText": "70% and 0.4 respectively",
+    "expl": "The overall agreement refers to the percentage of agreement between observers, while the kappa value measures the agreement beyond chance. Explanation"
+  },
+  {
+    "id": 14172,
+    "qText": "Highly specific test, when positive, _________________________.",
+    "ansText": "rules in disease",
+    "expl": "Highly specific test, when positive, rules in a disease. Reference: Park&rsquo;s Textbook of Preventive and Social Medicine, 25 th Edition, pg- 153"
+  },
+  {
+    "id": 14667,
+    "qText": "The following statements about breast milk are true except:",
+    "ansText": "The maximum milk output is seen at 12 months",
+    "expl": "Maximum milk output occurs around 3 to 6 months postpartum , not 12 months, as infant demand peaks and the mother&rsquo;s milk supply is well-regulate"
+  },
+  {
+    "id": 14831,
+    "qText": "Zinc deficiency is common in children from developing countries due to all the following except",
+    "ansText": "High incidence of intestinal parasitosis",
+    "expl": "c. High incidence of intestinal parasitosis: This is the correct answer. Intestinal parasitosis, such as infections with parasites like Giardia lambli"
+  },
+  {
+    "id": 14921,
+    "qText": "Which of the following organisms is least likely to be associated with malignancies?",
+    "ansText": "HPV 6 and 11",
+    "expl": "Among the options provided, HPV 6 and 11 (Option C) are least likely to be associated with malignancies. (C) HPV 6 and 11: HPV types 6 and 11 are cons"
+  },
+  {
+    "id": 14933,
+    "qText": "The best index (indices) for concluding that an early detection program for breast cancer truly improves the natural history of the disease, 15 yrs after its initiation would be",
+    "ansText": "Improved long term survival rates for breast cancer patients (adjusted for lead time)",
+    "expl": "Improved long-term survival rates, adjusted for lead time, would indicate a true improvement in the natural history of breast cancer due to early dete"
+  },
+  {
+    "id": 14950,
+    "qText": "Epidermoid carcinoma of hard palate is associated with",
+    "ansText": "Reverse cigar smoking",
+    "expl": "Reverse cigar smoking : Correct. Reverse cigar smoking is a well-established risk factor for epidermoid carcinoma of the hard palate . In this practic"
+  },
+  {
+    "id": 14975,
+    "qText": "Keshan cardiomegaly occur due to deficiency of",
+    "ansText": "Selenium",
+    "expl": "Keshan disease is a cardiomyopathy linked to selenium deficiency , characterized by cardiomegaly (enlarged heart) , heart muscle degeneration, and pot"
+  },
+  {
+    "id": 14999,
+    "qText": "Richest source of cholesterol is:",
+    "ansText": "Egg",
+    "expl": "Eggs , especially the yolk , are the richest source of cholesterol , with a single large egg containing approximately 186 mg of cholesterol, predomina"
+  },
+  {
+    "id": 15004,
+    "qText": "Which among the following is correct regarding triage",
+    "ansText": "Aims to save maximum num of patients",
+    "expl": "Triage is a system used in medical emergencies to prioritize patients based on the severity of their condition and the likelihood of benefiting from m"
+  },
+  {
+    "id": 15012,
+    "qText": "Deficit in weight for height in a three-year-old child indicates",
+    "ansText": "Acute malnutrition",
+    "expl": "a. Acute malnutrition. - Deficit in weight for height in a three-year-old child suggests acute malnutrition. This indicates that the child's weight is"
+  },
+  {
+    "id": 15050,
+    "qText": "Which of the following has highest specific dynamic action",
+    "ansText": "Egg",
+    "expl": "a. Egg: Eggs have the highest specific dynamic action (SDA) among the options listed. Specific dynamic action refers to the increase in metabolic rate"
+  },
+  {
+    "id": 15055,
+    "qText": "All of the following are correct about cash payment for maternity benefit under ESI SCHEME EXCEPT?",
+    "ansText": "Benefit paid are 70% of wages",
+    "expl": "Maternity Benefit Under ESI Scheme: Coverage: Payable to insured women for: Confinement Miscarriage Sickness arising from pregnancy/miscarriage Durati"
+  },
+  {
+    "id": 15058,
+    "qText": "A child with severe dehydration is being treated with intravenous fluids for the past 2 hours. Which of the following will be used as an early indicator for adequate rehydration?",
+    "ansText": "Skin elasticity",
+    "expl": "(A) Skin elasticity: Skin turgor, or elasticity, is a reliable clinical sign used to assess hydration status in children and adults. When a person is "
+  },
+  {
+    "id": 15067,
+    "qText": "If the birth weight is 3kg by the end of 1 year it should become:",
+    "ansText": "9 kg",
+    "expl": "b. 9 kg (Option B): - This is the correct answer. By the end of 1 year, a child's birth weight is expected to triple from the initial weight of 3 kg, "
+  },
+  {
+    "id": 15069,
+    "qText": "Height of a new-born doubles by the age of",
+    "ansText": "4 years",
+    "expl": "4 years (Option C): - This is the correct answer. By the age of 4 years, a child's height usually doubles from the birth height. This is consistent wi"
+  },
+  {
+    "id": 15071,
+    "qText": "A 28 weeks old foetus normally weighs",
+    "ansText": "1000g",
+    "expl": "The correct answer is b. 1000g A 28-week-old foetus typically weighs around 1000 grams (1 kilogram). This weight is an average estimate and can vary s"
+  },
+  {
+    "id": 15073,
+    "qText": "Which nutrient is deficient in breast milk?",
+    "ansText": "Vitamin K",
+    "expl": "Breast milk is generally well-balanced and provides essential nutrients for infant growth and development. However, one notable nutrient that is defic"
+  },
+  {
+    "id": 15087,
+    "qText": "What is exponential growth",
+    "ansText": "Rapid growth in population that leads to misbalance in births and deaths",
+    "expl": "Exponential growth is a concept used to describe the rapid and unchecked increase in the size of a population or quantity over time. Rapid growth in p"
+  },
+  {
+    "id": 15088,
+    "qText": "As compared to cow milk, breast milk contains more:",
+    "ansText": "Lactose",
+    "expl": "Lactose in Breast Milk : Breast milk contains approximately 7g of lactose per 100mL , which is crucial for infant brain development . Lactose serves a"
+  },
+  {
+    "id": 15107,
+    "qText": "The protein efficacy ratio is defined as",
+    "ansText": "The gain in weight of young animals per unit weight of protein consumed",
+    "expl": "a. The gain in weight of young animals per unit weight of protein consumed The protein efficiency ratio (PER) is a measure used to evaluate the qualit"
+  },
+  {
+    "id": 15110,
+    "qText": "One dietary cycle comprises of",
+    "ansText": "7days",
+    "expl": "A dietary cycle refers to the duration over which an individual's dietary intake is observed or analysed. Typically, it is used to assess an individua"
+  },
+  {
+    "id": 15122,
+    "qText": "Term used for babies born as a result of retarded intrauterine foetal growth is",
+    "ansText": "Small for date babies",
+    "expl": "Option C: Small for date babies: Small for gestational age (SGA) or small for date babies are infants who are smaller in size than normal for their ge"
+  },
+  {
+    "id": 15135,
+    "qText": "One of the following is not reported to be a clinical manifestation of Zinc deficiency in children:",
+    "ansText": "Macrocytic anaemia",
+    "expl": "Dwarfism and hypogonadism : Zinc is crucial for growth and reproductive development, so its deficiency can lead to growth retardation and delayed sexu"
+  },
+  {
+    "id": 15141,
+    "qText": "Zinc deficiency leads to all except",
+    "ansText": "Excessive appetite",
+    "expl": "d. Excessive appetite: While some nutrient deficiencies, such as iron deficiency, can lead to an increased appetite (known as polyphagia), zinc defici"
+  },
+  {
+    "id": 15157,
+    "qText": "Which of the following states has the lowest sex ratio in India?",
+    "ansText": "Haryana",
+    "expl": "Sex ratio is typically defined as the number of males per 1000 females in a population. A lower sex ratio indicates a lower number of females relative"
+  },
+  {
+    "id": 15228,
+    "qText": "The following is true about the term new families",
+    "ansText": "Applied to all nuclear families of less than 10 years duration",
+    "expl": "The correct answer is b. Applied to all nuclear families of less than 10 years duration. b. Applied to all nuclear families of less than 10 years dura"
+  },
+  {
+    "id": 15231,
+    "qText": "Polyandrous family is one",
+    "ansText": "One woman marries more than one man",
+    "expl": "Polyandrous Family: Defined as a marriage arrangement where one woman is married to multiple men simultaneously. This practice is less common than pol"
+  },
+  {
+    "id": 15233,
+    "qText": "Which of the following is true about the causative organism of the skin lesion shown in the image?",
+    "ansText": "Belongs to family Togaviridae",
+    "expl": "The image given is that of blueberry muffin rash, seen in rubella. It is also called German measles. The causative organism belongs to family -Togavir"
+  },
+  {
+    "id": 15278,
+    "qText": "A teacher taught steps of hand washing. Students learned and repeated at home. What domain of learning does it fall under",
+    "ansText": "Psychomotor",
+    "expl": "Option A - Psychomotor: Handwashing involves physical actions and skills, such as rubbing hands together with soap and water, rinsing, and drying. Lea"
+  },
+  {
+    "id": 15316,
+    "qText": "Highest amount of saturated fatty acid is seen in:",
+    "ansText": "Palm oil",
+    "expl": "c. Palm oil: Palm oil is a vegetable oil derived from the fruit of oil palm trees. It contains a high proportion of saturated fatty acids, particularl"
+  },
+  {
+    "id": 15322,
+    "qText": "Which of the following has highest glycaemic index",
+    "ansText": "Dextrose",
+    "expl": "Glycaemic index (GI) is a measure of how quickly a carbohydrate-containing food raises blood glucose levels after consumption compared to a reference "
+  },
+  {
+    "id": 15327,
+    "qText": "Paracetamol 500 mg is written on the label. A government analyst found out that it contained only 200 mg of the drug. As per Drugs and cosmetics Act, 1940, this is an example for",
+    "ansText": "Misbranded",
+    "expl": "According to the Drugs and Cosmetics Act, 1940, a drug is considered misbranded if its label is false or misleading in any particular way, including r"
+  },
+  {
+    "id": 15340,
+    "qText": "The highest percentages of poly unsaturated fatty acids are present in",
+    "ansText": "Soya bean oil",
+    "expl": "d. Soybean oil: Soybean oil is known for its high content of polyunsaturated fatty acids, particularly linoleic acid, which is an omega-6 fatty acid. "
+  },
+  {
+    "id": 15341,
+    "qText": "Maslow hierarchy is",
+    "ansText": "Physiological, Safety, Belonging, Esteem, Self-actualization",
+    "expl": "Option D: This option lists the elements in the correct order according to Maslow's hierarchy: Physiological, Safety, Belonging, Esteem, Self-actualiz"
+  },
+  {
+    "id": 15344,
+    "qText": "Sullage consists of",
+    "ansText": "Waste water from kitchen",
+    "expl": "The correct answer is: d. Waste water from kitchen. Sullage refers to wastewater generated from activities within households, particularly from the ki"
+  },
+  {
+    "id": 15347,
+    "qText": "All are saturated fatty acids except",
+    "ansText": "Oleic acid",
+    "expl": "b. Oleic acid: Oleic acid is a monounsaturated fatty acid. Unlike saturated fatty acids, it has one double bond between carbon atoms in the hydrocarbo"
+  },
+  {
+    "id": 15349,
+    "qText": "Decreased level of serum Vitamin B6 is seen in",
+    "ansText": "INH therapy",
+    "expl": "c) INH therapy (Isoniazid therapy): Isoniazid (INH) is an antibiotic used for the treatment of tuberculosis (TB). INH therapy is known to interfere wi"
+  },
+  {
+    "id": 15352,
+    "qText": "How much amount of energy is yielded by one gram of alcohol in the body",
+    "ansText": "7 cal",
+    "expl": "Alcohol provides approximately 7 calories per gram when metabolized in the body. Why the other options are not correct: a. 1 cal: This is incorrect. O"
+  },
+  {
+    "id": 15354,
+    "qText": "Vegans are those who",
+    "ansText": "Neither eat dairy products nor eggs",
+    "expl": "d. Neither eat dairy products nor eggs: Vegans are individuals who follow a plant-based diet and abstain from consuming any animal-derived products, i"
+  },
+  {
+    "id": 15355,
+    "qText": "The highest percentage of polyunsaturated fatty acids (PUFA) is present in:",
+    "ansText": "Safflower oil",
+    "expl": "Safflower Oil: Contains the highest percentage of polyunsaturated fatty acids (PUFA), primarily linoleic acid (omega-6), which can reach 70-80%. Recog"
+  },
+  {
+    "id": 15361,
+    "qText": "Date set globally for the achievement of SDG is",
+    "ansText": "2030",
+    "expl": "The correct answer is c. 2030 The Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015 as part of the 2030 Ag"
+  },
+  {
+    "id": 15362,
+    "qText": "Under NREGA, a household is entitled for how many days of work in a year",
+    "ansText": "100 days",
+    "expl": "The correct answer is b. 100 days Under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), a household is entitled to a minimum of "
+  },
+  {
+    "id": 15366,
+    "qText": "Total cholesterol level = a+b (calorie intake) + c (physical activity) + d(BMI) is an example of",
+    "ansText": "Multiple linear regression",
+    "expl": "Multiple linear regression is a statistical technique used to analyze the relationship between multiple independent variables (predictors) and a singl"
+  },
+  {
+    "id": 15372,
+    "qText": "Kappa greater than _______ is considered to be excellent agreement",
+    "ansText": "0.75",
+    "expl": "A kappa value greater than 0.75 is generally considered to indicate excellent agreement beyond chance. Explanation for why other options are wrong: a."
+  },
+  {
+    "id": 15373,
+    "qText": "ANM is responsible for registration of all pregnancies in her subcentre area. If the expected pregnancies in her area in a year are 100, how many should be registered approximately at any given point of time",
+    "ansText": "25",
+    "expl": "ANM (Auxiliary Nurse Midwife) is responsible for registering all pregnancies in her subcentre area. If the expected pregnancies in her area in a year "
+  },
+  {
+    "id": 15377,
+    "qText": "Potential support ratio is defined as",
+    "ansText": "Number of persons aged 15-65 yrs per one older person aged 65 and above",
+    "expl": "The potential support ratio is a demographic indicator that measures the number of individuals of working age (typically defined as ages 15-65 years) "
+  },
+  {
+    "id": 15412,
+    "qText": "Anthropology has following divisions EXCEPT",
+    "ansText": "Economic Anthropology",
+    "expl": "Economic Anthropology is indeed a subfield that explores how economic systems and practices intersect with cultural and social structures; however, it"
+  },
+  {
+    "id": 15439,
+    "qText": "Linoleic acid is maximum in",
+    "ansText": "Safflower oil",
+    "expl": "Linoleic acid is an omega-6 fatty acid, and safflower oil is known to be one of the richest sources of this essential fatty acid. Why the other option"
+  },
+  {
+    "id": 15441,
+    "qText": "Which of the following explains how well the sources are utilised?",
+    "ansText": "Efficiency",
+    "expl": "The correct answer is a. Efficiency Efficiency (a): Efficiency refers to how well resources (such as time, money, and effort) are utilized to achieve "
+  },
+  {
+    "id": 15445,
+    "qText": "Iron is maximum in",
+    "ansText": "Meat",
+    "expl": "Iron content varies among different foods, and while pistachios (pista) do contain iron, meat, particularly red meat, is one of the richest sources of"
+  },
+  {
+    "id": 15453,
+    "qText": "Eicosapentaenoic acid is richly found in",
+    "ansText": "Fish oil",
+    "expl": "b. Fish oil: Fish oil is one of the richest sources of eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), which are omega-3 fatty acids. EPA "
+  },
+  {
+    "id": 15530,
+    "qText": "Oxidation pond is used in treatment of",
+    "ansText": "Sewage",
+    "expl": "Oxidation Pond : Definition : A shallow, man-made pond designed for the treatment of sewage, where organic matter is decomposed naturally. Microbial A"
+  },
+  {
+    "id": 15553,
+    "qText": "Mosquito decreases as height increases",
+    "ansText": "Negative correlation",
+    "expl": "The statement \"Mosquito decreases as height increases\" suggests an inverse relationship between two variables: height and the presence of mosquitoes. "
+  },
+  {
+    "id": 15557,
+    "qText": "Green colour coding in triage is for",
+    "ansText": "Ambulatory patients",
+    "expl": "In triage systems, colour coding is used to categorize patients based on the severity of their injuries or medical conditions. The green colour code t"
+  },
+  {
+    "id": 15595,
+    "qText": "Ortho-toluidine test is used to determine",
+    "ansText": "Free and combined chlorine in water",
+    "expl": "The correct answer is c. Free and combined chlorine in water. The Ortho-tolidine test is a chemical method used to determine the presence and concentr"
+  },
+  {
+    "id": 15688,
+    "qText": "Propaganda is defined as",
+    "ansText": "Knowledge forced into the minds",
+    "expl": "Propaganda is a form of communication that aims to manipulate or influence people's beliefs, attitudes, or behaviors through biased or misleading info"
+  },
+  {
+    "id": 15724,
+    "qText": "All the statements given below regarding the teenage pregnancies are correct EXCEPT",
+    "ansText": "Management during pregnancy has no impact in reducing the incidence of low birth weight babies",
+    "expl": "Teenage pregnancies are associated with higher risks of low birth weight due to inadequate prenatal care, poor nutrition, and psychosocial factors. Ma"
+  },
+  {
+    "id": 15756,
+    "qText": "Weight of Indian reference man in kg",
+    "ansText": "65",
+    "expl": "The weight of the Indian reference man is typically considered to be around 65 kilograms (kg). This figure is based on various studies and statistical"
+  },
+  {
+    "id": 15842,
+    "qText": "The 'Nirbhaya fund' set up by the Government of India is for",
+    "ansText": "Ensuring the safety of women",
+    "expl": "The correct answer is A. Ensuring the safety of women. Nirbhaya Fund: The Nirbhaya Fund was established by the Government of India in 2013 in response"
+  },
+  {
+    "id": 15852,
+    "qText": "Millenium Summit was held in",
+    "ansText": "New York",
+    "expl": "The correct answer is a. New York The Millennium Summit was held in New York City, United States, from September 6 to 8, 2000. The summit was convened"
+  },
+  {
+    "id": 15917,
+    "qText": "All the following are considered as general principles while designing a table except",
+    "ansText": "Horizontal arrangement more convenient than a vertical arrangement",
+    "expl": "c. Horizontal arrangement more convenient than a vertical arrangement: This statement is incorrect. Both horizontal and vertical arrangements have the"
+  },
+  {
+    "id": 15932,
+    "qText": "Central value of a set of 180 values can be obtained by",
+    "ansText": "2nd quartile",
+    "expl": "The central value of a dataset is often represented by the median, which corresponds to the 2nd quartile. Quartiles divide a dataset into four equal p"
+  },
+  {
+    "id": 15939,
+    "qText": "Which is the best distribution to study the daily admission of head injury patients in a trauma care centre?",
+    "ansText": "Poisson distribution",
+    "expl": "The Poisson distribution is commonly used to model the number of events occurring in a fixed interval of time or space, given a known average rate of "
+  },
+  {
+    "id": 15947,
+    "qText": "The events A and B are mutually exclusive, so",
+    "ansText": "Prob (A or B) = Prob (A) + Prob (B)",
+    "expl": "Mutually exclusive events are events that cannot occur at the same time. Therefore, if event A occurs, event B cannot occur, and vice versa. In this c"
+  },
+  {
+    "id": 15963,
+    "qText": "For a group of n= 250 subjects, 40th percentile would be the following value",
+    "ansText": "100th",
+    "expl": "The 40th percentile of a dataset is the value below which 40% of the data falls. In other words, if you were to arrange the data in ascending order, t"
+  },
+  {
+    "id": 16017,
+    "qText": "A measure of location that divides the distribution in the ration of 3:1 is",
+    "ansText": "Third quartile",
+    "expl": "The third quartile (Q3) is a measure of location that divides the distribution into the ratio of 3:1. It is the value below which 75% of the data fall"
+  },
+  {
+    "id": 16028,
+    "qText": "Which of the following statements is false regarding the 90-90-90 target for HIV AIDS?",
+    "ansText": "90% of all people receiving ART will have CD4 count in normal range by 2020",
+    "expl": "(C) 90% of all people receiving ART will have CD4 count in the normal range by 2020: This statement is false. The third target of the 90-90-90 strateg"
+  },
+  {
+    "id": 16031,
+    "qText": "False regarding Indian reference woman",
+    "ansText": "50 kg weight",
+    "expl": "The false statement regarding the Indian reference woman is option B: \"50 kg weight.\" b. 50 kg weight: This statement is false. While there may be ind"
+  },
+  {
+    "id": 16033,
+    "qText": "Indicator solution in Horrock's Apparatus contains",
+    "ansText": "Starch iodide",
+    "expl": "The correct answer is b. Starch iodide. Horrock's apparatus is used for the determination of chlorine in water. It consists of a burette, a flask, and"
+  },
+  {
+    "id": 16038,
+    "qText": "Burning sole syndrome is seen in deficiency of",
+    "ansText": "Pantothenic acid",
+    "expl": "Burning sole syndrome, also known as burning feet syndrome or hot foot syndrome, is a condition characterized by a sensation of burning or warmth in t"
+  },
+  {
+    "id": 16039,
+    "qText": "An adult pregnant female is termed anaemic if her haemoglobin (venous blood) is",
+    "ansText": "Less than 11 g/dl",
+    "expl": "During pregnancy, physiological changes occur in a woman's body to support the growing foetus, which can affect her haemoglobin levels. Anaemia in pre"
+  },
+  {
+    "id": 16049,
+    "qText": "Most sensitive tool for evaluating iron status of the body is",
+    "ansText": "Serum ferritin",
+    "expl": "Serum ferritin is considered the most sensitive tool for evaluating iron status in the body. Ferritin is a protein that stores iron in the body, and i"
+  },
+  {
+    "id": 16057,
+    "qText": "Moron is one with an IQ of",
+    "ansText": "50-69",
+    "expl": "a.0-24: This range would typically indicate severe intellectual disability or profound mental retardation, rather than the term \"moron.\" Individuals i"
+  },
+  {
+    "id": 16073,
+    "qText": "The comfort zone in which a person can maintain thermal balance in degree Celsius is",
+    "ansText": "25-27",
+    "expl": "The correct answer is b. 25-27&deg;C. The comfort zone refers to the range of environmental temperatures in which a person can maintain thermal balanc"
+  },
+  {
+    "id": 16166,
+    "qText": "Mental retardation term is replaced by",
+    "ansText": "Intellectual disability",
+    "expl": "Option D: \"Intellectual disability\" is the preferred and more respectful term used to describe significant limitations in both intellectual functionin"
+  }
+]

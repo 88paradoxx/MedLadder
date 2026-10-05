@@ -1,0 +1,2473 @@
+{
+  "subject": "Forensic Medicine",
+  "totalQuestions": 1057,
+  "flaggedCount": 411,
+  "moves": [
+    {
+      "id": 9938,
+      "fromModule": 272,
+      "toModule": 217,
+      "reason": "Flame cells (solenocytes) are excretory structures of cestodes/trematodes, belonging to Microbiology (Helminthology - Cestodes & Trematodes)."
+    },
+    {
+      "id": 10571,
+      "fromModule": 282,
+      "toModule": 215,
+      "reason": "Hanging drop motility test for Trichomonas vaginalis belongs to Microbiology (Protozoa)."
+    },
+    {
+      "id": 10673,
+      "fromModule": 284,
+      "toModule": 218,
+      "reason": "Unsegmented barrel-shaped eggs with bipolar plugs of Trichuris trichiura belong to Microbiology (Helminthology - Nematodes)."
+    },
+    {
+      "id": 10935,
+      "fromModule": 286,
+      "toModule": 218,
+      "reason": "Rhabditiform larvae identification (Strongyloides stercoralis) belongs to Microbiology (Helminthology - Nematodes)."
+    },
+    {
+      "id": 10936,
+      "fromModule": 286,
+      "toModule": 218,
+      "reason": "Wuchereria bancrofti life cycle and microfilarial morphology belong to Microbiology (Helminthology - Nematodes)."
+    },
+    {
+      "id": 10938,
+      "fromModule": 286,
+      "toModule": 335,
+      "reason": "Acanthamoeba causing protozoan contact lens keratitis belongs to Ophthalmology (Basics of Cornea and Infectious Keratitis)."
+    },
+    {
+      "id": 10915,
+      "fromModule": 286,
+      "toModule": 175,
+      "reason": "Atherogenicity of oxidized LDL in endothelial injury belongs to Pathology (Atherosclerosis / Vascular Pathology)."
+    },
+    {
+      "id": 10916,
+      "fromModule": 286,
+      "toModule": 132,
+      "reason": "Lines of Zahn in arterial thrombi belong to Pathology (Disorders of Hemodynamics and Hemostasis)."
+    },
+    {
+      "id": 10917,
+      "fromModule": 286,
+      "toModule": 129,
+      "reason": "Döhle bodies in neutrophils during systemic infection belong to Pathology (Acute Inflammation)."
+    },
+    {
+      "id": 10918,
+      "fromModule": 286,
+      "toModule": 129,
+      "reason": "Selectin family cell adhesion molecules in leukocyte rolling belong to Pathology (Acute Inflammation)."
+    },
+    {
+      "id": 10919,
+      "fromModule": 286,
+      "toModule": 131,
+      "reason": "Integrin-mediated cell-matrix adhesions in wound healing belong to Pathology (Tissue Repair)."
+    },
+    {
+      "id": 10920,
+      "fromModule": 286,
+      "toModule": 186,
+      "reason": "Glomus tumor of the subungual glomus body belongs to Pathology (Joints and Soft Tissue Tumors)."
+    },
+    {
+      "id": 10921,
+      "fromModule": 286,
+      "toModule": 265,
+      "reason": "Synergy of salmeterol (LABA) with corticosteroids upregulating beta-2 receptors belongs to Pharmacology (Respiratory System)."
+    },
+    {
+      "id": 10922,
+      "fromModule": 286,
+      "toModule": 260,
+      "reason": "Systemic and local vascular actions of Prostaglandin E2 belong to Pharmacology (NSAIDs / Autacoids)."
+    },
+    {
+      "id": 10667,
+      "fromModule": 284,
+      "toModule": 258,
+      "reason": "Alprostadil (PGE1) intracavernosal therapy for erectile dysfunction belongs to Pharmacology (Androgens and Drugs for Erectile Dysfunction)."
+    },
+    {
+      "id": 10668,
+      "fromModule": 284,
+      "toModule": 259,
+      "reason": "Dinoprost (PGF2alpha) uterotonic pharmacology belongs to Pharmacology (Drugs Acting on Uterus)."
+    },
+    {
+      "id": 10024,
+      "fromModule": 275,
+      "toModule": 363,
+      "reason": "Adult risk groups for Hepatitis B immunization belong to PSM (Principles of Immunization and Vaccination)."
+    },
+    {
+      "id": 10937,
+      "fromModule": 286,
+      "toModule": 357,
+      "reason": "Levels of prevention (secondary prevention via screening and early treatment) belong to PSM (Concepts of Disease and Prevention)."
+    },
+    {
+      "id": 10939,
+      "fromModule": 286,
+      "toModule": 451,
+      "reason": "Management of anemia in chronic renal failure with erythropoietin belongs to Medicine (Chronic Kidney Disease)."
+    },
+    {
+      "id": 10940,
+      "fromModule": 286,
+      "toModule": 680,
+      "reason": "Pharmacotherapy of osteoarthritis belongs to Orthopaedics (Rheumatoid Arthritis and Osteoarthritis)."
+    },
+    {
+      "id": 10941,
+      "fromModule": 286,
+      "toModule": 541,
+      "reason": "Techniques for delivery of aftercoming head of breech (Burns-Marshall, Mauriceau) belong to OB & G (Abnormal Labour)."
+    },
+    {
+      "id": 10942,
+      "fromModule": 286,
+      "toModule": 563,
+      "reason": "Levonorgestrel intrauterine device (LNG-IUD) for menorrhagia belongs to OB & G (Contraception and Sterilization)."
+    },
+    {
+      "id": 10943,
+      "fromModule": 286,
+      "toModule": 563,
+      "reason": "First-line medical management of menorrhagia in reproductive age group belongs to OB & G (Contraception and Sterilization)."
+    },
+    {
+      "id": 10944,
+      "fromModule": 286,
+      "toModule": 563,
+      "reason": "Drugs used in abnormal uterine bleeding / menorrhagia belong to OB & G (Contraception and Sterilization)."
+    },
+    {
+      "id": 10945,
+      "fromModule": 286,
+      "toModule": 656,
+      "reason": "Clinical pathology and features of skin tags (acrochordon) belong to Dermatology (Mixed / Miscellaneous Topics)."
+    },
+    {
+      "id": 9909,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Racial skeletal/dental identification (Carabelli cusps in Caucasians vs shovel incisors in Mongoloids) belongs to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9918,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Ashley's rule of 149 is used for sex determination from the sternum, belonging to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9930,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Features distinguishing female skull from male skull belong to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9931,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Morphological characteristics of male vs female skull belong to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9934,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Photo superimposition of skull and face for personal identification belongs to skeletal identification in Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9935,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Photo superimposition technique for craniofacial identification belongs to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9936,
+      "fromModule": 272,
+      "toModule": 284,
+      "reason": "Barberio's test for spermine detection in seminal fluid stains belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 9937,
+      "fromModule": 272,
+      "toModule": 274,
+      "reason": "DNA fingerprinting sample sources for individual identification belong to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 9939,
+      "fromModule": 272,
+      "toModule": 291,
+      "reason": "Morphological identification of Nigella sativa seeds (used in forensic toxicology differentials with Datura) belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 9940,
+      "fromModule": 272,
+      "toModule": 280,
+      "reason": "Precision estimation of burn surface area using Lund and Browder chart belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 9941,
+      "fromModule": 272,
+      "toModule": 280,
+      "reason": "Miner's cramps (heat cramps caused by salt and water depletion) belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 9942,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Stature estimation from femur length using multiplication factor belongs to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9962,
+      "fromModule": 272,
+      "toModule": 274,
+      "reason": "Cheiloscopy (lip print analysis for identification) belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 9965,
+      "fromModule": 272,
+      "toModule": 273,
+      "reason": "Forensic craniofacial superimposition for identity verification belongs to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 9987,
+      "fromModule": 272,
+      "toModule": 275,
+      "reason": "Emergency surgical treatment without consent under Section 92 IPC / Section 30 BNS belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10156,
+      "fromModule": 272,
+      "toModule": 291,
+      "reason": "Neurotoxic snake envenomation leading to respiratory failure belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10240,
+      "fromModule": 272,
+      "toModule": 276,
+      "reason": "Casper's dictum regarding the relative rate of decomposition in air, water, and soil belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 10480,
+      "fromModule": 272,
+      "toModule": 281,
+      "reason": "Forensic identification of firearm make and model from primary barrel markings belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10778,
+      "fromModule": 272,
+      "toModule": 289,
+      "reason": "Envelope-shaped calcium oxalate dihydrate urinary crystals characteristic of ethylene glycol poisoning belong to Alcohol Poisoning (Module 289)."
+    },
+    {
+      "id": 9948,
+      "fromModule": 273,
+      "toModule": 274,
+      "reason": "Locard's exchange principle, the fundamental cornerstone of trace evidence and contact traces, belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 1921,
+      "fromModule": 274,
+      "toModule": 276,
+      "reason": "Post-mortem muscle contracture and stiffness due to ATP depletion (rigor mortis) belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 9983,
+      "fromModule": 274,
+      "toModule": 275,
+      "reason": "Application of first-hand knowledge rule to common witness in court belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 9986,
+      "fromModule": 274,
+      "toModule": 275,
+      "reason": "Evidentiary admissibility and first-hand knowledge rule for common witness belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10017,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Gestational age limits for legal medical termination of pregnancy belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10018,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "MTP Amendment Act 2021 upper gestational limits belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10019,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Requirements for opinion of two registered medical practitioners under MTP Act belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10020,
+      "fromModule": 275,
+      "toModule": 279,
+      "reason": "Blow-out fracture of orbital floor due to direct facial impact belongs to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10023,
+      "fromModule": 275,
+      "toModule": 291,
+      "reason": "Identification and matching of poisonous Indian snakes (Big Four) belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10030,
+      "fromModule": 275,
+      "toModule": 280,
+      "reason": "Hypothalamic temperature regulation failure in hypothermia belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10033,
+      "fromModule": 275,
+      "toModule": 285,
+      "reason": "Concealment of birth by secret disposal of dead infant body belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10036,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Statutory grounds for medical termination of pregnancy belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10038,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Legal definition and exceptions of rape under Section 63 BNS belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10078,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Exhibitionism as a sexual perversion and offense belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10082,
+      "fromModule": 275,
+      "toModule": 292,
+      "reason": "Legal rules of criminal insanity (Curren's, Durham's, McNaughten) belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10088,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Statutory punishment for rape under Section 64 BNS belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10090,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Medicolegal aspects of necrophilia and sexual perversions belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10098,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Age of criminal responsibility regarding rape capability belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10105,
+      "fromModule": 275,
+      "toModule": 280,
+      "reason": "Assessment of burn surface area in pediatric patients by Lund-Browder chart belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10106,
+      "fromModule": 275,
+      "toModule": 280,
+      "reason": "Calculation of total body surface area burned in a toddler belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10111,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Penal provisions for exhibitionism under Section 296 BNS belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10116,
+      "fromModule": 275,
+      "toModule": 278,
+      "reason": "Fabricated contusion produced using marking nut juice belongs to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10118,
+      "fromModule": 275,
+      "toModule": 292,
+      "reason": "Criminal responsibility and legal sanity standards for mentally ill persons belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10119,
+      "fromModule": 275,
+      "toModule": 292,
+      "reason": "Kleptomania impulse control disorder and criminal responsibility belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10120,
+      "fromModule": 275,
+      "toModule": 291,
+      "reason": "Running amok syndrome in acute cannabis intoxication belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10131,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Offense of assault with intent to outrage modesty of a woman belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10132,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Legal prohibition of disclosing identity of sexual assault victim belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10136,
+      "fromModule": 275,
+      "toModule": 292,
+      "reason": "Criminal responsibility of persons with mental illness belongs to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10309,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Statutory provisions for terminating pregnancy under MTP Act belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10311,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Legal age requirements for consenting to MTP belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10313,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Maximum legal gestational age for abortion under amended MTP Act belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10330,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Consent provisions for MTP in mentally ill females belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10331,
+      "fromModule": 275,
+      "toModule": 292,
+      "reason": "Legal rules of insanity (Curren's, Durham's, McNaughten) belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10619,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Declaration of Oslo on therapeutic abortion belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10620,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Forensic medical management of child victim of sexual assault belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10674,
+      "fromModule": 275,
+      "toModule": 284,
+      "reason": "Statutory age of consent for sexual intercourse belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10219,
+      "fromModule": 276,
+      "toModule": 285,
+      "reason": "Sudden infant death syndrome (SIDS) risk factors belong to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10229,
+      "fromModule": 276,
+      "toModule": 290,
+      "reason": "Phosphorus poisoning (waxy consistency, luminescence, garlic odor) belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10232,
+      "fromModule": 276,
+      "toModule": 291,
+      "reason": "Immediate emergency management and first aid for snakebite belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10233,
+      "fromModule": 276,
+      "toModule": 275,
+      "reason": "Legal concepts of mens rea and criminal liability belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10235,
+      "fromModule": 276,
+      "toModule": 275,
+      "reason": "Declaration of Sydney, Geneva, and modern medical oaths belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10257,
+      "fromModule": 276,
+      "toModule": 285,
+      "reason": "Raygat's test (lung flotation in stillborn vs liveborn infant) belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10260,
+      "fromModule": 276,
+      "toModule": 285,
+      "reason": "Ploucquet's lung weight to body weight test for live birth belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10261,
+      "fromModule": 276,
+      "toModule": 285,
+      "reason": "Physiological time course of complete water and food deprivation belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10263,
+      "fromModule": 276,
+      "toModule": 282,
+      "reason": "Positional asphyxia resulting from custodial prone restraint and hog-tying belongs to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 10270,
+      "fromModule": 276,
+      "toModule": 283,
+      "reason": "Washerwoman's skin maceration from water submersion belongs to Drowning (Module 283)."
+    },
+    {
+      "id": 10282,
+      "fromModule": 276,
+      "toModule": 288,
+      "reason": "Fatal carbon monoxide toxicity from closed-room wood fire smoke belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10283,
+      "fromModule": 276,
+      "toModule": 291,
+      "reason": "Clinical triad of opioid overdose (pinpoint pupils, coma, respiratory depression) belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10285,
+      "fromModule": 276,
+      "toModule": 280,
+      "reason": "Arborescent Lichtenberg figures produced by lightning strikes belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10295,
+      "fromModule": 276,
+      "toModule": 285,
+      "reason": "Breslau's second life test (gastrointestinal floatation in newborn) belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10322,
+      "fromModule": 276,
+      "toModule": 275,
+      "reason": "Magisterial inquest for suspicious death of married woman within 7 years belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10323,
+      "fromModule": 276,
+      "toModule": 275,
+      "reason": "Definition and types of legal inquest into unnatural deaths belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10374,
+      "fromModule": 276,
+      "toModule": 278,
+      "reason": "Differentiation between artificial/fabricated bruise and true contusion belongs to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10376,
+      "fromModule": 276,
+      "toModule": 278,
+      "reason": "Tramline contusion caused by cylindrical blunt weapon belongs to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10379,
+      "fromModule": 276,
+      "toModule": 278,
+      "reason": "Diagnostic characteristics of true mechanical bruises belong to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10447,
+      "fromModule": 276,
+      "toModule": 280,
+      "reason": "Heat stiffening and pugilistic attitude in severe burn deaths belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10533,
+      "fromModule": 276,
+      "toModule": 282,
+      "reason": "Mechanical asphyxia due to gagging and ligature suffocation belongs to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 10553,
+      "fromModule": 276,
+      "toModule": 282,
+      "reason": "Positional asphyxia mechanism in jack-knife posture belongs to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 10680,
+      "fromModule": 276,
+      "toModule": 284,
+      "reason": "Medicolegal protocol for managing minor pregnancy under POCSO belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10695,
+      "fromModule": 276,
+      "toModule": 285,
+      "reason": "Hydrostatic test of fetal lungs for diagnosing live birth belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 11016,
+      "fromModule": 276,
+      "toModule": 289,
+      "reason": "Wernicke-Korsakoff syndrome and thiamine deficiency in chronic alcoholism belong to Alcohol Poisoning (Module 289)."
+    },
+    {
+      "id": 11034,
+      "fromModule": 276,
+      "toModule": 290,
+      "reason": "Black foot disease and peripheral vascular disease from chronic arsenic poisoning belong to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11048,
+      "fromModule": 276,
+      "toModule": 291,
+      "reason": "Strychnine poisoning causing reflex spinal convulsions and opisthotonus belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 2342,
+      "fromModule": 277,
+      "toModule": 288,
+      "reason": "Carbon monoxide poisoning causing decreased arterial oxygen saturation with normal PaO2 belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 2451,
+      "fromModule": 277,
+      "toModule": 288,
+      "reason": "Normal arterial oxygen tension in carbon monoxide poisoning despite carboxyhemoglobinemia belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 9916,
+      "fromModule": 277,
+      "toModule": 272,
+      "reason": "FDI two-digit dental charting system for forensic age and identification belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 9922,
+      "fromModule": 277,
+      "toModule": 272,
+      "reason": "FDI dental notation system for age estimation and forensic identification belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 9980,
+      "fromModule": 277,
+      "toModule": 274,
+      "reason": "Detection of invisible and faded tattoos using ultraviolet light belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10071,
+      "fromModule": 277,
+      "toModule": 284,
+      "reason": "Section 314 IPC criminal liability for causing death during illegal abortion belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10080,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Certificates and documents admissible in court without cross-examination belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10179,
+      "fromModule": 277,
+      "toModule": 284,
+      "reason": "Medicolegal aspects of feigned pregnancy and supposititious child belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10204,
+      "fromModule": 277,
+      "toModule": 280,
+      "reason": "Clinical signs and pathophysiology of accidental hypothermia belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10206,
+      "fromModule": 277,
+      "toModule": 280,
+      "reason": "Carboxyhemoglobin level as conclusive proof of antemortem burns belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10228,
+      "fromModule": 277,
+      "toModule": 276,
+      "reason": "Post-mortem hypostasis color indicating cause of death belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 10269,
+      "fromModule": 277,
+      "toModule": 276,
+      "reason": "Matching early and late postmortem changes (rigor, livor, adipocere) belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 10276,
+      "fromModule": 277,
+      "toModule": 288,
+      "reason": "Cherry-red postmortem hypostasis in locked room carbon monoxide poisoning belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10305,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Types of legal inquests (Coroner's inquest not practiced in India) belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10306,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Mandatory magisterial inquest in police custodial death belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10317,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Statutory indications for magisterial inquest under CrPC/BNSS belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10318,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Legal jurisdiction for magisterial inquests belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10319,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Inquest procedure for unnatural death of married woman within 7 years belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10320,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Authority conducting inquest in custodial death cases belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10321,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Magisterial inquest protocol in suspected dowry death belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10324,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Statutory inquest requirements in dowry deaths within 7 years of marriage belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10328,
+      "fromModule": 277,
+      "toModule": 274,
+      "reason": "Identification of decomposed unidentified body via faded tattoos belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10329,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Legal doctrine of loco parentis in medical emergency consent belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10332,
+      "fromModule": 277,
+      "toModule": 292,
+      "reason": "Legal rules and tests for insanity (Curren's, Durham's, McNaughten) belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10334,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Police inquest authority in fatal road traffic accidents belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10335,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Medical ethics, professional secrecy, and privileged communication belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10337,
+      "fromModule": 277,
+      "toModule": 272,
+      "reason": "Estimation of fetal age using Crown-Rump Length (CRL) belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10340,
+      "fromModule": 277,
+      "toModule": 292,
+      "reason": "McNaughten rules regarding criminal responsibility of the insane belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10341,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Rules governing examination of witnesses (cross-examination, examination-in-chief) belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10342,
+      "fromModule": 277,
+      "toModule": 272,
+      "reason": "Rule of Haase for gestational age estimation from crown-heel length belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10343,
+      "fromModule": 277,
+      "toModule": 291,
+      "reason": "Epidemiology and toxicology of cannabis as the most abused illicit drug belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10345,
+      "fromModule": 277,
+      "toModule": 292,
+      "reason": "American Law Institute (ALI) rule for legal insanity defense belongs to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10348,
+      "fromModule": 277,
+      "toModule": 278,
+      "reason": "Tramline contusion produced by cylindrical blow belongs to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10349,
+      "fromModule": 277,
+      "toModule": 278,
+      "reason": "Stab wound morphology in relation to Langer's cleavage lines belongs to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10351,
+      "fromModule": 277,
+      "toModule": 274,
+      "reason": "Migration of insoluble tattoo pigments to regional lymph nodes belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10353,
+      "fromModule": 277,
+      "toModule": 280,
+      "reason": "Absence of sweating (anhidrosis) in heat stroke hyperthermia belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10354,
+      "fromModule": 277,
+      "toModule": 281,
+      "reason": "Souvenir bullet recovered from body of shooting victim belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10359,
+      "fromModule": 277,
+      "toModule": 284,
+      "reason": "Medicolegal aspects of superfecundation and superfetation belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10362,
+      "fromModule": 277,
+      "toModule": 285,
+      "reason": "Evacuation of meconium as a sign of live birth in neonaticide belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10363,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Legal doctrine of corpus delicti in homicide investigation belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10364,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Doctrine of loco parentis regarding medical consent for minors belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10369,
+      "fromModule": 277,
+      "toModule": 292,
+      "reason": "Testamentary capacity and legal requirements for a sound disposing mind belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10370,
+      "fromModule": 277,
+      "toModule": 285,
+      "reason": "Depletion of mesenteric and omental fat in fatal starvation belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10448,
+      "fromModule": 277,
+      "toModule": 280,
+      "reason": "Soot in respiratory tree and carboxyhemoglobinemia in house fire deaths belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10464,
+      "fromModule": 277,
+      "toModule": 281,
+      "reason": "Close-range gunshot entry wound inverted margins and tattooing belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10470,
+      "fromModule": 277,
+      "toModule": 281,
+      "reason": "Singeing of hair indicating flame effect in close-range firearm discharge belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10497,
+      "fromModule": 277,
+      "toModule": 281,
+      "reason": "Contact gunshot entry wound with muzzle imprint belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10506,
+      "fromModule": 277,
+      "toModule": 282,
+      "reason": "Cerebral hypoxic-ischemic damage to hippocampus in strangulation belongs to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 10507,
+      "fromModule": 277,
+      "toModule": 282,
+      "reason": "Asymmetric facial congestion and open eye in partial hanging belong to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 10581,
+      "fromModule": 277,
+      "toModule": 285,
+      "reason": "Hydrostatic test (docimasia pulmonum) for live birth in neonates belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10621,
+      "fromModule": 277,
+      "toModule": 275,
+      "reason": "Statutory consent requirements for medical examination of minor victims belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10709,
+      "fromModule": 277,
+      "toModule": 285,
+      "reason": "Internal postmortem findings in prolonged fatal starvation belong to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10957,
+      "fromModule": 277,
+      "toModule": 290,
+      "reason": "Occupational white phosphorus poisoning with garlic breath and hepatotoxicity belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10966,
+      "fromModule": 277,
+      "toModule": 291,
+      "reason": "Semecarpus anacardium (marking nut) juice toxicological applications belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11018,
+      "fromModule": 277,
+      "toModule": 282,
+      "reason": "Café coronary syndrome (acute upper airway obstruction by food bolus) belongs to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 11041,
+      "fromModule": 277,
+      "toModule": 290,
+      "reason": "Post-mortem stomach findings and phosphine garlic odor in phosphide poisoning belong to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11091,
+      "fromModule": 277,
+      "toModule": 291,
+      "reason": "Active principles (bhilawanol, semecarpol) of Semecarpus anacardium belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10408,
+      "fromModule": 278,
+      "toModule": 281,
+      "reason": "Triad of abrasion collar, grease collar, and punctate entry in firearm wounds belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10409,
+      "fromModule": 278,
+      "toModule": 281,
+      "reason": "Dirt collar / grease collar from bullet discharge belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10427,
+      "fromModule": 278,
+      "toModule": 281,
+      "reason": "Rat-hole appearance of close-range shotgun entry wound belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10428,
+      "fromModule": 278,
+      "toModule": 281,
+      "reason": "Tangential bullet graze wound characteristics belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10434,
+      "fromModule": 278,
+      "toModule": 281,
+      "reason": "Kennedy phenomenon (surgical alteration of firearm wounds) belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10478,
+      "fromModule": 278,
+      "toModule": 281,
+      "reason": "Secondary blast injuries from flying shrapnel and fragmentation belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10486,
+      "fromModule": 278,
+      "toModule": 281,
+      "reason": "Secondary blast injury punctate trauma from bomb debris belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10724,
+      "fromModule": 278,
+      "toModule": 279,
+      "reason": "Pincer contusions of the lungs due to severe thoracic crush trauma belong to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10449,
+      "fromModule": 279,
+      "toModule": 280,
+      "reason": "Extradural heat hematoma produced by skull thermal exposure in conflagration belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10450,
+      "fromModule": 281,
+      "toModule": 280,
+      "reason": "Hold-on effect in alternating current electrical shock injuries belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10462,
+      "fromModule": 281,
+      "toModule": 280,
+      "reason": "Evaluation of inhalational burns and facial burns in house fire victims belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10465,
+      "fromModule": 281,
+      "toModule": 280,
+      "reason": "Estimation of total body surface area burned using Wallace Rule of Nines belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10498,
+      "fromModule": 281,
+      "toModule": 280,
+      "reason": "Rule of Nines percentage calculation for flame burns belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10500,
+      "fromModule": 281,
+      "toModule": 280,
+      "reason": "Rule of Nines surface area assessment for flame burns belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10532,
+      "fromModule": 281,
+      "toModule": 279,
+      "reason": "Hangman's fracture (bilateral traumatic spondylolisthesis of axis pedicles) belongs to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10544,
+      "fromModule": 281,
+      "toModule": 292,
+      "reason": "Hog-tying as a method of custodial torture and restraint belongs to Mixed / Miscellaneous Topics (Module 292)."
+    },
+    {
+      "id": 10624,
+      "fromModule": 281,
+      "toModule": 284,
+      "reason": "Anatomy and resistance of deep-seated hymen in child sexual abuse belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10625,
+      "fromModule": 281,
+      "toModule": 284,
+      "reason": "Deeply positioned hymen in pediatric rape victims belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10626,
+      "fromModule": 281,
+      "toModule": 292,
+      "reason": "Falanga (bastinado / beating on soles of feet) torture technique belongs to Mixed / Miscellaneous Topics (Module 292)."
+    },
+    {
+      "id": 10628,
+      "fromModule": 281,
+      "toModule": 284,
+      "reason": "Sexual sadism paraphilic disorder belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10696,
+      "fromModule": 281,
+      "toModule": 285,
+      "reason": "Multiple fractures and bucket-handle lesions in battered baby syndrome belong to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10561,
+      "fromModule": 282,
+      "toModule": 281,
+      "reason": "Choking in shotguns (narrowing of distal barrel to regulate pellet dispersion) belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10562,
+      "fromModule": 282,
+      "toModule": 281,
+      "reason": "Ballistics principle of shotgun muzzle choke belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10569,
+      "fromModule": 282,
+      "toModule": 286,
+      "reason": "Bagging technique in volatile solvent and inhalant substance abuse belongs to Poisoning: General Considerations (Module 286)."
+    },
+    {
+      "id": 10677,
+      "fromModule": 282,
+      "toModule": 284,
+      "reason": "Sexual masochism paraphilia belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 11097,
+      "fromModule": 282,
+      "toModule": 291,
+      "reason": "Strychnine-induced extensor spinal spasm (opisthotonus) belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10103,
+      "fromModule": 283,
+      "toModule": 285,
+      "reason": "Infanticidal neonate drowning and maternal neonaticide belong to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10273,
+      "fromModule": 283,
+      "toModule": 276,
+      "reason": "Post-mortem hypostasis (livor mortis) vs contusion belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 10275,
+      "fromModule": 283,
+      "toModule": 276,
+      "reason": "Glove-and-stocking postmortem hypostasis in vertical body suspension belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 10529,
+      "fromModule": 283,
+      "toModule": 282,
+      "reason": "Simon's hemorrhages (intervertebral disc bleeds) in hanging belong to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 10576,
+      "fromModule": 283,
+      "toModule": 281,
+      "reason": "Marshall's triad in blast and explosive trauma belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10587,
+      "fromModule": 283,
+      "toModule": 278,
+      "reason": "Defense wounds sustained during homicide struggle belong to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10592,
+      "fromModule": 283,
+      "toModule": 285,
+      "reason": "Tests differentiating live birth from stillbirth in infanticide belong to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10099,
+      "fromModule": 284,
+      "toModule": 275,
+      "reason": "Statutory powers of police arrest without warrant in cognizable offences belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10216,
+      "fromModule": 284,
+      "toModule": 275,
+      "reason": "Test identification parade (TIP) under Section 54A CrPC / BNSS belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10612,
+      "fromModule": 284,
+      "toModule": 275,
+      "reason": "Principles of law of torts and civil negligence in medical practice belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10630,
+      "fromModule": 284,
+      "toModule": 275,
+      "reason": "Juvenile Justice Board jurisdiction for offenses committed by minors belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10631,
+      "fromModule": 284,
+      "toModule": 275,
+      "reason": "Legal definition of juvenile under Juvenile Justice Act belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10683,
+      "fromModule": 284,
+      "toModule": 275,
+      "reason": "PCPNDT Act 1994 statutory prohibitions and compliance belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10690,
+      "fromModule": 284,
+      "toModule": 274,
+      "reason": "Teichmann's hemin crystal test for forensic bloodstain identification belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10692,
+      "fromModule": 284,
+      "toModule": 274,
+      "reason": "Precipitin test for determining human vs animal origin of bloodstains belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 11020,
+      "fromModule": 284,
+      "toModule": 290,
+      "reason": "Clinical features and absent symptoms in chronic inorganic plumbism belong to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10100,
+      "fromModule": 285,
+      "toModule": 284,
+      "reason": "Statutory penalty for rape under Section 64 BNS belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10102,
+      "fromModule": 285,
+      "toModule": 284,
+      "reason": "Punishment for rape under Bharatiya Nyaya Sanhita Section 64 belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10703,
+      "fromModule": 285,
+      "toModule": 275,
+      "reason": "Medicare Service Persons and Medicare Institutions Act protections belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10704,
+      "fromModule": 285,
+      "toModule": 275,
+      "reason": "Constitutional provisions safeguarding child rights and welfare belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10820,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Crown-Rump Length and lower limb measurements for gestational age estimation belong to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10821,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Primary dentition chronometry and earliest tooth eruption belong to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10822,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Chronological fusion of cranial sutures for age estimation belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10825,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Chronological ossification order of carpal bones (capitate first) belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10826,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Radiological carpal bone ossification timeline for pediatric age determination belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10827,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Wrist radiograph analysis for pediatric skeletal age estimation belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10828,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Last carpal bone to ossify (pisiform) in age determination belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10829,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Total number of primary deciduous milk teeth belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10835,
+      "fromModule": 286,
+      "toModule": 272,
+      "reason": "Haase's rule for gestational fetal age determination belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 10816,
+      "fromModule": 286,
+      "toModule": 273,
+      "reason": "Craniometric and morphological features of Indian male skull belong to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 10817,
+      "fromModule": 286,
+      "toModule": 273,
+      "reason": "Barr bodies and sex chromatin for cytogenetic sex determination belong to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 10818,
+      "fromModule": 286,
+      "toModule": 273,
+      "reason": "Pelvic osteological dimorphism for sex determination belongs to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 10819,
+      "fromModule": 286,
+      "toModule": 273,
+      "reason": "Frontal and parietal bossing in female skull sex determination belong to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 10857,
+      "fromModule": 286,
+      "toModule": 273,
+      "reason": "Dental anthropology and racial odontological variations belong to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 10869,
+      "fromModule": 286,
+      "toModule": 273,
+      "reason": "Female cranial characteristics in sex determination belong to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 10899,
+      "fromModule": 286,
+      "toModule": 273,
+      "reason": "DNA profiling in disputed twin paternity determination belongs to Race, Sex and Stature Determination (Module 273)."
+    },
+    {
+      "id": 10814,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Microscopic hair examination and forensic medullary index belong to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10815,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Cortex morphology in human hair comparison belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10856,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Medullary patterns in human vs animal hair trace evidence belong to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10861,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Phadebas test for amylase detection in forensic saliva stains belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10890,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Serological precipitin test for verifying human origin of skeletal remains belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10891,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Benzidine and Kastle-Meyer screening tests for forensic bloodstains belong to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10923,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Dermatoglyphic minutiae and fingerprint ridge patterns belong to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10933,
+      "fromModule": 286,
+      "toModule": 274,
+      "reason": "Catalytic blood tests utilizing hydrogen peroxide belong to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 10811,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Appellate powers of High Court to enhance sentences belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10812,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Procedural sequence and rights of re-examination of witnesses belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10813,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Res gestae doctrine and evidentiary relevance of eyewitnesses belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10858,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Statutory medical ethics and notification duties in contagious diseases belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10862,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Legal culpability of impulsive actions under criminal law belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10863,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Pecuniary jurisdiction of District Consumer Disputes Redressal Forum belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10864,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Statute of limitations for medical negligence under COPRA belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10865,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Exemption criteria of public vs private healthcare institutions under COPRA belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10867,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Distinction between direct and circumstantial evidence in criminal trial belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10894,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Section 84 IPC / Section 22 BNS criminal defense of mental unsoundness belongs to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10895,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Legal boundaries and permissible questioning in cross-examination belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10898,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Leading questions and their prohibition during examination-in-chief belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10901,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Mental Healthcare Act voluntary inpatient admission timelines belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10907,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Hostile witness declaration and procedure under Indian Evidence Act/BSA belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10910,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Legal definition and penalties for misbranded/substandard drugs under Drugs & Cosmetics Act belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10932,
+      "fromModule": 286,
+      "toModule": 275,
+      "reason": "Food Safety and Standards Act adulterants in spices belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10714,
+      "fromModule": 286,
+      "toModule": 278,
+      "reason": "Classification and morphology of sharp force incised vs lacerated wounds belong to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10715,
+      "fromModule": 286,
+      "toModule": 278,
+      "reason": "Biomechanical resistance of dermal cartilage and bone to knife penetration belongs to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10716,
+      "fromModule": 286,
+      "toModule": 278,
+      "reason": "Impact and deceleration injury patterns in motor vehicle occupants belong to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10887,
+      "fromModule": 286,
+      "toModule": 278,
+      "reason": "Scab color aging and chronometry of healing abrasions belong to Mechanical Injuries (Module 278)."
+    },
+    {
+      "id": 10718,
+      "fromModule": 286,
+      "toModule": 279,
+      "reason": "Pathology and anatomy of extradural hemorrhage from middle meningeal vessels belong to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10721,
+      "fromModule": 286,
+      "toModule": 279,
+      "reason": "Cervical spinal cord transection and dens fractures belong to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10722,
+      "fromModule": 286,
+      "toModule": 279,
+      "reason": "Cervical spine hyperflexion/extension fractures from falls belong to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10723,
+      "fromModule": 286,
+      "toModule": 279,
+      "reason": "Splenic rupture as most commonly injured organ in blunt abdominal trauma belongs to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10725,
+      "fromModule": 286,
+      "toModule": 279,
+      "reason": "Anatomical predilection for hypertensive intracerebral hemorrhage (basal ganglia/putamen) belongs to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10726,
+      "fromModule": 286,
+      "toModule": 279,
+      "reason": "Putaminal and internal capsule intracranial hematoma predilection belongs to Regional Injuries (Module 279)."
+    },
+    {
+      "id": 10727,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Diagnostic hypothermia core body temperature threshold belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10729,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Exertional heat stroke and hyperpyrexia in outdoor workers belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10730,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Dupuytren / Wilson three-stage classification of burns belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10731,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Systemic sepsis as primary cause of late mortality in severe burns belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10732,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Clinical classification and depth determination of thermal burns belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10733,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Curling's acute stress ulcer secondary to severe burn shock belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10735,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Arborescent Lichtenberg figures in lightning electrocution belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10738,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Pathophysiology and clinical stages of heat stroke belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10740,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Vital reaction line of redness distinguishing antemortem from postmortem burns belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10900,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Classic triad of heat stroke (hyperpyrexia, CNS dysfunction, anhidrosis) belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10903,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Differential diagnosis between heat exhaustion and heat hyperpyrexia belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10908,
+      "fromModule": 286,
+      "toModule": 280,
+      "reason": "Rewarming and protocol management of frostbite belong to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10741,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Components of shotgun ammunition (crimp, shot, wads, propellant) belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10742,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Chemical formulation of smokeless nitrocellulose propellant belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10743,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Unburnt gunpowder grains causing tattooing/peppering around entry wounds belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10745,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Identification of firearm entry wound by inverted margins and abrasion collar belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10746,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Expanding, hollow-point, and dum-dum bullets wound ballistics belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10747,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Close-range soot deposition and blackening around firearm entrance wound belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10748,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Analytical detection of gunshot residue (dermal nitrate/paraffin test) belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10749,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Bullet wipe grease and lubricant collar on distant entrance wounds belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10751,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Components and wads of smoothbore shotgun ammunition belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10755,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Bullet wipe grease collar deposition at firearm wound of entrance belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10912,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Pellet dispersion calculation for half-choke shotgun firing range belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10913,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Pellet spread formula for full-choke shotgun range estimation belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10914,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Pellet pattern diameter for cylinder-bore (unchoked) shotgun belongs to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10927,
+      "fromModule": 286,
+      "toModule": 281,
+      "reason": "Ammunition components utilized in smoothbore shotguns belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10756,
+      "fromModule": 286,
+      "toModule": 282,
+      "reason": "Ligature tension required to occlude jugular veins, carotids, and airway belongs to Mechanical Asphyxia (Module 282)."
+    },
+    {
+      "id": 10757,
+      "fromModule": 286,
+      "toModule": 283,
+      "reason": "Subpleural Paltauf's hemorrhages characteristic of wet drowning belong to Drowning (Module 283)."
+    },
+    {
+      "id": 10855,
+      "fromModule": 286,
+      "toModule": 283,
+      "reason": "Deep gasping reflex above water causing atypical immersion drowning belongs to Drowning (Module 283)."
+    },
+    {
+      "id": 10833,
+      "fromModule": 286,
+      "toModule": 284,
+      "reason": "Funnel-shaped anal orifice and effacement of perianal folds in habitual sodomy belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10834,
+      "fromModule": 286,
+      "toModule": 284,
+      "reason": "Lateral buttock traction test for evaluating anal sphincter tone in sodomy belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10842,
+      "fromModule": 286,
+      "toModule": 284,
+      "reason": "Chemical tests for seminal stains (acid phosphatase, Florence, Barberio) belong to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10843,
+      "fromModule": 286,
+      "toModule": 284,
+      "reason": "Acid phosphatase enzymatic concentration in human seminal fluid belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10860,
+      "fromModule": 286,
+      "toModule": 284,
+      "reason": "Time window for detecting motile and non-motile spermatozoa in vaginal swabs belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10904,
+      "fromModule": 286,
+      "toModule": 284,
+      "reason": "Mandatory requirement of two medical opinions for MTP beyond 20 weeks belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10836,
+      "fromModule": 286,
+      "toModule": 285,
+      "reason": "Differentiating cephalohematoma from birth trauma in newborn injuries belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10837,
+      "fromModule": 286,
+      "toModule": 285,
+      "reason": "Caput succedaneum features in neonatal forensic examination belong to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10859,
+      "fromModule": 286,
+      "toModule": 285,
+      "reason": "Radiological indicators of physical child abuse and battered child syndrome belong to Childhood Violence, Infanticide and Starvation (Module 285)."
+    },
+    {
+      "id": 10784,
+      "fromModule": 286,
+      "toModule": 287,
+      "reason": "Contraindication of oxime cholinesterase reactivators in carbamate poisoning belongs to Organophosphorus Poisoning (Module 287)."
+    },
+    {
+      "id": 11051,
+      "fromModule": 286,
+      "toModule": 287,
+      "reason": "Toxicology and cholinergic crisis features of organophosphorus poisoning belong to Organophosphorus Poisoning (Module 287)."
+    },
+    {
+      "id": 10767,
+      "fromModule": 286,
+      "toModule": 288,
+      "reason": "Carboxyhemoglobin blood saturation thresholds and toxic symptoms belong to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10787,
+      "fromModule": 286,
+      "toModule": 288,
+      "reason": "Lee-Jones Prussian blue test for forensic cyanide detection belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10790,
+      "fromModule": 286,
+      "toModule": 288,
+      "reason": "Hydrogen sulfide generation in household detergent suicide belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10928,
+      "fromModule": 286,
+      "toModule": 288,
+      "reason": "First-aid copious water irrigation for corrosive acid splashes belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10973,
+      "fromModule": 286,
+      "toModule": 288,
+      "reason": "Systemic ochronosis and carboluria in chronic carbolic acid (phenol) toxicity belong to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10785,
+      "fromModule": 286,
+      "toModule": 289,
+      "reason": "Fomepizole and ethanol competitive antidotes for ethylene glycol toxicity belong to Alcohol Poisoning (Module 289)."
+    },
+    {
+      "id": 10792,
+      "fromModule": 286,
+      "toModule": 289,
+      "reason": "Ethylene glycol metabolism to calcium oxalate crystals causing acute tubular necrosis belongs to Alcohol Poisoning (Module 289)."
+    },
+    {
+      "id": 10930,
+      "fromModule": 286,
+      "toModule": 289,
+      "reason": "Nephrotoxicity mediated by calcium oxalate crystallization in ethylene glycol poisoning belongs to Alcohol Poisoning (Module 289)."
+    },
+    {
+      "id": 10972,
+      "fromModule": 286,
+      "toModule": 289,
+      "reason": "Urinary envelope calcium oxalate crystal microscopy in ethylene glycol toxicity belongs to Alcohol Poisoning (Module 289)."
+    },
+    {
+      "id": 11014,
+      "fromModule": 286,
+      "toModule": 289,
+      "reason": "Korsakoff's amnestic syndrome in chronic alcohol dependency belongs to Alcohol Poisoning (Module 289)."
+    },
+    {
+      "id": 10775,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Dimercaprol (BAL) heavy metal chelation in arsenic and mercury toxicity belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10783,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Barium carbonate rodenticide causing profound hypokalemic flaccid paralysis belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10786,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Global epidemiology of lead as the most prevalent heavy metal poison belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10794,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Phossy jaw osteonecrosis in chronic industrial white phosphorus exposure belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10795,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Cadmium toxicity causing Itai-Itai osteomalacia and renal fanconi syndrome belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10796,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Barium toxicity triad of cardiac arrhythmias, muscle weakness, and hypokalemia belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10797,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Burtonian gingival line and basophilic stippling in plumbism belong to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10953,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Silver nitrate reduction test on breath for elemental phosphorus toxicity belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10960,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Blackening of silver nitrate paper by phosphine gas from gastric aspirate belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11025,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Chronic white phosphorus poisoning with multiple mandibular sinuses (phossy jaw) belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11027,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Treatment of choice (Dimercaprol/BAL) for acute arsenic poisoning belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11031,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Lead sulfide deposition causing Burtonian line along gums belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11036,
+      "fromModule": 286,
+      "toModule": 290,
+      "reason": "Extensor motor neuropathy (wrist drop) characteristic of chronic lead poisoning belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10291,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Datura fastuosa seed ingestion causing anticholinergic delirium belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10761,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Bipyridyl herbicide (paraquat) pulmonary fibrogenesis belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10771,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Chronic cocaine abuse complications (septal perforation, tactile hallucinations) belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10772,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Anticholinergic toxidrome following Datura consumption belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10773,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Magnan's symptom (cocaine bugs / formication) in cocaine toxicity belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10777,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Barium / rodenticide vs plant poison hypokalemic paralysis belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10780,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Strychnos nux-vomica spinal convulsions with consciousness preserved belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10781,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Opisthotonic spinal hyperextension posture in strychnine poisoning belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10799,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Identification of Russell's viper (Daboia russelii) from venomous morphological markings belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10800,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Common krait neuroparalytic envenomation with respiratory paralysis belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10801,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Elapid snakes (Cobra, Krait) producing neurotoxic envenomation belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10802,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Viperidae envenomation causing consumptive coagulopathy and hemotoxicity belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10803,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Bilateral ptosis and neuromuscular blockade following elapid snakebite belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10804,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Initial loading dose of polyvalent anti-snake venom (ASV) belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10805,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Botanical differentiation of Datura seeds from capsicum seeds belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10806,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Competitive antagonism of inhibitory glycine receptors by strychnine belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10807,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Opisthotonic posturing in Strychnos nux-vomica spinal poisoning belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10808,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Conium maculatum (poison hemlock) causing neuromuscular blockade in execution of Socrates belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10810,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Vasculotoxic and hemotoxic pathophysiology of viper venom belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10878,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Local necrosis and neurotoxic paralysis in elapid envenomation belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10879,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Classification of neurotoxic snakes (Elapidae) belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10880,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Clinical emergency protocol for snakebite victim belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10881,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Immediate hospital management and ASV administration for snake envenomation belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10892,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Anticholinergic toxidrome (tachycardia, dry flushed skin, mydriasis) from Datura stramonium belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10897,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Clinical signs of neuromuscular failure in elapid bite belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10906,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Sympathomimetic features of acute cocaine toxicity belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10929,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Muttering delirium and plucking at bedclothes in Datura poisoning belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10931,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Botanical origin of opium from Papaver somniferum capsule exudate belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10946,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Heroin (diacetylmorphine) as the most commonly abused opioid belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10949,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Severe opioid toxicity pinpoint pupils and coma belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11002,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Anticholinergic toxidrome from Datura seeds ingestion belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11056,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Accidental pediatric ingestion of Datura fruit with anticholinergic syndrome belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11060,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Abrus precatorius (abrin) toxalbumin resembling viperine hemotoxicity belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11065,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Reflex spinal convulsions and hyperacusis in strychnine poisoning belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11066,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Symptomatic control with diazepam in strychnine poisoning belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11068,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Signs of sympathomimetic cocaine intoxication belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11086,
+      "fromModule": 286,
+      "toModule": 291,
+      "reason": "Cardiotoxic collapse from herbal aconite / oleander preparation belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10839,
+      "fromModule": 286,
+      "toModule": 292,
+      "reason": "MERMER (Memory and Evidence Related Rapid Electroencephalographic Response) brain fingerprinting belongs to Mixed / Miscellaneous Topics (Module 292)."
+    },
+    {
+      "id": 10844,
+      "fromModule": 286,
+      "toModule": 292,
+      "reason": "McNaughten rules regarding criminal defense on grounds of insanity belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10846,
+      "fromModule": 286,
+      "toModule": 292,
+      "reason": "Medicolegal IQ criteria defining intellectual disability belong to Mixed / Miscellaneous Topics - Forensic Psychiatry (Module 292)."
+    },
+    {
+      "id": 10847,
+      "fromModule": 286,
+      "toModule": 292,
+      "reason": "Telefono physical torture method targeting tympanic membranes belongs to Mixed / Miscellaneous Topics (Module 292)."
+    },
+    {
+      "id": 10848,
+      "fromModule": 286,
+      "toModule": 292,
+      "reason": "Methods of electrical torture and physical abuse belong to Mixed / Miscellaneous Topics (Module 292)."
+    },
+    {
+      "id": 10849,
+      "fromModule": 286,
+      "toModule": 292,
+      "reason": "High-voltage electric shock torture belongs to Mixed / Miscellaneous Topics (Module 292)."
+    },
+    {
+      "id": 10266,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Arsenic preservation in exhumed decomposed bodies and soil belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10289,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Acute copper sulfate poisoning with acute intravascular hemolysis belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10290,
+      "fromModule": 287,
+      "toModule": 291,
+      "reason": "Nocturnal krait bite with neuroparalytic ptosis in floor sleeper belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10713,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Fatal dose of white/yellow elemental phosphorus belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10759,
+      "fromModule": 287,
+      "toModule": 291,
+      "reason": "Burnt rope odor characteristic of cannabis/marijuana smoke belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10764,
+      "fromModule": 287,
+      "toModule": 291,
+      "reason": "Characteristic burnt rope odor in cannabis intoxication belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10765,
+      "fromModule": 287,
+      "toModule": 288,
+      "reason": "Shoe-polish nitrobenzene odor causing methemoglobinemia belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10768,
+      "fromModule": 287,
+      "toModule": 291,
+      "reason": "Aconitum napellus (sweet poison) clinical manifestations belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10779,
+      "fromModule": 287,
+      "toModule": 286,
+      "reason": "Matching specific poisons with general pharmacological antidotes belongs to Poisoning: General Considerations (Module 286)."
+    },
+    {
+      "id": 10789,
+      "fromModule": 287,
+      "toModule": 288,
+      "reason": "Contents and antidotes of cyanide antidote kit belong to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10798,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Elevated urinary delta-aminolevulinic acid and coproporphyrin in chronic plumbism belong to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10853,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Arsenic detection in charred human bones and cremation ashes belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10955,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Phossy jaw osteonecrosis caused by chronic white phosphorus toxicity belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10956,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Acute hepatic necrosis caused by phosphorus toxicity belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 10977,
+      "fromModule": 287,
+      "toModule": 291,
+      "reason": "Ophitoxaemia (systemic snake envenomation syndrome) belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10979,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Acute arsenic trioxide toxicity with cholera-like gastrointestinal purging belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11023,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Calcium disodium EDTA and dimercaprol for inorganic lead poisoning belong to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11028,
+      "fromModule": 287,
+      "toModule": 288,
+      "reason": "Aniline and nitrobenzene toxicity in dye industry workers belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 11033,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Bluish-green frothy gastric discharge and emesis from copper sulfate ingestion belong to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11039,
+      "fromModule": 287,
+      "toModule": 290,
+      "reason": "Minamata disease caused by chronic methylmercury consumption belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11057,
+      "fromModule": 287,
+      "toModule": 291,
+      "reason": "Physostigmine tertiary amine antidote for central Datura poisoning belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11059,
+      "fromModule": 287,
+      "toModule": 291,
+      "reason": "Pediatric nocturnal scorpion sting / krait bite management belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11100,
+      "fromModule": 287,
+      "toModule": 288,
+      "reason": "Hyperbaric oxygen therapy for severe carbon monoxide poisoning belongs to Corrosives and Asphyxiants (Module 288)."
+    },
+    {
+      "id": 10976,
+      "fromModule": 288,
+      "toModule": 276,
+      "reason": "Postmortem caloricity (elevated core temperature after death) belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 10980,
+      "fromModule": 288,
+      "toModule": 280,
+      "reason": "Crocodile skin burn pattern characteristic of electric current contact belongs to Thermal Injuries (Module 280)."
+    },
+    {
+      "id": 10267,
+      "fromModule": 289,
+      "toModule": 277,
+      "reason": "Saturated saline solution as the routine chemical preservative for postmortem viscera belongs to Medico Legal Autopsy (Module 277)."
+    },
+    {
+      "id": 10476,
+      "fromModule": 289,
+      "toModule": 281,
+      "reason": "Molotov cocktail improvised incendiary weapon mechanisms belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10501,
+      "fromModule": 289,
+      "toModule": 281,
+      "reason": "Forensic identification and ballistics of Molotov cocktails belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 10684,
+      "fromModule": 289,
+      "toModule": 284,
+      "reason": "Simultaneous detection of choline and spermine in seminal stains belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10686,
+      "fromModule": 289,
+      "toModule": 284,
+      "reason": "Barberio's test producing yellow rhombic spermine picrate crystals belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 10981,
+      "fromModule": 289,
+      "toModule": 292,
+      "reason": "Polygraph lie detection and brain mapping in criminal investigation belong to Mixed / Miscellaneous Topics (Module 292)."
+    },
+    {
+      "id": 11000,
+      "fromModule": 289,
+      "toModule": 291,
+      "reason": "Opioid overdose pinpoint pupils and reversal with naloxone belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11009,
+      "fromModule": 289,
+      "toModule": 286,
+      "reason": "Matching specific toxicological antidotes (deferoxamine, NAC, penicillamine) belongs to Poisoning: General Considerations (Module 286)."
+    },
+    {
+      "id": 11012,
+      "fromModule": 289,
+      "toModule": 291,
+      "reason": "Formication and Magnan's tactile hallucinations from cocaine abuse belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11042,
+      "fromModule": 290,
+      "toModule": 281,
+      "reason": "Evidence preservation and packaging of recovered crime scene bullets belong to Firearm Injuries and Blast Injuries (Module 281)."
+    },
+    {
+      "id": 11092,
+      "fromModule": 290,
+      "toModule": 291,
+      "reason": "Effects of plant alkaloids and poisons (opioids, croton oil, strychnine) belong to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 11095,
+      "fromModule": 290,
+      "toModule": 291,
+      "reason": "Classification of plant toxins (atropine, colchicine, curare) belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+    },
+    {
+      "id": 10046,
+      "fromModule": 291,
+      "toModule": 275,
+      "reason": "Transplantation of Human Organs Act (THOA) 1994 penal sanctions belong to BNS, BNSS, and BSA (Module 275)."
+    },
+    {
+      "id": 10253,
+      "fromModule": 291,
+      "toModule": 276,
+      "reason": "Greenish discoloration over right iliac fossa as the earliest sign of putrefaction belongs to Death and Post-Mortem Changes (Module 276)."
+    },
+    {
+      "id": 11044,
+      "fromModule": 291,
+      "toModule": 284,
+      "reason": "Barberio's test as specific for semen rather than blood belongs to Sexual Offences and Abortion (Module 284)."
+    },
+    {
+      "id": 11067,
+      "fromModule": 291,
+      "toModule": 290,
+      "reason": "Chronic industrial inorganic lead poisoning with anemia and motor deficits belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11079,
+      "fromModule": 291,
+      "toModule": 290,
+      "reason": "Occupational white phosphorus poisoning producing phossy jaw belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+    },
+    {
+      "id": 11088,
+      "fromModule": 291,
+      "toModule": 274,
+      "reason": "Precipitin test for determining human species of bloodstains belongs to Fingerprint and Tattoos (Module 274)."
+    },
+    {
+      "id": 11101,
+      "fromModule": 292,
+      "toModule": 272,
+      "reason": "Chronological eruption of mixed dentition for pediatric age determination belongs to Skeletal and Dental Age Determination (Module 272)."
+    },
+    {
+      "id": 11102,
+      "fromModule": 292,
+      "toModule": 274,
+      "reason": "Absorption-elution method for ABO grouping from dried bloodstains belongs to Fingerprint and Tattoos (Module 274)."
+    }
+  ]
+}

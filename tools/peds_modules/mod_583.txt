@@ -1,0 +1,47 @@
+================================================================
+MODULE 583: Deficiency of Water-soluble Vitamins & Trace Elements (7 questions)
+================================================================
+
+ID: 1651 | Answer: [C] Scurvy
+QUESTION: White line of Frenkel is seen in: September 2008
+OPTIONS: A) Osteoporosis | B) Osteomalacia | C) Scurvy | D) Beri-Beri
+EXPLANATION: Ans. C: Scurvy Clinical symptoms and signs of infantile scurvy, in order of frequency are irritability, tenderness and weakness of lower extremities, a scorbutic rosary of the legs, bleeding of the gums (usually where teeth have erupted), and fever. Radiographic findings of scurvy: Dense metaphyseal line-This is due to an intensification of the zone of preparatory calcification, resulting from matrix formation failing, is has been referred to as the white line of Frenkel, but is non-specific, as it is also seen in healing rickets, and lead or phosphorus poisoning. Ground glass osteoporosis: This appears at the end of the shaft with blurring or disappearance of trabecular markings. Halo ossification centre: Also called the Wimberger's ring, it is the same effect that produces the white line of Frenkel, affecting the epiphyseal ossification center. Corner sign-Seen due to subepiphyseal infarction, or separation of the epiphysis from the metaphysis. Lateral spurs-These metaphyseal spurs project at right angles to the axis of the shaft, they may be seen due to mushrooming of epiphysis on the metaphysis, or may represent earliest calcification of periosteum elevated by a subperiosteal hemorrhage. Subperiosteal hematomas-These occur at the end of long bones, seen after about 2 weeks of onset of clinical symptoms; it is not the periosteal hemorrhage that calcifies, but the elevated periosteum, secondary to resumption of bone formation. Metaphyseal fractures-Subperiosteal comminuted fractures at the end of long bones, extending only partially through the width of the bone. Atrophy scurvy line-A radiolucent zone on the shaft side of Frenkel's white line, it has been referred to as the Trummerfeld Zone.
+----------------------------------------------------------------
+
+ID: 23738 | Answer: [D] Trummerfeld zone at the metaphysis
+QUESTION: Which of the following radiological finding is the most specific for Scurvy?
+OPTIONS: A) Ground glass appearance of shafts of long bones | B) Pencil outlining of epiphysis and diaphysis | C) Pelkan spur at cortical ends | D) Trummerfeld zone at the metaphysis
+EXPLANATION: The more specific but late radiologic feature of scurvy is a zone of rarefaction under the white line at the metaphysis. is zone of rarefaction (Trummerfeld zone), a linear break in the bone that is proximal and parallel to the white line, represents area of debris of broken-down bone trabeculae and connective tissue. RADIOLOGICAL FINDINGS OF SCURVY- VERY IMPORTANT - MUST KNOW ALL POINTS Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : MAY KNOW PYQ : NEET PG 2021:FMGE JAN 2023; INICET NOV 2021 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 372
+----------------------------------------------------------------
+
+ID: 23739 | Answer: [B] Vitamin C deficiency
+QUESTION: A child presents with generalized body aches, poor wound healing, corkscrew hairs on her arms, and white lines of Frenkel on X-ray as shown below. This clinical presentation is most consistent with which of the following micronutrient deficiencies?
+OPTIONS: A) Zinc deficiency | B) Vitamin C deficiency | C) Copper deficiency | D) Iron deficiency
+EXPLANATION: Explanation: Vitamin C deficiency (scurvy) leads to defective collagen synthesis, resulting in fragile capillaries, bleeding, poor wound healing, corkscrew hairs, and characteristic radiological findings like white lines of Frenkel. Vitamin C plays a crucial role in collagen synthesis, which is essential for maintaining the structural integrity of blood vessels, skin, bone, and connective tissues. Scurvy occurs when there is prolonged deficiency of vitamin C, especially in children with inadequate dietary intake (e.g., lack of fruits and vegetables). Clinical Features of Scurvy: Musculoskeletal pain, particularly in legs Corkscrew hairs, petechiae, ecchymoses Poor wound healing, bleeding gums, anemia Pseudoparalysis: refusal to move limbs due to pain Frog-leg posture Scorbutic rosary at the costochondral junctions White lines of Frenkel (dense metaphyseal lines seen on X-ray) Pelkan spurs: metaphyseal spurs Radiological Signs : White line of Frenkel: dense zone of provisional calcification Wimberger ring: circular calcification surrounding the epiphysis Scorbutic rosary: sharply defined, angular swellings at the costochondral junctions (unlike the smoother swellings in rickets) Treatment : Vitamin C supplementation (100-200 mg/day) Symptom resolution typically begins within 1 week Explanation of other options: Zinc deficiency (Option A): Causes growth retardation, alopecia, delayed wound healing, hypogonadism, and dermatitis, but not corkscrew hairs or Frenkel lines. Copper deficiency (Option C): Leads to anemia, neutropenia, and hypopigmented hair, but not the bleeding or radiologic features seen in scurvy. Iron deficiency (Option D): Presents with pallor, fatigue, irritability, and microcytic hypochromic anemia, but not corkscrew hairs, bleeding gums, or radiologic signs of scurvy.
+----------------------------------------------------------------
+
+ID: 23741 | Answer: [A] Vitamin A deficiency
+QUESTION: For children <5 years, the highest global prevalence of micronutrient and trace elements deficiencies is that of?
+OPTIONS: A) Vitamin A deficiency | B) Zinc deficiency | C) Iron deficiency | D) Iodine deficiency
+EXPLANATION: For children Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : MAY KNOW PYQ : FMGE JAN 2023; DEC 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 334
+----------------------------------------------------------------
+
+ID: 23742 | Answer: [D] Ensure infant is not over fed
+QUESTION: According to NICE guidelines, what is the first line of management for a formula fed child with significant gastric reflux?
+OPTIONS: A) Use food thickener | B) Stop thickener and start alginate | C) Decrease food volume and frequency | D) Ensure infant is not over fed
+TAG TOPIC: GASTROESOPHAGEAL REFLUX Difficulty level: GOOD TO KNOW Reference: NICE guidelines for GORD
+EXPLANATION: If breastfedwith frequent regurgitation causing marked distress, use an alginate mixed with water immediately after feeds. If formula-fedwith frequent regurgitation causing marked distress, use a step-wise approach: For either group if there is no improvement with alginate therapy after a 2 week trial then start proton pump inhibitor or histamine antagonist(eg. Omeprazole or ranitidine) Tags: Topic: GASTROESOPHAGEAL REFLUX Difficulty level: GOOD TO KNOW Reference: NICE guidelines for GORD
+----------------------------------------------------------------
+
+ID: 23745 | Answer: [C] 55
+QUESTION: Low glycemic index is classified as value less than:
+OPTIONS: A) 25 | B) 45 | C) 55 | D) 65
+EXPLANATION: Concept of glycemic index has utility in management of diabetes and obesity. GI range Classification Example Most fruits and vegetables except potatoes and water melon, Low GI 55 or less pasta beans, lentils Medium GI 56-69 Sucrose, brown rice, basmati rice 70 or High GI Corn flakes, white bread, candy bar more Ref: Park 22nd edition, page
+----------------------------------------------------------------
+
+ID: 23878 | Answer: [A] A, D, E
+QUESTION: Which vitamins need to be supplemented in CF patients?
+OPTIONS: A) A, D, E | B) B complex, C | C) A, B complex, K | D) B complex, C, E
+EXPLANATION: Malabsorption is a known complication of cystic fibrosis causing decreased absorption of fat-soluble vitamins. A, D, E and K are fat soluble vitamins and need supplementation in CF . Tags : Topic : CYSTIC FIBROSIS Difficulty level : MUST KNOW PYQ : NEET PG 2021;2023; INICET MAY 2023; 2024 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 2286
+----------------------------------------------------------------
+

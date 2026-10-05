@@ -1,0 +1,740 @@
+1: [Anatomy] Gametogenesis
+2: [Anatomy] Pre-Embryonic Phase of Development
+3: [Anatomy] Embryonic Phase of Development
+4: [Anatomy] Placenta, Fetal Membranes and Twinning
+5: [Anatomy] Pharyngeal Arches, Skeletal & Muscular Systems
+6: [Anatomy] Cardiovascular and Respiratory Systems
+7: [Anatomy] Alimentary, Hepatobiliary Systems, Pancreas and Spleen
+8: [Anatomy] Face, Nose & Palate, Eye, Ear
+9: [Anatomy] Nervous System and Endocrine Glands
+10: [Anatomy] Cell Structure, Epithelia, Glands & Connective Tissue
+11: [Anatomy] Bone, Cartilage & Muscular Tissue
+12: [Anatomy] Cardiovascular, Lymphatic and Respiratory Systems
+13: [Anatomy] Digestive, Hepatobiliary & Genitourinary Systems
+14: [Anatomy] Cranial Nerves
+15: [Anatomy] Meninges and Dural Venous Sinuses
+16: [Anatomy] Ventricular System and Subarachnoid Space
+17: [Anatomy] Cerebrum
+18: [Anatomy] White Matter of the Brain
+19: [Anatomy] Basal Ganglia and Limbic System
+20: [Anatomy] Diencephalon
+21: [Anatomy] Brainstem
+22: [Anatomy] Cerebellum
+23: [Anatomy] Vascular Supply of Brain
+24: [Anatomy] Spinal Cord
+25: [Anatomy] Osteology, Scalp and Face
+26: [Anatomy] Deep Fascia and Triangles of the Neck
+27: [Anatomy] Muscles, Neurovascular Anatomy of Head & Neck
+28: [Anatomy] Glands of the Head & Neck
+29: [Anatomy] Tongue and Palate
+30: [Anatomy] Pharynx
+31: [Anatomy] Upper Limb Bones and Joints
+32: [Anatomy] Fossae and Spaces of the Upper Limb
+33: [Anatomy] Brachial Plexus and Nerves
+34: [Anatomy] Muscles - Upper Limb
+35: [Anatomy] Vessels - Upper Limb
+36: [Anatomy] General Anatomy of Thorax
+37: [Anatomy] Thoracic Wall
+38: [Anatomy] Mediastinum
+39: [Anatomy] Heart
+40: [Anatomy] Lungs and Pleura
+41: [Anatomy] Anterior Abdominal Wall
+42: [Anatomy] Abdominal Cavity and Peritoneum
+43: [Anatomy] GI Tract
+44: [Anatomy] Hepatobiliary System, Spleen & Pancreas
+45: [Anatomy] KUB & Adrenal Gland
+46: [Anatomy] Internal and External Genitalia
+47: [Anatomy] Pelvis & Perineum
+48: [Anatomy] Bones of the Lower Limb
+49: [Anatomy] Joints of the Lower Limb
+50: [Anatomy] Muscles of the Lower Limb
+51: [Anatomy] Nerves & Vessels of Lower Limb
+52: [Anatomy] Important Structures of Lower Limb
+53: [Anatomy] Vertebral Column
+54: [Anatomy] Bones, Joints and Cartilage
+55: [Anatomy] Muscles and Tendons
+56: [Anatomy] Cardiovascular, Lymphatic and Nervous Systems
+57: [Anatomy] Skin, Connective Tissue and Ligaments
+58: [Anatomy] Mixed / Miscellaneous Topics
+59: [Physiology] Homeostasis and Cellular Physiology
+60: [Physiology] Cellular Messengers & Receptors
+61: [Physiology] Transport Across Cell Membrane
+62: [Physiology] Membrane Potentials
+63: [Physiology] Body Fluids
+64: [Physiology] Physiology of Nerve
+65: [Physiology] Muscle Physiology I
+66: [Physiology] Synapse and Junctional Transmission
+67: [Physiology] Neurotransmitters
+68: [Physiology] Sensory Receptors
+69: [Physiology] Somatosensory Pathways
+70: [Physiology] Special Senses
+71: [Physiology] Motor Physiology - 1
+72: [Physiology] Basal Ganglia and Cerebellum
+73: [Physiology] Hypothalamus and Limbic System
+74: [Physiology] Higher Mental Functions
+75: [Physiology] Functional Anatomy
+76: [Physiology] Lung Mechanics
+77: [Physiology] Alveolar Gas Exchange
+78: [Physiology] Gas Transport in Blood
+79: [Physiology] Lung Volumes and Lung Function Tests
+80: [Physiology] Respiratory Adaptations in Hypoxia, Anemia and with Pressure Changes
+81: [Physiology] Regulation of Respiration
+82: [Physiology] Vascular System and Regional Circulation I
+83: [Physiology] Cardiac Cycle and Cardiac Output
+84: [Physiology] Electrophysiology of the Heart
+85: [Physiology] Blood Pressure and Regulation
+86: [Physiology] Gastrointestinal Secretion and Gastrointestinal Hormones
+87: [Physiology] Digestion & Absorption
+88: [Physiology] GI Peristalsis and Motility
+89: [Physiology] Glomerular Filtration Rate, Renal Blood Flow, and Renal Clearance
+90: [Physiology] Renal Tubular Functions, Urine Concentration and Dilution
+91: [Physiology] Acid-Base Balance, Renal Hormones and Micturition Reflex
+92: [Physiology] Pituitary and Thyroid
+93: [Physiology] The Pancreas
+94: [Physiology] Calcium Homeostasis
+95: [Physiology] Male Reproductive Physiology
+96: [Physiology] Female Reproductive Physiology
+97: [Physiology] Exercise Physiology
+98: [Physiology] Mixed / Miscellaneous Topics
+99: [Biochemistry] Chemistry of Carbohydrates, Amino Sugars and Mucopolysaccharides
+100: [Biochemistry] Glycolysis and Gluconeogenesis
+101: [Biochemistry] Glycogen Metabolism and Glycogen Storage Disorders
+102: [Biochemistry] HMP Shunt Pathway, Fructose, Galactose Metabolism
+103: [Biochemistry] Krebs Cycle
+104: [Biochemistry] Amino Acids: Basics
+105: [Biochemistry] Amino Acid: Metabolism
+106: [Biochemistry] Amino Acid: Metabolic Disorder
+107: [Biochemistry] Protein Structure and Function
+108: [Biochemistry] Urea Cycle and its Disorders
+109: [Biochemistry] Lipids: Basics
+110: [Biochemistry] Fatty Acid Oxidation and Ketogenesis
+111: [Biochemistry] Biosynthesis of Fatty Acids and Eicosanoids
+112: [Biochemistry] Metabolism of Acylglycerols and Sphingolipids
+113: [Biochemistry] Cholesterol Synthesis, Transport and Excretion
+114: [Biochemistry] Porphyrins and Bile Pigments
+115: [Biochemistry] Enzymes - Mechanism of Action & Clinical Importance
+116: [Biochemistry] Enzyme Kinetics and Regulation of Activity
+117: [Biochemistry] Fat Soluble Vitamins
+118: [Biochemistry] Energy Releasing Vitamins
+119: [Biochemistry] Antioxidants & Minerals
+120: [Biochemistry] Basics of Genetics - Nucleotide Metabolism and its Disorders
+121: [Biochemistry] DNA Organization, Replication and Repair
+122: [Biochemistry] RNA Synthesis, Processing and Modification
+123: [Biochemistry] Regulation of Gene Expression
+124: [Biochemistry] Molecular Genetics, Recombinant DNA & Genomic Technology
+125: [Biochemistry] Mixed / Miscellaneous Topics
+126: [Pathology] Cellular Adaptations and Injury
+127: [Pathology] Cell Death
+128: [Pathology] Intracellular Accumulations, Pathological Calcification and Cellular Ageing
+129: [Pathology] Acute Inflammation
+130: [Pathology] Inflammatory Mediators and Chronic Granulomatous Inflammation
+131: [Pathology] Tissue Repair
+132: [Pathology] Disorders of Hemodynamics and Hemostasis
+133: [Pathology] Modes of Inheritance
+134: [Pathology] Lysosomal and Glycogen Storage Diseases
+135: [Pathology] Chromosomal Disorders and Other Genetic Diseases
+136: [Pathology] Characteristics of Neoplasms and Epidemiology
+137: [Pathology] Molecular Basis of Cancer and Tumor Immunity
+138: [Pathology] Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers
+139: [Pathology] Components of Immune System
+140: [Pathology] Hypersensitivity and Autoimmunity
+141: [Pathology] Amyloidosis and Graft Rejection
+142: [Pathology] Microcytic Anemia
+143: [Pathology] Normocytic And Macrocytic Anemia
+144: [Pathology] Basics of Hemolysis and Intravascular Hemolysis
+145: [Pathology] Extravascular Hemolysis
+146: [Pathology] G6PD Deficiency and Autoimmune Hemolytic Anemias
+147: [Pathology] Platelet Disorders
+148: [Pathology] Coagulation Pathway Disorders
+149: [Pathology] Blood Products and Transfusion Reactions
+150: [Pathology] Acute Lymphocytic Leukemia (ALL)
+151: [Pathology] Acute Myeloid Leukemia (AML)
+152: [Pathology] Hodgkin's Lymphoma
+153: [Pathology] Non Hodgkin Lymphomas: Low Grade
+154: [Pathology] Non Hodgkin Lymphomas: High Grade
+155: [Pathology] Multiple Myeloma and Plasma Cell Disorders
+156: [Pathology] Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis
+157: [Pathology] Leukemoid, Leukocytosis and Lymphadenitis
+158: [Pathology] Hypertensive Vascular Disease and Atherosclerosis
+159: [Pathology] Aneurysm and Dissection
+160: [Pathology] Vascular Tumors
+161: [Pathology] Heart Failure and Ischemic Heart Disease
+162: [Pathology] Myocardial and Pericardial Diseases and Cardiac Tumors
+163: [Pathology] Congenital and Valvular Heart Disease
+164: [Pathology] Rheumatic Fever and Endocarditis
+165: [Pathology] Glomerular Diseases
+166: [Pathology] Tubulointerstitial, Vascular and Cystic Diseases
+167: [Pathology] Renal Tumors
+168: [Pathology] Lower Urinary Tract
+169: [Pathology] Female Genital Tract
+170: [Pathology] Male Genital Tract
+171: [Pathology] Alcoholic and Infectious Liver Diseases
+172: [Pathology] Autoimmune and Metabolic Liver Diseases
+173: [Pathology] Neoplasms of Liver and Biliary Tract
+174: [Pathology] Gall Bladder and Pancreas
+175: [Pathology] Esophagus
+176: [Pathology] Stomach
+177: [Pathology] Small Intestine
+178: [Pathology] Large Intestine - Non Neoplastic Conditions
+179: [Pathology] Congenital Anomalies, ARDS, Infections
+180: [Pathology] Obstructive and Restrictive Lung Diseases
+181: [Pathology] Lung Tumors
+182: [Pathology] Pituitary, Parathyroid and Pancreas
+183: [Pathology] Thyroid Glands
+184: [Pathology] The Breast
+185: [Pathology] Developmental Disorders, Infections and Tumors of Bone
+186: [Pathology] Joints and Soft Tissue Tumors
+187: [Pathology] Skin Pathology
+188: [Pathology] Infective and Vascular CNS Pathology
+189: [Pathology] Mixed / Miscellaneous Topics
+190: [Microbiology] General Microbiology
+191: [Microbiology] Components of Immune System
+192: [Microbiology] Structure and Functions of the Immune System & Immune Response
+193: [Microbiology] Hypersensitivity
+194: [Microbiology] Streptococci and Enterococci
+195: [Microbiology] Corynebacterium, Listeria and Actinomyces
+196: [Microbiology] Clostridium and Bacillus
+197: [Microbiology] Mycobacteria Tuberculosis
+198: [Microbiology] Other Mycobacteria
+199: [Microbiology] Escherichia, Proteus and Klebsiella
+200: [Microbiology] Shigella and Salmonella
+201: [Microbiology] Vibrio and Campylobacterales
+202: [Microbiology] Pseudomonas and Burkholderiales
+203: [Microbiology] Haemophilus
+204: [Microbiology] Miscellaneous Bacteria - Yersinia, Brucella, Bartonella, Legionella
+205: [Microbiology] Gram Negative Cocci
+206: [Microbiology] Rickettsia, Chlamydia and Mycoplasma
+207: [Microbiology] Spirochetes
+208: [Microbiology] General Properties of Viruses
+209: [Microbiology] Hepatitis
+210: [Microbiology] Arboviruses and Picorna Viruses
+211: [Microbiology] Miscellaneous Viruses - Rubella, Coronaviruses, Prions, Rotavirus, Filovirus, Zika Virus and Nipah Virus
+212: [Microbiology] Superficial and Systemic Mycoses
+213: [Microbiology] Opportunistic Mycoses
+214: [Microbiology] General Parasitology
+215: [Microbiology] Protozoology - Amoebae, Ciliates & Flagellates
+216: [Microbiology] Protozoology - Sporozoa
+217: [Microbiology] Helminthology - Cestodes & Trematodes
+218: [Microbiology] Helminthology - Nematodes
+219: [Microbiology] Applied Microbiology
+220: [Microbiology] Mixed / Miscellaneous Topics
+221: [Pharmacology] Pharmacokinetics
+222: [Pharmacology] Clinical Trials and Miscellaneous
+223: [Pharmacology] Sympathomimetics
+224: [Pharmacology] Drugs for Glaucoma
+740: [Pharmacology] Parasympathomimetics & Cholinergic Agonists
+225: [Pharmacology] Anti-Anginal Drugs
+226: [Pharmacology] Heart Failure Drugs
+227: [Pharmacology] Antihypertensive Drugs
+228: [Pharmacology] Diuretics
+229: [Pharmacology] Anti-Arrhythmic Drugs
+230: [Pharmacology] Hypolipidemic Drugs
+231: [Pharmacology] Renin-Angiotensin-Aldosterone System
+232: [Pharmacology] Anti-diuretics
+233: [Pharmacology] Anti-epileptics I
+234: [Pharmacology] Anti-manic Drugs
+235: [Pharmacology] Antidepressant and Antianxiety Drugs
+236: [Pharmacology] Opioids - Functions and Classification
+237: [Pharmacology] Synthetic Opioids
+238: [Pharmacology] Opioid Antagonists
+239: [Pharmacology] General Principles of Antimicrobial Therapy
+240: [Pharmacology] Antimalarial Drugs
+241: [Pharmacology] Sulfonamides, Quinolones and Urinary Antiseptics
+242: [Pharmacology] Antimicrobials Acting on 30S Subunit
+243: [Pharmacology] Antiretroviral Drugs
+244: [Pharmacology] Penicillins
+245: [Pharmacology] Cephalosporins, Vancomycin and Carbapenems
+246: [Pharmacology] Anti-Protozoal Agents and Anthelmintic Drugs
+247: [Pharmacology] Antifungal Agents
+248: [Pharmacology] First Line Drugs for Tuberculosis
+249: [Pharmacology] Second Line Drugs for Tuberculosis
+250: [Pharmacology] Anti-leprosy Drugs
+251: [Pharmacology] Anti-virals (Non-retroviral)
+252: [Pharmacology] Hypothalamus and Pituitary
+253: [Pharmacology] Thyroid and Antithyroid Agents
+254: [Pharmacology] Corticosteroids
+255: [Pharmacology] Osteoporosis and Calcium Metabolism
+256: [Pharmacology] Anti-Diabetic Drugs - Oral
+257: [Pharmacology] OCPs, Estrogens and Progestins
+258: [Pharmacology] Androgens and Drugs for Erectile Dysfunction
+259: [Pharmacology] Drugs Acting on Uterus
+260: [Pharmacology] NSAIDs
+261: [Pharmacology] Anti-migraine and Antigout drugs
+262: [Pharmacology] Anti-rheumatoid drugs
+263: [Pharmacology] Antiplatelets, Fibrinolytics and Antifibrinolytics
+264: [Pharmacology] Anticoagulants
+265: [Pharmacology] Respiratory System
+266: [Pharmacology] Acid Peptic Disorders and Inflammatory Bowel Disease
+267: [Pharmacology] Anti-emetics and Drugs Affecting Gastrointestinal Motility
+268: [Pharmacology] Cell Cycle Specific Cytotoxic Drugs
+269: [Pharmacology] Monoclonal Antibodies
+270: [Pharmacology] Interleukins, Growth Factors and Targeted Therapies
+271: [Pharmacology] Mixed / Miscellaneous Topics
+272: [Forensic Medicine] Skeletal and Dental Age Determination
+273: [Forensic Medicine] Race, Sex and Stature Determination
+274: [Forensic Medicine] Fingerprint and Tattoos
+275: [Forensic Medicine] BNS, BNSS, and BSA
+276: [Forensic Medicine] Death and Post-Mortem Changes
+277: [Forensic Medicine] Medico Legal Autopsy
+278: [Forensic Medicine] Mechanical Injuries
+279: [Forensic Medicine] Regional Injuries
+280: [Forensic Medicine] Thermal Injuries
+281: [Forensic Medicine] Firearm Injuries and Blast Injuries
+282: [Forensic Medicine] Mechanical Asphyxia
+283: [Forensic Medicine] Drowning
+284: [Forensic Medicine] Sexual Offences and Abortion
+285: [Forensic Medicine] Childhood Violence, Infanticide and Starvation
+286: [Forensic Medicine] Poisoning: General Considerations
+287: [Forensic Medicine] Organophosphorus Poisoning
+288: [Forensic Medicine] Corrosives and Asphyxiants
+289: [Forensic Medicine] Alcohol Poisoning
+290: [Forensic Medicine] Inorganic Irritants - Metallic and Non-metallic
+291: [Forensic Medicine] Organic Irritants - Plant and Animal Poisons
+292: [Forensic Medicine] Mixed / Miscellaneous Topics
+293: [ENT] Embryology of Ear and Malformations
+294: [ENT] Anatomy of External Ear
+295: [ENT] Anatomy of Middle Ear
+296: [ENT] Anatomy of Mastoid
+297: [ENT] Anatomy of Inner Ear
+298: [ENT] Disorders of External Ear
+299: [ENT] Cholesteatoma and Types of CSOM
+300: [ENT] CSOM - Treatment and Complications
+301: [ENT] Otosclerosis
+302: [ENT] Meniere's Disease
+303: [ENT] Tumors of Ear
+304: [ENT] Anatomy of Facial Nerve
+305: [ENT] Facial Nerve Disorders
+306: [ENT] Eustachian Tube
+307: [ENT] Physiology of Hearing and Tuning Fork Tests
+308: [ENT] Audiometric Tests and Special Tests of Hearing
+309: [ENT] Anatomy of Nose
+310: [ENT] Anatomy of Paranasal Sinuses
+311: [ENT] Physiology of Nose and Paranasal Sinuses
+312: [ENT] Epistaxis
+313: [ENT] Congenital Anomalies of Nose and Disease of Nose
+314: [ENT] Rhinitis
+315: [ENT] Disorder of Nasal Septum and Nasal Polyposis
+316: [ENT] Trauma of Nose and Face
+317: [ENT] Tumors of Nose and PNS
+318: [ENT] Sinusitis and its Complication
+319: [ENT] Anatomy and Physiology of Pharynx
+320: [ENT] Adenoids
+321: [ENT] Tonsils
+322: [ENT] Nasopharyngeal Angiofibroma
+323: [ENT] Nasopharyngeal Carcinoma
+324: [ENT] Anatomy and Physiology of Larynx
+325: [ENT] Stridor and Congenital Conditions of Larynx
+326: [ENT] Voice and Speech Disorders
+327: [ENT] Laryngeal Carcinoma
+328: [ENT] Mixed / Miscellaneous Topics
+329: [Ophthalmology] Anatomy and Development of Eye
+330: [Ophthalmology] Elementary Optics and Physiology of Vision
+331: [Ophthalmology] Myopia and Hypermetropia
+332: [Ophthalmology] Astigmatism and Errors of Accomodation
+333: [Ophthalmology] Conjunctiva
+334: [Ophthalmology] Sclera
+335: [Ophthalmology] Basics of Cornea and Infectious Keratitis
+336: [Ophthalmology] Non-infectious Disorders of Cornea
+337: [Ophthalmology] Retinal Vascular Disorders and Retinal Detachment
+338: [Ophthalmology] Macular Disorders, Retinal Dystrophies, and Vitreal Disorders
+339: [Ophthalmology] Lens - Introduction, Types of Cataract and Clinical Features
+340: [Ophthalmology] Lens - Cataract Surgery, Complications and IOLs
+341: [Ophthalmology] Glaucoma
+342: [Ophthalmology] Uveitis - Anterior and Intermediate
+343: [Ophthalmology] Uveitis - Posterior and Panuveitis
+344: [Ophthalmology] Disorders of the Eyelid
+345: [Ophthalmology] Disorders of Lacrimal Apparatus and Glands of the Eye
+346: [Ophthalmology] Orbit Anatomy and Ocular Injuries
+347: [Ophthalmology] Diseases of the Orbit
+348: [Ophthalmology] Strabismus - Introduction, Symptomatology, and Evaluation
+349: [Ophthalmology] Strabismus - Types and Treatment
+350: [Ophthalmology] Disorders of Visual Pathway and Pupillary Reflexes
+351: [Ophthalmology] Disorders of Optic Nerve and Gaze Palsies
+352: [Ophthalmology] Tumors of Eye
+353: [Ophthalmology] Practical Ophthalmology
+354: [Ophthalmology] Mixed / Miscellaneous Topics
+355: [PSM] History of Medicine
+356: [PSM] Health Determinants and Indicators
+357: [PSM] Concepts of Disease and Prevention
+358: [PSM] Principles of Epidemiology
+359: [PSM] Analytical Epidemiology
+360: [PSM] Experimental Epidemiology
+361: [PSM] Basic Definitions in Infectious Disease Epidemiology
+362: [PSM] Dynamics of Disease Transmission
+363: [PSM] Principles of Immunization and Vaccination
+364: [PSM] Vaccine Production and Storage
+365: [PSM] Sterilization and Disinfection
+366: [PSM] Screening
+367: [PSM] Viral Respiratory Infections
+368: [PSM] Bacterial Respiratory Infections
+369: [PSM] Intestinal Infections
+370: [PSM] Arthropod-Borne Infections
+371: [PSM] Zoonotic Infections - Viral
+372: [PSM] Zoonotic Infections - Bacterial & Parasitic
+373: [PSM] STDs and Surface Infections
+374: [PSM] Non-Communicable Diseases - Cardiovascular Diseases and Diabetes
+375: [PSM] Non-Communicable Diseases - Cancer, Obesity and Blindness
+376: [PSM] National Health Programmes I - NVBDCP
+377: [PSM] National Health Programmes II - NLEP, NTEP & NACO
+378: [PSM] National Health Programmes III - NIS, JSY, RBSK and Others
+379: [PSM] Demography I: Demographic Cycle, Annual Growth Rate and Age Pyramid
+380: [PSM] Demography II: Demographic Indicators
+381: [PSM] Family Planning
+382: [PSM] Preventive Obstetrics, Paediatrics and Geriatrics
+383: [PSM] Micronutrients and Water
+384: [PSM] Food Quality and Processing
+385: [PSM] Concepts of Sociology and Psychology
+386: [PSM] Social Organization and Economics
+387: [PSM] Water - I: Sources and purification of water
+388: [PSM] Water- II: Disinfection of water
+389: [PSM] Water- III: Water Quality and Standards
+390: [PSM] Housing and Ventilation
+391: [PSM] Light, Sound and Radiation
+392: [PSM] Waste and Sewage Disposal
+393: [PSM] Medical Entomology - Mosquitoes and Flies
+394: [PSM] Medical Entomology - Ticks, Fleas and Mites
+395: [PSM] Methods of Pest Control
+396: [PSM] Biomedical Waste Management
+397: [PSM] Disaster Management
+398: [PSM] Occupational Health Diseases
+399: [PSM] Communication for Health Education
+400: [PSM] Health Planning and Management
+401: [PSM] Healthcare in India
+402: [PSM] International Health
+403: [PSM] Descriptive Statistics I - Probability and Data
+404: [PSM] Descriptive Statistics II - Measures of Location
+405: [PSM] Descriptive Statistics III - Measures of Dispersion
+406: [PSM] Correlational and Predictive Techniques
+407: [PSM] Tests of Significance
+408: [PSM] Facets of Clinical Research and Biostatistics
+409: [PSM] Mental Health
+410: [PSM] Mixed / Miscellaneous Topics
+411: [Medicine] Clinical Hypotheses
+412: [Medicine] Acid-Base Disorders
+413: [Medicine] General Principles of Endocrinology
+414: [Medicine] Disorders of Anterior Pituitary
+415: [Medicine] Pituitary Tumors and Sheehan Syndrome
+416: [Medicine] Posterior Pituitary - ADH, Diabetes Insipidus
+417: [Medicine] Thyroid Disorders - Management
+418: [Medicine] Thyroid Disorders - Clinical Features
+419: [Medicine] Types of Assessment for Diagnosis
+420: [Medicine] Cushing Syndrome
+421: [Medicine] Diabetes Mellitus - Clinical Features
+422: [Medicine] Diabetes Mellitus - Complications and Management
+423: [Medicine] Reproductive Endocrinology
+424: [Medicine] Disorders of Parathyroid and Calcium
+425: [Medicine] Hyperbilirubinemia and Functions of Liver
+426: [Medicine] Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease
+427: [Medicine] Autoimmune Liver Diseases
+428: [Medicine] Acute Liver Failure and Complications of Cirrhosis
+429: [Medicine] Hemochromatosis and Wilsons Disease
+430: [Medicine] Portal Hypertension
+431: [Medicine] Evaluation of Jaundice
+432: [Medicine] Irritable Bowel Syndrome
+433: [Medicine] Inflammatory Bowel Disease - Clinical Features and Diagnosis
+434: [Medicine] Inflammatory Bowel Disease - Complications and Treatment
+435: [Medicine] Malabsorption Syndrome
+436: [Medicine] Large and medium vessel vasculitis
+437: [Medicine] Small vessel vasculitis
+438: [Medicine] Sjogrens Syndrome and Scleroderma
+439: [Medicine] Dermatomyositis and Related Disorders
+440: [Medicine] Antiphospholipid Antibody Syndrome
+441: [Medicine] Rheumatoid Arthritis
+442: [Medicine] Asthma & COPD
+443: [Medicine] Pneumonia
+444: [Medicine] Interstitial Lung Diseases and Sarcoidosis
+445: [Medicine] Bronchiectasis and Lung Abscess
+446: [Medicine] Pulmonary Function Tests
+447: [Medicine] Respiratory Failure and ARDS
+448: [Medicine] Neoplasms of the Lung
+449: [Medicine] Sleep Apnea
+450: [Medicine] Acute Kidney Injury
+451: [Medicine] Chronic Kidney Disease
+452: [Medicine] Renal Replacement Therapy
+453: [Medicine] Cysts and Inherited Disorders of the Kidney
+454: [Medicine] Renal Tubular Diseases of Kidney
+455: [Medicine] Diagnosis of cardiovascular disorders
+456: [Medicine] Supraventricular Arrhythmias
+457: [Medicine] Ventricular Arrhythmias and Heart Blocks
+458: [Medicine] Vascular Heart Diseases
+459: [Medicine] Ischemic Heart Disease - Presentation and Diagnosis
+460: [Medicine] Ischemic Heart Disease - Complications and Management
+461: [Medicine] Cardiomyopathy and Myocarditis
+462: [Medicine] Heart Failure
+463: [Medicine] DVT and Pulmonary Embolism
+464: [Medicine] Cerebral Neurology: Dementia, Death and Coma
+465: [Medicine] Seizure and Epilepsy
+466: [Medicine] Extrapyramidal Syndromes and Movement Disorders
+467: [Medicine] Myasthenia Gravis and Other Neuromuscular Disorders
+468: [Medicine] Guillain Barre Syndrome and Other Peripheral Neuropathies
+469: [Medicine] Multiple Sclerosis and Other Demyelinating Disorders
+470: [Medicine] Headache
+471: [Medicine] Spinal Cord Disorders
+472: [Medicine] Cranial Nerve Disorders
+473: [Medicine] Cerebrovascular Disease
+474: [Medicine] Meningitis Encephalitis
+475: [Medicine] Plasma Cell Disorders
+476: [Medicine] Chronic Myeloid Leukemia and Lymphoid Leukemias
+477: [Medicine] HIV / AIDS - Epidemiology and Diagnosis
+478: [Medicine] HIV / AIDS - Investigations
+479: [Medicine] Mixed / Miscellaneous Topics
+480: [Surgery] Fluids, Electrolytes & Nutrition
+481: [Surgery] Shock and Blood Transfusion
+482: [Surgery] Instruments & Sutures
+483: [Surgery] Paediatric Surgery
+484: [Surgery] Trauma - Scores, Investigations and Assessment
+485: [Surgery] Trauma - Spinal, Thoracic and Abdominal Injuries
+486: [Surgery] Breast - Anatomy, Congenital and Benign Diseases
+487: [Surgery] Carcinoma Breast - Risk Factors and Types
+488: [Surgery] Investigations in Breast diseases
+489: [Surgery] Carcinoma Breast - Staging, Prognosis & Molecular Types
+490: [Surgery] Carcinoma Breast - Treatment
+491: [Surgery] Benign Lesions of Thyroid
+492: [Surgery] Thyroid Malignancies
+493: [Surgery] Esophagus - Congenital, Motility & Inflammatory Disorders
+494: [Surgery] Esophagus - GERD & Carcinoma
+495: [Surgery] Stomach and Duodenum
+496: [Surgery] Carcinoma Stomach
+497: [Surgery] Metabolic & Bariatric Surgery
+498: [Surgery] Small Intestine
+499: [Surgery] Large Intestine
+500: [Surgery] Appendix
+501: [Surgery] Polyps and Colorectal Carcinoma
+502: [Surgery] Rectum
+503: [Surgery] Anus and Anal Canal
+504: [Surgery] Hernia
+505: [Surgery] Benign Conditions of Liver
+506: [Surgery] Benign Tumors of Liver
+507: [Surgery] Malignant Tumors of Liver
+508: [Surgery] Gall Bladder
+509: [Surgery] Bile Duct
+510: [Surgery] Spleen
+511: [Surgery] Endocrine Pancreas
+512: [Surgery] Congenital Anomalies and Acute Pancreatitis
+513: [Surgery] Chronic Pancreatitis
+514: [Surgery] Carcinoma Pancreas
+515: [Surgery] Congenital Diseases of Kidney and Urinary Calculi
+516: [Surgery] Infections and Tumors of Kidney
+517: [Surgery] Urinary Bladder and Ureters
+518: [Surgery] Prostate
+519: [Surgery] Urethra and Penis
+520: [Surgery] Testes and Scrotum
+521: [Surgery] Head Injury
+522: [Surgery] Oral Cavity & Salivary glands
+523: [Surgery] Burns
+524: [Surgery] Wound Healing, Tissue Repair and Scar
+525: [Surgery] Reconstructive Surgery
+526: [Surgery] Ischemic Arterial Diseases
+527: [Surgery] Arterial Aneurysms, Dissections and Malformations
+528: [Surgery] Venous Diseases
+529: [Surgery] Skin Malignancies
+530: [Surgery] Mixed / Miscellaneous Topics
+531: [OB & G] Anatomy of Female Pelvic Organs
+532: [OB & G] The Physiology of Conception
+533: [OB & G] Maternal Pelvis and Fetal Skull
+534: [OB & G] Placenta and Fetal Membranes
+535: [OB & G] Sexual Development, Puberty and Adolescence
+536: [OB & G] Physiological Changes During Pregnancy
+537: [OB & G] Diagnosis of Pregnancy and Antenatal Care
+538: [OB & G] Antenatal Investigations
+539: [OB & G] Obstetrical Imaging
+540: [OB & G] Normal Labour
+541: [OB & G] Abnormal Labour
+542: [OB & G] Induction and Augmentation of Labour
+543: [OB & G] Operative Vaginal Delivery
+544: [OB & G] Caesarean Section and Vaginal Birth After Caesarean (VBAC)
+545: [OB & G] Multifetal Pregnancy
+546: [OB & G] Ectopic Pregnancy
+547: [OB & G] Abortion and Medical Termination of Pregnancy
+548: [OB & G] Antepartum Hemorrhage
+549: [OB & G] Postpartum Haemorrhage
+550: [OB & G] Preterm Labor and Postterm Pregnancy
+551: [OB & G] Gestational Trophoblastic Diseases
+552: [OB & G] Anemia in Pregnancy
+553: [OB & G] Hypertensive Disorders in Pregnancy
+554: [OB & G] Diabetes in Pregnancy
+555: [OB & G] Cardiovascular Conditions in Pregnancy
+556: [OB & G] Rhesus Isoimmunization
+557: [OB & G] Hepatic Disorders and Infections in Pregnancy
+558: [OB & G] Disorders of Menstruation
+559: [OB & G] Prolapse
+560: [OB & G] Fibroid
+561: [OB & G] Endometriosis and Adenomyosis
+562: [OB & G] Disorders of Ovary
+563: [OB & G] Contraception and Sterilization
+564: [OB & G] Vaginal Infections
+565: [OB & G] Vulval Infections
+566: [OB & G] Pelvic Inflammatory Disease
+567: [OB & G] Genital Tuberculosis
+568: [OB & G] Infertility
+569: [OB & G] Perimenopause, Menopause and Post-Menopausal Bleeding
+570: [OB & G] Ovarian Tumors
+571: [OB & G] Vulval & Vaginal Malignancy
+572: [OB & G] Carcinoma Cervix
+573: [OB & G] Carcinoma Endometrium
+574: [OB & G] Mixed / Miscellaneous Topics
+575: [Pediatrics] Basics of Neonatology and Routine Newborn Care
+576: [Pediatrics] Diseases in Neonates requiring Special Care
+577: [Pediatrics] Apgar score and Neonatal Resuscitation
+578: [Pediatrics] Developmental Milestones
+579: [Pediatrics] Facets of Growth and Development
+580: [Pediatrics] Nutrition and Breastfeeding
+581: [Pediatrics] Protein Energy Malnutrition
+582: [Pediatrics] Deficiency of Fat Soluble Vitamins
+583: [Pediatrics] Deficiency of Water-soluble Vitamins & Trace Elements
+584: [Pediatrics] Fluid and Electrolyte Disorders
+585: [Pediatrics] Chromosomal Disorders
+586: [Pediatrics] Metabolic Disorders of Amino Acids
+587: [Pediatrics] Metabolic Disorders of Urea Cycle, Complex Molecules, and Carbohydrates
+588: [Pediatrics] Polio and AIDS
+589: [Pediatrics] Paediatric Bacterial and Parasitic Infections
+590: [Pediatrics] Measles, Mumps, Rubella and Other Viral Infections
+591: [Pediatrics] Surgical GI Disorders
+592: [Pediatrics] Medical GI Disorders
+593: [Pediatrics] Disorders of the Liver
+594: [Pediatrics] Neonatal Respiratory Disorders
+595: [Pediatrics] Childhood Respiratory Disorders
+596: [Pediatrics] Fetal Circulation
+597: [Pediatrics] Acyanotic Congenital Heart Diseases
+598: [Pediatrics] Cyanotic Congenital Heart Diseases
+599: [Pediatrics] Paediatric Nephrology
+600: [Pediatrics] Disorders of Thyroid
+601: [Pediatrics] Congenital Adrenal Hyperplasia and Related Disorders
+602: [Pediatrics] Disorders of the Pituitary Gland
+603: [Pediatrics] Disorders of Puberty
+604: [Pediatrics] Solid Neoplasms of Childhood
+605: [Pediatrics] Paediatric Rheumatology
+606: [Pediatrics] Paediatric Hematology - Introduction, Bleeding, and Clotting Disorders
+607: [Pediatrics] Paediatric Anemias
+608: [Pediatrics] Mixed / Miscellaneous Topics
+609: [Anaesthesia] History and Ethical Aspects of Anaesthesia
+610: [Anaesthesia] Preoperative Evaluation
+611: [Anaesthesia] CNS and CVS Monitoring in Anaesthesia
+612: [Anaesthesia] Respiratory Monitoring in Anaesthesia
+613: [Anaesthesia] Airway Devices
+614: [Anaesthesia] Intubation
+615: [Anaesthesia] Breathing Systems
+616: [Anaesthesia] Anaesthesia Workstation
+617: [Anaesthesia] ACLS
+618: [Anaesthesia] Ventilation and O2 Delivery Systems
+619: [Anaesthesia] Depolarising Muscle Relaxants
+620: [Anaesthesia] Inhaled Anaesthetics - Properties, N2O and Halothane
+621: [Anaesthesia] Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases
+622: [Anaesthesia] Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol
+623: [Anaesthesia] Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery
+624: [Anaesthesia] Local Anaesthetics - General Properties
+625: [Anaesthesia] Local Anaesthetics - Specific Drugs
+626: [Anaesthesia] Regional Anaesthesia: Techniques
+627: [Anaesthesia] Regional Anaesthesia: Complications and Contraindications
+628: [Anaesthesia] Peripheral Nerve Blocks
+629: [Anaesthesia] Anaesthetic Implication of Concurrent Diseases
+630: [Anaesthesia] Paediatric and Obstetric Anaesthesia
+631: [Anaesthesia] Complications of Anaesthesia
+632: [Anaesthesia] Mixed / Miscellaneous Topics
+633: [Dermatology] Anatomy & Physiology of Skin
+634: [Dermatology] Dermatopathology of Skin Lesions
+635: [Dermatology] Morphology and Investigations of Skin Lesions
+636: [Dermatology] Acne, Rosacea and Others
+637: [Dermatology] Disorders of Hair and Nails
+638: [Dermatology] Disorders of Skin Pigmentation
+639: [Dermatology] Dermatitis
+640: [Dermatology] Urticaria & Angioedema
+641: [Dermatology] Reactive Skin Diseases and Drug Eruptions
+642: [Dermatology] Papulosquamous Disorders
+643: [Dermatology] Psoriasis
+644: [Dermatology] Vesiculobullous Diseases
+645: [Dermatology] Mycobacterial Infections
+646: [Dermatology] Bacterial Infections
+647: [Dermatology] Viral Infections
+648: [Dermatology] Fungal and Protozoal Infections
+649: [Dermatology] Arthropod and Parasitic Infections
+650: [Dermatology] Syphilis
+651: [Dermatology] Non Syphilitic Sexually Transmitted Diseases
+652: [Dermatology] Genodermatoses & Nutritional Disorders
+653: [Dermatology] Connective Tissue Disorders
+654: [Dermatology] Skin Malignancies
+655: [Dermatology] Systemic Diseases and Skin
+656: [Dermatology] Mixed / Miscellaneous Topics
+657: [Orthopaedics] Basics of Fracture and its Management
+658: [Orthopaedics] Complications of Fracture
+659: [Orthopaedics] Regional Conditions of Neck
+660: [Orthopaedics] Injuries of Clavicle, Shoulder and Arm
+661: [Orthopaedics] Injuries of Elbow and Forearm
+662: [Orthopaedics] Injuries of Hand
+663: [Orthopaedics] Regional Conditions of the Upper Limb
+664: [Orthopaedics] Dislocations of the Hip Joint
+665: [Orthopaedics] Fractures of Femur
+666: [Orthopaedics] Injuries of Knee, Leg and Foot
+667: [Orthopaedics] AVN and Regional Conditions of Lower Limb
+668: [Orthopaedics] Injuries of Spine
+669: [Orthopaedics] Regional Conditions of Spine
+670: [Orthopaedics] Spondylolisthesis & IVDP
+671: [Orthopaedics] Injuries of Pelvis
+672: [Orthopaedics] Infections of the Bone
+673: [Orthopaedics] Skeletal Tuberculosis
+674: [Orthopaedics] Fractures in Children
+675: [Orthopaedics] CTEV, Genu Varum and Valgum
+676: [Orthopaedics] Congenital Malformations, Perthes Disease and SCFE
+677: [Orthopaedics] Metabolic Bone Diseases in Children
+678: [Orthopaedics] Osteoporosis and Osteomalacia
+679: [Orthopaedics] Paget's Disease and Hyperparathyroidism
+680: [Orthopaedics] Rheumatoid Arthritis and Osteoarthritis
+681: [Orthopaedics] Nerve Injuries
+682: [Orthopaedics] Benign Tumors Of Bone
+683: [Orthopaedics] Malignant Tumors of Bone
+684: [Orthopaedics] Trauma Amputations, Prosthetics and Joint Replacement Surgery
+685: [Orthopaedics] Sports Injury
+686: [Orthopaedics] Mixed / Miscellaneous Topics
+687: [Psychiatry] Theories of Personality & Defense Mechanisms
+688: [Psychiatry] Symptoms and Clinical Manifestations in Psychiatry
+689: [Psychiatry] Assessment in Psychiatry
+690: [Psychiatry] Specific Treatment Modalities
+691: [Psychiatry] Neuropsychiatric Aspects of Systemic Disorders
+692: [Psychiatry] Schizophrenia
+693: [Psychiatry] Other Psychotic Disorders
+694: [Psychiatry] Delirium
+695: [Psychiatry] Dementia
+696: [Psychiatry] Amnestic Disorders and Other Neurocognitive Disorders
+697: [Psychiatry] Depressive Disorders
+698: [Psychiatry] Bipolar and Related Disorders
+699: [Psychiatry] Alcohol-Related Disorders
+700: [Psychiatry] Other Substance Use Disorders
+701: [Psychiatry] Anxiety Disorders
+702: [Psychiatry] Obsessive-Compulsive and Related Disorders
+703: [Psychiatry] Trauma and Stress-Related Disorders
+704: [Psychiatry] Personality Disorders
+705: [Psychiatry] Somatoform Disorders
+706: [Psychiatry] Factitious Disorders, Malingering and Criminality
+707: [Psychiatry] Dissociative Disorders
+708: [Psychiatry] Sleep Disorders
+709: [Psychiatry] Eating Disorders
+710: [Psychiatry] Impulse-Control Disorders
+711: [Psychiatry] Psychiatric Emergencies
+712: [Psychiatry] Normal Sexuality and Sexual Dysfunction
+713: [Psychiatry] Sexual Disorders and Sexual Abuse
+714: [Psychiatry] Intellectual Disability & Specific Learning Disorders
+715: [Psychiatry] Autism Spectrum Disorder
+716: [Psychiatry] Attention-Deficit Disorders and Disruptive Behaviour
+717: [Psychiatry] Special Areas of Childhood Mental Health
+718: [Psychiatry] Forensic Psychiatry
+719: [Psychiatry] Mixed / Miscellaneous Topics
+720: [Radiology] Fundamentals of Imaging
+721: [Radiology] Radiation - Exposure and Protection
+722: [Radiology] Contrast Media and Patient Preparation
+723: [Radiology] Imaging Modalities - Identification
+724: [Radiology] Basics of Chest Imaging
+725: [Radiology] Chest Imaging - Lung Diseases
+726: [Radiology] Chest Imaging - Pleural and Mediastinal Conditions
+727: [Radiology] Neuroimaging - Neurovascular Disorders, Trauma & CT Brain
+728: [Radiology] Neuroimaging - CNS Tumors, Infections & Neurocutaneous Syndromes
+729: [Radiology] Neuroimaging - MRI Brain in Neurodegenerative & Other CNS Disorders
+730: [Radiology] Head and Neck Imaging
+731: [Radiology] GI Imaging - Upper GI Disorders & Pneumoperitoneum
+732: [Radiology] GI Imaging - Lower GI Disorders
+733: [Radiology] Hepatobiliary and Pancreatic Imaging
+734: [Radiology] Renal Imaging
+735: [Radiology] Women's Imaging
+736: [Radiology] Musculoskeletal Imaging
+737: [Radiology] Radiotherapy
+738: [Radiology] Emergency and Interventional Radiology
+739: [Radiology] Mixed / Miscellaneous Topics

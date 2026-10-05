@@ -1,0 +1,537 @@
+  if (q.id === 8425) {
+    return { toModule: 740, reason: "Urinary incontinence pharmacotherapy (antimuscarinics, mirabegron) belongs to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 8426) {
+    return { toModule: 740, reason: "Atropine clinical indications and contraindications belong to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 8429) {
+    return { toModule: 260, reason: "Histamine receptor subtypes and post-receptor G-protein mechanisms belong to NSAIDs & Autacoids" };
+  }
+  if (q.id === 8431) {
+    return { toModule: 228, reason: "Acetazolamide carbonic anhydrase inhibitor use belongs to Diuretics" };
+  }
+  if (q.id === 8441) {
+    return { toModule: 238, reason: "Beta-lactam and antimicrobial resistance mechanisms belong to Penicillins / Antimicrobial resistance" };
+  }
+  if (q.id === 8444) {
+    return { toModule: 268, reason: "Cancer chemotherapy match drugs and mechanisms belong to Cell Cycle Specific Cytotoxic Drugs" };
+  }
+  if (q.id === 8503) {
+    return { toModule: 271, reason: "Drug and specific antidote matching belongs to Pharmacology: Mixed / Miscellaneous Topics" };
+  }
+  if (q.id === 8505) {
+    return { toModule: 3, reason: "Neural plate induction embryology belongs to Anatomy: Embryonic Phase of Development" };
+  }
+  if (q.id === 8506) {
+    return { toModule: 234, reason: "Toxic dose and serum monitoring of lithium belong to Anti-manic Drugs" };
+  }
+  if (q.id === 8507) {
+    return { toModule: 263, reason: "Romiplostim thrombopoietin receptor agonist belongs to Antiplatelets, Fibrinolytics and Antifibrinolytics" };
+  }
+  if (q.id === 8508) {
+    return { toModule: 196, reason: "Tetanospasmin mechanism of action belongs to Microbiology: Clostridium and Bacillus" };
+  }
+  if (q.id === 8509) {
+    return { toModule: 205, reason: "Neisseria gonorrhoeae virulence factors (pili) belong to Microbiology: Gram Negative Cocci" };
+  }
+  if (q.id === 8510) {
+    return { toModule: 650, reason: "Tabes dorsalis neurosyphilis belongs to Dermatology: Syphilis" };
+  }
+  if (q.id === 8511) {
+    return { toModule: 335, reason: "Disciform keratitis due to HSV belongs to Ophthalmology: Basics of Cornea and Infectious Keratitis" };
+  }
+  if (q.id === 8512) {
+    return { toModule: 584, reason: "Severe dehydration intravenous fluid management in infant belongs to Pediatrics: Fluid and Electrolyte Disorders" };
+  }
+  if (q.id === 8513) {
+    return { toModule: 135, reason: "Barr body absence in Turner syndrome (45, X0) belongs to Pathology: Chromosomal Disorders and Other Genetic Diseases" };
+  }
+  if (q.id === 8611) {
+    return { toModule: 740, reason: "Cholinomimetic and anticholinergic drugs indications belong to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 8613) {
+    return { toModule: 228, reason: "Diuretic agents matching clinical uses belong to Diuretics" };
+  }
+  if (q.id === 8627) {
+    return { toModule: 225, reason: "Nitrate and antianginal drug adverse effects belong to Anti-Anginal Drugs" };
+  }
+  if (q.id === 8652) {
+    return { toModule: 221, reason: "Digoxin therapeutic drug monitoring and dose calculation formula belong to Pharmacokinetics" };
+  }
+  if (q.id === 8653) {
+    return { toModule: 740, reason: "Belladonna alkaloid (atropine) toxicity signs belong to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 8654) {
+    return { toModule: 620, reason: "Guedels stages of anaesthesia belong to Anaesthesia: Inhaled Anaesthetics" };
+  }
+  if (q.id === 8658) {
+    return { toModule: 223, reason: "Cardioselective beta-blocker contraindications belong to Sympathomimetics" };
+  }
+  if (q.id === 8661) {
+    return { toModule: 456, reason: "Physiological sinus bradycardia in trained athlete belongs to Medicine: Supraventricular Arrhythmias" };
+  }
+  if (q.id === 8663) {
+    return { toModule: 622, reason: "Propofol hemodynamic and vascular effects belong to Anaesthesia: Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol" };
+  }
+  if (q.id === 8678) {
+    return { toModule: 456, reason: "Atrial flutter saw-tooth baseline and management belong to Medicine: Supraventricular Arrhythmias" };
+  }
+  if (q.id === 8680) {
+    return { toModule: 265, reason: "Methylxanthines positive inotropic/chronotropic effects belong to Respiratory System" };
+  }
+  if (q.id === 8684) {
+    return { toModule: 223, reason: "Beta-blocker hemodynamic and myocardial oxygen consumption effects belong to Sympathomimetics" };
+  }
+  if (q.id === 8723) {
+    return { toModule: 231, reason: "ACE inhibitor-induced angioedema (bradykinin accumulation) belongs to Renin-Angiotensin-Aldosterone System" };
+  }
+  if (q.id === 8725) {
+    return { toModule: 557, reason: "Intravenous hydralazine for severe hypertension in pregnancy belongs to OB & G: Hepatic Disorders and Infections in Pregnancy" };
+  }
+  if (q.id === 8728) {
+    return { toModule: 227, reason: "Verapamil adverse effects (constipation, bradycardia) belong to Antihypertensive Drugs" };
+  }
+  if (q.id === 8733) {
+    return { toModule: 267, reason: "Constipation management from verapamil belongs to Anti-emetics and Drugs Affecting Gastrointestinal Motility" };
+  }
+  if (q.id === 8736) {
+    return { toModule: 228, reason: "Mannitol osmotic diuresis for elevated ICP belongs to Diuretics" };
+  }
+  if (q.id === 8913) {
+    return { toModule: 708, reason: "Zaleplon non-benzodiazepine hypnotic for sleep-onset insomnia belongs to Psychiatry: Sleep Disorders" };
+  }
+  if (q.id === 8920) {
+    return { toModule: 608, reason: "Breath-holding spells clinical evaluation and management belong to Pediatrics: Mixed / Miscellaneous Topics" };
+  }
+  if (q.id === 8922) {
+    return { toModule: 708, reason: "Triazolam short-acting benzodiazepine for sleep-onset insomnia belongs to Psychiatry: Sleep Disorders" };
+  }
+  if (q.id === 8923) {
+    return { toModule: 701, reason: "Lorazepam oral benzodiazepine for panic disorder belongs to Psychiatry: Anxiety Disorders" };
+  }
+  if (q.id === 8975) {
+    return { toModule: 236, reason: "Codeine ultra-rapid CYP2D6 metabolism toxicity belongs to Opioids - Functions and Classification" };
+  }
+  if (q.id === 8980) {
+    return { toModule: 236, reason: "Morphine in acute pulmonary edema and myocardial infarction belongs to Opioids - Functions and Classification" };
+  }
+  if (q.id === 8983) {
+    return { toModule: 236, reason: "Morphine contraindication in biliary colic (sphincter of Oddi spasm) belongs to Opioids - Functions and Classification" };
+  }
+  if (q.id === 8989) {
+    return { toModule: 237, reason: "Propoxyphene cardiotoxicity and pharmacology belong to Synthetic Opioids" };
+  }
+  if (q.id === 8990) {
+    return { toModule: 236, reason: "Phenanthrene derivative opioid classification belongs to Opioids - Functions and Classification" };
+  }
+  if (q.id === 8997) {
+    return { toModule: 236, reason: "Opioid antitussives (codeine, dextromethorphan) belong to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9001) {
+    return { toModule: 236, reason: "Endogenous opioid peptides receptor affinities (endorphins, enkephalins, dynorphins) belong to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9002) {
+    return { toModule: 236, reason: "Opioid receptor subtypes match endogenous ligands belong to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9125) {
+    return { toModule: 241, reason: "Chlamydial urethritis treatment (azithromycin, doxycycline) belongs to Sulfonamides, Quinolones and Urinary Antiseptics" };
+  }
+  if (q.id === 9127) {
+    return { toModule: 557, reason: "Pelvic inflammatory disease inpatient empiric therapy belongs to OB & G: Hepatic Disorders and Infections in Pregnancy" };
+  }
+  if (q.id === 9129) {
+    return { toModule: 206, reason: "Chlamydia trachomatis biology and tetracycline therapy belong to Microbiology: Rickettsia, Chlamydia and Mycoplasma" };
+  }
+  if (q.id === 9131) {
+    return { toModule: 428, reason: "Hepatic encephalopathy lactulose and rifaximin therapy belong to Medicine: Acute Liver Failure and Complications of Cirrhosis" };
+  }
+  if (q.id === 9132) {
+    return { toModule: 243, reason: "Antiretroviral agents drug class matching belongs to Antiretroviral Drugs" };
+  }
+  if (q.id === 9140) {
+    return { toModule: 243, reason: "Tenofovir/emtricitabine pre-exposure prophylaxis (PrEP) belongs to Antiretroviral Drugs" };
+  }
+  if (q.id === 9141) {
+    return { toModule: 243, reason: "HBV and HIV nucleoside analogue spectrum belongs to Antiretroviral Drugs" };
+  }
+  if (q.id === 9145) {
+    return { toModule: 243, reason: "Abacavir hypersensitivity and HLA-B*5701 screening belong to Antiretroviral Drugs" };
+  }
+  if (q.id === 9146) {
+    return { toModule: 243, reason: "Lamivudine antiretroviral fixed-dose combinations belong to Antiretroviral Drugs" };
+  }
+  if (q.id === 9147) {
+    return { toModule: 243, reason: "Tenofovir disoproxil fumarate prodrug activation belongs to Antiretroviral Drugs" };
+  }
+  if (q.id === 9148) {
+    return { toModule: 243, reason: "Tenofovir dual activity against HIV and HBV belongs to Antiretroviral Drugs" };
+  }
+  if (q.id === 9149) {
+    return { toModule: 243, reason: "Nevirapine single-dose intrapartum PMTCT belongs to Antiretroviral Drugs" };
+  }
+  if (q.id === 9150) {
+    return { toModule: 243, reason: "Lopinavir/ritonavir CYP3A inhibition boosting belongs to Antiretroviral Drugs" };
+  }
+  if (q.id === 9294) {
+    return { toModule: 260, reason: "Icatibant bradykinin B2 receptor antagonist for hereditary angioedema belongs to NSAIDs & Autacoids" };
+  }
+  if (q.id === 9301) {
+    return { toModule: 248, reason: "Rifampin adult dosage in antitubercular regimen belongs to First Line Drugs for Tuberculosis" };
+  }
+  if (q.id === 9318) {
+    return { toModule: 248, reason: "Isoniazid hepatic cytochrome P450 enzyme effects belong to First Line Drugs for Tuberculosis" };
+  }
+  if (q.id === 9331) {
+    return { toModule: 740, reason: "M3 muscarinic receptor Gq signaling in ciliary muscle belongs to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 9350) {
+    return { toModule: 251, reason: "Ganciclovir for CMV prophylaxis in renal transplant belongs to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9352) {
+    return { toModule: 251, reason: "Acyclovir/valacyclovir oral regimens for genital HSV belong to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9353) {
+    return { toModule: 251, reason: "Acyclovir guanosine derivative for recurrent herpes labialis belongs to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9354) {
+    return { toModule: 251, reason: "Acyclovir viral thymidine kinase triple phosphorylation belongs to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9355) {
+    return { toModule: 251, reason: "Intravenous acyclovir dosing for neonatal HSV infection belongs to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9356) {
+    return { toModule: 251, reason: "Foscarnet for acyclovir-resistant HSV encephalitis belongs to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9359) {
+    return { toModule: 251, reason: "Famciclovir penciclovir prodrug mechanism belongs to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9456) {
+    return { toModule: 424, reason: "Post-thyroidectomy hypocalcemic tetany belongs to Medicine: Disorders of Parathyroid and Calcium" };
+  }
+  if (q.id === 9457) {
+    return { toModule: 266, reason: "Proton pump inhibitor adverse effect profile belongs to Acid Peptic Disorders and Inflammatory Bowel Disease" };
+  }
+  if (q.id === 9466) {
+    return { toModule: 255, reason: "Bisphosphonate farnesyl pyrophosphate synthase inhibition belongs to Osteoporosis and Calcium Metabolism" };
+  }
+  if (q.id === 9471) {
+    return { toModule: 255, reason: "Raloxifene and hormone replacement therapy for osteoporosis belong to Osteoporosis and Calcium Metabolism" };
+  }
+  if (q.id === 9474) {
+    return { toModule: 255, reason: "Denosumab monoclonal antibody mimicking osteoprotegerin belongs to Osteoporosis and Calcium Metabolism" };
+  }
+  if (q.id === 9482) {
+    return { toModule: 584, reason: "Pediatric diarrheal fluid loss and oral rehydration physiology belong to Pediatrics: Fluid and Electrolyte Disorders" };
+  }
+  if (q.id === 9506) {
+    return { toModule: 256, reason: "Sulfonylurea hypoglycemia risk (glyburide/glipizide) belongs to Anti-Diabetic Drugs - Oral" };
+  }
+  if (q.id === 9562) {
+    return { toModule: 740, reason: "Hemicholinium and vesamicol cholinergic neurochemistry sites belong to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 9563) {
+    return { toModule: 740, reason: "Hemicholinium (choline uptake) and vesamicol (ACh storage) diagram belongs to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 9729) {
+    return { toModule: 466, reason: "Quetiapine for Parkinson disease psychosis belongs to Medicine: Extrapyramidal Syndromes and Movement Disorders" };
+  }
+  if (q.id === 9736) {
+    return { toModule: 266, reason: "Metronidazole disulfiram-like reaction in H. pylori eradication belongs to Acid Peptic Disorders and Inflammatory Bowel Disease" };
+  }
+  if (q.id === 9737) {
+    return { toModule: 253, reason: "Levothyroxine replacement in Hashimoto hypothyroidism belongs to Thyroid and Antithyroid Agents" };
+  }
+  if (q.id === 9738) {
+    return { toModule: 271, reason: "Deferoxamine parenteral iron chelator for acute iron poisoning belongs to Mixed / Miscellaneous Topics" };
+  }
+  if (q.id === 9740) {
+    return { toModule: 221, reason: "Isoniazid acetylation pharmacogenetics and hepatotoxicity belong to Pharmacokinetics" };
+  }
+  if (q.id === 9741) {
+    return { toModule: 740, reason: "Ganglion blocker autonomic symptoms (tachycardia, mydriasis) belong to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 9747) {
+    return { toModule: 466, reason: "Levodopa D2 receptor overstimulation psychosis belongs to Medicine: Extrapyramidal Syndromes and Movement Disorders" };
+  }
+  if (q.id === 9749) {
+    return { toModule: 465, reason: "Antiepileptic management and folic acid supplementation in pregnancy belong to Medicine: Seizure and Epilepsy" };
+  }
+  if (q.id === 9755) {
+    return { toModule: 466, reason: "Quetiapine management of levodopa-induced visual hallucinations belongs to Medicine: Extrapyramidal Syndromes and Movement Disorders" };
+  }
+  if (q.id === 9757) {
+    return { toModule: 253, reason: "Levothyroxine drug interactions and dose adjustment belong to Thyroid and Antithyroid Agents" };
+  }
+  if (q.id === 4575) {
+    return { toModule: 268, reason: "Methotrexate folate antagonist mechanism belongs to Cell Cycle Specific Cytotoxic Drugs" };
+  }
+  if (q.id === 4680) {
+    return { toModule: 268, reason: "Microtubule inhibitors (vincristine, paclitaxel) belong to Cell Cycle Specific Cytotoxic Drugs" };
+  }
+  if (q.id === 4698) {
+    return { toModule: 268, reason: "Doxorubicin topoisomerase II inhibition belongs to Cell Cycle Specific Cytotoxic Drugs" };
+  }
+  if (q.id === 9554) {
+    return { toModule: 265, reason: "Inhaled nitric oxide for persistent pulmonary hypertension of newborn belongs to Respiratory System" };
+  }
+  if (q.id === 8969) {
+    return { toModule: 236, reason: "Morphine contraindication in head trauma (elevated ICP from CO2 retention) belongs to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9073) {
+    return { toModule: 236, reason: "Opioid adverse effects (respiratory depression, constipation) belong to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9079) {
+    return { toModule: 236, reason: "Opioid overdose triad and pinpoint pupils belong to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9182) {
+    return { toModule: 206, reason: "Mycoplasma bacterial characteristics belong to Microbiology: Rickettsia, Chlamydia and Mycoplasma" };
+  }
+  if (q.id === 9309) {
+    return { toModule: 248, reason: "Adverse effects of antitubercular therapy (isoniazid, rifampin) belong to First Line Drugs for Tuberculosis" };
+  }
+  if (q.id === 9696) {
+    return { toModule: 623, reason: "Etomidate lack of cardiovascular depression in IV induction belongs to Anaesthesia: Intravenous Anaesthesia - Etomidate, Ketamine" };
+  }
+  if (q.id === 9703) {
+    return { toModule: 620, reason: "Inhaled anaesthetics respiratory depression (halothane, isoflurane) belongs to Anaesthesia: Inhaled Anaesthetics" };
+  }
+  if (q.id === 9710) {
+    return { toModule: 236, reason: "Analgesics and respiratory depression profile belong to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9713) {
+    return { toModule: 266, reason: "Celiac disease and chronic malabsorptive diarrhea management belong to Acid Peptic Disorders and Inflammatory Bowel Disease" };
+  }
+  if (q.id === 8468) {
+    return { toModule: 247, reason: "Itraconazole for blastomycosis belongs to Antifungal Agents" };
+  }
+  if (q.id === 8495) {
+    return { toModule: 716, reason: "ADHD clinical features and complications belong to Psychiatry: Attention-Deficit Disorders" };
+  }
+  if (q.id === 8603) {
+    return { toModule: 466, reason: "Benign essential tremor treatment with propranolol/primidone belongs to Medicine: Extrapyramidal Syndromes and Movement Disorders" };
+  }
+  if (q.id === 8666) {
+    return { toModule: 740, reason: "Muscarinic receptor stimulation actions belong to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 8700) {
+    return { toModule: 244, reason: "Penicillin as drug of choice for acute rheumatic fever prophylaxis belongs to Penicillins" };
+  }
+  if (q.id === 8803) {
+    return { toModule: 230, reason: "Bempedoic acid for hyperlipidemia belongs to Hypolipidemic Drugs" };
+  }
+  if (q.id === 9014) {
+    return { toModule: 717, reason: "Trofinetide approved for Rett syndrome belongs to Psychiatry: Special Areas of Childhood Mental Health" };
+  }
+  if (q.id === 9049) {
+    return { toModule: 643, reason: "Psoriasis treatment adverse effects belong to Dermatology: Psoriasis" };
+  }
+  if (q.id === 9389) {
+    return { toModule: 430, reason: "Esophageal variceal bleeding and portal hypertension belong to Medicine: Portal Hypertension" };
+  }
+  if (q.id === 9533) {
+    return { toModule: 257, reason: "Medical therapy of polycystic ovarian disease (OCPs, spironolactone, clomiphene) belongs to OCPs, Estrogens and Progestins" };
+  }
+  if (q.id === 9609) {
+    return { toModule: 260, reason: "Celecoxib COX-2 selective NSAID in peptic ulcer disease belongs to NSAIDs" };
+  }
+  if (q.id === 9743) {
+    return { toModule: 466, reason: "Amantadine toxicity (livedo reticularis, orthostatic hypotension) belongs to Medicine: Extrapyramidal Syndromes and Movement Disorders" };
+  }
+  if (q.id === 9753) {
+    return { toModule: 270, reason: "Erythropoietin replacement for anemia in chronic kidney disease belongs to Interleukins, Growth Factors and Targeted Therapies" };
+  }
+  if (q.id === 9756) {
+    return { toModule: 231, reason: "Captopril ACE inhibitor contraindication in pregnancy belongs to Renin-Angiotensin-Aldosterone System" };
+  }
+  if (q.id === 9759) {
+    return { toModule: 261, reason: "Xanthine oxidase inhibition by allopurinol for gout belongs to Anti-migraine and Antigout drugs" };
+  }
+  if (q.id === 9761) {
+    return { toModule: 265, reason: "5-Lipoxygenase and leukotriene biosynthesis belong to Respiratory System" };
+  }
+  if (q.id === 9771) {
+    return { toModule: 245, reason: "Cefoperazone disulfiram-like reaction with alcohol belongs to Cephalosporins, Vancomycin and Carbapenems" };
+  }
+  if (q.id === 8486) {
+    return { toModule: 221, reason: "Enteric coated tablets pharmacokinetics and absorption belong to Pharmacokinetics" };
+  }
+  if (q.id === 8565) {
+    return { toModule: 466, reason: "Trihexyphenidyl for drug-induced parkinsonism belongs to Medicine: Extrapyramidal Syndromes and Movement Disorders" };
+  }
+  if (q.id === 8649) {
+    return { toModule: 740, reason: "Antimuscarinic atropine overdose toxicity belongs to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 8731) {
+    return { toModule: 229, reason: "Amiodarone ceruloderma blue-grey skin discoloration belongs to Anti-Arrhythmic Drugs" };
+  }
+  if (q.id === 8737) {
+    return { toModule: 228, reason: "Acetazolamide carbonic anhydrase inhibitor adverse effects belong to Diuretics" };
+  }
+  if (q.id === 8924) {
+    return { toModule: 235, reason: "Buspirone 5-HT1A partial agonist for generalized anxiety disorder belongs to Antidepressant and Antianxiety Drugs" };
+  }
+  if (q.id === 9122) {
+    return { toModule: 242, reason: "Chloramphenicol bone marrow suppression and aplastic anemia belong to Antimicrobials Acting on 30S Subunit" };
+  }
+  if (q.id === 9244) {
+    return { toModule: 221, reason: "Henderson-Hasselbalch ion trapping effect belongs to Pharmacokinetics" };
+  }
+  if (q.id === 9338) {
+    return { toModule: 249, reason: "Cycloserine neuropsychiatric side effects belong to Second Line Drugs for Tuberculosis" };
+  }
+  if (q.id === 9361) {
+    return { toModule: 251, reason: "Ganciclovir myelosuppression adverse effect belongs to Anti-virals (Non-retroviral)" };
+  }
+  if (q.id === 9526) {
+    return { toModule: 267, reason: "Teduglutide GLP-2 analogue for short bowel syndrome belongs to Anti-emetics and Drugs Affecting Gastrointestinal Motility" };
+  }
+  if (q.id === 9723) {
+    return { toModule: 265, reason: "Cromolyn sodium mast cell stabilizer in asthma belongs to Respiratory System" };
+  }
+  if (q.id === 9781) {
+    return { toModule: 246, reason: "Pyrantel pamoate neuromuscular blocking anthelmintic belongs to Anti-Protozoal Agents and Anthelmintic Drugs" };
+  }
+  if (q.id === 9783) {
+    return { toModule: 740, reason: "Muscarinic agonist ocular and smooth muscle actions belong to Parasympathomimetics & Cholinergic Agonists" };
+  }
+  if (q.id === 9785) {
+    return { toModule: 466, reason: "Antipsychotic-induced acute muscular dystonia management belongs to Medicine: Extrapyramidal Syndromes and Movement Disorders" };
+  }
+  if (q.id === 9019) {
+    return { toModule: 253, reason: "Myxedema coma treatment with intravenous levothyroxine belongs to Thyroid and Antithyroid Agents" };
+  }
+  if (q.id === 9544) {
+    return { toModule: 226, reason: "SGLT2 inhibitors and mortality reduction in heart failure (HFpEF) belong to Heart Failure Drugs" };
+  }
+  if (q.id === 9663) {
+    return { toModule: 264, reason: "Anticoagulation in atrial fibrillation with mitral stenosis belongs to Anticoagulants" };
+  }
+  if (q.id === 9784) {
+    return { toModule: 260, reason: "Capsaicin substance P depletion for post-herpetic neuralgia belongs to NSAIDs" };
+  }
+  if (q.id === 9839) {
+    return { toModule: 268, reason: "Bleomycin pulmonary toxicity aggravated by radiation belongs to Cell Cycle Specific Cytotoxic Drugs" };
+  }
+  if (q.id === 8448) {
+    return { toModule: 221, reason: "Levodopa/carbidopa bioavailability and peripheral decarboxylase inhibition belong to Pharmacokinetics" };
+  }
+  if (q.id === 8541) {
+    return { toModule: 227, reason: "Centrally acting antihypertensives (clonidine, methyldopa) belong to Antihypertensive Drugs" };
+  }
+  if (q.id === 8791) {
+    return { toModule: 229, reason: "Amiodarone-induced hypothyroidism belongs to Anti-Arrhythmic Drugs" };
+  }
+  if (q.id === 8858) {
+    return { toModule: 698, reason: "Bipolar disorder maintenance in pregnancy belongs to Psychiatry: Bipolar and Related Disorders" };
+  }
+  if (q.id === 8859) {
+    return { toModule: 698, reason: "Hypomania and mood stabilizer teratogenicity in pregnancy belong to Psychiatry: Bipolar and Related Disorders" };
+  }
+  if (q.id === 8875) {
+    return { toModule: 235, reason: "Lamotrigine-induced hemophagocytic lymphohistiocytosis (HLH) in depression belongs to Antidepressant and Antianxiety Drugs" };
+  }
+  if (q.id === 8699) {
+    return { toModule: 252, reason: "HCG/GnRH therapy for cryptorchidism belongs to Hypothalamus and Pituitary" };
+  }
+  if (q.id === 8942) {
+    return { toModule: 699, reason: "Delirium tremens alcohol withdrawal management with benzodiazepines belongs to Psychiatry: Alcohol-Related Disorders" };
+  }
+  if (q.id === 9391) {
+    return { toModule: 252, reason: "Laron dwarfism and Mecasermin (IGF-1 analog) belong to Hypothalamus and Pituitary" };
+  }
+  if (q.id === 8587) {
+    return { toModule: 253, reason: "Radioactive iodine ablation and Graves ophthalmopathy belong to Thyroid and Antithyroid Agents" };
+  }
+  if (q.id === 8819) {
+    return { toModule: 227, reason: "Antihypertensive overdose causing reflex tachycardia belongs to Antihypertensive Drugs" };
+  }
+  if (q.id === 9575) {
+    return { toModule: 231, reason: "Captopril ACE inhibitor interaction with indomethacin belongs to Renin-Angiotensin-Aldosterone System" };
+  }
+  if (q.id === 8818) {
+    return { toModule: 253, reason: "Levothyroxine dose increase with estrogen/SERMs belongs to Thyroid and Antithyroid Agents" };
+  }
+  if (q.id === 9734) {
+    return { toModule: 67, reason: "Monosodium glutamate and central glutamate receptors belong to Physiology: Neurotransmitters" };
+  }
+  if (q.id === 9899) {
+    return { toModule: 135, reason: "Fetal hydantoin syndrome teratogenic morphology belongs to Pathology: Chromosomal Disorders and Other Genetic Diseases" };
+  }
+  if (q.id === 9754) {
+    return { toModule: 498, reason: "Mechanical small bowel obstruction diagnosis belongs to Surgery: Small Intestine" };
+  }
+  if (q.id === 8967) {
+    return { toModule: 60, reason: "Gq stimulatory protein in PIP2-phospholipase pathway belongs to Physiology: Cellular Messengers & Receptors" };
+  }
+  if (q.id === 8970) {
+    return { toModule: 221, reason: "Pharmacological cross-tolerance and reverse tolerance definitions belong to Pharmacokinetics" };
+  }
+  if (q.id === 8977) {
+    return { toModule: 271, reason: "Drugs & Cosmetics Rules (India) drug schedules belong to Mixed / Miscellaneous Topics" };
+  }
+  if (q.id === 8995) {
+    return { toModule: 253, reason: "Levothyroxine peripheral conversion of T4 to T3 belongs to Thyroid and Antithyroid Agents" };
+  }
+  if (q.id === 9816) {
+    return { toModule: 236, reason: "Loperamide peripheral mu-opioid agonist for diarrhea belongs to Opioids - Functions and Classification" };
+  }
+  if (q.id === 9000) {
+    return { toModule: 699, reason: "Acute alcohol intoxication clinical signs belong to Psychiatry: Alcohol-Related Disorders" };
+  }
+  if (q.id === 9008) {
+    return { toModule: 252, reason: "GnRH antagonists clinical indications belong to Hypothalamus and Pituitary" };
+  }
+  if (q.id === 9015) {
+    return { toModule: 291, reason: "Strychnine poisoning antidote belongs to Forensic Medicine: Organic Irritants - Plant and Animal Poisons" };
+  }
+  if (q.id === 8863) {
+    return { toModule: 233, reason: "Vigabatrin visual field constriction adverse effect belongs to Anti-epileptics I" };
+  }
+  if (q.id === 9018) {
+    return { toModule: 699, reason: "Disulfiram mechanism in alcohol aversion therapy belongs to Psychiatry: Alcohol-Related Disorders" };
+  }
+  if (q.id === 9027) {
+    return { toModule: 412, reason: "Cyanosis and low oxygen carrying capacity belong to Medicine: Acid-Base Disorders" };
+  }
+  if (q.id === 9033) {
+    return { toModule: 254, reason: "Glucocorticoid replacement in Addison disease belongs to Corticosteroids" };
+  }
+  if (q.id === 9034) {
+    return { toModule: 234, reason: "Lithium chronic adverse effects profile belongs to Anti-manic Drugs" };
+  }
+  if (q.id === 9035) {
+    return { toModule: 692, reason: "Risperidone-induced hyperprolactinemia belongs to Psychiatry: Schizophrenia" };
+  }
+  if (q.id === 9036) {
+    return { toModule: 584, reason: "Pediatric dehydration rehydration fluid protocol belongs to Pediatrics: Fluid and Electrolyte Disorders" };
+  }
+  if (q.id === 9044) {
+    return { toModule: 692, reason: "Olanzapine adverse effect profile in schizophrenia belongs to Psychiatry: Schizophrenia" };
+  }
+  if (q.id === 9285) {
+    return { toModule: 248, reason: "3HP regimen (Isoniazid + Rifapentine) belongs to First Line Drugs for Tuberculosis" };
+  }
+  if (q.id === 9382) {
+    return { toModule: 252, reason: "Octreotide somatostatin analog for growth hormone secreting adenoma belongs to Hypothalamus and Pituitary" };
+  }
+  if (q.id === 9534) {
+    return { toModule: 257, reason: "Tamoxifen endometrial cancer risk (SERM) belongs to OCPs, Estrogens and Progestins" };
+  }
+  if (q.id === 9535) {
+    return { toModule: 257, reason: "Tamoxifen adverse effect profile in breast cancer belongs to OCPs, Estrogens and Progestins" };
+  }
+  if (q.id === 9711) {
+    return { toModule: 265, reason: "Theophylline adenosine antagonism and diuresis in COPD belong to Respiratory System" };
+  }
+  if (q.id === 9712) {
+    return { toModule: 265, reason: "Ipratropium bromide muscarinic antagonist for COPD belongs to Respiratory System" };
+  }
+  if (q.id === 9842) {
+    return { toModule: 244, reason: "Bacterial cell wall peptidoglycan cross-linking and beta-lactam target belong to Penicillins" };
+  }
+  if (q.id === 9867) {
+    return { toModule: 146, reason: "Sickle cell disease disease-modifying therapies belong to Pathology: G6PD Deficiency and Autoimmune Hemolytic Anemias" };
+  }
+  if (q.id === 8847) {
+    return { toModule: 60, reason: "JAK-STAT signaling pathway mechanism belongs to Physiology: Cellular Messengers & Receptors" };
+  }

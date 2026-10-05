@@ -1,0 +1,1568 @@
+[
+  {
+    "id": 12208,
+    "fromModule": 293,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12138,
+    "fromModule": 294,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12175,
+    "fromModule": 294,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 11270,
+    "fromModule": 294,
+    "toModule": 336,
+    "reason": "Ophthalmology condition found in ENT"
+  },
+  {
+    "id": 12207,
+    "fromModule": 295,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12186,
+    "fromModule": 295,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12161,
+    "fromModule": 295,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12215,
+    "fromModule": 295,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12256,
+    "fromModule": 295,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11951,
+    "fromModule": 300,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12205,
+    "fromModule": 300,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 11330,
+    "fromModule": 300,
+    "toModule": 314,
+    "reason": "Rhinology pathology misplaced in Ear section"
+  },
+  {
+    "id": 11350,
+    "fromModule": 300,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 12219,
+    "fromModule": 300,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Ear section"
+  },
+  {
+    "id": 11344,
+    "fromModule": 300,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11343,
+    "fromModule": 300,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11414,
+    "fromModule": 302,
+    "toModule": 336,
+    "reason": "Ophthalmology condition found in ENT"
+  },
+  {
+    "id": 11418,
+    "fromModule": 302,
+    "toModule": 336,
+    "reason": "Ophthalmology condition found in ENT"
+  },
+  {
+    "id": 11419,
+    "fromModule": 302,
+    "toModule": 336,
+    "reason": "Ophthalmology condition found in ENT"
+  },
+  {
+    "id": 11929,
+    "fromModule": 306,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11930,
+    "fromModule": 306,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11937,
+    "fromModule": 306,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11192,
+    "fromModule": 306,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11927,
+    "fromModule": 306,
+    "toModule": 318,
+    "reason": "Pharynx pathology misplaced in Ear section"
+  },
+  {
+    "id": 11125,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 11297,
+    "fromModule": 313,
+    "toModule": 301,
+    "reason": "Otology condition misplaced in Nose section"
+  },
+  {
+    "id": 11520,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12158,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 11181,
+    "fromModule": 313,
+    "toModule": 301,
+    "reason": "Otology condition misplaced in Nose section"
+  },
+  {
+    "id": 12196,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12103,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12150,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12214,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12216,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 11124,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12163,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12185,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12180,
+    "fromModule": 313,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 11854,
+    "fromModule": 316,
+    "toModule": 301,
+    "reason": "Otology condition misplaced in Nose section"
+  },
+  {
+    "id": 12233,
+    "fromModule": 316,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 12023,
+    "fromModule": 316,
+    "toModule": 320,
+    "reason": "Laryngeal pathology misplaced in Nose section"
+  },
+  {
+    "id": 11223,
+    "fromModule": 323,
+    "toModule": 301,
+    "reason": "Otology condition misplaced in Throat/Larynx section"
+  },
+  {
+    "id": 12028,
+    "fromModule": 323,
+    "toModule": 301,
+    "reason": "Otology condition misplaced in Throat/Larynx section"
+  },
+  {
+    "id": 11202,
+    "fromModule": 326,
+    "toModule": 301,
+    "reason": "Otology condition misplaced in Throat/Larynx section"
+  },
+  {
+    "id": 12251,
+    "fromModule": 328,
+    "toModule": 439,
+    "reason": "Internal Medicine condition found in ENT"
+  },
+  {
+    "id": 12751,
+    "fromModule": 329,
+    "toModule": 338,
+    "reason": "Cataract / Lens condition mapped from general module"
+  },
+  {
+    "id": 13292,
+    "fromModule": 329,
+    "toModule": 338,
+    "reason": "Cataract / Lens condition mapped from general module"
+  },
+  {
+    "id": 13676,
+    "fromModule": 329,
+    "toModule": 347,
+    "reason": "Neuro-ophthalmology condition mapped from general module"
+  },
+  {
+    "id": 12450,
+    "fromModule": 329,
+    "toModule": 338,
+    "reason": "Cataract / Lens condition mapped from general module"
+  },
+  {
+    "id": 249,
+    "fromModule": 329,
+    "toModule": 343,
+    "reason": "Retinal condition mapped from general module"
+  },
+  {
+    "id": 12526,
+    "fromModule": 333,
+    "toModule": 438,
+    "reason": "Pulmonology condition in Ophthalmology"
+  },
+  {
+    "id": 12579,
+    "fromModule": 333,
+    "toModule": 438,
+    "reason": "Pulmonology condition in Ophthalmology"
+  },
+  {
+    "id": 13095,
+    "fromModule": 341,
+    "toModule": 438,
+    "reason": "Pulmonology condition in Ophthalmology"
+  },
+  {
+    "id": 13135,
+    "fromModule": 341,
+    "toModule": 438,
+    "reason": "Pulmonology condition in Ophthalmology"
+  },
+  {
+    "id": 13106,
+    "fromModule": 341,
+    "toModule": 438,
+    "reason": "Pulmonology condition in Ophthalmology"
+  },
+  {
+    "id": 14415,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14642,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14638,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14574,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14635,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14700,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14781,
+    "fromModule": 355,
+    "toModule": 358,
+    "reason": "Screening test metrics mapped to dedicated module"
+  },
+  {
+    "id": 15358,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14086,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14102,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14107,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14108,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14121,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14125,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14132,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14137,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14164,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14325,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14323,
+    "fromModule": 355,
+    "toModule": 359,
+    "reason": "Epidemiological study design mapped to dedicated module"
+  },
+  {
+    "id": 15893,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14714,
+    "fromModule": 355,
+    "toModule": 358,
+    "reason": "Screening test metrics mapped to dedicated module"
+  },
+  {
+    "id": 14584,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14626,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14633,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14643,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14650,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14649,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14790,
+    "fromModule": 355,
+    "toModule": 358,
+    "reason": "Screening test metrics mapped to dedicated module"
+  },
+  {
+    "id": 14786,
+    "fromModule": 355,
+    "toModule": 358,
+    "reason": "Screening test metrics mapped to dedicated module"
+  },
+  {
+    "id": 15367,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15991,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16045,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16046,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16060,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16056,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16069,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16094,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16108,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16109,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16135,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16143,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15889,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15871,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15888,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15901,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15957,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15958,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15972,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15987,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 15979,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16055,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 16132,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14321,
+    "fromModule": 355,
+    "toModule": 359,
+    "reason": "Epidemiological study design mapped to dedicated module"
+  },
+  {
+    "id": 14651,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 15216,
+    "fromModule": 355,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 14019,
+    "fromModule": 355,
+    "toModule": 363,
+    "reason": "Vaccination & Cold Chain mapped to dedicated module"
+  },
+  {
+    "id": 14876,
+    "fromModule": 374,
+    "toModule": 692,
+    "reason": "Pure clinical Psychiatry in PSM"
+  },
+  {
+    "id": 16157,
+    "fromModule": 409,
+    "toModule": 692,
+    "reason": "Pure clinical Psychiatry in PSM"
+  },
+  {
+    "id": 16176,
+    "fromModule": 410,
+    "toModule": 405,
+    "reason": "Biostatistics mapped to dedicated module"
+  },
+  {
+    "id": 24594,
+    "fromModule": 609,
+    "toModule": 618,
+    "reason": "Airway mapped to dedicated module"
+  },
+  {
+    "id": 24595,
+    "fromModule": 609,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25563,
+    "fromModule": 609,
+    "toModule": 625,
+    "reason": "Neuraxial block mapped to dedicated module"
+  },
+  {
+    "id": 24630,
+    "fromModule": 610,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25291,
+    "fromModule": 611,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25208,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24663,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24664,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24665,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24666,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24669,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24673,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24674,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25139,
+    "fromModule": 612,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25098,
+    "fromModule": 614,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24757,
+    "fromModule": 614,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24667,
+    "fromModule": 618,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24687,
+    "fromModule": 618,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24744,
+    "fromModule": 618,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25476,
+    "fromModule": 618,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25482,
+    "fromModule": 618,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25134,
+    "fromModule": 619,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 9216,
+    "fromModule": 620,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 8654,
+    "fromModule": 620,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25212,
+    "fromModule": 620,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25090,
+    "fromModule": 620,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24801,
+    "fromModule": 620,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25122,
+    "fromModule": 620,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25100,
+    "fromModule": 621,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25097,
+    "fromModule": 621,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25131,
+    "fromModule": 621,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25149,
+    "fromModule": 621,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25151,
+    "fromModule": 621,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25330,
+    "fromModule": 621,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24675,
+    "fromModule": 621,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25186,
+    "fromModule": 622,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25267,
+    "fromModule": 622,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25205,
+    "fromModule": 622,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25207,
+    "fromModule": 622,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25219,
+    "fromModule": 622,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25235,
+    "fromModule": 622,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25241,
+    "fromModule": 622,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 9696,
+    "fromModule": 623,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24668,
+    "fromModule": 623,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25275,
+    "fromModule": 623,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24685,
+    "fromModule": 623,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25337,
+    "fromModule": 623,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25347,
+    "fromModule": 623,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 9887,
+    "fromModule": 624,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25494,
+    "fromModule": 624,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25361,
+    "fromModule": 624,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25511,
+    "fromModule": 624,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25276,
+    "fromModule": 626,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24693,
+    "fromModule": 626,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25101,
+    "fromModule": 627,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24747,
+    "fromModule": 627,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25583,
+    "fromModule": 627,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24743,
+    "fromModule": 630,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25198,
+    "fromModule": 630,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 25695,
+    "fromModule": 630,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24907,
+    "fromModule": 631,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 24906,
+    "fromModule": 631,
+    "toModule": 692,
+    "reason": "Psychiatry disorder in Anaesthesia"
+  },
+  {
+    "id": 1061,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26716,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26720,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26974,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Wrist fracture mapped to dedicated module"
+  },
+  {
+    "id": 27052,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27061,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27846,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26706,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Wrist fracture mapped to dedicated module"
+  },
+  {
+    "id": 27845,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Bone tumor mapped to dedicated module"
+  },
+  {
+    "id": 27057,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27982,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26673,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26741,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Wrist fracture mapped to dedicated module"
+  },
+  {
+    "id": 26793,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27037,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27054,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27078,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26709,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26733,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26744,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26770,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26779,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26777,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26780,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26784,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26794,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26960,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Wrist fracture mapped to dedicated module"
+  },
+  {
+    "id": 26997,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Wrist fracture mapped to dedicated module"
+  },
+  {
+    "id": 27045,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27049,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27053,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27803,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Bone tumor mapped to dedicated module"
+  },
+  {
+    "id": 27870,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Bone tumor mapped to dedicated module"
+  },
+  {
+    "id": 27933,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27969,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27065,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27050,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27588,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 26695,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27086,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Hip / Femur injury mapped to dedicated module"
+  },
+  {
+    "id": 27081,
+    "fromModule": 680,
+    "toModule": 692,
+    "reason": "Psychiatry in Ortho"
+  },
+  {
+    "id": 28026,
+    "fromModule": 686,
+    "toModule": 675,
+    "reason": "Metabolic bone disease mapped to dedicated module"
+  },
+  {
+    "id": 28033,
+    "fromModule": 686,
+    "toModule": 672,
+    "reason": "Spine disorder mapped to dedicated module"
+  },
+  {
+    "id": 28075,
+    "fromModule": 687,
+    "toModule": 697,
+    "reason": "Depression mapped to dedicated module"
+  },
+  {
+    "id": 28104,
+    "fromModule": 688,
+    "toModule": 459,
+    "reason": "Cardiology emergency in Psychiatry"
+  },
+  {
+    "id": 28159,
+    "fromModule": 688,
+    "toModule": 459,
+    "reason": "Cardiology emergency in Psychiatry"
+  },
+  {
+    "id": 28574,
+    "fromModule": 688,
+    "toModule": 459,
+    "reason": "Cardiology emergency in Psychiatry"
+  },
+  {
+    "id": 28251,
+    "fromModule": 692,
+    "toModule": 459,
+    "reason": "Cardiology emergency in Psychiatry"
+  },
+  {
+    "id": 28385,
+    "fromModule": 692,
+    "toModule": 459,
+    "reason": "Cardiology emergency in Psychiatry"
+  },
+  {
+    "id": 28082,
+    "fromModule": 696,
+    "toModule": 459,
+    "reason": "Cardiology emergency in Psychiatry"
+  },
+  {
+    "id": 28092,
+    "fromModule": 699,
+    "toModule": 459,
+    "reason": "Cardiology emergency in Psychiatry"
+  },
+  {
+    "id": 28693,
+    "fromModule": 712,
+    "toModule": 339,
+    "reason": "Ophthalmology condition in Psychiatry"
+  },
+  {
+    "id": 28931,
+    "fromModule": 719,
+    "toModule": 697,
+    "reason": "Depression mapped to dedicated module"
+  },
+  {
+    "id": 28932,
+    "fromModule": 719,
+    "toModule": 697,
+    "reason": "Depression mapped to dedicated module"
+  },
+  {
+    "id": 28937,
+    "fromModule": 719,
+    "toModule": 697,
+    "reason": "Depression mapped to dedicated module"
+  },
+  {
+    "id": 28950,
+    "fromModule": 719,
+    "toModule": 697,
+    "reason": "Depression mapped to dedicated module"
+  },
+  {
+    "id": 28960,
+    "fromModule": 719,
+    "toModule": 697,
+    "reason": "Depression mapped to dedicated module"
+  },
+  {
+    "id": 28962,
+    "fromModule": 719,
+    "toModule": 697,
+    "reason": "Depression mapped to dedicated module"
+  },
+  {
+    "id": 29002,
+    "fromModule": 720,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 29124,
+    "fromModule": 720,
+    "toModule": 722,
+    "reason": "CT imaging mapped to dedicated module"
+  },
+  {
+    "id": 28993,
+    "fromModule": 720,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 28999,
+    "fromModule": 720,
+    "toModule": 722,
+    "reason": "CT imaging mapped to dedicated module"
+  },
+  {
+    "id": 29012,
+    "fromModule": 720,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 29014,
+    "fromModule": 720,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 29016,
+    "fromModule": 720,
+    "toModule": 722,
+    "reason": "CT imaging mapped to dedicated module"
+  },
+  {
+    "id": 29009,
+    "fromModule": 720,
+    "toModule": 722,
+    "reason": "CT imaging mapped to dedicated module"
+  },
+  {
+    "id": 29010,
+    "fromModule": 720,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30076,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30114,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30165,
+    "fromModule": 739,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 30139,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30078,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30162,
+    "fromModule": 739,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 30158,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30061,
+    "fromModule": 739,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 30065,
+    "fromModule": 739,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 30088,
+    "fromModule": 739,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 30117,
+    "fromModule": 739,
+    "toModule": 722,
+    "reason": "CT imaging mapped to dedicated module"
+  },
+  {
+    "id": 30118,
+    "fromModule": 739,
+    "toModule": 722,
+    "reason": "CT imaging mapped to dedicated module"
+  },
+  {
+    "id": 30120,
+    "fromModule": 739,
+    "toModule": 722,
+    "reason": "CT imaging mapped to dedicated module"
+  },
+  {
+    "id": 30127,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30137,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  },
+  {
+    "id": 30161,
+    "fromModule": 739,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 30207,
+    "fromModule": 739,
+    "toModule": 724,
+    "reason": "MRI physics/contrast mapped to dedicated module"
+  },
+  {
+    "id": 30070,
+    "fromModule": 739,
+    "toModule": 723,
+    "reason": "Ultrasound physics mapped to dedicated module"
+  }
+]

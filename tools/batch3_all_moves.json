@@ -1,0 +1,362 @@
+[
+  {
+    "id": 16272,
+    "fromModule": 411,
+    "toModule": 459,
+    "reason": "Ischemic heart disease mapped to dedicated module"
+  },
+  {
+    "id": 16788,
+    "fromModule": 411,
+    "toModule": 459,
+    "reason": "Ischemic heart disease mapped to dedicated module"
+  },
+  {
+    "id": 18164,
+    "fromModule": 411,
+    "toModule": 459,
+    "reason": "Ischemic heart disease mapped to dedicated module"
+  },
+  {
+    "id": 18198,
+    "fromModule": 411,
+    "toModule": 459,
+    "reason": "Ischemic heart disease mapped to dedicated module"
+  },
+  {
+    "id": 17616,
+    "fromModule": 411,
+    "toModule": 438,
+    "reason": "Pulmonology obstructive disease mapped to dedicated module"
+  },
+  {
+    "id": 18471,
+    "fromModule": 411,
+    "toModule": 438,
+    "reason": "Pulmonology obstructive disease mapped to dedicated module"
+  },
+  {
+    "id": 16488,
+    "fromModule": 415,
+    "toModule": 692,
+    "reason": "Primary Psychiatric illness in Internal Medicine"
+  },
+  {
+    "id": 18095,
+    "fromModule": 417,
+    "toModule": 661,
+    "reason": "Primary bone fracture in Medicine"
+  },
+  {
+    "id": 16711,
+    "fromModule": 420,
+    "toModule": 661,
+    "reason": "Primary bone fracture in Medicine"
+  },
+  {
+    "id": 16621,
+    "fromModule": 441,
+    "toModule": 661,
+    "reason": "Primary bone fracture in Medicine"
+  },
+  {
+    "id": 18467,
+    "fromModule": 447,
+    "toModule": 661,
+    "reason": "Primary bone fracture in Medicine"
+  },
+  {
+    "id": 28251,
+    "fromModule": 459,
+    "toModule": 692,
+    "reason": "Primary Psychiatric illness in Internal Medicine"
+  },
+  {
+    "id": 28385,
+    "fromModule": 459,
+    "toModule": 692,
+    "reason": "Primary Psychiatric illness in Internal Medicine"
+  },
+  {
+    "id": 8565,
+    "fromModule": 466,
+    "toModule": 692,
+    "reason": "Primary Psychiatric illness in Internal Medicine"
+  },
+  {
+    "id": 8604,
+    "fromModule": 466,
+    "toModule": 692,
+    "reason": "Primary Psychiatric illness in Internal Medicine"
+  },
+  {
+    "id": 18812,
+    "fromModule": 472,
+    "toModule": 301,
+    "reason": "Primary Otology condition in Medicine"
+  },
+  {
+    "id": 19221,
+    "fromModule": 483,
+    "toModule": 692,
+    "reason": "Psychiatry in Surgery"
+  },
+  {
+    "id": 19659,
+    "fromModule": 487,
+    "toModule": 338,
+    "reason": "Ophthalmology in Surgery"
+  },
+  {
+    "id": 21010,
+    "fromModule": 497,
+    "toModule": 692,
+    "reason": "Psychiatry in Surgery"
+  },
+  {
+    "id": 20689,
+    "fromModule": 518,
+    "toModule": 692,
+    "reason": "Psychiatry in Surgery"
+  },
+  {
+    "id": 19249,
+    "fromModule": 523,
+    "toModule": 692,
+    "reason": "Psychiatry in Surgery"
+  },
+  {
+    "id": 21259,
+    "fromModule": 531,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 21272,
+    "fromModule": 531,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 21291,
+    "fromModule": 531,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 21292,
+    "fromModule": 531,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 21317,
+    "fromModule": 531,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 21327,
+    "fromModule": 536,
+    "toModule": 692,
+    "reason": "Psychiatry in OBGYN"
+  },
+  {
+    "id": 21848,
+    "fromModule": 540,
+    "toModule": 692,
+    "reason": "Psychiatry in OBGYN"
+  },
+  {
+    "id": 22823,
+    "fromModule": 543,
+    "toModule": 692,
+    "reason": "Psychiatry in OBGYN"
+  },
+  {
+    "id": 21765,
+    "fromModule": 557,
+    "toModule": 338,
+    "reason": "Ophthalmology in OBGYN"
+  },
+  {
+    "id": 22666,
+    "fromModule": 563,
+    "toModule": 692,
+    "reason": "Psychiatry in OBGYN"
+  },
+  {
+    "id": 22790,
+    "fromModule": 568,
+    "toModule": 692,
+    "reason": "Psychiatry in OBGYN"
+  },
+  {
+    "id": 22336,
+    "fromModule": 569,
+    "toModule": 338,
+    "reason": "Ophthalmology in OBGYN"
+  },
+  {
+    "id": 23192,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23229,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23230,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23246,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23155,
+    "fromModule": 574,
+    "toModule": 548,
+    "reason": "Preeclampsia mapped to dedicated module"
+  },
+  {
+    "id": 23145,
+    "fromModule": 574,
+    "toModule": 551,
+    "reason": "PPH mapped to dedicated module"
+  },
+  {
+    "id": 23146,
+    "fromModule": 574,
+    "toModule": 551,
+    "reason": "PPH mapped to dedicated module"
+  },
+  {
+    "id": 23148,
+    "fromModule": 574,
+    "toModule": 551,
+    "reason": "PPH mapped to dedicated module"
+  },
+  {
+    "id": 23152,
+    "fromModule": 574,
+    "toModule": 548,
+    "reason": "Preeclampsia mapped to dedicated module"
+  },
+  {
+    "id": 23153,
+    "fromModule": 574,
+    "toModule": 548,
+    "reason": "Preeclampsia mapped to dedicated module"
+  },
+  {
+    "id": 23157,
+    "fromModule": 574,
+    "toModule": 548,
+    "reason": "Preeclampsia mapped to dedicated module"
+  },
+  {
+    "id": 23162,
+    "fromModule": 574,
+    "toModule": 548,
+    "reason": "Preeclampsia mapped to dedicated module"
+  },
+  {
+    "id": 23220,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23233,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23237,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23225,
+    "fromModule": 574,
+    "toModule": 551,
+    "reason": "PPH mapped to dedicated module"
+  },
+  {
+    "id": 23231,
+    "fromModule": 574,
+    "toModule": 569,
+    "reason": "Cervical cancer mapped to dedicated module"
+  },
+  {
+    "id": 23235,
+    "fromModule": 574,
+    "toModule": 548,
+    "reason": "Preeclampsia mapped to dedicated module"
+  },
+  {
+    "id": 23406,
+    "fromModule": 575,
+    "toModule": 594,
+    "reason": "Neonatal respiratory mapped to dedicated module"
+  },
+  {
+    "id": 23603,
+    "fromModule": 579,
+    "toModule": 692,
+    "reason": "Psychiatry in Pediatrics"
+  },
+  {
+    "id": 24217,
+    "fromModule": 585,
+    "toModule": 692,
+    "reason": "Psychiatry in Pediatrics"
+  },
+  {
+    "id": 24417,
+    "fromModule": 608,
+    "toModule": 599,
+    "reason": "Pediatric nephrology mapped to dedicated module"
+  },
+  {
+    "id": 24432,
+    "fromModule": 608,
+    "toModule": 594,
+    "reason": "Neonatal respiratory mapped to dedicated module"
+  },
+  {
+    "id": 24461,
+    "fromModule": 608,
+    "toModule": 599,
+    "reason": "Pediatric nephrology mapped to dedicated module"
+  },
+  {
+    "id": 24406,
+    "fromModule": 608,
+    "toModule": 599,
+    "reason": "Pediatric nephrology mapped to dedicated module"
+  },
+  {
+    "id": 24412,
+    "fromModule": 608,
+    "toModule": 599,
+    "reason": "Pediatric nephrology mapped to dedicated module"
+  },
+  {
+    "id": 24564,
+    "fromModule": 608,
+    "toModule": 599,
+    "reason": "Pediatric nephrology mapped to dedicated module"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": 11107,
+    "fromModule": 293,
+    "toModule": 294,
+    "reason": "Tests Arnold's nerve (auricular branch of vagus CN X) supplying the posterior meatal wall of EAC, which mediates the cough/syncope reflex during ear syringing, belonging to Module 294 (Anatomy of External Ear)."
+  },
+  {
+    "id": 11113,
+    "fromModule": 293,
+    "toModule": 310,
+    "reason": "Tests skull bone articulations of the maxilla with adjacent facial and paranasal bones, belonging to Module 310 (Anatomy of Paranasal Sinuses)."
+  },
+  {
+    "id": 11316,
+    "fromModule": 293,
+    "toModule": 300,
+    "reason": "Tests complications of suppurative ear infection presenting with trismus and muscle spasms (otogenic tetanus / mastoiditis complication), belonging to Module 300 (CSOM - Treatment and Complications)."
+  },
+  {
+    "id": 11784,
+    "fromModule": 293,
+    "toModule": 315,
+    "reason": "Tests Samter's triad / Aspirin-Exacerbated Respiratory Disease (nasal polyps, asthma, aspirin sensitivity), belonging to Module 315 (Disorder of Nasal Septum and Nasal Polyposis)."
+  },
+  {
+    "id": 11841,
+    "fromModule": 293,
+    "toModule": 316,
+    "reason": "Tests investigation of choice (HRCT temporal bone) for suspected temporal bone fracture following head injury with bleeding from the ear, belonging to Module 316 (Trauma of Nose and Face)."
+  },
+  {
+    "id": 12017,
+    "fromModule": 293,
+    "toModule": 522,
+    "reason": "Tests metastatic neck node with unknown primary origin in head and neck oncology, belonging to General Surgery under Module 522 (Oral Cavity & Salivary glands / Head and Neck Surgery)."
+  },
+  {
+    "id": 12168,
+    "fromModule": 293,
+    "toModule": 491,
+    "reason": "Tests symptoms produced by compressive goiter and benign thyroid enlargement on adjacent cervical structures, belonging to General Surgery under Module 491 (Benign Lesions of Thyroid)."
+  },
+  {
+    "id": 12273,
+    "fromModule": 293,
+    "toModule": 328,
+    "reason": "General examination preparation question not specific to ear embryology, belonging to Module 328 (Mixed / Miscellaneous Topics)."
+  },
+  {
+    "id": 12280,
+    "fromModule": 293,
+    "toModule": 325,
+    "reason": "Tests acute foreign body airway aspiration and choking management in a 3-year-old child, belonging to Module 325 (Stridor and Congenital Conditions of Larynx)."
+  },
+  {
+    "id": 11514,
+    "fromModule": 300,
+    "toModule": 307,
+    "reason": "Tests pharmacologic management and treatment protocols for sudden sensorineural hearing loss (SSNHL), belonging to Module 307 (Physiology of Hearing and Tuning Fork Tests)."
+  },
+  {
+    "id": 11774,
+    "fromModule": 300,
+    "toModule": 315,
+    "reason": "Tests emergency management of traumatic septal hematoma presenting with bilateral nasal obstruction after facial trauma, belonging to Module 315 (Disorder of Nasal Septum and Nasal Polyposis)."
+  },
+  {
+    "id": 11838,
+    "fromModule": 300,
+    "toModule": 315,
+    "reason": "Tests radiological diagnosis and surgical excision of Antrochoanal polyp (Killian's polyp), belonging to Module 315 (Disorder of Nasal Septum and Nasal Polyposis)."
+  },
+  {
+    "id": 11184,
+    "fromModule": 301,
+    "toModule": 296,
+    "reason": "Tests surgical incisions used for mastoid and middle ear access (Lempert / Endaural incision), belonging to Module 296 (Anatomy of Mastoid)."
+  },
+  {
+    "id": 11243,
+    "fromModule": 301,
+    "toModule": 307,
+    "reason": "Tests acoustic transmission loss and auditory physiology comparing degrees of hearing loss from ossicular discontinuity vs tympanic membrane defects, belonging to Module 307 (Physiology of Hearing and Tuning Fork Tests)."
+  },
+  {
+    "id": 11311,
+    "fromModule": 301,
+    "toModule": 300,
+    "reason": "Tests reservoir sign and mastoid tenderness indicative of acute coalescent mastoiditis (a complication of otitis media), belonging to Module 300 (CSOM - Treatment and Complications)."
+  },
+  {
+    "id": 11374,
+    "fromModule": 301,
+    "toModule": 306,
+    "reason": "Tests myringotomy and grommet ventilation tube placement for otitis media with effusion, belonging to Module 306 (Eustachian Tube)."
+  },
+  {
+    "id": 11395,
+    "fromModule": 301,
+    "toModule": 308,
+    "reason": "Tests acoustic/stapedial reflex arc pathway and diagnostic thresholds, belonging to Module 308 (Audiometric Tests and Special Tests of Hearing)."
+  },
+  {
+    "id": 11409,
+    "fromModule": 301,
+    "toModule": 302,
+    "reason": "Tests Hennebert's sign (false-positive fistula test) seen in Meniere's disease and congenital syphilis, belonging to Module 302 (Meniere's Disease)."
+  },
+  {
+    "id": 11455,
+    "fromModule": 301,
+    "toModule": 307,
+    "reason": "Tests common etiology of sensorineural hearing loss (Presbycusis - age-related high frequency cochlear hair cell loss), belonging to Module 307 (Physiology of Hearing and Tuning Fork Tests)."
+  },
+  {
+    "id": 11854,
+    "fromModule": 301,
+    "toModule": 316,
+    "reason": "Tests tympanic membrane rupture and barotrauma classification from blast injury, belonging to Module 316 (Trauma of Nose and Face)."
+  },
+  {
+    "id": 11389,
+    "fromModule": 302,
+    "toModule": 308,
+    "reason": "Tests loudness recruitment phenomenon (abnormal rapid growth of loudness) characteristic of cochlear hearing loss, belonging to Module 308 (Audiometric Tests and Special Tests of Hearing)."
+  },
+  {
+    "id": 11391,
+    "fromModule": 302,
+    "toModule": 308,
+    "reason": "Tests indications and utility of high-frequency audiometry (ototoxicity monitoring, acoustic trauma), belonging to Module 308 (Audiometric Tests and Special Tests of Hearing)."
+  },
+  {
+    "id": 11393,
+    "fromModule": 302,
+    "toModule": 301,
+    "reason": "Tests Paracusis Willisii (ability to hear better in noisy surroundings) and surgical candidacy in otosclerosis, belonging to Module 301 (Otosclerosis)."
+  },
+  {
+    "id": 11397,
+    "fromModule": 302,
+    "toModule": 307,
+    "reason": "Tests Presbycusis (sensorineural hearing loss of aging affecting high frequencies and speech understanding in noise), belonging to Module 307 (Physiology of Hearing and Tuning Fork Tests)."
+  },
+  {
+    "id": 11441,
+    "fromModule": 303,
+    "toModule": 302,
+    "reason": "Tests evaluation of acute vertigo and horizontal spontaneous nystagmus (vestibular neuritis / acute peripheral vestibulopathy), belonging to Module 302 (Meniere's Disease and Peripheral Vestibular Disorders)."
+  },
+  {
+    "id": 11464,
+    "fromModule": 303,
+    "toModule": 302,
+    "reason": "Tests canalith repositioning maneuver (Epley / Dix-Hallpike maneuver) for Benign Paroxysmal Positional Vertigo, belonging to Module 302 (Meniere's Disease and Peripheral Vestibular Disorders)."
+  }
+]

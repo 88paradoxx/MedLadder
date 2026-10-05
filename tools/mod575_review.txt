@@ -1,0 +1,331 @@
+================================================================
+MODULE 575: Basics of Neonatology and Routine Newborn Care (80 questions)
+================================================================
+ID 23285 | Ans: Cephalohematoma
+  Q: A 28-day-old child was brought to the OPD with swelling over the head since birth. What is the diagnosis?
+  Expl: The X-ray image shows blood collection in scalp tissue, not extending intracranially. Encephalocele gets ruled
+----------------------------------------------------------------
+ID 23286 | Ans: Swelling of the soft tissue of scal
+  Q: A newborn comes to you on 2nd day of life with following finding. The child was delivered by normal vaginal de
+  Expl: The child in the image has It is a subperiosteal hemorrhage . The closest differential diagnosis is caput succ
+----------------------------------------------------------------
+ID 23287 | Ans: Golden yellow
+  Q: What is the normal color of stool in the newborn after first week of life?
+  Topic: MISCELLANEOUS Difficulty level: GOOD TO KNOW Reference: Ghai essential pediatrics, 9 th ed, pg no: 133
+  Expl: Meconium (first stool) is passed within 24 hours. After that meconium stools (black tarry)can be passed upto 3
+----------------------------------------------------------------
+ID 23288 | Ans: Right Upper limb
+  Q: A newborn baby presents to the hospital with the presence of a continuous machine-like murmur. In such cases, 
+  Expl: 
+----------------------------------------------------------------
+ID 23289 | Ans: 65%
+  Q: What is the venous hematocrit level at which you will diagnose polycythemia in a newborn?
+  Expl: Definition of polycythemia: a. Venous haematocrit of over 65%. b. Venous haematocrit of over 64% at 2 hours ag
+----------------------------------------------------------------
+ID 23290 | Ans: HALE
+  Q: DALE is replaced by ?
+  Expl: Ans. is 'b' i.e., HALE [Ref Park 20th/e p. 24] HALE (Health - Adjusted life expectancy) :- The name of the ind
+----------------------------------------------------------------
+ID 23291 | Ans: 2, 3, 4
+  Q: You have to IV cannulate a newborn. The following things are available: 1. 22 G Cannula 2. 26 G Cannula 3. Glo
+  Expl: This question is a practical application-based question and very similar to an actual question asked recently.
+----------------------------------------------------------------
+ID 23292 | Ans: Saline-soaked gauze
+  Q: In a neonate with leaky meningomyelocele with CSF dripping out, it should be covered with which among the foll
+  Expl: The exposed meningomyelocele sac containing neural tissue should be covered with a sterile Saline-soaked gauze
+----------------------------------------------------------------
+ID 23293 | Ans: Neuroblastoma
+  Q: Dinutuximab has been recently approved for which among the following pediatric malignancy?
+  Expl: Dinutuximab is a monoclonal antibody that targets a diasialoganglioside, GD2, which has ubiquitous expression 
+----------------------------------------------------------------
+ID 23294 | Ans: Order urgent bronchoscopy to remove
+  Q: A 2-year-old boy presents to the ED with shortness of breath in mild distress. His parents state that they wer
+  Expl: The chest x-ray shows hyperinflation of the left side and a mediastinal shift to the right , which should rais
+----------------------------------------------------------------
+ID 23295 | Ans: >2500 grams
+  Q: A baby receiving KMC is now stable enough for the procedure to be stopped. What shall be the baby's weight at 
+  Expl: When to Discontinue KMC? If the mother and baby are comfortable, KMC is continued at the hospital and at home 
+----------------------------------------------------------------
+ID 23296 | Ans: Check creatine kinase level
+  Q: A 7-month-old male infant is at his pediatrician's office for his routine check-up and immunizations. He can r
+  Expl: This infant has development delay predominantly involving motor domain with history of maternal uncle dying be
+----------------------------------------------------------------
+ID 23297 | Ans: 6 months
+  Q: An anxious mother of a 3-day newborn, comes to you for a routine visit. While counselling about the weight gai
+  Expl: The weight of the baby doubles by 6 months. Tags : Topic : GROWTH & ANTHROPOMETRY Difficulty level : MUST KNOW
+----------------------------------------------------------------
+ID 23298 | Ans: Supplementary nutrition
+  Q: Which of the following is not a component of Kangaroo Mother Care (KMC)?
+  Expl: Components of KMC have traditionally included the following 3 things In the latest AIIMS Protocol 2023, 3 rd E
+----------------------------------------------------------------
+ID 23299 | Ans: Osmotic fragility
+  Q: A newborn female develops jaundice at 12 hours of life. Her indirect bilirubin is 21.2 mg/dL. His mother's blo
+  Topic: ANEMIA Difficulty level: GOOD TO KNOW PYQ: NEET PG 2023 Reference: Nelson textbook of Pediatrics, 1 st SA edition, page number: 2330
+  Expl: The patient has hereditary spherocytosis, which can be confirmed by osmotic fragility testing. Osmotic Fragili
+----------------------------------------------------------------
+ID 23302 | Ans: Donor human milk
+  Q: A preterm neonate could not be started on mother's feed due to some maternal issues. Which among the following
+  Expl: DONOR HUMAN MILK Donar human milk [DHM] is the milk expressed and voluntarily donated by lactating women other
+----------------------------------------------------------------
+ID 23304 | Ans: Pyloric atresia
+  Q: You are called by the newborn nursery nurse secondary to see a 1-day-old infant vomiting with every feed. The 
+  Expl: It is a tough question, but such questions can be answered by ruling out other options easily. Option A- Pylor
+----------------------------------------------------------------
+ID 23306 | Ans: Erythromycin only
+  Q: Ajay, a 3-year-old child, is the younger brother of Anuj, who is currently undergoing treatment for diphtheria
+  Expl: Explanation: Ajay is a household contact of a diphtheria case and should receive erythromycin prophylaxis, eve
+----------------------------------------------------------------
+ID 23307 | Ans: Remand homes
+  Q: Homes where children are placed under the care of doctors and psychiatrists are called -
+  Expl: Ans. is 'c' i.e., Remand homes Child placement : o Orphanages : For children who have no home or cannot be tak
+----------------------------------------------------------------
+ID 23308 | Ans: 400 IU/day
+  Q: What is the current IAP recommendation for Vitamin D3 supplementation in a full-term neonate?
+  Expl: All infants younger than 12 months should receive 400 IU daily beginning within the first few days after birth
+----------------------------------------------------------------
+ID 23310 | Ans: Raised areola
+  Q: While assessing a newborn for maturity, which of the following findings does not suggest prematurity?
+  Expl: Commonly assessed components for checking the maturity are: Tags : Topic : NORMAL NEWBORN Difficulty level : M
+----------------------------------------------------------------
+ID 23311 | Ans: 34 w to 36 w 6 d GA
+  Q: By definition, what is called as late preterm baby?
+  Expl: Preterm are born at . Subgroups of preterm infant include the following: Extremely preterm infants are born Ea
+----------------------------------------------------------------
+ID 23312 | Ans: Anemia
+  Q: In a monochorionic monoamniotic twin with uncompensated arteriovenous shunt, which of the following characteri
+  Expl: Monochorionic twin with uncompensated arteriovenous shunt has following differentiating features : Tags : Topi
+----------------------------------------------------------------
+ID 23313 | Ans: Stage 1
+  Q: A full-term newborn has history of delayed cry and suspected hypoxic ischemic encephalopathy. The baby is hype
+  Expl: Important points from SARNAT and SARNAT staging for HIE Tags : Topic : HYPOXIC ISCHEMIC ENCEPHALOPATHY Difficu
+----------------------------------------------------------------
+ID 23314 | Ans: Damage to C5-C6
+  Q: A 4kg post term baby is delivered at 43weeks of gestation with difficult vaginal delivery. Forceps assistance 
+  Expl: The child in the question has Erb's palsy. Cause: excessive traction on the head, neck and arm during birth. R
+----------------------------------------------------------------
+ID 23315 | Ans: Administer IV glucose and recheck b
+  Q: A newborn, born to a diabetic mother, presents after 24 hours with a blood glucose (BG) < 35 mg/dl. The baby i
+  Expl: Explanation: Neonatal hypoglycemia is defined as BG In an infant of a diabetic mother , hyperinsulinemia predi
+----------------------------------------------------------------
+ID 23316 | Ans: Oropharyngeal airway
+  Q: A newborn presents with irritability and cyanosis that improves with crying. On examination, a nasogastric tub
+  Expl: Explanation: The patient's presentations are suggestive of choanal atresia and the next best step in managemen
+----------------------------------------------------------------
+ID 23317 | Ans: C5-C6
+  Q: A newborn developed an asymmetric Moro reflex after a complicated delivery. The poorly responsive arm hung in 
+  Expl: The patient described in this case has the classic signs of Erb's palsy, a paralysis of the muscles innervated
+----------------------------------------------------------------
+ID 23318 | Ans: Gilbert syndrome
+  Q: An 8-day-old infant continues to have jaundice which was first noted on the second day of life; his latest tot
+  Expl: This is a neonate with unconjugated hyperbilirubinemia and raised reticulocyte count & negative Coombs test. G
+----------------------------------------------------------------
+ID 23319 | Ans: Chromosome 22
+  Q: A 2-day-old baby boy is admitted at the neonatal intensive care unit due to high fever with a temperature of 3
+  Expl: Clues in the question include facial dysmorphism, cleft palate, infection causing hospital admission, a likely
+----------------------------------------------------------------
+ID 23320 | Ans: Influenza virus
+  Q: A child was advised yearly vaccination with a vaccine, which is not a part of the national immunization schedu
+  Expl: Annual vaccination is given against Influenza Vaccine in selected high-risk groups. The type of influenza vacc
+----------------------------------------------------------------
+ID 23321 | Ans: Back blows with face down
+  Q: An 11-month-old male is found by his mother at home unconscious and not breathing after she left him eating in
+  Expl: The management of FB aspiration depends on the presentation and age of the patient. For infants under the age 
+----------------------------------------------------------------
+ID 23322 | Ans: Chromosome 22
+  Q: A 2-day-old baby boy is admitted at the neonatal intensive care unit due to high fever with a temperature of 3
+  Expl: The boy presents with common manifestations of DiGeorge syndrome. Its pathophysiology involves microdeletions 
+----------------------------------------------------------------
+ID 23323 | Ans: < 60/min
+  Q: In newborn, chest compression should be started if heart rate is ?
+  Expl: Ans, D. < 60/min Compression for new born should be started if HR < 60/min'
+----------------------------------------------------------------
+ID 23324 | Ans: <40
+  Q: In acute intrinsic renal failure, the urine-to-plasma creatinine ratio is?
+  Expl: The urine-to-plasma creatinine ratio is > 40 in prerenal failure. In acute intrinsic renal failure, urine-to-p
+----------------------------------------------------------------
+ID 23325 | Ans: Reassurance that this is self-limit
+  Q: A healthy 9-month-old female infant is seen for a routine health supervision visit. On physical examination, a
+  Expl: As seen in the image, the child is having labial adhesions. Asymptomatic children with labial adhesions do not
+----------------------------------------------------------------
+ID 23326 | Ans: Multicystic Dysplastic Kidney
+  Q: Which among the following is the most common cause of abdominal mass in a neonate?
+  Expl: Multicystic dysplastic kidney- MCDK is the most common cause of an abdominal mass in the newborn, but the vast
+----------------------------------------------------------------
+ID 23327 | Ans: 0.8-1.0 mg/dl
+  Q: What is the normal value of creatinine on first day of life in a full term baby?
+  Topic: ACUTE KIDNEY INJURY Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2022 Reference: Cloherty and Stark's manual of newborn care, SA ed., pg. 308
+  Expl: Normal serum creatinine values at day 1 are 0.8-1.0 mg/dL, 7-0.8 mg/dL at day 3 and Tags: Topic: ACUTE KIDNEY 
+----------------------------------------------------------------
+ID 23333 | Ans: SNHL
+  Q: A newborn infant on examination was found to be having hepatomegaly. Other examination was normal. On detailed
+  Expl: The child has congenital CMV infection. More than 90% babies are asymptomatic. Most common manifestation- Pete
+----------------------------------------------------------------
+ID 23334 | Ans: 48 hours
+  Q: The mother of a premature newborn is concerned because the baby has not yet passed meconium. What is the maxim
+  Expl: Explanation: Meconium: First stool of the newborn Thick, sticky, greenish-black. Timing: Term newborns: Usuall
+----------------------------------------------------------------
+ID 23335 | Ans: Number of daughters a newborn girl 
+  Q: Net reproduction rate is ?
+  Expl: Ans. is 'c' i.e., Number of daughters a newborn girl will have during life time Net reproduction rate Net repr
+----------------------------------------------------------------
+ID 23336 | Ans: Osmotic fragility
+  Q: A newborn female develops jaundice at 12 hours of life. Her indirect bilirubin is 21.2 mg/dL. Her mother's blo
+  Expl: The patient is a newborn with unconjugated hyperbilirubinemia and low Hb for a neonate. This patient's jaundic
+----------------------------------------------------------------
+ID 23341 | Ans: All of the above
+  Q: Requirements for IV cannulating a newborn shall include?
+  Expl: Cannula size & color IV cannulation a newborn Adequate light Ensure complete aseptic precautions Wear gloves S
+----------------------------------------------------------------
+ID 23343 | Ans: Large for gestational age
+  Q: A neonate was born through normal vaginal delivery at term. His birth weight was 3.8 Kg and was plotted on the
+  Expl: As seen in the image, the birth weight of the neonate has been plotted on the Lubchenco's Chart & since it is 
+----------------------------------------------------------------
+ID 23344 | Ans: Resting heart rate
+  Q: All of the following can be used to differentiate a term and preterm baby except?
+  Expl: Resting heart rate can't distinguish between term and preterm neonates Regarding other options Expanded new ba
+----------------------------------------------------------------
+ID 23347 | Ans: Decreased glycogen stores
+  Q: A 1600-g infant was born at 39 6/7 weeks gestation (via spontaneous vaginal delivery) to a 34-year-old woman w
+  Expl: Hypoglycemia is common in small-for-gestational-age (SGA) infants, including the infant in this vignette. Of n
+----------------------------------------------------------------
+ID 23348 | Ans: Eosinophils
+  Q: An otherwise healthy 2-day-old infant girl is noted to have multiple erythematous papules with small inflammat
+  Expl: The infant has erythema toxicum neonatorum. This common newborn eruption typically spares the palms, soles, an
+----------------------------------------------------------------
+ID 23351 | Ans: Overfeeding
+  Q: A 2-week-old boy is brought to the clinic for persistent vomiting. The neonate is exclusively fed a standard c
+  Topic: GASTROESOPHAGEAL REFLUX Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1935
+  Expl: The neonate in the vignette has gastroesophageal reflux (GER) caused by overfeeding. In this condition the chi
+----------------------------------------------------------------
+ID 23352 | Ans: Iron supplements
+  Q: A 2-year-old who has eczema has come for routine check-up. He is noticed to be having pallor. The remainder of
+  Topic: ANEMIA Difficulty level: MUST KNOW PYQ: NEET PG 2023;2024 Reference: Nelson textbook of pediatrics, 21 st ed, page number: 2522
+  Expl: Iron-deficiency anemia is the most likely diagnosis and iron therapy is indicated. The presence of 'pica' stro
+----------------------------------------------------------------
+ID 23372 | Ans: Subaortic stenosis is almost always
+  Q: Outflow obstruction from the left ventricle is characterized by the following except:
+  Topic: ACYANOTIC CHD Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Park&rsquo;s Pediatric cardiology, 6 th ed., pg. 131
+  Expl: Left cardiac outflow obstruction can present in different ways. Infants presenting in the first 2-3 weeks of l
+----------------------------------------------------------------
+ID 23374 | Ans: If mother has IgG positive for CMV,
+  Q: Which of the following is a true statement about congenital CMV infection?
+  Expl: Let us evaluate the options individually Option A is false. About 10% of congenital CMV are symptomatic Option
+----------------------------------------------------------------
+ID 23377 | Ans: 24 months
+  Q: The weight of a child is quadrupled the birth weight at?
+  Expl: Remember the following Reference: O.P Ghai, 10 th edition, Pages 11-12.
+----------------------------------------------------------------
+ID 23378 | Ans: Ulnar palmar grasp reflex
+  Q: Which among the following is the earliest to appear in a child?
+  Expl: Let us evaluate each option sequentially Option A- Incomplete/ immature moro's reflex comes at 32 weeks gestat
+----------------------------------------------------------------
+ID 23379 | Ans: Parachute reflex
+  Q: Which primitive reflex persists throughout life instead of disappearing?
+  Expl: Explanation: The parachute reflex: Appears at 7-8 months of age. Persists throughout life. Trigger: when held 
+----------------------------------------------------------------
+ID 23380 | Ans: 2.5 - 2.9 kg
+  Q: Mean birth weight in India -
+  Expl: Ans. is 'c' i.e., 2.5 - 2.9 kg Mean birth weight in Different parts of the world Region Mean birth weight Nort
+----------------------------------------------------------------
+ID 23381 | Ans: Stage 2B
+  Q: A 28-week preterm baby developed necrotising enterocolitis. He is found to have visible blood in stools, abdom
+  Expl: Presence of Abdominal Wall Cellulitis & Portal Vein Gas in NEC indicate Stage 2B. Modified Bell's Staging of N
+----------------------------------------------------------------
+ID 23407 | Ans: Peritoneal lavage and drainage
+  Q: Treatment of choice in NEC Stage IIIB in an ELBW neonate who is extremely unstable and has DIC includes?
+  Expl: Although Laparotomy with resection of gangrenous bowel and enterostomy formation is the standard procedure in 
+----------------------------------------------------------------
+ID 23408 | Ans: Prevention of NNJ
+  Q: All of the following are indications to use Antenatal Dexamethasone in a lady with preterm labour, except?
+  Expl: Antenatal corticosteroid given to pregnant female can prevent 3 problems in preterm neonates RDS or HMD IVH NE
+----------------------------------------------------------------
+ID 23409 | Ans: Start BMV
+  Q: A preterm neonate, admitted in hospital & receiving Caffeine Citrate becomes suddenly apneic and unresponsive.
+  Expl: Any neonate developing apnea due to any reason needs to be immediately managed to prevent mortality. Such neon
+----------------------------------------------------------------
+ID 23411 | Ans: Near-infrared spectroscopy
+  Q: A preterm neonate is being evaluated for complications. Which of the following is now recommended as a latest 
+  Expl: As per the latest AIIMS Protocol, 3 rd edition, Near-infrared spectroscopy (NIRS) is a clinical tool that non-
+----------------------------------------------------------------
+ID 23428 | Ans: Immature platelet fraction
+  Q: A newborn baby comes to you at 7th day of life with refusal to feeding. Baby also had fever since 2 days and r
+  Expl: The primary investigation in a suspected neonatal sepsis screen includes Blood culture (option a) Urine cultur
+----------------------------------------------------------------
+ID 23451 | Ans: Self-inflating bag attached to an o
+  Q: Which of the following is not a suitable method for free flow oxygen delivery to a newborn baby?
+  Expl: Explanation: A self-inflating bag is specifically designed to provide positive pressure ventilation (PPV) and 
+----------------------------------------------------------------
+ID 23522 | Ans: Zika virus
+  Q: Transplacental transmission of the organism given in the image which causes microcephaly in the newborn is?
+  Expl: Mother infected with Zika virus, transmitted by Aedes mosquito Infection involves Hofbauer cells in placenta V
+----------------------------------------------------------------
+ID 23617 | Ans: Giving a bath immediately after bir
+  Q: Which of the following is considered harmful to a newborn in the immediate postnatal period?
+  Expl: Explanation: Newborns should not be bathed immediately after birth , as it increases the risk of hypothermia, 
+----------------------------------------------------------------
+ID 23619 | Ans: Prematurity
+  Q: Causes of prolonged jaundice in a neonate include all except?
+  Expl: Persistence of significant jaundice >2 weeks in term and >3 weeks in preterm babies is termed Prolonged Jaundi
+----------------------------------------------------------------
+ID 23635 | Ans: Continue breastfeeding and observe
+  Q: A 1-day-old newborn has not passed urine since birth. What is the most appropriate next step in management?
+  Expl: Explanation: If a healthy term neonate has not passed urine within the first 24 hours, the initial management 
+----------------------------------------------------------------
+ID 23973 | Ans: JE
+  Q: Which disease has not been covered routinely under Mission Indradhanush?
+  Expl: Mission Indradhanush was launched in December 2014 with the objective of achieving full immunization coverage 
+----------------------------------------------------------------
+ID 24091 | Ans: Neonatal hepatitis
+  Q: A newborn presents with conjugated hyperbilirubinemia, intrahepatic cholestasis, elevated alkaline phosphatase
+  Expl: Explanation: Neonatal hepatitis : Neonatal hepatitis is the most common cause of conjugated jaundice in newbor
+----------------------------------------------------------------
+ID 24114 | Ans: Transient tachypnea of newborn
+  Q: A newborn delivered at 36 weeks has breathing difficulty which improved with Fi02 30%. Chest X-ray is shown be
+  Expl: Explanation: A 36-week newborn with mild respiratory distress needing only 30 % FiO 2 and a chest X-ray showin
+----------------------------------------------------------------
+ID 24189 | Ans: Most Common cause of Non-Syndromic 
+  Q: Which of the following is true about Congenital CMV Infection?
+  Expl: Let us evaluate each option Option A is true. Congenital CMV is the most common non-syndromic cause of SNHL in
+----------------------------------------------------------------
+ID 24226 | Ans: PP65 antigen levels
+  Q: Which of the following is used to monitor response to therapy in a patient of severe congenital CMV, who is be
+  Expl: Fast detection methods for CMV viremia include: the antigenemia assay for detecting PP65 antigen in polymorpho
+----------------------------------------------------------------
+ID 24227 | Ans: Clutton's joints
+  Q: Not a feature of early congenital syphilis?
+  Expl: Clutton&rsquo;s joints refers to bilateral knee swelling or effusion, seen in late congenital syphilis, appear
+----------------------------------------------------------------
+ID 24263 | Ans: A dried blood sample and screen fir
+  Q: A 22-year-old mother presented with her 2-week-old newborn who had a large tongue and an umbilical hernia. Whi
+  Expl: Explanation: The clinical manifestations indicate congenital hypothyroidism, as evidenced by the large tongue 
+----------------------------------------------------------------
+ID 24270 | Ans: Prolonged jaundice
+  Q: During his 1st physical examination following birth at home with the assistance of a midwife, a 5- week-old ma
+  Expl: Prolongation of physiologic jaundice, due to delayed maturation of glucuronide conjugation, is often the 1st c
+----------------------------------------------------------------
+ID 24271 | Ans: 3 days
+  Q: A full term baby born to a mother with hypothyroidism, needs to be screened for congenital hypothyroidism idea
+  Expl: A newborn screening for congenital hypothyroidism must be done at 3-4 days of life coupled with newborn screen
+----------------------------------------------------------------
+ID 24277 | Ans: CAH
+  Q: A newborn infant is found at birth to have proximal hypospadias in a short phallus with bilateral nonpalpable 
+  Expl: Child is genotypic female . Phenotypically child has ambiguous genitals as the phallus is small and gonads are
+----------------------------------------------------------------
+ID 24283 | Ans: 21 hydroxylase
+  Q: A female newborn is found to have ambiguous genitalia. Work up shows very high 17-hydroxyprogesterone and prog
+  Expl: A female neonate with ambiguous genitalia is likely to have either 21 hydroxylase deficiency or 11 beta hydrox
+----------------------------------------------------------------
+ID 24304 | Ans: Neuroblastoma
+  Q: A 4 year old boy is found to be having a large abdominal mass on routine examination. What is the next most co
+  Topic: SOLID TUMORS Difficulty level: MUST KNOW PYQ: FMGE JULY 2023 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2681
+  Expl: Most common cause of renal mass in a preschool child is Nephroblastoma. Other renal causes of an abdominal mas
+----------------------------------------------------------------
+ID 24382 | Ans: You are unable to tell right now an
+  Q: A newborn baby has recently been delivered. The midwife requests an urgent pediatric review of the baby becaus
+  Topic: DISORDER OF SEXUAL DEVELOPMENT Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3008
+  Expl: A detailed assessment by medical, surgical and psychological specialists needs to be performed followed by a f
+----------------------------------------------------------------
+ID 24430 | Ans: Stage 2
+  Q: A neonate had delayed cry after birth and developed features of hypoxic ischemic encephalopathy (HIE). On exam
+  Expl: The features, especially the presence of recurrent focal seizures and miotic pupils, are suggestive of Stage 2
+----------------------------------------------------------------

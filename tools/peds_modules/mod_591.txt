@@ -1,0 +1,148 @@
+================================================================
+MODULE 591: Surgical GI Disorders (23 questions)
+================================================================
+
+ID: 2813 | Answer: [A] Congenital absence of ganglion cells in both myenteric plexus and submucosal plexus of a segment of distant colon
+QUESTION: An infant visits a pediatric presenting with symptoms of abdominal distension, anorexia, and lassitude. He was diagnosed with Hirsch sprung disease. What is the cause of Hirsch sprung disease?
+OPTIONS: A) Congenital absence of ganglion cells in both myenteric plexus and submucosal plexus of a segment of distant colon | B) Congenital absence of colon | C) Hyperactivity of colon smooth muscles | D) Paralysis of colonic smooth muscles due to trauma during parturition
+EXPLANATION: Option A: Some children have a genetically determined condition of abnormal colonic motility known as Hirschsprung disease or aganglionic megacolon, which is characterized by abdominal Distension, anorexia, and lassitude. Distension of segment proximal to aganglionic segment is seen. The disease is typically diagnosed in infancy, and affects as many as 1 in 5000 live births. It is due to a congenital absence of the ganglion cells in both the myenteric and submucous plexuses of a segment of the distal colon, as a result of failure of the normal cranial-to-caudal migration of neural crest cells during development. Option B: (Congenital absence of colon): This would lead to severe gastrointestinal issues but is not the specific cause of Hirschsprung disease. Option C: (Hyperactivity of colon smooth muscles): This would not explain the symptoms; Hirschsprung disease involves an absence of ganglion cells, leading to decreased motility. Option D: (Paralysis of colonic smooth muscles due to trauma during parturition): Trauma can affect nerves, but Hirschsprung disease specifically results from a congenital lack of ganglion cells. Key takeaways: Hirschsprung disease is caused by the congenital absence of ganglion cells in the myenteric and submucosal plexuses of the distal colon, leading to symptoms like abdominal distension and anorexia. Level: Must know Tag: GI motility Reference: Ganong's review of medical physiology, 26th edition, Page 1144
+----------------------------------------------------------------
+
+ID: 2820 | Answer: [B] Hypertrophic pyloric stenosis
+QUESTION: 3 month infants with abdominal palpable mass & non bilious vomiting -
+OPTIONS: A) Hypertrophic biliary stenosis | B) Hypertrophic pyloric stenosis | C) Tracheoesophageal fistula | D) Duodenal atresia
+EXPLANATION: Ans. is 'b' i.e., Hypertrophic pyloric stenosis Hypertophic pyloric stenosis Most common cause of nonbilious vomiting is Hypertrophic pyloric stenosis. Male > female. Vomiting starts with 3 week of age. Palpable mass is seen in epigastric region. Visible peristalsis is seen soon after feeding. Confirmed by USG abdomen. Contrast study shows : . Shoulder sign . Double tract sign. Treatment surgery = Ramstedt procedure.
+----------------------------------------------------------------
+
+ID: 16982 | Answer: [A] Rectal biopsy
+QUESTION: Hirschsprung disease is confirmed by ?
+OPTIONS: A) Rectal biopsy | B) Per/Rectal examination | C) Rectal manometry | D) X-ray abdomen
+EXPLANATION: Ans. is 'a' i.e., Rectal biopsy o Rectal suction biopsy is procedure of choice.
+----------------------------------------------------------------
+
+ID: 24041 | Answer: [C] After stabilization for 48 hr
+QUESTION: Ideal time of surgery in CDH?
+OPTIONS: A) Soon after birth | B) Within 48 hr | C) After stabilization for 48 hr | D) Post infancy
+EXPLANATION: The ideal time to repair the diaphragmatic defect is under debate. As per Nelson 21 st Ed, most experts wait at least 48 hr after stabilization and resolution of the pulmonary hypertension. If the newborn is receiving ECMO, an ability to be weaned from this support should be a consideration before surgical repair. Reference: Nelson 21 st Edition, Chapter 345.1
+----------------------------------------------------------------
+
+ID: 24045 | Answer: [A] The infant most likely has an H-type TEF
+QUESTION: An infant with a history of recurrent pneumonia is diagnosed with TEF at 8 months of age. Which of the following statements is correct?
+OPTIONS: A) The infant most likely has an H-type TEF | B) The infant most likely has proximal esophageal atresia with distal fistula | C) The infant likely has a previously undetected, associated finding of imperforate anus | D) The infant is unlikely to have gastroesophageal reflux
+EXPLANATION: The key to making the diagnosis is age and features in this question. This infant likely has an H-type TEF, found later in infancy with recurrent pneumonias and/or feeding difficulty. Patients with esophageal atresia and distal fistula present in the first hours of life because of their inability to swallow oropharyngeal secretions. Infants with imperforate anus also present as neonates. All patients with TEF are at high risk for gastroesophageal reflux. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 1783
+----------------------------------------------------------------
+
+ID: 24047 | Answer: [C] Rectal biopsy
+QUESTION: A 3-day-old male neonate who has not yet passed meconium developed abdominal distension. There is no history of fever. On rectal examination, forceful expulsion of stool was observed. A barium enema is performed; the findings are shown in the image below. Which of the following is the gold standard for the diagnosis of the above condition?
+OPTIONS: A) Ultrasonography | B) MRI abdomen | C) Rectal biopsy | D) Anorectal manometry
+EXPLANATION: Explanation: The clinical scenario, along with barium imaging showing a narrow aganglionic segment, a transition zone, and proximal bowel dilation , is suggestive of Hirschsprung disease . The gold-standard diagnostic test for confirmation is a rectal suction biopsy . Hirschsprung Disease It is the most common congenital motility disorder and is characterised by the absence of ganglionic cells in the distal intestine. Pathophysiology: The absence of ganglionic cells (aganglionosis) in the distal segment of the intestine leads to tonic contraction and functional obstruction of the affected bowel segment. Clinical Presentation: Neonates: Delayed passage of meconium, constipation, obstruction Later presentation: Chronic constipation, failure to thrive, enterocolitis Classification: Short Segment (75%): Limited to the segment distal to the splenic flexure. Long Segment (20%): Extends proximal to the splenic flexure. Total Colonic Aganglionosis (5%): The entire colon is affected. Diagnosis: X-ray Reveals bowel distension and air-fluid levels. Barium enema Classic findings are based on the presence of an abrupt narrow transition zone between the normal dilated proximal colon and a smaller-&shy; caliber obstructed distal aganglionic segment. Anorectal manometry Evaluates rectoanal inhibitory reflex High sensitivity and specificity (>90%), but not considered the definitive test for young infants; technically difficult to perform to perform. Absence of rectoanal inhibitory reflex suggests Hirschsprung disease. Rectal suction biopsy: The Gold Standard Test for confirming Hirschsprung disease. Procedure: A biopsy must be taken 2 cm above the dentate line and must include adequate Staining: Acetylcholinesterase: Identifies hypertrophied nerve bundles and the absence of ganglion cells. Calretinin: Used as an alternative when acetylcholinesterase staining is inadequate. Management: Primarily Surgical: Resection of the aganglionic bowel and pull-through of normal bowel. Medical Management: Stabilization and treatment of enterocolitis prior to surgery. Surgical Approach: Trend toward less invasive techniques, including laparoscopic and single-stage procedures.
+----------------------------------------------------------------
+
+ID: 24048 | Answer: [A] Intussusception
+QUESTION: A baby presents with abdominal pain. On examination, a mass is palpable in the left lumbar region. A barium enema is performed, and the image shown below is obtained. What is the most likely diagnosis?
+OPTIONS: A) Intussusception | B) Volvulus | C) Duodenal atresia | D) Intestinal obstruction
+EXPLANATION: Explanation: The presence of abdominal pain, a palpable abdominal mass, and the characteristic "claw sign" on barium enema is diagnostic of Intussusception . Intussusception is the telescoping of a proximal bowel segment (intussusceptum) into a distal segment (intussuscipiens) . It is the most frequent cause of intestinal obstruction in infants between 5 months and 6 years . Types: Ileocolic (most common), colocolic, and ileoileal. Clinical Features: Triad: Severe intermittent abdominal pain "Red currant jelly" stools (blood + mucus) Palpable abdominal mass Radiology: Barium enema &rarr; Coiled spring sign / Claw sign Ultrasound &rarr; Target sign / Doughnut sign Management: Spontaneous resolution occurs in some infants. Hydrostatic reduction (saline/barium enema under fluoroscopy or USG guidance) is preferred. Surgical reduction is indicated if: There is shock, perforation, necrosis Hydrostatic reduction fails Recurrence is frequent Explanation of Other Options: Volvulus (Option B): Presents with abdominal pain, distension, and constipation. Imaging shows the coffee-bean sign or omega sign , not the claw sign. Duodenal atresia (Option C): Presents in neonates with bilious vomiting soon after birth. Imaging shows the double bubble sign , not claw sign. Intestinal obstruction (Option D): Presents with pain, distension, constipation. X-ray shows multiple air-fluid levels ; barium studies are avoided in acute obstruction. Key Takeaways: Intussusception is the most common cause of intestinal obstruction in infants 5 months-6 years. Classic triad: Abdominal pain + currant jelly stools + palpable mass. Radiological signs: Claw sign (barium enema), Target sign (USG).
+----------------------------------------------------------------
+
+ID: 24049 | Answer: [D] Hirschsprung disease
+QUESTION: A new born baby presents with abdominal distention, vomiting & absence of bowel movement for 3 days. The barium study is shown below. What is the likely diagnosis?
+OPTIONS: A) Volvulus | B) Intussusception | C) Celiac disease | D) Hirschsprung disease
+TAG TOPIC: HIRSCHSPRUNG DISEASE Difficulty level: GOOD TO KNOW PYQ: NEET PG 2021 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1962
+EXPLANATION: Hirschsprung disease is aganglionosis of bowel. It presents in newborn with delayed passage of meconium, abdominal distention and absence of bowel movement on auscultation. The barium enema has segments of dilated bowel followed by transition zone followed by constricted zone of aganglionic bowel. (typical in the above image) Option A: Volvulus is rotation of bowel on its axis and presents acutely with bilious vomiting and abdominal distention. The barium study shows coffee bean sign. Option B: Intussusception is bowel in bowel presenting with abdominal pain, vomiting and red-currant jelly stools . It is rare in neonates. Option C: Celiac disease is not presented in neonates. It is seen after 6 months of age with failure to thrive, diarrhea/constipation and signs of vitamin deficiency due to malabsorption. Tags: Topic: HIRSCHSPRUNG DISEASE Difficulty level: GOOD TO KNOW PYQ: NEET PG 2021 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1962
+----------------------------------------------------------------
+
+ID: 24050 | Answer: [A] Hepatic Fibrosis
+QUESTION: All of the following are common complications in survivors of CDH, except?
+OPTIONS: A) Hepatic Fibrosis | B) GERD | C) Recurrence of CDH | D) Intestinal obstruction
+EXPLANATION: Hepatic fibrosis is not mentioned as a complication in CDH survivors. Among other options: Option B- Gastroesophageal reflux disease (GERD) is reported in >50% of children with CDH. GERD is more common in children whose diaphragmatic defect involves the esophageal hiatus. Option C- Recurrent diaphragmatic hernia is reported in 5-20% in most series. Option D- Intestinal obstruction is reported in up to 20% of children and may result from a midgut volvulus, adhesions, or a recurrent hernia that became incarcerated. Children with patch repairs are at highest risk. Children with CDH typically have delayed growth in the 1st 2 yr of life. Neurocognitive defects are common and may result from the disease or the interventions. Reference: Nelson 21 st Edition, Chapter 345.1
+----------------------------------------------------------------
+
+ID: 24054 | Answer: [D] Contrast enema
+QUESTION: A >48-hour neonate has still not passed meconium after birth. What is the investigation of choice?
+OPTIONS: A) Invertogram | B) USG abdomen | C) CT scan | D) Contrast enema
+EXPLANATION: A water-soluble contrast enema is the investigation of choice in delayed passage of meconium since it is both diagnostic and therapeutic. It can diagnose Hirschsprung disease, meconium ileus, atresias Can also remove meconium plug in meconium plug syndrome and have therapeutic action. Reference: Nelson 21 st Edition, Chapter 358
+----------------------------------------------------------------
+
+ID: 24055 | Answer: [A] Hypertrophic pyloric stenosis
+QUESTION: A 24-day old baby is presented to you with complaints of non-bilious projectile vomiting. Child is not gaining weight and cachexic on examination. Which of the following condition is highly likely?
+OPTIONS: A) Hypertrophic pyloric stenosis | B) Duodenal atresia | C) Hirschsprung disease | D) Necrotizing enterocolitis
+TAG TOPIC: HYPERTROPHIC PYLORIC STENOSIS Difficulty level: MUST KNOW PYQ: NEET PG 2020; 2021; INICET NOV 2020; FMGE DEC 2020 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1947
+EXPLANATION: Pyloric stenosis, most commonly seen in age 2weeks to 2 months with male preponderance. Clinical features include Projectile, non-bilious, immediate post-prandial vomiting. Infant is hungry between the feeds. Diagnosis is by ultrasound abdomen that shows thickened pylorus more than 4 mm and pyloric length more than 16mm. Target sign is suggestive of Pyloric stenosis. Management is supportive initially with maintenance of electrolyte balance. Definitive treatment is Pyloromyotomy at the earliest. Option B: Duodenal atresia has bilious vomiting. Option C: Hirschsprung disease has a history of delayed passage of stool and gaseous abdominal distention. Option D: Necrotizing enterocolitis will present earlier in 1-2 weeks with passage of bloody stool, feed intolerance, abdominal distention in background of prematurity or history of formula feeding. Tags: Topic: HYPERTROPHIC PYLORIC STENOSIS Difficulty level: MUST KNOW PYQ: NEET PG 2020; 2021; INICET NOV 2020; FMGE DEC 2020 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1947
+----------------------------------------------------------------
+
+ID: 24061 | Answer: [B] Lead
+QUESTION: A young child has recently moved house and has been complaining of abdominal pain, which parents have put down to the child been upset about the move. He is now developed with seizures and renal failure. You suspect a poisoning. What is the most likely cause?
+OPTIONS: A) Household detergents | B) Lead | C) Carbon monoxide | D) Iron
+TAG TOPIC: ACUTE KIDNEY INJURY Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2022 Reference: Nelson textbook of Pediatrics, 21 st ed., pg. 3798
+EXPLANATION: Lead poisoning is more common in younger children due to the tendency for pica . In a child that has recently moved to an older home which may have lead paint this should be considered. Gastrointestinal symptoms of lead poisoning include anorexia, abdominal pain, vomiting, and constipation , often occurring and recurring over a period of weeks. Central nervous system symptoms are related to worsening cerebral edema and increased intracranial pressure. Headaches, change in mentation, lethargy, papilledema, seizures, and coma At high levels (>100 &mu;g/dL), renal tubular dysfunction is observed. KEY TAKEAWAYS: Tags: Topic: ACUTE KIDNEY INJURY Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2022 Reference: Nelson textbook of Pediatrics, 21 st ed., pg. 3798
+----------------------------------------------------------------
+
+ID: 24064 | Answer: [C] Failure of gut to return to the body cavity from its physiological herniation
+QUESTION: Which of the following is responsible for the condition given in the image below?
+OPTIONS: A) Duplication of intestinal loops | B) Abnormal rotation of intestinal loops | C) Failure of gut to return to the body cavity from its physiological herniation | D) Reversed rotation of intestinal loop
+TAG TOPIC: STRUCTURAL DEFECT Difficulty level: GOOD TO KNOW PYQ: FMGE DEC 2020; AUG2020 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 975
+EXPLANATION: Exomphalos(omphalocele) is herniation of abdominal viscera through an enlarged umbilical ring. The viscera, which may include liver, small and large intestines, stomach, spleen, or bladder, are covered by amnion. The origin of omphalocele is a failure of the bowel to return to the body cavity from its physiological herniation during the 6th to 10th weeks. Duplication of intestinal loops commonly seen in jejunum. Abnormal rotation causes malrotation of gut Reverse rotation can cause volvulus or intestinal obstruction. Tags: Topic: STRUCTURAL DEFECT Difficulty level: GOOD TO KNOW PYQ: FMGE DEC 2020; AUG2020 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 975
+----------------------------------------------------------------
+
+ID: 24077 | Answer: [D] Unconjugated hyperbilirubinemia
+QUESTION: A child has been diagnosed as Idiopathic hypertrophic pyloric stenosis. Most common association will be?
+OPTIONS: A) Hiatal hernia | B) Congenital heart disease | C) Conjugated hyperbilirubinemia | D) Unconjugated hyperbilirubinemia
+EXPLANATION: Hyperbilirubinemia is the most common clinical association of pyloric stenosis, also known as i cteropyloric syndrome . Unconjugated hyperbilirubinemia is more common than conjugated and usually resolves with surgical correction. It may be associated with a decreased level of glucuronyl transferase as seen in approximately 5% of affected infants; mutations in the bilirubin uridine diphosphate glucuronosyltransferase gene (UGT1A1) have also been implicated. If conjugated hyperbilirubinemia is a part of the presentation, other etiologies need to be investigated. Other coexistent clinical diagnoses have been described, including eosinophilic gastroenteritis, hiatal hernia, peptic ulcer, congenital nephrotic syndrome, congenital heart disease, and congenital hypothyroidism. Reference: Nelson 21 st Ed/Chapter 355
+----------------------------------------------------------------
+
+ID: 24078 | Answer: [A] Duodenal Atresia
+QUESTION: A neonate presented with complaints of bilious vomiting with minimal abdominal distension. His X-ray abdomen was done and is shown below. What is the likely diagnosis?
+OPTIONS: A) Duodenal Atresia | B) Jejunal Atresia | C) Pyloric Stenosis | D) Hirschsprung's Disease
+EXPLANATION: Presence of bilious vomiting, no abdominal distension and X-ray abdomen showing a double-bubble appearance is suggestive of Duodenal Atresia as the likely diagnosis. Regarding other options Option B- Presents with triple bubble appearance and has bilious vomiting with abdominal distension Option C- Presents with non-bilious vomiting and single bubble appearance on X-ray Option D- Presents with non-passage or delayed passage of meconium beyond 48 hours and/or chronic constipation. Can also have abdominal distension. Reference: OP Ghai 10 th Edition, Page 176
+----------------------------------------------------------------
+
+ID: 24079 | Answer: [C] Rectal biopsy
+QUESTION: A 3-day old neonate comes to you with not passed stool since birth. You suspect Hirschsprung disease. What is the gold standard diagnosis for the same?
+OPTIONS: A) Abdominal X-ray | B) Colonoscopy | C) Rectal biopsy | D) CT scan abdomen
+TAG TOPIC: HIRSCHSPRUNG DISEASE Difficulty level: GOOD TO KNOW PYQ: NEET PG 2021 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1962
+EXPLANATION: Rectal suction biopsyis the gold standard for diagnosing Hirschsprung disease. The biopsy material should contain an adequate amount of submucosa to evaluate for the presence of ganglion cells. Patients with aganglionosis demonstrate a large number of hypertrophied nerve bundles that stain positively for acetylcholinesterase with an absence of ganglion cells. All other tests mentioned are helpful but not diagnostic. Tags: Topic: HIRSCHSPRUNG DISEASE Difficulty level: GOOD TO KNOW PYQ: NEET PG 2021 Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1962
+----------------------------------------------------------------
+
+ID: 24080 | Answer: [A] Coloboma of iris
+QUESTION: Which of the following is not a component of the VACTERL syndrome?
+OPTIONS: A) Coloboma of iris | B) Tracheoesophageal fistula | C) Esophageal atresia | D) Anal atresia
+EXPLANATION: VACTERL syndrome: V- Vertebral anomalies A- Anal atresia C- Cardiac defects T- tracheoesophageal fistula E- esophageal atresia R- Renal and radial anomalies L- Limb defects Reference: Nelson Textbook of Pediatrics, 21st Edition, Page Number-345.
+----------------------------------------------------------------
+
+ID: 24081 | Answer: [C] Intubation to secure airway
+QUESTION: A neonate was diagnosed as a case of trachea-esophageal fistula with esophageal atresia and was posted for surgery next week. As an intern working in the department, you notice certain pre-operative monitoring and management being done. All of the following are allowed to be performed in a pre-operative case of TEF except?
+OPTIONS: A) Frequent esophageal suctioning | B) Prone position nursing | C) Intubation to secure airway | D) Use of prophylactic antibiotics
+EXPLANATION: Pre-operative management principles in TEF with EA: Ensure a patent airway Pre-operative proximal pouch decompression to prevent aspiration of secretions Use of antibiotics to prevent consequent pneumonia Prone positioning minimizes movement of gastric secretions into a distal fistula Esophageal suctioning minimizes aspiration from a blind pouch. Endotracheal intubation with mechanical ventilation is to be avoided if possible because it can worsen distention of the stomach. Reference: Nelson 21 st Edition, Chapter 345.1
+----------------------------------------------------------------
+
+ID: 24082 | Answer: [C] Type C
+QUESTION: Which of the following is the most common variety of TEF?
+OPTIONS: A) Type A | B) Type B | C) Type C | D) Type D
+EXPLANATION: Type-C TEF is the most common variety (80-90%), which comprises a proximal esophageal atresia with distal TE fistula (TEF-EA). Also note that H-type TEF is sometimes called as Type E TEF. Reference: OP Ghai 10 th Edition, Page 175
+----------------------------------------------------------------
+
+ID: 24083 | Answer: [D] X-ray after passing nasogastric tube
+QUESTION: Investigation of choice in a TEF with esophageal atresia?
+OPTIONS: A) CECT | B) Barium Swallow | C) USG Abdomen | D) X-ray after passing nasogastric tube
+EXPLANATION: IOC in TEF with EA is CXR taken after passing radiopaque tube from the mouth. Coiling of the tube and failure to pass beyond 7-10 cm from the mouth indicates an esophageal atresia and indirectly points to a likely tracheo-esophageal fistula. Reference: OP Ghai 10 th Edition, Page 175.
+----------------------------------------------------------------
+
+ID: 24201 | Answer: [C] Blood culture and take CSF sample from shunt tap
+QUESTION: A young child with congenital hydrocephalus was treated with a successful ventriculoperitoneal [VP] shunt. Four months' postsurgical repair, the child presented with fever, nuchal rigidity and irritability. You suspect meningitis. What is the next best step?
+OPTIONS: A) Wait and watch | B) Check shunt patency by nuclear study | C) Blood culture and take CSF sample from shunt tap | D) Blood culture and take CSF sample by lumbar puncture
+EXPLANATION: The child in the question has signs of CNS infection. Best method to confirm this is CSF culture. As the child already has a shunt in situ, it gives us an option to withdraw a sample of CSF via shunt and hence we can avoid an invasive LP procedure. Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 2817
+----------------------------------------------------------------
+
+ID: 24225 | Answer: [A] Observation
+QUESTION: A healthy 6-month-old boy is found incidentally to have a duplicated collecting system with no dilation. He has been asymptomatic and has been growing well. Which of the following is the most appropriate next step in management?
+OPTIONS: A) Observation | B) Prophylactic antibiotics | C) Stent replacement | D) Surgical repair
+TAG TOPIC: CONGENITAL DEFECTS Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 2563
+EXPLANATION: About 25% of anomalies recognized prenatally are congenital anomalies of the kidney and urinary tract. These disorders are varied and may be caused by malformations in the renal parenchyma, disruption in renal migration, or abnormalities in the developing collecting system. Duplication of the collecting system is the most frequently seen congenital urinary tract anomaly and may occur as either complete duplication or partial duplication, which is more common. Duplication is likely the result of ureteric bud duplication. Two distinct pelvicalyceal systems and either one ureter or two ureters that converge proximal to the bladder are present in children with partial duplication. Children with complete duplication also have two distinct pelvicaliceal systems but with two ureters. One ureter typically inserts in the trigone area of the bladder, while the second may insert there or elsewhere in the genitourinary system. In girls, it may enter at the bladder neck, urethrovaginal septum, vagina, cervix, uterus, Gartner duct, or a urethral diverticulum. In boys, it may insert into the posterior urethra, prostatic utricle, seminal vesicle, ejaculatory duct, or vas deferens. For patients, like this boy, who are asymptomatic and do not have dilatation or urinary tract infection, treatment is not indicated and the patient may be observed. Tags: Topic: CONGENITAL DEFECTS Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 2563
+----------------------------------------------------------------
+
+ID: 24237 | Answer: [B] After 6 months of surgery
+QUESTION: A child was diagnosed with TOF. He underwent a successful surgical complete repair. After how much time of surgery can the prophylaxis of infective endocarditis be stopped?
+OPTIONS: A) Immediately after surgery | B) After 6 months of surgery | C) After 12 months of surgery | D) Infective endocarditis prophylaxis needs to continue lifelong despite surgery
+EXPLANATION: According to the latest guidelines, lifelong IE prophylaxis is not needed in most patients. The prophylaxis is recommended in uncorrected disorders esp cyanotic diseases like TOF and then for 6 months after successful surgical repair. After that, IE prophylaxis can be safely stopped. Extra-Edge: Conditions where antibiotic prophylaxis is needed against IE Prosthetic cardiac valves Past history of IE Uncorrected cyanotic heart disease, palliative shunts and conduits During 1 st 6 months following complete surgical repair of CHDs Repaired CHDs with residual defects at or adjacent to the site of repair Cardiac transplantation recipients with cardiac valvulopathy Reference: OP Ghai 10 th Edition, Table 16.19, page 469
+----------------------------------------------------------------
+

@@ -1,0 +1,22 @@
+================================================================
+MODULE 588: Polio and AIDS (3 questions)
+================================================================
+
+ID: 3022 | Answer: [B] Poliomyelitis
+QUESTION: A 3-year-old girl was brought to the emergency department with weakness in her left leg. On examination, her left leg appeared flaccid and no deep tendon reflex or Babinski reflex can be elicited. What is the probable diagnosis of this case in which the anterior horn cells (shown in the figure) are destroyed?
+OPTIONS: A) Tetanus | B) Poliomyelitis | C) Rabies | D) Botulism
+EXPLANATION: The probable diagnosis is Poliomyelitis. Poliomyelitis is an inflammatory myopathy in which weakness of proximal limb muscles is an early feature. It is due to destruction of lower motor neurons present in the anterior horn of spinal cord by the poliovirus, resulting in paralysis of skeletal muscles. Option A: Tetanus: Tetanus is caused by the neurotoxin produced by the bacterium Clostridium tetani . Tetanus causes muscle spasms and rigidity due to the toxin affecting the motor neurons, but it does not specifically destroy anterior horn cells. Option C: Rabies: Rabies affects the central nervous system and can cause various neurological symptoms, but it does not specifically lead to flaccid paralysis from anterior horn cell destruction. The paralysis associated with rabies is not limited to a specific limb. Option D: Botulism: Botulism leads to muscle weakness and paralysis due to the blockade of acetylcholine release at the neuromuscular junction, but it does not involve the destruction of anterior horn cells Key takeaways: Poliomyelitis specifically results in the destruction of anterior horn cells, causing flaccid paralysis. Tags: Fmge jun 2022 Reference: Ganong's Review of Medical Physiology, 26 th Edition, Page no. 554
+----------------------------------------------------------------
+
+ID: 23911 | Answer: [C] Pneumocystis jirovecii
+QUESTION: A child with HIV presents with features of pneumonia. Which of the following organisms would be most commonly responsible?
+OPTIONS: A) Mycobacterium tuberculosis | B) Corynebacterium diphtheria | C) Pneumocystis jirovecii | D) Streptococcus pyogenes
+EXPLANATION: P.jirovecii (previously P. carinii) pneumonia is the opportunistic infection that led to the initial description of AIDS. This is one of the commonest AIDS defining illnesses in children; most cases occur between 3rd and 6th months of life. Reference: Ghai Essential Pediatrics, 9 th ed., pg. 225
+----------------------------------------------------------------
+
+ID: 23912 | Answer: [C] Rotavirus
+QUESTION: Intussusception was a known complication of which of the following vaccines?
+OPTIONS: A) Measles | B) Polio | C) Rotavirus | D) Oral Typhoid
+EXPLANATION: Things to know and remember about Rotavirus Vaccine: Vaccine withdrawn due to intussusception risk: Rotashield (Oral) Vaccine part of National Immunization Schedule: Rotavac (Oral) How many doses are recommended in NIS: 3 doses, given at 6, 10 and 14 weeks of age. Catch-up vaccination upto: 1 year Other Rotavirus Vaccines: Rotateq, Rotarix, Rotasiil Reference: OP Ghai Essential Pediatrics, 10 th Edition, Page Number 200-201.
+----------------------------------------------------------------
+

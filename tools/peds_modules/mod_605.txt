@@ -1,0 +1,424 @@
+================================================================
+MODULE 605: Paediatric Rheumatology (68 questions)
+================================================================
+
+ID: 12301 | Answer: [D] All of above
+QUESTION: Neonatal lupus -
+OPTIONS: A) Heart block | B) Thrombocytopenia | C) Cutaneous lesion | D) All of above
+EXPLANATION: Answer- D. All of above Neonatal lupus Age of onset newborn to 6 month Skin lesion include : Annular erythematous scaly plaque. Seen on sun exposed = head, neck May be associated with heart block/thrombocytopenia Diagnosed by: ANA Anti RO antibodies
+----------------------------------------------------------------
+
+ID: 23337 | Answer: [C] X ray facial bone
+QUESTION: A 12-year-old boy presents with swelling and tenderness of his left maxilla, and left subconjunctival haemorrhage after falling on his head in the playground at school. There was no loss of consciousness during or after the incident. He is alert & conscious and his vital signs are stable including GCS 15/15 at the time of presentation and one hour later. He is exquisitely tender in palpation of his left maxillary bone. Which is the most appropriate initial investigation?
+OPTIONS: A) CT Brain plain | B) CT venogram | C) X ray facial bone | D) MRI brain plain
+TAG TOPIC: TRAUMA Difficulty level: MUST KNOW Reference: Manual of paediatric emergencies & critical care, 2 nd ed., pg. 254
+EXPLANATION: There is absolutely no indication in the stem indicating of neurological deficit to order CT scan or MRI. Moreover, there are no signs of intracranial haemorrhage. Swelling and tenderness over left maxilla could represent a maxillary fracture. Tags: Topic: TRAUMA Difficulty level: MUST KNOW Reference: Manual of paediatric emergencies & critical care, 2 nd ed., pg. 254
+----------------------------------------------------------------
+
+ID: 23340 | Answer: [A] abc
+QUESTION: In a child with recurrent UTIs, what is the order of performing investigation in importance on follow-up? a. Ultrasound b. Micturating Cystourethrogram c. DMSA Scan
+OPTIONS: A) abc | B) bac | C) acb | D) bca
+EXPLANATION: Order of performing investigation in importance on follow-up: I)USG: Immediately after UTI diagnosis ,To assess anatomy and obstruction ii)MCU: 2-3 weeks post-treatment ,To check for VUR. iii)DMSA: 2-3 months post-treatment (early DMSA not routine),To detect renal scarring. Key takeaways: Recurrent UTI Reference : Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23373 | Answer: [C] Atrial septal defect
+QUESTION: A 6-year-old child was brought to her paediatrician for routine well-childcare. Her physical examination is normal except for a systolic murmur and a widely split-second heart sound that does not vary with respiration. She has no family history of heart disease. Which among the following is the most likely diagnosis?
+OPTIONS: A) Total anomalous pulmonary venous connection | B) Ventricular septal defect | C) Atrial septal defect | D) Pulmonic stenosis
+EXPLANATION: Explanation: The systolic murmur and a widely split-second heart sound in an otherwise normal child indicate an atrial septal defect. Atrial septal defects Atrial septal defects account for about 5-10% of all congenital heart diseases . There are of three main types: Ostium primum type Associated with cardiac conduction defects, mitral valve prolapse, and an increased risk of mitral regurgitation. Ostium secundum type The most common form, seen in more than 70% of cases. Sinus venosus type ( rare) Patent foramen ovale (PFO) is not considered ASD, PFO is a benign lesion Clinical Manifestations: Most children are asymptomatic Failure to Thrive Exercise Intolerance Physical Examination Findings: Widely Split and Fixed S2 The second heart sound is split and fixed due to increased right ventricular diastolic volume. Systolic Ejection Murmur Soft murmur at the left upper sternal border, caused by increased flow across the right ventricular outflow tract. Mid-Diastolic Murmur Rumbling murmur at the lower left sternal border due to increased flow across the tricuspid valve. Treatment Small ASD usually spontaneously close (Esp. Size If not Transcatheter device closure is done Ideal age for device closure is 2-4 years. Explanation of other options: Total anomalous pulmonary venous connection (Option A): Children with Total anomalous pulmonary venous connection will not be asymptomatic and often present with cyanosis and congestive cardiac failure with equal saturation levels across all four heart chambers. Examination findings of fixed split S2, systolic ejection murmur, and cyanosis are seen. Ventricular septal defects (Option B): In ventricular septal defect (VSD), a left-to-right shunt occurs, and the clinical presentation depends on the size of the defect. It may range from being asymptomatic with normal pulmonary artery pressure and only a loud, harsh, or blowing holosystolic murmur, to severe cases with pulmonary hypertension and features of congestive heart failure. Pulmonary stenosis (Option D): Pulmonary stenosis is the narrowing of the pathway from the right ventricle to the pulmonary artery, possibly affecting the infundibulum, valve, or main pulmonary artery. It is a component of the Tetralogy of Fallot and often presents with severe cyanosis from birth. The clinical findings include an ejection click heard after S1 (closer to S1 as the severity increases) and a split S2 in moderate to severe cases.
+----------------------------------------------------------------
+
+ID: 23454 | Answer: [C] In chest compression, depth must be at least 1/3rd of AP diameter of the child's chest
+QUESTION: Which of the following is true regarding paediatric cardiopulmonary resuscitation?
+OPTIONS: A) Chest compression at the rate of 30:2 with 2 rescuers | B) Adenosine via intraosseous is preferred over other methods | C) In chest compression, depth must be at least 1/3rd of AP diameter of the child's chest | D) Adrenaline given in dose 0.01 mg/kg iv/io in 1:1000 concentration
+EXPLANATION: Explanation: In pediatric CPR, the recommended depth for chest compressions is at least one-third the anterior-posterior (AP) diameter of the chest. This translates to approximately 4 cm in infants and 5 cm in children . Compressions should be performed at a rate of 100-120/min , with proper technique such as the two-thumb encircling method for infants. Full chest recoil must be allowed between compressions. Adrenaline is indicated if the heart rate remains 0.01 mg/kg of 1:10,000 solution IV/IO , repeated every 3-5 minutes if needed. The compression-to-breath ratio varies depending on the number of rescuers but is 3:1 in neonates . CPR recomendations:
+----------------------------------------------------------------
+
+ID: 23517 | Answer: [C] 3 year
+QUESTION: Handedness is established in a child at what age?
+OPTIONS: A) 1 year | B) 2 year | C) 3 year | D) 4 year
+EXPLANATION: Handedness: dominance of one hand over the other for performing tasks or activities. It is established in children at around 3 years. key takeaways : Bidextrous grasp -4 months Unidextrous grasp-6 months Palmar grasp-7 months Pincer grasp (immature)-9month Pincer grasp (mature)-12month Handedness-3 years Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23556 | Answer: [C] GH receptor anomaly
+QUESTION: A child is brought to the paediatrician with short stature. On evaluation, growth hormone levels are found to be high and insulin-like growth factor (IGF-1) levels are low. Which among the following could be the likely associated abnormality?
+OPTIONS: A) GH deficiency | B) GHRH deficiency | C) GH receptor anomaly | D) IGF-1 deficiency
+EXPLANATION: Explanation: The raised levels of growth hormone and low levels of IGF-1 suggest growth hormone insensitivity which is due to GH receptor anomaly. GH stimulates the liver to produce insulin-like growth factor 1 (IGF-1), which in turn promotes the growth of bones and tissues. If there is a GH-receptor anomaly in the liver, leads to GH insensitivity. Hene, IGF-1 is not sufficiently produced lowering its concentration in the body. Growth Hormone Receptor anomalies: Laron syndrome: Mutation of the GH receptor leading to growth hormone insensitivity. The GH receptor has an extracellular, transmembrane, and intracellular domain. Mutation of the extracellular domain Affects the binding of the hormone GH-binding protein activity is low Mutation of the transmembrane domain: Affects the anchoring of the receptor to the plasma membrane Normal or high GH-binding protein Mutation of the intracellular domain: Interferes with JAK/STAT signaling Explanation of other options: GH deficiency (Option A) : If the child had GH deficiency, both GH and IGF-1 levels would typically be low. GHRH deficiency (Option B) : Growth hormone-releasing hormone (GHRH) deficiency would typically lead to low GH secretion because GHRH stimulates the release of GH. IGF-1 deficiency (Option D) : Low IGF-1 levels can cause short stature, but the presence of high GH levels suggests that the issue lies not in the production of IGF-1 but in the action of GH itself.
+----------------------------------------------------------------
+
+ID: 23593 | Answer: [B] Anterior
+QUESTION: Which among the following is the last fontanelle to close in a child?
+OPTIONS: A) Anterolateral | B) Anterior | C) Posterolateral | D) Occipital
+EXPLANATION: Anterior fontanelle is last to close in child Posterior fontanelle is first to close in child. Key takeaways:- ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23732 | Answer: [D] X-linked Hypophosphatemic Rickets
+QUESTION: A 6 year old female child presents with bony deformities and rickets-like features. She has received multiple courses of Vitamin D without any benefits. Her investigations revealed Serum Calcium of 9.5 mg/dl, Serum Phosphate of 1.6 mg/dl, Serum Alkaline Phosphatase of 819 IU/L and a normal blood pH, normal Serum PTH levels. What is the likely diagnosis?
+OPTIONS: A) Renal Osteodystrophy | B) VDDR Type 1 | C) VDDR Type 2 | D) X-linked Hypophosphatemic Rickets
+EXPLANATION: Low Phosphate and Normal Calcium : Suggest phosphate-related bone disorder. Normal PTH and Normal pH : Rule out Vitamin D deficiency or renal issues. Failure to Respond to Vitamin D : Points to phosphate metabolism problem. High Alkaline Phosphatase : Indicates rickets. On the basis of given case scenario most likely diagnosis is X-linked Hypophosphatemic Rickets Other options: Option A - Renal Osteodystrophy : Unlikely, as the child has normal kidney function and no signs of uremia. Option B - VDDR Type 1 : Unlikely, as it causes low calcium and elevated PTH, which are not present here. Option C - VDDR Type 2 : Unlikely, as it causes elevated PTH and low calcium, which are absent in this child. Key Takeaway:- Refractory Rickets(if there is no clinical,biochemical or radiological improvement after 90days of VitD & Calcium supplementation Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23733 | Answer: [B] Serum levels of factor VIII are decreased
+QUESTION: Which of the following is true regarding Hemophilia A?
+OPTIONS: A) Deficiency of Factor IX | B) Serum levels of factor VIII are decreased | C) Raised PT | D) Reduced APTT and FDPs
+EXPLANATION: Other options Deficiency of Factor IX - characteristic for Hemophilia B, not for A. Raised PT -Typically normal in Hemophilia A. Reduced APTT and FDPs - APTT is prolonged in Hemophilia A, not reduced. Key takeaways: ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23734 | Answer: [B] Megaloblastic anemia
+QUESTION: A vegetarian/vegan patient with MCV of 110 fL and Hb of 10 g% is most likely to have?
+OPTIONS: A) Iron deficiency anemia | B) Megaloblastic anemia | C) Aplastic anemia | D) Thalassemia
+EXPLANATION: MCV>100:Macrocytic ,Hb Megaloblastic anemia. Source of B12 in diet : Red meat,milk In vegans increased risk of B12 deficiency Source of Folic acid in diet:Green leafy vegetables,fruits Explanation of Incorrect Answers: Iron deficiency anemia: Iron deficiency anemia typically presents with microcytic anemia (MCV macrocytic nature of this anemia. Aplastic anemia: Aplastic anemia is a bone marrow failure disorder that causes pancytopenia (low RBC, WBC, and platelets). It typically presents with normocytic anemia (normal MCV) rather than macrocytic anemia. It is unlikely to be the cause of a high MCV like 110 fL. Thalassemia: Thalassemia is a type of microcytic anemia (MCV Key Takeaway: Megaloblastic anemia is characterized by macrocytic anemia, typically due to deficiencies in vitamin B12 or folate . A vegetarian or vegan diet increases the risk of vitamin B12 deficiency , making it the most likely cause of macrocytic anemia in such patients. Vitamin B12 deficiency can cause neurological symptoms and is more common in vegans since it is predominantly found in animal-based foods. Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 23743 | Answer: [B] Plan B
+QUESTION: A 1 year old baby with diarrhea presented with restlessness, sunken eyes but was able to drink water. Skin turgor goes back in 2 sec. Best management is?
+OPTIONS: A) Plan A | B) Plan B | C) Plan C | D) Plan D
+EXPLANATION: In given case mental status:restlessness ,sunken eyes,able to drink water suggestive of some dehydration . For some diarrhoea we will for Plan B . ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23746 | Answer: [D] Hypotonia
+QUESTION: Which of the following clinical feature is less likely in a condition of hypernatremia dehydration?
+OPTIONS: A) Jittery movements | B) Convulsions | C) Drowsiness | D) Hypotonia
+TAG TOPIC: ELECTROLYTE DISTURBANCES Difficulty level: MUST KNOW Reference: Manual of paediatric emergencies & critical care, 2 nd ed., pg. 341
+EXPLANATION: The following may be present in hypernatremia dehydration, whereby proportionally more water than sodium is lost from the body: Jittery movements Increased muscle tone Hyperreflexia Convulsions Drowsiness or coma. KEY TAKEAWAYS: Hypernatremic dehydration occurs when there is a greater water loss relative to sodium loss, resulting in an increased plasma sodium concentration (serum sodium >145 mEq/L) . It is most commonly observed in settings of inadequate water intake, excessive water loss, or high solute intake. Tags: Topic: ELECTROLYTE DISTURBANCES Difficulty level: MUST KNOW Reference: Manual of paediatric emergencies & critical care, 2 nd ed., pg. 341
+----------------------------------------------------------------
+
+ID: 23757 | Answer: [C] Bell & Pad Conditioning
+QUESTION: A 7-year-old male child has complaints of nocturnal bed-wetting twice per week. Evaluation was done and revealed no organic cause. What shall be the initial treatment approach in this child?
+OPTIONS: A) Bladder training | B) Oral Imipramine | C) Bell & Pad Conditioning | D) Oral Desmopressin
+EXPLANATION: Primary Nocturnal Enuresis : Bed-wetting twice a week with no organic cause; treatment if not resolved by age 6. First-Line Treatment : Behavioral Modification/Non pharmacological Therapy - Lifestyle Modification: Restrict fluids after 6-7 PM; divide daytime fluids (40% before lunch, 40% before dinner, 20% at dinner). Bed Alarm System: Moisture-sensitive pad triggers alarm to wake the child and interrupt urination. Motivational Therapy: 25% success rate; reassurance and reward charts for dry nights. Other options (B): Oral Imipramine Imipramine is A TCA(Tri Cyclic Antidepressant) class drug,which inhibits Norepinephrine & Serotonin reuptake.it also has anticholinergic property acting on M3 receptor of bladder it relaxes bladder. (D ): Oral Desmopressin Desmopressin is V2(vasopressin receptor type2) Agonist.it comes in formulation iv & oral. it is drug of choice in Mild vWF deficiency,Hemophilia A,Central Diabetes Insipidus,Nocturnal enuresis. Key takeaways Nocturnal enuresis/Bed wetting: Involuntary urination during sleep in children &ge;5 years old - More common in boys Types Primary Nocturnal Enuresis: No prolonged dry period since birth Secondary Nocturnal Enuresis: Bed-wetting after &ge;6months of dryness Treatment : Treatment should be started if nocturnal enuresis doesn't improve by 6yrs. 1st line treatment: Behavioral modification/Non pharmacological Therapy I)Life style modification(LSM) ii)Bed alarm system/Bell & ped alarm system iii)Motivational therapy 2nd line treatment:Pharmacologic Treatment(if behavioral methods fail) I)oral Desmopressin(drug): Decreases nighttime urine production ii)oral Imipramine:Used cautiously due to side effects Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23808 | Answer: [B] Testicular leukemia
+QUESTION: A 7-year-old boy has ALL. His white cell count at diagnosis was < 50 x 10^9. He was also told that he was CNS negative and had some testicular leukaemia. He has shown good response to treatment so far. Which of these factors is high risk and means there is a poor prognosis?
+OPTIONS: A) Age | B) Testicular leukemia | C) CNS negative | D) WBC count
+TAG TOPIC: LEUKEMIA & LYMPHOMA Difficulty level: MAY KNOW PYQ: NEET PG 2022 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2653
+EXPLANATION: KEY TAKEAWAYS: Poor prognostic features in Acute Lymphoblastic Leukemia (ALL) are clinical, biological, and genetic factors that indicate a higher likelihood of treatment resistance or relapse. Tags: Topic: LEUKEMIA & LYMPHOMA Difficulty level: MAY KNOW PYQ: NEET PG 2022 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2653
+----------------------------------------------------------------
+
+ID: 23820 | Answer: [A] Turner Syndrome
+QUESTION: A 10 year old girl presented with short stature, dorsal edema of hands & feet, webbed neck and low posterior hairline. USG abdomen shows a small uterus and streak gonads bilaterally. What is the likely diagnosis?
+OPTIONS: A) Turner Syndrome | B) Edward Syndrome | C) Down Syndrome | D) Klinefelter Syndrome
+EXPLANATION: Short stature and lymphedema (swelling) of the hands and feet are common in Turner Syndrome . Webbed neck and low posterior hairline are classic physical findings. Small uterus and streak gonads on ultrasound are consistent with Turner Syndrome , as affected individuals often have underdeveloped sexual characteristics due to gonadal dysgenesis. Other options: Edward Syndrome (Trisomy 18): Low birth weight, prominent occiput, clenched hands, rocker-bottom feet, heart defects, severe intellectual disability. Down Syndrome (Trisomy 21): Flat face, upslanting eyes, single palmar crease, hypotonia, intellectual disability, heart defects. Klinefelter Syndrome (47,XXY): Tall males with gynecomastia, small testes, infertility, learning difficulties, and low testosterone. Key takeaways :- Turner syndrome Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23897 | Answer: [B] 40 ml/min/ 1.73 m? BSA
+QUESTION: A 4 year old male child with body weight of 15 kg and height 100 cm is admitted with renal failure. His blood urea was 100 mg/dl and serum creatinine was 1 mg/dl. What is the closest calculated eGFR in the patient?
+OPTIONS: A) 33 ml/min/ 1.73 m2 BSA | B) 40 ml/min/ 1.73 m? BSA | C) 55 ml/min/ 1.73 m2 BSA | D) 80 ml/min/ 1.73 m? BSA
+EXPLANATION: To calculate the estimated glomerular filtration rate (eGFR) in children, the Schwartz formula is used: Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 23954 | Answer: [D] Blood Culture + CSF Culture, with CSF taken through Shunt
+QUESTION: A child with hydrocephalus underwent placement of a V-P shunt. Post operatively, the child developed fever and irritability. He was given acetaminophen in age-appropriate dosage. What is the next step?
+OPTIONS: A) Urgent Neuroimaging | B) Radionuclide Scan | C) Blood Culture + CSF Culture, with CSF taken through LP | D) Blood Culture + CSF Culture, with CSF taken through Shunt
+EXPLANATION: In given case scenario Fever and irritability postoperatively in a child with a V-P shunt suggest a possible shunt infection. Blood and CSF cultures are essential, and obtaining CSF through the shunt is preferred to directly assess infection in the shunt system. Other options: Option A - Urgent Neuroimaging - not the immediate next step unless there are signs of shunt malfunction. Option B - Radionuclide Scan - not typically used for infection assessment. Option C - CSF through LP - less preferred, may not accurately reflect shunt infection. Key takeaway:- Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23955 | Answer: [D] Td
+QUESTION: A 10 year old boy who is previously unimmunized, presented to you at OPD. Which one of the following vaccines will you administer?
+OPTIONS: A) BCG | B) Rabies | C) Typhoid | D) Td
+EXPLANATION: A 10-year-old child who is previously unimmunized,for this age group under NIS there is option 2 option JE vaccine(maximum cut off age 15yrs) & Td (there is no cut off age) . Other options:- Option A - BCG is typically given at birth or i 1yr age. Option B - Rabies vaccine is only administered after potential exposure or in high-risk situations. Option C - Typhoid vaccine is not routinely administered in this scenario unless there is an increased risk of typhoid fever. Key takeaways:- Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23956 | Answer: [B] Closure of ductus arteriosus prematurely
+QUESTION: A pregnant female at 34 weeks gestation was inadvertently given oral indomethacin for body pains. What can be the consequences?
+OPTIONS: A) Closure of fossa ovalis prematurely | B) Closure of ductus arteriosus prematurely | C) Closure of patent foramen ovale prematurely | D) Higher risk of developing Patent Ductus Arteriosus
+EXPLANATION: Indomethacin, an NSAID, can inhibit prostaglandin synthesis, which is essential to keep the ductus arteriosus open in the fetus. Administering indomethacin in the third trimester risks premature closure of the ductus arteriosus. Key takeaway:-Ductus arteriosus Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23957 | Answer: [B] Alkalosis
+QUESTION: A child with tachypnea in emergency developed carpopedal spasms. Likely reason?
+OPTIONS: A) Acidosis | B) Alkalosis | C) Latent Rickets | D) Idiopathic
+EXPLANATION: Key Takeaway:- Signs for elicit latent tetany Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23961 | Answer: [B] 4 weeks
+QUESTION: Ideal time gap between two live vaccines, if both can't be given together, should be?
+OPTIONS: A) 2 weeks | B) 4 weeks | C) 8 weeks | D) 12 weeks
+EXPLANATION: If two live vaccines cannot be given together, there should be a gap of at least 1 month (or 4 weeks) to ensure that the antibodies developed from the first vaccine do not interfere with the effectiveness of the second vaccine. Key takeaways:- -There is no need to keep a gap of 1 month between a live vaccine and a killed (inactivated) vaccine. They can be given at the same time or at different intervals -All live vaccines are contraindicated in pregnancy & immunocompromised except During outbreaks &travel (YF,OPV,Cholera) & bite case (rabies) -If two live vaccines are given together, they should be administered at different injection sites. ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23962 | Answer: [D] All the above
+QUESTION: Chances of recurrence of febrile seizures are increased in?
+OPTIONS: A) Age at onset <1 yr | B) Fever <24 hr duration | C) Temperature 38-39 Degrees Celsius | D) All the above
+EXPLANATION: Risk Factors For Recurrence of Fabrile seizure: Reference : Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23966 | Answer: [D] All of the above
+QUESTION: An 8 year old child presents with an acute exacerbation of asthma with life-threatening features. What should be done immediately?
+OPTIONS: A) Start 02 | B) Start corticosteroids | C) Salbutamol nebulization 3 times in 1st one hour | D) All of the above
+EXPLANATION: Incorrect Option Explanation: A. CXR and decide therapy This is incorrect as a priority during a life-threatening asthma exacerbation. A CXR (chest X-ray) is not needed immediately unless there is concern about other complications (e.g., pneumothorax or pneumonia). The first priority is managing the airway with oxygen, corticosteroids, and bronchodilators, not diagnostic imaging. Asthma severity & menagement Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23967 | Answer: [A] 5 years
+QUESTION: An 11 year old child has Acute Rheumatic Fever and has no cardiac manifestations. What should be the duration of antibiotic prophylaxis?
+OPTIONS: A) 5 years | B) 10 years | C) 20 years | D) 40 years
+EXPLANATION: Secondary prevention/prevention of complications in ARF: Antibiotic prophylaxis: Intramuscular benzathine penicillin or Oral penicillin or Oral sulfadiazine or Oral sulfisoxazole Duration of Antibiotic prophylaxis AHA guidelines Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23968 | Answer: [D] Ectopic ureter
+QUESTION: A young girl presents with the complaints of continuous dribbling of urine. However, she also voids normally. Her parents tell you that she had never been totally dry since her birth. What is the most likely diagnosis?
+OPTIONS: A) Posterior urethral valve | B) Ureterocele | C) Primary Vesicoureteric reflux | D) Ectopic ureter
+EXPLANATION: Ectopic ureter: Other options: Key takeaways: Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23969 | Answer: [D] Plexiform Neurofibroma
+QUESTION: A 14-year-old girl presented with firm, non-tender, palpable masses on the left side of neck. The swellings were slowly increasing in size but non-pulsatile. Examination revealed Axillary Freckles bilaterally and multiple brown flat skin lesions on the trunk. Likely diagnosis of the masses?
+OPTIONS: A) Chemodectoma | B) Lipoma | C) Cystic Hygroma | D) Plexiform Neurofibroma
+EXPLANATION: In given case scenario firm,non tender palpable mass non pulsatile mass which is slowly growing bilateral axillary freckles and multiple brown flat skin lesions on trunk which also known as caf&eacute;-au-lait spots, which are classic signs of NF 1.So likely diagnosis is plexiform neurofibroma. Other options (A) Chemodectoma Chemodectoma is usually pulsatile and associated with carotid body tumors. (B) Lipoma Lipoma is typically soft, rubbery ,mobile, and not associated with NF1. (C) Cystic hygroma soft, compressible, especially in the posterior Key takeaways: Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23972 | Answer: [D] GCS <15
+QUESTION: A 4-year-old boy presents following a head injury while running around at nursery and fell over in the playground 3 hours ago. The fall itself was unwitnessed, but the teacher stated that she saw him performing jerking movements on the ground immediately after. He is brought to you while he had vomited twice on the way. He had not vomited at school. On examination, there is no focal neurological deficit, he obeys motor commands, eyes open spontaneously but is confused. He has a laceration measuring 7cm above his Right eye. He has is known case of epilepsy. Which of the following is an indication for a CT head in this case?
+OPTIONS: A) Seizure | B) Vomiting | C) Unwitnessed fall | D) GCS <15
+TAG TOPIC: TRAUMA Difficulty level: GOOD TO KNOW Reference: Manual of paediatric emergencies & critical care, 2 nd ed., pg. 254
+EXPLANATION: A GCS of Clinical Symptoms: Loss of consciousness (LOC) or altered mental status (e.g., Glasgow Coma Scale &le;15). Persistent headache or vomiting (>2 episodes). Post-traumatic seizures. Amnesia regarding the event. Signs of raised intracranial pressure (e.g., papilledema, unequal pupils). Physical Examination Findings: Focal neurological deficits (e.g., hemiparesis, cranial nerve palsies). Suspected skull fracture: Open or depressed skull fracture. Battle sign or raccoon eyes (suggestive of basal skull fracture). Scalp hematoma or penetrating head injury (especially in children Option A: He has a diagnosis of epilepsy so is not an automatic indication for CT on its own. Option B: Vomiting is an indication for further observation, but not an indication for CT head on its own. It is also worth noting that in adults only 1 episode of unexplained vomiting is required for a CT head, due to vomiting being a common response to pain and trauma in children. Option C: An unwitnessed fall is common in children, and is not an indication on its own. KEY TAKEAWAYS: Early imaging ensures prompt diagnosis of life-threatening conditions like intracranial hemorrhage, cerebral edema, or herniation. Avoid unnecessary CT to reduce radiation exposure, particularly in paediatric patients. Tags: Topic: TRAUMA Difficulty level: GOOD TO KNOW Reference: Manual of paediatric emergencies & critical care, 2 nd ed., pg. 254
+----------------------------------------------------------------
+
+ID: 24170 | Answer: [B] Coarctation of aorta
+QUESTION: A 6 year old child presents with hypertension. On examination, his lower limb pulses are feeble and delayed compared to the upper limb pulses. CXR showed inferior notching of the ribs. What is the likely diagnosis?
+OPTIONS: A) Atrial septal defect | B) Coarctation of aorta | C) Bicuspid Aortic Valve | D) Patent Ductus Arteriosus
+EXPLANATION: Findings Hypertension : Due to increased resistance in the narrowed aorta. Feeble and delayed lower limb pulses : Reduced blood flow to the lower body from the aortic narrowing. Inferior rib notching on CXR : Caused by collateral circulation through the intercostal arteries, leading to rib erosion. On the basis of given case scenario most likely diagnosis is Coarctation of aorta Other options:- Option A - Atrial Septal Defect : Causes a murmur, not hypertension or differential pulses. Option C - Bicuspid Aortic Valve : Linked to aortic stenosis or regurgitation, not the specific findings here. Option D - Patent Ductus Arteriosus : Typically causes a continuous murmur, not pulse differences or rib notching. Key Takeaway:- Coarctation of aorta Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 24183 | Answer: [C] Bebtelovimab
+QUESTION: Which among the following is not useful in the management of Sickle Cell Anemia?
+OPTIONS: A) Hydroxyurea | B) Voxelotor | C) Bebtelovimab | D) L- Glutamine
+EXPLANATION: Bebtelovimab : This is a monoclonal antibody used for COVID-19 treatment , not related to the management of sickle cell anemia. Disease-Modifying Drugs in m&eacute;nagement of Sickle cell anemia (A): Hydroxyurea :It increases fetal hemoglobin (HbF) levels, reducing sickling and vaso-occlusive crises. (C): L-Glutamine : Approved for sickle cell disease; reduces oxidative stress and decreases the frequency of pain crises. (B): Voxelotor : A hemoglobin modulator that stabilizes oxygenated hemoglobin, reducing hemoglobin polymerization and improving anemia Crizanlizumab :A monoclonal antibody targeting P-selectin to reduce adhesion of sickled cells to the endothelium. Decreases vaso-occlusive crises Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24220 | Answer: [B] IV Magnesium Sulphate
+QUESTION: Not useful in the management of hyperkalemia?
+OPTIONS: A) Salbutamol nebulization | B) IV Magnesium Sulphate | C) Calcium gluconate | D) Insulin And Dextrose
+EXPLANATION: Incorrect Options: Salbutamol nebulization: Salbutamol (a beta-2 agonist) helps reduce serum potassium levels by promoting the movement of potassium into cells. This makes salbutamol nebulization an effective treatment in the acute management of hyperkalemia. Calcium gluconate: Calcium gluconate is used in hyperkalemia to stabilize the myocardial membrane and prevent cardiac arrhythmias associated with elevated potassium. It doesn't lower potassium levels but helps protect the heart, especially in severe hyperkalemia. Insulin and Dextrose: Insulin and dextrose are used together in the treatment of hyperkalemia. Insulin helps drive potassium into cells, while dextrose prevents hypoglycemia caused by insulin administration. This is a key treatment strategy for lowering serum potassium levels in hyperkalemia. Key Takeaway: IV Magnesium Sulphate is not commonly used in the management of hyperkalemia because it doesn't directly lower potassium levels or stabilize cardiac function. The other treatments- salbutamol nebulization , calcium gluconate , and insulin with dextrose- are directly involved in addressing the elevated potassium levels or protecting the heart in cases of hyperkalemia. Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24233 | Answer: [D] Coarctation of Aorta
+QUESTION: A Child presented with decreased lower limb pulses, which were also delayed, as compared to the upper limb pulses. Likely Diagnosis?
+OPTIONS: A) Ventricular Septal Defect | B) Transposition of Great Arteries | C) Tetralogy of Fallot | D) Coarctation of Aorta
+EXPLANATION: Decreased lower limb pulses, which were also delayed as compared to the upper limb pulses(radiofemoral delay) suggestive of Coarctation of Aorta. Incorrect Options: Ventricular Septal Defect (VSD): VSD is a congenital heart defect where there is an abnormal opening in the septum between the ventricles. This condition does not typically present with pulse delay between upper and lower limbs. It is more often associated with a murmur and signs of heart failure, but not with pulse discrepancies. Transposition of Great Arteries (TGA): TGA is a congenital heart defect where the positions of the pulmonary artery and the aorta are reversed. While it can lead to significant cyanosis and heart failure, it doesn't typically present with the pulse delay observed in coarctation of the aorta. Tetralogy of Fallot (TOF): TOF is a congenital heart defect that involves four heart malformations, leading to cyanosis and heart murmurs . While it can cause oxygenation issues, it does not typically result in pulse delay or the pattern of discrepancies between the upper and lower limb pulses seen in coarctation of the aorta. Atrial Septal Defect : Causes a murmur, not hypertension or differential pulses. Bicuspid Aortic Valve : Linked to aortic stenosis or regurgitation, not the specific findings here. Patent Ductus Arteriosus : Typically causes a continuous murmur, not pulse differences or rib notching. Key takeaways: Coarctation of Aorta Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 24311 | Answer: [A] Carcinoid tumor
+QUESTION: Which of the following is most common pulmonary tumor in children?
+OPTIONS: A) Carcinoid tumor | B) Small cell carcinoma | C) Adeno carcinoma | D) Squamous cell carcinoma
+TAG TOPIC: SOLID TUMORS Difficulty level: MUST KNOW PYQ: FMGE JULY 2023 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2316
+EXPLANATION: The most common tumor types are Carcinoid inflammatory myofibroblastic tumor pleuropulmonary blastoma Rare pediatric lung tumors include small cell carcinoma adenocarcinoma pulmonary capillary hemangiomatosis KEY TAKEAWAYS: The most common pulmonary tumor in children is carcinoid tumor. Tags: Topic: SOLID TUMORS Difficulty level: MUST KNOW PYQ: FMGE JULY 2023 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2316
+----------------------------------------------------------------
+
+ID: 24316 | Answer: [A] Size &ge;8 mm
+QUESTION: A child with Kawasaki Disease underwent echocardiography and was found to have a giant aneurysm on Right Coronary Artery, for which he was hospitalized and managed. Which among the following is a cut-off to define a giant coronary artery aneurysm in a Kawasaki Disease patient?
+OPTIONS: A) Size &ge;8 mm | B) Size &ge;10 mm | C) Size &ge; 12 mm | D) Size &ge; 20 mm
+EXPLANATION: In KD Patients, large or giant coronary artery aneurysms are responsible for most of the morbidity and mortality. Large or giant aneurysms have been defined by the 2017 American Heart Association (AHA) as having a z score &ge;10 or an absolute dimension of &ge;8 mm. Japanese Classification of Aneurysms in KD Small: &le;4 mm internal diameter [ID]) Medium (>4 to &le;8 mm ID) Giant (>8 mm ID). Specifically, large or giant aneurysms are associated with the greatest risk of thrombosis or stenosis, angina, and myocardial infarction. Rupture of a giant aneurysm is a rare complication that generally occurs in the 1st months after illness onset and may present as hemopericardium with tamponade. Axillary, popliteal, iliac, or other arteries may also become aneurysmal, but always in the setting of giant coronary aneurysms. Reference: Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24317 | Answer: [A] A normal radiograph
+QUESTION: The most common bony finding on a skeletal radiograph in JIA is which of the following?
+OPTIONS: A) A normal radiograph | B) Periarticular osteopenia | C) Joint space narrowing | D) Periosteal new bone formation
+TAG TOPIC: JUVENILE IDIOPATHIC ARTHRITIS Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 1st SA edition, pg. 1164
+EXPLANATION: X-ray findings in JIA include: Soft Tissue Swelling: Early in the disease, x-rays may show signs of soft tissue swelling around the affected joints, which is a sign of inflammation. Osteopenia (Bone Density Loss): Decreased bone density , particularly around the inflamed joints, can appear early due to inflammation and reduced use of the joint. Joint Space Narrowing: Chronic inflammation leads to cartilage loss, resulting in reduced space between bones in the joint. This is often seen in more advanced cases. Bony Erosions: In some cases of aggressive JIA, particularly polyarticular and systemic types, inflammation can cause bony erosions or small areas where bone is destroyed near the joint. Growth Disturbances: In children, chronic inflammation in a joint can interfere with normal bone growth, potentially leading to limb-length discrepancies, joint deformities, or growth plate abnormalities. Fusion of Joints (Ankylosis): In severe or untreated cases, the joint can undergo fusion or ankylosis, where the bones grow together, limiting movement. This is particularly noted in the spine or wrist joints in certain types of JIA. KEY TAKEAWAYS: The most common finding on radiograph is normal bone and joint, followed by periarticular osteopenia. Noting osteopenia on radiograph, however, implies that over 50% of the bone mineral content has been lost due to the inflammation. Other findings, such as joint space narrowing, periosteal new bone formation, and most ominous, erosions, are late findings in JIA. Tags: Topic: JUVENILE IDIOPATHIC ARTHRITIS Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 1st SA edition, pg. 1164
+----------------------------------------------------------------
+
+ID: 24321 | Answer: [A] HSP
+QUESTION: An 8 year old male child presents with multiple petechiae on both lower limbs along with joint pains and abdominal pain. Likely diagnosis?
+OPTIONS: A) HSP | B) KD | C) PAN | D) Cryoglobulinema
+EXPLANATION: Findings : Multiple petechiae on lower limbs Joint pain Abdominal pain Likely Diagnosis : Henoch-Sch&ouml;nlein Purpura (HSP), a small-vessel vasculitis commonly affecting children, characterized by purpura (often on lower limbs), joint pain, and abdominal pain. Other options:- Option B - Kawasaki Disease (KD) : Typically presents with fever, conjunctivitis, oral changes, rash, and swollen lymph nodes; petechiae are uncommon. Option C - Polyarteritis Nodosa (PAN) : Affects medium-sized vessels, causing systemic symptoms and abdominal pain, but usually lacks petechiae or purpura. Option D -Cryoglobulinemia : May cause purpura but is rare in children and often includes renal involvement and peripheral neuropathy Key Takeaway:-HSP Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 24323 | Answer: [C] Systemic JIA
+QUESTION: A 2-year-old boy presents with a fever since 2 weeks and loss of appetite. He is miserable, complaining of pain in his neck, and has not been able to walk over the last 3 days. The joints in his legs are all swollen and hot, and he has neck stiffness. The spleen is 3 cm. He had a pink, slightly itchy rash on the trunk which faded in 1 week. Likely diagnosis?
+OPTIONS: A) Oligoarticular JIA | B) Sjogren's Syndrome | C) Systemic JIA | D) Ankylosing Spondylitis
+EXPLANATION: Systemic-onset JIA is one of the more serious type of JIA with significant morbidity and mortality. It is associated with fever that rises to 39.5&deg;C for the first 2 days before the diagnosis is made. Fever occurs late in the afternoon or evening and returns to normal, or below normal, in the morning. The child looks ill and miserable, with a salmon-coloured, evanesvent skin rash on the trunk and thighs. The rash may sometimes be itchy. Up to three quarters of patients will have enlarged lymph nodes, spleen and liver. Pericardial and myocardial involvement may also occur in the form of serositis. Pulmonary disease can occur, with infiltrates, pleurisy and pulmonary fibrosis. Arthritis occurs in approximately three-quarters of cases and usually involves the wrists, knees and ankles, but the temporomandibular joints and hands can also be affected. The condition usually lasts between 2 and 5 years before remitting. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1163
+----------------------------------------------------------------
+
+ID: 24324 | Answer: [D] Cardiac Tamponade
+QUESTION: All of the following are consistent with the cardiac complications described in Kawasaki Disease, except?
+OPTIONS: A) Myocarditis | B) KD Shock Syndrome | C) Mitral Regurgitation | D) Cardiac Tamponade
+EXPLANATION: Small pericardial effusions can occur in KD, but they are never big enough to produce cardiac tamponade. Let us review what Nelson 21 st Edition Says Cardiac involvement is the most important manifestation of KD. Myocarditis occurs in most patients with acute KD and manifests as tachycardia disproportionate to fever, along with diminished left ventricular systolic function. Occasionally, patients with KD present in cardiogenic shock (KD shock syndrome ), with greatly diminished left ventricular function. Case series of KD shock syndrome indicate that these patients may be at higher risk for coronary artery dilation. Pericarditis with a small pericardial effusion can also occur during the acute illness. Mitral regurgitation of at least mild severity is evident on echocardiography in 10 - 25% of patients at presentation but diminishes over time, except among rare patients with coronary aneurysms and ischemic heart disease. Up to 25% of untreated patients develop CAA in the 2nd to 3rd week of illness; initially these are usually asymptomatic and detected by echocardiography Reference: OP Ghai 10 th Edition, Page 659, Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24325 | Answer: [A] Bilateral purulent conjunctivitis
+QUESTION: Which of the following is not a feature of Kawasaki disease?
+OPTIONS: A) Bilateral purulent conjunctivitis | B) Desquamating palmoplantar rash | C) Bilateral cervical lymphadenopathy | D) Glossitis
+TAG TOPIC: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1510
+EXPLANATION: KEY TAKEAWAYS: Kawasaki disease is a rare, inflammatory condition that primarily affects children under 5 years old. It causes inflammation in the blood vessels, particularly the coronary arteries, which supply blood to the heart. Symptoms include high fever lasting more than five days, rash, swollen lymph nodes, red eyes, red, cracked lips, and a "strawberry" tongue. Tags: Topic: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1510
+----------------------------------------------------------------
+
+ID: 24326 | Answer: [B] Kawasaki disease
+QUESTION: A 1-year-old boy, is brought to OPD. He has had a high temperature for the last week. His mother has taken him to the general practitioner on two occasions and he has completed a course of amoxicillin. His eyes are injected and his throat is red. He has marked cervical lymphadenopathy. The skin on his fingers has started to peel. Everyone else in the family is well. What is the most likely diagnosis?
+OPTIONS: A) Tuberculosis | B) Kawasaki disease | C) Staphylococcal scalded skin syndrome | D) Scarlet fever
+TAG TOPIC: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1510
+EXPLANATION: The child fulfils the major diagnostic criteria for KD Option C: Staphylococcal scalded skin syndrome has areas of denuded skin as well as fever and malaise. Option D: Scarlet fever has inflammation of the throat but usually a generalized maculopapular rash . This may be followed by peeling of the skin of fingers and toes. Option A: Failure to respond to antibiotics might make you consider tuberculosis but his clinical features, especially peeling of the skin, do not fit this diagnosis. KEY TAKEAWAYS: Kawasaki disease is a rare, inflammatory condition that primarily affects children under 5 years old. It causes inflammation in the blood vessels, particularly the coronary arteries, which supply blood to the heart. Symptoms include high fever lasting more than five days, rash, swollen lymph nodes, red eyes, red, cracked lips, and a "strawberry" tongue. Tags: Topic: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1510
+----------------------------------------------------------------
+
+ID: 24327 | Answer: [A] Myocarditis
+QUESTION: Which of the following is the most common complication associated with Kawasaki disease?
+OPTIONS: A) Myocarditis | B) Coronary artery aneurysm thrombosis | C) Congestive cardiac failure due to mitral regurgitation | D) Secondary sepsis
+TAG TOPIC: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1510
+EXPLANATION: Most common complication associated with KD is Myocarditis . It might be asymptomatic or present with congestive cardiac failure. Most common cause of death is Thrombosis of Coronary artery aneurysm (CAA). Other complications include: Kawasaki disease shock syndrome Mitral regurgitation Asymptomatic pericardial effusion KEY TAKEAWAYS: Myocarditis, or inflammation of the heart muscle, is a recognized complication of Kawasaki disease. It occurs due to the widespread inflammation in blood vessels and heart tissue that characterizes the disease. Myocarditis in Kawasaki disease can lead to symptoms such as rapid or irregular heartbeat, chest pain, fatigue, and in severe cases, heart failure. Tags: Topic: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1510
+----------------------------------------------------------------
+
+ID: 24328 | Answer: [A] Rituximab
+QUESTION: A child is diagnosed with Kawasaki disease and is given a dose of IVIG and aspirin. After 48 hours of dose, the high-grade fever continues. Which of the following is not a treatment option?
+OPTIONS: A) Rituximab | B) Infliximab | C) Prednisolone | D) Cyclophosphamide
+TAG TOPIC: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1514
+EXPLANATION: IVIG-resistant Kawasaki disease occurs when a patient with Kawasaki disease does not respond to initial treatment with intravenous immunoglobulin (IVIG). Typically, children with Kawasaki disease are treated with a single dose of IVIG and aspirin , which reduces inflammation and lowers the risk of complications . However, about 10-20% of children do not respond to IVIG treatment, continuing to have fever and signs of inflammation after treatment. IVIG-resistant Kawasaki disease increases the risk of coronary artery complications, as persistent inflammation can damage the heart's blood vessels. In these cases, alternative treatments may be used, including: Corticosteroids (such as methylprednisolone) Infliximab or other tumor necrosis factor (TNF) inhibitors Other immunosuppressive agents , such as cyclosporine or methotrexate, in severe cases KEY TAKEAWAYS: The child is suffering from IVIG resistant KD which is defined as non-resolution of fever 36 hours after infusion of complete dose of IVIG. Tags: Topic: KAWASAKI DISEASE Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1514
+----------------------------------------------------------------
+
+ID: 24330 | Answer: [C] Axillary lymphadenopathy
+QUESTION: All of the following features can present in Kawasaki's disease except?
+OPTIONS: A) Bilateral bulbar conjunctivitis without exudates | B) Desquamation of fingers | C) Axillary lymphadenopathy | D) Polymorphic skin rash primarily truncal
+EXPLANATION: Kawasaki Disease (KD) is an acute febrile mucocutaneous lymph node syndrome mainly affecting infants and young children. Cervical Lymph Nodes, NOT axillary LN are involved in Kawasaki Disease Cervical LNs are most commonly unilateral, with at least one node >1.5 cm. Other options are correct. Reference : OP Ghai 10 th Ed, Page 658
+----------------------------------------------------------------
+
+ID: 24331 | Answer: [C] Weakness: juvenile idiopathic arthritis
+QUESTION: The following symptoms may be suggestive of rheumatic disease except?
+OPTIONS: A) Fever: systemic juvenile rheumatoid arthritis | B) Arthralgia: dermatomyositis | C) Weakness: juvenile idiopathic arthritis | D) Malar rash with chest pain: systemic lupus erythematosus
+EXPLANATION: Arthralgia is pain in the joints when trying to use them in active or passive movement. This occurs in SLE, JRA and JD, as well as in other, non-rheumatic, conditions. Weakness is mainly associated with dermatomyositis, but not a feature of JIA Malar rashes are seen with SLE and photosensitive dermatitis. Chest pain from pericarditis is seen with SLE and JRA. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1204
+----------------------------------------------------------------
+
+ID: 24332 | Answer: [C] Kawasaki disease- vesicular rash
+QUESTION: Which disease is incorrectly matched with the characteristic rash?
+OPTIONS: A) Systemic lupus erythematosus- Malar rash sparing nasolabial folds | B) Discoid lupus- Hyperkeratotic rash | C) Kawasaki disease- vesicular rash | D) Juvenile dermatomyositis (JDM)-Gottron papules and heliotrope rash
+EXPLANATION: There is polymorphous, non-vesicular rash in KD. As per Nelson 21 st Edition- "Clinical features that are not consistent with KD include exudative conjunctivitis, exudative pharyngitis, generalized lymphadenopathy, discrete oral lesions (ulceration or exudative pharyngitis), splenomegaly, and bullous, petechial, or vesicular rashes." Other options are correctly matched Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 1210, Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24333 | Answer: [B] IVIG
+QUESTION: A 4-year-old boy presents with persistent fever, conjunctival redness, and peeling erythematous skin. A 2D echocardiogram reveals coronary aneurysms. What is the first-line treatment for this condition?
+OPTIONS: A) Aspirin | B) IVIG | C) Clopidogrel | D) LMWH
+EXPLANATION: Explanation: The given presentation-fever, conjunctivitis, strawberry tongue, and erythematous desquamation-together with coronary aneurysms, is characteristic of Kawasaki disease (mucocutaneous lymph node syndrome). The mainstay of treatment is intravenous immunoglobulin (IVIG) along with aspirin , which reduces vascular inflammation and lowers the risk of coronary complications. Etiology and Pathophysiology More common in children of Asian descent. Vasculitis involving medium-sized vessels, particularly coronary arteries. Pathology Acute Phase (Days 1-10): Neutrophilic vascular inflammation, cellular infiltration, vessel edema. Subacute Phase (Weeks 2-4): Risk of fusiform coronary aneurysm formation. Convalescent Phase (>4 weeks): Healing with risk of arterial wall scarring and stenosis. Clinical Features Fever lasting &ge;5 days. Extremities: Redness, swelling, peeling skin of fingers, toes, and nails. Mucocutaneous Signs: Bilateral conjunctivitis, cracked red lips, strawberry tongue, pharyngeal erythema. Rash: Polymorphous (macular, papular, or target-like). Cervical Lymphadenopathy: Usually unilateral and tender. Diagnosis Requires fever &ge;5 days plus at least 4 of the 5 "CREAM" features : C : Conjunctivitis (bilateral, non-purulent) R : Rash (predominantly truncal) E : Erythema/Edema of palms and soles &plusmn; desquamation A : Adenopathy (cervical, usually unilateral) M : Mucosal changes (strawberry tongue, red lips) Supportive labs: Elevated CRP, ESR, WBC. Echocardiography: Coronary aneurysms. Complications Myocardial infarction. Coronary artery aneurysms. Coronary stenosis. Differential Diagnosis Scarlet fever. Staphylococcal scalded skin syndrome. Treatment IVIG: Reduces inflammation and lowers coronary aneurysm risk. Aspirin: High-dose for fever/inflammation, then low-dose for antiplatelet effect. IVIG-Resistant KD: Consider repeat IVIG, corticosteroids, or other immunosuppressants (e.g., infliximab, cyclosporine). Explanation of other options: Aspirin (Option A): Important adjunct but not effective as monotherapy; always combined with IVIG. Clopidogrel (Option C): Used in selected coronary complications, not standard first-line therapy. LMWH (Option D): Reserved for significant thrombotic complications, not part of initial management. Key Takeaways: IVIG + aspirin is the first-line treatment for Kawasaki disease. Diagnosis requires fever &ge;5 days + &ge;4 of the 5-"CREAM" criteria. Coronary aneurysm is the most feared complication.
+----------------------------------------------------------------
+
+ID: 24334 | Answer: [C] Purulent conjunctivitis
+QUESTION: Not a feature of Kawasaki disease?
+OPTIONS: A) Fever lasting 5 days longer | B) Rash on trunk | C) Purulent conjunctivitis | D) Peeling of skin of finger tips
+EXPLANATION: Kawasaki disease (KD) Formerly known as mucocutaneous lymph node syndrome and infantile polyarteritis nodosa 2nd Most common vasculitis in children after HSP & MC in India, Asia A type of medium vessel vasculitis Diagnosis: KD is essentially a clinical diagnosis and there are no laboratory tests that are pathognomonic of KD. Features include: Fever persisting at least 5 days Presence of at least 4 principal features: Changes in extremities: Acute: Erythema of palms, soles; edema of hands, feet Subacute: Periungual peeling of fingers, toes in weeks 2 and 3 Polymorphous exanthem Bilateral bulbar conjunctival injection without exudate Changes in lips and oral cavity: erythema, lip cracking, strawberry tongue, diffuse injection of oral and pharyngeal mucosa Cervical lymphadenopathy (>1.5 cm diameter), usually unilateral Exclusion of other diseases with similar findings should be made. KD is diagnosed if fever along with 4 criteria is present. KD is called "Incomplete KD" if fever with only 2 or 3 criteria are present KD is called "Atypical KD" if additional CNS or hepatobiliary involvement is prominently seen. Reference : OP Ghai 10 th Edition, Page 658, Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24335 | Answer: [A] Myocarditis
+QUESTION: All of the following are features to diagnose Kawasaki disease, except?
+OPTIONS: A) Myocarditis | B) High fever lasting at least 5 days | C) Desquamation and rash | D) Erythematous changes in the oral mucosa
+EXPLANATION: Myocarditis is a complication; not the diagnostic criteria in KD. Kawasaki disease (KD) Formerly known as mucocutaneous lymph node syndrome and infantile polyarteritis nodosa 2nd Most common vasculitis in children after HSP & MC in India, Asia A type of medium vessel vasculitis Diagnosis: KD is essentially a clinical diagnosis and there are no laboratory tests that are pathognomonic of KD. Features include: 1. Fever persisting at least 5 days Presence of at least 4 principal features: 2. Changes in extremities: Acute: Erythema of palms, soles; edema of hands, feet Subacute: Periungual peeling of fingers, toes in weeks 2 and 3 3. Polymorphous exanthem 4. Bilateral bulbar conjunctival injection without exudate 5. Changes in lips and oral cavity: erythema, lip cracking, strawberry tongue, diffuse injection of oral and pharyngeal mucosa 6. Cervical lymphadenopathy (>1.5 cm diameter), usually unilateral Exclusion of other diseases with similar findings should be made. KD is diagnosed if fever along with 4 criteria is present. KD is called "Incomplete KD" if fever with only 2 or 3 criteria are present KD is called "Atypical KD" if additional CNS or hepatobiliary involvement is prominently seen. Reference: OP Ghai 10 th Edition, Page 658, Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24337 | Answer: [D] Juvenile Dermatomyositis
+QUESTION: A 4-year-old girl presents with difficulty in going upstairs and leg pains. She is always tired, feels hot and has had some weight loss. The family doctor has seen her on several occasions for erythematous papules on the dorsum of hands. The muscle enzyme is 1500 mmol/l, and ESR is 90, with thrombocytosis. Lactate dehydrogenase is high, as is ANA. Likely diagnosis?
+OPTIONS: A) Juvenile Idiopathic Arthritis | B) Bechet's disease | C) SLE | D) Juvenile Dermatomyositis
+EXPLANATION: Juvenile dermatomyositis is the most common inflammatory myopathy in children. The gene related to HLA-DQA1*0501 is found in 80% of patients with JDM. It can progress slowly with fatiguability, a low-grade fever and loss of weight, all of which are common. The rash usually appears first over exposed areas, followed by proximal weakness. Periorbital violaceous (heliotropic) erythema occurs across the nasal bridge and around the eyelids. It may involve the upper torso, hands and especially the knuckles. Facial oedema is common. Creatinine kinase will be very high, and aldolase, serum aspartate aminotransferase (AST) and lactate dehydrogenase (LDH) will be high, but not specific. An MRI scan is also helpful in diagnosis by using T2-weighted images and fat suppression. This will show the active site of the disease, helping muscle biopsy and EMG testing. Corticosteroids, methotrexate and cyclosporine can be used in management. Long-term complications are calcification and calcified nodules with cardiomyopathies. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1182
+----------------------------------------------------------------
+
+ID: 24338 | Answer: [D] Systemic-onset juvenile idiopathic arthritis
+QUESTION: A 5 year old child, presents to you as she has been unwell for 2 weeks with lethargy, fever and painful wrists and knees. On examination she has a temperature of 38.5&deg; C and a subtle erythematous rash on her trunk. You identify that several joints are swollen, warm, and painful to move, including the wrists, her right elbow, the knees, her left ankle and left hip. She has some cervical lymphadenopathy and her spleen is palpable. You perform some blood tests and get the following results: What is the most likely diagnosis?
+OPTIONS: A) Acute lymphoblastic leukemia | B) Post-streptococcal arthritis | C) Systemic lupus erythematosus (SLE) | D) Systemic-onset juvenile idiopathic arthritis
+TAG TOPIC: JUVENILE IDIOPATHIC ARTHRITIS Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1263
+EXPLANATION: Systemic-onset juvenile idiopathic arthritis is the most likely diagnosis, as she has a systemic illness, polyarthritis (more than four joints) and a salmon-pink rash. The raised neutrophil count and markedly raised ESR are consistent with the diagnosis. Criteria for the Classification of Juvenile Rheumatoid Arthritis Age at onset: Arthritis (swelling or effusion, or the presence of &ge;2 of the following signs: limitation of range of motion, tenderness or pain on motion, increased heat) in &ge;1 joint Duration of disease: &ge;6 weeks Onset type defined by type of articular involvement in the 1st 6 months after onset: Polyarthritis: &ge;5 inflamed joints Oligoarthritis: &le;4 inflamed joints Systemic-onset disease: arthritis with rash and a characteristic quotidian fever Exclusion of other forms of juvenile arthritis Option A: Acute lymphoblastic leukemia needs to be considered, but is less likely as the child has numerous joints affected and the blood film is normal. Option B: Post-streptococcal arthritis is unlikely as the antistreptolysin O titre is normal, although a repeat blood test is required to confirm that the titre remains low. Option C: SLE may have similar clinical features but is unlikely as the ANA (antinuclear antibody) and double-stranded DNA are negative. SLE is also very uncommon at this age. KEY TAKEAWAYS: Juvenile Idiopathic Arthritis (JIA) is the most common type of arthritis in children, characterized by persistent joint inflammation lasting more than six weeks in children under 16 , with no identifiable cause ("idiopathic"). JIA can cause joint pain, swelling, warmth, and stiffness, particularly in the morning or after inactivity. Tags: Topic: JUVENILE IDIOPATHIC ARTHRITIS Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1263
+----------------------------------------------------------------
+
+ID: 24339 | Answer: [D] Oral steroids
+QUESTION: Which among the following is effective in systemic onset JIA (SoJIA)?
+OPTIONS: A) NSAIDs | B) Infliximab | C) Rituximab | D) Oral steroids
+EXPLANATION: Systemic onset JIE, also called SoJIA requires is an autoinflammatory disorder. Severe JIA patients may be responsive to Methotrexate. Short course of Oral Corticosteroids, followed by Anakinra/Tocilizumab/Cankinumab is needed in SoJIA. SoJIA shows poor response to NSAIDs and Anti-TNF Alpha Drugs. Rituximab has no role in its management. Reference : Nelson 21 st Edition, Chapter 180, OP Ghai 10 th Edition, Pages 653-654.
+----------------------------------------------------------------
+
+ID: 24340 | Answer: [C] Thrombosis of CAA
+QUESTION: Most common cause of death in a child of Kawasaki Disease between 3rd to 6th week of illness?
+OPTIONS: A) Myocarditis | B) KD Shock Syndrome | C) Thrombosis of CAA | D) CCF due to MR
+EXPLANATION: Coronary Artery Aneurysms (CAAs) tend to develop between 2 nd to 3 rd week of illness and thrombosis of these is considered to be the most common cause of death in KD patients. CAAs tend to form in 20-25% of untreated cases, 15% of IVIG-resistant cases and Myocarditis is the most common complication of KD but is usually manageable and causes mortality due to CCF only in the early parts of illness if its severe or in the presence of co-existing complications. Reference : Nelson 21 st Edition, Chapter 191, OP Ghai 10 th Edition, Page 659
+----------------------------------------------------------------
+
+ID: 24341 | Answer: [B] Myocarditis
+QUESTION: A 3 1/2-year-old child presented with high fever for one-week, cervical lymphadenopathy, red eyes, few erythematous papules on trunk and tongue as shown in the picture. What is the most likely complication you will anticipate in the first 7-10 days of illness?
+OPTIONS: A) Coronary artery aneurysm | B) Myocarditis | C) Toxic shock syndrome | D) Pericardial effusion
+EXPLANATION: The clinical description along with the image showing Strawberry Tongue is suggestive of Kawasaki Disease. Myocarditis is the most common clinical complication, frequently encountered in the first 1-2 weeks of illness. Usually subclinical, can sometimes produce CCF and very rarely, mortality. The more dreaded complication is Coronary Artery Aneurysm, occurring between 2 nd to 3 rd weeks of illness. Can cause mortality and is the overall most common cause of death in KD. As per OP Ghai 10 th Ed, CAAs can occur in 15-25% of untreated KD and even in 3-5% of treated KD patients. Reference: OP Ghai Essential Pediatrics, 10th Edition, Page Number-659; Nelson Textbook of Pediatrics, 21st Edition, Chapter 191.
+----------------------------------------------------------------
+
+ID: 24342 | Answer: [B] 18-24 months
+QUESTION: Peak age for Kawasaki disease?
+OPTIONS: A) Less than 1 month | B) 18-24 months | C) 2-5 years | D) 5-15 years
+EXPLANATION: More than 80% cases of KD patients are children below 5 years of age, with peak cases between 18-24 months of age. Also note that KD is the only vasculitis which is never seen in adults. (Old AIIMS MCQ) Reference: Nelson 21 st Ed, Chapter 191, OP Ghai 10 th Edition, Page 658
+----------------------------------------------------------------
+
+ID: 24343 | Answer: [C] Can be seen in both
+QUESTION: "White strawberry tongue" is seen in a febrile child, as shown in the picture. What can be the likely diagnosis?
+OPTIONS: A) Scarlet fever | B) Early Kawasaki disease | C) Can be seen in both | D) Is a normal variant
+EXPLANATION: In both Scarlet fever as well as early Kawasaki disease, tongue initially shows a coated appearance or whitish lingual plaques with underlying hypertrophied papillae, producing the so-called "White Strawberry tongue". These whitish lesions are shed over 2 to 3 days to produce denuded, erythematous patches with prominent papilla, producing the so-called "Red Strawberry Tongue". Reference: Nelson 21 st Edition, Chapter 664.1
+----------------------------------------------------------------
+
+ID: 24344 | Answer: [A] Associated with coronary artery aneurysm in up to 25% of untreated cases
+QUESTION: Which of the following statement regarding Kawasaki disease is true?
+OPTIONS: A) Associated with coronary artery aneurysm in up to 25% of untreated cases | B) It is the most common cause of vasculitis in children | C) IV immunoglobulin are recommended only if coronary artery is involved | D) Lymph node biopsy is used for diagnosis
+EXPLANATION: Approximately 20-25% of untreated children develop coronary artery abnormalities (CAA) including aneurysms in KD. Also, it is the 2 nd MC cause of vasculitis in children after HSP. IVIG is indicated in all cases and the diagnosis is made clinically. Reference: OP Ghai 10 th Edition, Page 659, Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24345 | Answer: [A] Repeat dose of IVIG followed by steroids will be needed
+QUESTION: A 2 year old child was clinically diagnosed as Kawasaki disease and started on IVIG infusion, which was given in a dose of 2 g/kg and completed over 10 hours. He was also give aspirin in a dose of 80 mg/kg/day in 4 divided doses. More than 48 hours later, the child continues to have high grade fever. Which among the following is true regarding this child?
+OPTIONS: A) Repeat dose of IVIG followed by steroids will be needed | B) Double dose of IVIG and aspirin are indicated | C) Cyclophosphamide is the next line of management | D) Risk of coronary artery aneurysm is decreased by IVIG even if fever persists
+EXPLANATION: If fever persists for > 36 hours after completion of 1 st dose of IVIG infusion, it&rsquo;s called IVIG-resistant KD. Such patients have an especially high risk of developing Coronary Artery Aneurysms Therapeutic options for the child with IVIG resistance include a 2nd dose of IVIG (2 g/kg), a tapering course of corticosteroids, and/or infliximab Reference: OP Ghai 10 th Edition, Page 659, Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24346 | Answer: [B] Oligo-articular is the commonest type
+QUESTION: True statement about Juvenile Idiopathic Arthritis is?
+OPTIONS: A) Rheumatoid factor is an important diagnostic test to perform in suspected cases | B) Oligo-articular is the commonest type | C) Cervical spine involvement is uncommon | D) Methotrexate is the first line drug in therapy
+EXPLANATION: Regarding JIA Option A is False. Less than 10% of the cases have positive RF. A more useful antibody to test for is the anti-nuclear factor (ANF), which is seen in most children with pauci-articular JIA. Option B is True. Oligoarticular JIA, where 4 or less joints are involved, is the overall most common type of JIA. Option C is False. Cervical spine involvement is as common as 50% of cases. Option D is False. The first line drugs are NSAIDs, then low-dose methotrexate is considered. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1179
+----------------------------------------------------------------
+
+ID: 24347 | Answer: [B] Fever responsiveness to antibiotics
+QUESTION: A 3 year old child presented with High grade fever, desquamating rash on the body, lymphadenopathy, conjunctivitis and Strawberry tongue in the mouth. Which among the following can be used to clinically distinguish Kawasaki Disease from Scarlet Fever?
+OPTIONS: A) Strawberry tongue | B) Fever responsiveness to antibiotics | C) Presence of desquamation | D) Age of the child
+EXPLANATION: A common clinical problem is the differentiation of scarlet fever from KD in a child who is a group A streptococcal carrier. Patients with scarlet fever typically have a rapid clinical response of fever to appropriate antibiotic therapy. Such treatment for 24-48 hr with clinical reassessment generally clarifies the diagnosis. Furthermore, ocular findings are quite rare in group A streptococcal pharyngitis and may assist in the diagnosis of KD. Please remember that fever in KD is high-grade, daily, lasting 5 days or longer and is generally unresponsive to beta-lactam antibiotics. Reference: Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24402 | Answer: [B] Gattron's papules in Juvenile Dermatomyositis
+QUESTION: A 5/10 year old male was admitted with complaints of fatigue and joint pains. On examination, a rash was found on the hands as shown in the image. What is the likely diagnosis?
+OPTIONS: A) Nodules in Juvenile RA | B) Gattron's papules in Juvenile Dermatomyositis | C) Osteoarthritis | D) Sclerodactyly
+EXPLANATION: The image shows a rash over the knuckles and extensor surfaces of the fingers, which is characteristic of Gottron's papules, a hallmark of Juvenile Dermatomyositis (JDM). Other options: (A): Nodules in Juvenile RA: Juvenile Rheumatoid Arthritis can present with joint pain and systemic symptoms (C): Osteoarthritis: Joint degeneration, stiffness; rare in children, no rash. (D): Sclerodactyly: Tight, thickened skin on fingers; seen in systemic sclerosis, no Gottron's papules. Key takeaways: Juvenile dermatomyositis (JDM) is the most common inflammatory myositis in children, distinguished by proximal muscle weakness and a characteristic rash. Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24403 | Answer: [C] West Syndrome
+QUESTION: ACTH is used in the treatment of which of the following?
+OPTIONS: A) JME | B) Rolandic Epilepsy | C) West Syndrome | D) LGS
+EXPLANATION: Management guidelines of West syndrome - AOCN 2021 Guidelines Therapy Of Choice: Hormonal Therapy ACTH is the preferred agent High-Dose Regimen) is used: ACTH 150 U/m 2 or 6 U/Kg IM OD x 2 weeks If unavailable, high-dose Prednisolone (4 mg/kg/day) for 2 weeks Vigabatrin= VGB: Given if ACTH/Steroids fail or are Contraindicated Incorrect Options: JME (Juvenile Myoclonic Epilepsy): JME is typically managed with valproate , levetiracetam , or lamotrigine , not with ACTH. ACTH is not a treatment for juvenile myoclonic epilepsy. Rolandic Epilepsy: Rolandic epilepsy, also known as benign epilepsy with centrotemporal spikes , is a self-limiting condition that usually resolves by adolescence. Treatment is typically not required for most cases, though carbamazepine or oxcarbazepine may be prescribed for intractable cases. ACTH is not used. LGS (Lennox-Gastaut Syndrome): Lennox-Gastaut syndrome is a severe epileptic encephalopathy often managed with multiple medications, including valproate , lamotrigine , and topiramate . While ACTH may sometimes be used, it is not considered the first-line treatment. The mainstay treatment for LGS involves polytherapy with antiepileptic drugs (AEDs) rather than ACTH. Key Takeaway: West Syndrome (infantile spasms) is primarily treated with ACTH or high-dose steroids like prednisolone , with vigabatrin as an alternative when first-line treatments fail or are contraindicated. ACTH is not used for other forms of epilepsy like JME , Rolandic Epilepsy , or LGS . Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24419 | Answer: [B] 2 doses
+QUESTION: Which of the following is the recommended dose for HPV vaccination in girls aged 9-14 years according to WHO-SAGE Protocols?
+OPTIONS: A) 1 dose | B) 2 doses | C) 3 doses | D) 4 doses
+EXPLANATION: WHO-SAGE protocols for HPV vaccination Girls aged 9-14 years: 2 doses of HPV vaccine Second dose administered 6-12 months after the first dose. Girls aged 15 years and older or immunocompromised individuals: 3 doses recommended Objective :Prevent HPV-related cancers, particularly cervical cancer. Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24557 | Answer: [C] Bone marrow aspirate
+QUESTION: Which of the following is not a first line of investigation in a child suspected to be having Acute Myeloid Leukemia?
+OPTIONS: A) Peripheral blood smear | B) White cell differential | C) Bone marrow aspirate | D) Full blood count
+TAG TOPIC: LEUKEMIA & LYMPHOMA Difficulty level: MUST KNOW PYQ: FMGE DEC 2020 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2654
+EXPLANATION: Bone marrow examination (including aspirate and trephine biopsy) is a definitive investigation to diagnose AML but would not be safe, tolerated or efficient as a first line investigation. The most important initial investigations are a full blood count and blood film . If both are within normal range, acute leukaemia can be ruled out with a relative degree of certainty. Typically, the full blood count will demonstrate pancytopenia (due to bone marrow infiltration by blasts). Although the patient is likely to be neutropenic, many circulating blasts tend to dramatically elevate the overall white cell count, with blasts clearly visible on blood film. In some cases, the white cell count may be only slightly raised and, if blasts remain sequestered within the bone marrow, it may even be lower than normal. Clearly identifiable blasts are not always present on a film. In these cases, the only clue that there is a serious underlying problem may be a few atypical cells in the blood film or the presence of leukoerythroblastic features. KEY TAKEAWAYS: Bone marrow examination (including aspirate and trephine biopsy) is a definitive investigation to diagnose AML. Tags: Topic: LEUKEMIA & LYMPHOMA Difficulty level: MUST KNOW PYQ: FMGE DEC 2020 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2654
+----------------------------------------------------------------
+
+ID: 24574 | Answer: [A] A-3, B-1, C-4, D-2
+QUESTION: Match the column kind of question- Modes of Inheritance?
+OPTIONS: A) A-3, B-1, C-4, D-2 | B) A-1, B-3, C,2, D-4 | C) A-4, B-2, C,1, D-2 | D) A-2, B-1, C,4, D-3
+EXPLANATION: Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24575 | Answer: [A] 30%
+QUESTION: A 3-year-old child is on ventilation with nasal cannula delivering oxygen at 3 L/min. What shall be the Fi02?
+OPTIONS: A) 30% | B) 35% | C) 40% | D) 50%
+EXPLANATION: Oxygen is humidified in a bubble humidifier and delivered via nasal prongs inserted in to the nares. In children, a flow rate FiO2(as percentage) = 21% + (Nasal cannula flow (L/min)x3)] Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24576 | Answer: [C] Donor breast milk
+QUESTION: For a preterm child, what is best suited in the absence of breast milk?
+OPTIONS: A) Term formula milk | B) Preterm formula milk | C) Donor breast milk | D) Cow's milk
+EXPLANATION: Donor breast milk is the best option because it is human milk, which is better than any artificial or animal milk. Key Takeaway: In the absence of breast milk for a preterm infant, the order of suitability is: Donor milk > Preterm formula feed > Undiluted cow's milk. Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24577 | Answer: [B] Give 2nd dose of DPT shot
+QUESTION: A 1-year-old boy is brought to you for vaccination. He has only received 1 shot of DPT at 6 weeks. What should you do now?
+OPTIONS: A) No need for giving DPT now | B) Give 2nd dose of DPT shot | C) Restart DPT regimen/schedule | D) Start dT regimen
+EXPLANATION: Immune memory is a phenomenon that ensures that if a single dose of the DPT vaccine is given and the next dose is delayed by a few months to a year, the immune response is not completely lost. If a catch-up dose or booster dose is administered after 1 year, an almost equivalent immune response is observed. Key takeaways: Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 24578 | Answer: [B] Spinal Muscular Atrophy
+QUESTION: Tongue fasciculations are a feature of which among the following?
+OPTIONS: A) Myasthenia Gravis | B) Spinal Muscular Atrophy | C) Guillain-Barre Syndrome | D) Duchenne's Muscular Dystrophy
+EXPLANATION: Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+

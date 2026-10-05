@@ -1,0 +1,239 @@
+================================================================
+MODULE 582: Deficiency of Fat Soluble Vitamins (39 questions)
+================================================================
+
+ID: 23410 | Answer: [D] Sweat Test
+QUESTION: A 2-year-old child born abroad presents to the GP with another chest infection: this has been his 3rd infection this winter requiring admission for IV antibiotics. He also has a history of severe constipation. Which diagnostic test would be most appropriate to consider next?
+OPTIONS: A) Complete hematology workup | B) Colon biopsy | C) Chest Xray | D) Sweat Test
+EXPLANATION: Given the history of constipation and chest infection, this child may have cystic fibrosis. Common presenting features of Cystic Fibrosis Respiratory Recurrent sinusitis Recurrent pneumonia Nasal polyp Bronchiectasis Gastro Constipation, Delayed passage of meconium, Subacute obstruction Fat soluble vitamin deficiency Liver Biliary cirrhosis Gallstones Pancreas Malabsorption Diabetes mellitus Genital Sterility in males Low fertility in females Tags : Topic : CYSTIC FIBROSIS Difficulty level : MUST KNOW PYQ : INICET NOV 2022; MAY 2022 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 2286
+----------------------------------------------------------------
+
+ID: 23432 | Answer: [D] Vitamin E
+QUESTION: Deficiency of which of the following vitamins is associated with increased risk of thrombosis?
+OPTIONS: A) Vitamin A | B) Vitamin C | C) Vitamin K | D) Vitamin E
+EXPLANATION: Deficiency in vitamin E is associated with an increased risk of thrombosis, particularly in neonates, due to its role in platelet aggregation. Vitamin K deficiency leads to hemorrhagic disorders , since vitamin K is essential in the production of coagulation factors II, VII, IX, X, and proteins C and S. Increased bruising can be seen in vitamin C deficiency due to an inability to synthesize collagen. Vitamins A is not associated with either an increased bleeding or thrombosis risk. Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : GOOD TO KNOW PYQ : FMGE JUNE 2022; DEC 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 1846
+----------------------------------------------------------------
+
+ID: 23433 | Answer: [D] Galactose-1-Phosphate Uridyl Transferase
+QUESTION: A neonate delivered via normal vaginal delivery is started on mother's feed. He developed vomiting, hypoglycemia, oil drop cataract, hepatomegaly and mild icterus. Urine was positive for reducing substance, but not glucose. The likely enzyme deficiency is?
+OPTIONS: A) Lactase | B) Fructokinase | C) Galactokinase | D) Galactose-1-Phosphate Uridyl Transferase
+EXPLANATION: The child is presenting with a crisis, oil drop cataract and non-glucose reducing substances in urine, all after feeding. This suggests a likely diagnosis of Galactosemia. Galactosemia denotes the elevated level of galactose in the blood and is found in 3 distinct inborn errors of galactose metabolism in 1 of the following enzymes: galactose-1-phosphate uridyl transferase, galactokinase, and uridine diphosphate galactose-4-epimerase. The term galactosemia, generally designates the galactose-1-phosphate uridyl transferase deficiency, which produces Classic Galactosemia Classic galactosemia is a serious disease with onset of symptoms typically by the 2nd half of the 1st wk of life. The diagnosis should be considered in newborn or young infants with any of the following features within a few days or weeks after birth: jaundice, hepatomegaly, vomiting, hypoglycemia, seizures, lethargy, irritability, feeding difficulties, poor weight gain or failure to regain birthweight, and aminoaciduria. Untreated children may show nuclear oil-drop cataracts, vitreous hemorrhage, hepatic failure, cirrhosis, ascites, splenomegaly, or intellectual disability. Patients with galactosemia are at increased risk for Escherichia coli neonatal sepsis; the onset of sepsis often precedes the diagnosis of galactosemia. Pseudotumor cerebri can occur and cause a bulging fontanel. If untreated, death from liver and kidney failure and sepsis may follow within days. When the diagnosis is not made at birth, damage to the liver (cirrhosis) and brain (intellectual disability) becomes increasingly severe and irreversible. The initial diagnosis of galactosemia is done by demonstration of a reducing substance in several urine specimens collected while the patient is on a diet containing human milk, cow's milk, or any other formula containing lactose. Direct enzyme assay using erythrocytes establishes the diagnosis. Complete withdrawal of lactose from the diet results in improvement of the acute symptoms. Reference: Nelson 21 st Edition, Chapter 105.2; OP Ghai 10 th Edition, Page 687
+----------------------------------------------------------------
+
+ID: 23544 | Answer: [C] Obtain IGF-1 level.
+QUESTION: A 10-year-old girl is 4 ft 10 in (147 cm) tall. Her father is 5 ft 10 in (178 cm) tall, and her mother is 5 ft 5 in (165 cm) tall. Over the past 3 years she has dropped from the 25th percentile for height to the 5th percentile. Her weight has remained stable. Radiographs show bone age is delayed. Which of the following is the most appropriate next step in her management?
+OPTIONS: A) Send patient to the emergency department for CT evaluation of the brain | B) Obtain growth hormone level | C) Obtain IGF-1 level. | D) Start growth hormone injections.
+EXPLANATION: This child has evidence of possible growth hormone deficiency. Obtaining an IGF-1 level would be the most appropriate initial choice. Growth hormone deficiency is not an emergent condition but the earlier the diagnosis is made the sooner appropriate treatment can be initiated. Obtaining a growth hormone level would not be diagnostically helpful because its secretion is pulsatile. Referral to a pediatric endocrinologist would be warranted if initial screening tests confirm the suspected growth hormone deficiency. Reference: Nelson-Pediatric Symptom based diagnosis, pg. 791
+----------------------------------------------------------------
+
+ID: 23582 | Answer: [C] Increased skin infections
+QUESTION: Which of the following is not associated feature with zinc deficiency?
+OPTIONS: A) Stunting | B) Impaired immunity | C) Increased skin infections | D) Increased diarrheal illness
+EXPLANATION: Symptoms associated with zinc deficiency are: Decreased growth Dermatitis of extremities and around orifices Impaired immunity Poor wound healing Hypogonadism Diarrhea Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : MAY KNOW PYQ : FMGE AUG 2020; NEET PG 2023 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 334
+----------------------------------------------------------------
+
+ID: 23616 | Answer: [D] Vitamin D
+QUESTION: During the 1-week health supervision visit, a mother who is exclusively breastfeeding asks about vitamin and iron supplementation for her healthy term infant. She explains that her previous child, who was born at 30 weeks gestation, was discharged with an oral iron supplement and vitamins. The baby has already received 1 intramuscular shot of Vitamin K at birth. Of the following, the MOST appropriate oral supplement to initiate for this infant at this visit is?
+OPTIONS: A) Calcium | B) Folic acid | C) Iron | D) Vitamin D
+EXPLANATION: The American Academy of Pediatrics as well as Indian Academy of Pediatrics 2021 Guidelines recommend that breastfed and partially breastfed infants be supplemented with 400 IU of vitamin D daily. Since babies are exclusively breastfed in the 1 st 6 months and breast milk has low amounts of Vitamin K as well as Vitamin D, public health strategies have been devised to address their deficiencies. Regarding other options Term newborns are assumed to have adequate iron stores for the first 4 to 6 months after birth and usually do not need any supplements in the 1 st few months of life. The term infant has adequate calcium stores. The term infant also has adequate folate stores. The routine use of a standard dose of intramuscular vitamin K at birth minimizes the risk of hemorrhagic disease of the newborn, which results from vitamin K deficiency. Reference: IAP Guidelines 2021; Cloherty and stark's manual of neonatal care, 8 th ed., pg. 887
+----------------------------------------------------------------
+
+ID: 23639 | Answer: [A] A 4 day old baby of a healthy mother started on immediate breast feeding
+QUESTION: In which of the following scenarios is the child least likely to suffer from vitamin K deficiency?
+OPTIONS: A) A 4 day old baby of a healthy mother started on immediate breast feeding | B) A 2 year old who spent 21 days in NICU on total parenteral nutrition | C) A 1 year old with cystic fibrosis missed during early infancy | D) A 1 year old with prolonged history of diarrhea and multiple antibiotics therapy
+EXPLANATION: Causes of Vitamin K deficiency are: Occult malabsorption of vitamin K, Undiagnosed cystic fibrosis or cholestatic liver disease (e.g., biliary atresia, &alpha;1-antitrypsin deficiency). Secondary to maternal intake of medications (warfarin, phenobarbital, phenytoin) Result of fat malabsorption Cholestatic liver disease Pancreatic disease, Intestinal disorders (celiac sprue, inflammatory bowel disease, short-bowel syndrome). Prolonged diarrhea can cause vitamin K deficiency, especially in breastfed infants. Age. Use of broad-spectrum antibiotics that eliminate the intestine's vitamin K2- producing bacteria can cause vitamin K deficiency. This scenario is especially common in the intensive care unit. Patients who receive total parenteral nutrition without vitamin K supplementation. Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : GOOD TO KNOW PYQ : FMGE JUNE 2022; DEC 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 386
+----------------------------------------------------------------
+
+ID: 23640 | Answer: [D] Vitamin K
+QUESTION: Which vitamin is deficient in breast milk?
+OPTIONS: A) Vitamin A | B) Vitamin C | C) Vitamin E | D) Vitamin K
+EXPLANATION: Explanation: Breast milk has low vitamin K content. Newborns are especially at risk for vitamin K deficiency, which can result in bleeding disorders like hemorrhagic disease of the newborn. Therefore, it is standard practice to give a vitamin K injection to infants soon after birth to prevent this deficiency. Explanation of other options: Vitamin A (Option A): Adequately present in colostrum. Vitamin C (Option B): Present in sufficient quantities. Vitamin E (Option C): Provided adequately. Key Takeaways: Breast milk supplies adequate vitamins except for Vitamin D , Vitamin K , and Vitamin B12 . Prophylactic vitamin K is essential.
+----------------------------------------------------------------
+
+ID: 23684 | Answer: [A] Phrynoderma
+QUESTION: A child presents with malnutrition and multiple follicular, dry papules on the elbows and knees. Improvement of the skin lesions is observed following vitamin supplementation. What is the most likely diagnosis?
+OPTIONS: A) Phrynoderma | B) Keratosis Pilaris | C) Darier disease | D) Lichen planus
+EXPLANATION: Explanation: Phrynoderma is a follicular hyperkeratotic disorder associated with multiple vitamin deficiencies, especially vitamin A, and improves with vitamin supplementation. Phrynoderma, also known as toad skin, is a condition characterized by dry, horny follicular papules distributed commonly on extensor surfaces like elbows, knees, buttocks, and thighs. It is seen in malnourished individuals, particularly children, and is attributed to multiple nutritional deficiencies, especially: Vitamin A Vitamin C, Vitamin E, B-complex vitamins, and Essential fatty acids The papules are due to follicular plugging and hyperkeratosis, giving the skin a rough texture. The hallmark of the diagnosis is improvement of the lesions with vitamin and nutritional supplementation. Explanation of other options: Keratosis Pilaris (Option B): Though also present with follicular papules, it is a genetic condition unrelated to malnutrition or vitamin deficiency, and typically does not improve with vitamin supplementation. Darier Disease (Option C): A genetic disorder of keratinization presenting with greasy, warty papules in seborrheic areas (chest, back, forehead); not related to malnutrition and does not improve with vitamins. Lichen Planus (Option D): An autoimmune inflammatory condition with flat-topped, violaceous, itchy papules, often involving wrists and oral mucosa-does not resemble follicular papules or respond to vitamin therapy.
+----------------------------------------------------------------
+
+ID: 23708 | Answer: [A] Vit K
+QUESTION: What is absent in breast milk ?
+OPTIONS: A) Vit K | B) Vit C | C) Lactose | D) Vit A
+EXPLANATION: Ans. is 'a' i.e., Vitamin K o Milks from the mother whose diet is sufficient and properly balanced will supply all the necessary nutrients except fluoride and Vitamin D. o The iron content of human milk is low, but most normal term infants have sufficient iron stores for the first 4-6 months. Human milk iron is well absorbed. Nonetheless, by 6 months the breast-fed infant's diet should be supplemented with iron fortified complementary foods. o The Vitamin K content of human milk is low and may cause hemorrhagic disease of newborn.
+----------------------------------------------------------------
+
+ID: 23710 | Answer: [A] Hemorrhagic disease of newborn
+QUESTION: Vitamin K is given at birth to prevent the following?
+OPTIONS: A) Hemorrhagic disease of newborn | B) Neonatal asphyxia | C) Neonatal hypoglycemia | D) Hemolytic anemia
+EXPLANATION: Neonates have low Vitamin K levels due to Poor transplacental transfer Low Vitamin K in breast milk Lack of gut colonization with Vit K producing bacteria Thus, neonates are predisposed to Vitamin K deficiency, which can cause bleeding manifestations, called as Hemorrhagic Disease of newborn, also called as Vitamin K Deficiency Bleeding (VKDB). To prevent this, Government of India recommends one intramuscular dose of Vitamin K at birth to all neonates. Reference: OP Ghai 10 th Edition, Page 183
+----------------------------------------------------------------
+
+ID: 23711 | Answer: [B] Hypophosphatemic rickets
+QUESTION: A 2-year-old boy has rickets not resolving with first complete course of vitamin D supplementation. His investigations reveal, serum calcium- 9mg/dL (normal), phosphate- 2.4mg/dL (low), alkaline phosphatase 1041 IU/L (high), normal parathormone level, bicarbonate- 22 mEq/L (normal). Which of the following is the most likely diagnosis?
+OPTIONS: A) Distal RTA | B) Hypophosphatemic rickets | C) Hypoparathyroidism | D) Vitamin D dependent rickets
+EXPLANATION: The investigations in the questions shows, normal calcium, low phosphates, high ALP and normal bicarbonate. All these findings are there in hypophosphetemic rickets. Distal RTA has hypocalcemia and hypercalciuria with low bicarbonate levels (acidosis) ( option a) Parathormone levels are normal ( option c) VDDR has hypocalcemia and high parathormone levels (option d) VDDR- Vitamin D Dependent Rickets REMEMBER- Normal PTH rules out Vitamin D deficiency rickets Tags : Topic : RICKETS Difficulty level : MUST KNOW PYQ : NEET PG 2021;2023 Reference: Nelson textbook of pediatrics, 20 th ed., table 51-5, pg. 335
+----------------------------------------------------------------
+
+ID: 23712 | Answer: [A] Vitamin D deficiency rickets
+QUESTION: In which of the following causes of rickets is the serum 25-OH D levels are decreased?
+OPTIONS: A) Vitamin D deficiency rickets | B) Autosomal recessive hypophosphatemic rickets | C) Fanconi syndrome | D) Autosomal dominant hypophosphatemic rickets
+EXPLANATION: Tags : Topic : RICKETS Difficulty level : MUST KNOW PYQ : NEET PG 2021;2023 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 3747
+----------------------------------------------------------------
+
+ID: 23713 | Answer: [B] 25 Hydroxy cholecalciferol levels
+QUESTION: When suspecting early vitamin D deficiency in the patient, which of the following test is standard for determining the patient's vitamin D status?
+OPTIONS: A) 25- Hydroxylase levels | B) 25 Hydroxy cholecalciferol levels | C) 1, 25- Dihydroxy cholecalciferol levels | D) PTH levels
+EXPLANATION: The initial laboratory tests in a child with rickets should include Serum calcium, Serum phosphorus Alkaline phosphatase Parathyroid hormone (PTH), 25-hydroxyvitamin D, 1,25-dihydroxyvitamin D (1,25- D), Creatinine Electrolytes 25-hydroxy vitamin D is reduced in initial phase, while 1,25 dihydroxy vitamin D levels are maintained. 1,25 dihydroxy vitamin D levels fall in very severe condition only. Other lab tests help in confirmation of the type of rickets. Tags : Topic : RICKETS Difficulty level : MUST KNOW PYQ : NEET PG 2021;2023 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 3746
+----------------------------------------------------------------
+
+ID: 23714 | Answer: [A] Selenium
+QUESTION: Which mineral deficiency causes Keshan's disease?
+OPTIONS: A) Selenium | B) Zinc | C) Copper | D) Manganese
+EXPLANATION: Keshan's disease is due to deficiency of selenium. It causes Cardiomyopathy Its major sources are meat, seafood, whole grains and garlic Tags : Topic : MINERAL DEFICIENCY & TOXICITY Difficulty level : MUST KNOW PYQ : NEET PG 2021;2023 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 387
+----------------------------------------------------------------
+
+ID: 23715 | Answer: [A] Altered sensorium, ocular signs, ataxia
+QUESTION: Classical triad of Wernicke encephalopathy of thiamine deficiency is characterized by?
+OPTIONS: A) Altered sensorium, ocular signs, ataxia | B) Cardiac involvement, peripheral neuritis, aphonia | C) Increased intracranial pressure, meningismus, coma | D) Deteriorating school performance, seizures, headache
+EXPLANATION: Thiamine deficiency Early symptoms of thiamine deficiency are nonspecific, such as fatigue, apathy, irritability, depression, drowsiness, poor mental concentration, anorexia, nausea, and abdominal discomfort. As the condition progresses, more-specific manifestations of beriberi: Peripheral neuritis (manifesting as tingling, burning, paresthesia of the toes and feet) Decreased deep tendon reflexes loss of vibration sense tenderness and cramping of the leg muscles, heart failure psychological disturbances ptosis of the eyelids and atrophy of the optic nerve. Hoarseness or aphonia caused by paralysis of the laryngeal nerve is a characteristic sign. Muscle atrophy and tenderness of the nerve trunks are followed by ataxia, loss of coordination, Later signs Increased intracranial pressure Meningismus, Coma. The classic clinical triad of Wernicke encephalopathy mental status changes, ocular signs, ataxia Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : MAY KNOW PYQ : NEET PG 2023 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 365
+----------------------------------------------------------------
+
+ID: 23716 | Answer: [D] Vitamin E
+QUESTION: Which of the following vitamin is the most important for free radical scavenging action?
+OPTIONS: A) Vitamin A | B) Vitamin B6 | C) Vitamin C | D) Vitamin E
+EXPLANATION: Out of all the options, Vitamin A, C and E have antioxidant property . Out of these, Vitamin E is the most important. It is mainly located within the cell membranes, preventing lipid peroxidation and formation of free radicals. Deficiency of vitamin E can cause, hemolysis and neurological symptoms especially in the posterior column. Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : GOOD TO KNOW PYQ : INICET NOV 2022 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 385
+----------------------------------------------------------------
+
+ID: 23719 | Answer: [A] 17 hydroxy progesterone
+QUESTION: A 4-week-old male child with normal genitalia presents to the emergency department with severe dehydration, hyperkalemia, and hyponatremia. The measurement blood levels of which of the following will be helpful?
+OPTIONS: A) 17 hydroxy progesterone | B) Renin | C) Cortisol | D) Aldosterone
+EXPLANATION: Let us go stepwise in this question This is a male infant who presented with a salt losing crisis. Why? Because there is severe dehydration, hyponatremia and hyperkalemia suggesting mineralocorticoid deficiency. Salt-wasting crisis means it is likely to be either 21 hydroxylase deficiency or 3 beta hydroxysteroid dehydrogenase deficiency, since both present with salt-wasting or salt-losing crisis. Now, it is a male child with normal genitalia, so it cannot be 3 beta hydroxysteroid dehydrogenase deficiency, since it always presents with ambiguous genitalia. This means that the likely diagnosis is 21 hydroxylase deficiency. Now, in 21 hydroxylase deficiency, there is an elevated level of 17-hydroxy progesterone, which is a screening test. Hence, measurement of 17-hydroxy progesterone levels will help to make the diagnosis. Note: For better and detailed conceptual understanding, kindly listen to the video discussion of CAH by Dr Sandeep Sharma on Doctutorials App & you will never go wrong in similar questions!!! Reference: Nelson 21 st Edition, Chapter 594; OP Ghai 10 th Edition, Table 18.16; Pages 547-548
+----------------------------------------------------------------
+
+ID: 23721 | Answer: [A] IgA TTG + Total Serum IgA
+QUESTION: A child suspected to have Celiac disease is to be evaluated. Which of the following will be the 1st line screening investigations you will advise in the child, based upon the latest guidelines?
+OPTIONS: A) IgA TTG + Total Serum IgA | B) IgA TTG + IgA Anti EMA | C) IgA TTG alone | D) IgG Anti EMA + Total Serum IgA
+EXPLANATION: As per the latest ESPGHAN guidelines, as well as Nelson, in any suspected Celiac disease patient, IgA Anti-TTG is the antibody screening test of choice. However, owing to the high association with Selective IgA deficiency, the current guidelines suggest doing BOTH IgA Anti-TTG as well as Total Serum IgA as the initial screening test of choice. Further decision is based upon test results and titres of antibodies. Reference: OP Ghai 10 th Edition, Page 320-322; Nelson 21 st Edition, Chapter 364
+----------------------------------------------------------------
+
+ID: 23722 | Answer: [B] Megaloblastic anemia
+QUESTION: A vegan patient with MCV of 110 fL and Hb of 10 g% is most likely to have?
+OPTIONS: A) Iron deficiency anemia | B) Megaloblastic anemia | C) Aplastic anemia | D) Thalassemia
+EXPLANATION: Clues in the question include a low Hb with a high MCV suggesting macrocytic anemia. Furthermore, vegan diet indicates Vitamin B12 deficiency to be likely and thus the likely cause is Megaloblastic Anemia. Kindly note that MCV >100-120 fl indicates Macrocytic anemia. Reference: OP Ghai 10 th Edition, Page 356
+----------------------------------------------------------------
+
+ID: 23723 | Answer: [D] Anemia of chronic disease
+QUESTION: A child is found to have low serum iron, high ferritin and normal total iron binding capacity. What is the likely diagnosis?
+OPTIONS: A) Iron deficiency anemia | B) Thalassemia | C) Sideroblastic anemia | D) Anemia of chronic disease
+EXPLANATION: D/D Reference: OP Ghai 9 th Ed/Page 331, IAP Textbook of Pediatrics 5 th Ed/Page 673
+----------------------------------------------------------------
+
+ID: 23724 | Answer: [C] 5-7 days
+QUESTION: A child suffering from iron deficiency anemia was started on oral iron therapy. When will the peak reticulocytosis anticipated after starting iron?
+OPTIONS: A) 2-3 days | B) 3-5 days | C) 5-7 days | D) 10-14 days
+EXPLANATION: Reference : Nelson 21 st Edition, Chapter 482
+----------------------------------------------------------------
+
+ID: 23725 | Answer: [D] Thalassemia
+QUESTION: A 3-year-old child is suffering from progressive anemia. On examination, malar prominence and hepatosplenomegaly were seen. Peripheral smear is shown below. What is the likely diagnosis?
+OPTIONS: A) Iron deficiency anemia | B) Sideroblastic anemia | C) Megaloblastic anemia | D) Thalassemia
+EXPLANATION: The child has anemia, with hepatosplenomegaly. Further, malar prominence indicates likely hemolytic facies. The peripheral blood smear shows the presence of target cells, suggesting a likely diagnosis of Thalassemia. Reference: OP Ghai 10 th Edition, Pages 360-364
+----------------------------------------------------------------
+
+ID: 23726 | Answer: [C] Intraosseous
+QUESTION: A child developed sudden-onset cardiac arrest. CPR was started and rhythm was checked. Since there was asystole, it was decided to give injection epinephrine to the child. However, intravenous access could not be obtained immediately. What alternative site can you inject epinephrine in such a patient?
+OPTIONS: A) Intracardiac | B) Intramuscular | C) Intraosseous | D) Tracheal
+EXPLANATION: In pediatric cardiac arrest, if the central or peripheral venous access is not immediately achieved, intraosseous (IO) access should be secured. The usual site for IO access is upper end of tibia, medial to the tibial tuberosity. Other sites include distal femur, lower end of tibia above medial malleolus and anterior superior iliac spine. All drugs and infusions which can be given via intravenous route, can also be administered via intraosseous route. Tracheal route is not a preferred site even in emergencies. However, if even IO access is not possible, it can be considered for lipid-soluble agents like epinephrine, lidocaine, atropine and naloxone, if indicated. Reference: OP Ghai 10 th Edition, Page 766
+----------------------------------------------------------------
+
+ID: 23729 | Answer: [A] G6PD deficiency
+QUESTION: A 10-year-old boy who presents to you with lethargy and his urine has become dark in colour. There is no history of excessive exercise or beetroot consumption; he had a festive meal of chicken, fish, broad beans and rice for lunch. His examination is normal and he is afebrile. His examination is otherwise normal. What is the most likely underlying cause of his new symptoms?
+OPTIONS: A) G6PD deficiency | B) Sickle cell anemia | C) Thalassemia trait | D) Pyelonephritis
+TAG TOPIC: ANEMIA Difficulty level: MUST KNOW PYQ: INICET NOV 2022 Reference: Nelson textbook of pediatrics, 21 st ed, page number: 2560
+EXPLANATION: In G6PD deficiency, acute hemolysis may be precipitated by infection, the most common precipitating factor. Certain drugs including nitrofurantoin, fava beans (broad beans) and naphthalene in mothballs can also precipitate hemolysis. The urine is dark as it contains hemoglobin as well as urobilinogen. Option B: Sickle cell anemia usually have earlier presentation, with splenomegaly in most of the cases is apparent. Option C: Thalassemia trait are usually asymptomatic with most common presentation being chronic anemia. Option D: Pyelonephritis is a febrile illness with abdominal pain. Tags: Topic: ANEMIA Difficulty level: MUST KNOW PYQ: INICET NOV 2022 Reference: Nelson textbook of pediatrics, 21 st ed, page number: 2560
+----------------------------------------------------------------
+
+ID: 23735 | Answer: [A] Vitamin A
+QUESTION: Which vitamin deficiency causes conjunctival xerosis in children?
+OPTIONS: A) Vitamin A | B) Vitamin K | C) Vitamin C | D) Vitamin D
+EXPLANATION: Explanation: Conjunctival xerosis (dryness of the conjunctiva) is the earliest ocular manifestation of Vitamin A deficiency . Vitamin A is essential for maintaining epithelial integrity and normal vision. Its deficiency results in a series of ocular changes collectively known as xerophthalmia . WHO Grading of Eye Signs in Vitamin A Deficiency: Management: Prophylaxis: Explanation of other options: Vitamin K (Option B): This vitamin plays a vital role in the coagulation process, and its deficiency leads to bleeding tendencies such as easy bruising and mucocutaneous hemorrhages. It is particularly responsible for hemorrhagic disease of the newborn but does not produce any ocular surface manifestations. Vitamin C (Option C): Deficiency causes scurvy, which presents with gum bleeding, a scorbutic rosary, and painful pseudoparalysis. Vitamin D (Option D): This vitamin mainly regulates bone health, and its deficiency results in rickets in children. It has no direct impact on the conjunctiva or other ocular tissues. Reference: The Eye Signs of Vitamin A Deficiency &ndash; PMC .
+----------------------------------------------------------------
+
+ID: 23737 | Answer: [D] Prominence of the costochondral junctions
+QUESTION: Which of the following would be the most likely radiographic finding in a child who has been diagnosed with calcium-deficient rickets?
+OPTIONS: A) Widening of the ribs | B) Shortening of the radius and ulna | C) Vertebral fissures and fractures | D) Prominence of the costochondral junctions
+EXPLANATION: 6months - 1 year Frontal bossing Rachitic rosery- costochondral junction- rounded and nontender Harrison sulcus Craniosynostosis Widening of wrists after weight bearing 6 months - Craniotabes- FIRST SIGN After 1 year Delayed dentition No onset by 13 months OR no incisors by 10 months or molars by 18 months Delayed AF closure Double malleoli Bowing of legs- genu valgum/varum Windswept deformity Leg pain Anterior bowing of tibia and femur General feature Failure to thrive Pot belly Proximal muscle weakness Pathological fractures Raised ICP Stridor Pectus carinatum/ pigeon chest or pectus excavatum Hypo calcemic (dilated) cardiomyopathy X ray changes- wrist PA Loss of provisional zone of calcification- FIRST CHANGE FRAYING- irregular margins (comes early) CUPPING- concavity in metaphysis SPLAYING- widening of metaphysis Osteopenia- rarefaction Trabeculation of diaphysis Tags : Topic : RICKETS Difficulty level : MUST KNOW PYQ : NEET PG 2021;2023 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 377
+----------------------------------------------------------------
+
+ID: 23853 | Answer: [B] Leukocyte ascorbate concentration
+QUESTION: When suspecting vitamin C deficiency in a child, which of the following test is the best indicator of Vitamin C levels?
+OPTIONS: A) Plasma ascorbate concentration | B) Leukocyte ascorbate concentration | C) Urinary ascorbate level | D) Plasma amino acid level
+EXPLANATION: Plasma ascorbate levels are convenient for diagnosis . Leukocyte ascorbate levels are better indicator of body stores but are difficult to perform. Urinary ascorbate levels can be measured after an oral load of vitamin. Plasma amino acid levels are normal in vitamin C-deficient individuals. Hence, out of all the methods, best for diagnosis is leukocyte ascorbate level and convenient and commonly used is plasma ascorbate level. Tags : Topic : VITAMIN DEFICIENCY & TOXICITY Difficulty level : MAY KNOW PYQ : NEET PG 2021:FMGE JAN 2023; INICET NOV 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 373
+----------------------------------------------------------------
+
+ID: 23854 | Answer: [B] Homogentisic acid oxidase
+QUESTION: An infant is brought to a hospital because her wet diaper turns black when they are exposed to air. Physical examination of infant is normal. This disorder is caused by a deficiency of?
+OPTIONS: A) Phenylalanine hydroxylase | B) Homogentisic acid oxidase | C) Ketoacid decarboxylase | D) Tyrosinase
+EXPLANATION: Dark/blackening of urine on exposure to air in an infant suggests a diagnosis of Alkaptonuria, caused by the deficiency of the enzyme, Homogentisic Acid Oxidase. Alkaptonuria is a rare (approximately 1 in 250,000 live births) autosomal recessive disorder caused by a deficiency of homogentisate 1, 2- dioxygenase, also called homogentisic acid oxidase. Large amounts of homogentisic acid are formed, which are excreted in urine or deposited in tissues. The main clinical manifestations of alkaptonuria consist of ochronosis and arthritis in adulthood. The only sign in children is blackening of the urine on standing, caused by oxidation and polymerization of homogentisic acid. A history of gray- or black-stained diapers should suggest the diagnosis. Reference: Nelson 21 st Edition, Chapter 103.2; OP Ghai 10th Edition, Page 684
+----------------------------------------------------------------
+
+ID: 23856 | Answer: [B] Phenylalanine hydroxylase
+QUESTION: Phenylketonuria occurs due to deficiency of?
+OPTIONS: A) Phenylalanine | B) Phenylalanine hydroxylase | C) Homogentisic acid oxidase | D) Phenylene oxidase
+EXPLANATION: According to Nelson textbook 90-95% cases of PKU is due to deficiency of enzyme Phenylalanine Hydoxylase & 3-5% cases are due to deficiency of cofactor of phenylalanine Hydoxylase enzyme(Tetra hydro biopterin) . Key Takeaway :- ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23875 | Answer: [C] Terminal complement C5b-C9 deficiency
+QUESTION: A 9-year-old child is hospitalized with her second episode of meningococcemia. Immunodeficiency is suspected. What is the most likely immune deficiency which would predispose this child to recurrent N. meningitides infection?
+OPTIONS: A) X-linked agammaglobulinemic | B) Chediak-Higashi syndrome | C) Terminal complement C5b-C9 deficiency | D) Human immunodeficiency virus infection
+EXPLANATION: Patients with terminal complement deficiencies (C5b-C9) are incapable of forming the membrane attack complex, which is responsible for bactericidal activity of Neisseria infections. These patients are therefore predisposed to disseminated meningococcal and gonococcal infections X-linked agammaglobulinemic is a B-cell defect and will not present at this age with selective increased risk of meningococcemia Patients with Chediak-Higashi syndrome have a defect in phagocytosis. Patients with HIV have poor T-cell function, and patients with Wiskott-Aldrich syndrome have defects in both T- and B-cell function. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 1288
+----------------------------------------------------------------
+
+ID: 23877 | Answer: [D] Glucocerebrosidase
+QUESTION: A child presented with anemia, mental retardation, bone pains and hepatosplenomegaly. Bone marrow biopsy showed "crumpled tissue paper" appearance. What is the enzyme deficiency producing this condition?
+OPTIONS: A) Hexosaminidase-A | B) Iduronidate-2-sulphatase | C) Glucose-6-Phosphatase | D) Glucocerebrosidase
+EXPLANATION: Presence of anemia, hepatosplenomegaly, low IQ, bone pains and crumpled tissue paper appearance on BM biopsy suggests a diagnosis of Gaucher's Disease. The cause is deficiency of Glucocerebrosidase enzyme. Key points to remember regarding Gaucher's Disease MC lysosomal storage disease Inheritance: Autosomal recessive &rarr; Gene on 1q Deficient enzyme: Glucocerebrosidase, also called Acid &beta;- glucosidase This causes accumulation of glucocerebrosides in the reticulo-endothelial system BM biopsy shows PAS +ve swollen cells with vacuoles, eccentric nuclei, giving a Crumpled/Wrinkled Tissue Paper Appearance, Called Gaucher Cells Enzyme Replacement Therapy (ERT) is now commercially available. Reference: OP Ghai 10 th Edition, Page 690
+----------------------------------------------------------------
+
+ID: 23880 | Answer: [B] Riboflavin
+QUESTION: Angular cheilitis, stomatitis, and glossitis are characteristic of the deficiency of which vitamin?
+OPTIONS: A) Niacin | B) Riboflavin | C) Cobalamin | D) Vitamin C
+EXPLANATION: Explanation: Riboflavin (Vitamin B2) deficiency causes mucocutaneous lesions, classically presenting as the triad of angular cheilitis, stomatitis, and glossitis . Riboflavin plays a vital role in oxidative metabolism and maintenance of epithelial health. Vitamin B2 (Riboflavin) Deficiency: Explanation: Niacin (Vitamin B3) (Option A): deficiency results in pellagra, which is marked by the 4 D&rsquo;s&mdash;diarrhea, dermatitis, dementia, and, if left untreated, death. Although mucosal involvement may occur, the characteristic triad of oral findings is not a prominent feature. Cobalamin (Vitamin B12) (Option C): deficiency mainly manifests as megaloblastic anemia and neurological complications, such as subacute combined degeneration of the spinal cord. Oral symptoms are not the key presentation. Vitamin C (Option D): deficiency causes scurvy, presenting with bleeding gums, delayed wound healing, and petechial hemorrhages. Though it can involve the oral mucosa, it does not produce the specific triad of angular cheilitis, stomatitis, and glossitis. Key takeaways: Riboflavin deficiency &rarr; oral lesions (angular cheilitis, glossitis). Often coexists with other B-complex deficiencies. Diagnosed by EGR enzyme activity test.
+----------------------------------------------------------------
+
+ID: 23881 | Answer: [D] Glucocerebrosidase
+QUESTION: A child presented with anemia, mental retardation, bone pains and hepatosplenomegaly. Bone marrow biopsy showed "crumpled tissue paper" appearance. What is the enzyme deficiency producing this condition?
+OPTIONS: A) Hexosaminidase-A | B) Iduronate-2-sulfatase | C) Glucose-6-Phosphatase | D) Glucocerebrosidase
+EXPLANATION: clinical presentation of anemia, mental retardation, bone pains, hepatosplenomegaly, and a " crumpled tissue paper"appearance on bone marrow biopsy slide finding in given image , is indicative of Gaucher disease. This condition is caused by a deficiency in the enzyme Glucocerebrosidase Other options : Option A - Hexosaminidase-A : Deficiency causes Tay-Sachs disease (cherry-red spot, neurodegeneration) Option B - Iduronate-2-sulfatase : Deficiency leads to Hunter syndrome (coarse features, joint stiffness) Option C - Glucose-6-Phosphatase : Deficiency causes Von Gierke disease (hypoglycemia, hepatomegaly Ref:-Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23910 | Answer: [D] Varicella
+QUESTION: A 12-month-old male child is brought to your office for a well-child examination and immunizations. You have been following the child since delivery and are aware that he has acquired immune deficiency syndrome (AIDS) and a Markedly reduced T-cell count. Which of the following vaccinations should he not receive?
+OPTIONS: A) Diphtheria, tetanus, and acellular pertussis (DTaP) | B) Diphtheria tetanus (dT) | C) Hepatitis B | D) Varicella
+EXPLANATION: All of the vaccines mentioned, except varicella, are killed or synthetic vaccines and hence safe in an HIV+/AIDS patient. Regarding live vaccines, OP Ghai Textbook says the following Live vaccines like BCG, OPV, Measles, MMR, Varicella may be given in early stages of HIV Infection (For children aged 5 years and below, CD4+ Count 15% for 6 months or >200/mm3 for 6 months or longer). These live vaccines are unsafe and avoided in advanced HIV or AIDS patients. Where feasible, IPV should be preferred over OPV BCG should also be avoided in any symptomatic HIV patient Reference: OP Ghai 10 th Edition, Page 215
+----------------------------------------------------------------
+
+ID: 23939 | Answer: [C] MMR vaccine
+QUESTION: Which of the following vaccines should not be given to a child with severe combined immunodeficiency disorder (SCID)?
+OPTIONS: A) IPV | B) Hepatitis B vaccine | C) MMR vaccine | D) DTaP
+EXPLANATION: Explanation: MMR is contraindicated in a child with SCID. Severe Combined Immunodeficiency (SCID) indicates a markedly weakened immune system , so live attenuated vaccines are contraindicated in these children. Live vaccines can replicate in the host and may cause serious infection when immune defenses are impaired. General situations where live vaccines should not be administered include: Primary immunodeficiency disorders Conditions with significant immune suppression , such as: Leukemia or lymphoma Other malignancies Ongoing corticosteroid therapy Treatment with alkylating agents or antimetabolites Therapeutic radiation Pregnancy , because of potential harm to the fetus Explanations for other Options: IPV (Option A): IPV (Inactivated Polio Vaccine) Contains killed poliovirus , not live virus. It is Safe and recommended even in severe immunodeficiency. Hepatitis B vaccine (Option B): A recombinant sub-unit vaccine that uses only the hepatitis B surface antigen. It Cannot cause infection and is safe for immunocompromised children. DTaP (Option D): It Includes inactivated toxoids (diphtheria, tetanus) and acellular pertussis components . It is Entirely non-live, so it is safe to administer in SCID.
+----------------------------------------------------------------
+
+ID: 24092 | Answer: [C] Galactose-1-Phosphate Uridyltransferase
+QUESTION: Galactosemia occurs most commonly due to the deficiency of?
+OPTIONS: A) Epimerase | B) Galactokinase | C) Galactose-1-Phosphate Uridyltransferase | D) HGPRTase
+EXPLANATION: Most common cause of classic galactosemia is enzymes Galactose-1-Phosphate Uridyltransferase deficiency , leading to the accumulation of galactose-1-phosphate,which causes liver damage, cataracts, and intellectual disability if untreated. Other options :- Epimerase &ndash;Deficiency of UDP-galactose 4&rsquo;-epimerase causes a rarer form of galactosemia Galactokinase &ndash;Deficiency of galactokinase leads to a mild form of galactosemia, often presenting with cataracts. HGPRTase &ndash;Deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRTase) causes Lesch-Nyhan syndrome/self mutilating syndrome. Key takeaways :- Galactosemia - AR inheritance - Most Common Enzyme Deficiency: Galactose-1-Phosphate Uridyltransferase (GALT). Other Enzyme Deficiencies: Galactokinase (GALK): Causes a milder form, primarily cataracts. UDP-Galactose 4'- Epimerase (GALE): Rare; may present with mild or severe symptoms. - Inability to convert galactose into glucose leads to the accumulation of toxic metabolites such as galactose-1-phosphate, galactitol, and galactonate, causing multisystem damage -Clinical features :Symptoms appears when breast feeding is done,that&rsquo;s why it is considered contraindication for Breast Feeding.specialised formula feed needs to be given . Hypoglycaemia, Neonatal cholestasis ,sepsis(commonly by E.coli),renal damage(Acute Tubular Necrosis),Cataract( oil drop cataract ),Seizure & mental retardation - prevention of complications:- eliminate milk from diet ,go for specialised formula feed. Oil drop cataract in galactosemia ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 24094 | Answer: [B] Glycogen accumulation in liver
+QUESTION: An 8-year-old child presented with hepatomegaly and hypoglycemia. He was diagnosed with glucose-6-phosphatase deficiency. The cause of hepatomegaly in this child is?
+OPTIONS: A) Glucose accumulation in liver | B) Glycogen accumulation in liver | C) Glucose accumulation in muscles | D) Glucose 6 phosphate accumulation in liver
+EXPLANATION: Glucose-6-Phosphatase deficiency produces GSD-1, also called as Von-Gierke&rsquo;s Disease. Deficiency of the enzyme leads to inadequate hepatic conversion of glucose-6-phosphate to glucose through normal glycogenolysis and gluconeogenesis, resulting in fasting hypoglycemia and accumulation of normal structure glycogen in the liver. Reference: Nelson 21 st Edition, Chapter 105.1
+----------------------------------------------------------------
+
+ID: 24379 | Answer: [B] A complete blood count with differential
+QUESTION: Of the following options, the best initial test for a workup for immunodeficiency is?
+OPTIONS: A) Serum levels of IgG, IgM, IgA, IgE | B) A complete blood count with differential | C) Peripheral T-cell phenotyping | D) Erythrocyte sedimentation rate
+EXPLANATION: The initial step in the workup of a child with a suspected immunodeficiency should always include a complete blood count and differential, as this test will reveal disorders involving lymphopenia (particularly T-cell lymphopenias) and neutropenia. Other hints can be found by the CBC, including small platelets associated with the Wiskott-Aldrich syndrome, anemias, and evidence of eosinophilia. An erythrocyte sedimentation rate is a nonspecific marker of inflammation and would not point to a specific immunodeficiency. While quantitative immunoglobulins, peripheral T-cell phenotyping, and lack of antibody response to standard immunizations would all be part of an immunodeficiency investigation, these would not be considered first steps in the evaluation. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 1004
+----------------------------------------------------------------
+

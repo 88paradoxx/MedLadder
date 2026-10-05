@@ -1,0 +1,277 @@
+{
+  "subject": "ENT",
+  "totalQuestions": 1221,
+  "flaggedCount": 45,
+  "moves": [
+    {
+      "id": 12208,
+      "fromModule": 293,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12138,
+      "fromModule": 294,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12175,
+      "fromModule": 294,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 11270,
+      "fromModule": 294,
+      "toModule": 336,
+      "reason": "Ophthalmology condition found in ENT"
+    },
+    {
+      "id": 12207,
+      "fromModule": 295,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12186,
+      "fromModule": 295,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12161,
+      "fromModule": 295,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12215,
+      "fromModule": 295,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12256,
+      "fromModule": 295,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11951,
+      "fromModule": 300,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12205,
+      "fromModule": 300,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 11330,
+      "fromModule": 300,
+      "toModule": 314,
+      "reason": "Rhinology pathology misplaced in Ear section"
+    },
+    {
+      "id": 11350,
+      "fromModule": 300,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 12219,
+      "fromModule": 300,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Ear section"
+    },
+    {
+      "id": 11344,
+      "fromModule": 300,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11343,
+      "fromModule": 300,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11414,
+      "fromModule": 302,
+      "toModule": 336,
+      "reason": "Ophthalmology condition found in ENT"
+    },
+    {
+      "id": 11418,
+      "fromModule": 302,
+      "toModule": 336,
+      "reason": "Ophthalmology condition found in ENT"
+    },
+    {
+      "id": 11419,
+      "fromModule": 302,
+      "toModule": 336,
+      "reason": "Ophthalmology condition found in ENT"
+    },
+    {
+      "id": 11929,
+      "fromModule": 306,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11930,
+      "fromModule": 306,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11937,
+      "fromModule": 306,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11192,
+      "fromModule": 306,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11927,
+      "fromModule": 306,
+      "toModule": 318,
+      "reason": "Pharynx pathology misplaced in Ear section"
+    },
+    {
+      "id": 11125,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 11297,
+      "fromModule": 313,
+      "toModule": 301,
+      "reason": "Otology condition misplaced in Nose section"
+    },
+    {
+      "id": 11520,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12158,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 11181,
+      "fromModule": 313,
+      "toModule": 301,
+      "reason": "Otology condition misplaced in Nose section"
+    },
+    {
+      "id": 12196,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12103,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12150,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12214,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12216,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 11124,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12163,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12185,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12180,
+      "fromModule": 313,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 11854,
+      "fromModule": 316,
+      "toModule": 301,
+      "reason": "Otology condition misplaced in Nose section"
+    },
+    {
+      "id": 12233,
+      "fromModule": 316,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 12023,
+      "fromModule": 316,
+      "toModule": 320,
+      "reason": "Laryngeal pathology misplaced in Nose section"
+    },
+    {
+      "id": 11223,
+      "fromModule": 323,
+      "toModule": 301,
+      "reason": "Otology condition misplaced in Throat/Larynx section"
+    },
+    {
+      "id": 12028,
+      "fromModule": 323,
+      "toModule": 301,
+      "reason": "Otology condition misplaced in Throat/Larynx section"
+    },
+    {
+      "id": 11202,
+      "fromModule": 326,
+      "toModule": 301,
+      "reason": "Otology condition misplaced in Throat/Larynx section"
+    },
+    {
+      "id": 12251,
+      "fromModule": 328,
+      "toModule": 439,
+      "reason": "Internal Medicine condition found in ENT"
+    }
+  ]
+}

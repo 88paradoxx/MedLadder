@@ -1,0 +1,1244 @@
+[
+  {
+    "id": 2534,
+    "fromModule": 470,
+    "toModule": 423,
+    "reason": "Tests gynecomastia pathophysiology and estrogen metabolism, belongs in Medicine: Reproductive Endocrinology (Module 423)."
+  },
+  {
+    "id": 9027,
+    "fromModule": 412,
+    "toModule": 105,
+    "reason": "Tests hypoxia and cyanosis physiological mechanisms, belongs in Physiology: Respiratory Physiology (Module 105)."
+  },
+  {
+    "id": 16205,
+    "fromModule": 477,
+    "toModule": 483,
+    "reason": "Tests acute anaphylactic shock management with intramuscular epinephrine, belongs in Surgery: Shock & Resuscitation (Module 483)."
+  },
+  {
+    "id": 16219,
+    "fromModule": 477,
+    "toModule": 441,
+    "reason": "Tests osteoarthritis Heberden nodes at distal interphalangeal joints, belongs in Medicine: Rheumatoid Arthritis & Osteoarthritis (Module 441)."
+  },
+  {
+    "id": 16276,
+    "fromModule": 476,
+    "toModule": 161,
+    "reason": "Tests antianginal pharmacology of late sodium channel blocker ranolazine, belongs in Pharmacology: Cardiovascular Drugs (Module 161)."
+  },
+  {
+    "id": 16283,
+    "fromModule": 412,
+    "toModule": 165,
+    "reason": "Tests immunosuppressant drug adverse reactions (azathioprine-induced acute pancreatitis), belongs in Pharmacology: Immunopharmacology (Module 165)."
+  },
+  {
+    "id": 16290,
+    "fromModule": 412,
+    "toModule": 125,
+    "reason": "Tests purine metabolism and uric acid excretion kinetics, belongs in Biochemistry: Nucleotide Metabolism (Module 125)."
+  },
+  {
+    "id": 16292,
+    "fromModule": 412,
+    "toModule": 485,
+    "reason": "Tests oral cavity squamous cell carcinoma TNM staging, belongs in Surgery: Oral Cavity & Salivary Glands (Module 485)."
+  },
+  {
+    "id": 16304,
+    "fromModule": 412,
+    "toModule": 106,
+    "reason": "Tests tubular reabsorption along proximal convoluted tubule, belongs in Physiology: Renal Physiology (Module 106)."
+  },
+  {
+    "id": 16305,
+    "fromModule": 477,
+    "toModule": 442,
+    "reason": "Tests GeneXpert MTB/RIF molecular diagnosis of Mycobacterium tuberculosis and rpoB gene resistance, belongs in Medicine: Asthma & COPD / Tuberculosis (Module 442)."
+  },
+  {
+    "id": 16320,
+    "fromModule": 412,
+    "toModule": 107,
+    "reason": "Tests physiological regulation of gastric parietal cell acid secretion, belongs in Physiology: Gastrointestinal Physiology (Module 107)."
+  },
+  {
+    "id": 16322,
+    "fromModule": 412,
+    "toModule": 107,
+    "reason": "Tests physiological regulation of gastric parietal cell acid secretion, belongs in Physiology: Gastrointestinal Physiology (Module 107)."
+  },
+  {
+    "id": 16333,
+    "fromModule": 476,
+    "toModule": 454,
+    "reason": "Tests drug- and toxin-induced nephrotoxicity and crystalluria, belongs in Medicine: Renal Tubular Diseases of Kidney (Module 454)."
+  },
+  {
+    "id": 16351,
+    "fromModule": 412,
+    "toModule": 160,
+    "reason": "Tests antifibrinolytic pharmacology (epsilon-aminocaproic acid / tranexamic acid), belongs in Pharmacology: Drugs Acting on Blood (Module 160)."
+  },
+  {
+    "id": 16362,
+    "fromModule": 412,
+    "toModule": 418,
+    "reason": "Tests calcitonin-secreting medullary thyroid carcinoma, belongs in Medicine: Thyroid Disorders - Clinical Features (Module 418)."
+  },
+  {
+    "id": 16363,
+    "fromModule": 412,
+    "toModule": 418,
+    "reason": "Tests calcitonin-secreting medullary thyroid carcinoma, belongs in Medicine: Thyroid Disorders - Clinical Features (Module 418)."
+  },
+  {
+    "id": 16369,
+    "fromModule": 412,
+    "toModule": 435,
+    "reason": "Tests nutritional megaloblastic anemia from dietary folate deficiency, belongs in Medicine: Malabsorption Syndrome (Module 435)."
+  },
+  {
+    "id": 16384,
+    "fromModule": 476,
+    "toModule": 442,
+    "reason": "Tests diagnostic evaluation of pulmonary tuberculosis with AFB sputum microscopy, belongs in Medicine: Asthma & COPD / Tuberculosis (Module 442)."
+  },
+  {
+    "id": 16389,
+    "fromModule": 452,
+    "toModule": 453,
+    "reason": "Tests drug-induced retroperitoneal fibrosis leading to ureteral obstruction, belongs in Medicine: Cysts and Inherited Disorders of the Kidney (Module 453)."
+  },
+  {
+    "id": 16394,
+    "fromModule": 477,
+    "toModule": 458,
+    "reason": "Tests coarctation of aorta radiofemoral delay and rib notching on CXR, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 16397,
+    "fromModule": 477,
+    "toModule": 468,
+    "reason": "Tests acute inflammatory demyelinating polyneuropathy (Guillain-Barre syndrome), belongs in Medicine: Guillain Barre Syndrome and Other Peripheral Neuropathies (Module 468)."
+  },
+  {
+    "id": 16413,
+    "fromModule": 452,
+    "toModule": 413,
+    "reason": "Tests acute post-adrenalectomy adrenal crisis and glucocorticoid insufficiency, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 16464,
+    "fromModule": 477,
+    "toModule": 610,
+    "reason": "Tests rotator cuff tendinopathy in athletes, belongs in Orthopedics: Shoulder & Arm (Module 610)."
+  },
+  {
+    "id": 16511,
+    "fromModule": 470,
+    "toModule": 414,
+    "reason": "Tests pituitary macroadenoma suprasellar extension and bitemporal visual field deficits, belongs in Medicine: Disorders of Anterior Pituitary (Module 414)."
+  },
+  {
+    "id": 16514,
+    "fromModule": 478,
+    "toModule": 414,
+    "reason": "Tests hypogonadotropic hypogonadism with anosmia (Kallmann syndrome), belongs in Medicine: Disorders of Anterior Pituitary (Module 414)."
+  },
+  {
+    "id": 16515,
+    "fromModule": 478,
+    "toModule": 414,
+    "reason": "Tests hypogonadotropic hypogonadism with anosmia (Kallmann syndrome), belongs in Medicine: Disorders of Anterior Pituitary (Module 414)."
+  },
+  {
+    "id": 16540,
+    "fromModule": 478,
+    "toModule": 423,
+    "reason": "Tests carcinoid syndrome diagnostic confirmation with 24-hour urinary 5-HIAA, belongs in Medicine: Reproductive Endocrinology & Neuroendocrine Tumors (Module 423)."
+  },
+  {
+    "id": 16551,
+    "fromModule": 478,
+    "toModule": 414,
+    "reason": "Tests pituitary prolactinoma causing headache, amenorrhea, and visual field deficits, belongs in Medicine: Disorders of Anterior Pituitary (Module 414)."
+  },
+  {
+    "id": 16553,
+    "fromModule": 476,
+    "toModule": 448,
+    "reason": "Tests diagnostic tissue biopsy for lung cancer evaluation, belongs in Medicine: Neoplasms of the Lung (Module 448)."
+  },
+  {
+    "id": 16563,
+    "fromModule": 478,
+    "toModule": 416,
+    "reason": "Tests lithium-induced nephrogenic diabetes insipidus, belongs in Medicine: Posterior Pituitary - ADH, Diabetes Insipidus (Module 416)."
+  },
+  {
+    "id": 16569,
+    "fromModule": 454,
+    "toModule": 416,
+    "reason": "Tests psychogenic polydipsia vs SIADH urinary sodium dynamics, belongs in Medicine: Posterior Pituitary - ADH, Diabetes Insipidus (Module 416)."
+  },
+  {
+    "id": 16590,
+    "fromModule": 452,
+    "toModule": 416,
+    "reason": "Tests vasopressin V2 receptor mediation of aquaporin-2 water reabsorption, belongs in Medicine: Posterior Pituitary - ADH, Diabetes Insipidus (Module 416)."
+  },
+  {
+    "id": 16599,
+    "fromModule": 452,
+    "toModule": 483,
+    "reason": "Tests first-line vasopressor therapy (norepinephrine) in septic shock resuscitation, belongs in Surgery: Shock, Resuscitation & Trauma (Module 483)."
+  },
+  {
+    "id": 16600,
+    "fromModule": 454,
+    "toModule": 450,
+    "reason": "Tests neurohumoral activation in post-renal bilateral urinary outflow obstruction, belongs in Medicine: Acute Kidney Injury (Module 450)."
+  },
+  {
+    "id": 16602,
+    "fromModule": 470,
+    "toModule": 412,
+    "reason": "Tests electrolyte imbalance and complications in gastroenteritis, belongs in Medicine: Acid-Base & Electrolyte Disorders (Module 412)."
+  },
+  {
+    "id": 16691,
+    "fromModule": 476,
+    "toModule": 569,
+    "reason": "Tests etiology of chronic constipation in children, belongs in Pediatrics: Pediatric Gastroenterology & Hepatology (Module 569)."
+  },
+  {
+    "id": 16695,
+    "fromModule": 452,
+    "toModule": 413,
+    "reason": "Tests stress-dose glucocorticoid adjustments in adrenal insufficiency during illness, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 16698,
+    "fromModule": 478,
+    "toModule": 413,
+    "reason": "Tests primary adrenal insufficiency (Addison disease) diagnostic confirmation with ACTH stimulation (Synacthen) test, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 16702,
+    "fromModule": 478,
+    "toModule": 413,
+    "reason": "Tests primary adrenal insufficiency (Addison disease) diagnostic confirmation with ACTH stimulation (Synacthen) test, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 16820,
+    "fromModule": 454,
+    "toModule": 422,
+    "reason": "Tests diabetic glomerulosclerosis histopathology (Kimmelstiel-Wilson nodules), belongs in Medicine: Diabetes Mellitus - Complications (Module 422)."
+  },
+  {
+    "id": 16827,
+    "fromModule": 470,
+    "toModule": 420,
+    "reason": "Tests secondary hypertension caused by hypercortisolemia, belongs in Medicine: Cushing Syndrome (Module 420)."
+  },
+  {
+    "id": 16835,
+    "fromModule": 412,
+    "toModule": 423,
+    "reason": "Tests polycystic ovarian syndrome etiology of chronic anovulation, belongs in Medicine: Reproductive Endocrinology (Module 423)."
+  },
+  {
+    "id": 16837,
+    "fromModule": 452,
+    "toModule": 423,
+    "reason": "Tests polycystic ovary syndrome (PCOS) endocrine parameters and SHBG suppression, belongs in Medicine: Reproductive Endocrinology (Module 423)."
+  },
+  {
+    "id": 16866,
+    "fromModule": 478,
+    "toModule": 424,
+    "reason": "Tests Paget disease of bone metabolic parameters and skeletal symptoms, belongs in Medicine: Disorders of Parathyroid and Calcium (Module 424)."
+  },
+  {
+    "id": 16888,
+    "fromModule": 452,
+    "toModule": 413,
+    "reason": "Tests multiple endocrine neoplasia type 2A (MEN-2A) pheochromocytoma paroxysms, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 16909,
+    "fromModule": 452,
+    "toModule": 412,
+    "reason": "Tests cardiac membrane stabilization with intravenous calcium gluconate in severe hyperkalemia, belongs in Medicine: Acid-Base Disorders & Electrolytes (Module 412)."
+  },
+  {
+    "id": 16917,
+    "fromModule": 476,
+    "toModule": 424,
+    "reason": "Tests secondary hyperparathyroidism and renal osteodystrophy in chronic kidney disease, belongs in Medicine: Disorders of Parathyroid and Calcium (Module 424)."
+  },
+  {
+    "id": 16921,
+    "fromModule": 478,
+    "toModule": 475,
+    "reason": "Tests multiple myeloma diagnostic workup with serum protein electrophoresis, belongs in Medicine: Plasma Cell Disorders (Module 475)."
+  },
+  {
+    "id": 16936,
+    "fromModule": 452,
+    "toModule": 412,
+    "reason": "Tests loop and thiazide diuretic-induced hypokalemia and flattened T waves, belongs in Medicine: Acid-Base Disorders & Electrolytes (Module 412)."
+  },
+  {
+    "id": 16941,
+    "fromModule": 412,
+    "toModule": 109,
+    "reason": "Tests anterior cerebral artery motor homunculus distribution, belongs in Physiology: Central Nervous System (Module 109)."
+  },
+  {
+    "id": 16943,
+    "fromModule": 412,
+    "toModule": 425,
+    "reason": "Tests unconjugated hyperbilirubinemia in hemolytic states, belongs in Medicine: Hyperbilirubinemia and Functions of Liver (Module 425)."
+  },
+  {
+    "id": 16970,
+    "fromModule": 476,
+    "toModule": 426,
+    "reason": "Tests histopathological manifestations of alcoholic liver disease, belongs in Medicine: Alcoholic Liver Diseases (Module 426)."
+  },
+  {
+    "id": 16977,
+    "fromModule": 412,
+    "toModule": 129,
+    "reason": "Tests Mendelian inheritance patterns of X-linked recessive genetic disorders, belongs in Biochemistry: Molecular Biology & Genetics (Module 129)."
+  },
+  {
+    "id": 17023,
+    "fromModule": 412,
+    "toModule": 464,
+    "reason": "Tests non-dominant parietal lobe lesions causing hemispatial neglect, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma (Module 464)."
+  },
+  {
+    "id": 17037,
+    "fromModule": 476,
+    "toModule": 425,
+    "reason": "Tests hepatitis A virus transmission and fecal-oral acute hepatitis, belongs in Medicine: Hyperbilirubinemia & Liver Infections (Module 425)."
+  },
+  {
+    "id": 17039,
+    "fromModule": 476,
+    "toModule": 427,
+    "reason": "Tests viral hepatitis serological markers, infectivity, and HDV co-infection, belongs in Medicine: Autoimmune & Viral Liver Diseases (Module 427)."
+  },
+  {
+    "id": 17051,
+    "fromModule": 478,
+    "toModule": 435,
+    "reason": "Tests macrocytic megaloblastic anemia secondary to alcoholic folate deficiency, belongs in Medicine: Malabsorption Syndrome & Nutritional Anemias (Module 435)."
+  },
+  {
+    "id": 17054,
+    "fromModule": 476,
+    "toModule": 426,
+    "reason": "Tests histopathological manifestations of alcoholic liver disease, belongs in Medicine: Alcoholic Liver Diseases (Module 426)."
+  },
+  {
+    "id": 17059,
+    "fromModule": 476,
+    "toModule": 437,
+    "reason": "Tests cryoglobulinemic vasculitis associated with chronic hepatitis C, belongs in Medicine: Small vessel vasculitis (Module 437)."
+  },
+  {
+    "id": 17074,
+    "fromModule": 476,
+    "toModule": 428,
+    "reason": "Tests direct-acting antiviral therapy for chronic hepatitis C cirrhosis, belongs in Medicine: Complications of Cirrhosis (Module 428)."
+  },
+  {
+    "id": 17093,
+    "fromModule": 476,
+    "toModule": 438,
+    "reason": "Tests gastric antral vascular ectasia (watermelon stomach) in systemic sclerosis, belongs in Medicine: Scleroderma (Module 438)."
+  },
+  {
+    "id": 17103,
+    "fromModule": 452,
+    "toModule": 413,
+    "reason": "Tests primary aldosteronism (Conn syndrome) screening with aldosterone-to-renin ratio, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 17104,
+    "fromModule": 452,
+    "toModule": 413,
+    "reason": "Tests primary aldosteronism (Conn syndrome) screening with aldosterone-to-renin ratio, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 17128,
+    "fromModule": 476,
+    "toModule": 473,
+    "reason": "Tests hypertensive intracerebral hemorrhage anatomical site (putamen / basal ganglia), belongs in Medicine: Cerebrovascular Disease (Module 473)."
+  },
+  {
+    "id": 17133,
+    "fromModule": 452,
+    "toModule": 458,
+    "reason": "Tests renovascular hypertension and renal artery stenosis diagnostic imaging, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 17138,
+    "fromModule": 452,
+    "toModule": 462,
+    "reason": "Tests flash pulmonary edema (Pickering syndrome) from bilateral renal artery stenosis, belongs in Medicine: Heart Failure (Module 462)."
+  },
+  {
+    "id": 17174,
+    "fromModule": 478,
+    "toModule": 213,
+    "reason": "Tests enterohemorrhagic E. coli O157:H7 dysentery and hemolytic uremic syndrome risk, belongs in Microbiology: Enterobacteriaceae (Module 213)."
+  },
+  {
+    "id": 17210,
+    "fromModule": 412,
+    "toModule": 457,
+    "reason": "Tests complete heart block indications for permanent pacemaker implantation, belongs in Medicine: Ventricular Arrhythmias and Heart Blocks (Module 457)."
+  },
+  {
+    "id": 17221,
+    "fromModule": 476,
+    "toModule": 466,
+    "reason": "Tests acute dystonic reaction (oculogyric crisis) and anticholinergic therapy, belongs in Medicine: Extrapyramidal Syndromes and Movement Disorders (Module 466)."
+  },
+  {
+    "id": 17240,
+    "fromModule": 476,
+    "toModule": 426,
+    "reason": "Tests confirmation of Helicobacter pylori eradication, belongs in Medicine: Peptic & Alcoholic GI Diseases (Module 426)."
+  },
+  {
+    "id": 17247,
+    "fromModule": 476,
+    "toModule": 479,
+    "reason": "Tests chronic fatigue syndrome management with graded exercise therapy, belongs in Medicine: Mixed / Miscellaneous Topics (Module 479)."
+  },
+  {
+    "id": 17264,
+    "fromModule": 412,
+    "toModule": 577,
+    "reason": "Tests management of simple febrile seizures in pediatrics, belongs in Pediatrics: Pediatric Neurology (Module 577)."
+  },
+  {
+    "id": 17273,
+    "fromModule": 478,
+    "toModule": 424,
+    "reason": "Tests bone mineral density quantification using dual-energy X-ray absorptiometry (DEXA), belongs in Medicine: Disorders of Parathyroid and Calcium (Module 424)."
+  },
+  {
+    "id": 17298,
+    "fromModule": 454,
+    "toModule": 452,
+    "reason": "Tests cytomegalovirus opportunistic infection following kidney transplantation, belongs in Medicine: Renal Replacement Therapy (Module 452)."
+  },
+  {
+    "id": 17330,
+    "fromModule": 476,
+    "toModule": 426,
+    "reason": "Tests chronic pancreatitis evaluation with contrast-enhanced CT, belongs in Medicine: Pancreatic & Liver Diseases (Module 426)."
+  },
+  {
+    "id": 17348,
+    "fromModule": 412,
+    "toModule": 446,
+    "reason": "Tests physical examination signs in chronic respiratory disease, belongs in Medicine: Pulmonary Function Tests & Signs (Module 446)."
+  },
+  {
+    "id": 17367,
+    "fromModule": 412,
+    "toModule": 448,
+    "reason": "Tests radiological white-out hemithorax differential diagnosis, belongs in Medicine: Neoplasms of the Lung (Module 448)."
+  },
+  {
+    "id": 17375,
+    "fromModule": 478,
+    "toModule": 610,
+    "reason": "Tests cervical spondylosis clinical features and radiculopathy, belongs in Orthopedics: Spine (Module 610)."
+  },
+  {
+    "id": 17395,
+    "fromModule": 454,
+    "toModule": 437,
+    "reason": "Tests IgA vasculitis (Henoch-Schonlein purpura) renal and cutaneous manifestations, belongs in Medicine: Small vessel vasculitis (Module 437)."
+  },
+  {
+    "id": 17452,
+    "fromModule": 454,
+    "toModule": 458,
+    "reason": "Tests infective endocarditis complications in intravenous drug users, belongs in Medicine: Vascular Heart Diseases / Infective Endocarditis (Module 458)."
+  },
+  {
+    "id": 17453,
+    "fromModule": 452,
+    "toModule": 438,
+    "reason": "Tests systemic sclerosis (scleroderma) autoantibodies (anti-Scl-70 / topoisomerase I), belongs in Medicine: Sjogrens Syndrome and Scleroderma (Module 438)."
+  },
+  {
+    "id": 17469,
+    "fromModule": 470,
+    "toModule": 473,
+    "reason": "Tests MELAS mitochondrial encephalomyopathy presenting with stroke-like episodes, belongs in Medicine: Cerebrovascular Disease (Module 473)."
+  },
+  {
+    "id": 17470,
+    "fromModule": 412,
+    "toModule": 213,
+    "reason": "Tests laboratory diagnosis of Salmonella enterica serotype Typhi in the first week, belongs in Microbiology: Enterobacteriaceae (Module 213)."
+  },
+  {
+    "id": 17472,
+    "fromModule": 476,
+    "toModule": 427,
+    "reason": "Tests viral hepatitis serological markers, infectivity, and HDV co-infection, belongs in Medicine: Autoimmune & Viral Liver Diseases (Module 427)."
+  },
+  {
+    "id": 17483,
+    "fromModule": 478,
+    "toModule": 440,
+    "reason": "Tests antiphospholipid syndrome diagnostics (anticardiolipin antibodies, livedo reticularis, renal infarction), belongs in Medicine: Antiphospholipid Antibody Syndrome (Module 440)."
+  },
+  {
+    "id": 17485,
+    "fromModule": 478,
+    "toModule": 440,
+    "reason": "Tests antiphospholipid syndrome diagnostics (anticardiolipin antibodies, livedo reticularis, renal infarction), belongs in Medicine: Antiphospholipid Antibody Syndrome (Module 440)."
+  },
+  {
+    "id": 17491,
+    "fromModule": 412,
+    "toModule": 164,
+    "reason": "Tests target serum urate levels in chronic gout management, belongs in Pharmacology: Drugs for Gout (Module 164)."
+  },
+  {
+    "id": 17524,
+    "fromModule": 478,
+    "toModule": 437,
+    "reason": "Tests Behcet disease multisystem vasculitis with recurrent oral and genital ulcerations, belongs in Medicine: Small vessel vasculitis (Module 437)."
+  },
+  {
+    "id": 17545,
+    "fromModule": 452,
+    "toModule": 161,
+    "reason": "Tests thiazide diuretic metabolic side effects (hyperuricemia), belongs in Pharmacology: Cardiovascular Drugs (Module 161)."
+  },
+  {
+    "id": 17549,
+    "fromModule": 478,
+    "toModule": 441,
+    "reason": "Tests acute podagra and arthrocentesis for polarized light microscopy, belongs in Medicine: Rheumatoid Arthritis & Crystal Arthropathies (Module 441)."
+  },
+  {
+    "id": 17563,
+    "fromModule": 478,
+    "toModule": 576,
+    "reason": "Tests systemic juvenile idiopathic arthritis clinical manifestations, belongs in Pediatrics: Pediatric Rheumatology (Module 576)."
+  },
+  {
+    "id": 17576,
+    "fromModule": 476,
+    "toModule": 164,
+    "reason": "Tests uricosuric agent probenecid mechanism of action and contraindication in renal impairment, belongs in Pharmacology: Drugs for Gout & Hyperuricemia (Module 164)."
+  },
+  {
+    "id": 17592,
+    "fromModule": 478,
+    "toModule": 441,
+    "reason": "Tests Adult-onset Still disease swinging high-spiking fevers, salmon rash, and arthritis, belongs in Medicine: Rheumatoid Arthritis & Systemic Inflammatory Disorders (Module 441)."
+  },
+  {
+    "id": 17634,
+    "fromModule": 412,
+    "toModule": 262,
+    "reason": "Tests beta-blocker overdose clinical toxicology and glucagon therapy, belongs in Forensic Medicine: Toxicology (Module 262)."
+  },
+  {
+    "id": 17646,
+    "fromModule": 412,
+    "toModule": 446,
+    "reason": "Tests physical examination signs in chronic respiratory disease, belongs in Medicine: Pulmonary Function Tests & Signs (Module 446)."
+  },
+  {
+    "id": 17684,
+    "fromModule": 412,
+    "toModule": 455,
+    "reason": "Tests cardiac auscultatory findings, belongs in Medicine: Diagnosis of cardiovascular disorders (Module 455)."
+  },
+  {
+    "id": 17735,
+    "fromModule": 478,
+    "toModule": 442,
+    "reason": "Tests miliary tuberculosis disseminated lymphohematogenous spread, belongs in Medicine: Asthma & COPD / Tuberculosis (Module 442)."
+  },
+  {
+    "id": 17738,
+    "fromModule": 478,
+    "toModule": 442,
+    "reason": "Tests miliary tuberculosis disseminated lymphohematogenous spread, belongs in Medicine: Asthma & COPD / Tuberculosis (Module 442)."
+  },
+  {
+    "id": 17750,
+    "fromModule": 470,
+    "toModule": 443,
+    "reason": "Tests Mycoplasma pneumoniae atypical pneumonia with extrapulmonary manifestations, belongs in Medicine: Pneumonia (Module 443)."
+  },
+  {
+    "id": 17761,
+    "fromModule": 412,
+    "toModule": 444,
+    "reason": "Tests silicosis pneumoconiosis occupational lung disease, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis (Module 444)."
+  },
+  {
+    "id": 17763,
+    "fromModule": 476,
+    "toModule": 441,
+    "reason": "Tests rheumatoid lung disease and interstitial pulmonary fibrosis, belongs in Medicine: Rheumatoid Arthritis (Module 441)."
+  },
+  {
+    "id": 17774,
+    "fromModule": 454,
+    "toModule": 512,
+    "reason": "Tests genitourinary tuberculosis pathology and sterile pyuria, belongs in Surgery: Urology - Genitourinary Infections (Module 512)."
+  },
+  {
+    "id": 17777,
+    "fromModule": 452,
+    "toModule": 153,
+    "reason": "Tests CYP3A4 hepatic enzyme induction by rifampicin interacting with oral contraceptives, belongs in Pharmacology: General Pharmacology & Drug Interactions (Module 153)."
+  },
+  {
+    "id": 17829,
+    "fromModule": 412,
+    "toModule": 446,
+    "reason": "Tests physical examination signs in chronic respiratory disease, belongs in Medicine: Pulmonary Function Tests & Signs (Module 446)."
+  },
+  {
+    "id": 17865,
+    "fromModule": 478,
+    "toModule": 448,
+    "reason": "Tests Pancoast superior sulcus lung carcinoma producing Horner syndrome, belongs in Medicine: Neoplasms of the Lung (Module 448)."
+  },
+  {
+    "id": 17934,
+    "fromModule": 478,
+    "toModule": 448,
+    "reason": "Tests diagnostic thoracic imaging in persistent hemoptysis and suspected bronchogenic carcinoma, belongs in Medicine: Neoplasms of the Lung (Module 448)."
+  },
+  {
+    "id": 17940,
+    "fromModule": 476,
+    "toModule": 414,
+    "reason": "Tests growth hormone regulation and paradoxically suppressed GH in obesity, belongs in Medicine: Disorders of Anterior Pituitary (Module 414)."
+  },
+  {
+    "id": 17942,
+    "fromModule": 478,
+    "toModule": 449,
+    "reason": "Tests narcolepsy tetrad and isolated sleep paralysis, belongs in Medicine: Sleep Apnea & Sleep Disorders (Module 449)."
+  },
+  {
+    "id": 17977,
+    "fromModule": 452,
+    "toModule": 450,
+    "reason": "Tests class IV diffuse proliferative lupus nephritis histopathology and immunofluorescence, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 17989,
+    "fromModule": 452,
+    "toModule": 450,
+    "reason": "Tests hepatitis B-associated membranous nephropathy, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 17990,
+    "fromModule": 452,
+    "toModule": 450,
+    "reason": "Tests secondary causes and associations of renal vein thrombosis in nephrotic syndrome, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 17991,
+    "fromModule": 452,
+    "toModule": 450,
+    "reason": "Tests IgA nephropathy (Berger disease) presentation with recurrent hematuria, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 17994,
+    "fromModule": 454,
+    "toModule": 450,
+    "reason": "Tests acute tubular necrosis histopathology following cardiogenic shock, belongs in Medicine: Acute Kidney Injury (Module 450)."
+  },
+  {
+    "id": 17997,
+    "fromModule": 452,
+    "toModule": 450,
+    "reason": "Tests quantitative definition of oliguria (<400 mL/24 hr) in acute kidney injury, belongs in Medicine: Acute Kidney Injury (Module 450)."
+  },
+  {
+    "id": 18008,
+    "fromModule": 454,
+    "toModule": 450,
+    "reason": "Tests MPGN nephritic-nephrotic syndrome histopathology, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 18011,
+    "fromModule": 478,
+    "toModule": 450,
+    "reason": "Tests post-streptococcal glomerulonephritis nephritic syndrome, belongs in Medicine: Acute Kidney Injury & Glomerular Disorders (Module 450)."
+  },
+  {
+    "id": 18016,
+    "fromModule": 452,
+    "toModule": 450,
+    "reason": "Tests class IV diffuse proliferative lupus nephritis histopathology and immunofluorescence, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 18019,
+    "fromModule": 452,
+    "toModule": 215,
+    "reason": "Tests Plasmodium falciparum blackwater fever and acute tubular necrosis, belongs in Microbiology: Protozoology - Malaria (Module 215)."
+  },
+  {
+    "id": 18021,
+    "fromModule": 454,
+    "toModule": 452,
+    "reason": "Tests acute cellular and antibody-mediated allograft rejection surveillance, belongs in Medicine: Renal Replacement Therapy (Module 452)."
+  },
+  {
+    "id": 18027,
+    "fromModule": 454,
+    "toModule": 450,
+    "reason": "Tests primary membranous nephropathy anti-PLA2R autoantibody diagnostics, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 18036,
+    "fromModule": 454,
+    "toModule": 574,
+    "reason": "Tests alpha-galactosidase A deficiency (Fabry disease) lysosomal storage, belongs in Pediatrics: Inborn Errors of Metabolism (Module 574)."
+  },
+  {
+    "id": 18042,
+    "fromModule": 476,
+    "toModule": 427,
+    "reason": "Tests nucleoside/nucleotide reverse transcriptase inhibitor therapy for chronic hepatitis B, belongs in Medicine: Autoimmune & Viral Liver Diseases (Module 427)."
+  },
+  {
+    "id": 18044,
+    "fromModule": 476,
+    "toModule": 216,
+    "reason": "Tests Opisthorchis viverrini liver fluke infection and cholangiocarcinogenesis, belongs in Microbiology: Helminthology - Trematodes (Module 216)."
+  },
+  {
+    "id": 18051,
+    "fromModule": 476,
+    "toModule": 426,
+    "reason": "Tests histopathological manifestations of alcoholic liver disease, belongs in Medicine: Alcoholic Liver Diseases (Module 426)."
+  },
+  {
+    "id": 18062,
+    "fromModule": 452,
+    "toModule": 458,
+    "reason": "Tests cardiovascular physical examination differential of continuous murmurs, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 18065,
+    "fromModule": 452,
+    "toModule": 483,
+    "reason": "Tests Sepsis-3 diagnostic criteria using sequential organ failure assessment (SOFA), belongs in Surgery: Shock & Critical Care (Module 483)."
+  },
+  {
+    "id": 18080,
+    "fromModule": 476,
+    "toModule": 427,
+    "reason": "Tests viral hepatitis serological markers, infectivity, and HDV co-infection, belongs in Medicine: Autoimmune & Viral Liver Diseases (Module 427)."
+  },
+  {
+    "id": 18082,
+    "fromModule": 452,
+    "toModule": 539,
+    "reason": "Tests antihypertensive therapy in pregnancy (methyldopa), belongs in Obstetrics: Hypertensive Disorders of Pregnancy (Module 539)."
+  },
+  {
+    "id": 18102,
+    "fromModule": 452,
+    "toModule": 458,
+    "reason": "Tests antithrombotic regimens following bioprosthetic valve replacement, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 18106,
+    "fromModule": 452,
+    "toModule": 657,
+    "reason": "Tests complications of radiotherapy to salivary glands (radiation xerostomia), belongs in Radiology: Radiotherapy Principles (Module 657)."
+  },
+  {
+    "id": 18125,
+    "fromModule": 454,
+    "toModule": 513,
+    "reason": "Tests uric acid nephrolithiasis and urinary alkalinization, belongs in Surgery: Urology - Urinary Calculi (Module 513)."
+  },
+  {
+    "id": 18135,
+    "fromModule": 454,
+    "toModule": 514,
+    "reason": "Tests von Hippel-Lindau disease renal cysts and renal cell carcinoma, belongs in Surgery: Urology - Genitourinary Tumours (Module 514)."
+  },
+  {
+    "id": 18143,
+    "fromModule": 454,
+    "toModule": 108,
+    "reason": "Tests insulin regulation of GLUT4 translocation in skeletal muscle and adipose tissue, belongs in Physiology: Endocrine Physiology (Module 108)."
+  },
+  {
+    "id": 18144,
+    "fromModule": 454,
+    "toModule": 106,
+    "reason": "Tests secondary active transport via sodium-glucose cotransporter (SGLT2), belongs in Physiology: Renal Physiology (Module 106)."
+  },
+  {
+    "id": 18146,
+    "fromModule": 454,
+    "toModule": 483,
+    "reason": "Tests cardiopulmonary resuscitation (CPR) and AED deployment algorithms, belongs in Surgery: Shock, Resuscitation & Trauma (Module 483)."
+  },
+  {
+    "id": 18150,
+    "fromModule": 454,
+    "toModule": 435,
+    "reason": "Tests post-resection malabsorption syndromes, belongs in Medicine: Malabsorption Syndrome (Module 435)."
+  },
+  {
+    "id": 18162,
+    "fromModule": 478,
+    "toModule": 479,
+    "reason": "Tests acute symptomatic anemia and transfusion thresholds, belongs in Medicine: Mixed / Miscellaneous Topics (Module 479)."
+  },
+  {
+    "id": 18185,
+    "fromModule": 412,
+    "toModule": 455,
+    "reason": "Tests baseline surface electrocardiographic interpretation, belongs in Medicine: Diagnosis of cardiovascular disorders (Module 455)."
+  },
+  {
+    "id": 18232,
+    "fromModule": 412,
+    "toModule": 455,
+    "reason": "Tests electrophysiologic HV interval measurement, belongs in Medicine: Diagnosis of cardiovascular disorders (Module 455)."
+  },
+  {
+    "id": 18237,
+    "fromModule": 412,
+    "toModule": 457,
+    "reason": "Tests ventricular bigeminy ectopy on electrocardiography, belongs in Medicine: Ventricular Arrhythmias and Heart Blocks (Module 457)."
+  },
+  {
+    "id": 18238,
+    "fromModule": 412,
+    "toModule": 567,
+    "reason": "Tests tetralogy of Fallot cyanotic spells and boot-shaped heart on CXR, belongs in Pediatrics: Pediatric Cardiology (Module 567)."
+  },
+  {
+    "id": 18266,
+    "fromModule": 412,
+    "toModule": 458,
+    "reason": "Tests vasospastic peripheral vascular disorders (Raynaud phenomenon), belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 18352,
+    "fromModule": 452,
+    "toModule": 457,
+    "reason": "Tests secondary prevention of sudden cardiac death with ICD, belongs in Medicine: Ventricular Arrhythmias and Heart Blocks (Module 457)."
+  },
+  {
+    "id": 18353,
+    "fromModule": 412,
+    "toModule": 610,
+    "reason": "Tests wrist ganglion cyst anatomy and clinical diagnosis, belongs in Orthopedics: Hand & Wrist (Module 610)."
+  },
+  {
+    "id": 18361,
+    "fromModule": 412,
+    "toModule": 459,
+    "reason": "Tests anterior wall myocardial infarction ECG localization (V1-V4), belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis (Module 459)."
+  },
+  {
+    "id": 18384,
+    "fromModule": 478,
+    "toModule": 458,
+    "reason": "Tests atheroembolic renal disease / cholesterol crystal embolization post-cardiac intervention, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 18385,
+    "fromModule": 412,
+    "toModule": 450,
+    "reason": "Tests systemic features and complications of nephrotic syndrome, belongs in Medicine: Acute Kidney Injury & Glomerular Diseases (Module 450)."
+  },
+  {
+    "id": 18390,
+    "fromModule": 412,
+    "toModule": 262,
+    "reason": "Tests acute iron poisoning clinical stages, belongs in Forensic Medicine: Toxicology (Module 262)."
+  },
+  {
+    "id": 18434,
+    "fromModule": 476,
+    "toModule": 426,
+    "reason": "Tests chronic pancreatitis etiology and TIGAR-O classification, belongs in Medicine: Alcoholic & Pancreatic Diseases (Module 426)."
+  },
+  {
+    "id": 18510,
+    "fromModule": 412,
+    "toModule": 109,
+    "reason": "Tests cortical retinotopic organization of the primary visual cortex in the occipital lobe, belongs in Physiology: Central Nervous System (Module 109)."
+  },
+  {
+    "id": 18513,
+    "fromModule": 452,
+    "toModule": 458,
+    "reason": "Tests anticoagulation reversal and bridging in embolic stroke with mechanical valve, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 18524,
+    "fromModule": 478,
+    "toModule": 464,
+    "reason": "Tests progressive insidious memory decline in Alzheimer's dementia, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma (Module 464)."
+  },
+  {
+    "id": 18529,
+    "fromModule": 412,
+    "toModule": 473,
+    "reason": "Tests anterior cerebral artery stroke cortical localization (contralateral leg > arm weakness), belongs in Medicine: Cerebrovascular Disease (Module 473)."
+  },
+  {
+    "id": 18567,
+    "fromModule": 476,
+    "toModule": 611,
+    "reason": "Tests steroid-induced avascular necrosis of the femoral head, belongs in Orthopedics: Hip & Femur (Module 611)."
+  },
+  {
+    "id": 18577,
+    "fromModule": 476,
+    "toModule": 448,
+    "reason": "Tests lung neoplasm invading the phrenic nerve causing diaphragmatic paralysis, belongs in Medicine: Neoplasms of the Lung (Module 448)."
+  },
+  {
+    "id": 18629,
+    "fromModule": 478,
+    "toModule": 539,
+    "reason": "Tests HELLP syndrome complications in severe preeclampsia, belongs in Obstetrics: Hypertensive Disorders of Pregnancy (Module 539)."
+  },
+  {
+    "id": 18640,
+    "fromModule": 478,
+    "toModule": 573,
+    "reason": "Tests pediatric hemoglobinopathy diagnostic confirmation via hemoglobin electrophoresis, belongs in Pediatrics: Pediatric Hematology (Module 573)."
+  },
+  {
+    "id": 18657,
+    "fromModule": 412,
+    "toModule": 262,
+    "reason": "Tests acute lithium toxicity and dialytic clearance, belongs in Forensic Medicine: Toxicology (Module 262)."
+  },
+  {
+    "id": 18674,
+    "fromModule": 454,
+    "toModule": 458,
+    "reason": "Tests fibromuscular dysplasia renovascular hypertension in young females, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 18676,
+    "fromModule": 476,
+    "toModule": 624,
+    "reason": "Tests Zenker diverticulum / pharyngeal pouch clinical presentation, belongs in ENT: Pharynx & Esophagus (Module 624)."
+  },
+  {
+    "id": 18702,
+    "fromModule": 478,
+    "toModule": 441,
+    "reason": "Tests fibromyalgia chronic widespread musculoskeletal pain and central sensitization, belongs in Medicine: Rheumatoid Arthritis & Pain Syndromes (Module 441)."
+  },
+  {
+    "id": 18704,
+    "fromModule": 470,
+    "toModule": 618,
+    "reason": "Tests cerebellopontine angle tumor (acoustic neuroma) vestibular and cochlear signs, belongs in ENT: Otology - Inner Ear (Module 618)."
+  },
+  {
+    "id": 18705,
+    "fromModule": 470,
+    "toModule": 507,
+    "reason": "Tests malignant brain tumors (glioblastoma multiforme) presenting with seizures, belongs in Surgery: Neurosurgery (Module 507)."
+  },
+  {
+    "id": 18707,
+    "fromModule": 470,
+    "toModule": 219,
+    "reason": "Tests dengue viral infection pathophysiology and hemorrhagic manifestations, belongs in Microbiology: RNA Viruses (Module 219)."
+  },
+  {
+    "id": 18711,
+    "fromModule": 470,
+    "toModule": 218,
+    "reason": "Tests infectious mononucleosis (EBV) pharyngitis and post-antibiotic rash, belongs in Microbiology: DNA Viruses - Herpesviruses (Module 218)."
+  },
+  {
+    "id": 18712,
+    "fromModule": 470,
+    "toModule": 473,
+    "reason": "Tests acute cerebellar hemorrhage clinical features and mass effect, belongs in Medicine: Cerebrovascular Disease (Module 473)."
+  },
+  {
+    "id": 18716,
+    "fromModule": 470,
+    "toModule": 489,
+    "reason": "Tests achalasia cardia management with endoscopic intrasphincteric botulinum toxin, belongs in Surgery: Esophagus (Module 489)."
+  },
+  {
+    "id": 18719,
+    "fromModule": 470,
+    "toModule": 262,
+    "reason": "Tests carbon monoxide poisoning toxicology and carboxyhemoglobinemia, belongs in Forensic Medicine: Toxicology (Module 262)."
+  },
+  {
+    "id": 18720,
+    "fromModule": 452,
+    "toModule": 413,
+    "reason": "Tests pheochromocytoma anatomical localization with 123I/131I-MIBG scintigraphy, belongs in Medicine: General Principles of Endocrinology (Module 413)."
+  },
+  {
+    "id": 18724,
+    "fromModule": 470,
+    "toModule": 458,
+    "reason": "Tests acute aortic dissection with retrograde aortic regurgitation, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 18725,
+    "fromModule": 470,
+    "toModule": 580,
+    "reason": "Tests Wilms tumor clinical presentation in children, belongs in Pediatrics: Pediatric Oncology (Module 580)."
+  },
+  {
+    "id": 18727,
+    "fromModule": 470,
+    "toModule": 262,
+    "reason": "Tests carbon monoxide poisoning toxicology and carboxyhemoglobinemia, belongs in Forensic Medicine: Toxicology (Module 262)."
+  },
+  {
+    "id": 18731,
+    "fromModule": 470,
+    "toModule": 529,
+    "reason": "Tests progestin-only oral contraceptive mechanism of action, belongs in Obstetrics & Gynecology: Contraception (Module 529)."
+  },
+  {
+    "id": 18757,
+    "fromModule": 470,
+    "toModule": 473,
+    "reason": "Tests cerebral venous sinus thrombosis presenting with severe nocturnal headache and seizures, belongs in Medicine: Cerebrovascular Disease (Module 473)."
+  },
+  {
+    "id": 18763,
+    "fromModule": 470,
+    "toModule": 260,
+    "reason": "Tests heat stroke / environmental hyperthermia pathophysiology, belongs in Forensic Medicine: Physical Injuries & Heat (Module 260)."
+  },
+  {
+    "id": 18764,
+    "fromModule": 470,
+    "toModule": 473,
+    "reason": "Tests vertebrobasilar insufficiency transient ischemic attacks, belongs in Medicine: Cerebrovascular Disease (Module 473)."
+  },
+  {
+    "id": 18768,
+    "fromModule": 470,
+    "toModule": 474,
+    "reason": "Tests herpes simplex encephalitis diagnosis and intravenous acyclovir therapy, belongs in Medicine: Meningitis & Encephalitis (Module 474)."
+  },
+  {
+    "id": 18780,
+    "fromModule": 452,
+    "toModule": 471,
+    "reason": "Tests subacute combined degeneration of the spinal cord dorsal and lateral columns, belongs in Medicine: Spinal Cord Disorders (Module 471)."
+  },
+  {
+    "id": 18781,
+    "fromModule": 412,
+    "toModule": 109,
+    "reason": "Tests hyperreflexia and upper motor neuron lesion signs, belongs in Physiology: Central Nervous System (Module 109)."
+  },
+  {
+    "id": 18792,
+    "fromModule": 412,
+    "toModule": 109,
+    "reason": "Tests extensor plantar response (Babinski sign) neurophysiology, belongs in Physiology: Central Nervous System (Module 109)."
+  },
+  {
+    "id": 18811,
+    "fromModule": 470,
+    "toModule": 414,
+    "reason": "Tests pituitary macroadenoma suprasellar extension and bitemporal visual field deficits, belongs in Medicine: Disorders of Anterior Pituitary (Module 414)."
+  },
+  {
+    "id": 18836,
+    "fromModule": 412,
+    "toModule": 472,
+    "reason": "Tests Bell's palsy lower motor neuron seventh cranial nerve palsy, belongs in Medicine: Cranial Nerve Disorders (Module 472)."
+  },
+  {
+    "id": 18849,
+    "fromModule": 412,
+    "toModule": 455,
+    "reason": "Tests hypothermia electrocardiographic changes (Osborn / J wave), belongs in Medicine: Diagnosis of cardiovascular disorders (Module 455)."
+  },
+  {
+    "id": 18888,
+    "fromModule": 470,
+    "toModule": 474,
+    "reason": "Tests bacterial meningitis empiric antibiotic regimen, belongs in Medicine: Meningitis & Encephalitis (Module 474)."
+  },
+  {
+    "id": 18901,
+    "fromModule": 412,
+    "toModule": 121,
+    "reason": "Tests analytical techniques in molecular medicine (NMR spectroscopy), belongs in Biochemistry: Biochemical Techniques (Module 121)."
+  },
+  {
+    "id": 18917,
+    "fromModule": 454,
+    "toModule": 122,
+    "reason": "Tests glucose sensing and transport into pancreatic beta cells via GLUT2, belongs in Biochemistry: Carbohydrate Metabolism (Module 122)."
+  },
+  {
+    "id": 18918,
+    "fromModule": 478,
+    "toModule": 124,
+    "reason": "Tests acute intermittent porphyria porphobilinogen deaminase defect and abdominal crises, belongs in Biochemistry: Heme Synthesis & Porphyrias (Module 124)."
+  },
+  {
+    "id": 18955,
+    "fromModule": 478,
+    "toModule": 479,
+    "reason": "Tests acute symptomatic anemia and transfusion thresholds, belongs in Medicine: Mixed / Miscellaneous Topics (Module 479)."
+  },
+  {
+    "id": 18963,
+    "fromModule": 478,
+    "toModule": 609,
+    "reason": "Tests tuberculous spondylitis (Pott disease) of the spine, belongs in Orthopedics: Bone & Joint Tuberculosis (Module 609)."
+  },
+  {
+    "id": 18983,
+    "fromModule": 476,
+    "toModule": 429,
+    "reason": "Tests Wilson disease prognosis and Nazer index score, belongs in Medicine: Hemochromatosis and Wilsons Disease (Module 429)."
+  },
+  {
+    "id": 18992,
+    "fromModule": 476,
+    "toModule": 412,
+    "reason": "Tests systemic electrolyte disturbances and shifts causing hypokalemia, belongs in Medicine: Acid-Base Disorders (Module 412)."
+  },
+  {
+    "id": 18996,
+    "fromModule": 476,
+    "toModule": 475,
+    "reason": "Tests B-cell non-Hodgkin lymphoma cytogenetics, belongs in Medicine: Plasma Cell Disorders & Lymphomas (Module 475)."
+  },
+  {
+    "id": 18997,
+    "fromModule": 476,
+    "toModule": 475,
+    "reason": "Tests B-cell non-Hodgkin lymphoma cytogenetics, belongs in Medicine: Plasma Cell Disorders & Lymphomas (Module 475)."
+  },
+  {
+    "id": 19008,
+    "fromModule": 476,
+    "toModule": 475,
+    "reason": "Tests B-cell non-Hodgkin lymphoma cytogenetics, belongs in Medicine: Plasma Cell Disorders & Lymphomas (Module 475)."
+  },
+  {
+    "id": 19023,
+    "fromModule": 476,
+    "toModule": 475,
+    "reason": "Tests Burkitt lymphoma t(8;14) c-myc translocation, belongs in Medicine: Plasma Cell Disorders & Lymphomas (Module 475)."
+  },
+  {
+    "id": 19034,
+    "fromModule": 478,
+    "toModule": 435,
+    "reason": "Tests endoscopic bidirectional evaluation for occult gastrointestinal malignancy and malabsorption, belongs in Medicine: Malabsorption Syndrome (Module 435)."
+  },
+  {
+    "id": 19035,
+    "fromModule": 478,
+    "toModule": 423,
+    "reason": "Tests WDHA syndrome (VIPoma) features of watery diarrhea, hypokalemia, and achlorhydria, belongs in Medicine: Reproductive Endocrinology & Neuroendocrine Tumors (Module 423)."
+  },
+  {
+    "id": 19036,
+    "fromModule": 478,
+    "toModule": 458,
+    "reason": "Tests acute lower extremity arterial occlusion from macroemboli, belongs in Medicine: Vascular Heart Diseases (Module 458)."
+  },
+  {
+    "id": 19040,
+    "fromModule": 478,
+    "toModule": 473,
+    "reason": "Tests vertebral artery dissection evaluation with neurovascular imaging, belongs in Medicine: Cerebrovascular Disease (Module 473)."
+  },
+  {
+    "id": 19042,
+    "fromModule": 478,
+    "toModule": 453,
+    "reason": "Tests drug-induced retroperitoneal fibrosis (methysergide), belongs in Medicine: Cysts and Inherited Disorders of the Kidney (Module 453)."
+  },
+  {
+    "id": 19044,
+    "fromModule": 478,
+    "toModule": 424,
+    "reason": "Tests bone densitometry in secondary osteopenia and amenorrhea, belongs in Medicine: Disorders of Parathyroid and Calcium (Module 424)."
+  },
+  {
+    "id": 19045,
+    "fromModule": 478,
+    "toModule": 428,
+    "reason": "Tests hepatitis B oncogenesis leading to hepatocellular carcinoma, belongs in Medicine: Complications of Cirrhosis (Module 428)."
+  },
+  {
+    "id": 19046,
+    "fromModule": 478,
+    "toModule": 214,
+    "reason": "Tests serological diagnosis of acute zoonotic infections, belongs in Microbiology: Spirochetes / Serology (Module 214)."
+  },
+  {
+    "id": 19047,
+    "fromModule": 478,
+    "toModule": 110,
+    "reason": "Tests physiology of mid-cycle LH surge triggering ovulation, belongs in Physiology: Endocrine & Reproduction (Module 110)."
+  },
+  {
+    "id": 19048,
+    "fromModule": 478,
+    "toModule": 423,
+    "reason": "Tests gastrinoma (Zollinger-Ellison syndrome) gastrin secretion by G cells / islet cells, belongs in Medicine: Neuroendocrine Tumors (Module 423)."
+  },
+  {
+    "id": 19050,
+    "fromModule": 478,
+    "toModule": 455,
+    "reason": "Tests cardioembolic stroke evaluation using transesophageal echocardiography, belongs in Medicine: Diagnosis of cardiovascular disorders (Module 455)."
+  },
+  {
+    "id": 19051,
+    "fromModule": 478,
+    "toModule": 483,
+    "reason": "Tests point-of-care viscoelastic coagulation assessment (thromboelastography) in acute trauma, belongs in Surgery: Shock, Resuscitation & Trauma (Module 483)."
+  }
+]

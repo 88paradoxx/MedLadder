@@ -1,0 +1,398 @@
+[
+  {
+    "id": 26231,
+    "fromModule": 637,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 25896,
+    "fromModule": 638,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 26632,
+    "fromModule": 638,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 26019,
+    "fromModule": 641,
+    "toModule": 639,
+    "reason": "Tests eczematous dermatoses (Atopic dermatitis, Contact dermatitis, Seborrheic dermatitis), belongs in Dermatology: Dermatitis (Module 639)."
+  },
+  {
+    "id": 26220,
+    "fromModule": 641,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 26064,
+    "fromModule": 641,
+    "toModule": 639,
+    "reason": "Tests eczematous dermatoses (Atopic dermatitis, Contact dermatitis, Seborrheic dermatitis), belongs in Dermatology: Dermatitis (Module 639)."
+  },
+  {
+    "id": 17326,
+    "fromModule": 641,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 25848,
+    "fromModule": 641,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 26516,
+    "fromModule": 641,
+    "toModule": 650,
+    "reason": "Tests Treponema pallidum syphilis stages, serology, and penicillin therapy, belongs in Dermatology: Syphilis (Module 650)."
+  },
+  {
+    "id": 26150,
+    "fromModule": 641,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 26195,
+    "fromModule": 642,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26179,
+    "fromModule": 642,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26209,
+    "fromModule": 643,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26259,
+    "fromModule": 644,
+    "toModule": 640,
+    "reason": "Tests urticarial vascular reactions and hereditary angioedema mechanisms, belongs in Dermatology: Urticaria & Angioedema (Module 640)."
+  },
+  {
+    "id": 26035,
+    "fromModule": 644,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26070,
+    "fromModule": 644,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26363,
+    "fromModule": 645,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26347,
+    "fromModule": 646,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26490,
+    "fromModule": 649,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26481,
+    "fromModule": 649,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26494,
+    "fromModule": 649,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26118,
+    "fromModule": 651,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26572,
+    "fromModule": 652,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26056,
+    "fromModule": 653,
+    "toModule": 639,
+    "reason": "Tests eczematous dermatoses (Atopic dermatitis, Contact dermatitis, Seborrheic dermatitis), belongs in Dermatology: Dermatitis (Module 639)."
+  },
+  {
+    "id": 26375,
+    "fromModule": 653,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 28291,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28275,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28325,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28322,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28302,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28320,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28472,
+    "fromModule": 688,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28277,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28293,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28292,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28297,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28295,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28433,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28192,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28338,
+    "fromModule": 692,
+    "toModule": 704,
+    "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+  },
+  {
+    "id": 28351,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28345,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28790,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28826,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28189,
+    "fromModule": 693,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28794,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28413,
+    "fromModule": 697,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28734,
+    "fromModule": 698,
+    "toModule": 714,
+    "reason": "Tests intellectual disability (IQ classification) and specific learning disorders (Dyslexia, Dyscalculia), belongs in Psychiatry: Intellectual Disability & Specific Learning Disorders (Module 714)."
+  },
+  {
+    "id": 28323,
+    "fromModule": 698,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28327,
+    "fromModule": 698,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28832,
+    "fromModule": 698,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28503,
+    "fromModule": 699,
+    "toModule": 700,
+    "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+  },
+  {
+    "id": 28384,
+    "fromModule": 699,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28510,
+    "fromModule": 699,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28379,
+    "fromModule": 699,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28508,
+    "fromModule": 699,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28267,
+    "fromModule": 702,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28610,
+    "fromModule": 703,
+    "toModule": 707,
+    "reason": "Tests dissociative disorders (Dissociative amnesia, Dissociative fugue, DID, Depersonalization), belongs in Psychiatry: Dissociative Disorders (Module 707)."
+  },
+  {
+    "id": 28595,
+    "fromModule": 705,
+    "toModule": 702,
+    "reason": "Tests obsessive-compulsive spectrum disorders (OCD, ERP therapy, Body dysmorphic disorder, Trichotillomania), belongs in Psychiatry: Obsessive-Compulsive and Related Disorders (Module 702)."
+  },
+  {
+    "id": 28477,
+    "fromModule": 708,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28407,
+    "fromModule": 708,
+    "toModule": 709,
+    "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+  },
+  {
+    "id": 28482,
+    "fromModule": 708,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28311,
+    "fromModule": 714,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28739,
+    "fromModule": 716,
+    "toModule": 714,
+    "reason": "Tests intellectual disability (IQ classification) and specific learning disorders (Dyslexia, Dyscalculia), belongs in Psychiatry: Intellectual Disability & Specific Learning Disorders (Module 714)."
+  },
+  {
+    "id": 28270,
+    "fromModule": 718,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 29034,
+    "fromModule": 735,
+    "toModule": 720,
+    "reason": "Tests X-ray tube physics, Bremsstrahlung radiation, Heel effect, and CR/DR digital detectors, belongs in Radiology: Fundamentals of Imaging (Module 720)."
+  }
+]

@@ -1,0 +1,1195 @@
+
+======================================================
+MODULE 609: History and Ethical Aspects of Anaesthesia (21 questions)
+======================================================
+[ID: 9223] A 35 years old male patient came to the emergency department with the complaints of severe abdominal pain, vomiting sinc
+[ID: 18963] A 34 year old woman complains of pain in the upper back. On examination, there is tenderness over the D5 spine. MRI show
+[ID: 24589] A 50-year-old patient is being planned for hernia repair. He is a known smoker with history of 20 pack years. His invest
+[ID: 24590] While planning for bariatric surgery, which of the following history given by the patient, points towards the patient ha
+[ID: 24597] A 25 years old patient with the following ECG, history of repeated syncope management is<br><img class="w-100" style="he
+[ID: 24598] Which of the factors in adults listed below is the strongest independent predictor of postoperative nausea and vomiting 
+[ID: 24621] "Chloroform a lareine", a technique was invented by ?
+[ID: 24800] A 37-year-old man with myasthenia gravis arrives in the emergency room confused and agitated after a 2-day history of we
+[ID: 24878] A 65-year-old patient with a history of chronic obstructive pulmonary disease and coronary artery disease (CAD) undergoe
+[ID: 25104] A 30-year-old male is posted for revision laparotomy surgery. He gives a history of jaundice following the previous surg
+[ID: 25127] A 36-year-old woman with a history of hiatal hernia and acid reflux is undergoing a laparoscopic cholecystectomy under g
+[ID: 25201] You are planning to use Thiopentone for induction of a 30-year-old patient posted for hernia repair. The patient has fam
+[ID: 25202] A 20-year-old college basketball player with a history of prolonged QT syndrome presents for an inguinal hernia repair. 
+[ID: 25203] A 60 year old male with history hypertension, on propranolol, undergoes elective cholecystectomy. The patient is anaesth
+[ID: 25274] A patient comes to the operating room with history of poly trauma and blood pressure of 80/60 mm Hg. The induction agent
+[ID: 25286] A 30-year-old patient has presented with acute abdominal pain. He was diagnosed of acute appendicitis and is planned for
+[ID: 25294] A 50-year-old male with a history of coronary disease and mild aortic stenosis is scheduled for knee replacement. He is 
+[ID: 25301] A 38 years old male with a history of road traffic accident was found to have an subdural hematoma on MRI brain with sig
+[ID: 25306] A child with history of flame burns is posted for burns dressing under general anesthesia. What would be the induction a
+[ID: 25514] A patient has a history of an allergic reaction to a local anesthetic but does not recall the name. Which of the followi
+[ID: 25582] An 85-year-old man with no previous medical history except for cataracts is undergoing a transurethral resection of the 
+
+======================================================
+MODULE 610: Preoperative Evaluation (24 questions)
+======================================================
+[ID: 16218] A 38 year old athlete has pain on abduction of her arm, particularly when resisted. Which tendon pathology is affected? 
+[ID: 16464] A professional tennis player presents with shoulder pains especially whilst serving the ball. He has limited passive and
+[ID: 17375] A 67 year old woman has neck pains and occipital headaches for 2 years. She is referred to the neurology outpatients for
+[ID: 18353] A 20 year old male patient presented to OPD with the given presentation, he reports fluctuation in size of the swelling,
+[ID: 24591] Match ASA physical status classification.
+[ID: 24623] For elective procedures, an anesthesia provider must obtain informed and preferably written consent
+[ID: 24624] In preoperative assessment of patients, physical activity is graded in terms of metabolic equivalents (METs). The value 
+[ID: 24626] Which surgical procedure is contraindicated in a patient with a fibroma and moderate to severe heart disease?
+[ID: 24627] Which of the following is the drug of choice for preoperative antibiotic prophylaxis in a patient undergoing cardiac sur
+[ID: 24628] A patient scheduled for elective surgery after 5 days. Currently he is taking aspirin, enalapril, metoprolol and multivi
+[ID: 24629] Which of the following is the most suitable replacement fluid for a 3-year-old, 14-kg child undergoing repair of clubfee
+[ID: 24632] During a pre-anesthetic evaluation, a patient is asked to open their mouth and protrude their tongue without phonating. 
+[ID: 24633] In a 45-year-old patient undergoing a preoperative assessment for a surgical procedure, which Mallampati classification 
+[ID: 24638] The atropine is added to neostigmine to?
+[ID: 24639] While evaluating a patient prior to administering anesthesia, examination of the oral cavity is essential. The image sho
+[ID: 24732] Airway assessment of the patient preoperatively determines or helps in identification of airway difficulties. The given 
+[ID: 24946] A 45-year-old patient undergoing surgery was administered 85 mg of rocuronium to induce anesthesia, but the induction fa
+[ID: 24954] A trauma patient with both bone fractures of the right leg is planned for tibial nailing. He is a known asthmatic on reg
+[ID: 25057] An end stage renal disease patient has been scheduled for renal transplant. He is on thrice weekly hemodialysis. His blo
+[ID: 25058] An end stage renal disease patient has been scheduled for renal transplant. He is on thrice weekly hemodialysis. His blo
+[ID: 25407] A 50 years old male patient was evaluated for refractory hypertension and was diagnosed as pheochromocytoma. He was plan
+[ID: 25580] 30-year-old female patient underwent left femur intramedullary nailing under spinal anesthesia. After 2 days you are con
+[ID: 25581] A 28 year old male patient receives a lumbar epidural block with 2% lignocaine for inguinal hernia. Three hours after su
+[ID: 25603] Chronic pain indications for insertion of a spinal cord stimulator include all of the following, except
+
+======================================================
+MODULE 611: CNS and CVS Monitoring in Anaesthesia (30 questions)
+======================================================
+[ID: 18567] After chronic use of steroids severe pain in right hip with immobility is due to
+[ID: 24592] Pre oxygenation replaces the nitrogen in the functional residual volume with oxygen. This can achieved by
+[ID: 24593] Which of the following opioid and active metabolite pairs are incorrectly matched?
+[ID: 24596] When compared to a cylinder manifold, a vacuum-insulated evaporator (VIE) is the most economical way to store and supply
+[ID: 24619] Most commonly chosen leads for monitoring patients during perioperative period:
+[ID: 24643] While monitoring a patient for return of neuromuscular function after using rocuronium, you notice the patient has regai
+[ID: 24644] The arterial pressure transducer is zeroed at the level of:
+[ID: 24645] All of the given are indications for the use of the device EXCEPT:<br><img class="w-100" style="height:auto; display:blo
+[ID: 24647] The given image is modality of neuromonitoring, that helps in estimating the depth of anaesthesia administered to a pati
+[ID: 24648] You are inserting a pulmonary artery catheter in a patient. The pressure waveform while floating it reads 24/14 mmHg. Wh
+[ID: 24649] Which of the following is most likely to be associated with a falsely elevated Sao2 as measured by pulse oximetry (dual 
+[ID: 24650] Which of the following is most likely to be associated with a falsely elevated SaO2 as measured by pulse oximeter.
+[ID: 24651] Identify the correct relationship between the cerebral perfusion pressure (CPP), mean arterial pressure (MAP), intracran
+[ID: 24654] Which of the following is not a disadvantage of the given type of capnography monitoring?<br><img class="w-100" style="h
+[ID: 24655] The capnography below will be seen in which of the following situations?<br><img class="w-100" style="height:auto; displ
+[ID: 24656] A 30-year-old male patient was intubated for surgery by a final year resident. Which of the following is the best method
+[ID: 24657] The end of preoxygenation can be determined by:
+[ID: 24659] According ASA standards of monitoring, the following monitors are mandatory except
+[ID: 24688] You are an intern posted in an OT, you are asked to identify the marked arrow<img class="w-100" style="height:auto; disp
+[ID: 24826] Which of the following are components of High-Quality CPR?<br>1: Chest compression at a rate of 100-120/min<br>2: Breath
+[ID: 24879] Which of the following signs and symptoms is NOT associated with amniotic fluid embolism?
+[ID: 24880] Systemic blood pressure measurements at what minimum intervals are recommended by the ASA under anaesthesia?
+[ID: 24941] Administration of vecuronium during spinal surgery may interfere with monitoring of
+[ID: 25126] During cervical spine surgery for the resection of an intradural mass, the patient begins to cough. The concentration of
+[ID: 25138] Assertion(A): The desflurane vaporizer needs electricity to ensure delivery of inhalational agent.<br> Reason(R): Desflu
+[ID: 25427] Regarding the following image, match the following.<br><img class="w-100" style="height:auto; display:block; vertical-al
+[ID: 25544] Tumescent anesthesia is related to:
+[ID: 25648] The image given below shows neuromuscular monitoring of the patient after anesthesia. What is the most used nerve for mo
+[ID: 25662] The picture demonstrates neuromuscular monitoring. Identify the peripheral nerve stimulated:<br><img class="w-100" style
+[ID: 25706] A patient in ICU was on invasive monitoring with intra-arterial cannulation through right radial artery for last 3 days.
+
+======================================================
+MODULE 612: Respiratory Monitoring in Anaesthesia (16 questions)
+======================================================
+[ID: 24620] You are planning an elective cesarean section for a patient with fetal breech. The patient falls under:
+[ID: 24652] While doing a subclavian venous catheterization, the patient suddenly desaturated and on examination of the chest, there
+[ID: 24661] Side effect of dexmedetomidine is?
+[ID: 24662] Clinical effects of Dexmedetomidine are all except?
+[ID: 24670] Which of the following patients is LEAST likely to develop retinopathy of prematurity (ROP)?
+[ID: 24672] A 60-year-old patient undergoes a midline laparotomy for intestinal obstruction. All of the following respiratory effect
+[ID: 24678] 1 kPa is approximately equivalent to:
+[ID: 24680] A 7-week-old male infant is admitted to the pediatric intensive care unit (ICU) with a bowel obstruction. His laboratory
+[ID: 24681] A premature male neonate born at 34 weeks of gestation is scheduled to undergo emergency repair of a left-sided diaphrag
+[ID: 24683] Main determinant of cardiac output in infants and children?
+[ID: 24691] While monitoring a case of laparoscopic cholecystectomy, the End tidal Carbon di oxide monitor shows a change in the pat
+[ID: 24694] A patient with asthmatic bronchitis presented with breathlessness, palpitations, and SpO&#x2082; of 88%. No ventilator w
+[ID: 24881] A 28-year-old man has climbed to an altitude of 6 km. He remains conscious and communicative. What is the most important
+[ID: 24882] A 65-year-old man known to have COPD is admitted with severe respiratory distress. What is the flow rate required to del
+[ID: 25204] Respiratory effect of midazolam is?
+[ID: 25206] Effects of thiopentone on the respiratory system are all except?
+
+======================================================
+MODULE 613: Airway Devices (40 questions)
+======================================================
+[ID: 12306] All are features of difficult airway except ?
+[ID: 24695] A 48-year-old patient with long-standing Type 1 Diabetes Mellitus is being evaluated for a difficult airway prior to sur
+[ID: 24696] A 6-year-old child is scheduled for elective hernia repair. The anesthesiologist opts for inhalational induction rather 
+[ID: 24697] The given image is a supraglottic airway device. According to the popular classification, what generation do they belong
+[ID: 24698] Airway adjust play a vital role in maintaining a patent airway. For selecting a oropharyngeal airway, measurement should
+[ID: 24699] While administering oxygen to the patient, the following devices play a role of variable flow administers of Oxygen. The
+[ID: 24700] Which of the following conditions is considered a contraindication for the use of bi-level positive airway pressure (BiP
+[ID: 24701] Identify the airway maneuver being demonstrated in the given image.<br><img class="w-100" style="height:auto; display:bl
+[ID: 24702] Which of the following maneuvre is being done<br><img class="w-100" style="height:auto; display:block; vertical-align:mi
+[ID: 24704] Laryngeal mask airway was discovered by 
+[ID: 24705] A patient suffering a stab wound to the abdomen arrives in the operating room for an emergency exploratory laparotomy. H
+[ID: 24706] A 30-year-old male presents to the emergency following crush injury. While resuscitation of the hemorrhagic hypovolemic 
+[ID: 24709] A 54-year-old woman is undergoing a total thyroid ectomy under general anesthesia. The patient is awak ened in the OR, t
+[ID: 24719] Prolonged oxygen therapy at atmospheric pressure can cause All except:
+[ID: 24720] Identify the given instrument<br><img class="w-100" style="height:auto; display:block; vertical-align:middle; border:0; 
+[ID: 24725] You are using a Guedel airway for a patient to improve the upper airway patency. How will you estimate the size you will
+[ID: 24727] Identify the correct option regarding the following picture<br><img class="w-100" style="height:auto; display:block; ver
+[ID: 24728] Airway obstruction in a baby born with the following syndrome occurs at the level of<br><img class="w-100" style="height
+[ID: 24729] A 40-year-old woman undergoing a laparoscopic cholecystectomy has an oxygen saturation which rapidly decreases to 80% on
+[ID: 24731] A 42 years old, 120 kg patient is posted for a laparoscopic umbilical hernia repair surgery. After insertion of a suprag
+[ID: 24736] Complications associated with the use of face mask ventilation are all except
+[ID: 24740] While anaesthetizing a patient, repeated attempts at laryngoscopy have been done, still patient tube could not be secure
+[ID: 24755] A 4-year-old child weighing 16 kg is scheduled for inguinal hernia repair. She is at the 55th percentile for height for 
+[ID: 24756] In the context of airway management, which anatomical landmark marks the location for a cricothyroidotomy?
+[ID: 24813] To ensure strict regulation of the inspired oxygen concentration, all of the following devices can be used except, in ot
+[ID: 24814] All of the following are methods of passive humidification of the airway except:
+[ID: 24886] Match the following oxygen delivery devices with their maximum percentage of oxygen delivered<br><img class="w-100" styl
+[ID: 24887] Which of the following airway devices delivers a precise FiO<sub>2</sub> of 24-60% regardless of the patient's breathing
+[ID: 24889] All are true except High air flow oxygen enriched (HAFOE) devices
+[ID: 24947] Which of the following is safe to use in patients with reactive airway disease?
+[ID: 24948] A 40-year-old male had presented to the emergency department following road traffic accident. He had sustained major inj
+[ID: 24949] A 34-year-old man has a rapid sequence induction for a perforated duodenal ulcer. Twenty minutes later his heart rate ri
+[ID: 25133] The following agent is used for Inhalational induction due to is sweet smell and absence of airway irritability
+[ID: 25167] Regarding patient-controlled analgesia, mark the following statements true or false. <br>1.	Allows patients to self-titr
+[ID: 25406] A 45 year old male patient is under neuro recovery ward following pituitary adenoma excision. He is produced high volume
+[ID: 25442] The World Health Organization recommends a progressive, three-step approach for management of cancer pain by oral analge
+[ID: 25475] An epidural is placed into a 32-year-old parturient in active labor receiving magnesium therapy for pre eclampsia. Five 
+[ID: 25536] A anaesthetist was doing shoulder block with 0.25% bupivacaine, the patient became unresponsive and pulse became unrecor
+[ID: 25594] You are required to provide aggressive volume resuscitation for a patient of trauma with hypovolemic shock. Which cathet
+[ID: 25630] While performing Labour analgesia. It was noted that epidural-giving set has been mistakenly connected to the patient's 
+
+======================================================
+MODULE 614: Intubation (84 questions)
+======================================================
+[ID: 17417] Green stick fracture is
+[ID: 24631] While examining a child posted for adenoid surgery, he has received antibiotics the previous week for cough and cold. On
+[ID: 24634] The patient's airway is being examined prior to surgery. This belongs to which class according to the Modified Mallampat
+[ID: 24690] The waveform shown in the image represents which of the following physiological parameters?<br><img class="w-100" style=
+[ID: 24710] A number of maneuvers play important roles in airway management. All of the maneuvers are related to airway management, 
+[ID: 24711] In the image shown, identify the function of the marked structure on the tracheostomy tube. <p><img src="https://groeibw
+[ID: 24712] In a 45 years old female weighing 98 kg who is posted for an elective laparoscopic cholecystectomy for cholelithiasis, f
+[ID: 24713] Match the contents with the correct drawer in the difficult airway cart.<br><img class="w-100" style="height:auto; displ
+[ID: 24714] The given maneuver is indicated for visualization of laryngeal axis. This involves:<br><img class="w-100" style="height:
+[ID: 24715] Identify the device shown in the image below<br><img class="w-100" style="height:auto; display:block; vertical-align:mid
+[ID: 24716] In addition to inspiratory stridor, which sign or symptom is consistent with epiglottitis?
+[ID: 24717] All of the following are disadvantages of LMA classic except: Figure<br><img class="w-100" style="height:auto; display:b
+[ID: 24718] You are intubating a patient received after poly trauma. He is suspected to have cervical spine injury. What is the mane
+[ID: 24735] Identify the given instrument.<br><img class="w-100" style="height:auto; display:block; vertical-align:middle; border:0;
+[ID: 24745] The given diagram is related to management of :<br><img class="w-100" style="height:auto; display:block; vertical-align:
+[ID: 24748] A 50-year-old male polytrauma patient with traumatic brain injury with Hudson oxygen mask, as a duty Junior resident you
+[ID: 24750] Pre oxygenation replaces the nitrogen in the functional residual volume with oxygen. This increases the apnea time upto
+[ID: 24751] A junior trainee has been assigned the task to intubate a young female patient posted for a laparoscopic appendectomy. W
+[ID: 24752] A smoker who had an interscalene block for arthroscopic reconstruction of the acromioclavicular joint 2 days ago returns
+[ID: 24753] A 5-week-old male infant is brought to the emergency room with projectile vomiting. At the time of admission the patient
+[ID: 24754] Which of the following statements regarding new borns with thick meconium-stained amniotic fluid is TRUE?
+[ID: 24758] A pediatrician is preparing to intubate a 1-year-old child. She selects the type of laryngoscope blade shown in the imag
+[ID: 24759] Anesthesia is induced in a 50-year-old, 125-kg man for anterior cervical fusion. The patient is placed on a ventilator. 
+[ID: 24760] How can one avoid the catastrophic complication shown in the given image of a patient with misplaced endotracheal tube i
+[ID: 24761] Which is the following statement is false regarding the procedure demonstrated<br><img class="w-100" style="height:auto;
+[ID: 24762] What is indicated by the "Double tract sigh" in airway ultrasound indicate?
+[ID: 24763] The RAE tube is a specialized preformed endotracheal tube with specialized functions. The given tube is indicated in:<br
+[ID: 24764] Identify the given laryngoscope blade is:<br><img class="w-100" style="height:auto; display:block; vertical-align:middle
+[ID: 24765] You are planning for anaesthetic management of a morbidly obese patient. While positioning the patient optimally, the he
+[ID: 24766] Management of patients involved in road traffic accidents involves primary and secondary surveys to identify the possibl
+[ID: 24767] Patients undergoing GA develop left lung collapse following intubation, on auscultation, breath sounds are heard only on
+[ID: 24768] What is the most appropriate initial management option for a patient with severe maxillofacial trauma following a road t
+[ID: 24769] What is the purpose of the Mallampati classification?
+[ID: 24770] For a patient with severe maxillofacial trauma after a road traffic accident, what is the most appropriate initial airwa
+[ID: 24771] In which of the following is the given position used?<br><img class="w-100" style="height:auto; display:block; vertical-
+[ID: 24772] During direct laryngoscopy on a patient under general anesthesia, the anaesthetist is only able to visualize the posteri
+[ID: 24773] Capnography can help detect all of the following promptly, except
+[ID: 24774] In the premature newborn, the glottis is at which level relative to the cervical spine?
+[ID: 24775] The anesthesiologist is called to the emergency room by the pediatrician to help manage a 3-year-old boy with a high fev
+[ID: 24776] A 60-year-old male patient was undergoing laparoscopic cholecystectomy. During the surgery, it was observed that there w
+[ID: 24777] A 5-year-old child with previous uneventful general anaesthesia exposure, was given intravenous succinylcholine for rapi
+[ID: 24778] Which of the following is the LEAST appropriate technique for induction of general anesthesia in a newborn for surgical 
+[ID: 24779] Most common cause of maternal mortality following general anesthesia is?
+[ID: 24780] While performing direct laryngoscopy, the visualization of vocal cords is graded by:
+[ID: 24781] A 25 year old female has presented with achalasia cardia and planned for Heller myotomy. During the induction of anesthe
+[ID: 24782] A 24 years old female underwent a routine procedure under general anaesthesia with endotracheal intubation after which s
+[ID: 24784] You have intubated the patient with laryngoscopy. The consultant confirms it with the surest sign on the monitor, ie,<br
+[ID: 24785] During the intubation, the endo tracheal tube may become malposition in the following places
+[ID: 24786] Advantages of the given instrument over conventional laryngoscopy are all except:<br><img class="w-100" style="height:au
+[ID: 24787] A 40-year-old female is posted for thyroidectomy for multinodular goiter, for which her airway is secured using the foll
+[ID: 24788] How can we avoid the following complication seen after an intubation, in a pediatric patient.<br><img class="w-100" styl
+[ID: 24789] What does the given capnograph show?<br><img class="w-100" style="height:auto;display:block;vertical-align: middle;borde
+[ID: 24790] What does the given capnograph show?<br><img class="w-100" style="height:auto;display:block;vertical-align: middle;borde
+[ID: 24791] Conditions where cricothyrotomy may be indicated include all except
+[ID: 24793] A healthy 2-year-old male is scheduled to undergo a laparoscopic inguinal hernia repair. His airway was managed uneventf
+[ID: 24794] At what maximum inspiratory pressure should an endotracheal tube leak in a child?
+[ID: 24797] The resistance of the tube shown below is primarily because of:<br><img class="w-100" style="height:auto; display:block;
+[ID: 24799] A 43 year male is undergoing vocal cord growth excision under general anesthesia. During the laser guided ablation of th
+[ID: 24802] A 56-year-old patient with a history of liver disease and osteomyelitis is anesthetized for tibial d&eacute;bridement. A
+[ID: 24803] A 54-year-old male hypertensive patient underwent laparoscopic lower anterior resection. His blood pressure in the recov
+[ID: 24805] A number 6 endotracheal tube indicates which size?
+[ID: 24806] In endotracheal tube what determines resistance?
+[ID: 24807] A 30-year-old primi with pre-eclampsia is posted for caesarean section. Ideal anaesthetic technique is?
+[ID: 24808] Which of the following is the major advantage of spinal anesthetic in the pregnant patient posed for appendicectomy?
+[ID: 24815] High flow nasal oxygen helps in oxygenation of patients in the intensive care. All the following patients can benefit fr
+[ID: 24883] Identify the mask in the image used for patients with COVID-19 infection.<br><img class="w-100" style="height:auto; disp
+[ID: 24890] While moving a parturient from the birthing room to the operating room for an emergency cesarean section for a prolapsed
+[ID: 24950] Succinylcholine is contraindicated in?
+[ID: 24951] A 40-year-old male has presented to the emergency department following road traffic accident. He has sustained major inj
+[ID: 24952] What is the drug of choice for routine intubation in paediatric patients?
+[ID: 25039] A 36-year-old woman with a history of hiatal hernia and acid reflux is undergoing a laparoscopic cholecystectomy under g
+[ID: 25135]  Which of the following agent can be used as sole agent for induction and intubation
+[ID: 25155] A 30-year-old man presents for open reduction and internal fixation of a left radius fracture as an outpatient. He has s
+[ID: 25315] A road traffic accident victim with HR 120/min and BP 90/30 mm Hg is brought to the emergency bay for urgent limb-salvag
+[ID: 25373] An otherwise healthy 14-day-old neonate is transported to the OR well-hydrated for surgery for a bowel obstruction. A ra
+[ID: 25508] A patient developed hypotension and arrhythmias while a supraclavicular plexus block with 0.5% bupivacaine was being per
+[ID: 25564] A 40-year-old man was given spinal anaesthesia by first year anaesthesia resident for inguinal hernia repair. After 5 mi
+[ID: 25574] Match the following scientists with their respective associations<br>A) Joseph Priestley- (i)Cocaine<br>B) August Bier -
+[ID: 25575] A woman with HELLP syndrome require a emergency caesarean section. Her platelet was 1lakh/ cu.mm 12 hours ago and now it
+[ID: 25604] A 45-year-old female patient with temporomandibular joint dysfunction and associated limited mouth opening is scheduled 
+[ID: 25687] 26-year-old female is planned for emergency cesarean section for preeclampsia. She is planned for general anaesthesia un
+[ID: 25688] RSI all except?
+[ID: 25689] RSI all except?
+[ID: 25699] The incidence of each of the following is increased in patients with Down syndrome (trisomy 21) EXCEPT
+
+======================================================
+MODULE 615: Breathing Systems (29 questions)
+======================================================
+[ID: 24660] During spontaneous breathing, volatile anesthetics
+[ID: 24722] RTA with multiple fractures initial treatment would be -
+[ID: 24724] You are an observer for a code BLUE drill. You find the mock patient put in a particular position until the medical resu
+[ID: 24816] When do you put a victim in the following position?<br><img class="w-100" style="height:auto; display:block; vertical-al
+[ID: 24817] When is the indicated position used during resuscitation?<br><img class="w-100" style="height:auto; display:block; verti
+[ID: 24818] Identify the given breathing circuit. What is true regarding this breathing circuit?<br><img class="w-100" style="height
+[ID: 24819] Identify the given breathing circuit. What is true regarding this breathing circuit?<br><img class="w-100" style="height
+[ID: 24820] Give assertion and reason:<br> Assertion: Bain's circuit is an example for coaxial circuit<br> Reason: The inspiratory l
+[ID: 24821] Anaesthetic breathing systems can be open or closed. To be a closed circuit, which of the following is a pre requisite
+[ID: 24822] Compared to the Mapleson A system, the circle system
+[ID: 24823] A trauma patient presenting with acute pain can be expected to have all of the following systemic responses to pain exce
+[ID: 24824] Which can replace N20 as 02 carrier?
+[ID: 24825] A 78-year-old woman is anesthetized for a right hemicolectomy for 3 hours. At the end of the operation the patient's blo
+[ID: 24828] Best skin disinfectant for central line insertion is:
+[ID: 24829] A 10-month-old infant is undergoing elective repair of a left testicular hydrocele under general anesthesia with isoflur
+[ID: 24831] Ring- Adair-Elwin (RAE) tube is a flexometallic, reinforced tube with preformed curve. The use of a RAE tube can be used
+[ID: 24834] What is the typical pressure setting for the valve in a Mapleson circuit?
+[ID: 24836] Which of the following statements regarding the Mapleson D breathing circuit is FALSE?
+[ID: 24837] For a spontaneous breathing patient, the Mapleson A system is the most efficient system. What is the single most importa
+[ID: 24840] Bain circuit was earlier known as which Mapleson circuit
+[ID: 24844] You are using the given device to ventilate a patient. What are the advantages of this bag over the AMBU?<br><img class=
+[ID: 24848] Which is the type of Mapleson circuit is this<br><img class="w-100" style="height:auto; display:block; vertical-align:mi
+[ID: 24849] The Bain Circuit is a modification of
+[ID: 24850] If you notice that the CO2 absorbent is exhausted during the surgical procedure, which of the following minimal fresh ga
+[ID: 24851] Malfunction of which of the following valves within a circle system may cause rebreathing of carbon dioxide and could po
+[ID: 24875] Which of the following statements regarding cardiopulmonary resuscitation (CPR) in adults is incorrect?
+[ID: 24892] The mask shown below operates based on which of the following mechanisms?<br><img class="w-100" style="height:auto; disp
+[ID: 24925] When PEEP-Positive end-expiratory pressure is applied to the airway of a spontaneously breathing patient, it is called:
+[ID: 25095] Which of the following fluorinated anaesthetics dissolve rubber & corrodes metal in vaporizers and breathing systems?
+
+======================================================
+MODULE 616: Anaesthesia Workstation (11 questions)
+======================================================
+[ID: 24856] Which of the following is NOT found in the low pressure circuit on an anesthesia machine?
+[ID: 24857] The most important monitors on the anaesthesia workstation is:
+[ID: 24859] Figure shows the pin index safety system in cylinders. Match the index to the correct gas from the table.<br><img class=
+[ID: 24860] The Low-pressure circuits include all except
+[ID: 24861] Anaesthesia workstations have:
+[ID: 24862] The oxygen-flush valve provides which of the following oxygen flows (L/min) to the common gas outlet?
+[ID: 24864] Modern vaporizers are
+[ID: 25014] A 30 year male patient presents with penetrating injury to the eye. He needs globe repair. His anesthesia management wil
+[ID: 25114] The correct statement regarding placement of flowmeters:
+[ID: 25561] Which type of needle is shown in the image?<br><img class="w-100" style="height:auto; display:block; vertical-align:midd
+[ID: 25665] All are true about preoxygenation, except;
+
+======================================================
+MODULE 617: ACLS (10 questions)
+======================================================
+[ID: 2649] A 53-year old woman was brought to the hospital after she became unconscious in the marriage party. Her ECG shows the fo
+[ID: 2659] A 62-year-old male was brought to the emergency department in an unconscious state. He is having history of coronary art
+[ID: 24865] A 6-year-old, 20-kg girl develops pulseless ventricular tachycardia after induction of general anesthesia for a tonsille
+[ID: 24867] An unresponsive patient in the ambulance displays the following cardiac rhythm on the monitor. What is the immediate cou
+[ID: 24868] Last link in ACLS chain of survival is?<br><img class="w-100" style="height:auto; display:block; vertical-align:middle; 
+[ID: 24869] In relation to Adult Cardiac Life support, identify the equipment?<br><img class="w-100" style="height:auto; display:blo
+[ID: 24870] In a 60-year-old patient who has just experienced a cardiac arrest, which of the following interventions is not a part o
+[ID: 24872] <p>A person was rushed to emergency with no carotid pulse palpable, he was given shock with a defibrillator but the rhyt
+[ID: 24873] A patient presents with no pulse, and the ECG shows the following rhythm. What is the next appropriate step?<br><img cla
+[ID: 24874] A 45-year-old polytrauma admitted in ICU on mechanical ventilator support with inotropic supports, suddenly monitor show
+
+======================================================
+MODULE 618: Ventilation and O2 Delivery Systems (79 questions)
+======================================================
+[ID: 18704] A 54 year old man has left sided hearing loss and vertigo. On examination, he has an absent corneal reflex on the left. 
+[ID: 24594] A 38-year-old woman with a history of diverticulosis is scheduled for an exploratory laparotomy for lysis of adhesions. 
+[ID: 24635] A 68-year-old woman with severe rheumatoid arthritis undergoes pulmonary function evaluation before an elective abdomina
+[ID: 24677] Oxygen therapy should be guarded or limited in all the following cases except:
+[ID: 24679] : A 60-year-old chronic smoker presented with acute exacerbation of COPD, with complaints of dyspnoea, palpitations, des
+[ID: 24721] Airway resistance to flow of gases through endotracheal tube is due to
+[ID: 24734] Under which of the following conditions is the use of Bi-PAP contraindicated?
+[ID: 24737] A nasopharyngeal airway may be used as an airway adjunct in all of the following conditions except patients with:
+[ID: 24738] An esophageal-tracheal combitube (ETC) is inserted into the:
+[ID: 24739] Identify the given supraglottic airway<br><img class="w-100" style="height:auto; display:block; vertical-align:middle; b
+[ID: 24741] Which of these is a second-generation Laryngeal Mask Airway (LMA)?
+[ID: 24742] Airway resistance may be increased in all of the following clinical conditions except:
+[ID: 24746] While attempting to bag and mask ventilation of an anaesthetised patient, there are a few airway manoeuvres to assist th
+[ID: 24783] Immediately after intubating a patient who required vigorous mask ventilation, the anaesthetist observes the capnogram s
+[ID: 24792] A patient in the ICU with an endotracheal tube now requires a tracheostomy. Which type of tracheostomy tube should be us
+[ID: 24795] What is this device called?<br><img class="w-100" style="height:auto; display:block; vertical-align:middle; border:0; "s
+[ID: 24796] Which of the following are methods of invasive ventilation
+[ID: 24827] The most common location for the fresh gas inlet in the classic circle system is:
+[ID: 24835] Since fresh gas flow equal to minute ventilation is sufficient to prevent rebreathing, which of the following Mapleson c
+[ID: 24838] A 4-year-old child weighing 20 kg has a minute volume of 3 L/min. If using the Jackson Rees circuit for spontaneous vent
+[ID: 24839] Mapleson A design is the most efficient Mapleson circuit for spontaneous ventilation because:
+[ID: 24841] Incorrect statement regarding the mechanisms of an Ambu bag is
+[ID: 24842] In which of the following is the fresh gas inlet most distant from the patient connection port?
+[ID: 24845] Which of the following systems lacks a reservoir bag?
+[ID: 24858] Which of the following prevents delivery of hypoxic gas mixture once the oxygen pressure falls below 25 psi?
+[ID: 24876] While on your ward duty, staff calls as a 40 years old man lying unconscious, on examination he is not responding, no pu
+[ID: 24877] An 50 year obese male patient was brought to EMD in unconscious state, found gasping, Casualty medical officer started C
+[ID: 24884] You are a junior resident working in the ICU. A senior physician instructs you to manage a patient on mechanical ventila
+[ID: 24885] A patient in the ICU was on a ventilator. Hemodynamically he had signs of poor perfusion. What would be the best way to 
+[ID: 24888] Maximum oxygen flow rate through conventional oxygen masks?
+[ID: 24891] A patient on the high dependency unit has pneumonia and is hypoxic on room air. When deciding which method of oxygen adm
+[ID: 24893] Max Fio2 is delivered by?
+[ID: 24894] Which of the following is the effect of Positive end -expiratory pressure (PEEP) 
+[ID: 24895] A 67-year-old patient is mechanically ventilated in the ICU 2 days after repair of a ruptured abdominal aortic aneurysm.
+[ID: 24896] Clinical conditions that may require independent lung ventilation include all of the following except:
+[ID: 24897] What is the primary purpose of PEEP (Positive End-Expiratory Pressure) in mechanical ventilation?
+[ID: 24898] A 50-kg patient with pneumonia is on mechanical ventilation. Current parameters are: RR 14/min, bicarbonate 18, pH 7.33,
+[ID: 24899] ARDS patient 60Kg on ventilator with 5cm PEEP, 360ml TV, I:E of 1:2, pH of 7.38, paO2 of 50 mm Hg, paCO2 of 35mm Hg, FiO
+[ID: 24900] Each of the following is a predictor of difficulty with mask ventilation EXCEPT
+[ID: 24902] An 18-year-old boy is brought to the emergency room after choking on a bone while eating. He is conscious but unable to 
+[ID: 24904] The most frequent cause of mechanical failure of the anesthesia delivery system to deliver adequate O2 to the patient is
+[ID: 24905] The given device can administer an oxygen concentration of up to<br><img class="w-100" style="height:auto; display:block
+[ID: 24908] A term infant with good muscle tone and strong cry has an 83% saturation on room air 5 minutes after delivery. The MOST 
+[ID: 24909] You are preparing to set up for anesthesia in an off-floor location in the interventional radiology suite. The radiograp
+[ID: 24910] All of the following are true about preoxygenation except
+[ID: 24911] A patient in the post-operative ward was given fentanyl by the following route. Find the incorrect statement from among 
+[ID: 24912] An intradural mass lesion at the tip of a drug infusion catheter is LEAST likely to present as
+[ID: 24913] About the Mechanical ventilation;<br>Assertion: Mechanical ventilation works on principle opposite to that of physiologi
+[ID: 24914] Which of the following are non-invasive mechanical ventilation
+[ID: 24915] THRIVE is a recent mode of ventilation. What is true regarding THRIVE:
+[ID: 24916] HFNO is a newer method of ventilation gaining popularity due to the pandemic. The following stands true for HFNO
+[ID: 24917] Use of mechanical ventilation in a patient is associated with pros and cons. The harmful effects of mechanical ventilati
+[ID: 24918] Mechanical ventilation can result in ventilator associated lung injury. The mechanisms suggested are
+[ID: 24919] Which of the following causes of hypoxemia is least likely to be treated successfully by oxygen therapy alone?
+[ID: 24920] A neonate is being ventilated by a pressure-controlled mode. What change do you make to improve the Tidal volume
+[ID: 24921] Hypoxemia and Hypercapnia that occur in patients may manifest as  Headache, drowsiness, and irritability, are usually du
+[ID: 24922] A mode of ventilation that augments a patient's spontaneous tidal volume with a preset level of pressure is called:
+[ID: 24923] When the ventilator assumes all of the ventilatory work, this is termed:
+[ID: 24924] Positive end-expiratory pressure (PEEP) is most commonly used to correct:
+[ID: 24926] High flow oxygen therapy uses high inspired flow rates of Oxygen. The flow rate ranges from:
+[ID: 24927] The oxygen delivery to the cellular level utilization happens and allows aerobic glycolysis in the mitochondria. When th
+[ID: 24928] The given picture is also popularly called as the universal circuit. While it can be applied for patients of varying age
+[ID: 24929] You are managing an elderly, obese male with history of snoring, daytime somnolence, COPD and hypertension following TUR
+[ID: 24930] Which of the following is not an ideal step for effective CPR in adults?
+[ID: 24931] A 70 kg patient came to the emergency with acute pancreatitis and was shifted to ICU and intubated. The patient was rece
+[ID: 24932] One of the following is a primary risk factor for difficult mask ventilation
+[ID: 24933] Below what value of cerebral blood flow (CBF) will signs of cerebral ischemia first begin to appear on the electroenceph
+[ID: 24935] Dose of succinyl choline in infant?
+[ID: 24936] Cesarean delivery is associated with a blood loss of about
+[ID: 24939] All are true about Venturi masks except
+[ID: 24955] What is the ideal management for a patient developing succinylcholine apnoea due to atypical pseudocholinesterase?
+[ID: 25025] A 35-year-old male undergoing abdominal surgery under general anaesthesia developssudden generalised muscle rigidity, ra
+[ID: 25074] An air bubble is injected into the posterior chamber at the conclusion of retinal surgery (pneumatic retinopexy) to faci
+[ID: 25136] Choose the correction option form the following for given statements:<br> Assertion: Heliox is used for ventilation in l
+[ID: 25270] 20-year-old burns patient with post burns contracture needs wound dressing. Which is the induction agent of choice for s
+[ID: 25478] Refractory cardiac arrest is MOST likely after the rapid unintentional IV injection of which of the following local anes
+[ID: 25652] A 20-year-old G1P0 female at 42 weeks of gestation presents to labor room with rupture of membranes and onset of early l
+[ID: 25691] Assertion(A): Managing an obstetric patient during cardiac arrest includes securing an intravenous access above the pelv
+[ID: 25700] Advantages of the Mapleson systems include all of the following except:
+
+======================================================
+MODULE 619: Depolarising Muscle Relaxants (94 questions)
+======================================================
+[ID: 8409] Which skeletal muscle relaxant follows Hoffman elimination?
+[ID: 8417] Sugammadex is a drug that reverses the action of rocuronium. It appears to interact directly with the rocuronium molecul
+[ID: 8437] Baclofen acts by...
+[ID: 8498] Mechanism of action of d-tubocurarine is:
+[ID: 8963] A patient was administered succinylcholine and halothane prior to surgery. Soon after, the patient developed sudden musc
+[ID: 9299] d-tubocurarine is a toxic alkaloid historically known for its use as arrow poison. It has neuromuscular blocking effects
+[ID: 9437] Which of the following is not nondepolarizing relaxant agent?
+[ID: 9442] Reason for preferring Cis-Atracurium over atracurium is:
+[ID: 9444] Which of the following is FALSE for depolarizing agents?
+[ID: 9448] A 45 years old female patient underwent abdominal hysterectomy under general anaesthesia with skeletal muscle relaxant S
+[ID: 9545] Adverse effects of depolarizing agents are...<br>1.	Hyperkalemia<br>2.	Hypokalemia<br>3.	Increased intraocular pressure<
+[ID: 12309] Which anaesthetic agent is neither metabolised by liver nor by kidney ?
+[ID: 24944] Not true about priming dose of neuromuscular blockers is?
+[ID: 24958] On induction of a patient for a cardiac surgery, large doses of opioid were administered. Following muscle relaxation wi
+[ID: 24959] The tension which needs to be generated in cardiac muscle fibres before shortening will occur is known as:
+[ID: 24960] Which of the following is correct regarding phase I depolarizing neuromuscular block?
+[ID: 24961] Mivacurium is short acting due to:
+[ID: 24962] Which of the following is an incorrect statement regarding mivacurium?
+[ID: 24963] Which of the following is an incorrect statement concerning rapacuronium?
+[ID: 24964] The Muscle relaxant of choice for renal failure is:
+[ID: 24965] The following are primarily dependent on kidney for excretion except?
+[ID: 24966] The following patients are at risk of hyperkalaemia from succinyl choline except?
+[ID: 24967] Which of the following is not a long acting muscle relaxant?
+[ID: 24968] Muscle relaxant that does not have an active metabolite is?
+[ID: 24969] Non-depolarizing muscle relaxants are?
+[ID: 24970] Risk factor for postoperative myalgia seen with succinylcholine is?
+[ID: 24971] Muscle most resistant to non-depolarizing block is
+[ID: 24972] Each of the following statements concerning side effects of succinylcholine when used to paralyze neonates is false
+[ID: 24973] The muscle relaxant of longest duration of action 
+[ID: 24974] The muscle relaxant of shortest duration of action 
+[ID: 24975] Which receptor is responsible for the effects of succinylcholine?
+[ID: 24976] Which drug is used to reverse the muscle relaxant effects of vecuronium when renal function is normal?
+[ID: 24977] While cannulating the internal jugular vein in a patient, you look for a triangle that is formed by:
+[ID: 24978] 4 hours into a laparotomy surgery, the temperature probe reads a measurement of 28 degrees Celsius. Detrimental effects 
+[ID: 24979] A hemiplegic patient when posted for surgery, which muscle relaxant is to be avoided?
+[ID: 24980] A 40-year-old male in kidney failure with serum creatinine of 2.1 mg/dl and serum K+ 4.0 Meq/L is posted for surgery. Wh
+[ID: 24983] A medical representative visits the anesthetic department to provide information to anesthetists on the drug sugammadex.
+[ID: 24984] 20-year-old man has presented for emergency repair of torsion of the testis. He is it and well but is allergic to suxame
+[ID: 24985] You are enrolled in an institutional study comparing neostigmine and sugammadex for reversal of neuromuscular blockade. 
+[ID: 24986] Following administration of a muscle relaxant, the patient develops erythema, flushing and a drop in blood pressure. Whi
+[ID: 24987] Which of the following would NOT result in an increase in intraocular pressure?
+[ID: 24988] Dose of which of the following muscle relaxant must be calculated on the basis of total body weight of an obese person r
+[ID: 24989] Which of the following muscle relaxant can cause pain on IV injection Site
+[ID: 24990] Muscle relaxant which can cause seizures:
+[ID: 24991] Among the non-depolarizing muscle relaxants, a few exhibit vagolytic properties. They are
+[ID: 24992] MH and neuroleptic malignant syndrome share each of the following characteristics EXCEPT
+[ID: 24993] What percentage of a term newborn's total body weight consists of water?
+[ID: 24994] Dibucaine number refers to
+[ID: 24995] In a patient who is having a neuromuscular disease, myasthenia graves, what is true in regards to muscle relaxants
+[ID: 24996] When performing a rapid-sequence induction (RSI) for an emergency caesarean delivery, which of the following muscle rela
+[ID: 24997] Which of the following muscle relaxants is eliminated by renal excretion?
+[ID: 24999] Which of the following drugs is used to reverse the muscle relaxation caused by vecuronium?
+[ID: 25000] You are administering anesthesia for a cervical spine procedure, and the surgeon has indicated that she plans to monitor
+[ID: 25001] Succinyl choline is contraindicated in all except?
+[ID: 25002] In a patient who is having a neuromuscular condition, chronic denervation injury, what is true in regards to muscle rela
+[ID: 25003] A 30-year male patient presents with penetrating injury to the eye. He needs globe repair. His anesthesia management wil
+[ID: 25004] A 50-year-old male who is a case of pleomorphic adenoma is posted for superficial parotidectomy. Muscle relaxant of choi
+[ID: 25005] A 28 years old female, a case of severe preeclampsia, has been administered magnesium sulphate in the labor room, follow
+[ID: 25006] Regarding acute pain, all of the following statements are true except:
+[ID: 25007] A patient in the pain clinic complaints of tight, band-like pain in the bilateral frontal region. Which of the following
+[ID: 25008] After administering antibiotic in a patient under general anesthesia, patient had delayed recovery from muscle relaxants
+[ID: 25009] Which of the following is capable of triggering malignant hyperthermia 
+[ID: 25010] On induction of anesthesia and muscle relaxation by succinylcholine, a patient shows recovery from succinylcholine after
+[ID: 25011] A patient with Guillain Barre syndrome has been posted for a surgery under general anesthesia. Which of the following is
+[ID: 25012] Dibucain number refers to ?
+[ID: 25013] A 54-year-old male patient is admitted for TIPSS (trans jugular intrahepatic Porto systemic shunt) procedure. He is an a
+[ID: 25015] A 22-year-old parturient is anesthetized for an emergency laparoscopic cholecystectomy. She is in the twenty-fourth week
+[ID: 25016] In a patient with compartment syndrome, which of the following signs would be the last to appear?
+[ID: 25017] Which is the shortest acting muscle relaxant?
+[ID: 25018] Choose the correct option for the given statements:<br>Assertion: Some muscles reflect respiratory muscle response bette
+[ID: 25019] All of the following statements are correct about the following image except: <br><img class="w-100" style="height:auto;
+[ID: 25023] Muscle relaxant which is excreted exclusively by kidney (so C/I in renal failure) and most sensitive to patients of myas
+[ID: 25024] 28-year-old trauma patient sustained a fracture and spinal cord transection at the T9 level. Having spent a long time on
+[ID: 25026] The Laudanosine is a metabolite of?
+[ID: 25027] Cause of convulsions seen with prolonged infusion of atracurium is?
+[ID: 25030] Reversal of neuromuscular blockade is accomplished with all except?
+[ID: 25031] Sugammadex is used for the reversal of:
+[ID: 25033] Which neuromuscular blocking agent undergoes Hofmann elimination?
+[ID: 25037] Trigger free anesthesia is a concept that avoids:
+[ID: 25042] Trismus after administration of succinylcholine IV signals the onset of MH in what percentage of patients?
+[ID: 25043] Select the TRUE statement
+[ID: 25044] Evidence of an anaphylactic reaction to atracurium 1 to 2 hours after the episode could be best established by measuring
+[ID: 25045] Which of the following is a true statement regarding cis-atracurium?
+[ID: 25046] Atracurium undergoes metabolism by?
+[ID: 25047] Not true about precurarization is?
+[ID: 25048] A patient presents with acute abdomen. They date planned for laparotomy and proceed. The patient is a known case of chro
+[ID: 25049] Which of the following doses of Sugammadex should be used to reverse neuromuscular blockade in an 85 kg man who received
+[ID: 25050] A woman with impending eclampsia was taken for emergency LSCS. Decrease in fasciculations following induction doses of s
+[ID: 25053] Not true about sugammadex?
+[ID: 25060] Effect of administration of anticholinesterases after depolarizing block is?
+[ID: 25614] Anatomical location of the musculocutaneous nerve in the upper arm is most frequently found within which of the followin
+[ID: 25623] After performing an axillary brachial plexus block, your ultrasound probe moves to scan laterally and you see what appea
+[ID: 25651] During general anesthesia, which nerve is most commonly monitored using a peripheral nerve stimulator to assess the degr
+[ID: 25701] Assertion(A): Dantrolene sodium is indicated in the treatment of malignant hyperthermia<br>  Reason(R): Dantrolene inhib
+
+======================================================
+MODULE 620: Inhaled Anaesthetics - Properties, N2O and Halothane (56 questions)
+======================================================
+[ID: 8621] A patient was admitted for surgery and halothane is being planned to be used as an anaesthetic agent. The patient was ex
+[ID: 9703] Which of the following inhalational anaesthetic agents is with highest respiratory irritation?
+[ID: 9895] Which of the following sentences are TRUE for inhalational anaesthetic agents?<br>1. More solubility of gases causes rap
+[ID: 12307] Ratio of 02: N20 in Entonox is ?
+[ID: 12308] Which is the critical temperature of N20 ?
+[ID: 24846] True regarding nitric oxide (NO) is all except?
+[ID: 24998] A patient undergoing surgery is maintained on anesthesia with halothane. During the procedure, the patient suddenly deve
+[ID: 25028] Cis Atracurium is a potent isomerism of Atracurium. All of the following is true regarding its properties except
+[ID: 25029] Atracurium and cis- Atracurium exhibit isomerism properties. What differentiates them? 
+[ID: 25064] Identify the given cylinder according to the colour coding<br><img class="w-100" style="height:auto; display:block; vert
+[ID: 25068] Respiratory effects of halothane are all except?
+[ID: 25069] A 5-year-old boy is anesthetized for elective repair of an umbilical hernia. General anesthesia is induced and maintaine
+[ID: 25071] The National Institute for Occupational Safety and Health (NIOSH) recommends limiting operating-room concentration of ni
+[ID: 25073] A patient undergoing surgery was administered halothane. Shortly after, the anesthetist observed that the patient develo
+[ID: 25076] A patient in OT was given anaesthesia ( isoflurane, halothane, etc) suddenly developed lung collapse and hypotension. wh
+[ID: 25077] Inhalational agent suitable for neurosurgery is?
+[ID: 25078] A drug with lowest MAC would have the following characteristic?
+[ID: 25079] Drug with lowest blood gas partition coefficient is?
+[ID: 25080] Meyer Overton rule relates to potency of an anaesthetic by explaining the mechanism of action via?
+[ID: 25081] Inhalational agent which interferes with DNA synthesis?
+[ID: 25082] This agent was called as "laughing gas"?
+[ID: 25083] Halothane is stored in amber bottles, and 0.01% (w/w) of ____________ is added to retard decomposition?
+[ID: 25084] All are effects of halothane on Central nervous system except?
+[ID: 25085] True about halothane?
+[ID: 25086] Identify the given anesthetic agent. Which of the following properties holds true in its regards? <br><img class="w-100"
+[ID: 25087] Entonox is a mixture of nitrous oxide and oxygen that employs the principle of
+[ID: 25088] All of the following are seen with nitrous oxide except:
+[ID: 25089] Factors increasing the MAC are all except?
+[ID: 25092] Stages of anesthesia were established by
+[ID: 25093] Fast induction and recovery is seen in?
+[ID: 25096] First public demonstration of ether was given by ?
+[ID: 25099] Approximately 30 minutes after the induction of general anesthesia in a healthy adult patient, you notice that core body
+[ID: 25102] Hepatic necrosis secondary to halothane hepatotoxicity is?
+[ID: 25103] All the following are seen with Nitrous oxide except:
+[ID: 25105] Incidence of halothane hepatitis is?
+[ID: 25106] Emergence from halothane anaesthesia- so much so that the effect is often referred to as?
+[ID: 25107] Post-operative shivering is seen maximally with?
+[ID: 25108] Nitrous oxide was first produced by:
+[ID: 25110] Nitrous oxide is considered a carrier gas and an incomplete anesthetic agent. This is attributed to its property of 
+[ID: 25112] Color-coding system for medical air gas cylinders is;
+[ID: 25116] Which of the following flowmeters is situated nearest to the gas outlet?
+[ID: 25117] Capacity of an oxygen "E" cylinder is approximately _______ L
+[ID: 25118] If pressure in a full nitrous oxide "E" cylinder is 745 psi at 20&deg;C, the pressure in a half-full cylinder will be ab
+[ID: 25119] A patient of COVID 19 requires oxygen therapy. Which of the following cylinders should be used to provide the oxygen the
+[ID: 25141] Inhalation anaesthetic which is least blood soluble?
+[ID: 25142] The inhalational agent causing seizures?
+[ID: 25143] The most nephrotoxic inhaled anaesthetic is?
+[ID: 25144] Fluoride is liberated by the following except?
+[ID: 25145] Isomers may have the same molecular formulae and physical properties like melting points, pka, solubility, but the alter
+[ID: 25148] Which of the following inhalational anesthetic agents has a blood-gas partition coefficient comparable to that of nitrou
+[ID: 25152] Coronary steal syndrome is associated with
+[ID: 25157] Least potent among the commonly used inhaled anaesthetics is?
+[ID: 25197] Inhalational agent of choice in children is?
+[ID: 25199] You discover that and anaesthetic machine with soda-lime absorber and a sevoflurane vapouriser has not been used for the
+[ID: 25595] Dexmedetomidine is not an induction agent, but used as an adjuvant for its following properties
+[ID: 25702] Which of the following drugs can trigger malignant hyperthermia?
+
+======================================================
+MODULE 621: Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (59 questions)
+======================================================
+[ID: 24847] Trilene when used with Sodalime causes ?
+[ID: 24982] A patient undergoing surgery is administered succinylcholine for muscle relaxation. After administration, he developed h
+[ID: 25032] Assertion(A): Some neuromuscular blocking agents like atracurium and cisatracurium have extrahepatic and extrapulmonary 
+[ID: 25034] Which of the following is a contraindication for the use of Inhalational agents
+[ID: 25035] Neuromuscular blocking agents can cause dyselectrolytemia. This includes depolarizing agents like succinylcholine. Succi
+[ID: 25054] The plasma esterases are involved in the metabolism of many anesthetic agents used. Anomalies in gene coding these enzym
+[ID: 25056] A 3-year-old child status post resection of Wilms tumor at age 2 years is receiving doxorubicin (Adria mycin) and cyclop
+[ID: 25091] Which of the following is the correct sequence of potency of anesthetic agents?
+[ID: 25094] Best uterine relaxation is seen with?
+[ID: 25109] The phenomenon by which the speed of onset of inhalational anaesthetic agents is increased when they are administered wi
+[ID: 25111] The Inhalational agents are influenced by a number of patient and environmental factors. The factors that increase the M
+[ID: 25123] Which of the following describes the 'second gas effect' in anesthesia?
+[ID: 25130] Most potent respiratory depressant among the following agents?
+[ID: 25137] The Tec 6 desflurane vaporizer
+[ID: 25140] Which of the following is the preferred agent for inhalational induction of anesthesia in children?
+[ID: 25146] Among the given Inhalational agents, which agent has a special vaporizer, designed for electrically heated and a gas Vap
+[ID: 25147] A patient is under general anesthesia, and the anesthesiologist reviews the MAC values of volatile anesthetic agents. Wh
+[ID: 25156] It is recognized that volatile anesthetic agents affect liver perfusion. What would be the most appropriate volatile ane
+[ID: 25158] In a CO2-absorbent canister, the greatest amount of carbon monoxide is produced by which of the following volatile agent
+[ID: 25159] At a constant pressure, the volume of a fixed mass of gas is directly proportional to the absolute temperature. This law
+[ID: 25160] The process of rendering an object completely free of all viable infectious agents including bacterial spores is called
+[ID: 25161] Match the following volatile agents with their MAC in adults<br><img class="w-100" style="height:auto; display:block; ve
+[ID: 25162] Which of the following harmful effects is attributed to the use of Inhalational agents Sevoflurane
+[ID: 25163] The highest value of Minimum Alveolar concentration of the following Inhalational agents is
+[ID: 25164] The Inhalational anesthetic agent considered agent of choice for day care procedure and pedicures age group induction
+[ID: 25165] Which agent has the lowest blood: gas partition coefficient of all agents listed
+[ID: 25166] Interaction with co2 absorbers has been found in certain Inhalational agents. They include
+[ID: 25168] Identify the correct option regarding the following<br>Assertion: If there is a leak in the flow meters of other gases, 
+[ID: 25169] Pipeline gases are supplied at pressures of about _________ psi:
+[ID: 25170] The National Institute for Occupational Safety and Health (NIOSH) recommends limiting operating-room concentration of vo
+[ID: 25171] Regarding the treatment of neuropathic pain, the correct statement is
+[ID: 25172] A 56-year-old male with known pulmonary bullae is scheduled for lung-conservative surgery. During anesthetic planning, t
+[ID: 25173] Decreased environmental temperature and loss of heat regulation in a patient emphasizes the use of various methods to ma
+[ID: 25174] Post operative nausea and vomiting are a common outcome to many of the anesthetic agents used. Increased incidence of PO
+[ID: 25175] Faster induction of inhalational agents in neonates is because of?
+[ID: 25176] Heat loss to the environment in neonates is due to?
+[ID: 25177] When is the fetus most susceptible to the effects of teratogenic agents?
+[ID: 25178] Which inhalation anesthetic does NOT produce uterine relaxation?
+[ID: 25179] A Tec 5 isoflurane vaporizer is being used at a high altitude location where the atmospheric pressure is 380mmHg. The di
+[ID: 25181] Which among the following inhalational agents has a blood-gas partition coefficient similar to that of nitrous oxide?
+[ID: 25182] Nonsteroidal anti-inflammatory agents, such as ketorolac, are not recommended during pregnancy because?
+[ID: 25183] The MAC for inhalational agents is reduced by ______% per decade of age over 40 years?
+[ID: 25185] The drug for OPD analgesia is -
+[ID: 25187] In which of the following patients would the mini mum alveolar concentration (MAC) for isoflurane be the greatest?
+[ID: 25191] Degradation of sevoflurane by soda lime results in the production of
+[ID: 25192] Identify the correct option regarding the following<br>Assertion: It is important to store Entonox cylinders below -6&de
+[ID: 25193] MAC of desflurane is ?
+[ID: 25195] After receiving massive blood transfusion, a patient anesthetized with isoflurane, fentanyl, and nitrous oxide develops 
+[ID: 25213] Clinical uses of midazolam are all except?
+[ID: 25215] Robinhood phenomenon or reverse cerebral steal phenomenon is seen with which of the following induction agents? 
+[ID: 25217] In relation to a patient having a cerebral vascular accident such as stroke, reverse cerebral steal phenomenon is mentio
+[ID: 25265] Which of the following induction agents has seizure inducing ability?
+[ID: 25293] A patient who is a known case of intermittent porphyria is posted for a procedure under general anaesthesia. Which of th
+[ID: 25335] A patient in the intensive care unit who is in a catecholamine depleted state. Which of the induction agents can further
+[ID: 25483] Local infiltration of lignocaine and other local anesthetic agents are less reliable for ankle block of an infected diab
+[ID: 25484] Among the ester and amide group of local anesthetic agents, increased tendency to develop allergic reaction is with whic
+[ID: 25666] MAC value of an inhaled anaesthetic is a measure of?
+[ID: 25672] True about xenon anaesthesia is all except?
+[ID: 25703] All are the early clinical signs of Malignant hyperthermia except;
+
+======================================================
+MODULE 622: Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (134 questions)
+======================================================
+[ID: 8433] Which of the following is False regarding propofol and fospropofol?
+[ID: 8434] What is the correct dose of thiopental?
+[ID: 8663] Which of the following is TRUE for Propofol<br>1.	Propofol produces most pronounced decrease in systemic blood pressure<
+[ID: 8932] Benzodiazepines are usually used as premedication before general anaesthesia. Which are the desired effect of benzodiaze
+[ID: 9447] Which of the following general anaesthetic Agent should not be used in patient with Acute intermittent porphyria?
+[ID: 9724] Propofol is widely used general anaesthetic agent. What is the presumed mechanism of action of Propofol?
+[ID: 24600] World Anaesthesia Day is celebrated on ?
+[ID: 24601] True statement about Volatility and vaporization?
+[ID: 24602] The ideal vaporizer should be?
+[ID: 24603] Which test is performed on gas cylinders to check the quality of manufacturing?
+[ID: 24604] For the following instrument, choose the correct option<br><img class="w-100" style="height:auto; display:block; vertica
+[ID: 24605] Common causes for lower back pain include all of the following, except
+[ID: 24606] Hyperpathia is the simultaneous presence of which of the following?
+[ID: 24607] Gas cylinder valves on the anaesthesia machine with a pipeline supply should be kept closed for the following reasons:
+[ID: 24608] Best method to treat a large port-wine hemangioma is?
+[ID: 24609] Etheromanias refer to ?
+[ID: 24610] What phase is shown by '0' in the given time capnograph trace?<br><img class="w-100" style="height:auto; display:block; 
+[ID: 24611] Cannon a waves are caused by
+[ID: 24612] During the course of a complicated cardiac case, the surgeon informs you that he is worried about damage to the right co
+[ID: 24613] Match the following frequency bands in the EEG to the psychological state. <br><img class="w-100" style="height:auto; di
+[ID: 24614] The pain of labour arises from?
+[ID: 24615] Changes in the cardiovascular system that accompany aging include?
+[ID: 24616] Elderly are more prone to hypothermia Intraoperatively because?
+[ID: 24617] Measures to prevent perioperative hypoxia in elderly patients?
+[ID: 24618] Exaggerated drops in blood pressure during induction of general anesthesia in elderly is due to?
+[ID: 24640] A 20 years old female patient is planned for left side fibro-adenoma excision of the breast. She is very anxious. She wa
+[ID: 24646] Which of the following measures of awareness under anaesthesia is depicted in the image given below?<br><img class="w-10
+[ID: 24658] ASA mandates the use of all of the following monitors during general anaesthesia to encourage universal quality and safe
+[ID: 24689] A patient who is under general anaesthesia shows the following finding on the ETCO2 monitor. What condition can lead to 
+[ID: 24707] A patient has sustained a road traffic accident and is bleeding profusely. He is hypotensive and requires large-volume r
+[ID: 24723] A 45-year-old man is rescued from a house fire and brought to the ER. He is noted to have major burns involving 45% of h
+[ID: 24726] You are asked to position a patient for general anesthesia. The ideal position will be
+[ID: 24749] Match the correct number with the parts of the cuff system of an endotracheal tube<br><img class="w-100" style="height:a
+[ID: 24809] Which of the following structures is tested to check for patency of a Bain's Circuit?
+[ID: 24810] Of all the Mapleson circuits lying on the table during a viva, the examiner hands over the circuit that has the fresh ga
+[ID: 24811] The granular size of soda lime used in clinical practice is between:
+[ID: 24812] Infant circuit for anaesthesia ?
+[ID: 24833] While checking the Bain's circuit, the trainee performs the Pethik's test, during which there is collapse of the bag, en
+[ID: 24843] All are true about Mapleson circuits except:
+[ID: 24852] Enflurane is associated with ?
+[ID: 24854] Pressure gauge used on the cylinders are generally of type
+[ID: 24855] Which of the following system prevents the wrong gas cylinder being attached to the anesthesia machine?
+[ID: 24937] About the given equipment, chose the option<br>a. if A, B, and C are correct<br>b. if A and C are correct<br>c. if B and
+[ID: 24938] Which of the following is an advantage of a fenestrated tracheostomy tube over a non-fenestrated tube?<br><img class="w-
+[ID: 24940] Bernoulli's principle is used in anaesthesia during all of the following scenarios except:
+[ID: 24942] Dibucaine number reflects?
+[ID: 24957] Which of the following medications is used to reverse the effects of anaesthesia?
+[ID: 25040] Remifentanil is an ideal drug for Total intravenous anesthesia. This is because of the property: 
+[ID: 25052] How does chronic liver disease affect the drugs used in anesthesia? Which of the following drugs can be used in a liver 
+[ID: 25059] A patient, after receiving succinylcholine, has remained apneic for 45 minutes post injection. How can this situation be
+[ID: 25061] A 75-year-old woman is scheduled for mitral valve repair. High-dose fentanyl is used to induce anesthesia. In order to c
+[ID: 25062] A 75-year-old woman is scheduled for mitral valve repair. High-dose fentanyl is used to induce anesthesia. To counteract
+[ID: 25066] Contribution of the following scientist to anesthesia:  <br><img class="w-100" style="height:auto; display:block; vertic
+[ID: 25113] Assertion(A): It is impossible to maintain anaesthesia using Nitrous Oxide as the sole inhalational agent.<br> Reasoning
+[ID: 25128] ____ is a measure of the volatility of the liquid?
+[ID: 25180] Match the PIN index:<br><img class="w-100" style="height:auto; display:block; vertical-align:middle; border:0; "src="htt
+[ID: 25211] Which of the following statements about thiopentone are true?<br>1. Thiopentone has a rapid onset of action due to high 
+[ID: 25214] Not true about commercial preparation of thiopentone?
+[ID: 25216] The shortest acting benzodiazepine is?
+[ID: 25218] Long term infusion of Propofol is usually avoided as it can result in Propofol infusion syndrome. This is characterised 
+[ID: 25220] Identify the given agent. What is not true about the agent?<br> <img class="w-100" style="height:auto; display:block; ve
+[ID: 25221] If the internal diameter of an intravenous catheter were doubled, flow through the catheter would be
+[ID: 25223] Post- operative nausea and vomiting(PONV) is a common post-operative complication. Methods to prevent this include
+[ID: 25224] A 60-year-old man undergoing an inguinal hernia repair is induced with propofol. Which of the following is most likely t
+[ID: 25225] A patient who was under sedative infusion in the intensive care unit developed greenish urine and green discoloration of
+[ID: 25226] A patient has been induced with a bolus dose of propofol for general anesthesia. After how long is the patient expected 
+[ID: 25227] A 48 years old female is being induced for general anesthesia with propofol. Which of the following effects is least exp
+[ID: 25229] Thiopentone can be reconstituted with all except?
+[ID: 25230] True about mechanism of action of benzodiazepines is?
+[ID: 25231] Features of Propofol infusion syndrome are all except?
+[ID: 25232] Clinical uses of thiopentone are all except?
+[ID: 25233] Pain on injection associated with Propofol can be reduced by all except?
+[ID: 25234] Dose of Propofol at which lactic acidosis develops is?
+[ID: 25236] Thiopentone is contraindicated in?
+[ID: 25237] Induction dose of Propofol in elderly is?
+[ID: 25238] EEG changes due to Propofol are all except?
+[ID: 25239] What is Aquavan?
+[ID: 25240] False statement regarding propofol is? 
+[ID: 25242] Total intravenous anaesthesia (TIVA) refers to anaesthesia that is provided solely by the intravenous route, the drug th
+[ID: 25243] A 48 years old female is being induced for general anaesthesia with propofol. Which of the following effects can be mini
+[ID: 25244] Which of the following is a slow onset intravenous anaesthetic drugs
+[ID: 25245] Propofol is a commonly used induction agents. It's main side effect is pain on injection. This can be minimized or avoid
+[ID: 25246] Which is the most accurate statement about the intravenous anaesthetic agent thiopentone?
+[ID: 25247] A 27-year-old man requires a manipulation under anaesthetic for a dislocated shoulder. He is given 200 mg of propofol an
+[ID: 25248] Which of the given statement is false?
+[ID: 25249] When Propofol and remifentanil are used in a patient, they produce anesthetic effects greater than the effects caused by
+[ID: 25250] Which of the following techniques is LEAST effective in the treatment of pruritus from administration of neuraxial opiat
+[ID: 25251] The given device operates on fluid mechanics and allows a flow rate in relation to its gauge; The given gauge will be:<b
+[ID: 25253] Midazolam causes all except:
+[ID: 25254] Propofol infusion syndrome is associated with all except?
+[ID: 25255] A 24-year male with patient with traumatic brain and spine injury and quadriplegia was on MV support was sedated with pr
+[ID: 25256] Which intravenous induction agent may predispose to pancreatitis?
+[ID: 25259] Cesarean section requires that dermatomes up to and including ______ be anesthetized
+[ID: 25260] Propofol is the choice in many conditions except___
+[ID: 25261] Which is not a clinical effect of benzodiazepines ?
+[ID: 25263] Tourniquet applied in Bier's block can provide anaesthesia for?
+[ID: 25264] Following the attack on Pearl Harbor, which intravenous anesthetic agent was controversially blamed for causing profound
+[ID: 25266] Sedative of choice for premedication in children is?
+[ID: 25268] Preferred agent of induction in elderly?
+[ID: 25272] The rise in intraocular pressure is seen with?
+[ID: 25273] Which intravenous anesthetic among the following acts as an NMDA receptor antagonist?
+[ID: 25277] Following an intra-arterial injection of thiopentone, all must be done except?
+[ID: 25278] Initial dose of Flumazenil is?
+[ID: 25279] Elimination half life of midazolam in elderly is than adults.
+[ID: 25280] True about metabolism of midazolam are all except?
+[ID: 25281] Midazolam is a benzodiazepine, used as premedication and prior to induction. It exhibits isomerism, which is
+[ID: 25284] I am an opioid agent more than 1000 times more potent than morphine. I have a very short context sensitivity, half-life 
+[ID: 25285] The use of the following drugs has potential risk of apoptosis in children except?
+[ID: 25287] Pathophysiology of gangrene due to intraarterial injection of thiopentone is?
+[ID: 25288] While induction of a patient during general anaesthesia using Thiopentone, it is accidentally injected intra-arterially.
+[ID: 25290] Thiopentone is used in induction of anaesthesia at a concentration of?
+[ID: 25302] Intravenous anaesthetic agent associated with myoclonus?
+[ID: 25304] During recovery from anaesthesia, a patient started experiencing hallucinations and vivid dreams. Which inducing agent i
+[ID: 25305] Which of the following should be avoided in patients with acute intermittent porphyria?
+[ID: 25481] Patient is being given labour epidural dose of bupivacaine, develops hypotension what can be done next?
+[ID: 25541] Elderly patients are at increased risk of acute renal failure in the postoperative period due to?
+[ID: 25555] If there is unintentional Dural puncture during labour epidural placement next step should be?
+[ID: 25556] After administering spinal anaesthesia to a patient, he is not able to lift the extended leg, but able to flex knees and
+[ID: 25557] Structures encountered while traversing the needle from skin to subarachnoid space are all except:
+[ID: 25558] Image shows lines corresponding to the iliac crests that are palpated while giving spinal anaesthesia. The line connecti
+[ID: 25559] If you administer spinal anaesthesia with all the three spinal needles given in the image below, which one will provide 
+[ID: 25560] Which of the following is not punctured while performing epidural anaesthesia?
+[ID: 25562] Which cant be given by Epidural anaesthesia ?
+[ID: 25566] 3 hours after giving spinal anaesthesia, patient started to have sensations. Regression of the effect of spinal anaesthe
+[ID: 25567] During epidural anaesthesia, which of the following layers is least likely to be punctured?
+[ID: 25568] For prevention of headache during spinal anaesthesia?
+[ID: 25569] Primigravida with HELLP syndrome, choice of anaesthesia?
+[ID: 25668] Factors influencing the level of spinal anesthesia achieved include all of the following, except
+[ID: 25681] Cyclopropane shock refers to?
+[ID: 25683] Anaesthetic requirement in elderly is?
+[ID: 25684] A 26-year-old female is planned for emergency cesarean section for preeclampsia. She is planned for general anaesthesia 
+[ID: 25685] 26-year-old female is planned for emergency cesarean section for preeclampsia. She is planned for general anaesthesia un
+[ID: 25686] Cricoid pressure applied during Rapid sequence induction is released
+[ID: 25692] Patients requiring rapid sequence induction, OR those with high risk of aspiration are/is the following
+
+======================================================
+MODULE 623: Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (97 questions)
+======================================================
+[ID: 8435] Which of the following is TRUE for ketamine?
+[ID: 8497] Which of the following anaesthetic agent is not painful on intravenous administration
+[ID: 8638] Which of the following intravenous general anaesthetic agent has cardiovascular stability?
+[ID: 8707] Which is the drug that increases systemic blood pressure but it is myocardial depressant?
+[ID: 24636] A 5-year-old child undergoing strabismus surgery under general anesthesia suddenly develops sinus bradycardia and interm
+[ID: 24637] A 30-year-old male underwent ACL reconstruction of the left knee under general anaesthesia and adductor canal block. Aft
+[ID: 24692] A hyperthyroid patient presents to the casualty room following road traffic accident. He has sustained right leg crush i
+[ID: 24708] Which of the following instrument is shown in the image below?<br><img class="w-100" style="height:auto; display:block; 
+[ID: 24730] First year trainee in anaesthesia intubates a patient posted for an elective surgery. Which auscultator technique give t
+[ID: 24832] A 50 year old female patient is planned for total thyroidectomy with bilateral neck dissection for carcinoma Thyroid. Sh
+[ID: 24943] You have applied the following monitor in a patient undergoing a cardiac surgery. Intraoperatively, monitor shows the va
+[ID: 24945] A 25-year-old overweight female was given Fentanyl-Pancuronium anaesthesia for surgery. After surgery and extubation she
+[ID: 24953] You are preparing for an emergency cesarean section in a patient who has just recovered from an episode of seizures. A r
+[ID: 24981] A postoperative patient following exploratory laparotomy complains of diffuse itching. The surgery and general anesthesi
+[ID: 25021] While doing a tympanoplanoplasty, after placement of the graft, towards the end of the surgery, surgeon found the graft 
+[ID: 25051] A 20-year-old male patient is admitted following a road traffic accident. He has sustained both bone fracture of the rig
+[ID: 25065] During emergency repair of a mandibular jaw fracture in an otherwise healthy 19-year-old man, the patient's temperature 
+[ID: 25070] What is the most probable cause of a young patient developing desaturation and bilateral basal crepitations soon after s
+[ID: 25075] A 25-year-old patient undergoing orthopedic surgery under general anaesthesia suddenly developed a rise in EtCO<sub>2</s
+[ID: 25115] On October 16, 1846, the first public demonstration of general anesthesia for surgery using ether was conducted at ether
+[ID: 25120] Nitrous oxide should not be used in?
+[ID: 25125] A cirrhotic patient is posted for surgery. Which would be the inhalational anaesthetic agent of choice?
+[ID: 25154] A 30-year-old woman presents for laparoscopic appendicectomy. She had a malignant hyperthermia crisis during a prior sur
+[ID: 25194] A patent has to undergo neurosurgery for intracranial space occupying lesion, inhalational agent of choice (for TICT) is
+[ID: 25200] A seventy-year-old patient is posted for a surgery which is likely to last 4-6 hours. The best inhalational agent of cho
+[ID: 25222] A patient was undergoing posterior fossa surgery in the sitting position. During recovery from anesthesia, the patient c
+[ID: 25228] A 40-year-old male was taken up for surgery after induction with an intravenous anaesthetic agent. During recovery from 
+[ID: 25252] A 25year-old female patient with history of post operative nausea and vomiting (PONV) is scheduled for middle ear surger
+[ID: 25257] Maximum risk of life-threatening infections is seen with?
+[ID: 25258] Intravenous induction agent of choice for caesarean section is?
+[ID: 25262] Which of the following drugs is most commonly used in day care surgery or Total Intravenous Anesthesia (TIVA)?
+[ID: 25269] Intravenous induction agent with abuse liability is?
+[ID: 25271] Among the given intravenous induction agent, which is an imidazole compound?
+[ID: 25282] A 30 years old male weighing 130 kg is posted for a sleeve gastrectomy bariatric surgery. Which of the following drugs d
+[ID: 25289] A 34-year-old male is planned to undergo surgery under general anaesthesia. He is given Thiopentone, accidentally it get
+[ID: 25295] Which medication is often recommended to decrease the likelihood of coughing and laryngospasm due to ketamine-induced sa
+[ID: 25296] Not true about effects of etomidate on respiratory system?
+[ID: 25297] Use of ketamine is not advocated in which of the following conditions?
+[ID: 25299] Excitatory effect of etomidate?
+[ID: 25300] A 50-year-old male with known coronary artery disease and mild aortic stenosis is scheduled for knee replacement. He is 
+[ID: 25303] Drug of choice for prevention of emergence delirium after ketamine?
+[ID: 25307] A patient during induction of anesthesia complains of garlicky taste. Which induction agent is known to cause this effec
+[ID: 25308] Pain on injection is seen with all except?
+[ID: 25309] Advantage of ketamine over propofol and etomidate, that?
+[ID: 25310] Which of the following induction agents is considered as cardiac stable: 
+[ID: 25311] Which of her following is a common side effect of the intravenous induction agents ketamine?
+[ID: 25312] A patient is undergoing craniotomy for subdural hematoma. During the procedure, the surgeon requests lowering the intrac
+[ID: 25313] Which of the following drug-feature pairs is correct?
+[ID: 25314] A patient with Addison's disease is planned for removal of a right suprarenal mass. During induction, the anesthesiologi
+[ID: 25316] All of the following are correct about ketamine, EXCEPT:
+[ID: 25317] During a craniotomy for evacuation of a subdural hematoma, the surgeon notes brain swelling and requests measures to dec
+[ID: 25318] Identify the given agent. Why is it contraindicated for sedation in the intensive care unit?<br> <img class="w-100" styl
+[ID: 25319] The main site of action of ketamine is ?
+[ID: 25320] Etomidate should be carefully used in?
+[ID: 25321] Effect of ketamine on CNS?
+[ID: 25322] Content of etomidate which causes pain on injection?
+[ID: 25323] Effect of ketamine on platelets?
+[ID: 25324] Not true about etomidate?
+[ID: 25325] Effect of etomidate on CNS?
+[ID: 25326] A patient is to be taken up for emergency repair of abdominal aortic aneurysm. The induction agent is choice will be
+[ID: 25327] The most epileptogenic intravenous induction agent is?
+[ID: 25328] Regarding ketamine, mark true (T) or false (F).<br>1.	Stimulation of the sympathetic nervous system<br>2.	Decreased myoc
+[ID: 25329] If a patient in the intensive care unit who is in a catecholamine depleted state is given ketamine, what cardiovascular 
+[ID: 25332] Which of the following intravenous anaesthetics can be used to reduce postoperative pain?
+[ID: 25333] A patient has been administered etomidate for induction of anesthesia. Which of the following effects are not attributab
+[ID: 25334] Which of the following is a true statement concerning etomidate?
+[ID: 25336] Which of the following is true in patients receiving Etomidate?
+[ID: 25338] Intravenous anaesthetic which raises intracranial pressure is?
+[ID: 25340] Identify the given agent. What is true about the agent being first choice for<br> <img class="w-100" style="height:auto;
+[ID: 25342] Which of the following statements regarding ketamine is false? 
+[ID: 25343] A 40-year-old male was taken up for surgery after induction with an intravenous anaesthetic agent. During recovery from 
+[ID: 25344] Dissociative anaesthesia is a characteristic feature of?
+[ID: 25345] The mechanism of action of ketamine-induced analgesia and dissociative anaesthesia is?
+[ID: 25346] Standout feature of etomidate for which it has been used?
+[ID: 25348] A patient during induction of anaesthesia complaints of garlicky taste. Which induction agent is known to cause this eff
+[ID: 25350] Intravenous induction agent of choice for day-care anaesthesia is?
+[ID: 25351] Which of the following drugs does NOT pass the placenta easily?
+[ID: 25352] A patient is scheduled for laparoscopic surgery under general anesthesia in a day care setting. Which of the following f
+[ID: 25384] A 4-year-old child operated for a hernia repair surgery, in the postoperative period is moaning, reaching the wound, has
+[ID: 25386] A female patient posted for bariatric surgery has a BMI of 39. She is a known case of diabetes, hypertension, hypothyroi
+[ID: 25387] In a patient with thrombocytopenia, platelet transfusion is done when the platelet level drops below a threshold. To pro
+[ID: 25389] Vein used in bypass Surgery:
+[ID: 25397] You are giving caudal block for a lower limb surgery in a pediatric patient. The equilateral triangle is formed between 
+[ID: 25398] Enoxaparin dose twice daily for thromboprophylaxis should be started how many hours after surgery?
+[ID: 25409] A patient with which of the following eye diseases would be at greatest risk for retinal damage from hypotension during 
+[ID: 25411] During anaesthesia for foot surgery, core temperature is most accurately measured in which of the following areas?
+[ID: 25520] Match the following: Drugs to be stopped before surgery<br>Drugs:<br>a) Clopidogrel<br>b) Ticlopidine<br>c) Warfarin<br>
+[ID: 25538] A 62-year-old patient with a bare-metal stent in the mid portion of the left anterior descending artery is scheduled for
+[ID: 25542] Peri-operative drug therapy involves stopping all the drugs prior to surgery except
+[ID: 25543] Name the person considered as Father of the anaesthesia specialty
+[ID: 25565] Which is the anaesthesia of choice in a daycare dental surgery?
+[ID: 25579] Identify the procedure<br><img class="w-100" style="height:auto; display:block; vertical-align:middle; border:0; "src="h
+[ID: 25599] A 25-year-old, otherwise healthy patient, received a right sided interscalene block for a shoulder surgery. 3 hours afte
+[ID: 25613] When performing an axillary block of the brachial plexus for distal upper extremity surgery, which of the following nerv
+[ID: 25664] You are working as junior doctor in a peripheral centre and supposed to assist for a bilateral breast lump excision of f
+[ID: 25680] For an awake craniotomy in a patient with an intracerebral tumour, wake up test is planned during the surgery. Which opi
+[ID: 25709] Celiac plexus block all the following is true except ?
+
+======================================================
+MODULE 624: Local Anaesthetics - General Properties (145 questions)
+======================================================
+[ID: 9219] Which is the reference local anaesthetic agent against which all agents are compared?
+[ID: 9436] A 35 years old male alcoholic patient came to emergency department with the complaints of severe abdominal pain, vomitin
+[ID: 9847] What is the mechanism of action of local anesthetics?
+[ID: 9896] Local anaesthetic agents cause neural toxicity. Which of the following is TRUE?<br>1.	Neural injury occurs from voltage 
+[ID: 18676] A 75-year-old woman comes to the clinic for advice. Over the course of the past year or two she has had increasing probl
+[ID: 24682] The manifestations of shellfish poisoning are due to the action of the poison on which channel?
+[ID: 24804] Clinical uses of fentanyl include all except?
+[ID: 25020] Allergic reactions occurring during the immediate perioperative period are most commonly attributable to administration 
+[ID: 25188] Regarding local anesthetics, which of the following are true:<br>A. Potency is related to lipid solubility<br>B. Protein
+[ID: 25189] A higher-than-expected spinal level achieved or greater dermatomal spread of local anesthetic can be associated with all
+[ID: 25298] In a patient with recurrent seizures, which of the following may help in mapping of a seizure focus under general anesth
+[ID: 25353] William Thomas Green Morton used to refer Ether as?
+[ID: 25354] The following device is named after a famous scientist <br><img class="w-100" style="height:auto; display:block; vertica
+[ID: 25355] The following are the neurotransmitters with inhibitory effects on nociception
+[ID: 25356] For measurement of non-invasive blood pressure, cuff width influences the blood pressure reading. Match the columns in t
+[ID: 25357] During a complex mitral valve replacement, it is determined that the patient will benefit from brief protective hypother
+[ID: 25358] You see the following feature on the ECG of a patient intraoperatively. Which electrolyte imbalance should you suspect?<
+[ID: 25359] A 60-year-old woman presents with shortness of breath and weakness. A 12-lead electrocardiogram shows a rate of 42 beats
+[ID: 25360] Pulse oximetry illuminates tissue samples with two wavelengths of light in order to calculate oxygen saturation. These w
+[ID: 25362] A 68-year-old, 100-kg patient is undergoing a transurethral resection of the prostate gland under general anesthesia. Up
+[ID: 25363] The surgeon is performing a right total knee arthroplasty under a combined spinal-epidural anesthetic. The surgical team
+[ID: 25364] A 4-year-old child weighing 16 kg is scheduled for hernia repair under general anesthesia. Assuming he was NPO for 8 hou
+[ID: 25365] True about cardiac system in infants and neonates?
+[ID: 25366] Levels below ______ mg/dL in the neonate indicate hypoglycaemia, requiring immediate treatment?
+[ID: 25367] Not true about glucose homeostasis in neonates?
+[ID: 25368] A 57-year-old man is undergoing a right eye enucleation under general anesthesia. The patient has no his tory of cardiac
+[ID: 25369] What is the maximum Fio2 that can be administered to the mother without increasing the risk of retino pathy of prematuri
+[ID: 25370] The spinal cord of newborns extends to the
+[ID: 25371] Which of the following represents the greatest risk for postoperative apnea in an infant?
+[ID: 25372] All are true regarding the central venous waveform except:
+[ID: 25374] Which of the following clotting factors has the shortest half-life?
+[ID: 25375] Which of the measures below does NOT reduce the incidence of transfusion-related acute lung injury (TRALI)? 
+[ID: 25376] The rationale for storage of platelets at room temperature (22&deg; C) is
+[ID: 25377] Hetastarch exerts an anticoagulative effect through interference with the function of
+[ID: 25378] What is the storage life of whole blood stored with citrate phosphate dextrose (CPD)?
+[ID: 25379] The most common cause of mortality associated with administration of blood is 
+[ID: 25380] Which of the following is NOT a component of the postanesthetic discharge scoring system (PADSS) used to evaluate the su
+[ID: 25381] A 31-year-old patient has been in the ICU on a ventilator for 24 hours after a motor vehicle accident. The patient does 
+[ID: 25382] While infiltration of local anesthetic, highest chance of increased systemic concentration depending on the site of inje
+[ID: 25383] At what time frame following the postsurgical period does persistent postsurgical pain become defined as being "Chronic 
+[ID: 25385] Dermatomal level required for various common surgical procedures
+[ID: 25388] Which of the following organisms does not enters through abrasions in the skin -
+[ID: 25390] A patient with methemoglobinemia will have a pulse oximetry reading that converges around a saturation of
+[ID: 25391] The most common adverse cardiac event in the pediatric population is
+[ID: 25392] Postoperative bleeding following tonsillectomy occurs most commonly
+[ID: 25393] While infiltrating local anesthetics, to prolong the duration of action adrenaline is added. This should be however avoi
+[ID: 25394] When asked to describe the symptoms of her allergy to a local anesthetic that a 26- year-old female had at the dentist's
+[ID: 25400] Assertion(A): Bier's block or intravenous regional anaesthesia cannot be used for cases less than 20 minutes or more tha
+[ID: 25405] A 63 year old male is operated for acute subdural hemorrhage. He is undergoing emergency decompressive craniectomy. The 
+[ID: 25410] The most common reason for admitting outpatients to the hospital following general anesthesia is
+[ID: 25412] The volume of plasma from which a drug is removed per unit time is called
+[ID: 25413] Pulmonary vascular resistance is increased by all except:
+[ID: 25414] Find the incorrect event from among the following during the phases of the Valsalva manoeuvre.
+[ID: 25415] A&alpha; fibres are responsible for what function in the nervous system?
+[ID: 25416] Which of the following is not a feature of type B adverse drug reactions?
+[ID: 25417] According to the  Hagen-Poiseuille equation flow (Q) through rigid tubes is a function of all except
+[ID: 25418] The conversion factor to find out the outer diameter of a cannula in millimeters, expressed in French size is
+[ID: 25419] The classic method of insertion of central venous line by threading a cannula over a guidewire is known as
+[ID: 25420] The cricoid cartilage is the narrowest part of the trachea, What is the  an average diameter of it
+[ID: 25421] What is the Normal chest wall compliance of an adult
+[ID: 25422] What is the normal functional residual capacity of an adult patient
+[ID: 25423] The relationship between intra-alveolar pressure, surface tension, and the radius of an alveolus is described by
+[ID: 25424] Methoxyflurane is an Inhalational anesthetic that is seldom in use. This is because of its property of
+[ID: 25425] Identify the given induction agent. The vital contents include all except: <br><img class="w-100" style="height:auto;dis
+[ID: 25426] Which of the following statements is not true about d-Tubocurarine?
+[ID: 25428] Which of the following narcotics has a shorter half-life in the newborn compared with older children?
+[ID: 25429] During oxygen therapy, pulmonary oxygen toxicity is more likely to be associated with
+[ID: 25430] All the following are indications for hyperbaric oxygen therapy Except:
+[ID: 25431] Hanger yoke assembly consists of all except?
+[ID: 25432] While moving a patient from the operation theatre to the ICU, it is found that in the oxygen E-cylinder, 1000 PSI is rem
+[ID: 25433] Match the following cylinders with appropriate color coding<br><img class="w-100" style="height:auto; display:block; ver
+[ID: 25434] Capacity of an oxygen E cylinder is approximately ______ Liters
+[ID: 25435] Which of the following factors is the greatest predictor of sleep apneas in an adult?
+[ID: 25436] A patient is in the intensive care unit after an aspiration episode in the operation theatre. What are the late clinical
+[ID: 25437] Match the following terms related to pain to their correct meaning.<br><img class="w-100" style="height:auto; display:bl
+[ID: 25438] A patient on examination describes an ordinary touch sensation as painful. What is the term used to best describe his co
+[ID: 25439] You ask a patient of chronic pain in the pain clinic, to mark his pain severity on a 10-cm horizontal line labeled "no p
+[ID: 25440] In the pain clinic, you will differentiate neuropathic pain from nociceptive pain in it being all except
+[ID: 25441] Which of the following clinical diagnoses best describes deafferentation pain?
+[ID: 25443] Match the following parts of the transdermal patch with the correct label:<br><img class="w-100" style="height:auto; dis
+[ID: 25444] A patient presents in the pain clinic with lower back pain radiating to anterolateral thigh, anteromedial calf and the a
+[ID: 25445] All of the following are the physiological processes involving nociceptive pain except:
+[ID: 25446] Which of the following is true regarding pain?
+[ID: 25447] An analgesic effect similar to the epidural administration of 2.5 mg of morphine could be achieved by which dose of intr
+[ID: 25448] A 75-year-old man is scheduled to undergo elective orchiectomy for prostate cancer. The patient has selected spinal anes
+[ID: 25449] The artery of Adamkiewicz MOST frequently arises from the aorta at which spinal level?
+[ID: 25450] A 21-year-old patient reports tingling in her thumb during her cesarean section under epidural anesthesia. To which derm
+[ID: 25451] Which of the following procedures for treatment of chronic pain requires localization of the epidural space with an epid
+[ID: 25452] 3% NaCl has been indicated as a modality of treatment in patients with cerebral edema based on osmosis. In comparison wi
+[ID: 25453] In epidural anesthesia, Which of the following layers is least likely to be punctured during the procedure?
+[ID: 25454] Which vertebral level corresponds to Tuffier's line, a clinically important anatomical landmark?
+[ID: 25455] Spinal cord in adult terminates at what level of vertebrae?
+[ID: 25456] Which cylinder is appropriate for administering oxygen therapy to a patient with COVID-19?<br><img class="w-100" style="
+[ID: 25457] For iv cannula in new-born, which of the following is incorrect?
+[ID: 25458] Arrange Steps of CPR:<br>A) Check pulse<br>B) Check respiration<br>C) Assess responsiveness<br>D) Start chest compressio
+[ID: 25459] In Foleys catheter , the size 'F' in Foley's catheter indicates
+[ID: 25460] For iv cannula in new-born, which of the following is correct?<br>A) 22G cannula<br>B) 24 G cannula<br>C) Adhesive patch
+[ID: 25461] A patient after an RTA was received in the emergency department with the following cannula in the picture. What is the m
+[ID: 25462] MET equivalent of 1500 mL of oxygen consumption per minute for healthy 70 kg adult male with basal oxygen consumption of
+[ID: 25463] What is the gauge for a given image of canula?<img class="w-100" style="height:auto; display:block; vertical-align:middl
+[ID: 25464] Somatosensory cortex lesion will cause ?
+[ID: 25465] Setting posture before planned movement ?
+[ID: 25466] With blunt trauma all over body the amount of N2 & nitrogen end products lost/day
+[ID: 25467] Flash burn, tender, red & painful, which of the following type is the burn-
+[ID: 25468] All are features of atopic dermatitis, except:
+[ID: 25469] Which of the following is not a NEVUS of melanocyte?
+[ID: 25470] Levels of ether anesthesia were demonstrated by whom?
+[ID: 25471] Ayre's T-piece is which type of circuit
+[ID: 25472] The term "Dementia precox" was coined by ?
+[ID: 25473] The term 'id' was coined by ?
+[ID: 25474] Subcortical dementia is seen in all except ?
+[ID: 25485] Eutectic mixture of local anesthetics (EMLA cream) is sometimes used to numb the skin before attempting an intravenous a
+[ID: 25487] A local numbing cream is sometimes applied to the skin before attempting an intravenous access in pediatric patients. Wh
+[ID: 25488] True about transient neurological symptoms seen with local anaesthetics is?
+[ID: 25489] The following local anaesthetics are metabolized by plasma cholinesterase except?
+[ID: 25490] The following local anesthetics are used for topical anaesthesia except?
+[ID: 25492] The following local anesthetics are metabolized by plasma cholinesterase except?
+[ID: 25493] The most potent local anesthetic among the following is?
+[ID: 25496] Addition of sodium bicarbonate to lignocaine?
+[ID: 25497] Local anaesthetic in wound/ulcer management
+[ID: 25498] Local anesthetics act by blocking sodium channels. Which of the following local anesthetic has highest cardio toxicity?
+[ID: 25499] Which of the following local anesthetic is used as a part of tumescent anesthesia
+[ID: 25502] A Eutectic Mixture of Local Anesthetics (EMLA) cream is a mixture of which local anesthetics? 
+[ID: 25503] Which of the following properties of epidurally administered local anesthetics determines the extent to which epinephrin
+[ID: 25504] Transient neurologic syndrome (TNS) is MOST commonly seen after the spinal anesthetic injection of which local anestheti
+[ID: 25505] Which local anesthetic has the MOST rapid metabolism in maternal and fetal blood? 
+[ID: 25506] All are aminoamides except:
+[ID: 25507] Maximum dose of local anaesthetics?
+[ID: 25510] Which of the following local anesthetic causes hypertension
+[ID: 25512] Who devoloped  local anesthetic Lignocaine 
+[ID: 25513] For intravenous cannulation in special population, topical local anaesthetics have been used . This is a formulation of:
+[ID: 25545] Assertion(A): The application of EMLA mixture made of Prilocaine and Lignocaine mixture should be applied only on intact
+[ID: 25551] The most neurotoxic local anesthetic is?
+[ID: 25552] Which local anaesthetic is not to be given in ring block of the finger?
+[ID: 25578] Cocaine was first used for intradermal infiltration by:
+[ID: 25596] A 25-year-old male with roadside accident underwent debridement and reduction of fractured both bones right forearm unde
+[ID: 25597] Primary mechanism of action of local anaesthetics
+[ID: 25608] Local anaesthetic injected below inguinal ligament during the femoral artery catheterisation. Which of the following ner
+[ID: 25631] First ever used local anaesthetic used was?
+[ID: 25650] To anesthetize the supraglottic laryngeal mucosa, the local anesthetic should be injected into one of the following area
+[ID: 25658] The first application of cocaine for local anaesthesia was done as a topical anesthetic for ophthalmological surgeries. 
+[ID: 25659] The main mechanism of action of local anesthetics is through inhibition of?
+[ID: 25669] Factors affecting onset of action of local anaesthetic include all except?
+[ID: 25670] Local anaesthetic bind to sodium channel in what conformational state?
+[ID: 25671] From which of the following routes absorption of local anaesthetic is maximum?
+
+======================================================
+MODULE 625: Local Anaesthetics - Specific Drugs (45 questions)
+======================================================
+[ID: 8436] Levobupivacaine is ___________ compared to bupivacaine.
+[ID: 8455] Which is FALSE sentence regarding Articaine?
+[ID: 8456] What is the only drawback of lidocaine?
+[ID: 8482] 1. Bupivacaine is avoided when high volumes of concentration is needed <br> 2. It is cardiotoxic drug and can cause card
+[ID: 8798] An anesthetist injected bupivacaine in a patient for axillary nerve block. Later, the patient developed restlessness, ag
+[ID: 8862] Which is the TRUE for Ropivacaine?
+[ID: 25055] Hydrolysis by plasma cholinesterase is the primary elimination route of all the following drugs EXCEPT
+[ID: 25283] Specific benzodiazepine antagonist is?
+[ID: 25477] Cardiac or central nervous system toxicity may result when standard lidocaine doses are administered to patients with ci
+[ID: 25479] The advantage of ropivacaine over bupivacaine is?
+[ID: 25480] The onset of delirium tremens (DTs) after abstinence from alcohol usually occurs in
+[ID: 25491] All of the following are metabolised by plasma esterase except?
+[ID: 25495] Local anaesthetic not available as a racemic mixture?
+[ID: 25500] When sodium bicarbonate is added to lidocaine, more rapid onset of action of lidocaine occurs because of
+[ID: 25501] An 18-year-old woman in the active stage of labor requests an epidural anesthetic. Immediately following injection of 2 
+[ID: 25509] Which of the following is true regarding the use of the drug in the given image<img class="w-100" style="height:auto; di
+[ID: 25515] A 2-year-old child weighing 13 kg is scheduled for inguinal hernia repair. The calculated dose of 0.25% bupivacaine for 
+[ID: 25516] An ECG of a patient is shown below. What is the Drug of choice for this condition?<br><img class="w-100" style="height:a
+[ID: 25517] Addition of epinephrine to lignocaine?
+[ID: 25518] Maximum concentration for epidural block ?
+[ID: 25519] Vasoconstricator L.A. is ?
+[ID: 25521] Not true about IVRA is?
+[ID: 25522] Activity of butyryl cholinesterase is reduced by?
+[ID: 25523] Factors potentiating the action of neuromuscular blocking drugs are all except?
+[ID: 25524] Identify the complimentary pair of antagaonist<br><img class="w-100" style="height:auto; display:block; vertical-align:m
+[ID: 25525] Not true about EMLA cream is?
+[ID: 25526] Mechanism of action of local anaesthetics is?
+[ID: 25527] American Society of Regional Anesthesia (ASRA) guidelines for the treatment of local anesthetic systemic toxicity (LAST)
+[ID: 25528] All the following drugs are metabolized by esterases except
+[ID: 25529] Comparing the given drugs, comment Regarding potency: Morphine and fentanyl
+[ID: 25530] Gas flowmeters
+[ID: 25531] All of the following groups of drugs can be used in the pharmacological management of chronic pain except:
+[ID: 25532] Each of the following drugs has been used to treat neuropathic pain. Selective inhibition of serotonin and norepinephrin
+[ID: 25533] Which of the hepatic cytochrome enzymes is involved with hydroxylation of ropivacaine?
+[ID: 25534] A junior resident on duty , asks a doubt about the baricity of the drug to the anesthesiologist in operating room to exp
+[ID: 25537] How many hours should elapse before performing a single-shot spinal anesthetic in a patient who is receiving 1 mg/kg eno
+[ID: 25539] A 68-year-old male has nausea and vomiting in the post-anesthesia care unit, needing antiemetic therapy. He develops inv
+[ID: 25547] A 95-year-old woman has persistent and prolonged thoracic pain after a herpes zoster infection. Which of the treatments 
+[ID: 25550] During the second stage of labor, complete pain relief can be obtained with
+[ID: 25554] For epidural anesthesia, Maximum dose of lidocaine without epinephrine is?
+[ID: 25563] A 70 year old male patient with history of chronic hypertension, undergoes surgery for benign prostatic hypertrophy, und
+[ID: 25598] How do local anaesthetics work?
+[ID: 25609] Rate of local anesthetic absorption from a particular injection site from highest to lowest rate is:
+[ID: 25611] Local anesthetics acts by blocking
+[ID: 25643] Each of the following items describes pain in the abdominal viscera EXCEPT
+
+======================================================
+MODULE 626: Regional Anaesthesia: Techniques (17 questions)
+======================================================
+[ID: 24830] The best means for identifying the contents of a cylinder is the;
+[ID: 25190] A 66-year-old man with severe chronic obstructive airways disease presents for a laparoscopic hernia repair as a day cas
+[ID: 25209] A 32-year-old man is apprehensive of general anesthesia and prefers a regional anesthetic. Decision is made to conduct s
+[ID: 25395] The most correct statement regarding the appropriate use of ultrasound equipment during performance of regional anesthes
+[ID: 25396] Anesthetic agent with vasoconstrictor is contraindicated in:
+[ID: 25399] Which of the following choices is NOT consistent with a limb affected by complex regional pain syndrome (CRPS)
+[ID: 25401] Anesthesia accidents and mishaps account for approximately % of maternal deaths?
+[ID: 25402] Types of pain disorders that are commonly treated using "sympathetic blockade" include all of the following, except
+[ID: 25486] The drug that has been used most frequently for intravenous regional anesthesia is?
+[ID: 25570] Assertion(A): Whitacre or pencil point tip spinal needles have lower incidence of Post dural puncture headache.<br>Reaso
+[ID: 25571] While performing lumbar puncture, the last layer to be pierced to enter lumbar cisternae is
+[ID: 25573] Which of the following patients is not contraindicated to receive central neuraxial blockade from among the following?
+[ID: 25618] You can see the following image on the ultrasound screen when your senior is anaesthetizing a patient. Which of the foll
+[ID: 25627] Which of the following is the best example of neuropathic pain?
+[ID: 25628] Complex regional pain syndrome (CRPS) type I (reflex sympathetic dystrophy [RSD]) is differentiated from CRPS type II (c
+[ID: 25656] Patients who undergo extracorporeal shock wave lithotripsy are at increased risk for
+[ID: 25667] Regarding intravenous regional anaesthesia, find the false statement from among the following:
+
+======================================================
+MODULE 627: Regional Anaesthesia: Complications and Contraindications (9 questions)
+======================================================
+[ID: 25577] All are contraindications of spinal anaesthesia Except?
+[ID: 25584] During performance of lumbar epidural anesthesia for labor analgesia, you experience free-flowing cerebrospinal fluid (C
+[ID: 25585] Each of the following is associated with an increased incidence of PDPHs EXCEPT
+[ID: 25586] Postdural puncture headaches (PDPHs)
+[ID: 25589] All are absolute contraindication for Neuraxial blockade except?
+[ID: 25593] In addition to the postural component of a postdural puncture headache (PDPH), signs and symptoms may include any of the
+[ID: 25601] A 64 year old male patient is undergoing Transurethral resection of prostrate. He is a known diabetic and hypertensive o
+[ID: 25612] You have given a supraclavicular block in a patient for an upper limb surgery, following which the patient complains of 
+[ID: 25620] Regarding the mode of regional anaesthesia given in the image below, mark the following statements true (t) or false (f)
+
+======================================================
+MODULE 628: Peripheral Nerve Blocks (35 questions)
+======================================================
+[ID: 24642] Assertion(A): Glycopyrrolate is preferred over atropine as antisialogogues in the adult population.<br> Reason(R): The q
+[ID: 25121] Which of the following topical local anesthetic agents is most commonly used during cataract surgery?
+[ID: 25548] Match the concentration of lidocaine and their uses<br>Use:<br>a) Infiltration<br>b) Nerve blocks<br>c) Intrathecal<br>d
+[ID: 25549] Which of the following is most suitable for intravenous regional anesthesia?
+[ID: 25605] Incorrect statement regarding secondary hyperalgesia is
+[ID: 25606] Which of the following structures does the needle not pass through during epidural anesthesia?
+[ID: 25615] Which nerve block is shown in the image given below?<br><img class="w-100" style="height:auto; display:block; vertical-a
+[ID: 25616] While performing a peripheral nerve block in an awake patient, access and/or use of all of the following should be consi
+[ID: 25617] You are performing an axillary brachial plexus block using the instrument given below. At 0.5 mA current, you can see th
+[ID: 25619] After administering which of the following nerve blocks would you expect the highest blood levels of local anaesthetic p
+[ID: 25621] Match the following labels with the levels of brachial plexus blocks:<br><img class="w-100" style="height:auto; display:
+[ID: 25622] You are administering ankle block to a patient for great toe amputation. Which of the following nerves also has a motor 
+[ID: 25625] A spinal neuraxial anesthetic was given 20 minutes earlier to a 28-year-old G3P2 parturient scheduled for repeat cesarea
+[ID: 25626] The correct statement for human neuraxial anatomy is
+[ID: 25632] The correct order of susceptibility of nerve fibers to local anesthetic agents
+[ID: 25633] Which of the following causes an increase in heart rate?
+[ID: 25634] Opioid with predominant peripheral action is?
+[ID: 25635] Vomiting is a common side effect following use of opioids. This is attributed to all of the following mechanisms except
+[ID: 25636] A 68-year-old male presents to his primary care physician's office with a major complain of back pain radiating into the
+[ID: 25637] A 43-year-old female presents to the pain clinic with electric shock like pain on the right side of the face. All of the
+[ID: 25638] Activation of which of the following mechanisms and/or pathways best describes "central sensitization" at the level of t
+[ID: 25639] You are administering gasserian ganglion block in a patient with neuralgia. Gasserian ganglion block is most commonly us
+[ID: 25640] A 40-year-old female presents to you with shock like pain on the right side of the face. The block of which of the follo
+[ID: 25641] Select the one TRUE statement concerning phantom limb pain.
+[ID: 25642] The mechanism of low-frequency transcutaneous electrical nerve stimulation (TENS) units in relieving pain is
+[ID: 25644] In addition to C nerve fibers, which nerve fibers carry pain impulses?
+[ID: 25646] The following are the elements of pain except;
+[ID: 25647] All are true regarding phantom limb pain except?
+[ID: 25649] A patient undergoes parotid gland removal under general anesthesia. Each of the following assesses facial nerve function
+[ID: 25653] A 35-year-old woman undergoes a total thyroidectomy. Post-operatively, a fiberoptic laryngoscopy is performed to assess 
+[ID: 25654] Which of the following peripheral nerves is MOST likely to become injured in patients who are under general anesthesia? 
+[ID: 25655] A 32-year-old army officer is unable to oppose the left thumb and left little finger after an 8-hour exploratory laparot
+[ID: 25657] A 47-year-old morbidly obese patient develops bilateral blindness (only able to perceive light) after a 6-hour, three-se
+[ID: 25661] A 21-year-old woman has had a laparoscopic salpingectomy for an ectopic pregnancy. She received a total of 50 mg of atra
+[ID: 25663] A 40-year-old male is undergoing ankle surgery under a subgluteal sciatic nerve block. During preparation for the proced
+
+======================================================
+MODULE 629: Anaesthetic Implication of Concurrent Diseases (22 questions)
+======================================================
+[ID: 24641] Scopolamine should not be given as a premedication in patients with which of the following neurologic diseases?
+[ID: 24676] Oxygen therapy is indicated in all the following conditions excepts:
+[ID: 25038] A 39-year-old male patient with moderate degree burns before 1 week is to be anaesthetised. Use of which of the followin
+[ID: 25067] The most epileptogenic inhalational anaestheticis?
+[ID: 25072] "Concentration effect" is associated with?
+[ID: 25124] The second gas effect is seen with which anaesthetic?
+[ID: 25153] Which of the following is an epileptogenic anaestheticagent?
+[ID: 25403] Pheochromocytoma would be MOST likely to coexist with which of the following?
+[ID: 25404] Hypoglycemia is more likely to occur in the diabetic surgical patient with which of the following diseases?
+[ID: 25535] What is the diagnosis for a 23-year-old female presenting with a week-long fever and showing the following rhythm on the
+[ID: 25553] Opioid receptors belong to which class?
+[ID: 25591] Which of the following statements about lumbar puncture are false?<br>1. Urgent indication if SAH is suspected with inco
+[ID: 25645] When the patient complaints of abnormal sensation without an apparent stimulus, it is called as:
+[ID: 25660] A 54-year-old woman is having a bunionectomy under general anaesthetic. You perform an ankle block using the landmark te
+[ID: 25673] The following opioids are available for intra spinal injection except?
+[ID: 25674] Which of the following forms active metabolites?
+[ID: 25675] Which of the following statements is false?
+[ID: 25676] All of the following are metabolised in liver except?
+[ID: 25677] CNS effect of opioid is?
+[ID: 25678] Which of the following are features of opioid withdrawal?
+[ID: 25679] Which of the following opioids is to be avoided in patients on Monoamine oxidase inhibitors?
+[ID: 25682] A 28-year-old G2P1L1, previous lower segment caesarean section, is brought to the hospital in an emergency with abdomina
+
+======================================================
+MODULE 630: Paediatric and Obstetric Anaesthesia (12 questions)
+======================================================
+[ID: 24599] Who coined the term "balanced anaesthesia"?
+[ID: 24684] True about paediatric respiratory system in comparison to adult?
+[ID: 24853] You are using a sealing face mask to oxygenate a patient. All of the following are the disadvantages of sealing face mas
+[ID: 25063] A 31-year-old woman has a rapid sequence induction for an emergency Caesarean section. Following delivery of the baby, t
+[ID: 25150] Preferred mask induction drug is?
+[ID: 25184] Sevoflurane is preferred agent for inhaled induction in paediatric anaesthesia due to?
+[ID: 25339] A paediatric patient presents with an open globe injury. Which induction agent should be avoided?
+[ID: 25540] True fact about flow meters used in Anaesthesia machine is
+[ID: 25572] Which physiological change is commonly seen during spinal anesthesia?
+[ID: 25690] Volatile anaesthetics inhibit thermogenesis in paediatric patients by interfering with?
+[ID: 25694] The MOST common injury recorded in the Ameri can Society of Anesthesiologist's (ASA's) Closed Claim Project regarding ob
+[ID: 25696] Aortocaval compression starts to become significant in a normal pregnancy at how many weeks EGA?
+
+======================================================
+MODULE 631: Complications of Anaesthesia (27 questions)
+======================================================
+[ID: 2034] A 22-year-old man undergoes surgery under general anaesthesia with halothane and succinylcholine. Soon after induction, 
+[ID: 2048] A 48-year-old man was given dantrolene sodium as he was diagnosed with the case of malignant hyperthermia. There will be
+[ID: 17215] Massaging of nasolacrimal duct is done in ?
+[ID: 24622] Which of the following is classified as ASA Grade 1?
+[ID: 24686] A 3-year-old with cough and sore throat, but no fever, is scheduled for tonsillectomy. Physical examination reveals mini
+[ID: 24733] The patient is positioned as given below for posterior fixation of spine. This can result in many complications that inc
+[ID: 24901] Administration of Oxygen in the perioperative settings often require humidification of the supplied Oxygen. The indicati
+[ID: 25022] The following statements are true regarding succinylcholine (Sch) except? 
+[ID: 25036] Assertion(A): Use of Succinylcholine is not indicated in age groups less than 2 years. Reason(R): The succinylcholine ac
+[ID: 25129] The esophageal temperature sensor should be positioned at:
+[ID: 25292] Most common complications which require hospitalization after day care surgery?
+[ID: 25341] After emergence from anesthesia, 30 years old female shows features of delirium in the postoperative period. Which anest
+[ID: 25349] After emergence from anaesthesia, 30 years old female shows feature of confusional illusions and delirium in the postope
+[ID: 25546] CVP line was secured in right internal jugular vein for inotropic support during early sepsis when the patient got admit
+[ID: 25576] In epidural anaesthesia, the drug is deposited:
+[ID: 25587] In adults, the spinal cord neural extension terminates at the level of:
+[ID: 25588] The following structures pierced during lumbar puncture, except
+[ID: 25590] The given instrument is used in the identification of:<br><img class="w-100" style="height:auto; display:block; vertical
+[ID: 25592] How is the measurement of nasogastric tube done?
+[ID: 25600] THE IMMEDIATE COMPLICATIONS SEEN WITH THE FOLLOWING PROCEDURE IS?<img class="w-100" style="height:auto; display:block; v
+[ID: 25602] The core body temperature reaches the steady state during which phase?
+[ID: 25610] Which of the following has the worst prognosis for a patient
+[ID: 25624] Which of the following approaches to blockade of the brachial plexus by nerve stimulator technique is associated with th
+[ID: 25629] A 70-year-old man is undergoing total knee replacement for severe osteoarthritis under spinal anesthesia. After difficul
+[ID: 25697] The MOST sensitive early sign of malignant hyperthermia (MH) during general anesthesia is
+[ID: 25698] Which of the following findings is NOT consistent with a diagnosis of malignant hyperthermia?
+[ID: 25705] You are about to perform celiac plexus block in a patient. Possible complications to disclose when obtaining an anesthes
+
+======================================================
+MODULE 632: Mixed / Miscellaneous Topics (3 questions)
+======================================================
+[ID: 25704] A celiac plexus block would NOT effectively treat pain resulting from a malignancy involving which of the following orga
+[ID: 25707] Celiac block is given for?
+[ID: 25708] The most common complication of a celiac plexus block is

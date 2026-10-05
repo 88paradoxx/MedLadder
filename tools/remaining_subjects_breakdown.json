@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Pathology",
+    "range": "126-189",
+    "questions": 1717
+  },
+  {
+    "subject": "Microbiology",
+    "range": "190-220",
+    "questions": 1636
+  },
+  {
+    "subject": "Pharmacology",
+    "range": "221-271",
+    "questions": 1285
+  },
+  {
+    "subject": "Forensic Medicine",
+    "range": "272-292",
+    "questions": 1057
+  },
+  {
+    "subject": "ENT",
+    "range": "293-328",
+    "questions": 1215
+  },
+  {
+    "subject": "Ophthalmology",
+    "range": "329-354",
+    "questions": 1564
+  },
+  {
+    "subject": "PSM",
+    "range": "355-410",
+    "questions": 2185
+  },
+  {
+    "subject": "Medicine",
+    "range": "411-479",
+    "questions": 2785
+  },
+  {
+    "subject": "Surgery",
+    "range": "480-530",
+    "questions": 2064
+  },
+  {
+    "subject": "OB & G",
+    "range": "531-574",
+    "questions": 1810
+  },
+  {
+    "subject": "Pediatrics",
+    "range": "575-608",
+    "questions": 1300
+  },
+  {
+    "subject": "Anaesthesia",
+    "range": "609-632",
+    "questions": 1106
+  },
+  {
+    "subject": "Dermatology",
+    "range": "633-656",
+    "questions": 838
+  },
+  {
+    "subject": "Orthopaedics",
+    "range": "657-686",
+    "questions": 1376
+  },
+  {
+    "subject": "Psychiatry",
+    "range": "687-719",
+    "questions": 930
+  },
+  {
+    "subject": "Radiology",
+    "range": "720-739",
+    "questions": 1186
+  }
+]

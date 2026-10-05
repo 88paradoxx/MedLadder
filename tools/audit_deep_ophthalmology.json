@@ -1,0 +1,3529 @@
+{
+  "subject": "Ophthalmology",
+  "totalQuestions": 1578,
+  "flaggedCount": 587,
+  "moves": [
+    {
+      "id": 22336,
+      "fromModule": 338,
+      "toModule": 549,
+      "reason": "Refractory postpartum hemorrhage managed with Carboprost (PGF2a) belongs to Obstetrics (Postpartum Hemorrhage)."
+    },
+    {
+      "id": 13986,
+      "fromModule": 354,
+      "toModule": 567,
+      "reason": "Most common malignancy of the fallopian tube (serous adenocarcinoma) belongs to Obstetrics & Gynaecology (Ovarian and Fallopian Tube Tumors)."
+    },
+    {
+      "id": 19659,
+      "fromModule": 338,
+      "toModule": 503,
+      "reason": "Tamoxifen side effects in breast cancer increasing risk of endometrial carcinoma belongs to Surgery (Breast Cancer) / Oncology."
+    },
+    {
+      "id": 13982,
+      "fromModule": 354,
+      "toModule": 138,
+      "reason": "P53 tumor suppressor gene inducing cell cycle arrest at G1/S belongs to Pathology (Neoplasia)."
+    },
+    {
+      "id": 13983,
+      "fromModule": 338,
+      "toModule": 147,
+      "reason": "Male-to-male transmission as diagnostic feature of Autosomal Dominant inheritance belongs to Pathology / Genetics (Genetics and Pediatric Diseases)."
+    },
+    {
+      "id": 13984,
+      "fromModule": 354,
+      "toModule": 147,
+      "reason": "Autosomal dominant inheritance recurrence risk calculation (50% transmission) belongs to Pathology / Genetics (Genetics and Pediatric Diseases)."
+    },
+    {
+      "id": 13985,
+      "fromModule": 352,
+      "toModule": 181,
+      "reason": "Orphan Annie eye nuclei characteristic of papillary thyroid carcinoma belongs to Pathology (Endocrine Pathology)."
+    },
+    {
+      "id": 21765,
+      "fromModule": 338,
+      "toModule": 210,
+      "reason": "Zika virus congenital infection causing microcephaly in fetus belongs to Microbiology (Virology - Miscellaneous Viruses)."
+    },
+    {
+      "id": 28693,
+      "fromModule": 339,
+      "toModule": 234,
+      "reason": "Valproate mood stabilizer causing hyperammonemia and hepatotoxicity belongs to Pharmacology (Anti-manic Drugs) / Psychiatry."
+    },
+    {
+      "id": 13987,
+      "fromModule": 354,
+      "toModule": 254,
+      "reason": "Glucocorticoid potency and anti-inflammatory activity comparison belongs to Pharmacology (Corticosteroids)."
+    },
+    {
+      "id": 13988,
+      "fromModule": 354,
+      "toModule": 254,
+      "reason": "Steroid with maximum mineralocorticoid activity (fludrocortisone) belongs to Pharmacology (Corticosteroids)."
+    },
+    {
+      "id": 6415,
+      "fromModule": 331,
+      "toModule": 430,
+      "reason": "Young male with post-chlamydial urethritis, reactive arthritis, and conjunctival injection belongs to Medicine (Rheumatoid Arthritis and Spondyloarthropathies)."
+    },
+    {
+      "id": 13434,
+      "fromModule": 345,
+      "toModule": 429,
+      "reason": "Anti-histone antibodies characteristic of drug-induced lupus erythematosus belongs to Medicine (Systemic Lupus Erythematosus and Autoimmune Diseases)."
+    },
+    {
+      "id": 11270,
+      "fromModule": 336,
+      "toModule": 295,
+      "reason": "Meatoplasty surgical reconstruction of the cartilaginous external auditory canal belongs to ENT (Diseases of External Ear)."
+    },
+    {
+      "id": 11414,
+      "fromModule": 336,
+      "toModule": 300,
+      "reason": "Episodic vertigo, tinnitus, and sensorineural hearing loss in Meniere disease (endolymphatic hydrops) belongs to ENT (Meniere's Disease and Other Peripheral Vestibular Disorders)."
+    },
+    {
+      "id": 11418,
+      "fromModule": 336,
+      "toModule": 300,
+      "reason": "Unilateral vs bilateral involvement and audiologic features in Meniere disease belongs to ENT (Meniere's Disease and Other Peripheral Vestibular Disorders)."
+    },
+    {
+      "id": 11419,
+      "fromModule": 336,
+      "toModule": 300,
+      "reason": "Lermoyez syndrome (reverse Meniere disease) and vestibular symptoms belong to ENT (Meniere's Disease and Other Peripheral Vestibular Disorders)."
+    },
+    {
+      "id": 13989,
+      "fromModule": 354,
+      "toModule": 272,
+      "reason": "Definition of juvenile under the Juvenile Justice Act belongs to Forensic Medicine (Legal Procedure and Medical Jurisprudence)."
+    },
+    {
+      "id": 13991,
+      "fromModule": 354,
+      "toModule": 276,
+      "reason": "Ectopic bruising (spectacle hematoma / black eye) from fracture of anterior cranial fossa belongs to Forensic Medicine (Mechanical Injuries)."
+    },
+    {
+      "id": 13992,
+      "fromModule": 354,
+      "toModule": 279,
+      "reason": "Postmortem neck ligature marks in hanging vs strangulation belong to Forensic Medicine (Asphyxial Deaths)."
+    },
+    {
+      "id": 13993,
+      "fromModule": 354,
+      "toModule": 286,
+      "reason": "Vitriolage (corrosive acid attack) definition and legal aspects belong to Forensic Medicine (Corrosive Poisons)."
+    },
+    {
+      "id": 13994,
+      "fromModule": 354,
+      "toModule": 375,
+      "reason": "Jowar diet leading to pellagra due to high leucine content belongs to PSM (Nutrition and Health)."
+    },
+    {
+      "id": 13995,
+      "fromModule": 354,
+      "toModule": 375,
+      "reason": "Epidemic dropsy caused by sanguinarine toxin in adulterated mustard oil belongs to PSM (Nutrition and Health - Food Adulteration)."
+    },
+    {
+      "id": 13996,
+      "fromModule": 354,
+      "toModule": 375,
+      "reason": "Essential fatty acids and linolenic acid content in dietary oils belong to PSM (Nutrition and Health)."
+    },
+    {
+      "id": 13997,
+      "fromModule": 354,
+      "toModule": 379,
+      "reason": "Aeration tank as core biological unit of activated sludge process belongs to PSM (Environmental Health and Waste Management)."
+    },
+    {
+      "id": 14002,
+      "fromModule": 354,
+      "toModule": 363,
+      "reason": "Post-exposure prophylaxis (PEP) window for HIV within 72 hours belongs to PSM (Epidemiology of Communicable Diseases - HIV)."
+    },
+    {
+      "id": 12312,
+      "fromModule": 329,
+      "toModule": 344,
+      "reason": "External hordeolum (stye) acute suppurative Zeis gland infection belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 12314,
+      "fromModule": 329,
+      "toModule": 335,
+      "reason": "Infectious Crystalline Keratopathy (ICK) microbial etiology belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12316,
+      "fromModule": 329,
+      "toModule": 336,
+      "reason": "Argyrosis silver impregnation of Descemet membrane belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12638,
+      "fromModule": 329,
+      "toModule": 335,
+      "reason": "Herpes Zoster Ophthalmicus (HZO) caused by Varicella Zoster Virus belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13283,
+      "fromModule": 329,
+      "toModule": 343,
+      "reason": "Immune recovery uveitis (IRU) following HAART in HIV belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13345,
+      "fromModule": 329,
+      "toModule": 344,
+      "reason": "Ectropion and madarosis as warning signs of eyelid malignancy belong to Disorders of the Eyelid."
+    },
+    {
+      "id": 13364,
+      "fromModule": 329,
+      "toModule": 344,
+      "reason": "Chalazion presenting as painless firm eyelid nodule belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13365,
+      "fromModule": 329,
+      "toModule": 344,
+      "reason": "Incision and curettage for chalazion belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13501,
+      "fromModule": 329,
+      "toModule": 347,
+      "reason": "Orbital varices presenting with dynamic reducible proptosis on bending forward belong to Diseases of the Orbit."
+    },
+    {
+      "id": 5013,
+      "fromModule": 330,
+      "toModule": 344,
+      "reason": "Basal cell carcinoma as most common malignant eyelid tumor belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 5052,
+      "fromModule": 330,
+      "toModule": 344,
+      "reason": "Basal cell carcinoma of the eyelid belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 6546,
+      "fromModule": 330,
+      "toModule": 344,
+      "reason": "Basal cell carcinoma with pearly rolled edges at medial canthus belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 12326,
+      "fromModule": 330,
+      "toModule": 348,
+      "reason": "Clinical test for suppression and binocular alignment in squint belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12328,
+      "fromModule": 330,
+      "toModule": 337,
+      "reason": "CRAO causing amaurosis fugax in young diabetic patient with hyperhomocysteinemia belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12331,
+      "fromModule": 330,
+      "toModule": 349,
+      "reason": "Prism glass correction for hypertropia diplopia belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 12342,
+      "fromModule": 330,
+      "toModule": 332,
+      "reason": "Sturm's conoid configuration of refracted rays in astigmatism belongs to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12344,
+      "fromModule": 330,
+      "toModule": 354,
+      "reason": "Tropicamide as fastest acting cycloplegic and mydriatic drug belongs to Mixed / Miscellaneous Topics (Ocular Pharmacology)."
+    },
+    {
+      "id": 12346,
+      "fromModule": 330,
+      "toModule": 332,
+      "reason": "Jackson cross cylinder used for verifying axis and power of astigmatism belongs to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12361,
+      "fromModule": 330,
+      "toModule": 340,
+      "reason": "Pincushion distortion in aphakic high plus spectacle correction belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 12363,
+      "fromModule": 330,
+      "toModule": 338,
+      "reason": "Gyrate atrophy of choroid and retina due to ornithine aminotransferase deficiency belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12371,
+      "fromModule": 330,
+      "toModule": 354,
+      "reason": "Vitamin A deficiency as most common cause of preventable childhood blindness in India belongs to Mixed / Miscellaneous Topics (Community Ophthalmology)."
+    },
+    {
+      "id": 12374,
+      "fromModule": 330,
+      "toModule": 351,
+      "reason": "Headaches and transient visual obscurations in idiopathic intracranial hypertension (IIH) belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12383,
+      "fromModule": 330,
+      "toModule": 338,
+      "reason": "Central serous chorioretinopathy (CSCR) risk factors and associations belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12388,
+      "fromModule": 330,
+      "toModule": 348,
+      "reason": "Grades of binocular vision (simultaneous perception, fusion, stereopsis) belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12394,
+      "fromModule": 330,
+      "toModule": 348,
+      "reason": "Clinical tests for detecting ocular misalignment in strabismus belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12399,
+      "fromModule": 330,
+      "toModule": 348,
+      "reason": "Prism measurement of angle of squint belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12408,
+      "fromModule": 331,
+      "toModule": 332,
+      "reason": "Spasm of accommodation treated by cycloplegics belongs to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12440,
+      "fromModule": 331,
+      "toModule": 330,
+      "reason": "Parallel rays focusing on retina with accommodation at rest (Emmetropia) belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12472,
+      "fromModule": 332,
+      "toModule": 336,
+      "reason": "Corneal topography, oil droplet reflex, and astigmatism in keratoconus belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13008,
+      "fromModule": 332,
+      "toModule": 340,
+      "reason": "Image magnification in aphakic optical correction (spectacles vs contact lenses vs IOLs) belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 12355,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Emergency copious irrigation for acute chemical alkali (chuna/lime) ocular burn belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12364,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Traumatic iridodialysis causing uniocular diplopia belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12542,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Photophthalmia ultraviolet radiation injury to ocular surface belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12563,
+      "fromModule": 333,
+      "toModule": 334,
+      "reason": "Staphyloma abnormal protrusion of uveal tissue through thinned sclera/cornea belongs to Sclera."
+    },
+    {
+      "id": 12568,
+      "fromModule": 333,
+      "toModule": 335,
+      "reason": "Cogan syndrome interstitial keratitis belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12575,
+      "fromModule": 333,
+      "toModule": 342,
+      "reason": "Koeppe nodules on pupillary border in granulomatous uveitis belong to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 12576,
+      "fromModule": 333,
+      "toModule": 329,
+      "reason": "Ocular embryology and surface ectoderm derivatives belong to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12619,
+      "fromModule": 333,
+      "toModule": 334,
+      "reason": "Phenylephrine blanching test distinguishing episcleritis from scleritis belongs to Sclera."
+    },
+    {
+      "id": 12636,
+      "fromModule": 333,
+      "toModule": 329,
+      "reason": "Tenon capsule and subtenon space anatomy belong to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12637,
+      "fromModule": 333,
+      "toModule": 334,
+      "reason": "Episcleritis clinical features and benign course belong to Sclera."
+    },
+    {
+      "id": 12722,
+      "fromModule": 333,
+      "toModule": 336,
+      "reason": "Cornea guttata and pseudophakic bullous keratopathy in Fuchs dystrophy belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12731,
+      "fromModule": 333,
+      "toModule": 336,
+      "reason": "Pellucid marginal corneal degeneration clinical features belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12758,
+      "fromModule": 333,
+      "toModule": 336,
+      "reason": "Mooren ulcer peripheral ulcerative keratitis treatment options belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12835,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Alkali injury causing liquefactive necrosis and deep ocular penetration belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12857,
+      "fromModule": 333,
+      "toModule": 337,
+      "reason": "Rubeosis iridis and diabetic ocular complications belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12881,
+      "fromModule": 333,
+      "toModule": 337,
+      "reason": "Eales disease retinal vasculitis and recurrent vitreous hemorrhage belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12899,
+      "fromModule": 333,
+      "toModule": 331,
+      "reason": "Hyperglycemia-induced hydration changes producing acute myopic refractive shift belong to Myopia and Hypermetropia."
+    },
+    {
+      "id": 13052,
+      "fromModule": 333,
+      "toModule": 341,
+      "reason": "Congenital glaucoma (buphthalmos) presenting with cloudy cornea, photophobia, and epiphora belongs to Glaucoma."
+    },
+    {
+      "id": 13156,
+      "fromModule": 333,
+      "toModule": 337,
+      "reason": "Ocular and retinal vascular manifestations of diabetes mellitus belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13168,
+      "fromModule": 333,
+      "toModule": 341,
+      "reason": "Acute angle-closure glaucoma attack with fixed vertically oval pupil belongs to Glaucoma."
+    },
+    {
+      "id": 13324,
+      "fromModule": 333,
+      "toModule": 353,
+      "reason": "Desmarres lid retractor instrument identification belongs to Practical Ophthalmology."
+    },
+    {
+      "id": 13331,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Distichiasis extra row of cilia from meibomian orifices belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13334,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Full-thickness eyelid trauma and levator anatomy belong to Disorders of the Eyelid."
+    },
+    {
+      "id": 13335,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Eyelid anatomical abnormality causing trichiasis/entropion belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13336,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Chalazion chronic painless firm meibomian granuloma belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13340,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Congenital ptosis with poor levator function belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13342,
+      "fromModule": 333,
+      "toModule": 341,
+      "reason": "Latanoprost prostaglandin analogue ocular side effects belong to Glaucoma."
+    },
+    {
+      "id": 13343,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Sebaceous gland carcinoma masquerading as chronic blepharitis belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13362,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Blepharitis crusting and meibomian gland dysfunction belong to Disorders of the Eyelid."
+    },
+    {
+      "id": 13370,
+      "fromModule": 333,
+      "toModule": 350,
+      "reason": "Miosis and pupillary sympathetic pathway disruption (Horner syndrome) belong to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13384,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Spastic entropion surgical and medical management belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13388,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "V-Y plasty surgical procedure for cicatricial ectropion belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13394,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "Fasanella-Servat operation for mild ptosis with good levator function belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13431,
+      "fromModule": 333,
+      "toModule": 344,
+      "reason": "External hordeolum (stye) painful lid lesion at lash follicle belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13452,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Late progressive visual loss following blunt ocular contusion trauma belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13453,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Diagnostic signs of open globe rupture belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13457,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Major arterial circle of iris / ciliary body bleeding in traumatic hyphema belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13465,
+      "fromModule": 333,
+      "toModule": 346,
+      "reason": "Emergency removal and copious irrigation for lime (chuna) chemical injury belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13477,
+      "fromModule": 333,
+      "toModule": 347,
+      "reason": "Orbital cellulitis presenting with proptosis, chemosis, and fever belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13493,
+      "fromModule": 333,
+      "toModule": 347,
+      "reason": "Chloroma (granulocytic sarcoma) causing bilateral proptosis in pediatric AML belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13494,
+      "fromModule": 333,
+      "toModule": 347,
+      "reason": "Thyroid eye disease as the most common cause of adult proptosis belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13496,
+      "fromModule": 333,
+      "toModule": 347,
+      "reason": "Euthyroid Graves ophthalmopathy presenting with bilateral proptosis and diplopia belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13573,
+      "fromModule": 333,
+      "toModule": 352,
+      "reason": "Surgical excision with cryotherapy for conjunctival malignant melanoma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13682,
+      "fromModule": 333,
+      "toModule": 335,
+      "reason": "Corneal epithelial cell layers and basement membrane physiology belong to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13710,
+      "fromModule": 333,
+      "toModule": 329,
+      "reason": "Congenital microphthalmos ocular embryological failure belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13741,
+      "fromModule": 333,
+      "toModule": 329,
+      "reason": "Ocular embryology and surface ectoderm derivatives belong to Anatomy and Development of Eye."
+    },
+    {
+      "id": 2148,
+      "fromModule": 334,
+      "toModule": 337,
+      "reason": "Rhegmatogenous retinal detachment presenting as a falling curtain over visual field belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12425,
+      "fromModule": 334,
+      "toModule": 331,
+      "reason": "Index myopia mechanism in nuclear cataract belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12439,
+      "fromModule": 334,
+      "toModule": 343,
+      "reason": "Uveal effusion syndrome ciliochoroidal detachment belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 12601,
+      "fromModule": 334,
+      "toModule": 329,
+      "reason": "Origin of levator palpebrae superioris from orbital apex above annulus of Zinn belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12620,
+      "fromModule": 334,
+      "toModule": 329,
+      "reason": "Superior rectus muscle insertion farthest from the limbus (Spiral of Tillaux) belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12625,
+      "fromModule": 334,
+      "toModule": 336,
+      "reason": "Donor screening serological tests for corneal transplantation and eye banking belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12633,
+      "fromModule": 334,
+      "toModule": 329,
+      "reason": "Anatomical order of recti muscle origins at the Annulus of Zinn belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12982,
+      "fromModule": 334,
+      "toModule": 337,
+      "reason": "Late complications of scleral buckling procedures for retinal detachment belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12991,
+      "fromModule": 334,
+      "toModule": 346,
+      "reason": "Commotio retinae (Berlin edema) following blunt ocular trauma belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13027,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Elevated episcleral venous pressure in secondary open-angle glaucoma belongs to Glaucoma."
+    },
+    {
+      "id": 13039,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Scleral spur insertion of longitudinal ciliary muscle fibers and trabecular meshwork belongs to Glaucoma."
+    },
+    {
+      "id": 13040,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Goldmann applanation tonometer as clinical gold standard based on Imbert-Fick law belongs to Glaucoma."
+    },
+    {
+      "id": 13041,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Electronic applanation tonometry (Tonopen) in irregular corneas belongs to Glaucoma."
+    },
+    {
+      "id": 13042,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Mackay-Marg tonometer with variable applanation surface belongs to Glaucoma."
+    },
+    {
+      "id": 13043,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Self-tonometer (Ocuton) principles belongs to Glaucoma."
+    },
+    {
+      "id": 13045,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Gonioscopic landmarks of the anterior chamber angle belongs to Glaucoma."
+    },
+    {
+      "id": 13161,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Medical reduction of elevated intraocular pressure in glaucoma belongs to Glaucoma."
+    },
+    {
+      "id": 13193,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Gold standard intraocular pressure measurement with Goldmann applanation tonometry belongs to Glaucoma."
+    },
+    {
+      "id": 13219,
+      "fromModule": 334,
+      "toModule": 346,
+      "reason": "D-shaped pupil caused by traumatic iridodialysis belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13251,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Schwalbe line as anterior border of trabecular meshwork on gonioscopy belongs to Glaucoma."
+    },
+    {
+      "id": 13296,
+      "fromModule": 334,
+      "toModule": 346,
+      "reason": "Inferotemporal retinal dialysis following blunt ocular contusion belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13447,
+      "fromModule": 334,
+      "toModule": 346,
+      "reason": "Most common intraocular foreign body lodgement sites in penetrating trauma belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13484,
+      "fromModule": 334,
+      "toModule": 346,
+      "reason": "Most common site of globe rupture behind recti muscle insertions belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13575,
+      "fromModule": 334,
+      "toModule": 335,
+      "reason": "Fungal corneal ulcer with hypopyon in a farmer following vegetative trauma belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13614,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Krukenberg spindle and iris transillumination defects in pigment dispersion glaucoma belong to Glaucoma."
+    },
+    {
+      "id": 13619,
+      "fromModule": 334,
+      "toModule": 348,
+      "reason": "Forced duction test (FDT) differentiating restrictive from paretic ocular motility belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13623,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Aqueous humor physiology and high ascorbic acid active secretion belong to Glaucoma."
+    },
+    {
+      "id": 13624,
+      "fromModule": 334,
+      "toModule": 341,
+      "reason": "Juxtacanalicular trabecular meshwork as primary site of aqueous outflow resistance belongs to Glaucoma."
+    },
+    {
+      "id": 13686,
+      "fromModule": 334,
+      "toModule": 337,
+      "reason": "Retinal pigment epithelium radio-resistance and radiation retinopathy belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13734,
+      "fromModule": 334,
+      "toModule": 335,
+      "reason": "Corneal sensory innervation via nasociliary long ciliary nerves belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13902,
+      "fromModule": 334,
+      "toModule": 346,
+      "reason": "Indications and contraindications for evisceration vs enucleation belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13903,
+      "fromModule": 334,
+      "toModule": 336,
+      "reason": "Corneoscleral button harvesting techniques for donor corneal preservation belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13906,
+      "fromModule": 334,
+      "toModule": 352,
+      "reason": "Callender histopathological classification of uveal / choroidal melanoma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13935,
+      "fromModule": 334,
+      "toModule": 352,
+      "reason": "Direct extension via the optic nerve as primary mode of retinoblastoma spread belongs to Tumors of Eye."
+    },
+    {
+      "id": 13942,
+      "fromModule": 334,
+      "toModule": 343,
+      "reason": "Sympathetic ophthalmitis bilateral granulomatous panuveitis post-corneoscleral wound belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13943,
+      "fromModule": 334,
+      "toModule": 337,
+      "reason": "Photopsia, floaters, and peripheral retinal tear in high myopia belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12647,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Thiel-Behnke honeycomb dystrophy belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12649,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Amyloid deposition and Congo red birefringence in Lattice corneal dystrophy belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12657,
+      "fromModule": 335,
+      "toModule": 346,
+      "reason": "Ferrous intraocular foreign bodies causing siderosis bulbi belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12666,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Infectious complications following penetrating keratoplasty belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12695,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Enucleation and corneoscleral harvesting time limits in eye banking belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12697,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Endothelial graft rejection line (Khodadoust line) and graft failure belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12698,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Keratoprosthesis (Boston KPro, osteo-odonto-keratoprosthesis) components belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12720,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Classification of inherited corneal dystrophies belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12725,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Stromal corneal dystrophies (Granular, Lattice, Macular) pathology belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12728,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Inferotemporal corneal thinning and cone apex in keratoconus belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12733,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "McCarey-Kaufman (MK) and Optisol preservation media in keratoplasty belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12735,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Oversizing donor trephine button in penetrating keratoplasty for keratoconus belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12741,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Cryopreserved tectonic corneal graft indications belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12745,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Fuchs endothelial corneal dystrophy endothelial pump decompensation belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12747,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Epithelial basement membrane dystrophy (map-dot-fingerprint) belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12760,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Deep anterior lamellar keratoplasty (DALK) and PKP in keratoconus belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12873,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Reis-Bucklers corneal dystrophy autosomal dominant inheritance belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12905,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Glycosaminoglycan, hyaline, and amyloid deposits in stromal corneal dystrophies belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13553,
+      "fromModule": 335,
+      "toModule": 354,
+      "reason": "Cornea verticillata vortex keratopathy secondary to amiodarone toxicity belongs to Mixed / Miscellaneous Topics (Ocular Pharmacology)."
+    },
+    {
+      "id": 13586,
+      "fromModule": 335,
+      "toModule": 348,
+      "reason": "Pediatric strabismus screening and Hirschberg corneal reflex test belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13622,
+      "fromModule": 335,
+      "toModule": 336,
+      "reason": "Bowman layer dystrophies (Reis-Bucklers, Thiel-Behnke) clinical characteristics belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13975,
+      "fromModule": 335,
+      "toModule": 341,
+      "reason": "Tonopen electronic applanation tonometry in scarred irregular corneas belongs to Glaucoma."
+    },
+    {
+      "id": 6217,
+      "fromModule": 336,
+      "toModule": 342,
+      "reason": "Posner-Schlossman syndrome (glaucomatocyclitic crisis) recurrent anterior uveitis with elevated IOP belongs to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 13561,
+      "fromModule": 336,
+      "toModule": 342,
+      "reason": "Voclosporin calcineurin inhibitor in the LUMINATE program for non-infectious uveitis belongs to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 12350,
+      "fromModule": 337,
+      "toModule": 330,
+      "reason": "Stenopaeic slit test optical pinhole principles belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12351,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Retinitis pigmentosa bone spicules, arteriolar attenuation, and waxy disc pallor belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12373,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Idiopathic intracranial hypertension (pseudotumor cerebri) pathogenesis and papilledema belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12375,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Nutritional / tobacco-alcohol toxic optic neuropathy causing cecocentral scotoma belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12384,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Stargardt disease beaten-bronze macular dystrophy and dark choroid belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12386,
+      "fromModule": 337,
+      "toModule": 354,
+      "reason": "Chloroquine and hydroxychloroquine bull's eye maculopathy toxicity belongs to Mixed / Miscellaneous Topics (Ocular Pharmacology)."
+    },
+    {
+      "id": 12416,
+      "fromModule": 337,
+      "toModule": 331,
+      "reason": "B-scan ultrasound demonstration of posterior staphyloma and high axial myopia belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12424,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Choroidal neovascular membrane (CNVM) secondary to wet age-related macular degeneration belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12426,
+      "fromModule": 337,
+      "toModule": 331,
+      "reason": "Forster-Fuchs retinal pigmentary spot in pathological myopia belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12427,
+      "fromModule": 337,
+      "toModule": 331,
+      "reason": "Degenerative pathological myopia chorioretinal lacquer cracks and staphyloma belong to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12441,
+      "fromModule": 337,
+      "toModule": 331,
+      "reason": "Foster-Fuchs pigmented spot in degenerative high myopia belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12444,
+      "fromModule": 337,
+      "toModule": 331,
+      "reason": "Complications of high myopia (retinal tears, staphyloma, macular degeneration) belong to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12479,
+      "fromModule": 337,
+      "toModule": 330,
+      "reason": "Prevalence and types of optical refractive errors belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12484,
+      "fromModule": 337,
+      "toModule": 332,
+      "reason": "Compound myopic astigmatism cylindrical optical correction belongs to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12574,
+      "fromModule": 337,
+      "toModule": 333,
+      "reason": "Shield ulcer as a sight-threatening complication of vernal keratoconjunctivitis belongs to Conjunctiva."
+    },
+    {
+      "id": 12628,
+      "fromModule": 337,
+      "toModule": 334,
+      "reason": "Involvement of deep episcleral vascular plexus distinguishing scleritis from episcleritis belongs to Sclera."
+    },
+    {
+      "id": 12632,
+      "fromModule": 337,
+      "toModule": 334,
+      "reason": "T sign on orbital B-scan ultrasound diagnostic of posterior scleritis belongs to Sclera."
+    },
+    {
+      "id": 12652,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Arden ratio on electro-oculogram (EOG) in Best vitelliform macular dystrophy belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12768,
+      "fromModule": 337,
+      "toModule": 330,
+      "reason": "Aniseikonia tolerable retinal image size disparity threshold belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12770,
+      "fromModule": 337,
+      "toModule": 330,
+      "reason": "A-wave of electroretinogram (ERG) photoreceptor hyperpolarization belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12784,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Headlight in the fog appearance of acute focal necrotizing toxoplasma retinochoroiditis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 12785,
+      "fromModule": 337,
+      "toModule": 352,
+      "reason": "Retinal astrocytic hamartoma associated with tuberous sclerosis belongs to Tumors of Eye."
+    },
+    {
+      "id": 12798,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Vossius pigment ring on anterior lens surface from blunt contusion trauma belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12799,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Chisel and hammer metallic intraocular foreign body emergency evaluation belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12800,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Headlight in fog fundus appearance characteristic of Toxoplasma retinochoroiditis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 12801,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Birdshot chorioretinopathy HLA-A29 associated posterior uveitis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 12802,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "CMV necrotizing retinitis in immunocompromised HIV patients belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 12803,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Bilateral exudative retinal detachment and vitiligo in Vogt-Koyanagi-Harada (VKH) syndrome belong to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 12804,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Idiopathic epiretinal membrane / macular pucker pathogenesis belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12807,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Collier sign (eyelid retraction) in Parinaud dorsal midbrain syndrome belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12808,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Penetrating ocular injury from hammer and chisel fragment belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12816,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Usher syndrome sensorineural hearing loss and retinitis pigmentosa belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12819,
+      "fromModule": 337,
+      "toModule": 348,
+      "reason": "Bagolini striated glasses test evaluating harmonious abnormal retinal correspondence belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12834,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Traumatic hyphema and angle recession from blunt contusion injury belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12836,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Traumatic iritis and anterior chamber contusion following blunt injury belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12838,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Alkali ocular burn causing liquefactive necrosis and limbal ischemia belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12839,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Papilledema presentation in idiopathic intracranial hypertension (IIH) belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12840,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Bilateral papilledema secondary to intracranial mass lesion belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12841,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Papilledema in raised intracranial pressure with early morning headaches belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12846,
+      "fromModule": 337,
+      "toModule": 353,
+      "reason": "Indirect ophthalmoscope optical properties (real, inverted, magnified image) belong to Practical Ophthalmology."
+    },
+    {
+      "id": 12848,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Commotio retinae (Berlin edema) pseudo cherry-red spot following ocular trauma belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12869,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Siderosis bulbi from retained intraocular iron foreign body belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12880,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Extinction of scotopic b-wave on ERG in Retinitis Pigmentosa belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13197,
+      "fromModule": 337,
+      "toModule": 329,
+      "reason": "Suprachoroidal space between lamina fusca and sclera belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13209,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Candle-wax dripping periphlebitis in ocular sarcoidosis panuveitis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13212,
+      "fromModule": 337,
+      "toModule": 342,
+      "reason": "Cystoid macular edema as the most common sight-threatening complication of pars planitis belongs to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 13214,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Dalen-Fuchs nodules in sympathetic ophthalmitis bilateral granulomatous panuveitis belong to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13218,
+      "fromModule": 337,
+      "toModule": 346,
+      "reason": "Traumatic Vossius ring pigment deposition on lens from pupillary margin belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13230,
+      "fromModule": 337,
+      "toModule": 342,
+      "reason": "Causes and presentations of acute anterior iridocyclitis belong to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 13287,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Acute retinal necrosis (ARN) and PORN caused by VZV and HSV belong to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13288,
+      "fromModule": 337,
+      "toModule": 340,
+      "reason": "Acute post-cataract endophthalmitis bacterial etiology (Staph epidermidis) belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13289,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Sugiura sign (perilimbal vitiligo) in Vogt-Koyanagi-Harada syndrome belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13291,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Vitreous humor physical volume and hydration properties belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13294,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Subhyaloid space anatomical boundaries between posterior vitreous cortex and ILM belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13295,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Vitreous base firm anatomical attachment straddling the ora serrata belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13309,
+      "fromModule": 337,
+      "toModule": 342,
+      "reason": "Differential diagnosis of chronic granulomatous anterior uveitis belongs to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 13510,
+      "fromModule": 337,
+      "toModule": 347,
+      "reason": "Direct carotid-cavernous fistula pulsating proptosis and orbital bruit belong to Diseases of the Orbit."
+    },
+    {
+      "id": 13518,
+      "fromModule": 337,
+      "toModule": 348,
+      "reason": "Maddox wing clinical instrument for measuring heterophoria belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13519,
+      "fromModule": 337,
+      "toModule": 348,
+      "reason": "Sensory adaptations to strabismus (suppression, abnormal retinal correspondence) belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13520,
+      "fromModule": 337,
+      "toModule": 349,
+      "reason": "Compensatory head posture in cyclovertical extraocular muscle palsies belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13521,
+      "fromModule": 337,
+      "toModule": 348,
+      "reason": "Dissociating tests for ocular alignment (Maddox rod) belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13522,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Central serous chorioretinopathy (CSCR) metamorphopsia in young stressed adults belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13523,
+      "fromModule": 337,
+      "toModule": 348,
+      "reason": "Worth 4-dot test evaluating binocular fusion and suppression belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13546,
+      "fromModule": 337,
+      "toModule": 348,
+      "reason": "Interpretation of Worth 4-dot test responses in ocular suppression belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13558,
+      "fromModule": 337,
+      "toModule": 349,
+      "reason": "Bielschowsky head tilt test diagnosing superior oblique 4th nerve palsy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13606,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Cytomegalovirus retinitis as the leading cause of visual loss in AIDS belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13607,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Biochemical composition of vitreous humor (Type II collagen and hyaluronic acid) belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13611,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Dry age-related macular degeneration (drusen and geographic atrophy) belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13612,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Wet neovascular age-related macular degeneration and anti-VEGF therapy belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13629,
+      "fromModule": 337,
+      "toModule": 350,
+      "reason": "Topographic localization of visual field defects across the visual pathway belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13687,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Ligament of Wieger (hyaloideocapsular ligament) attaching vitreous to lens belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13689,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Strength of vitreoretinal adhesion sites across the retina and vitreous base belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13697,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Clinical signs distinguishing papilledema from optic neuritis belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13698,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Paton lines (peripapillary retinal wrinkles) in established papilledema belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13703,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Electro-oculogram (EOG) abnormal light peak / dark trough ratio in Best disease belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13704,
+      "fromModule": 337,
+      "toModule": 335,
+      "reason": "Systemic steroid indications in acute Herpes Zoster Ophthalmicus belong to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13737,
+      "fromModule": 337,
+      "toModule": 350,
+      "reason": "Pituitary adenoma compressing the central optic chiasm causing bitemporal hemianopia belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13774,
+      "fromModule": 337,
+      "toModule": 352,
+      "reason": "Optic nerve glioma associated with Neurofibromatosis Type 1 belongs to Tumors of Eye."
+    },
+    {
+      "id": 13799,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Axon count of the human optic nerve (1.2 million fibers) belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13801,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Anatomical segments of the optic nerve (intraocular, intraorbital, intracanalicular, intracranial) belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13804,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Orthograde axoplasmic stasis in the pathogenesis of papilledema belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13805,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Clinical deficits in anterior optic nerve lesions belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13808,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Pathogenesis and axoplasmic flow stasis in papilledema belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13830,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Optic Neuritis Treatment Trial (ONTT) diagnostic protocol and MRI brain belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13834,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "B-scan ultrasound and neuroimaging of optic disc cysticercosis scolex belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13836,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Post-neuritic secondary optic atrophy with blurred disc margins belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13840,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Consecutive optic atrophy secondary to retinitis pigmentosa belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13844,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Toxic optic neuropathy etiologies (ethambutol, methanol, tobacco) belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13850,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Double ring sign diagnostic of congenital optic nerve hypoplasia belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13857,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Radial peripapillary capillary dilation and spokes-of-wheel appearance in papilledema belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13888,
+      "fromModule": 337,
+      "toModule": 351,
+      "reason": "Hoyt-Spencer triad (optic atrophy, optociliary shunt vessels, vision loss) in sphenoid wing meningioma belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13908,
+      "fromModule": 337,
+      "toModule": 352,
+      "reason": "Leukocoria (white pupillary reflex) in pediatric retinoblastoma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13909,
+      "fromModule": 337,
+      "toModule": 352,
+      "reason": "Direct optic nerve invasion as primary route of extraocular retinoblastoma dissemination belongs to Tumors of Eye."
+    },
+    {
+      "id": 13910,
+      "fromModule": 337,
+      "toModule": 352,
+      "reason": "Retinoblastoma clinical presentation and management in toddlers belong to Tumors of Eye."
+    },
+    {
+      "id": 13914,
+      "fromModule": 337,
+      "toModule": 352,
+      "reason": "Leukocoria differential diagnosis in a child (retinoblastoma) belongs to Tumors of Eye."
+    },
+    {
+      "id": 13921,
+      "fromModule": 337,
+      "toModule": 343,
+      "reason": "Prophylactic enucleation of severely traumatized eye within 14 days preventing sympathetic ophthalmitis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13930,
+      "fromModule": 337,
+      "toModule": 352,
+      "reason": "Osteosarcoma as most common secondary malignancy in hereditary retinoblastoma survivors belongs to Tumors of Eye."
+    },
+    {
+      "id": 13946,
+      "fromModule": 337,
+      "toModule": 338,
+      "reason": "Type II collagen fibrils maintaining vitreous gel framework belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 1953,
+      "fromModule": 338,
+      "toModule": 337,
+      "reason": "Vitreous hemorrhage secondary to proliferative diabetic retinopathy belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12866,
+      "fromModule": 338,
+      "toModule": 337,
+      "reason": "Clinically significant macular edema (CSME) in diabetic retinopathy belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12939,
+      "fromModule": 338,
+      "toModule": 337,
+      "reason": "Bonnet sign of arteriovenous crossing in hypertensive retinopathy belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12450,
+      "fromModule": 338,
+      "toModule": 339,
+      "reason": "Homocystinuria causing inferonasal crystalline lens subluxation (ectopia lentis) belongs to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 12327,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Rigid gas-permeable (RGP) contact lenses optics and fitting belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12347,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Hydrogel (HEMA) polymer materials of soft contact lenses belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12348,
+      "fromModule": 339,
+      "toModule": 341,
+      "reason": "Zeiss 4-mirror indentation goniolens for dynamic angle assessment belongs to Glaucoma."
+    },
+    {
+      "id": 12362,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Fungal corneal ulcer with feathery borders following agricultural trauma belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12366,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Filamentous fungal keratitis following vegetative injury belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12369,
+      "fromModule": 339,
+      "toModule": 332,
+      "reason": "Bifocal spectacle lenses for presbyopic correction belong to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12378,
+      "fromModule": 339,
+      "toModule": 351,
+      "reason": "Arteritic anterior ischemic optic neuropathy (AAION) from giant cell arteritis belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12389,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Neutralization of streak retinoscopy reflex in refractive verification belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12390,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Numerical aperture and optical resolving power of lens systems belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12391,
+      "fromModule": 339,
+      "toModule": 341,
+      "reason": "Weill-Marchesani syndrome microspherophakia and secondary angle-closure glaucoma belong to Glaucoma."
+    },
+    {
+      "id": 12396,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Snellen 6/6 optotype subtending 5 minutes of arc at 6 meters belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12398,
+      "fromModule": 339,
+      "toModule": 351,
+      "reason": "Sudden chalky-white optic disc edema in giant cell arteritis belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 12423,
+      "fromModule": 339,
+      "toModule": 331,
+      "reason": "Index myopia producing \"second sight\" in nuclear sclerotic cataract belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12428,
+      "fromModule": 339,
+      "toModule": 348,
+      "reason": "Crowding phenomenon characteristic of amblyopia visual acuity testing belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12469,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Gross and net retinoscopy working distance calculation belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12470,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Contact lens optical indication for unilateral high anisometropia belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12493,
+      "fromModule": 339,
+      "toModule": 333,
+      "reason": "Shield ulcer as a severe complication of vernal keratoconjunctivitis belongs to Conjunctiva."
+    },
+    {
+      "id": 12598,
+      "fromModule": 339,
+      "toModule": 333,
+      "reason": "Cobblestone giant papillae and Trantas dots in vernal conjunctivitis belong to Conjunctiva."
+    },
+    {
+      "id": 12639,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Contact lens wear as major predisposing risk for microbial keratitis belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12648,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Bowman membrane acellular condensed anterior stromal layer belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12670,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Vegetative trauma inducing fungal corneal ulceration belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12671,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Pseudomonas microbial keratitis in contact lens users belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12673,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Hypopyon corneal ulcer bacterial infectious keratitis belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12702,
+      "fromModule": 339,
+      "toModule": 335,
+      "reason": "Acanthamoeba perineural infiltrates and ring ulcer in contact lens users belong to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12713,
+      "fromModule": 339,
+      "toModule": 336,
+      "reason": "Acute corneal hydrops from Descemet membrane rupture in keratoconus belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12715,
+      "fromModule": 339,
+      "toModule": 336,
+      "reason": "Keratoconus Munson sign and deep stromal Vogt striae belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12716,
+      "fromModule": 339,
+      "toModule": 336,
+      "reason": "Corneal topography cone steepening pattern in keratoconus belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12757,
+      "fromModule": 339,
+      "toModule": 336,
+      "reason": "Kayser-Fleischer ring on gonioscopy in hepatolenticular degeneration belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12842,
+      "fromModule": 339,
+      "toModule": 338,
+      "reason": "Central serous chorioretinopathy (CSCR) serous macular detachment belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12871,
+      "fromModule": 339,
+      "toModule": 338,
+      "reason": "Nyctalopia and bone spicule pigmentary retinopathy in Retinitis Pigmentosa belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12926,
+      "fromModule": 339,
+      "toModule": 346,
+      "reason": "Ocular concussion contusion injury features (hyphema, angle recession) belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13000,
+      "fromModule": 339,
+      "toModule": 340,
+      "reason": "SRK regression formula for intraocular lens power calculation belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13002,
+      "fromModule": 339,
+      "toModule": 340,
+      "reason": "PMMA rigid intraocular lens materials in ECCE/SICS belong to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13006,
+      "fromModule": 339,
+      "toModule": 340,
+      "reason": "Hydrophobic acrylic foldable intraocular lens implantation belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13013,
+      "fromModule": 339,
+      "toModule": 340,
+      "reason": "Multifocal and toric IOLs for correcting post-cataract astigmatism belong to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13065,
+      "fromModule": 339,
+      "toModule": 341,
+      "reason": "Koeppe direct diagnostic gonioscopy lens for pediatric glaucoma belongs to Glaucoma."
+    },
+    {
+      "id": 13080,
+      "fromModule": 339,
+      "toModule": 341,
+      "reason": "Infantile congenital glaucoma presenting with photophobia, epiphora, and buphthalmos belongs to Glaucoma."
+    },
+    {
+      "id": 13499,
+      "fromModule": 339,
+      "toModule": 347,
+      "reason": "Thyroid-associated orbitopathy (Graves ophthalmopathy) causing adult proptosis belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13500,
+      "fromModule": 339,
+      "toModule": 346,
+      "reason": "Orbital blowout floor fracture with inferior rectus entrapment belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13505,
+      "fromModule": 339,
+      "toModule": 347,
+      "reason": "Septic cavernous sinus thrombosis proptosis and chemosis belong to Diseases of the Orbit."
+    },
+    {
+      "id": 13591,
+      "fromModule": 339,
+      "toModule": 349,
+      "reason": "Abducens 6th nerve palsy failure of abduction and uncrossed diplopia belong to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13613,
+      "fromModule": 339,
+      "toModule": 330,
+      "reason": "Rigid gas-permeable contact lenses optics and tear lens neutralization belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13644,
+      "fromModule": 339,
+      "toModule": 350,
+      "reason": "Pharmacologic pupil testing with dilute pilocarpine (0.125%) for tonic pupil belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13645,
+      "fromModule": 339,
+      "toModule": 350,
+      "reason": "Holmes-Adie tonic pupil cholinergic denervation supersensitivity belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13659,
+      "fromModule": 339,
+      "toModule": 351,
+      "reason": "Progressive supranuclear palsy downward vertical gaze palsy belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13715,
+      "fromModule": 339,
+      "toModule": 351,
+      "reason": "Differentiating papillitis (RAPD, marked vision loss) from papilledema belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13758,
+      "fromModule": 339,
+      "toModule": 349,
+      "reason": "Duane retraction syndrome Type 1 limited abduction with palpebral narrowing belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13796,
+      "fromModule": 339,
+      "toModule": 346,
+      "reason": "Traumatic mydriasis and iris sphincter tear post-contusion blunt trauma belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13812,
+      "fromModule": 339,
+      "toModule": 351,
+      "reason": "Early papilledema with blurring of superior and inferior disc margins in IIH belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13819,
+      "fromModule": 339,
+      "toModule": 351,
+      "reason": "Giant cell arteritis temporal artery biopsy and systemic ESR elevation belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13848,
+      "fromModule": 339,
+      "toModule": 351,
+      "reason": "Compressive dysthyroid optic neuropathy in severe Graves orbitopathy belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13923,
+      "fromModule": 339,
+      "toModule": 352,
+      "reason": "Orbital embryonal rhabdomyosarcoma presenting with rapid proptosis in child belongs to Tumors of Eye."
+    },
+    {
+      "id": 13965,
+      "fromModule": 339,
+      "toModule": 349,
+      "reason": "Trochlear 4th nerve superior oblique palsy causing diplopia on downgaze belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 12404,
+      "fromModule": 340,
+      "toModule": 331,
+      "reason": "School-age child presenting with distant blackboard visual blurring (myopia) belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12419,
+      "fromModule": 340,
+      "toModule": 331,
+      "reason": "Preoperative corneal pachymetry and screening criteria for LASIK belong to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12449,
+      "fromModule": 340,
+      "toModule": 331,
+      "reason": "Phakic intraocular lens (ICL) implantation for high myopia -10D belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12476,
+      "fromModule": 340,
+      "toModule": 333,
+      "reason": "Indications for pterygium excision and conjunctival autograft belong to Conjunctiva."
+    },
+    {
+      "id": 12478,
+      "fromModule": 340,
+      "toModule": 332,
+      "reason": "Focal interval of Sturm and astigmatism refraction definition belong to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12581,
+      "fromModule": 340,
+      "toModule": 333,
+      "reason": "WHO SAFE strategy for trachoma elimination belongs to Conjunctiva."
+    },
+    {
+      "id": 12594,
+      "fromModule": 340,
+      "toModule": 335,
+      "reason": "Exposure keratopathy and corneal ulceration secondary to lagophthalmos belong to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12626,
+      "fromModule": 340,
+      "toModule": 344,
+      "reason": "Paralytic lagophthalmos from facial nerve orbicularis oculi paresis belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 12700,
+      "fromModule": 340,
+      "toModule": 335,
+      "reason": "Exposure keratitis resulting from facial nerve injury in parotidectomy belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12975,
+      "fromModule": 340,
+      "toModule": 339,
+      "reason": "Congenital rubella syndrome zonular/nuclear cataract belongs to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 12979,
+      "fromModule": 340,
+      "toModule": 335,
+      "reason": "Corneal pachymetry ultrasound measurement of corneal thickness belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12980,
+      "fromModule": 340,
+      "toModule": 336,
+      "reason": "Kayser-Fleischer ring in Descemet membrane in Wilson disease belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13018,
+      "fromModule": 340,
+      "toModule": 332,
+      "reason": "Surgical presbyopic correction (monovision, corneal inlays, conductive keratoplasty) belongs to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 13021,
+      "fromModule": 340,
+      "toModule": 341,
+      "reason": "Goldmann tonometry underestimation of IOP following corneal LASIK ablation belongs to Glaucoma."
+    },
+    {
+      "id": 13062,
+      "fromModule": 340,
+      "toModule": 341,
+      "reason": "Secondary glaucomas with permanent peripheral anterior synechiae persisting after lens extraction belong to Glaucoma."
+    },
+    {
+      "id": 13063,
+      "fromModule": 340,
+      "toModule": 353,
+      "reason": "Moorfields / Castroviejo ophthalmic forceps identification belongs to Practical Ophthalmology."
+    },
+    {
+      "id": 13128,
+      "fromModule": 340,
+      "toModule": 341,
+      "reason": "Forms of secondary angle-closure glaucoma that do not resolve with cataract extraction belong to Glaucoma."
+    },
+    {
+      "id": 13172,
+      "fromModule": 340,
+      "toModule": 354,
+      "reason": "Posterior subcapsular cataract and steroid-induced glaucoma secondary to chronic systemic steroids belong to Mixed / Miscellaneous Topics (Ocular Pharmacology)."
+    },
+    {
+      "id": 13176,
+      "fromModule": 340,
+      "toModule": 354,
+      "reason": "Wilson disease systemic manifestations with Kayser-Fleischer rings belongs to Mixed / Miscellaneous Topics (Systemic Diseases)."
+    },
+    {
+      "id": 13328,
+      "fromModule": 340,
+      "toModule": 333,
+      "reason": "Cicatricial trachoma complications (trichiasis, entropion, xerosis) belong to Conjunctiva."
+    },
+    {
+      "id": 13407,
+      "fromModule": 340,
+      "toModule": 345,
+      "reason": "Rhinostomy ostium creation removing lacrimal bone in external DCR belongs to Disorders of Lacrimal Apparatus and Glands of the Eye."
+    },
+    {
+      "id": 13592,
+      "fromModule": 340,
+      "toModule": 349,
+      "reason": "Preoperative evaluation for strabismus correction surgery belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13753,
+      "fromModule": 340,
+      "toModule": 349,
+      "reason": "Hummelsheim / Jensen muscle transposition surgery for complete 6th nerve palsy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13915,
+      "fromModule": 340,
+      "toModule": 352,
+      "reason": "Differential diagnosis of pediatric leukocoria (retinoblastoma, PHPV, Coats) belongs to Tumors of Eye."
+    },
+    {
+      "id": 13964,
+      "fromModule": 340,
+      "toModule": 349,
+      "reason": "Extraocular muscle resection as a surgical strengthening procedure in strabismus belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 12400,
+      "fromModule": 341,
+      "toModule": 338,
+      "reason": "Retinitis pigmentosa ocular associations (posterior subcapsular cataract, keratoconus, cystoid macular edema) belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12420,
+      "fromModule": 341,
+      "toModule": 332,
+      "reason": "Premature presbyopia risk factors and uncorrected hypermetropia belong to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12421,
+      "fromModule": 341,
+      "toModule": 339,
+      "reason": "Congenital rubella syndrome cataract and microphthalmos belong to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 12433,
+      "fromModule": 341,
+      "toModule": 331,
+      "reason": "Pseudopapillitis elevated crowded disc in high hypermetropia belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12486,
+      "fromModule": 341,
+      "toModule": 332,
+      "reason": "Accommodative insufficiency below normal physiological amplitude belongs to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 12623,
+      "fromModule": 341,
+      "toModule": 334,
+      "reason": "Intercalary staphyloma between limbus and ciliary body belongs to Sclera."
+    },
+    {
+      "id": 12656,
+      "fromModule": 341,
+      "toModule": 346,
+      "reason": "Battery fluid acid/alkali blast chemical ocular burn belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12714,
+      "fromModule": 341,
+      "toModule": 336,
+      "reason": "Full-thickness penetrating keratoplasty for advanced keratoconus belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12742,
+      "fromModule": 341,
+      "toModule": 336,
+      "reason": "Fleischer ring, Vogt striae, and Munson sign in keratoconus belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12788,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Splashed-tomato fundus appearance in ischemic Central Retinal Vein Occlusion belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12826,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Non-proliferative diabetic retinopathy microaneurysms and hard exudates belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12830,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Shafer sign (tobacco dust pigment cells in anterior vitreous) in retinal tears belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12854,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Cardioembolic branch retinal artery occlusion in rheumatic valvular disease belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12856,
+      "fromModule": 341,
+      "toModule": 338,
+      "reason": "Geographic atrophy and macular drusen in dry age-related macular degeneration belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12872,
+      "fromModule": 341,
+      "toModule": 338,
+      "reason": "Retinitis pigmentosa progressive nyctalopia and arteriolar narrowing belong to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12889,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Panretinal photocoagulation laser for neovascularization in proliferative diabetic retinopathy belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 12966,
+      "fromModule": 341,
+      "toModule": 339,
+      "reason": "Inferonasal subluxation of crystalline lens in homocystinuria belongs to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 13031,
+      "fromModule": 341,
+      "toModule": 336,
+      "reason": "Kayser-Fleischer peripheral corneal copper ring in Wilson disease belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13033,
+      "fromModule": 341,
+      "toModule": 354,
+      "reason": "WHO VISION 2020: The Right to Sight priority target diseases belong to Mixed / Miscellaneous Topics (Community Ophthalmology)."
+    },
+    {
+      "id": 13037,
+      "fromModule": 341,
+      "toModule": 330,
+      "reason": "Uncorrected refractive error as the leading cause of moderate-to-severe visual impairment belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13038,
+      "fromModule": 341,
+      "toModule": 347,
+      "reason": "Pseudoproptosis caused by high axial myopia, buphthalmos, and contralateral enophthalmos belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13053,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Arteriovenous crossing compression in branch retinal vein occlusion belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13055,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Cherry-red spot at the foveola in central retinal artery occlusion belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13057,
+      "fromModule": 341,
+      "toModule": 338,
+      "reason": "Persistent hyperplastic primary vitreous (PHPV) retroretinal fibrovascular mass belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13059,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Systemic arterial hypertension and CRVO pathogenesis belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13060,
+      "fromModule": 341,
+      "toModule": 338,
+      "reason": "Photostress recovery time test differentiating macular disease from optic neuropathy belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13064,
+      "fromModule": 341,
+      "toModule": 354,
+      "reason": "Rashtriya Bal Swasthya Karyakram (RBSK) vision screening 4Ds belong to Mixed / Miscellaneous Topics (Community Ophthalmology)."
+    },
+    {
+      "id": 13066,
+      "fromModule": 341,
+      "toModule": 346,
+      "reason": "Vossius pigment ring from traumatic compression of iris pupillary margin belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13070,
+      "fromModule": 341,
+      "toModule": 339,
+      "reason": "Hypermature Morgagnian cataract liquefied cortex and nucleus sinking belong to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 13078,
+      "fromModule": 341,
+      "toModule": 352,
+      "reason": "Clinical differential diagnosis of white pupillary reflex (leukocoria) in infancy belongs to Tumors of Eye."
+    },
+    {
+      "id": 13085,
+      "fromModule": 341,
+      "toModule": 334,
+      "reason": "Ciliary staphyloma thinning of sclera over ciliary body belongs to Sclera."
+    },
+    {
+      "id": 13133,
+      "fromModule": 341,
+      "toModule": 336,
+      "reason": "Graft sizing and donor button trephination in penetrating keratoplasty belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13169,
+      "fromModule": 341,
+      "toModule": 339,
+      "reason": "Complicated cataract polychromatic luster and breadcrumb appearance belong to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 13171,
+      "fromModule": 341,
+      "toModule": 337,
+      "reason": "Reduction of electroretinogram b-wave in central retinal vein occlusion belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13184,
+      "fromModule": 341,
+      "toModule": 350,
+      "reason": "Relative afferent pupillary defect (RAPD / Marcus Gunn pupil) on swinging flashlight test belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13222,
+      "fromModule": 341,
+      "toModule": 342,
+      "reason": "Fuchs heterochromic iridocyclitis triad (heterochromia, fine KPs, absence of posterior synechiae) belongs to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 13301,
+      "fromModule": 341,
+      "toModule": 343,
+      "reason": "Penetrating ocular wound involving ciliary body inciting sympathetic ophthalmitis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13304,
+      "fromModule": 341,
+      "toModule": 343,
+      "reason": "Cell-mediated autoimmune response to uveal melanocytes in sympathetic ophthalmitis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13327,
+      "fromModule": 341,
+      "toModule": 342,
+      "reason": "Iris pearls as pathognomonic sign of lepromatous anterior uveitis belong to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 13460,
+      "fromModule": 341,
+      "toModule": 329,
+      "reason": "Embryological neural crest cell migration failure in anterior segment dysgenesis belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13481,
+      "fromModule": 341,
+      "toModule": 346,
+      "reason": "Evaluation and intraocular pressure monitoring in traumatic hyphema belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13560,
+      "fromModule": 341,
+      "toModule": 342,
+      "reason": "Topical corticosteroid and cycloplegic therapy for hypertensive anterior uveitis belongs to Uveitis - Anterior and Intermediate."
+    },
+    {
+      "id": 13570,
+      "fromModule": 341,
+      "toModule": 346,
+      "reason": "Emergency immediate copious irrigation for chemical acid ocular burns belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13664,
+      "fromModule": 341,
+      "toModule": 354,
+      "reason": "Vigabatrin irreversible bilateral concentric visual field constriction belongs to Mixed / Miscellaneous Topics (Ocular Pharmacology)."
+    },
+    {
+      "id": 13679,
+      "fromModule": 341,
+      "toModule": 350,
+      "reason": "Pituitary adenoma compressing inferior chiasmal decussating fibers causing ascending bitemporal hemianopia belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13716,
+      "fromModule": 341,
+      "toModule": 350,
+      "reason": "Keyhole homonymous sectoranopia in lateral choroidal artery / optic radiation lesions belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13738,
+      "fromModule": 341,
+      "toModule": 350,
+      "reason": "Homonymous visual field defects localization belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13837,
+      "fromModule": 341,
+      "toModule": 351,
+      "reason": "Causes of primary optic atrophy with well-defined disc margins belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13839,
+      "fromModule": 341,
+      "toModule": 351,
+      "reason": "Methanol toxicity causing profound optic nerve axonal degeneration belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13841,
+      "fromModule": 341,
+      "toModule": 351,
+      "reason": "Secondary optic atrophy following chronic papilledema with dirty gray disc belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13843,
+      "fromModule": 341,
+      "toModule": 351,
+      "reason": "Toxic and nutritional optic neuropathy clinical features belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13856,
+      "fromModule": 341,
+      "toModule": 351,
+      "reason": "Visual Evoked Potential (VEP) P100 wave latency prolongation in demyelinating optic neuritis belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13895,
+      "fromModule": 341,
+      "toModule": 350,
+      "reason": "Craniopharyngioma compressing upper chiasmal fibers causing descending bitemporal hemianopia belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13901,
+      "fromModule": 341,
+      "toModule": 352,
+      "reason": "Leukocoria as the most common initial presenting sign of retinoblastoma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13907,
+      "fromModule": 341,
+      "toModule": 352,
+      "reason": "Reese-Ellsworth and International Classification indications for enucleation in retinoblastoma belong to Tumors of Eye."
+    },
+    {
+      "id": 13916,
+      "fromModule": 341,
+      "toModule": 352,
+      "reason": "Primary enucleation indications in intraocular malignancies belong to Tumors of Eye."
+    },
+    {
+      "id": 13927,
+      "fromModule": 341,
+      "toModule": 352,
+      "reason": "Retinoblastoma advanced intraocular tumor presentation in childhood belongs to Tumors of Eye."
+    },
+    {
+      "id": 13963,
+      "fromModule": 341,
+      "toModule": 348,
+      "reason": "Synoptophore measurement of objective and subjective angle of squint belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12365,
+      "fromModule": 342,
+      "toModule": 333,
+      "reason": "Bitot spots and conjunctival xerosis in vitamin A deficiency belong to Conjunctiva."
+    },
+    {
+      "id": 12627,
+      "fromModule": 342,
+      "toModule": 334,
+      "reason": "Anterior scleritis clinical types (diffuse, nodular, necrotizing) belong to Sclera."
+    },
+    {
+      "id": 12753,
+      "fromModule": 342,
+      "toModule": 336,
+      "reason": "Corneal collagen cross-linking (CXL) with riboflavin and UVA in keratoconus belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12754,
+      "fromModule": 342,
+      "toModule": 335,
+      "reason": "Fortified topical vancomycin and tobramycin for non-resolving bacterial keratitis belong to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 12963,
+      "fromModule": 342,
+      "toModule": 339,
+      "reason": "Polychromatic luster in complicated cataract posterior subcapsular cortex belongs to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 13022,
+      "fromModule": 342,
+      "toModule": 340,
+      "reason": "Continuous curvilinear capsulorhexis (CCC) anterior capsulotomy technique in phacoemulsification belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13023,
+      "fromModule": 342,
+      "toModule": 340,
+      "reason": "Continuous curvilinear capsulorhexis advantages in phacoemulsification belong to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13072,
+      "fromModule": 342,
+      "toModule": 341,
+      "reason": "Phacolytic glaucoma with high IOP and lens protein-laden macrophages belongs to Glaucoma."
+    },
+    {
+      "id": 13198,
+      "fromModule": 342,
+      "toModule": 340,
+      "reason": "Phacoemulsification and intraocular lens choice in diabetic patients belong to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13203,
+      "fromModule": 342,
+      "toModule": 330,
+      "reason": "Purkinje-Sanson optical images formed by corneal and lens reflecting surfaces belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13205,
+      "fromModule": 342,
+      "toModule": 330,
+      "reason": "Anterior corneal curvature providing +43D of the total +60D dioptric power belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13210,
+      "fromModule": 342,
+      "toModule": 330,
+      "reason": "Duochrome test principle based on longitudinal chromatic aberration belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13215,
+      "fromModule": 342,
+      "toModule": 335,
+      "reason": "Bowman layer as a modified acellular stromal layer rather than true basement membrane belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13225,
+      "fromModule": 342,
+      "toModule": 329,
+      "reason": "Anterior ciliary artery distribution to extraocular recti muscles belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13227,
+      "fromModule": 342,
+      "toModule": 341,
+      "reason": "Shallow anterior chamber and hypotony following trabeculectomy surgery belong to Glaucoma."
+    },
+    {
+      "id": 13231,
+      "fromModule": 342,
+      "toModule": 340,
+      "reason": "Trypan blue capsular staining in mature cataracts belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13252,
+      "fromModule": 342,
+      "toModule": 341,
+      "reason": "Van Herick slit-lamp estimation of peripheral anterior chamber depth belongs to Glaucoma."
+    },
+    {
+      "id": 13270,
+      "fromModule": 342,
+      "toModule": 335,
+      "reason": "Fortified topical antibiotics in severe bacterial corneal ulcers belong to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13271,
+      "fromModule": 342,
+      "toModule": 329,
+      "reason": "Inferior oblique muscle origin from anterior orbital periosteum belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13303,
+      "fromModule": 342,
+      "toModule": 343,
+      "reason": "Sympathizing eye bilateral granulomatous uveitis and Dalen-Fuchs nodules belong to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13311,
+      "fromModule": 342,
+      "toModule": 343,
+      "reason": "Sympathetic ophthalmitis following penetrating injury to ciliary region belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13739,
+      "fromModule": 342,
+      "toModule": 353,
+      "reason": "Peribulbar and retrobulbar local anaesthetic blocks in ophthalmic surgery belong to Practical Ophthalmology."
+    },
+    {
+      "id": 13818,
+      "fromModule": 342,
+      "toModule": 351,
+      "reason": "Altitudinal visual field defect pathognomonic of ischemic optic neuropathy belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13890,
+      "fromModule": 342,
+      "toModule": 350,
+      "reason": "Pituitary adenoma compressing chiasmal fibers producing bitemporal visual field loss belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13919,
+      "fromModule": 342,
+      "toModule": 352,
+      "reason": "Pseudouveitis and masquerade presentation in retinoblastoma belong to Tumors of Eye."
+    },
+    {
+      "id": 249,
+      "fromModule": 343,
+      "toModule": 329,
+      "reason": "Outer plexiform layer synapses of rods and cones in retinal histology belong to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12322,
+      "fromModule": 343,
+      "toModule": 338,
+      "reason": "Persistent hyperplastic primary vitreous (PHPV) posterior retrolental membrane belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12437,
+      "fromModule": 343,
+      "toModule": 331,
+      "reason": "Posterior staphyloma in pathological high myopia belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12453,
+      "fromModule": 343,
+      "toModule": 331,
+      "reason": "Posterior staphyloma in degenerative myopia belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 13025,
+      "fromModule": 343,
+      "toModule": 340,
+      "reason": "Nd:YAG laser posterior capsulotomy for posterior capsular opacification (PCO) belongs to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 13290,
+      "fromModule": 343,
+      "toModule": 338,
+      "reason": "Wieger ligament (hyaloideocapsular ligament) attaching anterior vitreous face to posterior lens belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13305,
+      "fromModule": 343,
+      "toModule": 329,
+      "reason": "Superior rectus muscle insertion distance from limbus belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13310,
+      "fromModule": 343,
+      "toModule": 338,
+      "reason": "Metamorphopsia caused by foveal photoreceptor distortion in macular disorders belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 13316,
+      "fromModule": 343,
+      "toModule": 341,
+      "reason": "Active secretion, ultrafiltration, and diffusion in aqueous humor formation belong to Glaucoma."
+    },
+    {
+      "id": 13317,
+      "fromModule": 343,
+      "toModule": 339,
+      "reason": "Posterior lenticonus conical protrusion of posterior capsule in cataract belongs to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 13319,
+      "fromModule": 343,
+      "toModule": 351,
+      "reason": "Posterior ischemic optic neuropathy (PION) pial capillary compromise belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13330,
+      "fromModule": 343,
+      "toModule": 344,
+      "reason": "Distichiasis aberrant cilia row posterior to gray line belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13706,
+      "fromModule": 343,
+      "toModule": 333,
+      "reason": "Phlyctenular keratoconjunctivitis delayed hypersensitivity to tuberculoprotein belongs to Conjunctiva."
+    },
+    {
+      "id": 13740,
+      "fromModule": 343,
+      "toModule": 329,
+      "reason": "Ciliary body region as the surgical \"dangerous zone\" of the eye belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13852,
+      "fromModule": 343,
+      "toModule": 350,
+      "reason": "Meyer loop temporal optic radiation lesion producing superior homonymous quadrantanopia belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13853,
+      "fromModule": 343,
+      "toModule": 350,
+      "reason": "Meyer loop damage causing contralateral superior \"pie-in-the-sky\" quadrantanopia belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13886,
+      "fromModule": 343,
+      "toModule": 351,
+      "reason": "Contrast-enhanced fat-suppressed orbital MRI for optic nerve glioma belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13372,
+      "fromModule": 344,
+      "toModule": 350,
+      "reason": "Adie tonic pupil with light-near dissociation and anisocoria greater in light belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13377,
+      "fromModule": 344,
+      "toModule": 346,
+      "reason": "Angle recession and secondary glaucoma following blunt ocular contusion belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 2146,
+      "fromModule": 345,
+      "toModule": 338,
+      "reason": "Dry age-related macular degeneration (AMD) with macular drusen and geographic atrophy belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12708,
+      "fromModule": 345,
+      "toModule": 352,
+      "reason": "Enucleation surgery indicated for intraocular malignancies (retinoblastoma, uveal melanoma) belongs to Tumors of Eye."
+    },
+    {
+      "id": 13355,
+      "fromModule": 345,
+      "toModule": 344,
+      "reason": "Anterior staphylococcal blepharitis with crusting and lash collarettes belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13359,
+      "fromModule": 345,
+      "toModule": 344,
+      "reason": "Recurrent chalazion in elderly female suspicious for sebaceous gland carcinoma belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13368,
+      "fromModule": 345,
+      "toModule": 344,
+      "reason": "Blepharochalasis syndrome recurring painless episodes of eyelid edema belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13376,
+      "fromModule": 345,
+      "toModule": 344,
+      "reason": "Sebaceous gland carcinoma masquerading as recurrent chalazion belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13413,
+      "fromModule": 345,
+      "toModule": 333,
+      "reason": "Keratoconjunctivitis sicca (secondary Sjogren dry eye) in rheumatoid arthritis belongs to Conjunctiva."
+    },
+    {
+      "id": 13725,
+      "fromModule": 345,
+      "toModule": 329,
+      "reason": "Branches of ophthalmic division of trigeminal nerve (frontal, lacrimal, nasociliary) belong to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12763,
+      "fromModule": 346,
+      "toModule": 352,
+      "reason": "Embryonal rhabdomyosarcoma as most common pediatric orbital malignancy belongs to Tumors of Eye."
+    },
+    {
+      "id": 13444,
+      "fromModule": 346,
+      "toModule": 347,
+      "reason": "Ethmoid sinusitis origin of pediatric orbital cellulitis belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13459,
+      "fromModule": 346,
+      "toModule": 347,
+      "reason": "Microbial etiology and management of orbital cellulitis belong to Diseases of the Orbit."
+    },
+    {
+      "id": 13462,
+      "fromModule": 346,
+      "toModule": 343,
+      "reason": "Ocular toxocariasis posterior pole granulomatous chorioretinitis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13472,
+      "fromModule": 346,
+      "toModule": 349,
+      "reason": "Compensatory head turn towards affected side in abducens 6th nerve palsy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13473,
+      "fromModule": 346,
+      "toModule": 348,
+      "reason": "Synergist muscle pairings in ocular motility physiology belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13474,
+      "fromModule": 346,
+      "toModule": 348,
+      "reason": "Antagonist muscle reciprocal innervation (Sherrington law) belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13475,
+      "fromModule": 346,
+      "toModule": 351,
+      "reason": "Internuclear ophthalmoplegia (INO) medial longitudinal fasciculus lesion belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13482,
+      "fromModule": 346,
+      "toModule": 349,
+      "reason": "Nuclear oculomotor nerve palsy patterns with bilateral ptosis and contralateral SR weakness belong to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13483,
+      "fromModule": 346,
+      "toModule": 347,
+      "reason": "Clinical distinction between cavernous sinus syndrome and orbital apex syndrome belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13487,
+      "fromModule": 346,
+      "toModule": 347,
+      "reason": "Cranial nerve involvement in orbital apex syndrome belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13492,
+      "fromModule": 346,
+      "toModule": 352,
+      "reason": "Cavernous hemangioma as the most common benign orbital tumor in adults belongs to Tumors of Eye."
+    },
+    {
+      "id": 13497,
+      "fromModule": 346,
+      "toModule": 352,
+      "reason": "Choroidal melanoma as the most common primary intraocular malignancy in adults belongs to Tumors of Eye."
+    },
+    {
+      "id": 13503,
+      "fromModule": 346,
+      "toModule": 352,
+      "reason": "Pediatric orbital rhabdomyosarcoma presenting with acute proptosis belongs to Tumors of Eye."
+    },
+    {
+      "id": 13504,
+      "fromModule": 346,
+      "toModule": 347,
+      "reason": "Orbital varices showing enlargement on Valsalva maneuver belong to Diseases of the Orbit."
+    },
+    {
+      "id": 13511,
+      "fromModule": 346,
+      "toModule": 347,
+      "reason": "Thyroid eye disease extraocular muscle belly enlargement sparing tendons on CT belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13744,
+      "fromModule": 346,
+      "toModule": 352,
+      "reason": "Management of optic nerve glioma confined to orbit in children belongs to Tumors of Eye."
+    },
+    {
+      "id": 13785,
+      "fromModule": 346,
+      "toModule": 352,
+      "reason": "Most common adult primary orbital tumor (cavernous hemangioma) belongs to Tumors of Eye."
+    },
+    {
+      "id": 13794,
+      "fromModule": 346,
+      "toModule": 349,
+      "reason": "Trochlear 4th nerve palsy causing vertical diplopia worse on downgaze and reading belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13900,
+      "fromModule": 346,
+      "toModule": 349,
+      "reason": "Brown superior oblique tendon sheath syndrome restricted elevation in adduction belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13938,
+      "fromModule": 346,
+      "toModule": 352,
+      "reason": "Capillary hemangioma of orbit in infancy belongs to Tumors of Eye."
+    },
+    {
+      "id": 4997,
+      "fromModule": 347,
+      "toModule": 351,
+      "reason": "Etiologies of bilateral primary and secondary optic atrophy belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13676,
+      "fromModule": 347,
+      "toModule": 351,
+      "reason": "Bilateral papilledema secondary to idiopathic intracranial hypertension belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13815,
+      "fromModule": 347,
+      "toModule": 351,
+      "reason": "Funduscopic signs and absence of early vision loss in papilledema belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13824,
+      "fromModule": 347,
+      "toModule": 351,
+      "reason": "Pain on ocular movement in retrobulbar optic neuritis from recti dural sheath attachments belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13831,
+      "fromModule": 347,
+      "toModule": 351,
+      "reason": "Differential diagnosis of true papilledema vs pseudopapilledema from optic disc drusen belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13748,
+      "fromModule": 350,
+      "toModule": 352,
+      "reason": "Optic nerve glioma presenting with proptosis in child with neurofibromatosis belongs to Tumors of Eye."
+    },
+    {
+      "id": 13755,
+      "fromModule": 350,
+      "toModule": 349,
+      "reason": "Oculomotor 3rd nerve palsy \"down and out\" eye deviation and ptosis belong to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13760,
+      "fromModule": 350,
+      "toModule": 348,
+      "reason": "Innervation of lateral rectus muscle by cranial nerve VI belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13764,
+      "fromModule": 350,
+      "toModule": 349,
+      "reason": "Abducens 6th nerve injury causing lateral rectus paralysis belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13779,
+      "fromModule": 350,
+      "toModule": 349,
+      "reason": "Loss of outward abduction after head trauma due to 6th nerve palsy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13793,
+      "fromModule": 350,
+      "toModule": 351,
+      "reason": "Demyelinating retrobulbar optic neuritis in Multiple Sclerosis belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13860,
+      "fromModule": 350,
+      "toModule": 351,
+      "reason": "Acute painful unilateral vision loss in retrobulbar optic neuritis belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13891,
+      "fromModule": 350,
+      "toModule": 351,
+      "reason": "Clinical features and natural history of demyelinating optic neuritis belong to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13931,
+      "fromModule": 350,
+      "toModule": 352,
+      "reason": "Histopathological Flexner-Wintersteiner rosettes in retinoblastoma belong to Tumors of Eye."
+    },
+    {
+      "id": 13506,
+      "fromModule": 351,
+      "toModule": 347,
+      "reason": "Cavernous sinus thrombosis causing orbital proptosis and bilateral abducens palsies belongs to Diseases of the Orbit."
+    },
+    {
+      "id": 13678,
+      "fromModule": 351,
+      "toModule": 332,
+      "reason": "Bilateral paralysis of accommodation in post-diphtheritic neuropathy belongs to Astigmatism and Errors of Accomodation."
+    },
+    {
+      "id": 13684,
+      "fromModule": 351,
+      "toModule": 336,
+      "reason": "Keratoglobus non-inflammatory generalized corneal thinning and ectasia belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13690,
+      "fromModule": 351,
+      "toModule": 329,
+      "reason": "Peak cone photoreceptor density at the central foveola belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13692,
+      "fromModule": 351,
+      "toModule": 337,
+      "reason": "Outer plexiform layer cleavage plane in senile retinoschisis belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13693,
+      "fromModule": 351,
+      "toModule": 337,
+      "reason": "Nerve fiber layer splitting in juvenile X-linked retinoschisis belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13700,
+      "fromModule": 351,
+      "toModule": 350,
+      "reason": "Lateral geniculate nucleus visual pathway relay to Meyer and Baum loops belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13707,
+      "fromModule": 351,
+      "toModule": 352,
+      "reason": "Uveal metastasis as most common secondary ocular malignancy belongs to Tumors of Eye."
+    },
+    {
+      "id": 13708,
+      "fromModule": 351,
+      "toModule": 329,
+      "reason": "Origin of the four recti muscles from the Annulus of Zinn belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13714,
+      "fromModule": 351,
+      "toModule": 350,
+      "reason": "Homonymous hemianopic field defect localization along visual pathway belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13719,
+      "fromModule": 351,
+      "toModule": 329,
+      "reason": "Optic pit appearance on day 22 of human embryogenesis belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13721,
+      "fromModule": 351,
+      "toModule": 346,
+      "reason": "Bony optic canal dimensions and transmitting structures belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13722,
+      "fromModule": 351,
+      "toModule": 329,
+      "reason": "Inner plexiform layer amacrine and ganglion cell synaptic architecture belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13723,
+      "fromModule": 351,
+      "toModule": 329,
+      "reason": "Angular displacement of fovea centralis from optic disc margin belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13733,
+      "fromModule": 351,
+      "toModule": 329,
+      "reason": "Typical inferonasal iris and chorioretinal coloboma from defective embryonic fissure closure belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13735,
+      "fromModule": 351,
+      "toModule": 352,
+      "reason": "Fusiform enlargement of optic nerve on CT in pediatric optic glioma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13742,
+      "fromModule": 351,
+      "toModule": 345,
+      "reason": "Schirmer test evaluating autonomic parasympathetic lacrimal secretomotor fibers belongs to Disorders of Lacrimal Apparatus and Glands of the Eye."
+    },
+    {
+      "id": 13743,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Clinical presentation of pupil-involving vs pupil-sparing 3rd nerve palsies belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13747,
+      "fromModule": 351,
+      "toModule": 352,
+      "reason": "Pilocytic astrocytoma histopathology of optic nerve glioma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13749,
+      "fromModule": 351,
+      "toModule": 348,
+      "reason": "Testing superior rectus muscle elevation in abduction belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13750,
+      "fromModule": 351,
+      "toModule": 348,
+      "reason": "Yoke muscles responsible for levodepression in cardinal gazes belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13754,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Trochlear 4th nerve palsy causing vertical and torsional diplopia belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13756,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Nuclear oculomotor 3rd nerve palsy bilateral ptosis and contralateral SR palsy belong to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13759,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Right hypertropia worsening on left gaze and right head tilt in 4th nerve palsy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13765,
+      "fromModule": 351,
+      "toModule": 348,
+      "reason": "Hess screen and Lancaster red-green test charting paralytic strabismus belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13770,
+      "fromModule": 351,
+      "toModule": 348,
+      "reason": "Torsional and vertical diplopia evaluation in cyclovertical strabismus belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13776,
+      "fromModule": 351,
+      "toModule": 348,
+      "reason": "Yoke muscle pairing (Right LR and Left MR) according to Hering law belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13777,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Total external ophthalmoplegia cranial neuropathy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13778,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Third cranial nerve palsy with ptosis and down-and-out deviation belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13782,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Bielschowsky head tilt test for superior oblique palsy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13783,
+      "fromModule": 351,
+      "toModule": 350,
+      "reason": "Optic tract lesion causing contralateral incongruous homonymous hemianopia belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13787,
+      "fromModule": 351,
+      "toModule": 348,
+      "reason": "Yoke muscle pairs in levo-depression (Left IR and Right SO) belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13788,
+      "fromModule": 351,
+      "toModule": 335,
+      "reason": "Trigeminal Gasserian ganglion viral reactivation in herpes zoster ophthalmicus belongs to Basics of Cornea and Infectious Keratitis."
+    },
+    {
+      "id": 13854,
+      "fromModule": 351,
+      "toModule": 350,
+      "reason": "Origin of geniculocalcarine optic radiations from the lateral geniculate body belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13858,
+      "fromModule": 351,
+      "toModule": 350,
+      "reason": "Light-near pupillary dissociation (Argyll Robertson, Adie tonic pupil) belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13862,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Mobius syndrome congenital facial and abducens nerve agenesis belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13864,
+      "fromModule": 351,
+      "toModule": 349,
+      "reason": "Most common cranial nerves paralyzed singly in paralytic strabismus (CN VI, CN IV) belong to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13865,
+      "fromModule": 351,
+      "toModule": 346,
+      "reason": "Superior orbital fissure syndrome causing combined CN III, IV, VI palsies belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13889,
+      "fromModule": 351,
+      "toModule": 352,
+      "reason": "Contrast MRI assessment of optic nerve invasion in retinoblastoma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13933,
+      "fromModule": 351,
+      "toModule": 352,
+      "reason": "Flexner-Wintersteiner rosettes in retinoblastoma enucleation specimen belong to Tumors of Eye."
+    },
+    {
+      "id": 12334,
+      "fromModule": 352,
+      "toModule": 348,
+      "reason": "Maddox rod orientation for evaluating horizontal and vertical heterophoria belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 12359,
+      "fromModule": 352,
+      "toModule": 330,
+      "reason": "Total refractive power of emmetropic human eye (+60 Diopters) belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12360,
+      "fromModule": 352,
+      "toModule": 330,
+      "reason": "Refractive indices of ocular media (cornea, aqueous, lens, vitreous) belong to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 12448,
+      "fromModule": 352,
+      "toModule": 340,
+      "reason": "Aphakic hypermetropic refractive state and total dioptric power (+43 D) belong to Lens - Cataract Surgery, Complications and IOLs."
+    },
+    {
+      "id": 12455,
+      "fromModule": 352,
+      "toModule": 331,
+      "reason": "Anisometropia refractive power difference between both eyes belongs to Myopia and Hypermetropia."
+    },
+    {
+      "id": 12655,
+      "fromModule": 352,
+      "toModule": 346,
+      "reason": "Acid versus alkali ocular chemical burns pathogenesis belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12669,
+      "fromModule": 352,
+      "toModule": 329,
+      "reason": "Ophthalmic artery intraorbital and intraocular branches belong to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12699,
+      "fromModule": 352,
+      "toModule": 336,
+      "reason": "Absolute contraindications for donor eye tissue harvesting in eye banking belong to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 12743,
+      "fromModule": 352,
+      "toModule": 336,
+      "reason": "Endothelial keratoplasty (DSEK / DMEK) for Fuchs endothelial dystrophy belongs to Non-infectious Disorders of Cornea."
+    },
+    {
+      "id": 13007,
+      "fromModule": 352,
+      "toModule": 330,
+      "reason": "Gullstrand reduced eye total power (+60 D) belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13179,
+      "fromModule": 352,
+      "toModule": 331,
+      "reason": "Hypermetropia asthenopic symptoms and near vision correction belong to Myopia and Hypermetropia."
+    },
+    {
+      "id": 13202,
+      "fromModule": 352,
+      "toModule": 330,
+      "reason": "Maximum optical refractive power (+43 D) at anterior corneal air-tear interface belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13253,
+      "fromModule": 352,
+      "toModule": 346,
+      "reason": "Periorbital ecchymosis (raccoon eyes) in fracture of anterior cranial fossa belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13351,
+      "fromModule": 352,
+      "toModule": 344,
+      "reason": "Levator resection for ptosis correction belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13352,
+      "fromModule": 352,
+      "toModule": 344,
+      "reason": "Blepharophimosis, Ptosis, and Epicanthus Inversus Syndrome (BPES) belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13369,
+      "fromModule": 352,
+      "toModule": 344,
+      "reason": "Epicanthal folds (epicanthus tarsalis, inversus, palpebralis) belong to Disorders of the Eyelid."
+    },
+    {
+      "id": 13381,
+      "fromModule": 352,
+      "toModule": 344,
+      "reason": "Involutional senile ectropion horizontal lid laxity belongs to Disorders of the Eyelid."
+    },
+    {
+      "id": 13397,
+      "fromModule": 352,
+      "toModule": 344,
+      "reason": "Neurogenic, myogenic, and aponeurotic ptosis etiologies belong to Disorders of the Eyelid."
+    },
+    {
+      "id": 13398,
+      "fromModule": 352,
+      "toModule": 344,
+      "reason": "Madarosis (loss of eyelashes) clinical associations belong to Disorders of the Eyelid."
+    },
+    {
+      "id": 13455,
+      "fromModule": 352,
+      "toModule": 346,
+      "reason": "Tennis ball contusion injury causing traumatic hyphema and angle recession belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13463,
+      "fromModule": 352,
+      "toModule": 333,
+      "reason": "Phenol red thread test for measuring tear film volume belongs to Conjunctiva."
+    },
+    {
+      "id": 13488,
+      "fromModule": 352,
+      "toModule": 346,
+      "reason": "Immediate rigid eye shield and repair for penetrating open globe injury belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13495,
+      "fromModule": 352,
+      "toModule": 347,
+      "reason": "Graves disease thyroid eye orbitopathy and pretibial myxedema belong to Diseases of the Orbit."
+    },
+    {
+      "id": 13512,
+      "fromModule": 352,
+      "toModule": 347,
+      "reason": "Inferior rectus and medial rectus muscle enlargement in thyroid eye disease belong to Diseases of the Orbit."
+    },
+    {
+      "id": 13600,
+      "fromModule": 352,
+      "toModule": 348,
+      "reason": "Maddox rod streak displacement interpretation in heterophoria belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13635,
+      "fromModule": 352,
+      "toModule": 330,
+      "reason": "Visual acuity measurement with Snellen charts in children belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13861,
+      "fromModule": 352,
+      "toModule": 349,
+      "reason": "Double elevator palsy (monocular elevation deficiency) belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13970,
+      "fromModule": 352,
+      "toModule": 354,
+      "reason": "Bull's eye maculopathy caused by chloroquine/hydroxychloroquine toxicity belongs to Mixed / Miscellaneous Topics (Ocular Pharmacology)."
+    },
+    {
+      "id": 13990,
+      "fromModule": 352,
+      "toModule": 346,
+      "reason": "Periorbital ecchymosis (black eye) and blowout fracture mechanism belong to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 12323,
+      "fromModule": 353,
+      "toModule": 329,
+      "reason": "Embryonic fissure closure on day 33 (6th week of gestation) belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 12865,
+      "fromModule": 353,
+      "toModule": 338,
+      "reason": "Refsum disease phytanic acid alpha-oxidation defect tapetoretinal dystrophy belongs to Macular Disorders, Retinal Dystrophies, and Vitreal Disorders."
+    },
+    {
+      "id": 12961,
+      "fromModule": 353,
+      "toModule": 339,
+      "reason": "Embryonic nucleus formed in the first 3 months of gestation belongs to Lens - Introduction, Types of Cataract and Clinical Features."
+    },
+    {
+      "id": 13275,
+      "fromModule": 353,
+      "toModule": 352,
+      "reason": "Liver metastasis as primary hematogenous route in uveal melanoma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13443,
+      "fromModule": 353,
+      "toModule": 337,
+      "reason": "Stickler syndrome autosomal dominant vitreoretinal dystrophy and retinal detachment belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13517,
+      "fromModule": 353,
+      "toModule": 345,
+      "reason": "Congenital nasolacrimal duct obstruction presenting in 2-month-old infant belongs to Disorders of Lacrimal Apparatus and Glands of the Eye."
+    },
+    {
+      "id": 13630,
+      "fromModule": 353,
+      "toModule": 350,
+      "reason": "Homonymous hemianopia with macular sparing in occipital visual cortex infarction belongs to Disorders of Visual Pathway and Pupillary Reflexes."
+    },
+    {
+      "id": 13705,
+      "fromModule": 353,
+      "toModule": 352,
+      "reason": "Vortex vein extrascleral extension in uveal melanoma belongs to Tumors of Eye."
+    },
+    {
+      "id": 13941,
+      "fromModule": 353,
+      "toModule": 337,
+      "reason": "Scleral indentation with indirect ophthalmoscopy for peripheral retinal breaks in high myopes belongs to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13944,
+      "fromModule": 353,
+      "toModule": 351,
+      "reason": "Frisen papilledema grading scale in idiopathic intracranial hypertension belongs to Disorders of Optic Nerve and Gaze Palsies."
+    },
+    {
+      "id": 13947,
+      "fromModule": 354,
+      "toModule": 329,
+      "reason": "Extraocular muscle tendon lengths (medial rectus shortest, superior oblique longest) belong to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13948,
+      "fromModule": 354,
+      "toModule": 329,
+      "reason": "Congenital iris and chorioretinal coloboma embryology belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13956,
+      "fromModule": 354,
+      "toModule": 329,
+      "reason": "Spiral of Tillaux recti muscle insertion distances from the limbus belongs to Anatomy and Development of Eye."
+    },
+    {
+      "id": 13957,
+      "fromModule": 354,
+      "toModule": 348,
+      "reason": "Superior oblique muscle primary (intorsion), secondary (depression), and tertiary (abduction) actions belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13958,
+      "fromModule": 354,
+      "toModule": 348,
+      "reason": "Sherrington law of reciprocal innervation in antagonistic extraocular muscles belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13959,
+      "fromModule": 354,
+      "toModule": 348,
+      "reason": "Hering law of equal innervation to contralateral yoke extraocular muscles belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13960,
+      "fromModule": 354,
+      "toModule": 349,
+      "reason": "Compensatory head tilt to contralateral shoulder in superior oblique 4th nerve palsy belongs to Strabismus - Types and Treatment."
+    },
+    {
+      "id": 13961,
+      "fromModule": 354,
+      "toModule": 348,
+      "reason": "Yoke muscle pairing (Right SO and Left IR) in down-and-in gaze belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13962,
+      "fromModule": 354,
+      "toModule": 348,
+      "reason": "4-diopter base-out prism test detecting central suppression scotoma and microtropia belongs to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13966,
+      "fromModule": 354,
+      "toModule": 352,
+      "reason": "Radioresistance of sebaceous gland carcinoma requiring wide surgical excision belongs to Tumors of Eye."
+    },
+    {
+      "id": 13969,
+      "fromModule": 354,
+      "toModule": 343,
+      "reason": "Intravenous ganciclovir and foscarnet for CMV retinitis in immunocompromised hosts belong to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 13971,
+      "fromModule": 354,
+      "toModule": 337,
+      "reason": "Screening criteria for retinopathy of prematurity (gestational age <34 weeks, birth weight <1750g) belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13972,
+      "fromModule": 354,
+      "toModule": 337,
+      "reason": "Diabetic retinopathy screening guidelines in newly diagnosed type 2 diabetes belong to Retinal Vascular Disorders and Retinal Detachment."
+    },
+    {
+      "id": 13974,
+      "fromModule": 354,
+      "toModule": 341,
+      "reason": "Aqueous humor production by non-pigmented ciliary epithelium belongs to Glaucoma."
+    },
+    {
+      "id": 13977,
+      "fromModule": 354,
+      "toModule": 341,
+      "reason": "Seidel sickle-shaped extension of blind spot in early glaucomatous visual field loss belongs to Glaucoma."
+    },
+    {
+      "id": 13979,
+      "fromModule": 354,
+      "toModule": 346,
+      "reason": "Non-contrast thin-cut CT orbit as investigation of choice for metallic IOFB belongs to Orbit Anatomy and Ocular Injuries."
+    },
+    {
+      "id": 13980,
+      "fromModule": 354,
+      "toModule": 348,
+      "reason": "Actions of superior oblique extraocular muscle belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13981,
+      "fromModule": 354,
+      "toModule": 348,
+      "reason": "Intorsion and depression in adduction of superior oblique muscle belong to Strabismus - Introduction, Symptomatology, and Evaluation."
+    },
+    {
+      "id": 13998,
+      "fromModule": 354,
+      "toModule": 330,
+      "reason": "Definition of dioptric power as reciprocal of focal length in meters belongs to Elementary Optics and Physiology of Vision."
+    },
+    {
+      "id": 13999,
+      "fromModule": 354,
+      "toModule": 343,
+      "reason": "Salt-and-pepper fundus retinopathy in congenital rubella and syphilis belongs to Uveitis - Posterior and Panuveitis."
+    },
+    {
+      "id": 14000,
+      "fromModule": 354,
+      "toModule": 349,
+      "reason": "Etiologies of external ophthalmoplegia (myasthenia, CPEO, cavernous sinus thrombosis) belong to Strabismus - Types and Treatment."
+    }
+  ]
+}

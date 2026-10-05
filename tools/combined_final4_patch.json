@@ -1,0 +1,4364 @@
+[
+  {
+    "id": 4494,
+    "fromModule": 633,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 25749,
+    "fromModule": 633,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 25725,
+    "fromModule": 633,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 25776,
+    "fromModule": 634,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25901,
+    "fromModule": 634,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 26012,
+    "fromModule": 634,
+    "toModule": 639,
+    "reason": "Tests eczematous dermatoses (Atopic dermatitis, Contact dermatitis, Seborrheic dermatitis), belongs in Dermatology: Dermatitis (Module 639)."
+  },
+  {
+    "id": 26100,
+    "fromModule": 634,
+    "toModule": 640,
+    "reason": "Tests urticarial vascular reactions and hereditary angioedema mechanisms, belongs in Dermatology: Urticaria & Angioedema (Module 640)."
+  },
+  {
+    "id": 26366,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26395,
+    "fromModule": 634,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26423,
+    "fromModule": 634,
+    "toModule": 647,
+    "reason": "Tests cutaneous viral infections (Herpes simplex, Varicella-zoster, Molluscum, HPV warts), belongs in Dermatology: Viral Infections (Module 647)."
+  },
+  {
+    "id": 26465,
+    "fromModule": 634,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26565,
+    "fromModule": 634,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 25985,
+    "fromModule": 634,
+    "toModule": 638,
+    "reason": "Tests disorders of melanogenesis and pigmentation (Vitiligo, Melasma, Albinism), belongs in Dermatology: Disorders of Skin Pigmentation (Module 638)."
+  },
+  {
+    "id": 26160,
+    "fromModule": 634,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26484,
+    "fromModule": 634,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26581,
+    "fromModule": 634,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26194,
+    "fromModule": 634,
+    "toModule": 650,
+    "reason": "Tests Treponema pallidum syphilis stages, serology, and penicillin therapy, belongs in Dermatology: Syphilis (Module 650)."
+  },
+  {
+    "id": 26620,
+    "fromModule": 634,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 25889,
+    "fromModule": 634,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 25756,
+    "fromModule": 634,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25771,
+    "fromModule": 634,
+    "toModule": 639,
+    "reason": "Tests eczematous dermatoses (Atopic dermatitis, Contact dermatitis, Seborrheic dermatitis), belongs in Dermatology: Dermatitis (Module 639)."
+  },
+  {
+    "id": 25774,
+    "fromModule": 634,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25780,
+    "fromModule": 634,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 25793,
+    "fromModule": 634,
+    "toModule": 655,
+    "reason": "Tests cutaneous markers of internal malignancies, diabetes, and metabolic diseases, belongs in Dermatology: Systemic Diseases and Skin (Module 655)."
+  },
+  {
+    "id": 25795,
+    "fromModule": 634,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 25801,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 25840,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 25877,
+    "fromModule": 634,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 25915,
+    "fromModule": 634,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 25980,
+    "fromModule": 634,
+    "toModule": 638,
+    "reason": "Tests disorders of melanogenesis and pigmentation (Vitiligo, Melasma, Albinism), belongs in Dermatology: Disorders of Skin Pigmentation (Module 638)."
+  },
+  {
+    "id": 25977,
+    "fromModule": 634,
+    "toModule": 638,
+    "reason": "Tests disorders of melanogenesis and pigmentation (Vitiligo, Melasma, Albinism), belongs in Dermatology: Disorders of Skin Pigmentation (Module 638)."
+  },
+  {
+    "id": 25953,
+    "fromModule": 634,
+    "toModule": 637,
+    "reason": "Tests trichology (Alopecia areata, Androgenetic alopecia) and nail pathology, belongs in Dermatology: Disorders of Hair and Nails (Module 637)."
+  },
+  {
+    "id": 26102,
+    "fromModule": 634,
+    "toModule": 640,
+    "reason": "Tests urticarial vascular reactions and hereditary angioedema mechanisms, belongs in Dermatology: Urticaria & Angioedema (Module 640)."
+  },
+  {
+    "id": 26112,
+    "fromModule": 634,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26143,
+    "fromModule": 634,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26281,
+    "fromModule": 634,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26282,
+    "fromModule": 634,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26316,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26343,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 25879,
+    "fromModule": 634,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 26353,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26117,
+    "fromModule": 634,
+    "toModule": 655,
+    "reason": "Tests cutaneous markers of internal malignancies, diabetes, and metabolic diseases, belongs in Dermatology: Systemic Diseases and Skin (Module 655)."
+  },
+  {
+    "id": 26317,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26456,
+    "fromModule": 634,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26083,
+    "fromModule": 634,
+    "toModule": 640,
+    "reason": "Tests urticarial vascular reactions and hereditary angioedema mechanisms, belongs in Dermatology: Urticaria & Angioedema (Module 640)."
+  },
+  {
+    "id": 26127,
+    "fromModule": 634,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26536,
+    "fromModule": 634,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26172,
+    "fromModule": 634,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26420,
+    "fromModule": 634,
+    "toModule": 647,
+    "reason": "Tests cutaneous viral infections (Herpes simplex, Varicella-zoster, Molluscum, HPV warts), belongs in Dermatology: Viral Infections (Module 647)."
+  },
+  {
+    "id": 26179,
+    "fromModule": 634,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26574,
+    "fromModule": 634,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26580,
+    "fromModule": 634,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26247,
+    "fromModule": 634,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26203,
+    "fromModule": 634,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 26350,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26592,
+    "fromModule": 634,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26625,
+    "fromModule": 634,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 26636,
+    "fromModule": 634,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 26351,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26451,
+    "fromModule": 634,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26485,
+    "fromModule": 634,
+    "toModule": 649,
+    "reason": "Tests ectoparasitic infestations (Scabies, Pediculosis, Cutaneous larva migrans, Leishmaniasis), belongs in Dermatology: Arthropod and Parasitic Infections (Module 649)."
+  },
+  {
+    "id": 26590,
+    "fromModule": 634,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26507,
+    "fromModule": 634,
+    "toModule": 650,
+    "reason": "Tests Treponema pallidum syphilis stages, serology, and penicillin therapy, belongs in Dermatology: Syphilis (Module 650)."
+  },
+  {
+    "id": 26599,
+    "fromModule": 634,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26600,
+    "fromModule": 634,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26494,
+    "fromModule": 634,
+    "toModule": 649,
+    "reason": "Tests ectoparasitic infestations (Scabies, Pediculosis, Cutaneous larva migrans, Leishmaniasis), belongs in Dermatology: Arthropod and Parasitic Infections (Module 649)."
+  },
+  {
+    "id": 26270,
+    "fromModule": 634,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26355,
+    "fromModule": 634,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26629,
+    "fromModule": 634,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 25785,
+    "fromModule": 634,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26617,
+    "fromModule": 634,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 25835,
+    "fromModule": 635,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25799,
+    "fromModule": 635,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 25806,
+    "fromModule": 635,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 25808,
+    "fromModule": 635,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 25812,
+    "fromModule": 635,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 25834,
+    "fromModule": 635,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 25873,
+    "fromModule": 635,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26508,
+    "fromModule": 635,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26495,
+    "fromModule": 635,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25850,
+    "fromModule": 635,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25896,
+    "fromModule": 636,
+    "toModule": 638,
+    "reason": "Tests disorders of melanogenesis and pigmentation (Vitiligo, Melasma, Albinism), belongs in Dermatology: Disorders of Skin Pigmentation (Module 638)."
+  },
+  {
+    "id": 2495,
+    "fromModule": 636,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 9869,
+    "fromModule": 637,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 25919,
+    "fromModule": 637,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 11805,
+    "fromModule": 637,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26206,
+    "fromModule": 637,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 25954,
+    "fromModule": 637,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 26162,
+    "fromModule": 637,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 25792,
+    "fromModule": 638,
+    "toModule": 655,
+    "reason": "Tests cutaneous markers of internal malignancies, diabetes, and metabolic diseases, belongs in Dermatology: Systemic Diseases and Skin (Module 655)."
+  },
+  {
+    "id": 26163,
+    "fromModule": 638,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26285,
+    "fromModule": 638,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26286,
+    "fromModule": 638,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26146,
+    "fromModule": 638,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26362,
+    "fromModule": 638,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26505,
+    "fromModule": 638,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26598,
+    "fromModule": 638,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26622,
+    "fromModule": 638,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 26019,
+    "fromModule": 639,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26133,
+    "fromModule": 639,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26294,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26303,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26304,
+    "fromModule": 639,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26040,
+    "fromModule": 639,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26284,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26649,
+    "fromModule": 639,
+    "toModule": 655,
+    "reason": "Tests cutaneous markers of internal malignancies, diabetes, and metabolic diseases, belongs in Dermatology: Systemic Diseases and Skin (Module 655)."
+  },
+  {
+    "id": 25976,
+    "fromModule": 639,
+    "toModule": 638,
+    "reason": "Tests disorders of melanogenesis and pigmentation (Vitiligo, Melasma, Albinism), belongs in Dermatology: Disorders of Skin Pigmentation (Module 638)."
+  },
+  {
+    "id": 26011,
+    "fromModule": 639,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26032,
+    "fromModule": 639,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 26035,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26038,
+    "fromModule": 639,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26042,
+    "fromModule": 639,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26047,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26056,
+    "fromModule": 639,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26064,
+    "fromModule": 639,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26070,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26156,
+    "fromModule": 639,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26154,
+    "fromModule": 639,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26262,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26260,
+    "fromModule": 639,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26297,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26300,
+    "fromModule": 639,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25996,
+    "fromModule": 639,
+    "toModule": 638,
+    "reason": "Tests disorders of melanogenesis and pigmentation (Vitiligo, Melasma, Albinism), belongs in Dermatology: Disorders of Skin Pigmentation (Module 638)."
+  },
+  {
+    "id": 26368,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26573,
+    "fromModule": 639,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26261,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26585,
+    "fromModule": 639,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26463,
+    "fromModule": 639,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26151,
+    "fromModule": 639,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26293,
+    "fromModule": 639,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26060,
+    "fromModule": 639,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26259,
+    "fromModule": 640,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26071,
+    "fromModule": 640,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26099,
+    "fromModule": 640,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26310,
+    "fromModule": 642,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 17380,
+    "fromModule": 642,
+    "toModule": 647,
+    "reason": "Tests cutaneous viral infections (Herpes simplex, Varicella-zoster, Molluscum, HPV warts), belongs in Dermatology: Viral Infections (Module 647)."
+  },
+  {
+    "id": 18085,
+    "fromModule": 642,
+    "toModule": 650,
+    "reason": "Tests Treponema pallidum syphilis stages, serology, and penicillin therapy, belongs in Dermatology: Syphilis (Module 650)."
+  },
+  {
+    "id": 18722,
+    "fromModule": 642,
+    "toModule": 650,
+    "reason": "Tests Treponema pallidum syphilis stages, serology, and penicillin therapy, belongs in Dermatology: Syphilis (Module 650)."
+  },
+  {
+    "id": 25916,
+    "fromModule": 643,
+    "toModule": 637,
+    "reason": "Tests trichology (Alopecia areata, Androgenetic alopecia) and nail pathology, belongs in Dermatology: Disorders of Hair and Nails (Module 637)."
+  },
+  {
+    "id": 9811,
+    "fromModule": 643,
+    "toModule": 640,
+    "reason": "Tests urticarial vascular reactions and hereditary angioedema mechanisms, belongs in Dermatology: Urticaria & Angioedema (Module 640)."
+  },
+  {
+    "id": 26195,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26197,
+    "fromModule": 643,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26201,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26220,
+    "fromModule": 643,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26171,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 25848,
+    "fromModule": 643,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25885,
+    "fromModule": 643,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 26153,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 25814,
+    "fromModule": 643,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26152,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26157,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26155,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26185,
+    "fromModule": 643,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26211,
+    "fromModule": 643,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 25817,
+    "fromModule": 643,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26223,
+    "fromModule": 643,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26231,
+    "fromModule": 643,
+    "toModule": 637,
+    "reason": "Tests trichology (Alopecia areata, Androgenetic alopecia) and nail pathology, belongs in Dermatology: Disorders of Hair and Nails (Module 637)."
+  },
+  {
+    "id": 26123,
+    "fromModule": 643,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26150,
+    "fromModule": 643,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26369,
+    "fromModule": 643,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 11835,
+    "fromModule": 644,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 17326,
+    "fromModule": 644,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26252,
+    "fromModule": 644,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26253,
+    "fromModule": 644,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26255,
+    "fromModule": 644,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26256,
+    "fromModule": 644,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26308,
+    "fromModule": 644,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 11661,
+    "fromModule": 644,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 26187,
+    "fromModule": 645,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 25821,
+    "fromModule": 645,
+    "toModule": 647,
+    "reason": "Tests cutaneous viral infections (Herpes simplex, Varicella-zoster, Molluscum, HPV warts), belongs in Dermatology: Viral Infections (Module 647)."
+  },
+  {
+    "id": 26264,
+    "fromModule": 645,
+    "toModule": 647,
+    "reason": "Tests cutaneous viral infections (Herpes simplex, Varicella-zoster, Molluscum, HPV warts), belongs in Dermatology: Viral Infections (Module 647)."
+  },
+  {
+    "id": 26347,
+    "fromModule": 645,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26375,
+    "fromModule": 645,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26115,
+    "fromModule": 646,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26135,
+    "fromModule": 646,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 25959,
+    "fromModule": 648,
+    "toModule": 637,
+    "reason": "Tests trichology (Alopecia areata, Androgenetic alopecia) and nail pathology, belongs in Dermatology: Disorders of Hair and Nails (Module 637)."
+  },
+  {
+    "id": 25961,
+    "fromModule": 648,
+    "toModule": 637,
+    "reason": "Tests trichology (Alopecia areata, Androgenetic alopecia) and nail pathology, belongs in Dermatology: Disorders of Hair and Nails (Module 637)."
+  },
+  {
+    "id": 25960,
+    "fromModule": 648,
+    "toModule": 637,
+    "reason": "Tests trichology (Alopecia areata, Androgenetic alopecia) and nail pathology, belongs in Dermatology: Disorders of Hair and Nails (Module 637)."
+  },
+  {
+    "id": 26101,
+    "fromModule": 649,
+    "toModule": 640,
+    "reason": "Tests urticarial vascular reactions and hereditary angioedema mechanisms, belongs in Dermatology: Urticaria & Angioedema (Module 640)."
+  },
+  {
+    "id": 26486,
+    "fromModule": 649,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26391,
+    "fromModule": 649,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26434,
+    "fromModule": 650,
+    "toModule": 647,
+    "reason": "Tests cutaneous viral infections (Herpes simplex, Varicella-zoster, Molluscum, HPV warts), belongs in Dermatology: Viral Infections (Module 647)."
+  },
+  {
+    "id": 26279,
+    "fromModule": 650,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26292,
+    "fromModule": 650,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26436,
+    "fromModule": 650,
+    "toModule": 647,
+    "reason": "Tests cutaneous viral infections (Herpes simplex, Varicella-zoster, Molluscum, HPV warts), belongs in Dermatology: Viral Infections (Module 647)."
+  },
+  {
+    "id": 26498,
+    "fromModule": 650,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26512,
+    "fromModule": 650,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26516,
+    "fromModule": 650,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26524,
+    "fromModule": 650,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26615,
+    "fromModule": 650,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 26548,
+    "fromModule": 650,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26547,
+    "fromModule": 650,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26470,
+    "fromModule": 651,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26029,
+    "fromModule": 652,
+    "toModule": 639,
+    "reason": "Tests eczematous dermatoses (Atopic dermatitis, Contact dermatitis, Seborrheic dermatitis), belongs in Dermatology: Dermatitis (Module 639)."
+  },
+  {
+    "id": 26575,
+    "fromModule": 652,
+    "toModule": 639,
+    "reason": "Tests eczematous dermatoses (Atopic dermatitis, Contact dermatitis, Seborrheic dermatitis), belongs in Dermatology: Dermatitis (Module 639)."
+  },
+  {
+    "id": 25870,
+    "fromModule": 653,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 25895,
+    "fromModule": 653,
+    "toModule": 636,
+    "reason": "Tests pilosebaceous and apocrine disorders (Acne vulgaris, Rosacea, Hidradenitis suppurativa), belongs in Dermatology: Acne, Rosacea and Others (Module 636)."
+  },
+  {
+    "id": 26138,
+    "fromModule": 653,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26572,
+    "fromModule": 654,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26632,
+    "fromModule": 654,
+    "toModule": 638,
+    "reason": "Tests disorders of melanogenesis and pigmentation (Vitiligo, Melasma, Albinism), belongs in Dermatology: Disorders of Skin Pigmentation (Module 638)."
+  },
+  {
+    "id": 26586,
+    "fromModule": 654,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26610,
+    "fromModule": 654,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26209,
+    "fromModule": 655,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 26563,
+    "fromModule": 655,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26480,
+    "fromModule": 655,
+    "toModule": 649,
+    "reason": "Tests ectoparasitic infestations (Scabies, Pediculosis, Cutaneous larva migrans, Leishmaniasis), belongs in Dermatology: Arthropod and Parasitic Infections (Module 649)."
+  },
+  {
+    "id": 26466,
+    "fromModule": 655,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26356,
+    "fromModule": 655,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26118,
+    "fromModule": 655,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26637,
+    "fromModule": 655,
+    "toModule": 654,
+    "reason": "Tests primary cutaneous neoplasms (BCC, SCC, Melanoma, CTCL, Kaposi sarcoma), belongs in Dermatology: Skin Malignancies (Module 654)."
+  },
+  {
+    "id": 26077,
+    "fromModule": 655,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26125,
+    "fromModule": 655,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26175,
+    "fromModule": 655,
+    "toModule": 642,
+    "reason": "Tests non-psoriatic papulosquamous disorders (Lichen planus, Pityriasis rosea, PRP, Lichen sclerosus), belongs in Dermatology: Papulosquamous Disorders (Module 642)."
+  },
+  {
+    "id": 26288,
+    "fromModule": 655,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26239,
+    "fromModule": 655,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 25782,
+    "fromModule": 655,
+    "toModule": 640,
+    "reason": "Tests urticarial vascular reactions and hereditary angioedema mechanisms, belongs in Dermatology: Urticaria & Angioedema (Module 640)."
+  },
+  {
+    "id": 26277,
+    "fromModule": 655,
+    "toModule": 644,
+    "reason": "Tests autoimmune blistering diseases (Pemphigus vulgaris/foliaceus, Bullous pemphigoid, Dermatitis herpetiformis), belongs in Dermatology: Vesiculobullous Diseases (Module 644)."
+  },
+  {
+    "id": 26322,
+    "fromModule": 655,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26363,
+    "fromModule": 655,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26381,
+    "fromModule": 655,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26399,
+    "fromModule": 655,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26076,
+    "fromModule": 655,
+    "toModule": 649,
+    "reason": "Tests ectoparasitic infestations (Scabies, Pediculosis, Cutaneous larva migrans, Leishmaniasis), belongs in Dermatology: Arthropod and Parasitic Infections (Module 649)."
+  },
+  {
+    "id": 26543,
+    "fromModule": 655,
+    "toModule": 651,
+    "reason": "Tests non-syphilitic STIs (Chancroid, LGV, Donovanosis, syndromic kits), belongs in Dermatology: Non Syphilitic Sexually Transmitted Diseases (Module 651)."
+  },
+  {
+    "id": 26566,
+    "fromModule": 655,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26603,
+    "fromModule": 655,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26612,
+    "fromModule": 655,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26352,
+    "fromModule": 655,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26564,
+    "fromModule": 655,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26490,
+    "fromModule": 655,
+    "toModule": 649,
+    "reason": "Tests ectoparasitic infestations (Scabies, Pediculosis, Cutaneous larva migrans, Leishmaniasis), belongs in Dermatology: Arthropod and Parasitic Infections (Module 649)."
+  },
+  {
+    "id": 26611,
+    "fromModule": 655,
+    "toModule": 653,
+    "reason": "Tests cutaneous manifestations of rheumatologic/connective tissue diseases (DLE, dermatomyositis, morphea, scleroderma), belongs in Dermatology: Connective Tissue Disorders (Module 653)."
+  },
+  {
+    "id": 26287,
+    "fromModule": 655,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26298,
+    "fromModule": 655,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 26481,
+    "fromModule": 655,
+    "toModule": 649,
+    "reason": "Tests ectoparasitic infestations (Scabies, Pediculosis, Cutaneous larva migrans, Leishmaniasis), belongs in Dermatology: Arthropod and Parasitic Infections (Module 649)."
+  },
+  {
+    "id": 26305,
+    "fromModule": 655,
+    "toModule": 652,
+    "reason": "Tests inherited genodermatoses (Ichthyosis, NF-1, Tuberous sclerosis) and nutritional dermatoses (Pellagra, Acrodermatitis), belongs in Dermatology: Genodermatoses & Nutritional Disorders (Module 652)."
+  },
+  {
+    "id": 26467,
+    "fromModule": 655,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26210,
+    "fromModule": 655,
+    "toModule": 643,
+    "reason": "Tests psoriasis pathogenesis, clinical variants, histopathology (Munro microabscesses), and systemic therapies, belongs in Dermatology: Psoriasis (Module 643)."
+  },
+  {
+    "id": 26406,
+    "fromModule": 655,
+    "toModule": 646,
+    "reason": "Tests pyodermas (Impetigo, Furuncles, Erysipelas, Cellulitis), SSSS, and Erythrasma, belongs in Dermatology: Bacterial Infections (Module 646)."
+  },
+  {
+    "id": 26315,
+    "fromModule": 655,
+    "toModule": 645,
+    "reason": "Tests Hansen disease (Leprosy classification, lepra reactions, MDT) and cutaneous TB, belongs in Dermatology: Mycobacterial Infections (Module 645)."
+  },
+  {
+    "id": 26476,
+    "fromModule": 655,
+    "toModule": 648,
+    "reason": "Tests dermatophytoses, Malassezia pityriasis versicolor, and deep mycoses (Mycetoma, Sporotrichosis), belongs in Dermatology: Fungal and Protozoal Infections (Module 648)."
+  },
+  {
+    "id": 26658,
+    "fromModule": 656,
+    "toModule": 641,
+    "reason": "Tests severe cutaneous adverse drug reactions (SJS/TEN, Fixed drug eruption, DRESS) and erythema multiforme/nodosum, belongs in Dermatology: Reactive Skin Diseases and Drug Eruptions (Module 641)."
+  },
+  {
+    "id": 27044,
+    "fromModule": 657,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 26739,
+    "fromModule": 657,
+    "toModule": 658,
+    "reason": "Tests severe acute and late complications of fractures (Compartment syndrome, Fat embolism, CRPS, Non-union), belongs in Orthopaedics: Complications of Fracture (Module 658)."
+  },
+  {
+    "id": 26712,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 26874,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26890,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26963,
+    "fromModule": 657,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27041,
+    "fromModule": 657,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 27063,
+    "fromModule": 657,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 27126,
+    "fromModule": 657,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 27205,
+    "fromModule": 657,
+    "toModule": 667,
+    "reason": "Tests avascular necrosis of the femoral head and regional foot/ankle disorders (Plantar fasciitis, Morton neuroma), belongs in Orthopaedics: AVN and Regional Conditions of Lower Limb (Module 667)."
+  },
+  {
+    "id": 27515,
+    "fromModule": 657,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27758,
+    "fromModule": 657,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27937,
+    "fromModule": 657,
+    "toModule": 668,
+    "reason": "Tests traumatic cervical and thoracolumbar spine injuries (Jefferson, Hangman, Odontoid, Chance fractures), belongs in Orthopaedics: Injuries of Spine (Module 668)."
+  },
+  {
+    "id": 27922,
+    "fromModule": 657,
+    "toModule": 674,
+    "reason": "Tests pediatric fracture patterns and epiphyseal plate injuries (Salter-Harris I-V, Greenstick, Torus), belongs in Orthopaedics: Fractures in Children (Module 674)."
+  },
+  {
+    "id": 27104,
+    "fromModule": 657,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 28009,
+    "fromModule": 657,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 27567,
+    "fromModule": 657,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27805,
+    "fromModule": 657,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27538,
+    "fromModule": 657,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 26713,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 26882,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26958,
+    "fromModule": 657,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27200,
+    "fromModule": 657,
+    "toModule": 667,
+    "reason": "Tests avascular necrosis of the femoral head and regional foot/ankle disorders (Plantar fasciitis, Morton neuroma), belongs in Orthopaedics: AVN and Regional Conditions of Lower Limb (Module 667)."
+  },
+  {
+    "id": 27458,
+    "fromModule": 657,
+    "toModule": 676,
+    "reason": "Tests developmental and adolescent hip disorders (DDH, Legg-Calve-Perthes disease, SCFE), belongs in Orthopaedics: Congenital Malformations, Perthes Disease and SCFE (Module 676)."
+  },
+  {
+    "id": 27864,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27976,
+    "fromModule": 657,
+    "toModule": 674,
+    "reason": "Tests pediatric fracture patterns and epiphyseal plate injuries (Salter-Harris I-V, Greenstick, Torus), belongs in Orthopaedics: Fractures in Children (Module 674)."
+  },
+  {
+    "id": 27974,
+    "fromModule": 657,
+    "toModule": 674,
+    "reason": "Tests pediatric fracture patterns and epiphyseal plate injuries (Salter-Harris I-V, Greenstick, Torus), belongs in Orthopaedics: Fractures in Children (Module 674)."
+  },
+  {
+    "id": 27977,
+    "fromModule": 657,
+    "toModule": 674,
+    "reason": "Tests pediatric fracture patterns and epiphyseal plate injuries (Salter-Harris I-V, Greenstick, Torus), belongs in Orthopaedics: Fractures in Children (Module 674)."
+  },
+  {
+    "id": 27994,
+    "fromModule": 657,
+    "toModule": 664,
+    "reason": "Tests traumatic dislocations of the hip joint (posterior vs anterior dislocations and reduction maneuvers), belongs in Orthopaedics: Dislocations of the Hip Joint (Module 664)."
+  },
+  {
+    "id": 26871,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26807,
+    "fromModule": 657,
+    "toModule": 660,
+    "reason": "Tests shoulder girdle and humeral injuries (Anterior shoulder dislocation Bankart/Hill-Sachs, Clavicle, Shaft of humerus), belongs in Orthopaedics: Injuries of Clavicle, Shoulder and Arm (Module 660)."
+  },
+  {
+    "id": 26809,
+    "fromModule": 657,
+    "toModule": 669,
+    "reason": "Tests non-traumatic spinal disorders (Lumbar canal stenosis, Scoliosis Cobb angle, Scheuermann kyphosis), belongs in Orthopaedics: Regional Conditions of Spine (Module 669)."
+  },
+  {
+    "id": 26867,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 1068,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26937,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26927,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26931,
+    "fromModule": 657,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 26814,
+    "fromModule": 657,
+    "toModule": 660,
+    "reason": "Tests shoulder girdle and humeral injuries (Anterior shoulder dislocation Bankart/Hill-Sachs, Clavicle, Shaft of humerus), belongs in Orthopaedics: Injuries of Clavicle, Shoulder and Arm (Module 660)."
+  },
+  {
+    "id": 26750,
+    "fromModule": 657,
+    "toModule": 658,
+    "reason": "Tests severe acute and late complications of fractures (Compartment syndrome, Fat embolism, CRPS, Non-union), belongs in Orthopaedics: Complications of Fracture (Module 658)."
+  },
+  {
+    "id": 27002,
+    "fromModule": 657,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 26869,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26883,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26887,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26932,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26948,
+    "fromModule": 657,
+    "toModule": 660,
+    "reason": "Tests shoulder girdle and humeral injuries (Anterior shoulder dislocation Bankart/Hill-Sachs, Clavicle, Shaft of humerus), belongs in Orthopaedics: Injuries of Clavicle, Shoulder and Arm (Module 660)."
+  },
+  {
+    "id": 26952,
+    "fromModule": 657,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27039,
+    "fromModule": 657,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 27059,
+    "fromModule": 657,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 27085,
+    "fromModule": 657,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 27190,
+    "fromModule": 657,
+    "toModule": 674,
+    "reason": "Tests pediatric fracture patterns and epiphyseal plate injuries (Salter-Harris I-V, Greenstick, Torus), belongs in Orthopaedics: Fractures in Children (Module 674)."
+  },
+  {
+    "id": 27272,
+    "fromModule": 657,
+    "toModule": 671,
+    "reason": "Tests pelvic ring disruptions, Tile/Young-Burgess classifications, and acetabular fractures, belongs in Orthopaedics: Injuries of Pelvis (Module 671)."
+  },
+  {
+    "id": 27347,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27349,
+    "fromModule": 657,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27412,
+    "fromModule": 657,
+    "toModule": 674,
+    "reason": "Tests pediatric fracture patterns and epiphyseal plate injuries (Salter-Harris I-V, Greenstick, Torus), belongs in Orthopaedics: Fractures in Children (Module 674)."
+  },
+  {
+    "id": 27453,
+    "fromModule": 657,
+    "toModule": 676,
+    "reason": "Tests developmental and adolescent hip disorders (DDH, Legg-Calve-Perthes disease, SCFE), belongs in Orthopaedics: Congenital Malformations, Perthes Disease and SCFE (Module 676)."
+  },
+  {
+    "id": 27508,
+    "fromModule": 657,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27565,
+    "fromModule": 657,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27826,
+    "fromModule": 657,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27900,
+    "fromModule": 657,
+    "toModule": 668,
+    "reason": "Tests traumatic cervical and thoracolumbar spine injuries (Jefferson, Hangman, Odontoid, Chance fractures), belongs in Orthopaedics: Injuries of Spine (Module 668)."
+  },
+  {
+    "id": 27965,
+    "fromModule": 657,
+    "toModule": 671,
+    "reason": "Tests pelvic ring disruptions, Tile/Young-Burgess classifications, and acetabular fractures, belongs in Orthopaedics: Injuries of Pelvis (Module 671)."
+  },
+  {
+    "id": 27094,
+    "fromModule": 657,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 27287,
+    "fromModule": 657,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 26751,
+    "fromModule": 657,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26964,
+    "fromModule": 657,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27604,
+    "fromModule": 658,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 27981,
+    "fromModule": 658,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 26740,
+    "fromModule": 658,
+    "toModule": 657,
+    "reason": "Tests basic biomechanics of fractures, Gustilo-Anderson classification, bone healing, and splinting/fixation principles, belongs in Orthopaedics: Basics of Fracture and its Management (Module 657)."
+  },
+  {
+    "id": 26757,
+    "fromModule": 658,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26889,
+    "fromModule": 658,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 26955,
+    "fromModule": 658,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 26970,
+    "fromModule": 658,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27337,
+    "fromModule": 658,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27651,
+    "fromModule": 658,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 26957,
+    "fromModule": 658,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 26973,
+    "fromModule": 658,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27359,
+    "fromModule": 658,
+    "toModule": 673,
+    "reason": "Tests tuberculous spondylitis (Pott disease, gibbus, psoas cold abscess) and skeletal tuberculosis, belongs in Orthopaedics: Skeletal Tuberculosis (Module 673)."
+  },
+  {
+    "id": 26872,
+    "fromModule": 658,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 27818,
+    "fromModule": 658,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27843,
+    "fromModule": 658,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 26691,
+    "fromModule": 658,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 27278,
+    "fromModule": 659,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27834,
+    "fromModule": 659,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 17375,
+    "fromModule": 659,
+    "toModule": 669,
+    "reason": "Tests non-traumatic spinal disorders (Lumbar canal stenosis, Scoliosis Cobb angle, Scheuermann kyphosis), belongs in Orthopaedics: Regional Conditions of Spine (Module 669)."
+  },
+  {
+    "id": 27012,
+    "fromModule": 659,
+    "toModule": 663,
+    "reason": "Tests regional upper limb soft tissue and entrapment syndromes (De Quervain, Tennis elbow, Dupuytren, Trigger finger), belongs in Orthopaedics: Regional Conditions of the Upper Limb (Module 663)."
+  },
+  {
+    "id": 27338,
+    "fromModule": 659,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27854,
+    "fromModule": 660,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 26865,
+    "fromModule": 660,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27621,
+    "fromModule": 660,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 26706,
+    "fromModule": 661,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 16711,
+    "fromModule": 661,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 16621,
+    "fromModule": 661,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 18095,
+    "fromModule": 661,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 20554,
+    "fromModule": 661,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 26903,
+    "fromModule": 661,
+    "toModule": 663,
+    "reason": "Tests regional upper limb soft tissue and entrapment syndromes (De Quervain, Tennis elbow, Dupuytren, Trigger finger), belongs in Orthopaedics: Regional Conditions of the Upper Limb (Module 663)."
+  },
+  {
+    "id": 26960,
+    "fromModule": 661,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 26997,
+    "fromModule": 661,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27014,
+    "fromModule": 663,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27018,
+    "fromModule": 663,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27017,
+    "fromModule": 663,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27336,
+    "fromModule": 663,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 26720,
+    "fromModule": 664,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27078,
+    "fromModule": 664,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27057,
+    "fromModule": 664,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 26673,
+    "fromModule": 664,
+    "toModule": 657,
+    "reason": "Tests basic biomechanics of fractures, Gustilo-Anderson classification, bone healing, and splinting/fixation principles, belongs in Orthopaedics: Basics of Fracture and its Management (Module 657)."
+  },
+  {
+    "id": 27054,
+    "fromModule": 664,
+    "toModule": 665,
+    "reason": "Tests proximal femoral fractures (Femoral neck Garden classification, Intertrochanteric DHS/PFN, Femoral shaft), belongs in Orthopaedics: Fractures of Femur (Module 665)."
+  },
+  {
+    "id": 26733,
+    "fromModule": 664,
+    "toModule": 657,
+    "reason": "Tests basic biomechanics of fractures, Gustilo-Anderson classification, bone healing, and splinting/fixation principles, belongs in Orthopaedics: Basics of Fracture and its Management (Module 657)."
+  },
+  {
+    "id": 27031,
+    "fromModule": 664,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 27513,
+    "fromModule": 665,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27066,
+    "fromModule": 665,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 27166,
+    "fromModule": 666,
+    "toModule": 675,
+    "reason": "Tests congenital foot and knee alignment deformities (CTEV/Clubfoot Ponseti method, Genu varum/valgum), belongs in Orthopaedics: CTEV, Genu Varum and Valgum (Module 675)."
+  },
+  {
+    "id": 27251,
+    "fromModule": 666,
+    "toModule": 670,
+    "reason": "Tests lumbar disc herniation (IVDP/SLRT/Cauda equina) and spondylolysis/spondylolisthesis, belongs in Orthopaedics: Spondylolisthesis & IVDP (Module 670)."
+  },
+  {
+    "id": 27107,
+    "fromModule": 666,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27421,
+    "fromModule": 666,
+    "toModule": 675,
+    "reason": "Tests congenital foot and knee alignment deformities (CTEV/Clubfoot Ponseti method, Genu varum/valgum), belongs in Orthopaedics: CTEV, Genu Varum and Valgum (Module 675)."
+  },
+  {
+    "id": 27158,
+    "fromModule": 666,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27418,
+    "fromModule": 666,
+    "toModule": 675,
+    "reason": "Tests congenital foot and knee alignment deformities (CTEV/Clubfoot Ponseti method, Genu varum/valgum), belongs in Orthopaedics: CTEV, Genu Varum and Valgum (Module 675)."
+  },
+  {
+    "id": 27457,
+    "fromModule": 666,
+    "toModule": 676,
+    "reason": "Tests developmental and adolescent hip disorders (DDH, Legg-Calve-Perthes disease, SCFE), belongs in Orthopaedics: Congenital Malformations, Perthes Disease and SCFE (Module 676)."
+  },
+  {
+    "id": 27697,
+    "fromModule": 666,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 26953,
+    "fromModule": 666,
+    "toModule": 662,
+    "reason": "Tests wrist and hand fractures (Colles, Smith, Scaphoid AVN risk, Bennett, Rolando, Mallet finger), belongs in Orthopaedics: Injuries of Hand (Module 662)."
+  },
+  {
+    "id": 27419,
+    "fromModule": 666,
+    "toModule": 675,
+    "reason": "Tests congenital foot and knee alignment deformities (CTEV/Clubfoot Ponseti method, Genu varum/valgum), belongs in Orthopaedics: CTEV, Genu Varum and Valgum (Module 675)."
+  },
+  {
+    "id": 27149,
+    "fromModule": 666,
+    "toModule": 670,
+    "reason": "Tests lumbar disc herniation (IVDP/SLRT/Cauda equina) and spondylolysis/spondylolisthesis, belongs in Orthopaedics: Spondylolisthesis & IVDP (Module 670)."
+  },
+  {
+    "id": 27202,
+    "fromModule": 666,
+    "toModule": 670,
+    "reason": "Tests lumbar disc herniation (IVDP/SLRT/Cauda equina) and spondylolysis/spondylolisthesis, belongs in Orthopaedics: Spondylolisthesis & IVDP (Module 670)."
+  },
+  {
+    "id": 27236,
+    "fromModule": 666,
+    "toModule": 669,
+    "reason": "Tests non-traumatic spinal disorders (Lumbar canal stenosis, Scoliosis Cobb angle, Scheuermann kyphosis), belongs in Orthopaedics: Regional Conditions of Spine (Module 669)."
+  },
+  {
+    "id": 27196,
+    "fromModule": 667,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27195,
+    "fromModule": 667,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 26984,
+    "fromModule": 667,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27244,
+    "fromModule": 667,
+    "toModule": 670,
+    "reason": "Tests lumbar disc herniation (IVDP/SLRT/Cauda equina) and spondylolysis/spondylolisthesis, belongs in Orthopaedics: Spondylolisthesis & IVDP (Module 670)."
+  },
+  {
+    "id": 27461,
+    "fromModule": 667,
+    "toModule": 676,
+    "reason": "Tests developmental and adolescent hip disorders (DDH, Legg-Calve-Perthes disease, SCFE), belongs in Orthopaedics: Congenital Malformations, Perthes Disease and SCFE (Module 676)."
+  },
+  {
+    "id": 27555,
+    "fromModule": 668,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27254,
+    "fromModule": 670,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27256,
+    "fromModule": 670,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 27517,
+    "fromModule": 670,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27265,
+    "fromModule": 671,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27488,
+    "fromModule": 672,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27324,
+    "fromModule": 672,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27331,
+    "fromModule": 672,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27348,
+    "fromModule": 672,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 28033,
+    "fromModule": 672,
+    "toModule": 669,
+    "reason": "Tests non-traumatic spinal disorders (Lumbar canal stenosis, Scoliosis Cobb angle, Scheuermann kyphosis), belongs in Orthopaedics: Regional Conditions of Spine (Module 669)."
+  },
+  {
+    "id": 27325,
+    "fromModule": 672,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27361,
+    "fromModule": 673,
+    "toModule": 669,
+    "reason": "Tests non-traumatic spinal disorders (Lumbar canal stenosis, Scoliosis Cobb angle, Scheuermann kyphosis), belongs in Orthopaedics: Regional Conditions of Spine (Module 669)."
+  },
+  {
+    "id": 27812,
+    "fromModule": 673,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27371,
+    "fromModule": 673,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 1067,
+    "fromModule": 674,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 27402,
+    "fromModule": 674,
+    "toModule": 657,
+    "reason": "Tests basic biomechanics of fractures, Gustilo-Anderson classification, bone healing, and splinting/fixation principles, belongs in Orthopaedics: Basics of Fracture and its Management (Module 657)."
+  },
+  {
+    "id": 27410,
+    "fromModule": 674,
+    "toModule": 669,
+    "reason": "Tests non-traumatic spinal disorders (Lumbar canal stenosis, Scoliosis Cobb angle, Scheuermann kyphosis), belongs in Orthopaedics: Regional Conditions of Spine (Module 669)."
+  },
+  {
+    "id": 27460,
+    "fromModule": 674,
+    "toModule": 676,
+    "reason": "Tests developmental and adolescent hip disorders (DDH, Legg-Calve-Perthes disease, SCFE), belongs in Orthopaedics: Congenital Malformations, Perthes Disease and SCFE (Module 676)."
+  },
+  {
+    "id": 27395,
+    "fromModule": 674,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27396,
+    "fromModule": 674,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27404,
+    "fromModule": 674,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 26969,
+    "fromModule": 674,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 27426,
+    "fromModule": 675,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 28026,
+    "fromModule": 675,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27431,
+    "fromModule": 675,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27415,
+    "fromModule": 675,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27432,
+    "fromModule": 675,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27429,
+    "fromModule": 675,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27332,
+    "fromModule": 676,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27447,
+    "fromModule": 676,
+    "toModule": 675,
+    "reason": "Tests congenital foot and knee alignment deformities (CTEV/Clubfoot Ponseti method, Genu varum/valgum), belongs in Orthopaedics: CTEV, Genu Varum and Valgum (Module 675)."
+  },
+  {
+    "id": 27845,
+    "fromModule": 677,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27803,
+    "fromModule": 677,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27686,
+    "fromModule": 677,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 27848,
+    "fromModule": 677,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27874,
+    "fromModule": 677,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27887,
+    "fromModule": 677,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 26996,
+    "fromModule": 677,
+    "toModule": 673,
+    "reason": "Tests tuberculous spondylitis (Pott disease, gibbus, psoas cold abscess) and skeletal tuberculosis, belongs in Orthopaedics: Skeletal Tuberculosis (Module 673)."
+  },
+  {
+    "id": 27071,
+    "fromModule": 677,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27847,
+    "fromModule": 677,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27533,
+    "fromModule": 678,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27558,
+    "fromModule": 678,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27512,
+    "fromModule": 678,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27518,
+    "fromModule": 678,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27545,
+    "fromModule": 678,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27549,
+    "fromModule": 678,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27553,
+    "fromModule": 678,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27557,
+    "fromModule": 678,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27612,
+    "fromModule": 678,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 27526,
+    "fromModule": 679,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27871,
+    "fromModule": 679,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27576,
+    "fromModule": 679,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27587,
+    "fromModule": 679,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27574,
+    "fromModule": 679,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27585,
+    "fromModule": 679,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 27873,
+    "fromModule": 679,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27610,
+    "fromModule": 679,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 27080,
+    "fromModule": 679,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27599,
+    "fromModule": 679,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27022,
+    "fromModule": 680,
+    "toModule": 663,
+    "reason": "Tests regional upper limb soft tissue and entrapment syndromes (De Quervain, Tennis elbow, Dupuytren, Trigger finger), belongs in Orthopaedics: Regional Conditions of the Upper Limb (Module 663)."
+  },
+  {
+    "id": 27252,
+    "fromModule": 680,
+    "toModule": 670,
+    "reason": "Tests lumbar disc herniation (IVDP/SLRT/Cauda equina) and spondylolysis/spondylolisthesis, belongs in Orthopaedics: Spondylolisthesis & IVDP (Module 670)."
+  },
+  {
+    "id": 27656,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27657,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27691,
+    "fromModule": 680,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27820,
+    "fromModule": 680,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27655,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 26896,
+    "fromModule": 680,
+    "toModule": 663,
+    "reason": "Tests regional upper limb soft tissue and entrapment syndromes (De Quervain, Tennis elbow, Dupuytren, Trigger finger), belongs in Orthopaedics: Regional Conditions of the Upper Limb (Module 663)."
+  },
+  {
+    "id": 26941,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 26980,
+    "fromModule": 680,
+    "toModule": 681,
+    "reason": "Tests peripheral nerve injuries, Seddon/Sunderland classifications, and nerve entrapments (Radial/Median/Ulnar/Peroneal), belongs in Orthopaedics: Nerve Injuries (Module 681)."
+  },
+  {
+    "id": 27212,
+    "fromModule": 680,
+    "toModule": 667,
+    "reason": "Tests avascular necrosis of the femoral head and regional foot/ankle disorders (Plantar fasciitis, Morton neuroma), belongs in Orthopaedics: AVN and Regional Conditions of Lower Limb (Module 667)."
+  },
+  {
+    "id": 27352,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27351,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27653,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27654,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27658,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27698,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27247,
+    "fromModule": 680,
+    "toModule": 670,
+    "reason": "Tests lumbar disc herniation (IVDP/SLRT/Cauda equina) and spondylolysis/spondylolisthesis, belongs in Orthopaedics: Spondylolisthesis & IVDP (Module 670)."
+  },
+  {
+    "id": 27551,
+    "fromModule": 680,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27257,
+    "fromModule": 680,
+    "toModule": 670,
+    "reason": "Tests lumbar disc herniation (IVDP/SLRT/Cauda equina) and spondylolysis/spondylolisthesis, belongs in Orthopaedics: Spondylolisthesis & IVDP (Module 670)."
+  },
+  {
+    "id": 27328,
+    "fromModule": 680,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 26758,
+    "fromModule": 681,
+    "toModule": 658,
+    "reason": "Tests severe acute and late complications of fractures (Compartment syndrome, Fat embolism, CRPS, Non-union), belongs in Orthopaedics: Complications of Fracture (Module 658)."
+  },
+  {
+    "id": 27949,
+    "fromModule": 681,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 27983,
+    "fromModule": 681,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 26873,
+    "fromModule": 681,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 27026,
+    "fromModule": 681,
+    "toModule": 663,
+    "reason": "Tests regional upper limb soft tissue and entrapment syndromes (De Quervain, Tennis elbow, Dupuytren, Trigger finger), belongs in Orthopaedics: Regional Conditions of the Upper Limb (Module 663)."
+  },
+  {
+    "id": 27067,
+    "fromModule": 681,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 27989,
+    "fromModule": 681,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 27858,
+    "fromModule": 682,
+    "toModule": 683,
+    "reason": "Tests primary malignant bone tumors (Osteosarcoma, Ewing sarcoma, Chondrosarcoma) and myeloma, belongs in Orthopaedics: Malignant Tumors of Bone (Module 683)."
+  },
+  {
+    "id": 27853,
+    "fromModule": 683,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27851,
+    "fromModule": 683,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27841,
+    "fromModule": 683,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27824,
+    "fromModule": 683,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27875,
+    "fromModule": 683,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27877,
+    "fromModule": 683,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 27850,
+    "fromModule": 683,
+    "toModule": 682,
+    "reason": "Tests benign bone tumors and tumor-like lesions (GCT, Osteoid osteoma, Osteochondroma, ABC, UBC), belongs in Orthopaedics: Benign Tumors Of Bone (Module 682)."
+  },
+  {
+    "id": 26731,
+    "fromModule": 684,
+    "toModule": 657,
+    "reason": "Tests basic biomechanics of fractures, Gustilo-Anderson classification, bone healing, and splinting/fixation principles, belongs in Orthopaedics: Basics of Fracture and its Management (Module 657)."
+  },
+  {
+    "id": 27273,
+    "fromModule": 684,
+    "toModule": 671,
+    "reason": "Tests pelvic ring disruptions, Tile/Young-Burgess classifications, and acetabular fractures, belongs in Orthopaedics: Injuries of Pelvis (Module 671)."
+  },
+  {
+    "id": 26767,
+    "fromModule": 684,
+    "toModule": 661,
+    "reason": "Tests elbow and forearm fractures (Supracondylar humerus fracture, Monteggia, Galeazzi, Pulled elbow), belongs in Orthopaedics: Injuries of Elbow and Forearm (Module 661)."
+  },
+  {
+    "id": 27323,
+    "fromModule": 684,
+    "toModule": 677,
+    "reason": "Tests pediatric metabolic bone diseases (Rickets, Scurvy, Osteogenesis imperfecta, Osteopetrosis), belongs in Orthopaedics: Metabolic Bone Diseases in Children (Module 677)."
+  },
+  {
+    "id": 27327,
+    "fromModule": 684,
+    "toModule": 672,
+    "reason": "Tests pyogenic bone and joint infections (Acute/Chronic Osteomyelitis, Sequestrum/Involucrum, Septic Arthritis), belongs in Orthopaedics: Infections of the Bone (Module 672)."
+  },
+  {
+    "id": 27522,
+    "fromModule": 684,
+    "toModule": 678,
+    "reason": "Tests osteoporosis screening (DEXA T-score), fragility fractures, and adult osteomalacia (Looser zones), belongs in Orthopaedics: Osteoporosis and Osteomalacia (Module 678)."
+  },
+  {
+    "id": 27700,
+    "fromModule": 684,
+    "toModule": 680,
+    "reason": "Tests degenerative and inflammatory arthropathies (OA, RA, Ankylosing spondylitis, Gout, Pseudogout), belongs in Orthopaedics: Rheumatoid Arthritis and Osteoarthritis (Module 680)."
+  },
+  {
+    "id": 28020,
+    "fromModule": 686,
+    "toModule": 666,
+    "reason": "Tests knee ligament/meniscal injuries (ACL/Lachman, Meniscus/McMurray), tibial plateau fractures, and ankle/foot injuries, belongs in Orthopaedics: Injuries of Knee, Leg and Foot (Module 666)."
+  },
+  {
+    "id": 28475,
+    "fromModule": 687,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28670,
+    "fromModule": 687,
+    "toModule": 702,
+    "reason": "Tests obsessive-compulsive spectrum disorders (OCD, ERP therapy, Body dysmorphic disorder, Trichotillomania), belongs in Psychiatry: Obsessive-Compulsive and Related Disorders (Module 702)."
+  },
+  {
+    "id": 28765,
+    "fromModule": 687,
+    "toModule": 704,
+    "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+  },
+  {
+    "id": 28351,
+    "fromModule": 688,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28360,
+    "fromModule": 688,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28252,
+    "fromModule": 688,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28207,
+    "fromModule": 688,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28409,
+    "fromModule": 688,
+    "toModule": 711,
+    "reason": "Tests life-threatening psychiatric emergencies (Suicide risk assessment, NMS, Serotonin Syndrome, Acute Dystonic crises), belongs in Psychiatry: Psychiatric Emergencies (Module 711)."
+  },
+  {
+    "id": 28414,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28452,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28575,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28555,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28554,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28543,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28556,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28623,
+    "fromModule": 688,
+    "toModule": 706,
+    "reason": "Tests factitious disorders (Munchausen syndrome, proxy) and malingering for secondary external gain, belongs in Psychiatry: Factitious Disorders, Malingering and Criminality (Module 706)."
+  },
+  {
+    "id": 28633,
+    "fromModule": 688,
+    "toModule": 707,
+    "reason": "Tests dissociative disorders (Dissociative amnesia, Dissociative fugue, DID, Depersonalization), belongs in Psychiatry: Dissociative Disorders (Module 707)."
+  },
+  {
+    "id": 28625,
+    "fromModule": 688,
+    "toModule": 706,
+    "reason": "Tests factitious disorders (Munchausen syndrome, proxy) and malingering for secondary external gain, belongs in Psychiatry: Factitious Disorders, Malingering and Criminality (Module 706)."
+  },
+  {
+    "id": 28624,
+    "fromModule": 688,
+    "toModule": 706,
+    "reason": "Tests factitious disorders (Munchausen syndrome, proxy) and malingering for secondary external gain, belongs in Psychiatry: Factitious Disorders, Malingering and Criminality (Module 706)."
+  },
+  {
+    "id": 28659,
+    "fromModule": 688,
+    "toModule": 709,
+    "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+  },
+  {
+    "id": 28716,
+    "fromModule": 688,
+    "toModule": 700,
+    "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+  },
+  {
+    "id": 28803,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28873,
+    "fromModule": 688,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 28169,
+    "fromModule": 688,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28118,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28125,
+    "fromModule": 688,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 28129,
+    "fromModule": 688,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28146,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28150,
+    "fromModule": 688,
+    "toModule": 718,
+    "reason": "Tests mental health legislation (Mental Healthcare Act 2017), criminal responsibility (McNaughten / Sec 84 IPC), and civil competency, belongs in Psychiatry: Forensic Psychiatry (Module 718)."
+  },
+  {
+    "id": 28151,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28162,
+    "fromModule": 688,
+    "toModule": 700,
+    "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+  },
+  {
+    "id": 28165,
+    "fromModule": 688,
+    "toModule": 700,
+    "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+  },
+  {
+    "id": 28210,
+    "fromModule": 688,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28413,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28418,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28436,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28440,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28447,
+    "fromModule": 688,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28456,
+    "fromModule": 688,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28478,
+    "fromModule": 688,
+    "toModule": 711,
+    "reason": "Tests life-threatening psychiatric emergencies (Suicide risk assessment, NMS, Serotonin Syndrome, Acute Dystonic crises), belongs in Psychiatry: Psychiatric Emergencies (Module 711)."
+  },
+  {
+    "id": 28484,
+    "fromModule": 688,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28515,
+    "fromModule": 688,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28540,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28559,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28775,
+    "fromModule": 688,
+    "toModule": 700,
+    "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+  },
+  {
+    "id": 28796,
+    "fromModule": 688,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28805,
+    "fromModule": 688,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28655,
+    "fromModule": 688,
+    "toModule": 709,
+    "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+  },
+  {
+    "id": 28660,
+    "fromModule": 690,
+    "toModule": 709,
+    "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+  },
+  {
+    "id": 28219,
+    "fromModule": 690,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28222,
+    "fromModule": 690,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28223,
+    "fromModule": 690,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28234,
+    "fromModule": 690,
+    "toModule": 700,
+    "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+  },
+  {
+    "id": 28423,
+    "fromModule": 690,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 25480,
+    "fromModule": 691,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28173,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28385,
+    "fromModule": 692,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 21327,
+    "fromModule": 692,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28189,
+    "fromModule": 692,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28345,
+    "fromModule": 692,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28390,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28789,
+    "fromModule": 692,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28171,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28177,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28310,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28311,
+    "fromModule": 692,
+    "toModule": 714,
+    "reason": "Tests intellectual disability (IQ classification) and specific learning disorders (Dyslexia, Dyscalculia), belongs in Psychiatry: Intellectual Disability & Specific Learning Disorders (Module 714)."
+  },
+  {
+    "id": 28237,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28245,
+    "fromModule": 692,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28267,
+    "fromModule": 692,
+    "toModule": 702,
+    "reason": "Tests obsessive-compulsive spectrum disorders (OCD, ERP therapy, Body dysmorphic disorder, Trichotillomania), belongs in Psychiatry: Obsessive-Compulsive and Related Disorders (Module 702)."
+  },
+  {
+    "id": 28275,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28277,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28290,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28291,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28292,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28293,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28295,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28297,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28302,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28320,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28322,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28323,
+    "fromModule": 692,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28325,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28326,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28327,
+    "fromModule": 692,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28332,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28334,
+    "fromModule": 692,
+    "toModule": 707,
+    "reason": "Tests dissociative disorders (Dissociative amnesia, Dissociative fugue, DID, Depersonalization), belongs in Psychiatry: Dissociative Disorders (Module 707)."
+  },
+  {
+    "id": 28339,
+    "fromModule": 692,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28791,
+    "fromModule": 692,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28790,
+    "fromModule": 692,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28830,
+    "fromModule": 692,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 23603,
+    "fromModule": 692,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 24675,
+    "fromModule": 692,
+    "toModule": 700,
+    "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+  },
+  {
+    "id": 28507,
+    "fromModule": 692,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28235,
+    "fromModule": 693,
+    "toModule": 709,
+    "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+  },
+  {
+    "id": 28457,
+    "fromModule": 693,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28472,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28485,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28673,
+    "fromModule": 693,
+    "toModule": 711,
+    "reason": "Tests life-threatening psychiatric emergencies (Suicide risk assessment, NMS, Serotonin Syndrome, Acute Dystonic crises), belongs in Psychiatry: Psychiatric Emergencies (Module 711)."
+  },
+  {
+    "id": 28831,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28175,
+    "fromModule": 693,
+    "toModule": 697,
+    "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+  },
+  {
+    "id": 28176,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28358,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28420,
+    "fromModule": 693,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 28676,
+    "fromModule": 693,
+    "toModule": 711,
+    "reason": "Tests life-threatening psychiatric emergencies (Suicide risk assessment, NMS, Serotonin Syndrome, Acute Dystonic crises), belongs in Psychiatry: Psychiatric Emergencies (Module 711)."
+  },
+  {
+    "id": 28787,
+    "fromModule": 693,
+    "toModule": 704,
+    "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+  },
+  {
+    "id": 28897,
+    "fromModule": 693,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28353,
+    "fromModule": 693,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28384,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28509,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28477,
+    "fromModule": 694,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28505,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28496,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28497,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28203,
+    "fromModule": 694,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28368,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28482,
+    "fromModule": 694,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28503,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28510,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28379,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28508,
+    "fromModule": 694,
+    "toModule": 699,
+    "reason": "Tests alcohol dependence, CAGE screening, withdrawal states (Delirium tremens), and anti-craving/relapse pharmacotherapy, belongs in Psychiatry: Alcohol-Related Disorders (Module 699)."
+  },
+  {
+    "id": 28396,
+    "fromModule": 695,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28868,
+    "fromModule": 695,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28826,
+    "fromModule": 696,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28192,
+    "fromModule": 696,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28640,
+    "fromModule": 696,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28641,
+    "fromModule": 696,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28780,
+    "fromModule": 696,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28927,
+    "fromModule": 696,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28639,
+    "fromModule": 696,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28668,
+    "fromModule": 696,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28816,
+    "fromModule": 696,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28922,
+    "fromModule": 696,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28923,
+    "fromModule": 696,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28191,
+    "fromModule": 696,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28075,
+    "fromModule": 697,
+    "toModule": 704,
+    "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+  },
+  {
+    "id": 28138,
+    "fromModule": 697,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28433,
+    "fromModule": 697,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28448,
+    "fromModule": 697,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 28613,
+    "fromModule": 697,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28346,
+    "fromModule": 698,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28117,
+    "fromModule": 699,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28512,
+    "fromModule": 699,
+    "toModule": 704,
+    "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+  },
+  {
+    "id": 28513,
+    "fromModule": 699,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28845,
+    "fromModule": 699,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28857,
+    "fromModule": 700,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28856,
+    "fromModule": 700,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28466,
+    "fromModule": 701,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28595,
+    "fromModule": 702,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28097,
+    "fromModule": 702,
+    "toModule": 687,
+    "reason": "Tests psychoanalytic personality theories and mature/immature defense mechanisms, belongs in Psychiatry: Theories of Personality & Defense Mechanisms (Module 687)."
+  },
+  {
+    "id": 28593,
+    "fromModule": 702,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 28553,
+    "fromModule": 703,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28338,
+    "fromModule": 704,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28591,
+    "fromModule": 704,
+    "toModule": 702,
+    "reason": "Tests obsessive-compulsive spectrum disorders (OCD, ERP therapy, Body dysmorphic disorder, Trichotillomania), belongs in Psychiatry: Obsessive-Compulsive and Related Disorders (Module 702)."
+  },
+  {
+    "id": 28604,
+    "fromModule": 704,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28687,
+    "fromModule": 704,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28335,
+    "fromModule": 707,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28387,
+    "fromModule": 707,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28834,
+    "fromModule": 707,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 28610,
+    "fromModule": 707,
+    "toModule": 703,
+    "reason": "Tests stressor-related disorders (PTSD, Acute Stress Disorder, Adjustment disorder), belongs in Psychiatry: Trauma and Stress-Related Disorders (Module 703)."
+  },
+  {
+    "id": 28807,
+    "fromModule": 707,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28329,
+    "fromModule": 708,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28407,
+    "fromModule": 709,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28547,
+    "fromModule": 709,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28098,
+    "fromModule": 710,
+    "toModule": 708,
+    "reason": "Tests dyssomnias (Insomnia, Narcolepsy/Cataplexy) and parasomnias (Sleep terrors, REM sleep behavior disorder), belongs in Psychiatry: Sleep Disorders (Module 708)."
+  },
+  {
+    "id": 28262,
+    "fromModule": 710,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28665,
+    "fromModule": 710,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28356,
+    "fromModule": 711,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28786,
+    "fromModule": 711,
+    "toModule": 704,
+    "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+  },
+  {
+    "id": 28036,
+    "fromModule": 711,
+    "toModule": 687,
+    "reason": "Tests psychoanalytic personality theories and mature/immature defense mechanisms, belongs in Psychiatry: Theories of Personality & Defense Mechanisms (Module 687)."
+  },
+  {
+    "id": 28263,
+    "fromModule": 711,
+    "toModule": 690,
+    "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+  },
+  {
+    "id": 28794,
+    "fromModule": 711,
+    "toModule": 693,
+    "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+  },
+  {
+    "id": 28679,
+    "fromModule": 711,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28792,
+    "fromModule": 711,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28445,
+    "fromModule": 712,
+    "toModule": 711,
+    "reason": "Tests life-threatening psychiatric emergencies (Suicide risk assessment, NMS, Serotonin Syndrome, Acute Dystonic crises), belongs in Psychiatry: Psychiatric Emergencies (Module 711)."
+  },
+  {
+    "id": 28779,
+    "fromModule": 712,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28698,
+    "fromModule": 712,
+    "toModule": 709,
+    "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+  },
+  {
+    "id": 28705,
+    "fromModule": 712,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28180,
+    "fromModule": 713,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28432,
+    "fromModule": 713,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28876,
+    "fromModule": 714,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28739,
+    "fromModule": 714,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28734,
+    "fromModule": 714,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28337,
+    "fromModule": 715,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28629,
+    "fromModule": 715,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28798,
+    "fromModule": 715,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28470,
+    "fromModule": 715,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28549,
+    "fromModule": 715,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28589,
+    "fromModule": 715,
+    "toModule": 702,
+    "reason": "Tests obsessive-compulsive spectrum disorders (OCD, ERP therapy, Body dysmorphic disorder, Trichotillomania), belongs in Psychiatry: Obsessive-Compulsive and Related Disorders (Module 702)."
+  },
+  {
+    "id": 28628,
+    "fromModule": 715,
+    "toModule": 706,
+    "reason": "Tests factitious disorders (Munchausen syndrome, proxy) and malingering for secondary external gain, belongs in Psychiatry: Factitious Disorders, Malingering and Criminality (Module 706)."
+  },
+  {
+    "id": 28764,
+    "fromModule": 715,
+    "toModule": 714,
+    "reason": "Tests intellectual disability (IQ classification) and specific learning disorders (Dyslexia, Dyscalculia), belongs in Psychiatry: Intellectual Disability & Specific Learning Disorders (Module 714)."
+  },
+  {
+    "id": 28809,
+    "fromModule": 715,
+    "toModule": 709,
+    "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+  },
+  {
+    "id": 28815,
+    "fromModule": 715,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28797,
+    "fromModule": 715,
+    "toModule": 701,
+    "reason": "Tests anxiety disorders (Panic disorder, Agoraphobia, GAD, Social anxiety disorder, Specific phobias), belongs in Psychiatry: Anxiety Disorders (Module 701)."
+  },
+  {
+    "id": 28804,
+    "fromModule": 715,
+    "toModule": 705,
+    "reason": "Tests somatic symptom disorders, illness anxiety, and conversion / functional neurological disorder, belongs in Psychiatry: Somatoform Disorders (Module 705)."
+  },
+  {
+    "id": 28812,
+    "fromModule": 715,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28813,
+    "fromModule": 715,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28832,
+    "fromModule": 715,
+    "toModule": 698,
+    "reason": "Tests bipolar affective disorders (Bipolar I/II, Mania) and mood stabilizer pharmacotherapy (Lithium toxicity, Valproate), belongs in Psychiatry: Bipolar and Related Disorders (Module 698)."
+  },
+  {
+    "id": 28864,
+    "fromModule": 715,
+    "toModule": 716,
+    "reason": "Tests externalizing and disruptive behavioral disorders (ADHD, Conduct Disorder, Oppositional Defiant Disorder), belongs in Psychiatry: Attention-Deficit Disorders and Disruptive Behaviour (Module 716)."
+  },
+  {
+    "id": 28843,
+    "fromModule": 716,
+    "toModule": 692,
+    "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+  },
+  {
+    "id": 28874,
+    "fromModule": 716,
+    "toModule": 704,
+    "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+  },
+  {
+    "id": 28271,
+    "fromModule": 717,
+    "toModule": 718,
+    "reason": "Tests mental health legislation (Mental Healthcare Act 2017), criminal responsibility (McNaughten / Sec 84 IPC), and civil competency, belongs in Psychiatry: Forensic Psychiatry (Module 718)."
+  },
+  {
+    "id": 28270,
+    "fromModule": 717,
+    "toModule": 718,
+    "reason": "Tests mental health legislation (Mental Healthcare Act 2017), criminal responsibility (McNaughten / Sec 84 IPC), and civil competency, belongs in Psychiatry: Forensic Psychiatry (Module 718)."
+  },
+  {
+    "id": 28910,
+    "fromModule": 717,
+    "toModule": 718,
+    "reason": "Tests mental health legislation (Mental Healthcare Act 2017), criminal responsibility (McNaughten / Sec 84 IPC), and civil competency, belongs in Psychiatry: Forensic Psychiatry (Module 718)."
+  },
+  {
+    "id": 28902,
+    "fromModule": 717,
+    "toModule": 702,
+    "reason": "Tests obsessive-compulsive spectrum disorders (OCD, ERP therapy, Body dysmorphic disorder, Trichotillomania), belongs in Psychiatry: Obsessive-Compulsive and Related Disorders (Module 702)."
+  },
+  {
+    "id": 28959,
+    "fromModule": 719,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28948,
+    "fromModule": 719,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 28949,
+    "fromModule": 719,
+    "toModule": 688,
+    "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+  },
+  {
+    "id": 29032,
+    "fromModule": 720,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 28981,
+    "fromModule": 720,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29033,
+    "fromModule": 720,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29043,
+    "fromModule": 721,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 29034,
+    "fromModule": 721,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29059,
+    "fromModule": 721,
+    "toModule": 737,
+    "reason": "Tests radiation oncology principles, radiobiology, external beam radiotherapy (IMRT/SRS), and brachytherapy, belongs in Radiology: Radiotherapy (Module 737)."
+  },
+  {
+    "id": 29062,
+    "fromModule": 721,
+    "toModule": 737,
+    "reason": "Tests radiation oncology principles, radiobiology, external beam radiotherapy (IMRT/SRS), and brachytherapy, belongs in Radiology: Radiotherapy (Module 737)."
+  },
+  {
+    "id": 29115,
+    "fromModule": 721,
+    "toModule": 737,
+    "reason": "Tests radiation oncology principles, radiobiology, external beam radiotherapy (IMRT/SRS), and brachytherapy, belongs in Radiology: Radiotherapy (Module 737)."
+  },
+  {
+    "id": 29302,
+    "fromModule": 721,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 29463,
+    "fromModule": 721,
+    "toModule": 737,
+    "reason": "Tests radiation oncology principles, radiobiology, external beam radiotherapy (IMRT/SRS), and brachytherapy, belongs in Radiology: Radiotherapy (Module 737)."
+  },
+  {
+    "id": 29312,
+    "fromModule": 722,
+    "toModule": 733,
+    "reason": "Tests hepatobiliary and pancreatic imaging (Multiphasic liver CT, MRCP, Gallbladder USG, Double-duct sign), belongs in Radiology: Hepatobiliary and Pancreatic Imaging (Module 733)."
+  },
+  {
+    "id": 29337,
+    "fromModule": 722,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29357,
+    "fromModule": 722,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29877,
+    "fromModule": 722,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29227,
+    "fromModule": 722,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29255,
+    "fromModule": 722,
+    "toModule": 736,
+    "reason": "Tests skeletal radiology, bone tumor periosteal reactions (Sunburst, Codman, Onion-peel), and joint MRI, belongs in Radiology: Musculoskeletal Imaging (Module 736)."
+  },
+  {
+    "id": 29300,
+    "fromModule": 722,
+    "toModule": 733,
+    "reason": "Tests hepatobiliary and pancreatic imaging (Multiphasic liver CT, MRCP, Gallbladder USG, Double-duct sign), belongs in Radiology: Hepatobiliary and Pancreatic Imaging (Module 733)."
+  },
+  {
+    "id": 29222,
+    "fromModule": 722,
+    "toModule": 727,
+    "reason": "Tests emergency neuroimaging of stroke (CT/DWI) and intracranial hemorrhages (EDH, SDH, SAH), belongs in Radiology: Neuroimaging - Neurovascular Disorders, Trauma & CT Brain (Module 727)."
+  },
+  {
+    "id": 29303,
+    "fromModule": 722,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29180,
+    "fromModule": 722,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29471,
+    "fromModule": 723,
+    "toModule": 736,
+    "reason": "Tests skeletal radiology, bone tumor periosteal reactions (Sunburst, Codman, Onion-peel), and joint MRI, belongs in Radiology: Musculoskeletal Imaging (Module 736)."
+  },
+  {
+    "id": 30070,
+    "fromModule": 723,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29502,
+    "fromModule": 724,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29552,
+    "fromModule": 724,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29575,
+    "fromModule": 724,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 29500,
+    "fromModule": 724,
+    "toModule": 736,
+    "reason": "Tests skeletal radiology, bone tumor periosteal reactions (Sunburst, Codman, Onion-peel), and joint MRI, belongs in Radiology: Musculoskeletal Imaging (Module 736)."
+  },
+  {
+    "id": 29515,
+    "fromModule": 724,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29441,
+    "fromModule": 724,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29140,
+    "fromModule": 724,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 29097,
+    "fromModule": 724,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29652,
+    "fromModule": 725,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29092,
+    "fromModule": 725,
+    "toModule": 737,
+    "reason": "Tests radiation oncology principles, radiobiology, external beam radiotherapy (IMRT/SRS), and brachytherapy, belongs in Radiology: Radiotherapy (Module 737)."
+  },
+  {
+    "id": 29895,
+    "fromModule": 726,
+    "toModule": 733,
+    "reason": "Tests hepatobiliary and pancreatic imaging (Multiphasic liver CT, MRCP, Gallbladder USG, Double-duct sign), belongs in Radiology: Hepatobiliary and Pancreatic Imaging (Module 733)."
+  },
+  {
+    "id": 29794,
+    "fromModule": 728,
+    "toModule": 736,
+    "reason": "Tests skeletal radiology, bone tumor periosteal reactions (Sunburst, Codman, Onion-peel), and joint MRI, belongs in Radiology: Musculoskeletal Imaging (Module 736)."
+  },
+  {
+    "id": 29691,
+    "fromModule": 729,
+    "toModule": 733,
+    "reason": "Tests hepatobiliary and pancreatic imaging (Multiphasic liver CT, MRCP, Gallbladder USG, Double-duct sign), belongs in Radiology: Hepatobiliary and Pancreatic Imaging (Module 733)."
+  },
+  {
+    "id": 29938,
+    "fromModule": 729,
+    "toModule": 736,
+    "reason": "Tests skeletal radiology, bone tumor periosteal reactions (Sunburst, Codman, Onion-peel), and joint MRI, belongs in Radiology: Musculoskeletal Imaging (Module 736)."
+  },
+  {
+    "id": 29854,
+    "fromModule": 730,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29856,
+    "fromModule": 730,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29440,
+    "fromModule": 730,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29832,
+    "fromModule": 730,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29829,
+    "fromModule": 730,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29445,
+    "fromModule": 731,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 29455,
+    "fromModule": 732,
+    "toModule": 731,
+    "reason": "Tests fluoroscopy of upper GI tract (barium swallow/meal) and radiological signs of pneumoperitoneum, belongs in Radiology: GI Imaging - Upper GI Disorders & Pneumoperitoneum (Module 731)."
+  },
+  {
+    "id": 29447,
+    "fromModule": 736,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 29026,
+    "fromModule": 738,
+    "toModule": 736,
+    "reason": "Tests skeletal radiology, bone tumor periosteal reactions (Sunburst, Codman, Onion-peel), and joint MRI, belongs in Radiology: Musculoskeletal Imaging (Module 736)."
+  },
+  {
+    "id": 29025,
+    "fromModule": 738,
+    "toModule": 736,
+    "reason": "Tests skeletal radiology, bone tumor periosteal reactions (Sunburst, Codman, Onion-peel), and joint MRI, belongs in Radiology: Musculoskeletal Imaging (Module 736)."
+  },
+  {
+    "id": 30132,
+    "fromModule": 739,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 30071,
+    "fromModule": 739,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 30079,
+    "fromModule": 739,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  },
+  {
+    "id": 30131,
+    "fromModule": 739,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 30135,
+    "fromModule": 739,
+    "toModule": 732,
+    "reason": "Tests lower GI imaging, mechanical bowel obstruction patterns, volvulus, and barium enema signs, belongs in Radiology: GI Imaging - Lower GI Disorders (Module 732)."
+  },
+  {
+    "id": 30209,
+    "fromModule": 739,
+    "toModule": 735,
+    "reason": "Tests obstetric sonography (dating, NT scan, anomaly scan) and breast imaging (Mammography, BIRADS), belongs in Radiology: Women's Imaging (Module 735)."
+  }
+]

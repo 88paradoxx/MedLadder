@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1949,
+    "currentMod": 64,
+    "cross": false,
+    "targetModId": 69,
+    "targetName": "Physiology: [69] Somatosensory Pathways",
+    "topic": "Mechanism of Transcutaneous Electrical Stimulation (TENS) for pain man",
+    "reason": "Pain gate control theory of Melzack & Wall utilized in TENS"
+  },
+  {
+    "id": 1951,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 681,
+    "targetName": "Orthopaedics: [681] Nerve Injuries",
+    "topic": "A 25-year-old football player sustains a blow to the arm during a matc",
+    "reason": "Clinical case of football injury causing neuropraxia of peripheral nerve"
+  },
+  {
+    "id": 1952,
+    "currentMod": 64,
+    "cross": false,
+    "targetModId": 68,
+    "targetName": "Physiology: [68] Sensory Receptors",
+    "topic": "Weber-Fechner law related to:",
+    "reason": "Weber-Fechner psychophysical law relating stimulus strength to sensory magnitude"
+  },
+  {
+    "id": 1959,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 468,
+    "targetName": "Medicine: [468] Guillain Barre Syndrome & Peripheral Neuropathies",
+    "topic": "A 32-year-old man presents with progressive weakness in both lower lim",
+    "reason": "Post-infectious acute inflammatory demyelinating polyneuropathy (GBS) clinical case"
+  },
+  {
+    "id": 1960,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 681,
+    "targetName": "Orthopaedics: [681] Nerve Injuries",
+    "topic": "A 28-year-old man falls asleep with his arm compressed against a hard ",
+    "reason": "Saturday night palsy compression neuropraxia of radial nerve in drunk male"
+  },
+  {
+    "id": 1965,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 472,
+    "targetName": "Medicine: [472] Cranial Nerve Disorders",
+    "topic": "All are seen in 3' nerve palsy ?",
+    "reason": "Oculomotor (3rd cranial) nerve palsy clinical signs (ptosis, mydriasis, strabismus)"
+  },
+  {
+    "id": 1966,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 467,
+    "targetName": "Medicine: [467] Myasthenia Gravis & Other Neuromuscular Disorders",
+    "topic": "Which of the following statements is correct concerning a 50-year-old ",
+    "reason": "Amyotrophic lateral sclerosis (ALS / motor neuron disease) diagnosis & clinical course"
+  },
+  {
+    "id": 1970,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 681,
+    "targetName": "Orthopaedics: [681] Nerve Injuries",
+    "topic": "Match the following<br> <img class=\"w-100\" style=\"height:auto; displa",
+    "reason": "Seddon vs Sunderland classification matching of nerve injuries"
+  },
+  {
+    "id": 1972,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 681,
+    "targetName": "Orthopaedics: [681] Nerve Injuries",
+    "topic": "In 1943, Seddon described the basic types of peripheral nerve injury. ",
+    "reason": "Seddon 1943 classification of nerve injuries (neuropraxia, axonotmesis, neurotmesis)"
+  },
+  {
+    "id": 2122,
+    "currentMod": 64,
+    "cross": false,
+    "targetModId": 69,
+    "targetName": "Physiology: [69] Somatosensory Pathways",
+    "topic": "Transcutaneous electrical nerve stimulation is based on",
+    "reason": "Pain gate control theory of Melzack & Wall utilized in TENS"
+  },
+  {
+    "id": 2869,
+    "currentMod": 64,
+    "cross": false,
+    "targetModId": 81,
+    "targetName": "Physiology: [81] Regulation of Respiration",
+    "topic": "Bilateral cutting of vagus nerve causes",
+    "reason": "Bilateral vagotomy eliminating Hering-Breuer reflex and causing deep slow respiration"
+  },
+  {
+    "id": 2813,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 591,
+    "targetName": "Pediatrics: [591] Surgical GI Disorders",
+    "topic": "An infant visits a pediatric presenting with symptoms of abdominal dis",
+    "reason": "Hirschsprung disease congenital aganglionic megacolon in infant (or Mod 88)"
+  },
+  {
+    "id": 1967,
+    "currentMod": 64,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Which trace represents the recordings seen in sensory nerve that encod",
+    "reason": "Muscle spindle primary Ia afferent rate-sensitive burst signaling velocity"
+  },
+  {
+    "id": 1988,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 442,
+    "targetName": "Medicine: [442] Asthma & COPD",
+    "topic": "During a pulmonary function test, a patient first generated Curve #1. ",
+    "reason": "Spirometric bronchodilator reversibility test in bronchial asthma"
+  },
+  {
+    "id": 1955,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 472,
+    "targetName": "Medicine: [472] Cranial Nerve Disorders",
+    "topic": "A 40 year old man presents to the clinic with a sudden onset of facial",
+    "reason": "Sudden right-sided lower motor neuron facial weakness (Bell palsy)"
+  },
+  {
+    "id": 2494,
+    "currentMod": 64,
+    "cross": true,
+    "targetModId": 471,
+    "targetName": "Medicine: [471] Spinal Cord Disorders",
+    "topic": "A 40 years old vegetarian male presented to medicine department with c",
+    "reason": "Vegetarian male with B12 deficiency subacute combined degeneration and megaloblastic anemia"
+  },
+  {
+    "id": 2030,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 82,
+    "targetName": "Physiology: [82] Vascular System and Regional Circulation I",
+    "topic": "Capacitance vessels have in their wall",
+    "reason": "Vascular capacitance vessels (veins) hemodynamics"
+  },
+  {
+    "id": 2006,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Golgi tendon organ of skeletal muscle is stimulated:",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2007,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Muscle tone is maintained by",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2008,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Number of Golgi tendon organs per 100 muscle fibers",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 1881,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 84,
+    "targetName": "Physiology: [84] Electrophysiology of the Heart",
+    "topic": "Depolarization of human ventricular muscle starts from",
+    "reason": "Sequence of human ventricular depolarization starting at left interventricular septum"
+  },
+  {
+    "id": 1921,
+    "currentMod": 65,
+    "cross": true,
+    "targetModId": 274,
+    "targetName": "Forensic Medicine: [274] Early Changes After Death",
+    "topic": "A 26-year-old man committed suicide after suffering from depression wh",
+    "reason": "Rigor mortis pathophysiology following suicide (ATP depletion post-mortem)"
+  },
+  {
+    "id": 1986,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 61,
+    "targetName": "Physiology: [61] Transport Across Cell Membrane",
+    "topic": "Entry of glucose which is insulin dependent except:",
+    "reason": "Glucose transporter isoforms (GLUT4 insulin dependency vs non-insulin dependent)"
+  },
+  {
+    "id": 1990,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 64,
+    "targetName": "Physiology: [64] Physiology of Nerve",
+    "topic": "Decreased protein: lipid ratio is seen in",
+    "reason": "Low protein:lipid ratio characteristic of myelin sheath"
+  },
+  {
+    "id": 1991,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Maximum area in homunculus signifies?",
+    "reason": "Motor and sensory cortical homunculus representation proportional to skill/receptors"
+  },
+  {
+    "id": 2017,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Stretch impulse is carried by",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2023,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Nuclear bag fibers",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2027,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 84,
+    "targetName": "Physiology: [84] Electrophysiology of the Heart",
+    "topic": "Plateau phase of ventricular muscle is d/t opening of ",
+    "reason": "Ventricular action potential plateau phase (Phase 2 L-type Ca2+ channel opening)"
+  },
+  {
+    "id": 2034,
+    "currentMod": 65,
+    "cross": true,
+    "targetModId": 631,
+    "targetName": "Anaesthesia: [631] Complications of Anaesthesia",
+    "topic": "A 22-year-old man undergoes surgery under general anaesthesia with hal",
+    "reason": "Malignant hyperthermia triggered by halothane and succinylcholine"
+  },
+  {
+    "id": 2164,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Golgi tendon organ senses which of the following?",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2161,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Afferent of Golgi tendon organ arises from?",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2169,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Extrafusal fiber innervated by",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2165,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Efferent neuron for skeletal muscle is",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2200,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Receptor for inverse stretch reflex",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2193,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Which of the following is true regarding alpha and gamma motor neurons",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2765,
+    "currentMod": 65,
+    "cross": true,
+    "targetModId": 429,
+    "targetName": "Medicine: [429] Hemochromatosis and Wilsons Disease",
+    "topic": "A patient presented with symptoms of pigmentation of skin, pancreatic ",
+    "reason": "Hemochromatosis (bronze diabetes, cirrhosis, pancreatic damage)"
+  },
+  {
+    "id": 3021,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 95,
+    "targetName": "Physiology: [95] Male Reproductive Physiology",
+    "topic": "What is the correct sequence of muscle activation during ejaculation?",
+    "reason": "Perineal striated muscle activation sequence during ejaculation"
+  },
+  {
+    "id": 2162,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Muscle spindle detects",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 3138,
+    "currentMod": 65,
+    "cross": true,
+    "targetModId": 467,
+    "targetName": "Medicine: [467] Myasthenia Gravis & Other Neuromuscular Disorders",
+    "topic": "A 58-year old male complained about fatigability on repeated activity,",
+    "reason": "Clinical case of Myasthenia Gravis with fatigability, ptosis, and anti-AChR antibodies"
+  },
+  {
+    "id": 1962,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 64,
+    "targetName": "Physiology: [64] Physiology of Nerve",
+    "topic": "Which of the following shows the correct order of conduction velocity ",
+    "reason": "Erlanger-Gasser classification order of nerve conduction velocity"
+  },
+  {
+    "id": 2167,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "The motor supply of the muscle spindle is which of the following?",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2016,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "How does the muscle spindle detect muscle length during muscle contrac",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 2195,
+    "currentMod": 65,
+    "cross": false,
+    "targetModId": 71,
+    "targetName": "Physiology: [71] Motor Physiology - 1",
+    "topic": "Dynamic nuclear bag fibers are",
+    "reason": "Muscle spindle, Golgi tendon organ, and stretch reflex neurophysiology"
+  },
+  {
+    "id": 1765,
+    "currentMod": 65,
+    "cross": true,
+    "targetModId": 258,
+    "targetName": "Pharmacology: [258] Androgens & Drugs for Erectile Dysfunction",
+    "topic": "A 35-year-old male came to urology department with complaints of erect",
+    "reason": "Sildenafil phosphodiesterase-5 inhibitor mechanism for erectile dysfunction"
+  },
+  {
+    "id": 2835,
+    "currentMod": 65,
+    "cross": true,
+    "targetModId": 265,
+    "targetName": "Pharmacology: [265] Respiratory System",
+    "topic": "A 38-year-old man was suffering from bronchial asthma for which he was",
+    "reason": "Salbutamol short-acting beta-2 agonist bronchodilator in asthma"
+  },
+  {
+    "id": 2121,
+    "currentMod": 66,
+    "cross": false,
+    "targetModId": 64,
+    "targetName": "Physiology: [64] Physiology of Nerve",
+    "topic": "What nerve fibers are responsible for the transmission of propriocepti",
+    "reason": "Group Ia / A-alpha nerve fiber transmission of proprioceptive signals"
+  },
+  {
+    "id": 2523,
+    "currentMod": 66,
+    "cross": false,
+    "targetModId": 81,
+    "targetName": "Physiology: [81] Regulation of Respiration",
+    "topic": "What will be the effect on respiration if a transmission is made betwe",
+    "reason": "Pontomedullary transection destroying respiratory rhythmic pattern generator"
+  },
+  {
+    "id": 2075,
+    "currentMod": 66,
+    "cross": true,
+    "targetModId": 467,
+    "targetName": "Medicine: [467] Myasthenia Gravis & Other Neuromuscular Disorders",
+    "topic": "A 35-year-old man presented with ptosis, dysarthria and descending fla",
+    "reason": "Botulism clinical presentation following canned food with descending flaccid paralysis"
+  },
+  {
+    "id": 2068,
+    "currentMod": 66,
+    "cross": true,
+    "targetModId": 467,
+    "targetName": "Medicine: [467] Myasthenia Gravis & Other Neuromuscular Disorders",
+    "topic": "A 28-year-old woman presents with progressive fatigable weakness, part",
+    "reason": "Progressive fatigable weakness of ocular muscles in young female (Myasthenia Gravis)"
+  },
+  {
+    "id": 2069,
+    "currentMod": 66,
+    "cross": true,
+    "targetModId": 467,
+    "targetName": "Medicine: [467] Myasthenia Gravis & Other Neuromuscular Disorders",
+    "topic": "A man presents to the hospital with complaints of drooping of eyelids ",
+    "reason": "Clinical case of fatigable ptosis improving with edrophonium/Tensilon"
+  }
+]

@@ -1,0 +1,3307 @@
+{
+  "subject": "Anaesthesia",
+  "totalQuestions": 1099,
+  "flaggedCount": 550,
+  "moves": [
+    {
+      "id": 18963,
+      "fromModule": 609,
+      "toModule": 673,
+      "reason": "Presents a clinical case of tuberculous spondylodiscitis (Pott's spine) with D5-D6 discitis, vertebral collapse, and paraspinal cold abscess; belongs to Orthopaedics under Skeletal Tuberculosis (Module 673)."
+    },
+    {
+      "id": 24589,
+      "fromModule": 609,
+      "toModule": 610,
+      "reason": "Focuses on preoperative smoking cessation timelines (4-8 weeks) to optimize perioperative respiratory and ciliary function; core topic of Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24590,
+      "fromModule": 609,
+      "toModule": 610,
+      "reason": "Evaluates clinical predictors of Obstructive Sleep Apnoea (OSA) such as daytime somnolence during preoperative assessment for bariatric surgery; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24597,
+      "fromModule": 609,
+      "toModule": 457,
+      "reason": "Deals with ECG diagnosis and management of sinus bradycardia/heart block presenting with syncope; belongs to Medicine under Ventricular Arrhythmias and Heart Blocks (Module 457)."
+    },
+    {
+      "id": 24598,
+      "fromModule": 609,
+      "toModule": 631,
+      "reason": "Identifies female gender and history as major independent risk factors for Postoperative Nausea and Vomiting (PONV, Apfel score); belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24800,
+      "fromModule": 609,
+      "toModule": 629,
+      "reason": "Evaluates Tensilon (edrophonium) test to differentiate myasthenic crisis from cholinergic crisis in myasthenia gravis; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 24878,
+      "fromModule": 609,
+      "toModule": 618,
+      "reason": "Addresses arterial blood gas analysis and optimization of myocardial oxygen delivery via packed RBC transfusion in a post-op CAD/COPD patient; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25104,
+      "fromModule": 609,
+      "toModule": 620,
+      "reason": "Discusses avoidance of halothane in patients with a history of unexplained post-anaesthetic jaundice (halothane hepatitis); belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25127,
+      "fromModule": 609,
+      "toModule": 631,
+      "reason": "Addresses safe induction agents in patients with family history of Malignant Hyperthermia (MH); belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25201,
+      "fromModule": 609,
+      "toModule": 622,
+      "reason": "Tests contraindications and safety profile of thiopentone in acute intermittent porphyria; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25202,
+      "fromModule": 609,
+      "toModule": 622,
+      "reason": "Focuses on selection of propofol as safe intravenous induction agent that does not prolong QT interval in congenital long QT syndrome; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25203,
+      "fromModule": 609,
+      "toModule": 619,
+      "reason": "Tests the pharmacological duration mismatch between pyridostigmine and atropine during reversal of neuromuscular blockade leading to late bradycardia; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockade Reversal (Module 619)."
+    },
+    {
+      "id": 25274,
+      "fromModule": 609,
+      "toModule": 623,
+      "reason": "Focuses on ketamine as the intravenous induction agent of choice in acute trauma/hypovolemic shock due to sympathomimetic support; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25286,
+      "fromModule": 609,
+      "toModule": 622,
+      "reason": "Identifies propofol as safe intravenous anaesthetic agent in acute porphyria; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25294,
+      "fromModule": 609,
+      "toModule": 623,
+      "reason": "Evaluates cardiovascular stability and minimal hemodynamic alteration of etomidate in coronary disease and aortic stenosis; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25301,
+      "fromModule": 609,
+      "toModule": 623,
+      "reason": "Tests avoidance of ketamine due to increased cerebral blood flow and intracranial pressure in traumatic acute subdural hematoma; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25306,
+      "fromModule": 609,
+      "toModule": 623,
+      "reason": "Focuses on ketamine as the preferred analgesic and induction agent for pediatric burn debridement and dressings; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25514,
+      "fromModule": 609,
+      "toModule": 624,
+      "reason": "Differentiates allergic reactions between ester and amide local anesthetics based on PABA metabolism; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25582,
+      "fromModule": 609,
+      "toModule": 631,
+      "reason": "Presents clinical presentation of TURP syndrome (hypertension, bradycardia, fluid overload, restlessness) during transurethral prostatic resection under spinal anesthesia; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 16218,
+      "fromModule": 610,
+      "toModule": 660,
+      "reason": "Clinical vignette of painful abduction (painful arc 60-120°) due to supraspinatus tendonitis/rotator cuff pathology; belongs to Orthopaedics under Injuries of Clavicle, Shoulder and Arm (Module 660)."
+    },
+    {
+      "id": 16464,
+      "fromModule": 610,
+      "toModule": 685,
+      "reason": "Presents shoulder pain during tennis serve diagnosed as supraspinatus tendinitis; belongs to Orthopaedics under Sports Injury (Module 685)."
+    },
+    {
+      "id": 17375,
+      "fromModule": 610,
+      "toModule": 659,
+      "reason": "Features neck pain and occipital headache with degenerative cervical spine changes (cervical spondylosis); belongs to Orthopaedics under Regional Conditions of Neck (Module 659)."
+    },
+    {
+      "id": 18353,
+      "fromModule": 610,
+      "toModule": 662,
+      "reason": "Presents dorsal wrist swelling fluctuating in size diagnosed as ganglion cyst; belongs to Orthopaedics under Injuries of Hand (Module 662)."
+    },
+    {
+      "id": 24623,
+      "fromModule": 610,
+      "toModule": 609,
+      "reason": "Focuses on informed consent and medicolegal aspects of anaesthesia practice; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 24626,
+      "fromModule": 610,
+      "toModule": 629,
+      "reason": "Addresses contraindication of laparoscopic surgery and pneumoperitoneum in patients with moderate to severe cardiac disease; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 24629,
+      "fromModule": 610,
+      "toModule": 630,
+      "reason": "Covers replacement fluid calculation and isotonic crystalloid (Lactated Ringer's) administration in pediatric surgery; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24638,
+      "fromModule": 610,
+      "toModule": 619,
+      "reason": "Tests the addition of atropine to neostigmine to block muscarinic side effects during reversal of neuromuscular blockade; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockade (Module 619)."
+    },
+    {
+      "id": 24946,
+      "fromModule": 610,
+      "toModule": 619,
+      "reason": "Focuses on sugammadex for rapid pharmacological encapsulation and reversal of steroidal neuromuscular blocker rocuronium; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockade (Module 619)."
+    },
+    {
+      "id": 24954,
+      "fromModule": 610,
+      "toModule": 629,
+      "reason": "Evaluates safe analgesics and avoidance of histamine-releasing agents in bronchial asthma during anesthesia; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25057,
+      "fromModule": 610,
+      "toModule": 629,
+      "reason": "Evaluates drug contraindications (succinylcholine, pethidine, sevoflurane) in end-stage renal disease with hyperkalemia; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25058,
+      "fromModule": 610,
+      "toModule": 629,
+      "reason": "Evaluates drug precautions and muscle relaxant choice in end-stage renal disease with hyperkalemia; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25407,
+      "fromModule": 610,
+      "toModule": 629,
+      "reason": "Covers intraoperative hemodynamics and hypertensive triggers during laparoscopic adrenalectomy for pheochromocytoma; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25580,
+      "fromModule": 610,
+      "toModule": 627,
+      "reason": "Addresses clinical characteristics of post-dural puncture headache (PDPH) improving in supine posture; belongs to Regional Anaesthesia: Complications and Contraindications (Module 627)."
+    },
+    {
+      "id": 25581,
+      "fromModule": 610,
+      "toModule": 627,
+      "reason": "Focuses on timing of urgent surgical evacuation (within 6-8 hours) for spinal epidural hematoma following epidural anesthesia; belongs to Regional Anaesthesia: Complications and Contraindications (Module 627)."
+    },
+    {
+      "id": 25603,
+      "fromModule": 610,
+      "toModule": 632,
+      "reason": "Covers indications for spinal cord stimulation (SCS) in neuropathic, phantom, and complex regional pain syndromes; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 18567,
+      "fromModule": 611,
+      "toModule": 667,
+      "reason": "Presents avascular necrosis (AVN) of femoral head following chronic steroid use; belongs to Orthopaedics under AVN and Regional Conditions of Lower Limb (Module 667)."
+    },
+    {
+      "id": 24592,
+      "fromModule": 611,
+      "toModule": 614,
+      "reason": "Explains denitrogenation of FRC during preoxygenation prior to tracheal intubation; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24593,
+      "fromModule": 611,
+      "toModule": 237,
+      "reason": "Tests active metabolites of synthetic and natural opioids (morphine-6-glucuronide, normeperidine); belongs to Pharmacology under Synthetic Opioids (Module 237)."
+    },
+    {
+      "id": 24596,
+      "fromModule": 611,
+      "toModule": 616,
+      "reason": "Compares vacuum-insulated evaporator (VIE) liquid oxygen bulk supply to cylinder manifolds; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24649,
+      "fromModule": 611,
+      "toModule": 612,
+      "reason": "Analyzes carboxyhemoglobin causing falsely elevated SaO2 on dual-wavelength pulse oximetry; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 24650,
+      "fromModule": 611,
+      "toModule": 612,
+      "reason": "Analyzes dyshemoglobins causing falsely elevated SaO2 readings on pulse oximetry; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 24654,
+      "fromModule": 611,
+      "toModule": 612,
+      "reason": "Evaluates technical features and disadvantages of sidestream capnography; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 24655,
+      "fromModule": 611,
+      "toModule": 612,
+      "reason": "Interprets capnograph waveform showing expiratory upstroke prolongation (shark-fin pattern) in bronchospasm; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 24656,
+      "fromModule": 611,
+      "toModule": 614,
+      "reason": "Identifies continuous waveform capnography as the gold-standard confirmation of endotracheal tube placement; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24657,
+      "fromModule": 611,
+      "toModule": 614,
+      "reason": "Defines endpoint of adequate preoxygenation (EtO2 > 90% or EtN2 < 5%) before intubation; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24826,
+      "fromModule": 611,
+      "toModule": 617,
+      "reason": "Tests chest compression rate (100-120/min) and depth as components of high-quality CPR; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24879,
+      "fromModule": 611,
+      "toModule": 630,
+      "reason": "Covers signs and symptoms of amniotic fluid embolism in obstetric anaesthesia; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25138,
+      "fromModule": 611,
+      "toModule": 616,
+      "reason": "Explains electrical heating requirement and pressurized vaporization in the Tec 6 desflurane vaporizer; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25544,
+      "fromModule": 611,
+      "toModule": 624,
+      "reason": "Defines tumescent local anesthesia solution and technique used in liposuction; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25706,
+      "fromModule": 611,
+      "toModule": 632,
+      "reason": "Describes stellate ganglion sympathetic block for post-arterial cannulation vasospasm and complex regional pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 24620,
+      "fromModule": 612,
+      "toModule": 610,
+      "reason": "Assigns ASA physical status classification (ASA II) for elective cesarean delivery in uncomplicated pregnancy; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24652,
+      "fromModule": 612,
+      "toModule": 611,
+      "reason": "Presents pneumothorax as a mechanical complication of subclavian central venous line cannulation; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 24661,
+      "fromModule": 612,
+      "toModule": 623,
+      "reason": "Covers side effects of alpha-2 agonist dexmedetomidine (hypotension, bradycardia); belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 24662,
+      "fromModule": 612,
+      "toModule": 623,
+      "reason": "Tests pharmacological effects and clinical indications of dexmedetomidine sedation; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 24670,
+      "fromModule": 612,
+      "toModule": 630,
+      "reason": "Covers pathophysiology and risk factors of retinopathy of prematurity (ROP) in neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24678,
+      "fromModule": 612,
+      "toModule": 616,
+      "reason": "Tests pressure unit conversion in anaesthesia machines and breathing circuits (1 kPa = 10 cmH2O); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24680,
+      "fromModule": 612,
+      "toModule": 630,
+      "reason": "Evaluates fluid resuscitation and electrolyte correction for infant with bowel obstruction; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24681,
+      "fromModule": 612,
+      "toModule": 630,
+      "reason": "Discusses preductal arterial line cannulation (right radial artery) in congenital diaphragmatic hernia repair; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24683,
+      "fromModule": 612,
+      "toModule": 630,
+      "reason": "Identifies heart rate as the primary determinant of cardiac output in infants due to non-compliant ventricles; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24694,
+      "fromModule": 612,
+      "toModule": 618,
+      "reason": "Evaluates oxygen delivery devices and caution with uncontrolled high-flow O2 in acute asthmatic/COPD exacerbation; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24881,
+      "fromModule": 612,
+      "toModule": 41,
+      "reason": "Covers physiological mechanisms of high-altitude acclimatization (hypoxic ventilatory drive and hyperventilation); belongs to Physiology under Respiratory Physiology (Module 41)."
+    },
+    {
+      "id": 24882,
+      "fromModule": 612,
+      "toModule": 618,
+      "reason": "Calculates oxygen flow rate and entrainment ratio for 28% oxygen delivery via Venturi mask in COPD; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25204,
+      "fromModule": 612,
+      "toModule": 622,
+      "reason": "Tests respiratory depressant effects and decrease in hypoxic ventilatory drive with midazolam; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25206,
+      "fromModule": 612,
+      "toModule": 622,
+      "reason": "Tests dose-dependent medullary respiratory depression and apnea produced by thiopentone; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 24695,
+      "fromModule": 613,
+      "toModule": 610,
+      "reason": "Focuses on diabetic stiff joint syndrome ('prayer sign') as a preoperative bedside predictor of difficult airway; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24696,
+      "fromModule": 613,
+      "toModule": 621,
+      "reason": "Discusses inhalational induction with sweet-smelling, non-pungent sevoflurane in pediatric surgery; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 24699,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Classifies variable-performance oxygen delivery devices (nasal prongs, simple face masks); belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24700,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Identifies contraindications to non-invasive positive pressure ventilation (BiPAP); belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24705,
+      "fromModule": 613,
+      "toModule": 614,
+      "reason": "Presents airway management and rapid sequence induction (RSI) in acute traumatic abdominal stab wound with full stomach; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24706,
+      "fromModule": 613,
+      "toModule": 481,
+      "reason": "Covers fluid resuscitation and transfusion goals in hemorrhagic hypovolemic shock following trauma; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 24709,
+      "fromModule": 613,
+      "toModule": 614,
+      "reason": "Evaluates vocal cord mobility on extubation after thyroidectomy to assess recurrent laryngeal nerve injury; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24719,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Covers systemic and pulmonary oxygen toxicity associated with prolonged hyperoxia; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24729,
+      "fromModule": 613,
+      "toModule": 631,
+      "reason": "Presents acute intraoperative hypoxemia during laparoscopic surgery due to pneumothorax or gas embolism; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24755,
+      "fromModule": 613,
+      "toModule": 614,
+      "reason": "Calculates uncuffed endotracheal tube internal diameter in a 4-year-old child using Motoyama/Cole formula; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24813,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Differentiates fixed-performance (Venturi) from variable-performance oxygen delivery devices; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24814,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Covers passive airway humidification methods using Heat and Moisture Exchangers (HME); belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24886,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Matches various oxygen delivery devices with their respective maximum delivered FiO2 percentages; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24887,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Identifies Venturi mask as a fixed-performance device providing accurate, predictable FiO2 (24-60%); belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24889,
+      "fromModule": 613,
+      "toModule": 618,
+      "reason": "Explains principles of High Air Flow Oxygen Enriched (HAFOE) Venturi devices; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24947,
+      "fromModule": 613,
+      "toModule": 619,
+      "reason": "Evaluates neuromuscular blockers with minimal histamine release (vecuronium, rocuronium) safe in reactive airway disease; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockers (Module 619)."
+    },
+    {
+      "id": 24948,
+      "fromModule": 613,
+      "toModule": 619,
+      "reason": "Covers absolute contraindication of succinylcholine in burns contractures due to lethal receptor upregulation hyperkalemia; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 24949,
+      "fromModule": 613,
+      "toModule": 619,
+      "reason": "Presents profound sinus bradycardia following repeat or rapid bolus of succinylcholine during RSI; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25133,
+      "fromModule": 613,
+      "toModule": 621,
+      "reason": "Identifies sevoflurane as the agent of choice for inhalational induction due to pleasant odor and lack of airway irritation; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25167,
+      "fromModule": 613,
+      "toModule": 632,
+      "reason": "Details principles, lockout intervals, and benefits of patient-controlled analgesia (PCA); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25406,
+      "fromModule": 613,
+      "toModule": 416,
+      "reason": "Presents post-pituitary resection central diabetes insipidus with hypernatremia and dilute polyuria; belongs to Medicine under Posterior Pituitary - ADH, Diabetes Insipidus (Module 416)."
+    },
+    {
+      "id": 25442,
+      "fromModule": 613,
+      "toModule": 632,
+      "reason": "Details the WHO three-step analgesic ladder for cancer pain management; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25475,
+      "fromModule": 613,
+      "toModule": 630,
+      "reason": "Describes sudden cardiovascular collapse, hypoxia, and coagulopathy from amniotic fluid embolism in labor; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25536,
+      "fromModule": 613,
+      "toModule": 624,
+      "reason": "Presents cardiac arrest from local anesthetic systemic toxicity (LAST) treated with 20% lipid emulsion; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25594,
+      "fromModule": 613,
+      "toModule": 481,
+      "reason": "Explains Poiseuille's law regarding large-bore peripheral cannula versus central lines for rapid fluid resuscitation; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25630,
+      "fromModule": 613,
+      "toModule": 624,
+      "reason": "Presents accidental intravenous injection of epidural bupivacaine causing LAST and resuscitation protocol with lipid rescue; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 24711,
+      "fromModule": 614,
+      "toModule": 613,
+      "reason": "Covers functions of the cuff, pilot balloon, and obturator on a tracheostomy tube; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24715,
+      "fromModule": 614,
+      "toModule": 613,
+      "reason": "Identifies specialized supraglottic/intubating airway device from image; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24716,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Covers clinical signs of acute epiglottitis and stridor in pediatric airway emergencies; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24717,
+      "fromModule": 614,
+      "toModule": 613,
+      "reason": "Lists limitations and disadvantages of the classic Laryngeal Mask Airway (LMA); belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24752,
+      "fromModule": 614,
+      "toModule": 628,
+      "reason": "Describes hemidiaphragmatic paresis and Horner's syndrome following interscalene brachial plexus block; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 24753,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Presents hypochloremic hypokalemic metabolic alkalosis in infantile hypertrophic pyloric stenosis; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24754,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Covers NRP guidelines for neonatal resuscitation with meconium-stained amniotic fluid; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24765,
+      "fromModule": 614,
+      "toModule": 610,
+      "reason": "Focuses on ramped positioning and preoperative airway preparation in morbid obesity; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24766,
+      "fromModule": 614,
+      "toModule": 484,
+      "reason": "Details ATLS primary survey priorities in poly-trauma management; belongs to Surgery under Trauma - Scores, Investigations and Assessment (Module 484)."
+    },
+    {
+      "id": 24769,
+      "fromModule": 614,
+      "toModule": 610,
+      "reason": "Explains the clinical objective and execution of the modified Mallampati test; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24773,
+      "fromModule": 614,
+      "toModule": 612,
+      "reason": "Tests clinical conditions promptly detected by capnography monitoring; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 24774,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Identifies anatomical position of the glottis (C3 level) in premature neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24775,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Details airway emergency management and inhalational induction for pediatric acute epiglottitis; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24776,
+      "fromModule": 614,
+      "toModule": 631,
+      "reason": "Presents intraoperative subcutaneous emphysema and pneumoperitoneum complications during laparoscopy; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24777,
+      "fromModule": 614,
+      "toModule": 631,
+      "reason": "Presents masseter muscle spasm following succinylcholine as a harbinger of malignant hyperthermia; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24778,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Discusses techniques of general anesthesia induction in neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24779,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Identifies failed intubation and aspiration as the leading cause of maternal mortality under general anesthesia; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24788,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Explains post-intubation subglottic edema and croup in pediatric airway anatomy; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24789,
+      "fromModule": 614,
+      "toModule": 612,
+      "reason": "Interprets capnograph waveform showing cardiac oscillations; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 24790,
+      "fromModule": 614,
+      "toModule": 612,
+      "reason": "Interprets capnograph waveform showing esophageal intubation (rapid loss of CO2 waveform); belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 24791,
+      "fromModule": 614,
+      "toModule": 613,
+      "reason": "Covers clinical indications and contraindications for emergency needle and surgical cricothyroidotomy; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24793,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Evaluates choice of airway management (LMA vs ETT) in pediatric elective inguinal hernia repair; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24794,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Defines acceptable endotracheal tube leak pressure (20-25 cmH2O) to prevent subglottic stenosis in children; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24802,
+      "fromModule": 614,
+      "toModule": 629,
+      "reason": "Addresses anaesthetic considerations in chronic liver disease and coagulopathy; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 24803,
+      "fromModule": 614,
+      "toModule": 611,
+      "reason": "Discusses hemodynamic shifts and invasive arterial line monitoring in hypertensive patients during laparoscopy; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 24807,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Evaluates regional vs general anaesthetic choice for cesarean delivery in severe pre-eclampsia; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24808,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Discusses advantages of spinal anaesthesia over general anaesthesia in pregnant patients; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24815,
+      "fromModule": 614,
+      "toModule": 618,
+      "reason": "Details physiological mechanisms of High-Flow Nasal Oxygen (HFNO) therapy in ICU; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24883,
+      "fromModule": 614,
+      "toModule": 618,
+      "reason": "Identifies non-rebreathing reservoir mask with filter for oxygen therapy in COVID-19; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24890,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Explains left lateral uterine displacement to prevent aortocaval compression syndrome in parturient; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24950,
+      "fromModule": 614,
+      "toModule": 619,
+      "reason": "Covers contraindications of succinylcholine (hyperkalemia, burns, denervation injury, muscular dystrophies); belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 24951,
+      "fromModule": 614,
+      "toModule": 619,
+      "reason": "Evaluates choice of neuromuscular blocker in emergency trauma laparotomy; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 24952,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Focuses on drug of choice for routine pediatric intubation and muscle relaxant safety; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25135,
+      "fromModule": 614,
+      "toModule": 621,
+      "reason": "Discusses sevoflurane as a sole inhalational agent for induction and facilitating intubation without relaxants; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25155,
+      "fromModule": 614,
+      "toModule": 628,
+      "reason": "Discusses supraclavicular/infraclavicular brachial plexus block for distal radius fracture fixation; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25315,
+      "fromModule": 614,
+      "toModule": 623,
+      "reason": "Discusses ketamine induction in hemorrhagic shock with hypotension; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25373,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Calculates neonatal maintenance and replacement fluids in a 14-day-old infant undergoing laparotomy; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25508,
+      "fromModule": 614,
+      "toModule": 624,
+      "reason": "Presents systemic toxicity (LAST) with bupivacaine during supraclavicular brachial plexus block; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25564,
+      "fromModule": 614,
+      "toModule": 626,
+      "reason": "Covers spinal anaesthesia technique, landmarks, and dermatomal block level for inguinal hernia repair; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25574,
+      "fromModule": 614,
+      "toModule": 609,
+      "reason": "Matches foundational pioneers of anaesthesia (Priestley, Koller, Morton, Simpson) with their discoveries; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25575,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Discusses anaesthetic technique in HELLP syndrome and platelet count threshold for neuraxial blockade; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25687,
+      "fromModule": 614,
+      "toModule": 630,
+      "reason": "Covers general anaesthetic induction and airway management in emergency cesarean section for preeclampsia; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25699,
+      "fromModule": 614,
+      "toModule": 629,
+      "reason": "Lists anaesthetic implications of Down syndrome (atlantoaxial instability, subglottic stenosis, congenital heart disease); belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 24722,
+      "fromModule": 615,
+      "toModule": 484,
+      "reason": "Presents ATLS initial resuscitation and primary survey protocol in multiple trauma fractures; belongs to Surgery under Trauma - Scores, Investigations and Assessment (Module 484)."
+    },
+    {
+      "id": 24724,
+      "fromModule": 615,
+      "toModule": 617,
+      "reason": "Identifies recovery position used for unconscious but spontaneously breathing patients in BLS/CPR; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24816,
+      "fromModule": 615,
+      "toModule": 617,
+      "reason": "Details indication for recovery position in resuscitation of an unconscious breathing victim; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24817,
+      "fromModule": 615,
+      "toModule": 617,
+      "reason": "Explains the purpose and timing of the recovery position in cardiac life support; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24823,
+      "fromModule": 615,
+      "toModule": 632,
+      "reason": "Describes systemic neuroendocrine and sympathetic responses to acute trauma pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 24824,
+      "fromModule": 615,
+      "toModule": 621,
+      "reason": "Discusses xenon as an inert carrier gas alternative to nitrous oxide; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 24825,
+      "fromModule": 615,
+      "toModule": 631,
+      "reason": "Presents delayed emergence from anaesthesia secondary to intraoperative hypothermia in prolonged laparotomy; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24828,
+      "fromModule": 615,
+      "toModule": 611,
+      "reason": "Identifies 2% chlorhexidine in 70% alcohol as the preferred skin antiseptic for central line insertion; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 24829,
+      "fromModule": 615,
+      "toModule": 630,
+      "reason": "Discusses caudal epidural block for postoperative analgesia in infant hydrocele repair; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24831,
+      "fromModule": 615,
+      "toModule": 614,
+      "reason": "Covers features, indication, and preformed angles of oral and nasal RAE (Ring-Adair-Elwyn) tubes; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24844,
+      "fromModule": 615,
+      "toModule": 618,
+      "reason": "Covers design, non-rebreathing valve, and ventilation mechanics of the self-inflating manual resuscitation bag (Ambu bag); belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24875,
+      "fromModule": 615,
+      "toModule": 617,
+      "reason": "Tests standard guidelines for adult cardiopulmonary resuscitation (compression:ventilation ratio 30:2, depth 5-6 cm); belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24892,
+      "fromModule": 615,
+      "toModule": 618,
+      "reason": "Explains the Bernoulli principle and jet-entrainment mechanism of the Venturi oxygen mask; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 24925,
+      "fromModule": 615,
+      "toModule": 618,
+      "reason": "Covers continuous positive airway pressure (CPAP) applied during spontaneous respiration; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25095,
+      "fromModule": 615,
+      "toModule": 621,
+      "reason": "Discusses corrosive and rubber-dissolving chemical properties of halogenated ethers; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25014,
+      "fromModule": 616,
+      "toModule": 629,
+      "reason": "Discusses anaesthetic induction and avoidance of succinylcholine to prevent raised IOP in open globe injury; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25561,
+      "fromModule": 616,
+      "toModule": 626,
+      "reason": "Identifies spinal needles (pencil-point Whitacre/Sprotte vs cutting Quincke) from image; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25665,
+      "fromModule": 616,
+      "toModule": 614,
+      "reason": "Covers principles, tidal volume breathing versus vital capacity breaths during preoxygenation; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24874,
+      "fromModule": 617,
+      "toModule": 481,
+      "reason": "Presents hemodynamic resuscitation of hemorrhagic/distributive shock with vasopressors in ICU poly-trauma; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 18704,
+      "fromModule": 618,
+      "toModule": 326,
+      "reason": "Clinical presentation of unilateral sensorineural hearing loss, vertigo, and absent corneal reflex due to acoustic neuroma / vestibular schwannoma; belongs to ENT under Acoustic Neuroma (Module 326)."
+    },
+    {
+      "id": 24594,
+      "fromModule": 618,
+      "toModule": 610,
+      "reason": "Focuses on preoperative fasting guidelines (2-4-6-8 rule) and pulmonary risk assessment; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24635,
+      "fromModule": 618,
+      "toModule": 610,
+      "reason": "Covers preoperative pulmonary function and cervical spine flexion-extension evaluation in rheumatoid arthritis; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24721,
+      "fromModule": 618,
+      "toModule": 614,
+      "reason": "Explains Hagen-Poiseuille equation determinants of endotracheal tube airflow resistance (radius to 4th power, length); belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24737,
+      "fromModule": 618,
+      "toModule": 613,
+      "reason": "Covers indications, sizing, and contraindications of nasopharyngeal airways; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24738,
+      "fromModule": 618,
+      "toModule": 613,
+      "reason": "Covers anatomy and dual-lumen function of the Esophageal-Tracheal Combitube; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24739,
+      "fromModule": 618,
+      "toModule": 613,
+      "reason": "Identifies second-generation supraglottic airway device (i-gel) from image; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24741,
+      "fromModule": 618,
+      "toModule": 613,
+      "reason": "Lists defining features of second-generation LMAs (gastric drainage port, higher seal pressure); belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24746,
+      "fromModule": 618,
+      "toModule": 613,
+      "reason": "Details airway maneuvers (jaw thrust, two-person technique) for difficult bag-mask ventilation; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24783,
+      "fromModule": 618,
+      "toModule": 613,
+      "reason": "Discusses gastric distension and pulmonary aspiration risks following vigorous mask ventilation; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24792,
+      "fromModule": 618,
+      "toModule": 613,
+      "reason": "Covers surgical versus percutaneous dilatational tracheostomy indications in prolonged ICU intubation; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24827,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Identifies the standard position of the fresh gas inlet in circle breathing systems; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24835,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Analyzes fresh gas flow requirements to prevent rebreathing in Mapleson systems; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24838,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Calculates fresh gas flow requirements (2.5-3x minute ventilation) for Jackson-Rees circuit (Mapleson F); belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24839,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Explains why Mapleson A is the most efficient circuit for spontaneous breathing; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24842,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Identifies Mapleson A (Magill attachment) as having the fresh gas inlet most distant from the patient; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24845,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Identifies Mapleson E (Ayre's T-piece) as lacking a reservoir bag; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24858,
+      "fromModule": 618,
+      "toModule": 616,
+      "reason": "Explains oxygen failure safety device (fail-safe valve / Ritchie whistle) cut-off mechanism; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24876,
+      "fromModule": 618,
+      "toModule": 617,
+      "reason": "Details BLS assessment and chest compression initiation in adult cardiac arrest; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24877,
+      "fromModule": 618,
+      "toModule": 617,
+      "reason": "Identifies agonal gasps as a sign of cardiac arrest requiring immediate CPR in BLS protocol; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24900,
+      "fromModule": 618,
+      "toModule": 610,
+      "reason": "Lists clinical predictors of difficult mask ventilation (BONES mnemonic: Beard, Obese, No teeth, Elderly, Snorer); belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24902,
+      "fromModule": 618,
+      "toModule": 617,
+      "reason": "Details management of acute foreign body airway obstruction and choking (Heimlich maneuver / BLS); belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24904,
+      "fromModule": 618,
+      "toModule": 616,
+      "reason": "Identifies circuit disconnection as the most common mechanical delivery failure on anaesthesia workstations; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24908,
+      "fromModule": 618,
+      "toModule": 630,
+      "reason": "Interprets normal physiological transitional oxygen saturation in neonate at 5 minutes; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24909,
+      "fromModule": 618,
+      "toModule": 616,
+      "reason": "Details anaesthesia workstation checklist and equipment for Non-Operating Room Anaesthesia (NORA); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24910,
+      "fromModule": 618,
+      "toModule": 614,
+      "reason": "Covers preoxygenation goals and denitrogenation kinetics before tracheal intubation; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24911,
+      "fromModule": 618,
+      "toModule": 632,
+      "reason": "Covers transdermal fentanyl delivery pharmacokinetics in chronic cancer pain management; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 24912,
+      "fromModule": 618,
+      "toModule": 632,
+      "reason": "Describes intrathecal catheter tip granuloma (inflammatory mass) in chronic intrathecal opioid therapy; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 24928,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Identifies Bain's coaxial circuit (modified Mapleson D) as a universal circuit; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24930,
+      "fromModule": 618,
+      "toModule": 617,
+      "reason": "Tests standard AHA recommendations for effective adult CPR metrics; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 24932,
+      "fromModule": 618,
+      "toModule": 610,
+      "reason": "Focuses on primary risk factors predicting difficult bag-mask ventilation (edentulous, beard, high BMI); belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24933,
+      "fromModule": 618,
+      "toModule": 611,
+      "reason": "Tests the critical threshold of cerebral blood flow (18-20 mL/100g/min) below which cerebral ischemia ensues; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 24935,
+      "fromModule": 618,
+      "toModule": 619,
+      "reason": "Details the higher mg/kg dosage requirement of succinylcholine in infants due to larger volume of distribution; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 24936,
+      "fromModule": 618,
+      "toModule": 630,
+      "reason": "Tests average quantitative blood loss during cesarean delivery; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24955,
+      "fromModule": 618,
+      "toModule": 619,
+      "reason": "Details management of prolonged succinylcholine apnea due to atypical plasma pseudocholinesterase; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25025,
+      "fromModule": 618,
+      "toModule": 631,
+      "reason": "Presents clinical signs and acute hypermetabolic state of malignant hyperthermia during general anesthesia; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25074,
+      "fromModule": 618,
+      "toModule": 620,
+      "reason": "Explains avoidance of nitrous oxide following intraocular sulfur hexafluoride (SF6) gas bubble injection; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25136,
+      "fromModule": 618,
+      "toModule": 621,
+      "reason": "Discusses low density and laminar flow properties of heliox gas mixture in airway obstruction; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25270,
+      "fromModule": 618,
+      "toModule": 623,
+      "reason": "Selects ketamine for dissociative anesthesia and analgesia during painful burn contracture dressing; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25478,
+      "fromModule": 618,
+      "toModule": 624,
+      "reason": "Identifies bupivacaine cardiotoxicity and refractory ventricular arrhythmias following accidental IV injection; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25652,
+      "fromModule": 618,
+      "toModule": 630,
+      "reason": "Covers neonatal resuscitation and airway management for meconium-stained amniotic fluid at post-term delivery; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25691,
+      "fromModule": 618,
+      "toModule": 630,
+      "reason": "Covers resuscitation protocols for maternal cardiac arrest, aortocaval decompression, and perimortem cesarean section; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25700,
+      "fromModule": 618,
+      "toModule": 615,
+      "reason": "Evaluates advantages and mechanical simplicity of Mapleson breathing circuits; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24958,
+      "fromModule": 619,
+      "toModule": 236,
+      "reason": "Describes opioid-induced chest wall rigidity ('wooden chest syndrome') caused by high-dose fentanyl bolus; belongs to Pharmacology under Opioids - Functions and Classification (Module 236)."
+    },
+    {
+      "id": 24959,
+      "fromModule": 619,
+      "toModule": 29,
+      "reason": "Defines myocardial afterload as the tension required to overcome aortic pressure before ventricular ejection; belongs to Physiology under Cardiac Electrophysiology, Cardiac Cycle and Cardiac Output (Module 29)."
+    },
+    {
+      "id": 24977,
+      "fromModule": 619,
+      "toModule": 611,
+      "reason": "Describes anatomical landmarks of Sedillot's triangle for internal jugular vein cannulation; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 24978,
+      "fromModule": 619,
+      "toModule": 631,
+      "reason": "Presents severe accidental intraoperative hypothermia (28°C) during prolonged abdominal surgery; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24992,
+      "fromModule": 619,
+      "toModule": 631,
+      "reason": "Compares clinical features and pathophysiology of Malignant Hyperthermia versus Neuroleptic Malignant Syndrome; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24993,
+      "fromModule": 619,
+      "toModule": 630,
+      "reason": "Tests total body water percentage (75-80%) and fluid distribution in term neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25006,
+      "fromModule": 619,
+      "toModule": 632,
+      "reason": "Covers definitions and neurobiological features of acute versus chronic pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25007,
+      "fromModule": 619,
+      "toModule": 470,
+      "reason": "Presents tight band-like bilateral frontal headache diagnosed as tension-type headache; belongs to Medicine under Headache (Module 470)."
+    },
+    {
+      "id": 25016,
+      "fromModule": 619,
+      "toModule": 658,
+      "reason": "Evaluates late signs of acute limb compartment syndrome (pulselessness); belongs to Orthopaedics under Complications of Fracture (Module 658)."
+    },
+    {
+      "id": 25614,
+      "fromModule": 619,
+      "toModule": 628,
+      "reason": "Describes piercing and anatomical course of the musculocutaneous nerve through coracobrachialis muscle in axillary nerve blocks; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25623,
+      "fromModule": 619,
+      "toModule": 628,
+      "reason": "Describes ultrasound scanning and anatomical relationships during axillary brachial plexus block; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25651,
+      "fromModule": 619,
+      "toModule": 611,
+      "reason": "Identifies ulnar nerve stimulation at the wrist as the standard site for peripheral neuromuscular monitoring; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25701,
+      "fromModule": 619,
+      "toModule": 631,
+      "reason": "Explains mechanism of dantrolene sodium blocking ryanodine receptor type 1 (RYR1) in malignant hyperthermia treatment; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25028,
+      "fromModule": 620,
+      "toModule": 619,
+      "reason": "Details pharmacological comparison and stereoisomerism of cisatracurium versus atracurium; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockers (Module 619)."
+    },
+    {
+      "id": 25029,
+      "fromModule": 620,
+      "toModule": 619,
+      "reason": "Compares organ-independent Hofmann elimination and histamine release of atracurium and cisatracurium; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockers (Module 619)."
+    },
+    {
+      "id": 25064,
+      "fromModule": 620,
+      "toModule": 616,
+      "reason": "Identifies medical gas cylinder color-coding standards (oxygen, nitrous oxide, air); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25071,
+      "fromModule": 620,
+      "toModule": 616,
+      "reason": "Covers NIOSH standards for operating room trace gas exposure limits (halothane < 0.5 ppm, N2O < 25 ppm); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25076,
+      "fromModule": 620,
+      "toModule": 631,
+      "reason": "Presents acute intraoperative atelectasis and lung collapse during general anesthesia; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25096,
+      "fromModule": 620,
+      "toModule": 609,
+      "reason": "Covers historic milestone of WTG Morton's public demonstration of ether at the Ether Dome (1846); belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25108,
+      "fromModule": 620,
+      "toModule": 609,
+      "reason": "Identifies Joseph Priestley as the discoverer of nitrous oxide (1772); belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25112,
+      "fromModule": 620,
+      "toModule": 616,
+      "reason": "Tests international color coding of medical air cylinders (white body with black and white shoulder / yellow); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25116,
+      "fromModule": 620,
+      "toModule": 616,
+      "reason": "Explains why oxygen flowmeter is placed downstream nearest to the common gas outlet to prevent hypoxia; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25117,
+      "fromModule": 620,
+      "toModule": 616,
+      "reason": "Tests capacity and volume of a full oxygen E-cylinder (660 L at 2000 psi); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25118,
+      "fromModule": 620,
+      "toModule": 616,
+      "reason": "Explains why nitrous oxide cylinder pressure remains 745 psi until liquid is exhausted; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25119,
+      "fromModule": 620,
+      "toModule": 616,
+      "reason": "Identifies black body with white shoulder cylinder (oxygen) for COVID-19 therapy; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25141,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Identifies desflurane as having the lowest blood-gas partition coefficient (0.42) among volatile halogenated agents; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25142,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Identifies epileptogenic spike-and-wave EEG activity associated with enflurane; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25143,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Identifies methoxyflurane as causing fluoride-induced high-output renal failure; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25144,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Covers inorganic fluoride ion liberation among fluorinated volatile anaesthetics; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25145,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Compares structural isomers isoflurane and enflurane; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25148,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Tests blood:gas partition coefficient of desflurane (0.42) determining rapid recovery; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25152,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Explains coronary steal syndrome through dilation of resistance arterioles by isoflurane; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25197,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Identifies sevoflurane as the inhalational agent of choice for mask induction in pediatric patients; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25199,
+      "fromModule": 620,
+      "toModule": 621,
+      "reason": "Explains degradation of sevoflurane by desiccated soda lime to produce nephrotoxic Compound A; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25595,
+      "fromModule": 620,
+      "toModule": 623,
+      "reason": "Covers pharmacological properties of dexmedetomidine as an anesthetic adjuvant for conscious sedation; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25702,
+      "fromModule": 620,
+      "toModule": 631,
+      "reason": "Identifies volatile inhalational agents and succinylcholine as triggers of malignant hyperthermia; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24847,
+      "fromModule": 621,
+      "toModule": 615,
+      "reason": "Explains chemical reaction of trichloroethylene (Trilene) with soda lime generating cranial nerve toxic dichloroacetylene and phosgene; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 24982,
+      "fromModule": 621,
+      "toModule": 619,
+      "reason": "Covers succinylcholine-induced fasciculations and muscle relaxation pharmacology; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25032,
+      "fromModule": 621,
+      "toModule": 619,
+      "reason": "Discusses extrahepatic Hofmann degradation of atracurium and cisatracurium; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockers (Module 619)."
+    },
+    {
+      "id": 25035,
+      "fromModule": 621,
+      "toModule": 619,
+      "reason": "Covers succinylcholine-induced hyperkalemia (0.5 mEq/L rise in normal, massive in denervation); belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25054,
+      "fromModule": 621,
+      "toModule": 619,
+      "reason": "Covers atypical pseudocholinesterase variants metabolizing succinylcholine and mivacurium; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25056,
+      "fromModule": 621,
+      "toModule": 629,
+      "reason": "Discusses doxorubicin cardiotoxicity and preoperative echocardiographic assessment in pediatric oncology; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25123,
+      "fromModule": 621,
+      "toModule": 620,
+      "reason": "Explains the Second Gas Effect produced by rapid uptake of high-volume nitrous oxide; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25137,
+      "fromModule": 621,
+      "toModule": 616,
+      "reason": "Explains pressure-regulated heated vaporization at 39°C and 2 atmospheres in the Tec 6 desflurane vaporizer; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25146,
+      "fromModule": 621,
+      "toModule": 616,
+      "reason": "Identifies electrically heated specialized vaporizer (Tec 6) required for desflurane; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25159,
+      "fromModule": 621,
+      "toModule": 616,
+      "reason": "Explains Charles's law governing gas volume and temperature relationships in anaesthetic equipment; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25160,
+      "fromModule": 621,
+      "toModule": 147,
+      "reason": "Defines physical and chemical sterilization of surgical equipment; belongs to Microbiology under Sterilization and Disinfection (Module 147)."
+    },
+    {
+      "id": 25168,
+      "fromModule": 621,
+      "toModule": 616,
+      "reason": "Analyzes flowmeter crack and hypoxic gas mixture hazard in workstation pneumatic systems; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25169,
+      "fromModule": 621,
+      "toModule": 616,
+      "reason": "Tests standard operating pressure of medical gas pipeline systems (50-55 psi / 4 bar); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25170,
+      "fromModule": 621,
+      "toModule": 616,
+      "reason": "Tests NIOSH recommended upper limit for waste anesthetic nitrous oxide in operating rooms (25 ppm); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25171,
+      "fromModule": 621,
+      "toModule": 632,
+      "reason": "Covers pharmacological therapies for neuropathic pain (gabapentinoids, SNRIs, TCAs); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25172,
+      "fromModule": 621,
+      "toModule": 620,
+      "reason": "Explains rapid expansion of air-filled spaces (pulmonary bullae) caused by nitrous oxide diffusion; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25174,
+      "fromModule": 621,
+      "toModule": 631,
+      "reason": "Details risk scoring and antiemetic prophylaxis for postoperative nausea and vomiting (PONV); belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25175,
+      "fromModule": 621,
+      "toModule": 630,
+      "reason": "Explains rapid inhalational induction in neonates due to high minute ventilation to FRC ratio; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25176,
+      "fromModule": 621,
+      "toModule": 630,
+      "reason": "Covers mechanisms of heat loss (radiation, convection, evaporation) in neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25177,
+      "fromModule": 621,
+      "toModule": 630,
+      "reason": "Covers organogenesis (weeks 3-8) as the period of maximum fetal susceptibility to teratogens; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25178,
+      "fromModule": 621,
+      "toModule": 620,
+      "reason": "Identifies nitrous oxide as not causing uterine muscle relaxation compared to volatile halogenated agents; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25179,
+      "fromModule": 621,
+      "toModule": 616,
+      "reason": "Analyzes variable-bypass Tec vaporizer output compensation at high altitude; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25182,
+      "fromModule": 621,
+      "toModule": 630,
+      "reason": "Discusses NSAID (ketorolac) avoidance in third trimester pregnancy due to premature closure of ductus arteriosus; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25185,
+      "fromModule": 621,
+      "toModule": 623,
+      "reason": "Covers short-acting analgesics and NSAIDs suitable for outpatient/OPD day-care surgery analgesia; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25192,
+      "fromModule": 621,
+      "toModule": 620,
+      "reason": "Explains pseudocritical temperature (-7°C) and Poynting effect during storage of Entonox cylinders; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25195,
+      "fromModule": 621,
+      "toModule": 481,
+      "reason": "Details hypocalcemia, hyperkalemia, and hypothermia during massive blood transfusion; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25213,
+      "fromModule": 621,
+      "toModule": 622,
+      "reason": "Lists clinical applications of midazolam (sedation, anxiolysis, anterograde amnesia, anticonvulsant); belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25215,
+      "fromModule": 621,
+      "toModule": 622,
+      "reason": "Explains the Robin Hood (reverse steal) phenomenon produced by intravenous barbiturates in focal cerebral ischemia; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25217,
+      "fromModule": 621,
+      "toModule": 622,
+      "reason": "Details inverse steal phenomenon during barbiturate vasoconstriction of normal cerebral vessels; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25265,
+      "fromModule": 621,
+      "toModule": 622,
+      "reason": "Identifies methohexital as an epileptogenic barbiturate used for electroconvulsive therapy; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25293,
+      "fromModule": 621,
+      "toModule": 622,
+      "reason": "Details safe and contraindicated induction agents in porphyria; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25335,
+      "fromModule": 621,
+      "toModule": 623,
+      "reason": "Explains direct myocardial depression unmasked by ketamine in catecholamine-depleted ICU patients; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25483,
+      "fromModule": 621,
+      "toModule": 628,
+      "reason": "Discusses cutaneous innervation and nerve localization techniques for ankle block; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25484,
+      "fromModule": 621,
+      "toModule": 624,
+      "reason": "Compares allergic potential between ester and amide local anesthetics; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25666,
+      "fromModule": 621,
+      "toModule": 620,
+      "reason": "Defines MAC (Minimum Alveolar Concentration) as the standard measure of inhalational anesthetic potency; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25703,
+      "fromModule": 621,
+      "toModule": 631,
+      "reason": "Lists earliest clinical indicators of malignant hyperthermia (unexplained rise in end-tidal CO2, tachycardia, masseter spasm); belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24600,
+      "fromModule": 622,
+      "toModule": 609,
+      "reason": "Celebrates World Anaesthesia Day (October 16, 1846) marking Morton's demonstration; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 24601,
+      "fromModule": 622,
+      "toModule": 616,
+      "reason": "Explains physical principles of volatility, vapor pressure, and vaporization in anaesthesia; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24602,
+      "fromModule": 622,
+      "toModule": 616,
+      "reason": "Lists performance criteria and temperature compensation features of an ideal vaporizer; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24603,
+      "fromModule": 622,
+      "toModule": 616,
+      "reason": "Tests mechanical quality and pressure safety tests performed on medical gas cylinders; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24604,
+      "fromModule": 622,
+      "toModule": 616,
+      "reason": "Identifies components of variable-bypass vaporizers and workstations from image; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24605,
+      "fromModule": 622,
+      "toModule": 632,
+      "reason": "Lists clinical etiologies and diagnostic differentiation of chronic low back pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 24606,
+      "fromModule": 622,
+      "toModule": 632,
+      "reason": "Defines hyperpathia as an abnormally painful reaction to a painful stimulus, especially with repetitive stimuli; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 24607,
+      "fromModule": 622,
+      "toModule": 616,
+      "reason": "Explains workstation safety rule requiring cylinder valves to be closed when pipeline supply is connected; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 24608,
+      "fromModule": 622,
+      "toModule": 652,
+      "reason": "Presents selective photothermolysis with pulsed dye laser for treating large port-wine stain (capillary malformation); belongs to Dermatology under Genodermatoses & Nutritional Disorders (Module 652)."
+    },
+    {
+      "id": 25295,
+      "fromModule": 623,
+      "toModule": 625,
+      "reason": "Discusses intravenous lidocaine to suppress cough reflex and prevent laryngospasm during extubation; belongs to Local Anaesthetics - Specific Drugs (Module 625)."
+    },
+    {
+      "id": 24636,
+      "fromModule": 623,
+      "toModule": 631,
+      "reason": "Presents oculocardiac reflex (trigeminovagal bradycardia) during pediatric strabismus extraocular muscle traction; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 24637,
+      "fromModule": 623,
+      "toModule": 628,
+      "reason": "Details sensory-sparing adductor canal block for postoperative analgesia following ACL reconstruction; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 24692,
+      "fromModule": 623,
+      "toModule": 629,
+      "reason": "Presents intraoperative management of thyroid storm triggered by trauma/surgery in a hyperthyroid patient; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 24708,
+      "fromModule": 623,
+      "toModule": 613,
+      "reason": "Identifies airway adjunct/supraglottic device from image; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 24730,
+      "fromModule": 623,
+      "toModule": 614,
+      "reason": "Details systematic five-point auscultation protocol to verify tracheal intubation and exclude endobronchial intubation; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24832,
+      "fromModule": 623,
+      "toModule": 614,
+      "reason": "Covers Nerve Integrity Monitor (NIM) electromyographic endotracheal tube placement for recurrent laryngeal nerve monitoring in thyroid surgery; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 24943,
+      "fromModule": 623,
+      "toModule": 611,
+      "reason": "Interprets pulmonary artery wedge pressure tracing on PAC monitor during cardiac surgery; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 24945,
+      "fromModule": 623,
+      "toModule": 619,
+      "reason": "Covers reversal of steroidal long-acting neuromuscular blocker pancuronium with neostigmine/sugammadex; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockade (Module 619)."
+    },
+    {
+      "id": 24953,
+      "fromModule": 623,
+      "toModule": 630,
+      "reason": "Covers emergency cesarean section preparation in post-eclamptic seizures; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24981,
+      "fromModule": 623,
+      "toModule": 631,
+      "reason": "Explains opioid-induced pruritus mediated by central mu-opioid activation and spinal cord itch circuitry; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25021,
+      "fromModule": 623,
+      "toModule": 620,
+      "reason": "Explains graft displacement in tympanoplasty caused by nitrous oxide diffusing into the closed middle ear cavity; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25051,
+      "fromModule": 623,
+      "toModule": 631,
+      "reason": "Presents fat embolism syndrome (hypoxemia, petechial rash, confusion) following long bone fracture; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25065,
+      "fromModule": 623,
+      "toModule": 614,
+      "reason": "Details difficult airway management and awake fiberoptic intubation in mandibular fracture; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 25070,
+      "fromModule": 623,
+      "toModule": 631,
+      "reason": "Presents pulmonary aspiration of gastric contents (Mendelson's syndrome) causing acute desaturation and basal crepitations; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25075,
+      "fromModule": 623,
+      "toModule": 631,
+      "reason": "Describes acute hypermetabolic presentation of malignant hyperthermia during orthopedic surgery; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25115,
+      "fromModule": 623,
+      "toModule": 609,
+      "reason": "Recalls first successful public demonstration of surgical ether anesthesia on October 16, 1846; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25120,
+      "fromModule": 623,
+      "toModule": 620,
+      "reason": "Lists clinical contraindications to nitrous oxide (pneumothorax, air embolism, bowel obstruction, inner ear surgery); belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25125,
+      "fromModule": 623,
+      "toModule": 621,
+      "reason": "Identifies isoflurane as volatile agent of choice in cirrhotic liver disease due to preservation of hepatic arterial buffer response; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25154,
+      "fromModule": 623,
+      "toModule": 631,
+      "reason": "Covers safe non-triggering anaesthesia protocol in patients with previous malignant hyperthermia; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25194,
+      "fromModule": 623,
+      "toModule": 621,
+      "reason": "Discusses volatile agents that maintain autoregulation and reduce ICP during craniotomy for intracranial space-occupying lesions; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25200,
+      "fromModule": 623,
+      "toModule": 621,
+      "reason": "Discusses choice of isoflurane for prolonged 4-6 hour surgical procedures due to low cost and metabolic stability; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25222,
+      "fromModule": 623,
+      "toModule": 631,
+      "reason": "Presents venous air embolism detection and management in posterior fossa surgery in the sitting position; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25228,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Details induction characteristics, arm-brain circulation time, and redistribution kinetics of thiopentone; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25252,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Selects propofol as intravenous induction agent of choice in patients with prior PONV due to intrinsic antiemetic properties; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25257,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Covers microbial growth risks and strict aseptic handling of propofol lipid emulsion; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25258,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Discusses thiopentone/propofol dosage and rapid clearance for cesarean section induction; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25282,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Covers dosing scalars (lean body weight for induction, total body weight for maintenance) of propofol in morbid obesity; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25289,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Describes transient garlic or onion taste experienced during thiopentone induction; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25307,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Identifies thiopentone as causing the characteristic garlic taste upon intravenous injection; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25340,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Identifies propofol vial from image and covers its first-line status for induction and total intravenous anesthesia; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25343,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Covers recovery from thiopentone anaesthesia predominantly mediated by tissue redistribution rather than metabolism; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25348,
+      "fromModule": 623,
+      "toModule": 622,
+      "reason": "Re-identifies thiopentone producing garlicky taste during induction; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25351,
+      "fromModule": 623,
+      "toModule": 630,
+      "reason": "Identifies neuromuscular blockers (succinylcholine, vecuronium) as ionized quaternary ammonium compounds that do not readily cross placenta; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25384,
+      "fromModule": 623,
+      "toModule": 630,
+      "reason": "Covers the FLACC behavioral pain assessment scale used in post-operative pediatric patients; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25386,
+      "fromModule": 623,
+      "toModule": 610,
+      "reason": "Evaluates STOP-BANG screening questionnaire and perioperative OSA risk assessment in bariatric surgery; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 25387,
+      "fromModule": 623,
+      "toModule": 481,
+      "reason": "Covers platelet transfusion triggers (<50,000/mcL for major surgery, <10,000/mcL prophylactic) in surgical patients; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25389,
+      "fromModule": 623,
+      "toModule": 528,
+      "reason": "Identifies the great saphenous vein as the standard venous conduit for coronary artery bypass graft surgery; belongs to Surgery under Venous Diseases (Module 528)."
+    },
+    {
+      "id": 25397,
+      "fromModule": 623,
+      "toModule": 626,
+      "reason": "Describes landmarks of the sacral hiatus and sacral cornua for pediatric caudal epidural block; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25398,
+      "fromModule": 623,
+      "toModule": 481,
+      "reason": "Details timing of low-molecular-weight heparin (enoxaparin) initiation for postoperative thromboprophylaxis; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25409,
+      "fromModule": 623,
+      "toModule": 629,
+      "reason": "Discusses acute angle-closure glaucoma and avoiding drugs that increase intraocular pressure (ketamine, succinylcholine); belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25411,
+      "fromModule": 623,
+      "toModule": 611,
+      "reason": "Compares distal esophagus, nasopharynx, and tympanic membrane as accurate sites for intraoperative core body temperature monitoring; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25520,
+      "fromModule": 623,
+      "toModule": 610,
+      "reason": "Details preoperative cessation intervals for antiplatelet drugs (clopidogrel 5-7 days, ticlopidine 10-14 days); belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 25538,
+      "fromModule": 623,
+      "toModule": 610,
+      "reason": "Covers elective surgery postponement guidelines (minimum 30 days) following bare-metal coronary stent placement; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 25542,
+      "fromModule": 623,
+      "toModule": 610,
+      "reason": "Covers preoperative medication continuation (antihypertensives, statins, levothyroxine) versus discontinuation; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 25543,
+      "fromModule": 623,
+      "toModule": 609,
+      "reason": "Identifies pioneers acknowledged as founding fathers of modern anaesthesia; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25579,
+      "fromModule": 623,
+      "toModule": 626,
+      "reason": "Identifies lumbar puncture / subarachnoid block procedure and midline spinal anatomy from image; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25599,
+      "fromModule": 623,
+      "toModule": 628,
+      "reason": "Describes phrenic nerve blockade causing ipsilateral diaphragmatic paralysis following interscalene brachial block; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25613,
+      "fromModule": 623,
+      "toModule": 628,
+      "reason": "Describes the need for separate injection into coracobrachialis for musculocutaneous nerve blockade during axillary block; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25664,
+      "fromModule": 623,
+      "toModule": 626,
+      "reason": "Tests expected dermatomal sensory level required for bilateral lower limb varicose vein surgery (T10); belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25709,
+      "fromModule": 623,
+      "toModule": 632,
+      "reason": "Details retroperitoneal anatomy, neurolytic agent injection, and pain relief indications for celiac plexus block; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 9436,
+      "fromModule": 624,
+      "toModule": 495,
+      "reason": "Presents severe acute epigastric pain radiating to back in an alcoholic diagnosed as acute pancreatitis; belongs to Surgery under Stomach and Duodenum / Acute Pancreatitis (Module 512)."
+    },
+    {
+      "id": 18676,
+      "fromModule": 624,
+      "toModule": 323,
+      "reason": "Presents progressive bilateral sensorineural hearing loss in elderly female diagnosed as presbycusis; belongs to ENT under Sensorineural Hearing Loss and Presbycusis (Module 323)."
+    },
+    {
+      "id": 24804,
+      "fromModule": 624,
+      "toModule": 237,
+      "reason": "Lists clinical applications and routes of administration for synthetic opioid fentanyl; belongs to Pharmacology under Synthetic Opioids (Module 237)."
+    },
+    {
+      "id": 25020,
+      "fromModule": 624,
+      "toModule": 631,
+      "reason": "Identifies neuromuscular blocking agents as the leading cause of perioperative anaphylaxis, followed by latex and antibiotics; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25189,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Analyzes factors causing high/excessive dermatomal spread of local anesthetic during spinal anesthesia; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25298,
+      "fromModule": 624,
+      "toModule": 622,
+      "reason": "Discusses methohexital for activation of epileptogenic focus during electrocorticography and seizure mapping; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25353,
+      "fromModule": 624,
+      "toModule": 609,
+      "reason": "Recalls WTG Morton naming ether 'Letheon' to conceal its chemical identity; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25354,
+      "fromModule": 624,
+      "toModule": 613,
+      "reason": "Identifies Guedel oropharyngeal airway named after Arthur Guedel; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 25355,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Details endogenous neurotransmitters with inhibitory antinociceptive action (GABA, glycine, serotonin, enkephalins); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25356,
+      "fromModule": 624,
+      "toModule": 611,
+      "reason": "Explains effect of non-invasive blood pressure cuff width (40% of arm circumference) on readings; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25357,
+      "fromModule": 624,
+      "toModule": 611,
+      "reason": "Discusses intraoperative transesophageal echocardiography (TEE) monitoring during mitral valve surgery; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25358,
+      "fromModule": 624,
+      "toModule": 611,
+      "reason": "Identifies peaked/tented T waves, widening QRS, and PR prolongation of hyperkalemia on intraoperative ECG; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25359,
+      "fromModule": 624,
+      "toModule": 456,
+      "reason": "Presents short PR interval and delta wave of Wolff-Parkinson-White syndrome on 12-lead ECG; belongs to Medicine under Supraventricular Arrhythmias (Module 456)."
+    },
+    {
+      "id": 25360,
+      "fromModule": 624,
+      "toModule": 612,
+      "reason": "Explains dual-wavelength spectrophotometry (660 nm red and 940 nm infrared) in pulse oximetry; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 25362,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Tests required sensory block height (T10 dermatome) for transurethral resection of prostate (TURP) under spinal; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25363,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Covers combined spinal-epidural (CSE) needle-through-needle technique for total knee replacement; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25364,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Calculates preoperative fluid deficit, maintenance, and third-space fluid losses in a 4-year-old child; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25365,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Describes immature non-compliant myocardium, low stroke volume reserve, and heart-rate dependent cardiac output in neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25366,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Defines blood glucose thresholds (<40 mg/dL) for neonatal hypoglycemia requiring urgent treatment; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25367,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Covers transition and hepatic glucose homeostasis in neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25368,
+      "fromModule": 624,
+      "toModule": 631,
+      "reason": "Covers oculocardiac reflex triggers, afferent (ophthalmic V1) and efferent (vagus) pathways during eye enucleation; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25369,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Discusses maternal hyperoxia limitations to avoid fetal hypoxemia/retrolental changes; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25370,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Identifies lower termination of the spinal cord (L3 level at birth) in neonates and infants; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25371,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Identifies prematurity (<60 weeks post-conceptual age) as the greatest risk factor for postoperative apnea in infants; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25372,
+      "fromModule": 624,
+      "toModule": 611,
+      "reason": "Analyzes components of central venous pressure (CVP) waveform (a, c, v waves and x, y descents); belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25374,
+      "fromModule": 624,
+      "toModule": 481,
+      "reason": "Identifies factor VII (half-life 4-6 hours) as having the shortest half-life of clotting factors; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25375,
+      "fromModule": 624,
+      "toModule": 481,
+      "reason": "Details strategies to reduce transfusion-related acute lung injury (TRALI) using male-only or nulliparous plasma donors; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25376,
+      "fromModule": 624,
+      "toModule": 481,
+      "reason": "Explains rationale for storing platelets at room temperature (20-24°C) with continuous agitation to maintain function; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25377,
+      "fromModule": 624,
+      "toModule": 481,
+      "reason": "Covers coagulopathy induced by synthetic hydroxyethyl starch colloids via reduction in von Willebrand factor and factor VIII; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25378,
+      "fromModule": 624,
+      "toModule": 481,
+      "reason": "Tests shelf-life of whole blood stored in citrate-phosphate-dextrose (CPD) solution (21 days); belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25379,
+      "fromModule": 624,
+      "toModule": 481,
+      "reason": "Identifies transfusion-related acute lung injury (TRALI) and hemolytic transfusion reactions as leading causes of transfusion mortality; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25380,
+      "fromModule": 624,
+      "toModule": 623,
+      "reason": "Lists criteria of the Post-Anesthetic Discharge Scoring System (PADSS) for daycare ambulatory surgery; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25381,
+      "fromModule": 624,
+      "toModule": 618,
+      "reason": "Covers ventilator weaning criteria and tracheostomy timing for prolonged mechanical ventilation after poly-trauma; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25383,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Defines persistent post-surgical pain (PPSP) as pain persisting for at least 3 months following surgery; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25385,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Matches dermatomal sensory block levels required for various surgical procedures (T4 for CS, T10 for TURP/hip, L1 for knee); belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25388,
+      "fromModule": 624,
+      "toModule": 150,
+      "reason": "Identifies bacteria entering through cutaneous abrasions versus intact skin; belongs to Microbiology under Gram Positive Bacilli / Bacterial Infections (Module 150)."
+    },
+    {
+      "id": 25390,
+      "fromModule": 624,
+      "toModule": 612,
+      "reason": "Explains pulse oximetry reading falsely fixed at 85% in methemoglobinemia due to equal 1:1 absorbance at 660 nm and 940 nm; belongs to Respiratory Monitoring in Anaesthesia (Module 612)."
+    },
+    {
+      "id": 25391,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Identifies sinus bradycardia as the most common adverse cardiac event in pediatric anesthesia; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25392,
+      "fromModule": 624,
+      "toModule": 308,
+      "reason": "Covers timing and management of secondary reactionary hemorrhage following tonsillectomy; belongs to ENT under Pharynx - Diseases of Tonsils and Adenoids (Module 308)."
+    },
+    {
+      "id": 25400,
+      "fromModule": 624,
+      "toModule": 628,
+      "reason": "Details tourniquet duration and deflation protocols in intravenous regional anesthesia (Bier's block); belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25405,
+      "fromModule": 624,
+      "toModule": 611,
+      "reason": "Details multimodal intracranial pressure reduction (mannitol, hyperventilation, head elevation) during emergency acute SDH decompression; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25410,
+      "fromModule": 624,
+      "toModule": 623,
+      "reason": "Identifies intractable postoperative nausea, vomiting, and inadequate pain relief as top reasons for unanticipated hospital admission after ambulatory surgery; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25412,
+      "fromModule": 624,
+      "toModule": 221,
+      "reason": "Defines drug clearance as the theoretical volume of plasma completely cleared of drug per unit time; belongs to Pharmacology under Pharmacokinetics (Module 221)."
+    },
+    {
+      "id": 25413,
+      "fromModule": 624,
+      "toModule": 447,
+      "reason": "Covers physiological and pathological triggers that elevate pulmonary vascular resistance (hypoxia, acidosis, hypercapnia); belongs to Medicine under Respiratory Failure and ARDS (Module 447)."
+    },
+    {
+      "id": 25414,
+      "fromModule": 624,
+      "toModule": 30,
+      "reason": "Details four hemodynamic and blood pressure phases of the Valsalva maneuver; belongs to Physiology under Hemodynamics and Blood Pressure (Module 30)."
+    },
+    {
+      "id": 25415,
+      "fromModule": 624,
+      "toModule": 33,
+      "reason": "Describes conduction velocity and functions of large myelinated A-alpha nerve fibers (motor and proprioception); belongs to Physiology under Sensory System (Module 33)."
+    },
+    {
+      "id": 25416,
+      "fromModule": 624,
+      "toModule": 222,
+      "reason": "Covers non-dose-dependent, idiosyncratic Type B adverse drug reactions; belongs to Pharmacology under Clinical Trials and Miscellaneous (Module 222)."
+    },
+    {
+      "id": 25417,
+      "fromModule": 624,
+      "toModule": 615,
+      "reason": "Applies the Hagen-Poiseuille equation to laminar gas flow through rigid breathing circuit tubes; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 25418,
+      "fromModule": 624,
+      "toModule": 482,
+      "reason": "Explains catheter gauge conversions and French scale calculations for surgical cannulae; belongs to Surgery under Instruments & Sutures (Module 482)."
+    },
+    {
+      "id": 25419,
+      "fromModule": 624,
+      "toModule": 611,
+      "reason": "Covers the Seldinger catheter-over-guidewire technique for central venous catheterization; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25420,
+      "fromModule": 624,
+      "toModule": 614,
+      "reason": "Identifies dimensions of the cricoid cartilage ring as the narrowest anatomical point of the upper airway; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 25421,
+      "fromModule": 624,
+      "toModule": 618,
+      "reason": "Tests normal respiratory chest wall compliance value (~200 mL/cmH2O) in healthy adults; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25422,
+      "fromModule": 624,
+      "toModule": 618,
+      "reason": "Tests normal functional residual capacity (~30 mL/kg or 2100-2400 mL) in adults; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25423,
+      "fromModule": 624,
+      "toModule": 618,
+      "reason": "Applies Laplace's law (P = 2T/r) to alveolar surface tension and surfactant stability; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25424,
+      "fromModule": 624,
+      "toModule": 621,
+      "reason": "Discusses high lipid solubility and fluoride-induced polyuric nephrotoxicity of methoxyflurane; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25425,
+      "fromModule": 624,
+      "toModule": 622,
+      "reason": "Identifies lipid vehicle constituents (soybean oil, egg lecithin, glycerol) of propofol emulsion; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25426,
+      "fromModule": 624,
+      "toModule": 619,
+      "reason": "Covers neuromuscular blocking mechanisms, ganglion blockade, and histamine release of d-tubocurarine; belongs to Depolarising Muscle Relaxants / Neuromuscular Blockers (Module 619)."
+    },
+    {
+      "id": 25428,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Covers pharmacokinetic alterations, elimination half-life, and clearance of opioid narcotics in neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25429,
+      "fromModule": 624,
+      "toModule": 618,
+      "reason": "Covers pulmonary oxygen toxicity (Lorrain Smith effect) caused by high inspired oxygen fractions; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25430,
+      "fromModule": 624,
+      "toModule": 618,
+      "reason": "Lists hyperbaric oxygen therapy indications (carbon monoxide poisoning, decompression sickness, gas gangrene); belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25431,
+      "fromModule": 624,
+      "toModule": 616,
+      "reason": "Details components of the workstation hanger yoke assembly (pins, retaining screw, Bodok seal, check valve); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25432,
+      "fromModule": 624,
+      "toModule": 616,
+      "reason": "Calculates remaining oxygen cylinder duration and volume based on pressure gauge reading; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25433,
+      "fromModule": 624,
+      "toModule": 616,
+      "reason": "Matches medical gas cylinders with pin index safety system (PISS) and color-coding schemes; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25434,
+      "fromModule": 624,
+      "toModule": 616,
+      "reason": "Tests nominal internal capacity of oxygen E-cylinder (660 L); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25435,
+      "fromModule": 624,
+      "toModule": 610,
+      "reason": "Identifies neck circumference (>43 cm in men, >40 cm in women) as the strongest physical predictor of obstructive sleep apnea; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 25436,
+      "fromModule": 624,
+      "toModule": 631,
+      "reason": "Details critical aspiration pneumonitis (Mendelson syndrome) criteria (gastric pH < 2.5, volume > 0.4 mL/kg); belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25437,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Matches terminology of pain neurobiology (hyperalgesia, allodynia, paresthesia, dysesthesia); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25438,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Defines allodynia as pain resulting from a non-noxious stimulus to normal skin; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25439,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Explains administration and scoring of the Visual Analog Scale (VAS) for pain assessment; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25440,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Differentiates clinical descriptors of neuropathic pain (burning, shooting, lancinating) from nociceptive pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25441,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Identifies phantom limb pain and avulsion neuralgia as classic examples of central deafferentation pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25443,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Identifies structural layers of a transdermal drug delivery patch (backing, reservoir/matrix, rate-controlling membrane, adhesive); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25444,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Presents radiculopathy with lower back pain radiating down the dermatome diagnosed as lumbar disc herniation sciatica; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25445,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Details four neurophysiological stages of nociceptive processing (transduction, transmission, modulation, perception); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25446,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Evaluates fundamentals of nociceptive versus neuropathic pain pathways; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25447,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Compares equianalgesic doses between epidural, intrathecal, and parenteral opioid administration; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25448,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Identifies T10 dermatomal sensory level required for bilateral testicular orchiectomy under spinal block; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25449,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Identifies origin of the great anterior radicular artery of Adamkiewicz (T9-T12 level) and risk of anterior spinal cord syndrome; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25450,
+      "fromModule": 624,
+      "toModule": 627,
+      "reason": "Identifies tingling in the thumb (C6 dermatome) indicating high cervical spread of epidural blockade; belongs to Regional Anaesthesia: Complications and Contraindications (Module 627)."
+    },
+    {
+      "id": 25451,
+      "fromModule": 624,
+      "toModule": 632,
+      "reason": "Covers epidural steroid injections and spinal cord stimulation for chronic radicular pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25452,
+      "fromModule": 624,
+      "toModule": 611,
+      "reason": "Explains hypertonic 3% saline mechanisms in reducing brain edema and lowering intracranial pressure; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25453,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Identifies dura mater as the layer deliberately NOT punctured during epidural needle placement; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25454,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Identifies Tuffier's line connecting the superior borders of the iliac crests (intersecting L4 spine or L4-L5 interspace); belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25455,
+      "fromModule": 624,
+      "toModule": 626,
+      "reason": "Tests vertebral level of spinal cord termination (conus medullaris) at L1-L2 in adults; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25456,
+      "fromModule": 624,
+      "toModule": 616,
+      "reason": "Identifies black body with white shoulder cylinder (oxygen) from image; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25457,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Covers gauge selection and technique for peripheral intravenous cannulation in neonates; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25458,
+      "fromModule": 624,
+      "toModule": 617,
+      "reason": "Details sequential order of basic life support steps (Circulation, Airway, Breathing - CAB); belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 25459,
+      "fromModule": 624,
+      "toModule": 482,
+      "reason": "Explains French catheter scale (1 French = 0.33 mm outer diameter) in surgical instruments; belongs to Surgery under Instruments & Sutures (Module 482)."
+    },
+    {
+      "id": 25460,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Reiterates 24G cannula selection for neonatal peripheral vascular access; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25461,
+      "fromModule": 624,
+      "toModule": 481,
+      "reason": "Identifies large-bore (16G grey or 14G orange) IV cannula for rapid emergency volume resuscitation; belongs to Surgery under Shock and Blood Transfusion (Module 481)."
+    },
+    {
+      "id": 25462,
+      "fromModule": 624,
+      "toModule": 610,
+      "reason": "Calculates MET (Metabolic Equivalent of Task) equivalents of resting oxygen consumption (3.5 mL O2/kg/min); belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 25463,
+      "fromModule": 624,
+      "toModule": 482,
+      "reason": "Identifies intravenous cannula gauge from color-coding image; belongs to Surgery under Instruments & Sutures (Module 482)."
+    },
+    {
+      "id": 25464,
+      "fromModule": 624,
+      "toModule": 33,
+      "reason": "Describes deficits resulting from primary somatosensory cortex (postcentral gyrus) lesions (astereognosis, agraphesthesia); belongs to Physiology under Sensory System (Module 33)."
+    },
+    {
+      "id": 25465,
+      "fromModule": 624,
+      "toModule": 34,
+      "reason": "Details motor cortical programming and postural stabilization before voluntary movement; belongs to Physiology under Motor System (Module 34)."
+    },
+    {
+      "id": 25466,
+      "fromModule": 624,
+      "toModule": 480,
+      "reason": "Calculates daily nitrogen loss and hypercatabolic state following blunt body trauma; belongs to Surgery under Fluids, Electrolytes & Nutrition (Module 480)."
+    },
+    {
+      "id": 25467,
+      "fromModule": 624,
+      "toModule": 523,
+      "reason": "Classifies superficial partial-thickness flash burn (tender, erythema, painful blisters); belongs to Surgery under Burns (Module 523)."
+    },
+    {
+      "id": 25468,
+      "fromModule": 624,
+      "toModule": 639,
+      "reason": "Lists clinical features and diagnostic criteria of atopic dermatitis; belongs to Dermatology under Dermatitis (Module 639)."
+    },
+    {
+      "id": 25469,
+      "fromModule": 624,
+      "toModule": 638,
+      "reason": "Covers classifications of melanocytic nevi and pigmentary lesions; belongs to Dermatology under Disorders of Skin Pigmentation (Module 638)."
+    },
+    {
+      "id": 25470,
+      "fromModule": 624,
+      "toModule": 609,
+      "reason": "Recalls Arthur Guedel defining four classic stages of ether general anaesthesia; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25471,
+      "fromModule": 624,
+      "toModule": 615,
+      "reason": "Identifies Ayre's T-piece as Mapleson E circuit; belongs to Breathing Systems (Module 615)."
+    },
+    {
+      "id": 25472,
+      "fromModule": 624,
+      "toModule": 687,
+      "reason": "Identifies Emil Kraepelin as coining the psychiatric term 'Dementia praecox'; belongs to Psychiatry under Schizophrenia (Module 687)."
+    },
+    {
+      "id": 25473,
+      "fromModule": 624,
+      "toModule": 688,
+      "reason": "Identifies Sigmund Freud and Georg Groddeck coining structural concepts of the unconscious 'id'; belongs to Psychiatry under Psychiatric Disorders (Module 688)."
+    },
+    {
+      "id": 25474,
+      "fromModule": 624,
+      "toModule": 695,
+      "reason": "Differentiates cortical dementias (Alzheimer's disease) from subcortical dementias (Huntington's, Parkinson's, PSP); belongs to Psychiatry under Dementia (Module 695)."
+    },
+    {
+      "id": 25501,
+      "fromModule": 625,
+      "toModule": 626,
+      "reason": "Tests physiological hemodynamic tachycardia response to epidural test dose (lignocaine with adrenaline); belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25504,
+      "fromModule": 624,
+      "toModule": 627,
+      "reason": "Identifies lidocaine as having the highest incidence of Transient Neurological Symptoms (TNS) following spinal anesthesia; belongs to Regional Anaesthesia: Complications and Contraindications (Module 627)."
+    },
+    {
+      "id": 25505,
+      "fromModule": 624,
+      "toModule": 630,
+      "reason": "Identifies 2-chloroprocaine as undergoing ultra-rapid plasma pseudocholinesterase hydrolysis in maternal and fetal blood; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25578,
+      "fromModule": 624,
+      "toModule": 609,
+      "reason": "Recalls historic milestone of Carl Koller and William Halsted introducing cocaine for local and infiltration anesthesia; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25608,
+      "fromModule": 624,
+      "toModule": 628,
+      "reason": "Describes 3-in-1 femoral nerve block anatomy below the inguinal ligament; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25631,
+      "fromModule": 624,
+      "toModule": 609,
+      "reason": "Identifies cocaine as the first ever discovered and clinically utilized local anaesthetic agent; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25650,
+      "fromModule": 624,
+      "toModule": 614,
+      "reason": "Describes superior laryngeal nerve block for awake fiberoptic intubation; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 25658,
+      "fromModule": 624,
+      "toModule": 609,
+      "reason": "Recalls Carl Koller's pioneer application of topical cocaine in ophthalmology (1884); belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 25283,
+      "fromModule": 625,
+      "toModule": 622,
+      "reason": "Identifies flumazenil as the specific competitive antagonist for benzodiazepines; belongs to Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol (Module 622)."
+    },
+    {
+      "id": 25480,
+      "fromModule": 625,
+      "toModule": 691,
+      "reason": "Tests the onset timing of delirium tremens (48-72 hours) following cessation of chronic alcohol consumption; belongs to Psychiatry under Alcohol Use Disorders (Module 691)."
+    },
+    {
+      "id": 25516,
+      "fromModule": 625,
+      "toModule": 617,
+      "reason": "Presents wide-complex monomorphic ventricular tachycardia on ECG treated with amiodarone/lidocaine per ACLS; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 25521,
+      "fromModule": 625,
+      "toModule": 628,
+      "reason": "Details technique, contraindications, and double-cuff tourniquet safety in Intravenous Regional Anaesthesia (Bier's block); belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25522,
+      "fromModule": 625,
+      "toModule": 619,
+      "reason": "Lists factors reducing plasma pseudocholinesterase (butyrylcholinesterase) activity; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25523,
+      "fromModule": 625,
+      "toModule": 619,
+      "reason": "Lists pharmacological factors potentiating neuromuscular blockade (hypokalemia, hypothermia, aminoglycosides); belongs to Depolarising Muscle Relaxants / Neuromuscular Blockade (Module 619)."
+    },
+    {
+      "id": 25524,
+      "fromModule": 625,
+      "toModule": 619,
+      "reason": "Matches complementary antagonist pairs (sugammadex-rocuronium, neostigmine-atropine); belongs to Depolarising Muscle Relaxants / Neuromuscular Blockade (Module 619)."
+    },
+    {
+      "id": 25526,
+      "fromModule": 625,
+      "toModule": 624,
+      "reason": "Explains primary molecular mechanism of local anaesthetics blocking voltage-gated sodium channels from the intracellular side; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25527,
+      "fromModule": 625,
+      "toModule": 624,
+      "reason": "Details ASRA guidelines for treating Local Anesthetic Systemic Toxicity (LAST) with 20% lipid emulsion; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25529,
+      "fromModule": 625,
+      "toModule": 236,
+      "reason": "Compares analgesic potency between fentanyl (100x) and morphine; belongs to Pharmacology under Opioids - Functions and Classification (Module 236)."
+    },
+    {
+      "id": 25530,
+      "fromModule": 625,
+      "toModule": 616,
+      "reason": "Explains principles of variable-orifice Thorpe tube flowmeters (Rotameters); belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25531,
+      "fromModule": 625,
+      "toModule": 632,
+      "reason": "Lists adjuvant drug classes used in multimodal management of chronic pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25532,
+      "fromModule": 625,
+      "toModule": 632,
+      "reason": "Details selective serotonin-norepinephrine reuptake inhibitors (duloxetine) for diabetic peripheral neuropathic pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25534,
+      "fromModule": 625,
+      "toModule": 626,
+      "reason": "Explains baricity of local anaesthetics relative to cerebrospinal fluid (hyperbaric, hypobaric, isobaric) in spinal anesthesia; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25537,
+      "fromModule": 625,
+      "toModule": 627,
+      "reason": "Details ASRA guidelines for safe intervals between anticoagulants/LMWH and spinal/epidural puncture to prevent epidural hematoma; belongs to Regional Anaesthesia: Complications and Contraindications (Module 627)."
+    },
+    {
+      "id": 25539,
+      "fromModule": 625,
+      "toModule": 631,
+      "reason": "Details rescue antiemetic pharmacology for postoperative nausea and vomiting in the PACU; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25547,
+      "fromModule": 625,
+      "toModule": 632,
+      "reason": "Covers treatment of postherpetic neuralgia with gabapentin, pregabalin, and topical lidocaine; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25550,
+      "fromModule": 625,
+      "toModule": 630,
+      "reason": "Covers bilateral pudendal nerve block providing complete perineal somatic analgesia during second stage of labor; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25563,
+      "fromModule": 625,
+      "toModule": 631,
+      "reason": "Describes fluid absorption and TURP syndrome complications during transurethral prostate resection under spinal anesthesia; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25598,
+      "fromModule": 625,
+      "toModule": 624,
+      "reason": "Explains mechanism of action of local anaesthetics blocking voltage-gated Na+ channels in the inactivated-open state; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25609,
+      "fromModule": 625,
+      "toModule": 624,
+      "reason": "Ranks systemic absorption of local anaesthetics from various anatomical injection sites (Intercostal > Caudal > Epidural > Brachial > Femoral > Subcutaneous); belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25611,
+      "fromModule": 625,
+      "toModule": 624,
+      "reason": "Reiterates sodium channel blockade as the definitive mechanism of local anaesthetics; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25643,
+      "fromModule": 625,
+      "toModule": 632,
+      "reason": "Contrasts characteristics of true visceral pain (poorly localized, dull, autonomic symptoms) with somatic pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 24830,
+      "fromModule": 626,
+      "toModule": 616,
+      "reason": "Identifies legible cylinder label as the most reliable means of identifying medical gas cylinder contents; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25190,
+      "fromModule": 626,
+      "toModule": 629,
+      "reason": "Discusses anaesthetic implications and regional vs general anaesthetic advantages in severe COPD; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25395,
+      "fromModule": 626,
+      "toModule": 628,
+      "reason": "Details optimal ultrasound machine settings (frequency, depth, Doppler) during ultrasound-guided regional nerve blocks; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25396,
+      "fromModule": 626,
+      "toModule": 624,
+      "reason": "Lists end-artery anatomical areas (fingers, toes, penis, pinna, nose) where epinephrine-containing local anaesthetics are contraindicated; belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25399,
+      "fromModule": 626,
+      "toModule": 632,
+      "reason": "Describes clinical signs (edema, allodynia, sudomotor and vasomotor changes) of Complex Regional Pain Syndrome (CRPS); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25401,
+      "fromModule": 626,
+      "toModule": 630,
+      "reason": "Covers anesthesia-related maternal mortality statistics and closed claims analysis; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25402,
+      "fromModule": 626,
+      "toModule": 632,
+      "reason": "Lists sympathetically maintained pain disorders treated with sympathetic blocks (stellate, lumbar sympathetic); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25486,
+      "fromModule": 626,
+      "toModule": 628,
+      "reason": "Identifies preservative-free lidocaine 0.5% as the drug of choice for Intravenous Regional Anaesthesia (Bier's block); belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25618,
+      "fromModule": 626,
+      "toModule": 628,
+      "reason": "Interprets ultrasound image of the supraclavicular/infraclavicular brachial plexus; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25627,
+      "fromModule": 626,
+      "toModule": 632,
+      "reason": "Identifies classic clinical examples of neuropathic pain (diabetic polyneuropathy, postherpetic neuralgia); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25628,
+      "fromModule": 626,
+      "toModule": 632,
+      "reason": "Differentiates Complex Regional Pain Syndrome Type I (reflex sympathetic dystrophy) from Type II (causalgia with documented nerve injury); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25601,
+      "fromModule": 627,
+      "toModule": 631,
+      "reason": "Presents fluid overload, hyponatremia, and neurological confusion of TURP syndrome; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25612,
+      "fromModule": 627,
+      "toModule": 628,
+      "reason": "Details side effects and complications of supraclavicular brachial plexus block (pneumothorax, phrenic nerve palsy, Horner's syndrome); belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25620,
+      "fromModule": 627,
+      "toModule": 626,
+      "reason": "Details caudal epidural block landmarks, needle angulation, and technique; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 24642,
+      "fromModule": 628,
+      "toModule": 610,
+      "reason": "Compares quaternary amine glycopyrrolate versus tertiary amine atropine as antisialogogues in adult preoperative medication; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 25121,
+      "fromModule": 628,
+      "toModule": 340,
+      "reason": "Identifies topical local anaesthetics (proparacaine, tetracaine) used in cataract surgery; belongs to Ophthalmology under Lens - Cataract Surgery, Complications and IOLs (Module 340)."
+    },
+    {
+      "id": 25548,
+      "fromModule": 628,
+      "toModule": 625,
+      "reason": "Matches clinical concentrations of lidocaine with specific indications (0.5% infiltration, 1-2% nerve blocks, 5% topical); belongs to Local Anaesthetics - Specific Drugs (Module 625)."
+    },
+    {
+      "id": 25605,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Explains secondary hyperalgesia and central sensitization in dorsal horn wide dynamic range neurons; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25606,
+      "fromModule": 628,
+      "toModule": 626,
+      "reason": "Identifies anatomical structures traversed by epidural needle (skin, subQ, supraspinous, interspinous, ligamentum flavum); belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25625,
+      "fromModule": 628,
+      "toModule": 630,
+      "reason": "Describes profound supine hypotension following spinal anaesthesia in third-trimester parturient; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 25626,
+      "fromModule": 628,
+      "toModule": 626,
+      "reason": "Covers neuraxial anatomy, ligamentum flavum depth, and spinal meningeal layers; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25632,
+      "fromModule": 628,
+      "toModule": 624,
+      "reason": "Tests the differential susceptibility of nerve fibers to local anaesthetics (B > C > A-delta > A-alpha); belongs to Local Anaesthetics - General Properties (Module 624)."
+    },
+    {
+      "id": 25634,
+      "fromModule": 628,
+      "toModule": 236,
+      "reason": "Identifies loperamide and methylnaltrexone as peripheral-acting opioids that do not cross blood-brain barrier; belongs to Pharmacology under Opioids - Functions and Classification (Module 236)."
+    },
+    {
+      "id": 25635,
+      "fromModule": 628,
+      "toModule": 631,
+      "reason": "Explains opioid-induced vomiting mediated by the chemoreceptor trigger zone (CTZ) in the area postrema; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25636,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Evaluates chronic low back pain with radiculopathy and intervertebral disc disease; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25637,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Presents lancinating electric-shock facial pain along V2/V3 diagnosed as trigeminal neuralgia (tic douloureux); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25638,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Explains dorsal horn NMDA receptor activation and wind-up phenomenon in central sensitization; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25639,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Details fluoroscopic percutaneous gasserian ganglion block and radiofrequency ablation for trigeminal neuralgia; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25640,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Discusses trigeminal neuralgia diagnostic blocks and medical management with carbamazepine; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25641,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Details pathophysiology and clinical characteristics of phantom limb pain following amputation; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25642,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Explains gate control theory and endorphin release mechanisms of Transcutaneous Electrical Nerve Stimulation (TENS); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25644,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Identifies A-delta and unmyelinated C fibers as primary afferent nociceptors carrying pain; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25646,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Details affective, sensory-discriminative, and cognitive-evaluative dimensions of pain experience; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25647,
+      "fromModule": 628,
+      "toModule": 632,
+      "reason": "Evaluates true/false statements regarding phantom limb sensations, stump pain, and mirror therapy; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25649,
+      "fromModule": 628,
+      "toModule": 629,
+      "reason": "Discusses facial nerve branch monitoring during parotidectomy under general anesthesia; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25653,
+      "fromModule": 628,
+      "toModule": 614,
+      "reason": "Assesses bilateral recurrent laryngeal nerve injury on post-extubation fiberoptic laryngoscopy after thyroidectomy; belongs to Intubation (Module 614)."
+    },
+    {
+      "id": 25654,
+      "fromModule": 628,
+      "toModule": 631,
+      "reason": "Identifies the ulnar nerve at the elbow and common peroneal nerve at the fibular head as most prone to perioperative positioning nerve injury; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25655,
+      "fromModule": 628,
+      "toModule": 631,
+      "reason": "Presents median nerve injury causing inability to oppose thumb and little finger due to faulty armboard positioning; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25657,
+      "fromModule": 628,
+      "toModule": 631,
+      "reason": "Presents ischemic optic neuropathy causing postoperative bilateral visual loss in prone spine surgery; belongs to Complications of Anaesthesia (Module 631)."
+    },
+    {
+      "id": 25661,
+      "fromModule": 628,
+      "toModule": 630,
+      "reason": "Covers laparoscopic anesthesia considerations and avoidance of fetal hypoxia in early ectopic pregnancy; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24641,
+      "fromModule": 629,
+      "toModule": 610,
+      "reason": "Covers scopolamine avoidance in elderly/glaucoma/dementia during preoperative premedication; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24676,
+      "fromModule": 629,
+      "toModule": 618,
+      "reason": "Lists clinical indications and contraindications for therapeutic oxygen administration; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25038,
+      "fromModule": 629,
+      "toModule": 619,
+      "reason": "Covers life-threatening hyperkalemia caused by succinylcholine in burns after 24-48 hours; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25067,
+      "fromModule": 629,
+      "toModule": 621,
+      "reason": "Identifies enflurane as causing epileptogenic EEG spike discharges and motor twitching; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25072,
+      "fromModule": 629,
+      "toModule": 620,
+      "reason": "Explains the Concentration Effect of high-concentration nitrous oxide speeding alveolar equilibration; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25124,
+      "fromModule": 629,
+      "toModule": 620,
+      "reason": "Explains the Second Gas Effect seen with nitrous oxide accelerating the uptake of a companion volatile agent; belongs to Inhaled Anaesthetics - Properties, N2O and Halothane (Module 620)."
+    },
+    {
+      "id": 25153,
+      "fromModule": 629,
+      "toModule": 621,
+      "reason": "Identifies enflurane as an epileptogenic inhalational agent aggravated by hypocarbia; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25535,
+      "fromModule": 629,
+      "toModule": 617,
+      "reason": "Presents monitor tracing of rapid atrial fibrillation with hemodynamic instability treated per ACLS tachycardia algorithm; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 25553,
+      "fromModule": 629,
+      "toModule": 236,
+      "reason": "Identifies opioid receptors (mu, delta, kappa) as inhibitory G-protein coupled receptors (GPCRs); belongs to Pharmacology under Opioids - Functions and Classification (Module 236)."
+    },
+    {
+      "id": 25591,
+      "fromModule": 629,
+      "toModule": 626,
+      "reason": "Details indications, contraindications, and urgent CSF sampling protocol for lumbar puncture; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25645,
+      "fromModule": 629,
+      "toModule": 632,
+      "reason": "Defines paresthesia as an abnormal spontaneous sensation in the absence of an external stimulus; belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    },
+    {
+      "id": 25660,
+      "fromModule": 629,
+      "toModule": 628,
+      "reason": "Details local anesthetic volume and landmark nerve block of the five nerves at the ankle for bunionectomy; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25673,
+      "fromModule": 629,
+      "toModule": 626,
+      "reason": "Lists hydrophilic and lipophilic opioids approved for intrathecal/epidural administration; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25674,
+      "fromModule": 629,
+      "toModule": 236,
+      "reason": "Identifies active analgesic and neurotoxic metabolites of morphine (M6G, M3G); belongs to Pharmacology under Opioids - Functions and Classification (Module 236)."
+    },
+    {
+      "id": 25676,
+      "fromModule": 629,
+      "toModule": 237,
+      "reason": "Identifies remifentanil as undergoing ultra-rapid plasma and tissue esterase hydrolysis rather than hepatic metabolism; belongs to Pharmacology under Synthetic Opioids (Module 237)."
+    },
+    {
+      "id": 25677,
+      "fromModule": 629,
+      "toModule": 236,
+      "reason": "Covers central nervous system effects of opioids (analgesia, sedation, euphoria, respiratory depression, miosis); belongs to Pharmacology under Opioids - Functions and Classification (Module 236)."
+    },
+    {
+      "id": 25678,
+      "fromModule": 629,
+      "toModule": 236,
+      "reason": "Lists signs and symptoms of acute opioid withdrawal (mydriasis, lacrimation, piloerection, diarrhea, agitation); belongs to Pharmacology under Opioids - Functions and Classification (Module 236)."
+    },
+    {
+      "id": 25679,
+      "fromModule": 629,
+      "toModule": 237,
+      "reason": "Explains potentially fatal serotonin syndrome and hyperpyrexia when pethidine (meperidine) is combined with MAO inhibitors; belongs to Pharmacology under Synthetic Opioids (Module 237)."
+    },
+    {
+      "id": 25682,
+      "fromModule": 629,
+      "toModule": 630,
+      "reason": "Presents uterine rupture during labor in previous LSCS requiring emergency laparotomy; belongs to Paediatric and Obstetric Anaesthesia (Module 630)."
+    },
+    {
+      "id": 24599,
+      "fromModule": 630,
+      "toModule": 609,
+      "reason": "Identifies John Lundy as coining the historic concept of 'balanced anaesthesia' in 1926; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 24853,
+      "fromModule": 630,
+      "toModule": 613,
+      "reason": "Covers anatomical dead space, facial nerve injury, and gastric insufflation from tight face mask application; belongs to Airway Devices (Module 613)."
+    },
+    {
+      "id": 25150,
+      "fromModule": 630,
+      "toModule": 621,
+      "reason": "Identifies sevoflurane as preferred agent for smooth mask induction; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25184,
+      "fromModule": 630,
+      "toModule": 621,
+      "reason": "Explains sevoflurane properties (non-pungent, rapid induction, bronchodilatory) in mask induction; belongs to Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases (Module 621)."
+    },
+    {
+      "id": 25339,
+      "fromModule": 630,
+      "toModule": 629,
+      "reason": "Discusses avoidance of ketamine and succinylcholine in pediatric open globe injury to prevent extruded ocular contents; belongs to Anaesthetic Implication of Concurrent Diseases (Module 629)."
+    },
+    {
+      "id": 25540,
+      "fromModule": 630,
+      "toModule": 616,
+      "reason": "Explains physical principles of Thorpe tube rotameters in anaesthesia machines; belongs to Anaesthesia Workstation (Module 616)."
+    },
+    {
+      "id": 25572,
+      "fromModule": 630,
+      "toModule": 626,
+      "reason": "Covers maternal sympathectomy and systemic hypotension during spinal anaesthesia; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25694,
+      "fromModule": 630,
+      "toModule": 609,
+      "reason": "Analyzes ASA Closed Claims Project data regarding common perioperative nerve injuries and malpractice claims; belongs to History and Ethical Aspects of Anaesthesia (Module 609)."
+    },
+    {
+      "id": 17215,
+      "fromModule": 631,
+      "toModule": 345,
+      "reason": "Clinical management of congenital dacryocystitis via Crigler lacrimal sac massage; belongs to Ophthalmology under Disorders of Lacrimal Apparatus and Glands of the Eye (Module 345)."
+    },
+    {
+      "id": 24622,
+      "fromModule": 631,
+      "toModule": 610,
+      "reason": "Defines ASA Grade 1 physical status (normal healthy patient with no organic, physiologic, or psychiatric disturbance); belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24686,
+      "fromModule": 631,
+      "toModule": 610,
+      "reason": "Evaluates postponement criteria for elective tonsillectomy in pediatric patients with upper respiratory tract infections; belongs to Preoperative Evaluation (Module 610)."
+    },
+    {
+      "id": 24733,
+      "fromModule": 631,
+      "toModule": 614,
+      "reason": "Covers prone positioning complications during posterior spine fusion (facial pressure, blindness, ETT displacement); belongs to Intubation (Module 614) or Complications (can stay or move)."
+    },
+    {
+      "id": 24901,
+      "fromModule": 631,
+      "toModule": 618,
+      "reason": "Explains physiological requirement of active and passive humidification of inspired oxygen; belongs to Ventilation and O2 Delivery Systems (Module 618)."
+    },
+    {
+      "id": 25022,
+      "fromModule": 631,
+      "toModule": 619,
+      "reason": "Evaluates pharmacological properties and adverse effects of succinylcholine; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25036,
+      "fromModule": 631,
+      "toModule": 619,
+      "reason": "Explains black-box warning and avoidance of routine succinylcholine in children < 8 years due to undiagnosed Duchenne muscular dystrophy hyperkalemia; belongs to Depolarising Muscle Relaxants (Module 619)."
+    },
+    {
+      "id": 25129,
+      "fromModule": 631,
+      "toModule": 611,
+      "reason": "Identifies lower third of the esophagus (retrocardiac position) as the optimal site for esophageal temperature monitoring; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25292,
+      "fromModule": 631,
+      "toModule": 623,
+      "reason": "Identifies severe pain and intractable PONV as the most common reasons for unanticipated overnight hospital admission after daycare surgery; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25341,
+      "fromModule": 631,
+      "toModule": 623,
+      "reason": "Describes emergence delirium and vivid dreams following ketamine dissociative anesthesia; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25349,
+      "fromModule": 631,
+      "toModule": 623,
+      "reason": "Covers emergence illusions and dysphoria following ketamine induction; belongs to Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery (Module 623)."
+    },
+    {
+      "id": 25546,
+      "fromModule": 631,
+      "toModule": 611,
+      "reason": "Details internal jugular vein central venous pressure line insertion for inotropic resuscitation in septic shock; belongs to CNS and CVS Monitoring in Anaesthesia (Module 611)."
+    },
+    {
+      "id": 25576,
+      "fromModule": 631,
+      "toModule": 626,
+      "reason": "Identifies the epidural space between the ligamentum flavum and dura mater as the site of drug deposition in epidural anaesthesia; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25587,
+      "fromModule": 631,
+      "toModule": 626,
+      "reason": "Tests termination level of the conus medullaris at the L1-L2 vertebral interspace in adults; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25588,
+      "fromModule": 631,
+      "toModule": 626,
+      "reason": "Lists tissue layers punctured during lumbar puncture (skin, subcutaneous tissue, supraspinous ligament, interspinous ligament, ligamentum flavum, dura, arachnoid); belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25590,
+      "fromModule": 631,
+      "toModule": 626,
+      "reason": "Identifies loss-of-resistance syringe (glass/low-friction) used for identifying the epidural space; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25592,
+      "fromModule": 631,
+      "toModule": 482,
+      "reason": "Details measurement of nasogastric tube insertion length (nose-ear-xiphoid / NEX measurement); belongs to Surgery under Instruments & Sutures (Module 482)."
+    },
+    {
+      "id": 25600,
+      "fromModule": 631,
+      "toModule": 628,
+      "reason": "Identifies immediate complications of supraclavicular brachial plexus block (pneumothorax, arterial puncture); belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25610,
+      "fromModule": 631,
+      "toModule": 617,
+      "reason": "Identifies prolonged asystole as having the poorest resuscitation prognosis among cardiac arrest rhythms in ACLS; belongs to ACLS (Module 617)."
+    },
+    {
+      "id": 25624,
+      "fromModule": 631,
+      "toModule": 628,
+      "reason": "Compares electrical nerve stimulator twitch endpoints in various approaches to the brachial plexus; belongs to Peripheral Nerve Blocks (Module 628)."
+    },
+    {
+      "id": 25629,
+      "fromModule": 631,
+      "toModule": 626,
+      "reason": "Explains pre-ganglionic sympathetic B-fiber blockade causing venodilation and hypotension in spinal anaesthesia; belongs to Regional Anaesthesia: Techniques (Module 626)."
+    },
+    {
+      "id": 25705,
+      "fromModule": 631,
+      "toModule": 632,
+      "reason": "Lists complications of celiac plexus block (orthostatic hypotension due to splanchnic pooling, diarrhea, retroperitoneal hematoma); belongs to Mixed / Miscellaneous Topics: Pain Management (Module 632)."
+    }
+  ]
+}

@@ -1,0 +1,4442 @@
+[
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 1,
+    "moduleName": "Gametogenesis"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 2,
+    "moduleName": "Pre-Embryonic Phase of Development"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 3,
+    "moduleName": "Embryonic Phase of Development"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 4,
+    "moduleName": "Placenta, Fetal Membranes and Twinning"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 5,
+    "moduleName": "Pharyngeal Arches, Skeletal & Muscular Systems"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 6,
+    "moduleName": "Cardiovascular and Respiratory Systems"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 7,
+    "moduleName": "Alimentary, Hepatobiliary Systems, Pancreas and Spleen"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 8,
+    "moduleName": "Face, Nose & Palate, Eye, Ear"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 9,
+    "moduleName": "Nervous System and Endocrine Glands"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 10,
+    "moduleName": "Cell Structure, Epithelia, Glands & Connective Tissue"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 11,
+    "moduleName": "Bone, Cartilage & Muscular Tissue"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 12,
+    "moduleName": "Cardiovascular, Lymphatic and Respiratory Systems"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 13,
+    "moduleName": "Digestive, Hepatobiliary & Genitourinary Systems"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 14,
+    "moduleName": "Cranial Nerves"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 15,
+    "moduleName": "Meninges and Dural Venous Sinuses"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 16,
+    "moduleName": "Ventricular System and Subarachnoid Space"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 17,
+    "moduleName": "Cerebrum"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 18,
+    "moduleName": "White Matter of the Brain"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 19,
+    "moduleName": "Basal Ganglia and Limbic System"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 20,
+    "moduleName": "Diencephalon"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 21,
+    "moduleName": "Brainstem"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 22,
+    "moduleName": "Cerebellum"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 23,
+    "moduleName": "Vascular Supply of Brain"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 24,
+    "moduleName": "Spinal Cord"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 25,
+    "moduleName": "Osteology, Scalp and Face"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 26,
+    "moduleName": "Deep Fascia and Triangles of the Neck"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 27,
+    "moduleName": "Muscles, Neurovascular Anatomy of Head & Neck"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 28,
+    "moduleName": "Glands of the Head & Neck"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 29,
+    "moduleName": "Tongue and Palate"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 30,
+    "moduleName": "Pharynx"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 31,
+    "moduleName": "Upper Limb Bones and Joints"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 32,
+    "moduleName": "Fossae and Spaces of the Upper Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 33,
+    "moduleName": "Brachial Plexus and Nerves"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 34,
+    "moduleName": "Muscles - Upper Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 35,
+    "moduleName": "Vessels - Upper Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 36,
+    "moduleName": "General Anatomy of Thorax"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 37,
+    "moduleName": "Thoracic Wall"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 38,
+    "moduleName": "Mediastinum"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 39,
+    "moduleName": "Heart"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 40,
+    "moduleName": "Lungs and Pleura"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 41,
+    "moduleName": "Anterior Abdominal Wall"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 42,
+    "moduleName": "Abdominal Cavity and Peritoneum"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 43,
+    "moduleName": "GI Tract"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 44,
+    "moduleName": "Hepatobiliary System, Spleen & Pancreas"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 45,
+    "moduleName": "KUB & Adrenal Gland"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 46,
+    "moduleName": "Internal and External Genitalia"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 47,
+    "moduleName": "Pelvis & Perineum"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 48,
+    "moduleName": "Bones of the Lower Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 49,
+    "moduleName": "Joints of the Lower Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 50,
+    "moduleName": "Muscles of the Lower Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 51,
+    "moduleName": "Nerves & Vessels of Lower Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 52,
+    "moduleName": "Important Structures of Lower Limb"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 53,
+    "moduleName": "Vertebral Column"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 54,
+    "moduleName": "Bones, Joints and Cartilage"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 55,
+    "moduleName": "Muscles and Tendons"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 56,
+    "moduleName": "Cardiovascular, Lymphatic and Nervous Systems"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 57,
+    "moduleName": "Skin, Connective Tissue and Ligaments"
+  },
+  {
+    "subjectId": 1000109,
+    "subjectName": "Anatomy",
+    "moduleId": 58,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 59,
+    "moduleName": "Homeostasis and Cellular Physiology"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 60,
+    "moduleName": "Cellular Messengers & Receptors"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 61,
+    "moduleName": "Transport Across Cell Membrane"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 62,
+    "moduleName": "Membrane Potentials"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 63,
+    "moduleName": "Body Fluids"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 64,
+    "moduleName": "Physiology of Nerve"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 65,
+    "moduleName": "Muscle Physiology I"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 66,
+    "moduleName": "Synapse and Junctional Transmission"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 67,
+    "moduleName": "Neurotransmitters"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 68,
+    "moduleName": "Sensory Receptors"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 69,
+    "moduleName": "Somatosensory Pathways"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 70,
+    "moduleName": "Special Senses"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 71,
+    "moduleName": "Motor Physiology - 1"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 72,
+    "moduleName": "Basal Ganglia and Cerebellum"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 73,
+    "moduleName": "Hypothalamus and Limbic System"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 74,
+    "moduleName": "Higher Mental Functions"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 75,
+    "moduleName": "Functional Anatomy"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 76,
+    "moduleName": "Lung Mechanics"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 77,
+    "moduleName": "Alveolar Gas Exchange"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 78,
+    "moduleName": "Gas Transport in Blood"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 79,
+    "moduleName": "Lung Volumes and Lung Function Tests"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 80,
+    "moduleName": "Respiratory Adaptations in Hypoxia, Anemia and with Pressure Changes"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 81,
+    "moduleName": "Regulation of Respiration"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 82,
+    "moduleName": "Vascular System and Regional Circulation I"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 83,
+    "moduleName": "Cardiac Cycle and Cardiac Output"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 84,
+    "moduleName": "Electrophysiology of the Heart"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 85,
+    "moduleName": "Blood Pressure and Regulation"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 86,
+    "moduleName": "Gastrointestinal Secretion and Gastrointestinal Hormones"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 87,
+    "moduleName": "Digestion & Absorption"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 88,
+    "moduleName": "GI Peristalsis and Motility"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 89,
+    "moduleName": "Glomerular Filtration Rate, Renal Blood Flow, and Renal Clearance"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 90,
+    "moduleName": "Renal Tubular Functions, Urine Concentration and Dilution"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 91,
+    "moduleName": "Acid-Base Balance, Renal Hormones and Micturition Reflex"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 92,
+    "moduleName": "Pituitary and Thyroid"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 93,
+    "moduleName": "The Pancreas"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 94,
+    "moduleName": "Calcium Homeostasis"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 95,
+    "moduleName": "Male Reproductive Physiology"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 96,
+    "moduleName": "Female Reproductive Physiology"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 97,
+    "moduleName": "Exercise Physiology"
+  },
+  {
+    "subjectId": 1000110,
+    "subjectName": "Physiology",
+    "moduleId": 98,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 99,
+    "moduleName": "Chemistry of Carbohydrates, Amino Sugars and Mucopolysaccharides"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 100,
+    "moduleName": "Glycolysis and Gluconeogenesis"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 101,
+    "moduleName": "Glycogen Metabolism and Glycogen Storage Disorders"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 102,
+    "moduleName": "HMP Shunt Pathway, Fructose, Galactose Metabolism"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 103,
+    "moduleName": "Krebs Cycle"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 104,
+    "moduleName": "Amino Acids: Basics"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 105,
+    "moduleName": "Amino Acid: Metabolism"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 106,
+    "moduleName": "Amino Acid: Metabolic Disorder"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 107,
+    "moduleName": "Protein Structure and Function"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 108,
+    "moduleName": "Urea Cycle and its Disorders"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 109,
+    "moduleName": "Lipids: Basics"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 110,
+    "moduleName": "Fatty Acid Oxidation and Ketogenesis"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 111,
+    "moduleName": "Biosynthesis of Fatty Acids and Eicosanoids"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 112,
+    "moduleName": "Metabolism of Acylglycerols and Sphingolipids"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 113,
+    "moduleName": "Cholesterol Synthesis, Transport and Excretion"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 114,
+    "moduleName": "Porphyrins and Bile Pigments"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 115,
+    "moduleName": "Enzymes - Mechanism of Action & Clinical Importance"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 116,
+    "moduleName": "Enzyme Kinetics and Regulation of Activity"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 117,
+    "moduleName": "Fat Soluble Vitamins"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 118,
+    "moduleName": "Energy Releasing Vitamins"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 119,
+    "moduleName": "Antioxidants & Minerals"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 120,
+    "moduleName": "Basics of Genetics - Nucleotide Metabolism and its Disorders"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 121,
+    "moduleName": "DNA Organization, Replication and Repair"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 122,
+    "moduleName": "RNA Synthesis, Processing and Modification"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 123,
+    "moduleName": "Regulation of Gene Expression"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 124,
+    "moduleName": "Molecular Genetics, Recombinant DNA & Genomic Technology"
+  },
+  {
+    "subjectId": 1000187,
+    "subjectName": "Biochemistry",
+    "moduleId": 125,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 126,
+    "moduleName": "Cellular Adaptations and Injury"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 127,
+    "moduleName": "Cell Death"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 128,
+    "moduleName": "Intracellular Accumulations, Pathological Calcification and Cellular Ageing"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 129,
+    "moduleName": "Acute Inflammation"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 130,
+    "moduleName": "Inflammatory Mediators and Chronic Granulomatous Inflammation"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 131,
+    "moduleName": "Tissue Repair"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 132,
+    "moduleName": "Disorders of Hemodynamics and Hemostasis"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 133,
+    "moduleName": "Modes of Inheritance"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 134,
+    "moduleName": "Lysosomal and Glycogen Storage Diseases"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 135,
+    "moduleName": "Chromosomal Disorders and Other Genetic Diseases"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 136,
+    "moduleName": "Characteristics of Neoplasms and Epidemiology"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 137,
+    "moduleName": "Molecular Basis of Cancer and Tumor Immunity"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 138,
+    "moduleName": "Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 139,
+    "moduleName": "Components of Immune System"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 140,
+    "moduleName": "Hypersensitivity and Autoimmunity"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 141,
+    "moduleName": "Amyloidosis and Graft Rejection"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 142,
+    "moduleName": "Microcytic Anemia"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 143,
+    "moduleName": "Normocytic And Macrocytic Anemia"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 144,
+    "moduleName": "Basics of Hemolysis and Intravascular Hemolysis"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 145,
+    "moduleName": "Extravascular Hemolysis"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 146,
+    "moduleName": "G6PD Deficiency and Autoimmune Hemolytic Anemias"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 147,
+    "moduleName": "Platelet Disorders"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 148,
+    "moduleName": "Coagulation Pathway Disorders"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 149,
+    "moduleName": "Blood Products and Transfusion Reactions"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 150,
+    "moduleName": "Acute Lymphocytic Leukemia (ALL)"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 151,
+    "moduleName": "Acute Myeloid Leukemia (AML)"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 152,
+    "moduleName": "Hodgkin's Lymphoma"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 153,
+    "moduleName": "Non Hodgkin Lymphomas: Low Grade"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 154,
+    "moduleName": "Non Hodgkin Lymphomas: High Grade"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 155,
+    "moduleName": "Multiple Myeloma and Plasma Cell Disorders"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 156,
+    "moduleName": "Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 157,
+    "moduleName": "Leukemoid, Leukocytosis and Lymphadenitis"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 158,
+    "moduleName": "Hypertensive Vascular Disease and Atherosclerosis"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 159,
+    "moduleName": "Aneurysm and Dissection"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 160,
+    "moduleName": "Vascular Tumors"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 161,
+    "moduleName": "Heart Failure and Ischemic Heart Disease"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 162,
+    "moduleName": "Myocardial and Pericardial Diseases and Cardiac Tumors"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 163,
+    "moduleName": "Congenital and Valvular Heart Disease"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 164,
+    "moduleName": "Rheumatic Fever and Endocarditis"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 165,
+    "moduleName": "Glomerular Diseases"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 166,
+    "moduleName": "Tubulointerstitial, Vascular and Cystic Diseases"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 167,
+    "moduleName": "Renal Tumors"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 168,
+    "moduleName": "Lower Urinary Tract"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 169,
+    "moduleName": "Female Genital Tract"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 170,
+    "moduleName": "Male Genital Tract"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 171,
+    "moduleName": "Alcoholic and Infectious Liver Diseases"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 172,
+    "moduleName": "Autoimmune and Metabolic Liver Diseases"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 173,
+    "moduleName": "Neoplasms of Liver and Biliary Tract"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 174,
+    "moduleName": "Gall Bladder and Pancreas"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 175,
+    "moduleName": "Esophagus"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 176,
+    "moduleName": "Stomach"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 177,
+    "moduleName": "Small Intestine"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 178,
+    "moduleName": "Large Intestine - Non Neoplastic Conditions"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 179,
+    "moduleName": "Congenital Anomalies, ARDS, Infections"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 180,
+    "moduleName": "Obstructive and Restrictive Lung Diseases"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 181,
+    "moduleName": "Lung Tumors"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 182,
+    "moduleName": "Pituitary, Parathyroid and Pancreas"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 183,
+    "moduleName": "Thyroid Glands"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 184,
+    "moduleName": "The Breast"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 185,
+    "moduleName": "Developmental Disorders, Infections and Tumors of Bone"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 186,
+    "moduleName": "Joints and Soft Tissue Tumors"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 187,
+    "moduleName": "Skin Pathology"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 188,
+    "moduleName": "Infective and Vascular CNS Pathology"
+  },
+  {
+    "subjectId": 1000112,
+    "subjectName": "Pathology",
+    "moduleId": 189,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 190,
+    "moduleName": "General Microbiology"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 191,
+    "moduleName": "Components of Immune System"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 192,
+    "moduleName": "Structure and Functions of the Immune System & Immune Response"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 193,
+    "moduleName": "Hypersensitivity"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 194,
+    "moduleName": "Streptococci and Enterococci"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 195,
+    "moduleName": "Corynebacterium, Listeria and Actinomyces"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 196,
+    "moduleName": "Clostridium and Bacillus"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 197,
+    "moduleName": "Mycobacteria Tuberculosis"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 198,
+    "moduleName": "Other Mycobacteria"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 199,
+    "moduleName": "Escherichia, Proteus and Klebsiella"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 200,
+    "moduleName": "Shigella and Salmonella"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 201,
+    "moduleName": "Vibrio and Campylobacterales"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 202,
+    "moduleName": "Pseudomonas and Burkholderiales"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 203,
+    "moduleName": "Haemophilus"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 204,
+    "moduleName": "Miscellaneous Bacteria - Yersinia, Brucella, Bartonella, Legionella"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 205,
+    "moduleName": "Gram Negative Cocci"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 206,
+    "moduleName": "Rickettsia, Chlamydia and Mycoplasma"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 207,
+    "moduleName": "Spirochetes"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 208,
+    "moduleName": "General Properties of Viruses"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 209,
+    "moduleName": "Hepatitis"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 210,
+    "moduleName": "Arboviruses and Picorna Viruses"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 211,
+    "moduleName": "Miscellaneous Viruses - Rubella, Coronaviruses, Prions, Rotavirus, Filovirus, Zika Virus and Nipah Virus"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 212,
+    "moduleName": "Superficial and Systemic Mycoses"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 213,
+    "moduleName": "Opportunistic Mycoses"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 214,
+    "moduleName": "General Parasitology"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 215,
+    "moduleName": "Protozoology - Amoebae, Ciliates & Flagellates"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 216,
+    "moduleName": "Protozoology - Sporozoa"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 217,
+    "moduleName": "Helminthology - Cestodes & Trematodes"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 218,
+    "moduleName": "Helminthology - Nematodes"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 219,
+    "moduleName": "Applied Microbiology"
+  },
+  {
+    "subjectId": 1000185,
+    "subjectName": "Microbiology",
+    "moduleId": 220,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 221,
+    "moduleName": "Pharmacokinetics"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 222,
+    "moduleName": "Clinical Trials and Miscellaneous"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 223,
+    "moduleName": "Sympathomimetics"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 224,
+    "moduleName": "Drugs for Glaucoma"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 740,
+    "moduleName": "Parasympathomimetics & Cholinergic Agonists"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 225,
+    "moduleName": "Anti-Anginal Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 226,
+    "moduleName": "Heart Failure Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 227,
+    "moduleName": "Antihypertensive Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 228,
+    "moduleName": "Diuretics"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 229,
+    "moduleName": "Anti-Arrhythmic Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 230,
+    "moduleName": "Hypolipidemic Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 231,
+    "moduleName": "Renin-Angiotensin-Aldosterone System"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 232,
+    "moduleName": "Anti-diuretics"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 233,
+    "moduleName": "Anti-epileptics I"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 234,
+    "moduleName": "Anti-manic Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 235,
+    "moduleName": "Antidepressant and Antianxiety Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 236,
+    "moduleName": "Opioids - Functions and Classification"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 237,
+    "moduleName": "Synthetic Opioids"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 238,
+    "moduleName": "Opioid Antagonists"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 239,
+    "moduleName": "General Principles of Antimicrobial Therapy"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 240,
+    "moduleName": "Antimalarial Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 241,
+    "moduleName": "Sulfonamides, Quinolones and Urinary Antiseptics"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 242,
+    "moduleName": "Antimicrobials Acting on 30S Subunit"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 243,
+    "moduleName": "Antiretroviral Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 244,
+    "moduleName": "Penicillins"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 245,
+    "moduleName": "Cephalosporins, Vancomycin and Carbapenems"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 246,
+    "moduleName": "Anti-Protozoal Agents and Anthelmintic Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 247,
+    "moduleName": "Antifungal Agents"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 248,
+    "moduleName": "First Line Drugs for Tuberculosis"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 249,
+    "moduleName": "Second Line Drugs for Tuberculosis"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 250,
+    "moduleName": "Anti-leprosy Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 251,
+    "moduleName": "Anti-virals (Non-retroviral)"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 252,
+    "moduleName": "Hypothalamus and Pituitary"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 253,
+    "moduleName": "Thyroid and Antithyroid Agents"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 254,
+    "moduleName": "Corticosteroids"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 255,
+    "moduleName": "Osteoporosis and Calcium Metabolism"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 256,
+    "moduleName": "Anti-Diabetic Drugs - Oral"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 257,
+    "moduleName": "OCPs, Estrogens and Progestins"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 258,
+    "moduleName": "Androgens and Drugs for Erectile Dysfunction"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 259,
+    "moduleName": "Drugs Acting on Uterus"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 260,
+    "moduleName": "NSAIDs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 261,
+    "moduleName": "Anti-migraine and Antigout drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 262,
+    "moduleName": "Anti-rheumatoid drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 263,
+    "moduleName": "Antiplatelets, Fibrinolytics and Antifibrinolytics"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 264,
+    "moduleName": "Anticoagulants"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 265,
+    "moduleName": "Respiratory System"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 266,
+    "moduleName": "Acid Peptic Disorders and Inflammatory Bowel Disease"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 267,
+    "moduleName": "Anti-emetics and Drugs Affecting Gastrointestinal Motility"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 268,
+    "moduleName": "Cell Cycle Specific Cytotoxic Drugs"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 269,
+    "moduleName": "Monoclonal Antibodies"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 270,
+    "moduleName": "Interleukins, Growth Factors and Targeted Therapies"
+  },
+  {
+    "subjectId": 1000114,
+    "subjectName": "Pharmacology",
+    "moduleId": 271,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 272,
+    "moduleName": "Skeletal and Dental Age Determination"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 273,
+    "moduleName": "Race, Sex and Stature Determination"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 274,
+    "moduleName": "Fingerprint and Tattoos"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 275,
+    "moduleName": "BNS, BNSS, and BSA"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 276,
+    "moduleName": "Death and Post-Mortem Changes"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 277,
+    "moduleName": "Medico Legal Autopsy"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 278,
+    "moduleName": "Mechanical Injuries"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 279,
+    "moduleName": "Regional Injuries"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 280,
+    "moduleName": "Thermal Injuries"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 281,
+    "moduleName": "Firearm Injuries and Blast Injuries"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 282,
+    "moduleName": "Mechanical Asphyxia"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 283,
+    "moduleName": "Drowning"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 284,
+    "moduleName": "Sexual Offences and Abortion"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 285,
+    "moduleName": "Childhood Violence, Infanticide and Starvation"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 286,
+    "moduleName": "Poisoning: General Considerations"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 287,
+    "moduleName": "Organophosphorus Poisoning"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 288,
+    "moduleName": "Corrosives and Asphyxiants"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 289,
+    "moduleName": "Alcohol Poisoning"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 290,
+    "moduleName": "Inorganic Irritants - Metallic and Non-metallic"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 291,
+    "moduleName": "Organic Irritants - Plant and Animal Poisons"
+  },
+  {
+    "subjectId": 1000115,
+    "subjectName": "Forensic Medicine",
+    "moduleId": 292,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 293,
+    "moduleName": "Embryology of Ear and Malformations"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 294,
+    "moduleName": "Anatomy of External Ear"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 295,
+    "moduleName": "Anatomy of Middle Ear"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 296,
+    "moduleName": "Anatomy of Mastoid"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 297,
+    "moduleName": "Anatomy of Inner Ear"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 298,
+    "moduleName": "Disorders of External Ear"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 299,
+    "moduleName": "Cholesteatoma and Types of CSOM"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 300,
+    "moduleName": "CSOM - Treatment and Complications"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 301,
+    "moduleName": "Otosclerosis"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 302,
+    "moduleName": "Meniere's Disease"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 303,
+    "moduleName": "Tumors of Ear"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 304,
+    "moduleName": "Anatomy of Facial Nerve"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 305,
+    "moduleName": "Facial Nerve Disorders"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 306,
+    "moduleName": "Eustachian Tube"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 307,
+    "moduleName": "Physiology of Hearing and Tuning Fork Tests"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 308,
+    "moduleName": "Audiometric Tests and Special Tests of Hearing"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 309,
+    "moduleName": "Anatomy of Nose"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 310,
+    "moduleName": "Anatomy of Paranasal Sinuses"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 311,
+    "moduleName": "Physiology of Nose and Paranasal Sinuses"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 312,
+    "moduleName": "Epistaxis"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 313,
+    "moduleName": "Congenital Anomalies of Nose and Disease of Nose"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 314,
+    "moduleName": "Rhinitis"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 315,
+    "moduleName": "Disorder of Nasal Septum and Nasal Polyposis"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 316,
+    "moduleName": "Trauma of Nose and Face"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 317,
+    "moduleName": "Tumors of Nose and PNS"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 318,
+    "moduleName": "Sinusitis and its Complication"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 319,
+    "moduleName": "Anatomy and Physiology of Pharynx"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 320,
+    "moduleName": "Adenoids"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 321,
+    "moduleName": "Tonsils"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 322,
+    "moduleName": "Nasopharyngeal Angiofibroma"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 323,
+    "moduleName": "Nasopharyngeal Carcinoma"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 324,
+    "moduleName": "Anatomy and Physiology of Larynx"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 325,
+    "moduleName": "Stridor and Congenital Conditions of Larynx"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 326,
+    "moduleName": "Voice and Speech Disorders"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 327,
+    "moduleName": "Laryngeal Carcinoma"
+  },
+  {
+    "subjectId": 1000116,
+    "subjectName": "ENT",
+    "moduleId": 328,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 329,
+    "moduleName": "Anatomy and Development of Eye"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 330,
+    "moduleName": "Elementary Optics and Physiology of Vision"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 331,
+    "moduleName": "Myopia and Hypermetropia"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 332,
+    "moduleName": "Astigmatism and Errors of Accomodation"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 333,
+    "moduleName": "Conjunctiva"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 334,
+    "moduleName": "Sclera"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 335,
+    "moduleName": "Basics of Cornea and Infectious Keratitis"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 336,
+    "moduleName": "Non-infectious Disorders of Cornea"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 337,
+    "moduleName": "Retinal Vascular Disorders and Retinal Detachment"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 338,
+    "moduleName": "Macular Disorders, Retinal Dystrophies, and Vitreal Disorders"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 339,
+    "moduleName": "Lens - Introduction, Types of Cataract and Clinical Features"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 340,
+    "moduleName": "Lens - Cataract Surgery, Complications and IOLs"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 341,
+    "moduleName": "Glaucoma"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 342,
+    "moduleName": "Uveitis - Anterior and Intermediate"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 343,
+    "moduleName": "Uveitis - Posterior and Panuveitis"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 344,
+    "moduleName": "Disorders of the Eyelid"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 345,
+    "moduleName": "Disorders of Lacrimal Apparatus and Glands of the Eye"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 346,
+    "moduleName": "Orbit Anatomy and Ocular Injuries"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 347,
+    "moduleName": "Diseases of the Orbit"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 348,
+    "moduleName": "Strabismus - Introduction, Symptomatology, and Evaluation"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 349,
+    "moduleName": "Strabismus - Types and Treatment"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 350,
+    "moduleName": "Disorders of Visual Pathway and Pupillary Reflexes"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 351,
+    "moduleName": "Disorders of Optic Nerve and Gaze Palsies"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 352,
+    "moduleName": "Tumors of Eye"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 353,
+    "moduleName": "Practical Ophthalmology"
+  },
+  {
+    "subjectId": 1000117,
+    "subjectName": "Ophthalmology",
+    "moduleId": 354,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 355,
+    "moduleName": "History of Medicine"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 356,
+    "moduleName": "Health Determinants and Indicators"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 357,
+    "moduleName": "Concepts of Disease and Prevention"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 358,
+    "moduleName": "Principles of Epidemiology"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 359,
+    "moduleName": "Analytical Epidemiology"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 360,
+    "moduleName": "Experimental Epidemiology"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 361,
+    "moduleName": "Basic Definitions in Infectious Disease Epidemiology"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 362,
+    "moduleName": "Dynamics of Disease Transmission"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 363,
+    "moduleName": "Principles of Immunization and Vaccination"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 364,
+    "moduleName": "Vaccine Production and Storage"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 365,
+    "moduleName": "Sterilization and Disinfection"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 366,
+    "moduleName": "Screening"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 367,
+    "moduleName": "Viral Respiratory Infections"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 368,
+    "moduleName": "Bacterial Respiratory Infections"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 369,
+    "moduleName": "Intestinal Infections"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 370,
+    "moduleName": "Arthropod-Borne Infections"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 371,
+    "moduleName": "Zoonotic Infections - Viral"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 372,
+    "moduleName": "Zoonotic Infections - Bacterial & Parasitic"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 373,
+    "moduleName": "STDs and Surface Infections"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 374,
+    "moduleName": "Non-Communicable Diseases - Cardiovascular Diseases and Diabetes"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 375,
+    "moduleName": "Non-Communicable Diseases - Cancer, Obesity and Blindness"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 376,
+    "moduleName": "National Health Programmes I - NVBDCP"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 377,
+    "moduleName": "National Health Programmes II - NLEP, NTEP & NACO"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 378,
+    "moduleName": "National Health Programmes III - NIS, JSY, RBSK and Others"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 379,
+    "moduleName": "Demography I: Demographic Cycle, Annual Growth Rate and Age Pyramid"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 380,
+    "moduleName": "Demography II: Demographic Indicators"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 381,
+    "moduleName": "Family Planning"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 382,
+    "moduleName": "Preventive Obstetrics, Paediatrics and Geriatrics"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 383,
+    "moduleName": "Micronutrients and Water"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 384,
+    "moduleName": "Food Quality and Processing"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 385,
+    "moduleName": "Concepts of Sociology and Psychology"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 386,
+    "moduleName": "Social Organization and Economics"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 387,
+    "moduleName": "Water - I: Sources and purification of water"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 388,
+    "moduleName": "Water- II: Disinfection of water"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 389,
+    "moduleName": "Water- III: Water Quality and Standards"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 390,
+    "moduleName": "Housing and Ventilation"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 391,
+    "moduleName": "Light, Sound and Radiation"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 392,
+    "moduleName": "Waste and Sewage Disposal"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 393,
+    "moduleName": "Medical Entomology - Mosquitoes and Flies"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 394,
+    "moduleName": "Medical Entomology - Ticks, Fleas and Mites"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 395,
+    "moduleName": "Methods of Pest Control"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 396,
+    "moduleName": "Biomedical Waste Management"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 397,
+    "moduleName": "Disaster Management"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 398,
+    "moduleName": "Occupational Health Diseases"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 399,
+    "moduleName": "Communication for Health Education"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 400,
+    "moduleName": "Health Planning and Management"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 401,
+    "moduleName": "Healthcare in India"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 402,
+    "moduleName": "International Health"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 403,
+    "moduleName": "Descriptive Statistics I - Probability and Data"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 404,
+    "moduleName": "Descriptive Statistics II - Measures of Location"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 405,
+    "moduleName": "Descriptive Statistics III - Measures of Dispersion"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 406,
+    "moduleName": "Correlational and Predictive Techniques"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 407,
+    "moduleName": "Tests of Significance"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 408,
+    "moduleName": "Facets of Clinical Research and Biostatistics"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 409,
+    "moduleName": "Mental Health"
+  },
+  {
+    "subjectId": 1000118,
+    "subjectName": "PSM",
+    "moduleId": 410,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 411,
+    "moduleName": "Clinical Hypotheses"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 412,
+    "moduleName": "Acid-Base Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 413,
+    "moduleName": "General Principles of Endocrinology"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 414,
+    "moduleName": "Disorders of Anterior Pituitary"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 415,
+    "moduleName": "Pituitary Tumors and Sheehan Syndrome"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 416,
+    "moduleName": "Posterior Pituitary - ADH, Diabetes Insipidus"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 417,
+    "moduleName": "Thyroid Disorders - Management"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 418,
+    "moduleName": "Thyroid Disorders - Clinical Features"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 419,
+    "moduleName": "Types of Assessment for Diagnosis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 420,
+    "moduleName": "Cushing Syndrome"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 421,
+    "moduleName": "Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 422,
+    "moduleName": "Diabetes Mellitus - Complications and Management"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 423,
+    "moduleName": "Reproductive Endocrinology"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 424,
+    "moduleName": "Disorders of Parathyroid and Calcium"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 425,
+    "moduleName": "Hyperbilirubinemia and Functions of Liver"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 426,
+    "moduleName": "Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 427,
+    "moduleName": "Autoimmune Liver Diseases"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 428,
+    "moduleName": "Acute Liver Failure and Complications of Cirrhosis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 429,
+    "moduleName": "Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 430,
+    "moduleName": "Portal Hypertension"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 431,
+    "moduleName": "Evaluation of Jaundice"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 432,
+    "moduleName": "Irritable Bowel Syndrome"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 433,
+    "moduleName": "Inflammatory Bowel Disease - Clinical Features and Diagnosis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 434,
+    "moduleName": "Inflammatory Bowel Disease - Complications and Treatment"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 435,
+    "moduleName": "Malabsorption Syndrome"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 436,
+    "moduleName": "Large and medium vessel vasculitis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 437,
+    "moduleName": "Small vessel vasculitis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 438,
+    "moduleName": "Sjogrens Syndrome and Scleroderma"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 439,
+    "moduleName": "Dermatomyositis and Related Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 440,
+    "moduleName": "Antiphospholipid Antibody Syndrome"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 441,
+    "moduleName": "Rheumatoid Arthritis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 442,
+    "moduleName": "Asthma & COPD"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 443,
+    "moduleName": "Pneumonia"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 444,
+    "moduleName": "Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 445,
+    "moduleName": "Bronchiectasis and Lung Abscess"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 446,
+    "moduleName": "Pulmonary Function Tests"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 447,
+    "moduleName": "Respiratory Failure and ARDS"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 448,
+    "moduleName": "Neoplasms of the Lung"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 449,
+    "moduleName": "Sleep Apnea"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 450,
+    "moduleName": "Acute Kidney Injury"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 451,
+    "moduleName": "Chronic Kidney Disease"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 452,
+    "moduleName": "Renal Replacement Therapy"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 453,
+    "moduleName": "Cysts and Inherited Disorders of the Kidney"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 454,
+    "moduleName": "Renal Tubular Diseases of Kidney"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 455,
+    "moduleName": "Diagnosis of cardiovascular disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 456,
+    "moduleName": "Supraventricular Arrhythmias"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 457,
+    "moduleName": "Ventricular Arrhythmias and Heart Blocks"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 458,
+    "moduleName": "Vascular Heart Diseases"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 459,
+    "moduleName": "Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 460,
+    "moduleName": "Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 461,
+    "moduleName": "Cardiomyopathy and Myocarditis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 462,
+    "moduleName": "Heart Failure"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 463,
+    "moduleName": "DVT and Pulmonary Embolism"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 464,
+    "moduleName": "Cerebral Neurology: Dementia, Death and Coma"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 465,
+    "moduleName": "Seizure and Epilepsy"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 466,
+    "moduleName": "Extrapyramidal Syndromes and Movement Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 467,
+    "moduleName": "Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 468,
+    "moduleName": "Guillain Barre Syndrome and Other Peripheral Neuropathies"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 469,
+    "moduleName": "Multiple Sclerosis and Other Demyelinating Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 470,
+    "moduleName": "Headache"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 471,
+    "moduleName": "Spinal Cord Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 472,
+    "moduleName": "Cranial Nerve Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 473,
+    "moduleName": "Cerebrovascular Disease"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 474,
+    "moduleName": "Meningitis Encephalitis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 475,
+    "moduleName": "Plasma Cell Disorders"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 476,
+    "moduleName": "Chronic Myeloid Leukemia and Lymphoid Leukemias"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 477,
+    "moduleName": "HIV / AIDS - Epidemiology and Diagnosis"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 478,
+    "moduleName": "HIV / AIDS - Investigations"
+  },
+  {
+    "subjectId": 1000119,
+    "subjectName": "Medicine",
+    "moduleId": 479,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 480,
+    "moduleName": "Fluids, Electrolytes & Nutrition"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 481,
+    "moduleName": "Shock and Blood Transfusion"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 482,
+    "moduleName": "Instruments & Sutures"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 483,
+    "moduleName": "Paediatric Surgery"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 484,
+    "moduleName": "Trauma - Scores, Investigations and Assessment"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 485,
+    "moduleName": "Trauma - Spinal, Thoracic and Abdominal Injuries"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 486,
+    "moduleName": "Breast - Anatomy, Congenital and Benign Diseases"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 487,
+    "moduleName": "Carcinoma Breast - Risk Factors and Types"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 488,
+    "moduleName": "Investigations in Breast diseases"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 489,
+    "moduleName": "Carcinoma Breast - Staging, Prognosis & Molecular Types"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 490,
+    "moduleName": "Carcinoma Breast - Treatment"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 491,
+    "moduleName": "Benign Lesions of Thyroid"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 492,
+    "moduleName": "Thyroid Malignancies"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 493,
+    "moduleName": "Esophagus - Congenital, Motility & Inflammatory Disorders"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 494,
+    "moduleName": "Esophagus - GERD & Carcinoma"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 495,
+    "moduleName": "Stomach and Duodenum"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 496,
+    "moduleName": "Carcinoma Stomach"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 497,
+    "moduleName": "Metabolic & Bariatric Surgery"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 498,
+    "moduleName": "Small Intestine"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 499,
+    "moduleName": "Large Intestine"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 500,
+    "moduleName": "Appendix"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 501,
+    "moduleName": "Polyps and Colorectal Carcinoma"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 502,
+    "moduleName": "Rectum"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 503,
+    "moduleName": "Anus and Anal Canal"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 504,
+    "moduleName": "Hernia"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 505,
+    "moduleName": "Benign Conditions of Liver"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 506,
+    "moduleName": "Benign Tumors of Liver"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 507,
+    "moduleName": "Malignant Tumors of Liver"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 508,
+    "moduleName": "Gall Bladder"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 509,
+    "moduleName": "Bile Duct"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 510,
+    "moduleName": "Spleen"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 511,
+    "moduleName": "Endocrine Pancreas"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 512,
+    "moduleName": "Congenital Anomalies and Acute Pancreatitis"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 513,
+    "moduleName": "Chronic Pancreatitis"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 514,
+    "moduleName": "Carcinoma Pancreas"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 515,
+    "moduleName": "Congenital Diseases of Kidney and Urinary Calculi"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 516,
+    "moduleName": "Infections and Tumors of Kidney"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 517,
+    "moduleName": "Urinary Bladder and Ureters"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 518,
+    "moduleName": "Prostate"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 519,
+    "moduleName": "Urethra and Penis"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 520,
+    "moduleName": "Testes and Scrotum"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 521,
+    "moduleName": "Head Injury"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 522,
+    "moduleName": "Oral Cavity & Salivary glands"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 523,
+    "moduleName": "Burns"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 524,
+    "moduleName": "Wound Healing, Tissue Repair and Scar"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 525,
+    "moduleName": "Reconstructive Surgery"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 526,
+    "moduleName": "Ischemic Arterial Diseases"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 527,
+    "moduleName": "Arterial Aneurysms, Dissections and Malformations"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 528,
+    "moduleName": "Venous Diseases"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 529,
+    "moduleName": "Skin Malignancies"
+  },
+  {
+    "subjectId": 1000120,
+    "subjectName": "Surgery",
+    "moduleId": 530,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 531,
+    "moduleName": "Anatomy of Female Pelvic Organs"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 532,
+    "moduleName": "The Physiology of Conception"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 533,
+    "moduleName": "Maternal Pelvis and Fetal Skull"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 534,
+    "moduleName": "Placenta and Fetal Membranes"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 535,
+    "moduleName": "Sexual Development, Puberty and Adolescence"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 536,
+    "moduleName": "Physiological Changes During Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 537,
+    "moduleName": "Diagnosis of Pregnancy and Antenatal Care"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 538,
+    "moduleName": "Antenatal Investigations"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 539,
+    "moduleName": "Obstetrical Imaging"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 540,
+    "moduleName": "Normal Labour"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 541,
+    "moduleName": "Abnormal Labour"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 542,
+    "moduleName": "Induction and Augmentation of Labour"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 543,
+    "moduleName": "Operative Vaginal Delivery"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 544,
+    "moduleName": "Caesarean Section and Vaginal Birth After Caesarean (VBAC)"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 545,
+    "moduleName": "Multifetal Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 546,
+    "moduleName": "Ectopic Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 547,
+    "moduleName": "Abortion and Medical Termination of Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 548,
+    "moduleName": "Antepartum Hemorrhage"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 549,
+    "moduleName": "Postpartum Haemorrhage"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 550,
+    "moduleName": "Preterm Labor and Postterm Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 551,
+    "moduleName": "Gestational Trophoblastic Diseases"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 552,
+    "moduleName": "Anemia in Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 553,
+    "moduleName": "Hypertensive Disorders in Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 554,
+    "moduleName": "Diabetes in Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 555,
+    "moduleName": "Cardiovascular Conditions in Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 556,
+    "moduleName": "Rhesus Isoimmunization"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 557,
+    "moduleName": "Hepatic Disorders and Infections in Pregnancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 558,
+    "moduleName": "Disorders of Menstruation"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 559,
+    "moduleName": "Prolapse"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 560,
+    "moduleName": "Fibroid"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 561,
+    "moduleName": "Endometriosis and Adenomyosis"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 562,
+    "moduleName": "Disorders of Ovary"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 563,
+    "moduleName": "Contraception and Sterilization"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 564,
+    "moduleName": "Vaginal Infections"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 565,
+    "moduleName": "Vulval Infections"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 566,
+    "moduleName": "Pelvic Inflammatory Disease"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 567,
+    "moduleName": "Genital Tuberculosis"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 568,
+    "moduleName": "Infertility"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 569,
+    "moduleName": "Perimenopause, Menopause and Post-Menopausal Bleeding"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 570,
+    "moduleName": "Ovarian Tumors"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 571,
+    "moduleName": "Vulval & Vaginal Malignancy"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 572,
+    "moduleName": "Carcinoma Cervix"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 573,
+    "moduleName": "Carcinoma Endometrium"
+  },
+  {
+    "subjectId": 1000155,
+    "subjectName": "OB & G",
+    "moduleId": 574,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 575,
+    "moduleName": "Basics of Neonatology and Routine Newborn Care"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 576,
+    "moduleName": "Diseases in Neonates requiring Special Care"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 577,
+    "moduleName": "Apgar score and Neonatal Resuscitation"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 578,
+    "moduleName": "Developmental Milestones"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 579,
+    "moduleName": "Facets of Growth and Development"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 580,
+    "moduleName": "Nutrition and Breastfeeding"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 581,
+    "moduleName": "Protein Energy Malnutrition"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 582,
+    "moduleName": "Deficiency of Fat Soluble Vitamins"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 583,
+    "moduleName": "Deficiency of Water-soluble Vitamins & Trace Elements"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 584,
+    "moduleName": "Fluid and Electrolyte Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 585,
+    "moduleName": "Chromosomal Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 586,
+    "moduleName": "Metabolic Disorders of Amino Acids"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 587,
+    "moduleName": "Metabolic Disorders of Urea Cycle, Complex Molecules, and Carbohydrates"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 588,
+    "moduleName": "Polio and AIDS"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 589,
+    "moduleName": "Paediatric Bacterial and Parasitic Infections"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 590,
+    "moduleName": "Measles, Mumps, Rubella and Other Viral Infections"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 591,
+    "moduleName": "Surgical GI Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 592,
+    "moduleName": "Medical GI Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 593,
+    "moduleName": "Disorders of the Liver"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 594,
+    "moduleName": "Neonatal Respiratory Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 595,
+    "moduleName": "Childhood Respiratory Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 596,
+    "moduleName": "Fetal Circulation"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 597,
+    "moduleName": "Acyanotic Congenital Heart Diseases"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 598,
+    "moduleName": "Cyanotic Congenital Heart Diseases"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 599,
+    "moduleName": "Paediatric Nephrology"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 600,
+    "moduleName": "Disorders of Thyroid"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 601,
+    "moduleName": "Congenital Adrenal Hyperplasia and Related Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 602,
+    "moduleName": "Disorders of the Pituitary Gland"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 603,
+    "moduleName": "Disorders of Puberty"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 604,
+    "moduleName": "Solid Neoplasms of Childhood"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 605,
+    "moduleName": "Paediatric Rheumatology"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 606,
+    "moduleName": "Paediatric Hematology - Introduction, Bleeding, and Clotting Disorders"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 607,
+    "moduleName": "Paediatric Anemias"
+  },
+  {
+    "subjectId": 1000122,
+    "subjectName": "Pediatrics",
+    "moduleId": 608,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 609,
+    "moduleName": "History and Ethical Aspects of Anaesthesia"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 610,
+    "moduleName": "Preoperative Evaluation"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 611,
+    "moduleName": "CNS and CVS Monitoring in Anaesthesia"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 612,
+    "moduleName": "Respiratory Monitoring in Anaesthesia"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 613,
+    "moduleName": "Airway Devices"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 614,
+    "moduleName": "Intubation"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 615,
+    "moduleName": "Breathing Systems"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 616,
+    "moduleName": "Anaesthesia Workstation"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 617,
+    "moduleName": "ACLS"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 618,
+    "moduleName": "Ventilation and O2 Delivery Systems"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 619,
+    "moduleName": "Depolarising Muscle Relaxants"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 620,
+    "moduleName": "Inhaled Anaesthetics - Properties, N2O and Halothane"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 621,
+    "moduleName": "Inhaled Anaesthetics - Fluorinated Agents, Inert Agents and Therapeutic Gases"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 622,
+    "moduleName": "Intravenous Anaesthesia - Barbiturates, Benzodiazepines & Propofol"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 623,
+    "moduleName": "Intravenous Anaesthesia - Etomidate, Ketamine and Daycare Surgery"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 624,
+    "moduleName": "Local Anaesthetics - General Properties"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 625,
+    "moduleName": "Local Anaesthetics - Specific Drugs"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 626,
+    "moduleName": "Regional Anaesthesia: Techniques"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 627,
+    "moduleName": "Regional Anaesthesia: Complications and Contraindications"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 628,
+    "moduleName": "Peripheral Nerve Blocks"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 629,
+    "moduleName": "Anaesthetic Implication of Concurrent Diseases"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 630,
+    "moduleName": "Paediatric and Obstetric Anaesthesia"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 631,
+    "moduleName": "Complications of Anaesthesia"
+  },
+  {
+    "subjectId": 1000190,
+    "subjectName": "Anaesthesia",
+    "moduleId": 632,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 633,
+    "moduleName": "Anatomy & Physiology of Skin"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 634,
+    "moduleName": "Dermatopathology of Skin Lesions"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 635,
+    "moduleName": "Morphology and Investigations of Skin Lesions"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 636,
+    "moduleName": "Acne, Rosacea and Others"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 637,
+    "moduleName": "Disorders of Hair and Nails"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 638,
+    "moduleName": "Disorders of Skin Pigmentation"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 639,
+    "moduleName": "Dermatitis"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 640,
+    "moduleName": "Urticaria & Angioedema"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 641,
+    "moduleName": "Reactive Skin Diseases and Drug Eruptions"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 642,
+    "moduleName": "Papulosquamous Disorders"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 643,
+    "moduleName": "Psoriasis"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 644,
+    "moduleName": "Vesiculobullous Diseases"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 645,
+    "moduleName": "Mycobacterial Infections"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 646,
+    "moduleName": "Bacterial Infections"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 647,
+    "moduleName": "Viral Infections"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 648,
+    "moduleName": "Fungal and Protozoal Infections"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 649,
+    "moduleName": "Arthropod and Parasitic Infections"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 650,
+    "moduleName": "Syphilis"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 651,
+    "moduleName": "Non Syphilitic Sexually Transmitted Diseases"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 652,
+    "moduleName": "Genodermatoses & Nutritional Disorders"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 653,
+    "moduleName": "Connective Tissue Disorders"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 654,
+    "moduleName": "Skin Malignancies"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 655,
+    "moduleName": "Systemic Diseases and Skin"
+  },
+  {
+    "subjectId": 1000124,
+    "subjectName": "Dermatology",
+    "moduleId": 656,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 657,
+    "moduleName": "Basics of Fracture and its Management"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 658,
+    "moduleName": "Complications of Fracture"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 659,
+    "moduleName": "Regional Conditions of Neck"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 660,
+    "moduleName": "Injuries of Clavicle, Shoulder and Arm"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 661,
+    "moduleName": "Injuries of Elbow and Forearm"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 662,
+    "moduleName": "Injuries of Hand"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 663,
+    "moduleName": "Regional Conditions of the Upper Limb"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 664,
+    "moduleName": "Dislocations of the Hip Joint"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 665,
+    "moduleName": "Fractures of Femur"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 666,
+    "moduleName": "Injuries of Knee, Leg and Foot"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 667,
+    "moduleName": "AVN and Regional Conditions of Lower Limb"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 668,
+    "moduleName": "Injuries of Spine"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 669,
+    "moduleName": "Regional Conditions of Spine"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 670,
+    "moduleName": "Spondylolisthesis & IVDP"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 671,
+    "moduleName": "Injuries of Pelvis"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 672,
+    "moduleName": "Infections of the Bone"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 673,
+    "moduleName": "Skeletal Tuberculosis"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 674,
+    "moduleName": "Fractures in Children"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 675,
+    "moduleName": "CTEV, Genu Varum and Valgum"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 676,
+    "moduleName": "Congenital Malformations, Perthes Disease and SCFE"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 677,
+    "moduleName": "Metabolic Bone Diseases in Children"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 678,
+    "moduleName": "Osteoporosis and Osteomalacia"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 679,
+    "moduleName": "Paget's Disease and Hyperparathyroidism"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 680,
+    "moduleName": "Rheumatoid Arthritis and Osteoarthritis"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 681,
+    "moduleName": "Nerve Injuries"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 682,
+    "moduleName": "Benign Tumors Of Bone"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 683,
+    "moduleName": "Malignant Tumors of Bone"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 684,
+    "moduleName": "Trauma Amputations, Prosthetics and Joint Replacement Surgery"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 685,
+    "moduleName": "Sports Injury"
+  },
+  {
+    "subjectId": 1000141,
+    "subjectName": "Orthopaedics",
+    "moduleId": 686,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 687,
+    "moduleName": "Theories of Personality & Defense Mechanisms"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 688,
+    "moduleName": "Symptoms and Clinical Manifestations in Psychiatry"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 689,
+    "moduleName": "Assessment in Psychiatry"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 690,
+    "moduleName": "Specific Treatment Modalities"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 691,
+    "moduleName": "Neuropsychiatric Aspects of Systemic Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 692,
+    "moduleName": "Schizophrenia"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 693,
+    "moduleName": "Other Psychotic Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 694,
+    "moduleName": "Delirium"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 695,
+    "moduleName": "Dementia"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 696,
+    "moduleName": "Amnestic Disorders and Other Neurocognitive Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 697,
+    "moduleName": "Depressive Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 698,
+    "moduleName": "Bipolar and Related Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 699,
+    "moduleName": "Alcohol-Related Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 700,
+    "moduleName": "Other Substance Use Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 701,
+    "moduleName": "Anxiety Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 702,
+    "moduleName": "Obsessive-Compulsive and Related Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 703,
+    "moduleName": "Trauma and Stress-Related Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 704,
+    "moduleName": "Personality Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 705,
+    "moduleName": "Somatoform Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 706,
+    "moduleName": "Factitious Disorders, Malingering and Criminality"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 707,
+    "moduleName": "Dissociative Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 708,
+    "moduleName": "Sleep Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 709,
+    "moduleName": "Eating Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 710,
+    "moduleName": "Impulse-Control Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 711,
+    "moduleName": "Psychiatric Emergencies"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 712,
+    "moduleName": "Normal Sexuality and Sexual Dysfunction"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 713,
+    "moduleName": "Sexual Disorders and Sexual Abuse"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 714,
+    "moduleName": "Intellectual Disability & Specific Learning Disorders"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 715,
+    "moduleName": "Autism Spectrum Disorder"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 716,
+    "moduleName": "Attention-Deficit Disorders and Disruptive Behaviour"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 717,
+    "moduleName": "Special Areas of Childhood Mental Health"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 718,
+    "moduleName": "Forensic Psychiatry"
+  },
+  {
+    "subjectId": 1000161,
+    "subjectName": "Psychiatry",
+    "moduleId": 719,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 720,
+    "moduleName": "Fundamentals of Imaging"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 721,
+    "moduleName": "Radiation - Exposure and Protection"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 722,
+    "moduleName": "Contrast Media and Patient Preparation"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 723,
+    "moduleName": "Imaging Modalities - Identification"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 724,
+    "moduleName": "Basics of Chest Imaging"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 725,
+    "moduleName": "Chest Imaging - Lung Diseases"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 726,
+    "moduleName": "Chest Imaging - Pleural and Mediastinal Conditions"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 727,
+    "moduleName": "Neuroimaging - Neurovascular Disorders, Trauma & CT Brain"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 728,
+    "moduleName": "Neuroimaging - CNS Tumors, Infections & Neurocutaneous Syndromes"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 729,
+    "moduleName": "Neuroimaging - MRI Brain in Neurodegenerative & Other CNS Disorders"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 730,
+    "moduleName": "Head and Neck Imaging"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 731,
+    "moduleName": "GI Imaging - Upper GI Disorders & Pneumoperitoneum"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 732,
+    "moduleName": "GI Imaging - Lower GI Disorders"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 733,
+    "moduleName": "Hepatobiliary and Pancreatic Imaging"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 734,
+    "moduleName": "Renal Imaging"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 735,
+    "moduleName": "Women's Imaging"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 736,
+    "moduleName": "Musculoskeletal Imaging"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 737,
+    "moduleName": "Radiotherapy"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 738,
+    "moduleName": "Emergency and Interventional Radiology"
+  },
+  {
+    "subjectId": 1000127,
+    "subjectName": "Radiology",
+    "moduleId": 739,
+    "moduleName": "Mixed / Miscellaneous Topics"
+  }
+]

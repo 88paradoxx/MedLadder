@@ -1,0 +1,1046 @@
+[
+  {
+    "id": 9744,
+    "fromModule": 433,
+    "toModule": 541,
+    "reason": "Tests maternal folate deficiency and anemia in pregnancy, belongs in Obstetrics: Medical Conditions Complicating Pregnancy."
+  },
+  {
+    "id": 16204,
+    "fromModule": 411,
+    "toModule": 218,
+    "reason": "Tests clinical manifestations of herpes simplex virus (HSV-1), belongs in Microbiology: DNA Viruses - Herpesviruses."
+  },
+  {
+    "id": 16206,
+    "fromModule": 433,
+    "toModule": 262,
+    "reason": "Tests nitrate-induced methemoglobinemia toxicology, belongs in Forensic Medicine: Toxicology."
+  },
+  {
+    "id": 16207,
+    "fromModule": 411,
+    "toModule": 413,
+    "reason": "Tests seasonal allergic rhinitis / rhinoconjunctivitis and environmental aeroallergens, belongs in Medicine: Allergic Disorders."
+  },
+  {
+    "id": 16218,
+    "fromModule": 411,
+    "toModule": 610,
+    "reason": "Tests rotator cuff tendonitis (supraspinatus pathology), belongs in Orthopedics: Shoulder & Arm."
+  },
+  {
+    "id": 16221,
+    "fromModule": 411,
+    "toModule": 436,
+    "reason": "Tests hepatitis E viral infection epidemiology and fulminant mortality in pregnancy, belongs in Medicine: Acute Viral Hepatitis."
+  },
+  {
+    "id": 16226,
+    "fromModule": 411,
+    "toModule": 472,
+    "reason": "Tests myelophthisic anemia pathophysiology and marrow infiltration, belongs in Medicine: Aplastic & Myelophthisic Anemias."
+  },
+  {
+    "id": 16227,
+    "fromModule": 411,
+    "toModule": 471,
+    "reason": "Tests iron indices and transferrin saturation calculation, belongs in Medicine: Iron Deficiency Anemia."
+  },
+  {
+    "id": 16228,
+    "fromModule": 411,
+    "toModule": 479,
+    "reason": "Tests cancer risk factors and oncologic epidemiology, belongs in Medicine: Principles of Oncology."
+  },
+  {
+    "id": 16229,
+    "fromModule": 411,
+    "toModule": 479,
+    "reason": "Tests cancer risk factors and oncologic epidemiology, belongs in Medicine: Principles of Oncology."
+  },
+  {
+    "id": 16230,
+    "fromModule": 411,
+    "toModule": 104,
+    "reason": "Tests ABO blood group genetics and chromosomal localization (9q34), belongs in Physiology: Blood & Immunity."
+  },
+  {
+    "id": 16232,
+    "fromModule": 411,
+    "toModule": 471,
+    "reason": "Tests microcytic erythrocytosis differentials (thalassemia vs polycythemia vera), belongs in Medicine: Iron Deficiency & Microcytic Anemias."
+  },
+  {
+    "id": 16233,
+    "fromModule": 433,
+    "toModule": 475,
+    "reason": "Tests severe hemophilia A factor VIII threshold classification (<1%), belongs in Medicine: Bleeding Disorders."
+  },
+  {
+    "id": 16235,
+    "fromModule": 411,
+    "toModule": 428,
+    "reason": "Tests ileocecal tuberculosis and small bowel pathology, belongs in Medicine: Malabsorption & Small Bowel Diseases."
+  },
+  {
+    "id": 16237,
+    "fromModule": 411,
+    "toModule": 477,
+    "reason": "Tests localized lymphadenopathy patterns in adults, belongs in Medicine: Lymphadenopathy & Splenomegaly."
+  },
+  {
+    "id": 16240,
+    "fromModule": 411,
+    "toModule": 642,
+    "reason": "Tests genital warts (condylomata acuminata) anatomical distribution, belongs in Dermatology: Viral Infections & STDs."
+  },
+  {
+    "id": 16243,
+    "fromModule": 411,
+    "toModule": 221,
+    "reason": "Tests mucormycosis fungal etiology (Rhizopus), belongs in Microbiology: Mycology."
+  },
+  {
+    "id": 16252,
+    "fromModule": 411,
+    "toModule": 642,
+    "reason": "Tests most common sexually transmitted viral pathogen (HPV), belongs in Dermatology: Viral Infections & STDs."
+  },
+  {
+    "id": 16253,
+    "fromModule": 411,
+    "toModule": 642,
+    "reason": "Tests nongonococcal urethritis etiology (Chlamydia trachomatis), belongs in Dermatology: Viral Infections & STDs."
+  },
+  {
+    "id": 16254,
+    "fromModule": 411,
+    "toModule": 213,
+    "reason": "Tests traveler's diarrhea bacteriology (ETEC), belongs in Microbiology: Gram-Negative Bacilli - Enterobacteriaceae."
+  },
+  {
+    "id": 16260,
+    "fromModule": 411,
+    "toModule": 521,
+    "reason": "Tests abnormal uterine bleeding and endocrine evaluation in perimenopause, belongs in Gynecology: Abnormal Uterine Bleeding."
+  },
+  {
+    "id": 16266,
+    "fromModule": 411,
+    "toModule": 461,
+    "reason": "Tests rheumatoid arthritis hematologic abnormalities (anemia of chronic disease), belongs in Medicine: Rheumatoid Arthritis."
+  },
+  {
+    "id": 16267,
+    "fromModule": 411,
+    "toModule": 512,
+    "reason": "Tests post-procedural urinary tract instrumentation infection, belongs in Surgery: Urology - Genitourinary Infections."
+  },
+  {
+    "id": 16269,
+    "fromModule": 411,
+    "toModule": 453,
+    "reason": "Tests etiology of complicated urinary tract infection, belongs in Medicine: Urinary Tract Infections."
+  },
+  {
+    "id": 16279,
+    "fromModule": 411,
+    "toModule": 475,
+    "reason": "Tests drug-induced immune thrombocytopenia (vancomycin-induced), belongs in Medicine: Bleeding Disorders & Thrombocytopenia."
+  },
+  {
+    "id": 16386,
+    "fromModule": 432,
+    "toModule": 449,
+    "reason": "Tests Goodpasture syndrome / pulmonary-renal syndrome basement membrane staining, belongs in Medicine: Glomerular Diseases."
+  },
+  {
+    "id": 16533,
+    "fromModule": 432,
+    "toModule": 211,
+    "reason": "Tests food poisoning toxins (Staphylococcus aureus enterotoxin), belongs in Microbiology: Gram-Positive Cocci."
+  },
+  {
+    "id": 16537,
+    "fromModule": 432,
+    "toModule": 466,
+    "reason": "Tests Lambert-Eaton myasthenic syndrome paraneoplastic association with small cell lung cancer, belongs in Medicine: Neuromuscular Junction Disorders."
+  },
+  {
+    "id": 16538,
+    "fromModule": 432,
+    "toModule": 648,
+    "reason": "Tests LEOPARD syndrome multisystem neuro-cardio-facial-cutaneous features, belongs in Pediatrics / Dermatology: Genodermatoses."
+  },
+  {
+    "id": 16545,
+    "fromModule": 433,
+    "toModule": 423,
+    "reason": "Tests carcinoid tumor, elevated urinary 5-HIAA, and carcinoid syndrome, belongs in Medicine: Neuroendocrine Tumors."
+  },
+  {
+    "id": 16548,
+    "fromModule": 432,
+    "toModule": 463,
+    "reason": "Tests parietal lobe lesions producing homonymous inferior quadrantanopia, belongs in Medicine: Cerebrovascular Disorders / Stroke Localization."
+  },
+  {
+    "id": 16559,
+    "fromModule": 432,
+    "toModule": 463,
+    "reason": "Tests lateral medullary syndrome / Wallenberg syndrome caused by vertebral / PICA occlusion, belongs in Medicine: Cerebrovascular Disease."
+  },
+  {
+    "id": 16595,
+    "fromModule": 433,
+    "toModule": 442,
+    "reason": "Tests tuberculous lymphadenitis (scrofula) clinical presentation, belongs in Medicine: Tuberculosis."
+  },
+  {
+    "id": 16597,
+    "fromModule": 433,
+    "toModule": 460,
+    "reason": "Tests ankylosing spondylitis presenting with inflammatory low back pain and sacroiliitis, belongs in Medicine: Spondyloarthropathies."
+  },
+  {
+    "id": 16787,
+    "fromModule": 432,
+    "toModule": 450,
+    "reason": "Tests urinary sodium excretion interpretation in volume depletion and ketonuria, belongs in Medicine: Fluid & Electrolyte Disorders."
+  },
+  {
+    "id": 16790,
+    "fromModule": 434,
+    "toModule": 418,
+    "reason": "Tests ADA treatment goals and management targets for Type 2 Diabetes, belongs in Medicine: Management of Diabetes."
+  },
+  {
+    "id": 16792,
+    "fromModule": 432,
+    "toModule": 463,
+    "reason": "Tests quadrantic hemianopia visual pathway cortical and subcortical localization, belongs in Medicine: Neurologic Localization & Stroke."
+  },
+  {
+    "id": 16816,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests oral hypoglycemic agents safe in renal failure (linagliptin, repaglinide), belongs in Medicine: Management of Diabetes."
+  },
+  {
+    "id": 16844,
+    "fromModule": 432,
+    "toModule": 565,
+    "reason": "Tests Turner syndrome clinical screening and workup, belongs in Pediatrics: Genetics & Chromosomal Disorders."
+  },
+  {
+    "id": 16896,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests DASH diet guidelines in hypertension non-pharmacologic management, belongs in Medicine: Hypertension."
+  },
+  {
+    "id": 16959,
+    "fromModule": 433,
+    "toModule": 574,
+    "reason": "Tests Gaucher disease glucocerebrosidase deficiency and lipid storage manifestations, belongs in Pediatrics: Inborn Errors of Metabolism."
+  },
+  {
+    "id": 16972,
+    "fromModule": 433,
+    "toModule": 440,
+    "reason": "Tests IVC filter indications and contraindications in venous thromboembolism, belongs in Medicine: Venous Thromboembolism & Pulmonary Embolism."
+  },
+  {
+    "id": 16978,
+    "fromModule": 433,
+    "toModule": 214,
+    "reason": "Tests Haemophilus influenzae bacteriology and invasive capsular strains, belongs in Microbiology: Gram-Negative Bacilli."
+  },
+  {
+    "id": 16979,
+    "fromModule": 433,
+    "toModule": 213,
+    "reason": "Tests Yersinia enterocolitica vs Yersinia pestis microbiology, belongs in Microbiology: Gram-Negative Bacilli - Enterobacteriaceae."
+  },
+  {
+    "id": 16980,
+    "fromModule": 433,
+    "toModule": 367,
+    "reason": "Tests international public health disease surveillance (polio), belongs in Community Medicine: Epidemiology & Disease Surveillance."
+  },
+  {
+    "id": 16990,
+    "fromModule": 433,
+    "toModule": 415,
+    "reason": "Tests Wolff-Chaikoff effect autoregulatory inhibition of thyroid hormone synthesis by iodine, belongs in Medicine: Thyroid Disorders."
+  },
+  {
+    "id": 17000,
+    "fromModule": 433,
+    "toModule": 473,
+    "reason": "Tests sickle cell anemia vaso-occlusive crisis with dactylitis and acute chest pain, belongs in Medicine: Hemolytic Anemias."
+  },
+  {
+    "id": 17001,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests pulmonary alveolar proteinosis etiology (autoimmune anti-GM-CSF), belongs in Medicine: Interstitial Lung Diseases."
+  },
+  {
+    "id": 17003,
+    "fromModule": 433,
+    "toModule": 471,
+    "reason": "Tests sideroblastic anemia microcytic features with normal/high ferritin, belongs in Medicine: Iron Deficiency & Microcytic Anemias."
+  },
+  {
+    "id": 17013,
+    "fromModule": 433,
+    "toModule": 439,
+    "reason": "Tests alpha-1 antitrypsin deficiency PiZZ genotype and COPD/emphysema association, belongs in Medicine: COPD."
+  },
+  {
+    "id": 17015,
+    "fromModule": 411,
+    "toModule": 642,
+    "reason": "Tests Neisseria gonorrhoeae acute urethritis in males, belongs in Dermatology: Viral Infections & STDs."
+  },
+  {
+    "id": 17017,
+    "fromModule": 411,
+    "toModule": 562,
+    "reason": "Tests neonatal hepatitis B management with Hep B vaccine and immunoglobulin, belongs in Pediatrics: Neonatal Care & Infections."
+  },
+  {
+    "id": 17020,
+    "fromModule": 433,
+    "toModule": 219,
+    "reason": "Tests Norovirus viral gastroenteritis outbreaks in adults, belongs in Microbiology: RNA Viruses."
+  },
+  {
+    "id": 17072,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests familial hypercholesterolemia, tendon xanthomas, and elevated LDL, belongs in Medicine: Dyslipidemias."
+  },
+  {
+    "id": 17075,
+    "fromModule": 433,
+    "toModule": 437,
+    "reason": "Tests hepatitis C cirrhosis and hepatocellular carcinoma oncogenesis, belongs in Medicine: Chronic Hepatitis & Cirrhosis."
+  },
+  {
+    "id": 17125,
+    "fromModule": 432,
+    "toModule": 437,
+    "reason": "Tests Zieve's syndrome (alcohol-induced fatty liver, hemolytic anemia, and jaundice), belongs in Medicine: Alcoholic Liver Disease & Cirrhosis."
+  },
+  {
+    "id": 17129,
+    "fromModule": 433,
+    "toModule": 475,
+    "reason": "Tests thrombotic microangiopathy in POEMS syndrome / plasma cell dyscrasias, belongs in Medicine: Bleeding & Thrombotic Disorders."
+  },
+  {
+    "id": 17165,
+    "fromModule": 432,
+    "toModule": 475,
+    "reason": "Tests hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu) inheritance and iron deficiency anemia, belongs in Medicine: Bleeding Disorders."
+  },
+  {
+    "id": 17180,
+    "fromModule": 433,
+    "toModule": 462,
+    "reason": "Tests Behcet disease with recurrent oral and genital aphthous ulcers, belongs in Medicine: Systemic Vasculitides."
+  },
+  {
+    "id": 17186,
+    "fromModule": 433,
+    "toModule": 431,
+    "reason": "Tests diagnostic evaluation of persistent lower GI diarrhea and colonoscopy, belongs in Medicine: Colorectal Diseases."
+  },
+  {
+    "id": 17189,
+    "fromModule": 433,
+    "toModule": 431,
+    "reason": "Tests melanosis coli and laxative abuse causing alternating bowel habits, belongs in Medicine: Colorectal Diseases."
+  },
+  {
+    "id": 17200,
+    "fromModule": 433,
+    "toModule": 428,
+    "reason": "Tests ileocecal tuberculosis presentation mimicking Crohn's disease, belongs in Medicine: Malabsorption & Small Bowel Diseases."
+  },
+  {
+    "id": 17202,
+    "fromModule": 434,
+    "toModule": 460,
+    "reason": "Tests IL-17/IL-23 immunopathogenesis in psoriatic arthritis, belongs in Medicine: Spondyloarthropathies."
+  },
+  {
+    "id": 17207,
+    "fromModule": 411,
+    "toModule": 459,
+    "reason": "Tests drug-induced lupus erythematosus caused by procainamide, belongs in Medicine: Systemic Lupus Erythematosus."
+  },
+  {
+    "id": 17212,
+    "fromModule": 434,
+    "toModule": 428,
+    "reason": "Tests acute infectious diarrhea and empiric fluoroquinolone antimicrobial therapy, belongs in Medicine: Malabsorption & Diarrhea."
+  },
+  {
+    "id": 17213,
+    "fromModule": 434,
+    "toModule": 453,
+    "reason": "Tests first-line antimicrobial therapy for acute uncomplicated cystitis, belongs in Medicine: Urinary Tract Infections."
+  },
+  {
+    "id": 17215,
+    "fromModule": 434,
+    "toModule": 631,
+    "reason": "Tests management of congenital dacryocystitis (Crigler massage), belongs in Ophthalmology: Lacrimal System & Orbit."
+  },
+  {
+    "id": 17224,
+    "fromModule": 434,
+    "toModule": 541,
+    "reason": "Tests urinary tract infection and asymptomatic bacteriuria treatment in pregnancy, belongs in Obstetrics: Medical Conditions Complicating Pregnancy."
+  },
+  {
+    "id": 17230,
+    "fromModule": 434,
+    "toModule": 442,
+    "reason": "Tests anti-tubercular therapy (BPaL, AKT multidrug regimens, isoniazid resistance management), belongs in Medicine: Tuberculosis."
+  },
+  {
+    "id": 17231,
+    "fromModule": 434,
+    "toModule": 442,
+    "reason": "Tests anti-tubercular therapy (BPaL, AKT multidrug regimens, isoniazid resistance management), belongs in Medicine: Tuberculosis."
+  },
+  {
+    "id": 17232,
+    "fromModule": 434,
+    "toModule": 541,
+    "reason": "Tests toxoplasmosis management in pregnancy with spiramycin, belongs in Obstetrics: Medical Conditions Complicating Pregnancy."
+  },
+  {
+    "id": 17233,
+    "fromModule": 434,
+    "toModule": 541,
+    "reason": "Tests urinary tract infection and asymptomatic bacteriuria treatment in pregnancy, belongs in Obstetrics: Medical Conditions Complicating Pregnancy."
+  },
+  {
+    "id": 17234,
+    "fromModule": 434,
+    "toModule": 541,
+    "reason": "Tests urinary tract infection and asymptomatic bacteriuria treatment in pregnancy, belongs in Obstetrics: Medical Conditions Complicating Pregnancy."
+  },
+  {
+    "id": 17237,
+    "fromModule": 433,
+    "toModule": 438,
+    "reason": "Tests Legionella pneumophila pneumonia treatment with azithromycin, belongs in Medicine: Pneumonia."
+  },
+  {
+    "id": 17246,
+    "fromModule": 434,
+    "toModule": 444,
+    "reason": "Tests management of orthostatic hypotension and blood pressure dysregulation, belongs in Medicine: Hypertension & Hemodynamics."
+  },
+  {
+    "id": 17257,
+    "fromModule": 434,
+    "toModule": 426,
+    "reason": "Tests Helicobacter pylori eradication triple therapy and urea breath test confirmation, belongs in Medicine: Peptic Ulcer Disease."
+  },
+  {
+    "id": 17258,
+    "fromModule": 432,
+    "toModule": 471,
+    "reason": "Tests treatment of sideroblastic anemia with pyridoxine (vitamin B6), belongs in Medicine: Iron Deficiency & Microcytic Anemias."
+  },
+  {
+    "id": 17259,
+    "fromModule": 434,
+    "toModule": 442,
+    "reason": "Tests anti-tubercular therapy (BPaL, AKT multidrug regimens, isoniazid resistance management), belongs in Medicine: Tuberculosis."
+  },
+  {
+    "id": 17260,
+    "fromModule": 434,
+    "toModule": 442,
+    "reason": "Tests anti-tubercular therapy (BPaL, AKT multidrug regimens, isoniazid resistance management), belongs in Medicine: Tuberculosis."
+  },
+  {
+    "id": 17261,
+    "fromModule": 434,
+    "toModule": 442,
+    "reason": "Tests anti-tubercular therapy (BPaL, AKT multidrug regimens, isoniazid resistance management), belongs in Medicine: Tuberculosis."
+  },
+  {
+    "id": 17262,
+    "fromModule": 434,
+    "toModule": 442,
+    "reason": "Tests anti-tubercular therapy (BPaL, AKT multidrug regimens, isoniazid resistance management), belongs in Medicine: Tuberculosis."
+  },
+  {
+    "id": 17263,
+    "fromModule": 434,
+    "toModule": 426,
+    "reason": "Tests Helicobacter pylori eradication triple therapy and urea breath test confirmation, belongs in Medicine: Peptic Ulcer Disease."
+  },
+  {
+    "id": 17269,
+    "fromModule": 434,
+    "toModule": 461,
+    "reason": "Tests rheumatoid arthritis treatment targets, DMARDs contraindications in pregnancy, and TNF inhibitors, belongs in Medicine: Rheumatoid Arthritis."
+  },
+  {
+    "id": 17271,
+    "fromModule": 434,
+    "toModule": 461,
+    "reason": "Tests rheumatoid arthritis treatment targets, DMARDs contraindications in pregnancy, and TNF inhibitors, belongs in Medicine: Rheumatoid Arthritis."
+  },
+  {
+    "id": 17272,
+    "fromModule": 434,
+    "toModule": 461,
+    "reason": "Tests rheumatoid arthritis treatment targets, DMARDs contraindications in pregnancy, and TNF inhibitors, belongs in Medicine: Rheumatoid Arthritis."
+  },
+  {
+    "id": 17280,
+    "fromModule": 434,
+    "toModule": 541,
+    "reason": "Tests urinary tract infection and asymptomatic bacteriuria treatment in pregnancy, belongs in Obstetrics: Medical Conditions Complicating Pregnancy."
+  },
+  {
+    "id": 17283,
+    "fromModule": 434,
+    "toModule": 446,
+    "reason": "Tests digoxin pharmacokinetics and dosing in heart failure, belongs in Medicine: Heart Failure."
+  },
+  {
+    "id": 17284,
+    "fromModule": 434,
+    "toModule": 437,
+    "reason": "Tests Wilson's disease maintenance therapy with zinc / copper chelation, belongs in Medicine: Cirrhosis & Metabolic Liver Diseases."
+  },
+  {
+    "id": 17285,
+    "fromModule": 432,
+    "toModule": 465,
+    "reason": "Tests restless leg syndrome treatment with dopamine agonists (pramipexole), belongs in Medicine: Movement Disorders."
+  },
+  {
+    "id": 17288,
+    "fromModule": 434,
+    "toModule": 476,
+    "reason": "Tests acute myeloid leukemia induction 7+3 chemotherapy (cytarabine + daunorubicin), belongs in Medicine: Acute Leukemias & Myeloproliferative Disorders."
+  },
+  {
+    "id": 17289,
+    "fromModule": 434,
+    "toModule": 425,
+    "reason": "Tests Candida esophagitis in immunocompromised host treated with fluconazole, belongs in Medicine: Esophageal Disorders."
+  },
+  {
+    "id": 17296,
+    "fromModule": 434,
+    "toModule": 507,
+    "reason": "Tests acute management of elevated intracranial pressure / traumatic brain injury with mannitol, belongs in Surgery: Neurosurgery - Head Injury."
+  },
+  {
+    "id": 17307,
+    "fromModule": 434,
+    "toModule": 471,
+    "reason": "Tests koilonychia in iron deficiency anemia and malabsorption, belongs in Medicine: Iron Deficiency Anemia."
+  },
+  {
+    "id": 17318,
+    "fromModule": 433,
+    "toModule": 428,
+    "reason": "Tests small bowel biopsy diagnostic utility in celiac disease / malabsorption, belongs in Medicine: Malabsorption & Small Bowel Diseases."
+  },
+  {
+    "id": 17320,
+    "fromModule": 433,
+    "toModule": 428,
+    "reason": "Tests tropical sprue clinical presentation and treatment with antibiotics + folate, belongs in Medicine: Malabsorption & Small Bowel Diseases."
+  },
+  {
+    "id": 17323,
+    "fromModule": 433,
+    "toModule": 425,
+    "reason": "Tests progressive dysphagia and initial diagnostic evaluation with upper GI endoscopy, belongs in Medicine: Esophageal Disorders."
+  },
+  {
+    "id": 17341,
+    "fromModule": 433,
+    "toModule": 460,
+    "reason": "Tests disseminated gonococcal arthritis / septic monoarthritis, belongs in Medicine: Infectious & Reactive Arthritides."
+  },
+  {
+    "id": 17343,
+    "fromModule": 432,
+    "toModule": 448,
+    "reason": "Tests patent ductus arteriosus, differential cyanosis, and Eisenmenger physiology, belongs in Medicine: Congenital Heart Diseases in Adults."
+  },
+  {
+    "id": 17349,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests Monckeberg medial calcific sclerosis vascular pathology, belongs in Medicine: Vascular Diseases & Arteriosclerosis."
+  },
+  {
+    "id": 17361,
+    "fromModule": 432,
+    "toModule": 448,
+    "reason": "Tests patent ductus arteriosus, differential cyanosis, and Eisenmenger physiology, belongs in Medicine: Congenital Heart Diseases in Adults."
+  },
+  {
+    "id": 17380,
+    "fromModule": 433,
+    "toModule": 642,
+    "reason": "Tests molluscum contagiosum poxvirus skin eruption, belongs in Dermatology: Viral Infections."
+  },
+  {
+    "id": 17381,
+    "fromModule": 433,
+    "toModule": 577,
+    "reason": "Tests Duchenne muscular dystrophy dystrophin deficiency, belongs in Pediatrics: Pediatric Neurology & Muscle Disorders."
+  },
+  {
+    "id": 17382,
+    "fromModule": 433,
+    "toModule": 647,
+    "reason": "Tests acrodermatitis enteropathica and zinc deficiency dermatitis, belongs in Dermatology: Nutritional Dermatoses."
+  },
+  {
+    "id": 17394,
+    "fromModule": 432,
+    "toModule": 463,
+    "reason": "Tests pinpoint pupils in pontine hemorrhage, belongs in Medicine: Stroke & Cerebrovascular Disorders."
+  },
+  {
+    "id": 17417,
+    "fromModule": 432,
+    "toModule": 614,
+    "reason": "Tests greenstick fracture pathophysiology in pediatric bone, belongs in Orthopedics: Pediatric Orthopedics & Fractures."
+  },
+  {
+    "id": 17461,
+    "fromModule": 433,
+    "toModule": 448,
+    "reason": "Tests congenital heart disease classifications (Ebstein anomaly, TGA, PDA), belongs in Medicine: Congenital Heart Diseases in Adults."
+  },
+  {
+    "id": 17482,
+    "fromModule": 433,
+    "toModule": 462,
+    "reason": "Tests granulomatosis with polyangiitis (PR3 / c-ANCA vasculitis), belongs in Medicine: Systemic Vasculitides."
+  },
+  {
+    "id": 17507,
+    "fromModule": 433,
+    "toModule": 460,
+    "reason": "Tests ankylosing spondylitis and syndesmophyte patterns in sacroiliitis, belongs in Medicine: Spondyloarthropathies."
+  },
+  {
+    "id": 17521,
+    "fromModule": 433,
+    "toModule": 462,
+    "reason": "Tests autoinflammatory syndromes and Blau's syndrome genetics, belongs in Medicine: Connective Tissue Disorders."
+  },
+  {
+    "id": 17547,
+    "fromModule": 433,
+    "toModule": 460,
+    "reason": "Tests ankylosing spondylitis and syndesmophyte patterns in sacroiliitis, belongs in Medicine: Spondyloarthropathies."
+  },
+  {
+    "id": 17569,
+    "fromModule": 433,
+    "toModule": 460,
+    "reason": "Tests psoriatic arthropathy joint patterns and dactylitis, belongs in Medicine: Spondyloarthropathies."
+  },
+  {
+    "id": 17609,
+    "fromModule": 432,
+    "toModule": 476,
+    "reason": "Tests Gaisbock syndrome (stress polycythemia / pseudopolycythemia), belongs in Medicine: Myeloproliferative Disorders."
+  },
+  {
+    "id": 17621,
+    "fromModule": 433,
+    "toModule": 439,
+    "reason": "Tests COPD pharmacological therapy and inhaled corticosteroid prognostic impact, belongs in Medicine: COPD."
+  },
+  {
+    "id": 17641,
+    "fromModule": 433,
+    "toModule": 368,
+    "reason": "Tests pneumococcal polysaccharide vaccination (PPSV23) guidelines and indications, belongs in Community Medicine: Immunization."
+  },
+  {
+    "id": 17674,
+    "fromModule": 433,
+    "toModule": 431,
+    "reason": "Tests acute diverticulitis / toxic megacolon evaluation with plain abdominal radiography, belongs in Medicine: Colorectal Diseases."
+  },
+  {
+    "id": 17751,
+    "fromModule": 433,
+    "toModule": 438,
+    "reason": "Tests lobar pneumonia with consolidation and air bronchograms, belongs in Medicine: Pneumonia."
+  },
+  {
+    "id": 17782,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests Caplan syndrome (silicosis / coal worker's pneumoconiosis with rheumatoid arthritis), belongs in Medicine: Environmental & Interstitial Lung Diseases."
+  },
+  {
+    "id": 17787,
+    "fromModule": 433,
+    "toModule": 218,
+    "reason": "Tests Epstein-Barr virus infectious mononucleosis, belongs in Microbiology: DNA Viruses - Herpesviruses."
+  },
+  {
+    "id": 17809,
+    "fromModule": 433,
+    "toModule": 262,
+    "reason": "Tests lead poisoning biomarkers (urinary coproporphyrin), belongs in Forensic Medicine: Toxicology."
+  },
+  {
+    "id": 17855,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests lumbar puncture indications, contraindications, and technique, belongs in Medicine: Neurologic Diagnostic Tests."
+  },
+  {
+    "id": 17857,
+    "fromModule": 432,
+    "toModule": 453,
+    "reason": "Tests uncomplicated cystitis presentation and UTI syndromes, belongs in Medicine: Urinary Tract Infections."
+  },
+  {
+    "id": 17859,
+    "fromModule": 433,
+    "toModule": 473,
+    "reason": "Tests hemoglobinopathy autosomal codominant genetics, belongs in Medicine: Hemolytic & Inherited Anemias."
+  },
+  {
+    "id": 17863,
+    "fromModule": 432,
+    "toModule": 475,
+    "reason": "Tests thrombotic thrombocytopenic purpura (TTP) classic pentad, belongs in Medicine: Bleeding & Thrombotic Disorders."
+  },
+  {
+    "id": 17883,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests restrictive ventilatory defect pulmonary function testing, belongs in Medicine: Interstitial & Neuromuscular Lung Disease."
+  },
+  {
+    "id": 17892,
+    "fromModule": 433,
+    "toModule": 212,
+    "reason": "Tests Neisseria meningitidis clinical manifestations, nasopharyngeal carriage, and purpura fulminans, belongs in Microbiology: Gram-Negative Cocci."
+  },
+  {
+    "id": 17996,
+    "fromModule": 433,
+    "toModule": 451,
+    "reason": "Tests fractional excretion of sodium (FeNa < 1%) in prerenal azotemia and acute kidney injury, belongs in Medicine: Acute Kidney Injury."
+  },
+  {
+    "id": 18022,
+    "fromModule": 433,
+    "toModule": 449,
+    "reason": "Tests obesity-associated focal segmental glomerulosclerosis (FSGS), belongs in Medicine: Glomerular Diseases."
+  },
+  {
+    "id": 18048,
+    "fromModule": 433,
+    "toModule": 471,
+    "reason": "Tests iron indices in iron deficiency anemia (transferrin saturation decreased), belongs in Medicine: Iron Deficiency Anemia."
+  },
+  {
+    "id": 18085,
+    "fromModule": 434,
+    "toModule": 642,
+    "reason": "Tests secondary syphilis clinical manifestations (epitrochlear lymphadenopathy, palmoplantar rash) and penicillin management in pregnancy, belongs in Dermatology: STDs."
+  },
+  {
+    "id": 18153,
+    "fromModule": 432,
+    "toModule": 448,
+    "reason": "Tests Marfan syndrome fibrillin-1 (FBN1) mutation and cardiovascular manifestations, belongs in Medicine: Congenital & Genetic Heart Diseases."
+  },
+  {
+    "id": 18178,
+    "fromModule": 434,
+    "toModule": 443,
+    "reason": "Tests athlete's heart physiologic ECG variations (increased QRS amplitude, sinus bradycardia), belongs in Medicine: Diagnostic Methods in Cardiology."
+  },
+  {
+    "id": 18208,
+    "fromModule": 433,
+    "toModule": 445,
+    "reason": "Tests wide complex tachycardia ECG differentiation (ventricular tachycardia), belongs in Medicine: Arrhythmias & Conduction Disorders."
+  },
+  {
+    "id": 18213,
+    "fromModule": 432,
+    "toModule": 450,
+    "reason": "Tests electrolyte disturbances (hypocalcemia) triggering palpitations and QT prolongation, belongs in Medicine: Fluid & Electrolyte Disorders."
+  },
+  {
+    "id": 18241,
+    "fromModule": 432,
+    "toModule": 443,
+    "reason": "Tests athlete's heart physiologic ECG variations (increased QRS amplitude, sinus bradycardia), belongs in Medicine: Diagnostic Methods in Cardiology."
+  },
+  {
+    "id": 18258,
+    "fromModule": 433,
+    "toModule": 445,
+    "reason": "Tests Stokes-Adams attacks and high-grade AV block, belongs in Medicine: Arrhythmias & Conduction Disorders."
+  },
+  {
+    "id": 18260,
+    "fromModule": 433,
+    "toModule": 448,
+    "reason": "Tests congenital heart disease classifications (Ebstein anomaly, TGA, PDA), belongs in Medicine: Congenital Heart Diseases in Adults."
+  },
+  {
+    "id": 18271,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests acute aortic dissection in Marfan syndrome presenting with severe tearing chest/back pain, belongs in Medicine: Vascular Diseases."
+  },
+  {
+    "id": 18362,
+    "fromModule": 433,
+    "toModule": 448,
+    "reason": "Tests congenital heart disease classifications (Ebstein anomaly, TGA, PDA), belongs in Medicine: Congenital Heart Diseases in Adults."
+  },
+  {
+    "id": 18395,
+    "fromModule": 433,
+    "toModule": 447,
+    "reason": "Tests Uhl's disease (parchment right ventricle) arrhythmogenic cardiomyopathy, belongs in Medicine: Cardiomyopathies & Myocarditis."
+  },
+  {
+    "id": 18486,
+    "fromModule": 432,
+    "toModule": 463,
+    "reason": "Tests lateral medullary syndrome sensory dissociation from PICA thrombosis, belongs in Medicine: Stroke & Cerebrovascular Disorders."
+  },
+  {
+    "id": 18488,
+    "fromModule": 432,
+    "toModule": 447,
+    "reason": "Tests atrial myxoma cardiac auscultation and tumor 'plop', belongs in Medicine: Pericardial & Tumors of the Heart."
+  },
+  {
+    "id": 18498,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests obstructive sleep apnea nocturnal symptoms, daytime somnolence, and cardiovascular complications, belongs in Medicine: Sleep Apnea & Chronic Respiratory Failure."
+  },
+  {
+    "id": 18499,
+    "fromModule": 433,
+    "toModule": 465,
+    "reason": "Tests motor neurone disease (ALS) diagnostic criteria and atypical features (optic atrophy rules out ALS), belongs in Medicine: Motor Neuron & Movement Disorders."
+  },
+  {
+    "id": 18509,
+    "fromModule": 433,
+    "toModule": 215,
+    "reason": "Tests Entamoeba histolytica parasitic morbidity and mortality, belongs in Microbiology: Protozoology - Amoebae."
+  },
+  {
+    "id": 18531,
+    "fromModule": 432,
+    "toModule": 577,
+    "reason": "Tests cannabinoid oil indications in refractory pediatric epilepsies (Dravet, Lennox-Gastaut vs Rett), belongs in Pediatrics: Pediatric Neurology."
+  },
+  {
+    "id": 18535,
+    "fromModule": 433,
+    "toModule": 212,
+    "reason": "Tests Neisseria meningitidis clinical manifestations, nasopharyngeal carriage, and purpura fulminans, belongs in Microbiology: Gram-Negative Cocci."
+  },
+  {
+    "id": 18536,
+    "fromModule": 434,
+    "toModule": 440,
+    "reason": "Tests inhaled nitric oxide in persistent pulmonary hypertension, belongs in Medicine: Pulmonary Hypertension."
+  },
+  {
+    "id": 18554,
+    "fromModule": 433,
+    "toModule": 445,
+    "reason": "Tests vasovagal syncope neurocardiogenic syncope evaluation, belongs in Medicine: Syncope & Arrhythmias."
+  },
+  {
+    "id": 18559,
+    "fromModule": 432,
+    "toModule": 448,
+    "reason": "Tests patent ductus arteriosus, differential cyanosis, and Eisenmenger physiology, belongs in Medicine: Congenital Heart Diseases in Adults."
+  },
+  {
+    "id": 18560,
+    "fromModule": 432,
+    "toModule": 450,
+    "reason": "Tests osmotic demyelination syndrome / central pontine myelinolysis from rapid hyponatremia overcorrection, belongs in Medicine: Fluid & Electrolyte Disorders."
+  },
+  {
+    "id": 18570,
+    "fromModule": 432,
+    "toModule": 577,
+    "reason": "Tests periventricular leukomalacia and spastic diplegia/quadriplegia in cerebral palsy, belongs in Pediatrics: Pediatric Neurology."
+  },
+  {
+    "id": 18572,
+    "fromModule": 411,
+    "toModule": 450,
+    "reason": "Tests osmotic demyelination syndrome / central pontine myelinolysis from rapid hyponatremia overcorrection, belongs in Medicine: Fluid & Electrolyte Disorders."
+  },
+  {
+    "id": 18574,
+    "fromModule": 432,
+    "toModule": 476,
+    "reason": "Tests myelodysplastic syndromes bone marrow dry tap and cytogenetics, belongs in Medicine: Myeloproliferative & Myelodysplastic Disorders."
+  },
+  {
+    "id": 18604,
+    "fromModule": 433,
+    "toModule": 464,
+    "reason": "Tests progressive cerebellar ataxia, scanning speech, and coordination deficits, belongs in Medicine: Ataxic Disorders & Cerebellar Disease."
+  },
+  {
+    "id": 18605,
+    "fromModule": 433,
+    "toModule": 464,
+    "reason": "Tests progressive cerebellar ataxia, scanning speech, and coordination deficits, belongs in Medicine: Ataxic Disorders & Cerebellar Disease."
+  },
+  {
+    "id": 18635,
+    "fromModule": 433,
+    "toModule": 452,
+    "reason": "Tests antihypertensive therapy and diuretic efficacy in end-stage renal disease, belongs in Medicine: Chronic Kidney Disease & Renal Replacement."
+  },
+  {
+    "id": 18669,
+    "fromModule": 434,
+    "toModule": 468,
+    "reason": "Tests neuromyelitis optica spectrum disorder (NMOSD) relapse prevention with eculizumab, belongs in Medicine: Multiple Sclerosis & Demyelinating Diseases."
+  },
+  {
+    "id": 18671,
+    "fromModule": 433,
+    "toModule": 462,
+    "reason": "Tests Behcet disease pathergy test and vasculitic features, belongs in Medicine: Systemic Vasculitides."
+  },
+  {
+    "id": 18722,
+    "fromModule": 433,
+    "toModule": 642,
+    "reason": "Tests secondary syphilis clinical manifestations (epitrochlear lymphadenopathy, palmoplantar rash) and penicillin management in pregnancy, belongs in Dermatology: STDs."
+  },
+  {
+    "id": 18796,
+    "fromModule": 432,
+    "toModule": 463,
+    "reason": "Tests Weber syndrome midbrain stroke localization (ventral midbrain fascicle of CN III + corticospinal tract), belongs in Medicine: Stroke & Brainstem Syndromes."
+  },
+  {
+    "id": 18854,
+    "fromModule": 433,
+    "toModule": 160,
+    "reason": "Tests clopidogrel ADP receptor (P2Y12) antagonist pharmacology, belongs in Pharmacology: Drugs Acting on Blood & Hemostasis."
+  },
+  {
+    "id": 18873,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests contraindications to fibrinolytic therapy in acute myocardial infarction, belongs in Medicine: Coronary Artery Disease & Acute Coronary Syndromes."
+  },
+  {
+    "id": 18878,
+    "fromModule": 411,
+    "toModule": 507,
+    "reason": "Tests chronic subdural hematoma in elderly following minor trauma, belongs in Surgery: Neurosurgery - Head Injury."
+  },
+  {
+    "id": 18882,
+    "fromModule": 433,
+    "toModule": 212,
+    "reason": "Tests Neisseria meningitidis clinical manifestations, nasopharyngeal carriage, and purpura fulminans, belongs in Microbiology: Gram-Negative Cocci."
+  },
+  {
+    "id": 18911,
+    "fromModule": 433,
+    "toModule": 475,
+    "reason": "Tests factor VII deficiency isolated prothrombin time (PT/INR) prolongation, belongs in Medicine: Bleeding Disorders."
+  },
+  {
+    "id": 18940,
+    "fromModule": 434,
+    "toModule": 450,
+    "reason": "Tests urine-to-plasma electrolyte ratios in evaluation and water restriction for hyponatremia, belongs in Medicine: Fluid & Electrolyte Disorders."
+  },
+  {
+    "id": 18950,
+    "fromModule": 434,
+    "toModule": 473,
+    "reason": "Tests elective splenectomy indications in hereditary spherocytosis, belongs in Medicine: Hemolytic Anemias."
+  },
+  {
+    "id": 18987,
+    "fromModule": 434,
+    "toModule": 476,
+    "reason": "Tests L-asparaginase chemotherapy indication in acute lymphoblastic leukemia (ALL), belongs in Medicine: Acute Leukemias."
+  },
+  {
+    "id": 18995,
+    "fromModule": 433,
+    "toModule": 476,
+    "reason": "Tests mantle cell lymphoma t(11;14) translocation and cyclin D1 overexpression, belongs in Medicine: Lymphomas & Leukemias."
+  },
+  {
+    "id": 18999,
+    "fromModule": 432,
+    "toModule": 476,
+    "reason": "Tests myelodysplastic syndromes bone marrow dry tap and cytogenetics, belongs in Medicine: Myeloproliferative & Myelodysplastic Disorders."
+  },
+  {
+    "id": 19024,
+    "fromModule": 433,
+    "toModule": 214,
+    "reason": "Tests cat scratch disease etiology (Bartonella henselae), belongs in Microbiology: Fastidious Gram-Negative Bacilli."
+  },
+  {
+    "id": 19049,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests evaluation of focal impaired awareness seizures with electroencephalography (EEG), belongs in Medicine: Seizures & Epilepsy."
+  },
+  {
+    "id": 19054,
+    "fromModule": 433,
+    "toModule": 219,
+    "reason": "Tests SARS-CoV-2 virology (enveloped positive ssRNA) and public health measures, belongs in Microbiology: RNA Viruses - Coronaviruses."
+  },
+  {
+    "id": 19055,
+    "fromModule": 433,
+    "toModule": 219,
+    "reason": "Tests SARS-CoV-2 virology (enveloped positive ssRNA) and public health measures, belongs in Microbiology: RNA Viruses - Coronaviruses."
+  }
+]

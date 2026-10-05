@@ -1,0 +1,2438 @@
+[
+  {
+    "id": 9909,
+    "fromModule": 272,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 9918,
+    "fromModule": 272,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 9919,
+    "fromModule": 272,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 9930,
+    "fromModule": 272,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 9931,
+    "fromModule": 272,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 9936,
+    "fromModule": 272,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 9938,
+    "fromModule": 272,
+    "toModule": 217,
+    "reason": "Flame cells (solenocytes) are the excretory structures of cestodes/trematodes (Microbiology: Helminthology)."
+  },
+  {
+    "id": 9939,
+    "fromModule": 272,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 9940,
+    "fromModule": 272,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 9941,
+    "fromModule": 272,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 9942,
+    "fromModule": 272,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 9962,
+    "fromModule": 272,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 9965,
+    "fromModule": 272,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10156,
+    "fromModule": 272,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10240,
+    "fromModule": 272,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10480,
+    "fromModule": 272,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10778,
+    "fromModule": 272,
+    "toModule": 289,
+    "reason": "Question evaluates ethyl alcohol, methyl alcohol, or ethylene glycol toxicity, clinical syndromes, and legal limits, which belongs to Alcohol Poisoning (Module 289)."
+  },
+  {
+    "id": 9948,
+    "fromModule": 273,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 1921,
+    "fromModule": 274,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 9983,
+    "fromModule": 274,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 9986,
+    "fromModule": 274,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 9988,
+    "fromModule": 275,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10008,
+    "fromModule": 275,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10014,
+    "fromModule": 275,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10017,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10018,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10036,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10070,
+    "fromModule": 275,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10076,
+    "fromModule": 275,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10078,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10082,
+    "fromModule": 275,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 10083,
+    "fromModule": 275,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10087,
+    "fromModule": 275,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10090,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10105,
+    "fromModule": 275,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10106,
+    "fromModule": 275,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10111,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10116,
+    "fromModule": 275,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10309,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10311,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10313,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10330,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10331,
+    "fromModule": 275,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10619,
+    "fromModule": 275,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10055,
+    "fromModule": 276,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10066,
+    "fromModule": 276,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10067,
+    "fromModule": 276,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10157,
+    "fromModule": 276,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10172,
+    "fromModule": 276,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10203,
+    "fromModule": 276,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10211,
+    "fromModule": 276,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10213,
+    "fromModule": 276,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10219,
+    "fromModule": 276,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10221,
+    "fromModule": 276,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10222,
+    "fromModule": 276,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10229,
+    "fromModule": 276,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10232,
+    "fromModule": 276,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10233,
+    "fromModule": 276,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10246,
+    "fromModule": 276,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10249,
+    "fromModule": 276,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10257,
+    "fromModule": 276,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10260,
+    "fromModule": 276,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10263,
+    "fromModule": 276,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10270,
+    "fromModule": 276,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10278,
+    "fromModule": 276,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10279,
+    "fromModule": 276,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10282,
+    "fromModule": 276,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10283,
+    "fromModule": 276,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10285,
+    "fromModule": 276,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10295,
+    "fromModule": 276,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10298,
+    "fromModule": 276,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 10322,
+    "fromModule": 276,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10323,
+    "fromModule": 276,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10374,
+    "fromModule": 276,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10376,
+    "fromModule": 276,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10379,
+    "fromModule": 276,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10447,
+    "fromModule": 276,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10553,
+    "fromModule": 276,
+    "toModule": 282,
+    "reason": "Question evaluates mechanisms, post-mortem findings, or types of mechanical asphyxia (hanging, strangulation, choking/cafe coronary, positional asphyxia), belonging to Mechanical Asphyxia (Module 282)."
+  },
+  {
+    "id": 10695,
+    "fromModule": 276,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 11016,
+    "fromModule": 276,
+    "toModule": 289,
+    "reason": "Question evaluates ethyl alcohol, methyl alcohol, or ethylene glycol toxicity, clinical syndromes, and legal limits, which belongs to Alcohol Poisoning (Module 289)."
+  },
+  {
+    "id": 11034,
+    "fromModule": 276,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11048,
+    "fromModule": 276,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 2342,
+    "fromModule": 277,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 2451,
+    "fromModule": 277,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 9980,
+    "fromModule": 277,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10080,
+    "fromModule": 277,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10179,
+    "fromModule": 277,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10206,
+    "fromModule": 277,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10224,
+    "fromModule": 277,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10228,
+    "fromModule": 277,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10276,
+    "fromModule": 277,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10305,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10306,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10317,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10318,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10319,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10320,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10321,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10324,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10327,
+    "fromModule": 277,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10328,
+    "fromModule": 277,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10329,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10332,
+    "fromModule": 277,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10337,
+    "fromModule": 277,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10340,
+    "fromModule": 277,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10342,
+    "fromModule": 277,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10343,
+    "fromModule": 277,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10345,
+    "fromModule": 277,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10348,
+    "fromModule": 277,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10351,
+    "fromModule": 277,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10353,
+    "fromModule": 277,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10354,
+    "fromModule": 277,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10358,
+    "fromModule": 277,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10359,
+    "fromModule": 277,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10363,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10364,
+    "fromModule": 277,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10366,
+    "fromModule": 277,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10369,
+    "fromModule": 277,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10370,
+    "fromModule": 277,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10448,
+    "fromModule": 277,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10464,
+    "fromModule": 277,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10470,
+    "fromModule": 277,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10497,
+    "fromModule": 277,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10507,
+    "fromModule": 277,
+    "toModule": 282,
+    "reason": "Question evaluates mechanisms, post-mortem findings, or types of mechanical asphyxia (hanging, strangulation, choking/cafe coronary, positional asphyxia), belonging to Mechanical Asphyxia (Module 282)."
+  },
+  {
+    "id": 10581,
+    "fromModule": 277,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10709,
+    "fromModule": 277,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10957,
+    "fromModule": 277,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10966,
+    "fromModule": 277,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 11018,
+    "fromModule": 277,
+    "toModule": 282,
+    "reason": "Question evaluates mechanisms, post-mortem findings, or types of mechanical asphyxia (hanging, strangulation, choking/cafe coronary, positional asphyxia), belonging to Mechanical Asphyxia (Module 282)."
+  },
+  {
+    "id": 11041,
+    "fromModule": 277,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 11091,
+    "fromModule": 277,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10408,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10409,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10427,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10428,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10430,
+    "fromModule": 278,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10434,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10478,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10486,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10724,
+    "fromModule": 278,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10965,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10967,
+    "fromModule": 278,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10442,
+    "fromModule": 279,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10449,
+    "fromModule": 279,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10208,
+    "fromModule": 280,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10286,
+    "fromModule": 280,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10451,
+    "fromModule": 280,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10456,
+    "fromModule": 280,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10457,
+    "fromModule": 280,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10460,
+    "fromModule": 280,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10461,
+    "fromModule": 280,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10028,
+    "fromModule": 281,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10029,
+    "fromModule": 281,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10212,
+    "fromModule": 281,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10382,
+    "fromModule": 281,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10387,
+    "fromModule": 281,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10391,
+    "fromModule": 281,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10401,
+    "fromModule": 281,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10403,
+    "fromModule": 281,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10404,
+    "fromModule": 281,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10405,
+    "fromModule": 281,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10435,
+    "fromModule": 281,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10450,
+    "fromModule": 281,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10465,
+    "fromModule": 281,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10479,
+    "fromModule": 281,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10492,
+    "fromModule": 281,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10494,
+    "fromModule": 281,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10500,
+    "fromModule": 281,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10532,
+    "fromModule": 281,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10544,
+    "fromModule": 281,
+    "toModule": 282,
+    "reason": "Question evaluates mechanisms, post-mortem findings, or types of mechanical asphyxia (hanging, strangulation, choking/cafe coronary, positional asphyxia), belonging to Mechanical Asphyxia (Module 282)."
+  },
+  {
+    "id": 10624,
+    "fromModule": 281,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10625,
+    "fromModule": 281,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10626,
+    "fromModule": 281,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10628,
+    "fromModule": 281,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10696,
+    "fromModule": 281,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10502,
+    "fromModule": 282,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10513,
+    "fromModule": 282,
+    "toModule": 277,
+    "reason": "Question evaluates medico-legal autopsy evisceration techniques or viscera preservation protocols, belonging to Medico Legal Autopsy (Module 277)."
+  },
+  {
+    "id": 10514,
+    "fromModule": 282,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10515,
+    "fromModule": 282,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10517,
+    "fromModule": 282,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10521,
+    "fromModule": 282,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10536,
+    "fromModule": 282,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10555,
+    "fromModule": 282,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10557,
+    "fromModule": 282,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10559,
+    "fromModule": 282,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10560,
+    "fromModule": 282,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10561,
+    "fromModule": 282,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10562,
+    "fromModule": 282,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10568,
+    "fromModule": 282,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10571,
+    "fromModule": 282,
+    "toModule": 215,
+    "reason": "Hanging drop examination for Trichomonas vaginalis motility is a clinical parasitology technique (Microbiology)."
+  },
+  {
+    "id": 10677,
+    "fromModule": 282,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10682,
+    "fromModule": 282,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 11097,
+    "fromModule": 282,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10226,
+    "fromModule": 283,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10273,
+    "fromModule": 283,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10275,
+    "fromModule": 283,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10529,
+    "fromModule": 283,
+    "toModule": 282,
+    "reason": "Question evaluates mechanisms, post-mortem findings, or types of mechanical asphyxia (hanging, strangulation, choking/cafe coronary, positional asphyxia), belonging to Mechanical Asphyxia (Module 282)."
+  },
+  {
+    "id": 10572,
+    "fromModule": 283,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10574,
+    "fromModule": 283,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10575,
+    "fromModule": 283,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10576,
+    "fromModule": 283,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10579,
+    "fromModule": 283,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10587,
+    "fromModule": 283,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10590,
+    "fromModule": 283,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10591,
+    "fromModule": 283,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10592,
+    "fromModule": 283,
+    "toModule": 285,
+    "reason": "Question evaluates infanticide live-birth tests (hydrostatic/Breslau/Ploucquet), battered baby syndrome, or starvation, which belongs to Childhood Violence, Infanticide and Starvation (Module 285)."
+  },
+  {
+    "id": 10593,
+    "fromModule": 283,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10603,
+    "fromModule": 283,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10611,
+    "fromModule": 284,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10645,
+    "fromModule": 284,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10667,
+    "fromModule": 284,
+    "toModule": 258,
+    "reason": "Mechanism of alprostadil (PGE1) in erectile dysfunction belongs to Pharmacology (Drugs for ED)."
+  },
+  {
+    "id": 10668,
+    "fromModule": 284,
+    "toModule": 259,
+    "reason": "Dinoprost (PGF2alpha) uterotonic abortifacient pharmacology belongs to Pharmacology (Drugs Acting on Uterus)."
+  },
+  {
+    "id": 10671,
+    "fromModule": 284,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10673,
+    "fromModule": 284,
+    "toModule": 218,
+    "reason": "Trichuris trichiura egg morphology belongs to Helminthology (Microbiology)."
+  },
+  {
+    "id": 10678,
+    "fromModule": 284,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11020,
+    "fromModule": 284,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10697,
+    "fromModule": 285,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 10698,
+    "fromModule": 285,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10712,
+    "fromModule": 285,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10227,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10277,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10287,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10291,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10299,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10716,
+    "fromModule": 286,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10718,
+    "fromModule": 286,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10721,
+    "fromModule": 286,
+    "toModule": 279,
+    "reason": "Question evaluates regional trauma (skull fractures, intracranial hemorrhages, diffuse axonal injury, spine/visceral injuries), which belongs to Regional Injuries (Module 279)."
+  },
+  {
+    "id": 10727,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10730,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10733,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10735,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10741,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10742,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10746,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10748,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10749,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10751,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10755,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10756,
+    "fromModule": 286,
+    "toModule": 282,
+    "reason": "Question evaluates mechanisms, post-mortem findings, or types of mechanical asphyxia (hanging, strangulation, choking/cafe coronary, positional asphyxia), belonging to Mechanical Asphyxia (Module 282)."
+  },
+  {
+    "id": 10757,
+    "fromModule": 286,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10758,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10760,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10767,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10769,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10770,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10771,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10772,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10773,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10774,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 10775,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10777,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10780,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10781,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10783,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10784,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 10785,
+    "fromModule": 286,
+    "toModule": 289,
+    "reason": "Question evaluates ethyl alcohol, methyl alcohol, or ethylene glycol toxicity, clinical syndromes, and legal limits, which belongs to Alcohol Poisoning (Module 289)."
+  },
+  {
+    "id": 10786,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10787,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10790,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10792,
+    "fromModule": 286,
+    "toModule": 289,
+    "reason": "Question evaluates ethyl alcohol, methyl alcohol, or ethylene glycol toxicity, clinical syndromes, and legal limits, which belongs to Alcohol Poisoning (Module 289)."
+  },
+  {
+    "id": 10793,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10794,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10796,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10797,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10801,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10802,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10803,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10804,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10805,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10806,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10807,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10808,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10810,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10812,
+    "fromModule": 286,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10817,
+    "fromModule": 286,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 10820,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10821,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10822,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10825,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10826,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10828,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10829,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10833,
+    "fromModule": 286,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10834,
+    "fromModule": 286,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10835,
+    "fromModule": 286,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  },
+  {
+    "id": 10839,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10842,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10843,
+    "fromModule": 286,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10844,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10847,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10848,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10849,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10855,
+    "fromModule": 286,
+    "toModule": 283,
+    "reason": "Question evaluates pathophysiological or post-mortem diagnostic signs of drowning (diatoms, Gettler test, emphysema aquosum, Paltauf hemorrhages), belonging to Drowning (Module 283)."
+  },
+  {
+    "id": 10857,
+    "fromModule": 286,
+    "toModule": 273,
+    "reason": "Question evaluates sex determination, racial skeletal characteristics, or stature estimation from bones, belonging to Race, Sex and Stature Determination (Module 273)."
+  },
+  {
+    "id": 10862,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10863,
+    "fromModule": 286,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10864,
+    "fromModule": 286,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10865,
+    "fromModule": 286,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10878,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10879,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10880,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10881,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10892,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10894,
+    "fromModule": 286,
+    "toModule": 292,
+    "reason": "Question evaluates forensic psychiatry (legal insanity defense, testamentary capacity) or specialized forensic techniques/torture methods, belonging to Mixed / Miscellaneous Topics (Module 292)."
+  },
+  {
+    "id": 10895,
+    "fromModule": 286,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10897,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10898,
+    "fromModule": 286,
+    "toModule": 275,
+    "reason": "Question evaluates Indian legal procedure, court witnesses, inquests, medical negligence, consent, or medical jurisprudence acts, belonging to BNS, BNSS, and BSA (Module 275)."
+  },
+  {
+    "id": 10899,
+    "fromModule": 286,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10900,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10903,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10904,
+    "fromModule": 286,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10906,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10908,
+    "fromModule": 286,
+    "toModule": 280,
+    "reason": "Question evaluates thermal trauma, burns assessment, heat/cold syndromes, or electrical/lightning injury, which belongs to Thermal Injuries (Module 280)."
+  },
+  {
+    "id": 10909,
+    "fromModule": 286,
+    "toModule": 289,
+    "reason": "Question evaluates ethyl alcohol, methyl alcohol, or ethylene glycol toxicity, clinical syndromes, and legal limits, which belongs to Alcohol Poisoning (Module 289)."
+  },
+  {
+    "id": 10912,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10913,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10914,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10915,
+    "fromModule": 286,
+    "toModule": 175,
+    "reason": "Oxidized LDL in atherogenesis belongs to Vascular Pathology / Atherosclerosis."
+  },
+  {
+    "id": 10916,
+    "fromModule": 286,
+    "toModule": 132,
+    "reason": "Lines of Zahn in arterial thrombi belong to General Pathology (Hemodynamics and Thrombosis)."
+  },
+  {
+    "id": 10917,
+    "fromModule": 286,
+    "toModule": 129,
+    "reason": "Döhle bodies and selectin cell-adhesion molecules belong to General Pathology (Acute Inflammation)."
+  },
+  {
+    "id": 10918,
+    "fromModule": 286,
+    "toModule": 129,
+    "reason": "Döhle bodies and selectin cell-adhesion molecules belong to General Pathology (Acute Inflammation)."
+  },
+  {
+    "id": 10919,
+    "fromModule": 286,
+    "toModule": 131,
+    "reason": "Integrin-mediated cell-matrix adhesion belongs to General Pathology (Tissue Repair)."
+  },
+  {
+    "id": 10920,
+    "fromModule": 286,
+    "toModule": 186,
+    "reason": "Glomus tumor of the subungual region belongs to Soft Tissue Tumors (Pathology)."
+  },
+  {
+    "id": 10921,
+    "fromModule": 286,
+    "toModule": 265,
+    "reason": "Synergy of long-acting beta-2 agonists with inhaled corticosteroids in asthma belongs to Respiratory Pharmacology."
+  },
+  {
+    "id": 10922,
+    "fromModule": 286,
+    "toModule": 260,
+    "reason": "Prostaglandin E2 physiological and pharmacological actions belong to Autacoid Pharmacology."
+  },
+  {
+    "id": 10927,
+    "fromModule": 286,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10929,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10930,
+    "fromModule": 286,
+    "toModule": 289,
+    "reason": "Question evaluates ethyl alcohol, methyl alcohol, or ethylene glycol toxicity, clinical syndromes, and legal limits, which belongs to Alcohol Poisoning (Module 289)."
+  },
+  {
+    "id": 10931,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10935,
+    "fromModule": 286,
+    "toModule": 218,
+    "reason": "Identification of nematode larvae/microfilariae belongs to Helminthology (Microbiology)."
+  },
+  {
+    "id": 10936,
+    "fromModule": 286,
+    "toModule": 218,
+    "reason": "Identification of nematode larvae/microfilariae belongs to Helminthology (Microbiology)."
+  },
+  {
+    "id": 10937,
+    "fromModule": 286,
+    "toModule": 357,
+    "reason": "Levels of disease prevention (secondary prevention / screening / early diagnosis) belong to PSM (Concepts of Disease and Prevention)."
+  },
+  {
+    "id": 10938,
+    "fromModule": 286,
+    "toModule": 335,
+    "reason": "Acanthamoeba keratitis belongs to Ophthalmology (Infectious Keratitis)."
+  },
+  {
+    "id": 10939,
+    "fromModule": 286,
+    "toModule": 451,
+    "reason": "Management of anemia in chronic renal failure with erythropoietin belongs to Internal Medicine (Chronic Kidney Disease)."
+  },
+  {
+    "id": 10940,
+    "fromModule": 286,
+    "toModule": 680,
+    "reason": "Pharmacological management of osteoarthritis belongs to Orthopaedics (Rheumatoid Arthritis and Osteoarthritis)."
+  },
+  {
+    "id": 10941,
+    "fromModule": 286,
+    "toModule": 541,
+    "reason": "Delivery of aftercoming head in breech presentation (Burns-Marshall, Mauriceau-Smellie-Veit) belongs to Obstetrics (Abnormal Labour)."
+  },
+  {
+    "id": 10942,
+    "fromModule": 286,
+    "toModule": 563,
+    "reason": "Medical management of menorrhagia / abnormal uterine bleeding and LNG-IUS belongs to Gynaecology."
+  },
+  {
+    "id": 10943,
+    "fromModule": 286,
+    "toModule": 563,
+    "reason": "Medical management of menorrhagia / abnormal uterine bleeding and LNG-IUS belongs to Gynaecology."
+  },
+  {
+    "id": 10944,
+    "fromModule": 286,
+    "toModule": 563,
+    "reason": "Medical management of menorrhagia / abnormal uterine bleeding and LNG-IUS belongs to Gynaecology."
+  },
+  {
+    "id": 10945,
+    "fromModule": 286,
+    "toModule": 656,
+    "reason": "Skin tags (acrochordon) are benign cutaneous lesions belonging to Dermatology."
+  },
+  {
+    "id": 10947,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 10948,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10949,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10953,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 10960,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 10964,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 10968,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10973,
+    "fromModule": 286,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 11002,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11014,
+    "fromModule": 286,
+    "toModule": 289,
+    "reason": "Question evaluates ethyl alcohol, methyl alcohol, or ethylene glycol toxicity, clinical syndromes, and legal limits, which belongs to Alcohol Poisoning (Module 289)."
+  },
+  {
+    "id": 11025,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11027,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11031,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11036,
+    "fromModule": 286,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11051,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 11056,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11060,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11065,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11066,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11068,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11077,
+    "fromModule": 286,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 11086,
+    "fromModule": 286,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10266,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10759,
+    "fromModule": 287,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10764,
+    "fromModule": 287,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10768,
+    "fromModule": 287,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10789,
+    "fromModule": 287,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10798,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10853,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10955,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10977,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10979,
+    "fromModule": 287,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11023,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11028,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11033,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11039,
+    "fromModule": 287,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11057,
+    "fromModule": 287,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11059,
+    "fromModule": 287,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10225,
+    "fromModule": 288,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 10280,
+    "fromModule": 288,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10281,
+    "fromModule": 288,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10976,
+    "fromModule": 288,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 10267,
+    "fromModule": 289,
+    "toModule": 277,
+    "reason": "Question evaluates medico-legal autopsy evisceration techniques or viscera preservation protocols, belonging to Medico Legal Autopsy (Module 277)."
+  },
+  {
+    "id": 10476,
+    "fromModule": 289,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10501,
+    "fromModule": 289,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 10684,
+    "fromModule": 289,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10686,
+    "fromModule": 289,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 10981,
+    "fromModule": 289,
+    "toModule": 274,
+    "reason": "Question evaluates personal identification via dactylography, poroscopy, cheiloscopy, or tattoos, belonging to Fingerprint and Tattoos (Module 274)."
+  },
+  {
+    "id": 10986,
+    "fromModule": 289,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10997,
+    "fromModule": 289,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 10998,
+    "fromModule": 289,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11000,
+    "fromModule": 289,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 11001,
+    "fromModule": 289,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11011,
+    "fromModule": 289,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11012,
+    "fromModule": 289,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11078,
+    "fromModule": 289,
+    "toModule": 287,
+    "reason": "Question evaluates organophosphorus or carbamate anticholinesterase toxicity and its antidotes, which belongs to Organophosphorus Poisoning (Module 287)."
+  },
+  {
+    "id": 11042,
+    "fromModule": 290,
+    "toModule": 281,
+    "reason": "Question evaluates forensic ballistics, firearm wounds, gunpowder residue, or blast injuries, which belongs to Firearm Injuries and Blast Injuries (Module 281)."
+  },
+  {
+    "id": 11095,
+    "fromModule": 290,
+    "toModule": 291,
+    "reason": "Question evaluates plant poisons (Datura, Opium, Strychnine, Oleander, Semecarpus) or animal envenomation (snakebite, scorpion), which belongs to Organic Irritants - Plant and Animal Poisons (Module 291)."
+  },
+  {
+    "id": 11099,
+    "fromModule": 290,
+    "toModule": 288,
+    "reason": "Question evaluates corrosive acid poisoning or toxic asphyxiant gas poisoning (CO, Cyanide, H2S), which belongs to Corrosives and Asphyxiants (Module 288)."
+  },
+  {
+    "id": 10253,
+    "fromModule": 291,
+    "toModule": 276,
+    "reason": "Question evaluates post-mortem interval, cooling, hypostasis, rigor mortis, or decomposition changes, belonging to Death and Post-Mortem Changes (Module 276)."
+  },
+  {
+    "id": 11044,
+    "fromModule": 291,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 11062,
+    "fromModule": 291,
+    "toModule": 278,
+    "reason": "Question evaluates mechanics and morphological features of blunt and sharp force injuries (abrasions, bruises, lacerations, incised/stab wounds), belonging to Mechanical Injuries (Module 278)."
+  },
+  {
+    "id": 11067,
+    "fromModule": 291,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11079,
+    "fromModule": 291,
+    "toModule": 290,
+    "reason": "Question evaluates inorganic metallic (arsenic, lead, mercury, thallium, cadmium) or non-metallic (phosphorus) irritant poisonings, which belongs to Inorganic Irritants - Metallic and Non-metallic (Module 290)."
+  },
+  {
+    "id": 11088,
+    "fromModule": 291,
+    "toModule": 284,
+    "reason": "Question evaluates forensic examination of sexual offences, semen detection, sexual perversions, or MTP/abortion laws, which belongs to Sexual Offences and Abortion (Module 284)."
+  },
+  {
+    "id": 11101,
+    "fromModule": 292,
+    "toModule": 272,
+    "reason": "Question evaluates age determination from skeletal development, ossification centers, or dentition, which belongs to Skeletal and Dental Age Determination (Module 272)."
+  }
+]

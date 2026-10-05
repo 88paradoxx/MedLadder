@@ -1,0 +1,492 @@
+================================================================
+MODULE 575: Basics of Neonatology and Routine Newborn Care (80 questions)
+================================================================
+
+ID: 23285 | Answer: [C] Cephalohematoma
+QUESTION: A 28-day-old child was brought to the OPD with swelling over the head since birth. What is the diagnosis?
+OPTIONS: A) Caput succedaneum | B) Encephalocele | C) Cephalohematoma | D) Subgaleal haemorrhage
+EXPLANATION: The X-ray image shows blood collection in scalp tissue, not extending intracranially. Encephalocele gets ruled out since it is a type of neural tube defect with external herniation of brain and meninges in a sac-like structure. Subgaleal hemorrhage has acute and morbid presentation and would not present in a routine OPD at this age Caput is soft tissue oedema that would disappear in about 48 hours after birth. Cephalohematoma can present over a long time with collection not crossing the suture lines as in this case. Reference: Nelson Textbook of Pediatrics, 20 th ed., pg. 834
+----------------------------------------------------------------
+
+ID: 23286 | Answer: [A] Swelling of the soft tissue of scalp
+QUESTION: A newborn comes to you on 2nd day of life with following finding. The child was delivered by normal vaginal delivery with forceps assistance. Which of the following finding feature is not expected to be present in this condition?
+OPTIONS: A) Swelling of the soft tissue of scalp | B) Does not cross the suture lines | C) Resorb in 2 weeks to 3 months | D) Appears several hours after birth
+EXPLANATION: The child in the image has It is a subperiosteal hemorrhage . The closest differential diagnosis is caput succedaneum. It is the swelling of the soft tissues of scalp. Tags : Topic : NORMAL NEWBORN Difficulty level : MUST KNOW PYQ : FMGE JAN 2023,DEC 2021 ;NEET PG 2022; Reference : Ghai's essential pediatrics, 8 th ed., pg. 139
+----------------------------------------------------------------
+
+ID: 23287 | Answer: [B] Golden yellow
+QUESTION: What is the normal color of stool in the newborn after first week of life?
+OPTIONS: A) Black | B) Golden yellow | C) Greenish | D) Reddish
+TAG TOPIC: MISCELLANEOUS Difficulty level: GOOD TO KNOW Reference: Ghai essential pediatrics, 9 th ed, pg no: 133
+EXPLANATION: Meconium (first stool) is passed within 24 hours. After that meconium stools (black tarry)can be passed upto 3 days. On 4th-5th days transitional stools (greenish) are passed. After 5 days regular milk stools (golden yellow) are passed. Tags: Topic: MISCELLANEOUS Difficulty level: GOOD TO KNOW Reference: Ghai essential pediatrics, 9 th ed, pg no: 133
+----------------------------------------------------------------
+
+ID: 23288 | Answer: [C] Right Upper limb
+QUESTION: A newborn baby presents to the hospital with the presence of a continuous machine-like murmur. In such cases, the assessment of pre-ductal O2 saturation is done at?
+OPTIONS: A) Left Upper limb | B) Left lower limb | C) Right Upper limb | D) Right lower limb
+EXPLANATION: 
+----------------------------------------------------------------
+
+ID: 23289 | Answer: [C] 65%
+QUESTION: What is the venous hematocrit level at which you will diagnose polycythemia in a newborn?
+OPTIONS: A) 55% | B) 60% | C) 65% | D) 70%
+EXPLANATION: Definition of polycythemia: a. Venous haematocrit of over 65%. b. Venous haematocrit of over 64% at 2 hours age. c. An umbilical venous or arterial haematocrit over 63% or more. The mean venous haematocrit of term infants is 53 in cord blood, 60 at 2 hours of age, 57 at 6 hours of age and 52 at 12-18 hours of age. As the haematocrit increases, there is increased viscosity and decreased blood flow. When haematocrit increases to more than 60% there is a fall in O2 transport. Definition of hyperviscosity: Viscosity greater than 14.6 centipose at a shear rate of 11.55 as measured by a viscometer. (normal is 1.4- 1.8 centipoise).
+----------------------------------------------------------------
+
+ID: 23290 | Answer: [B] HALE
+QUESTION: DALE is replaced by ?
+OPTIONS: A) DALY | B) HALE | C) OALY | D) None
+EXPLANATION: Ans. is 'b' i.e., HALE [Ref Park 20th/e p. 24] HALE (Health - Adjusted life expectancy) :- The name of the indicator used to measure healthy life expectancy has been changed from disability adjusted life expectancy (DALE) to health adjusted life expectancy (HALE). HALE is based on the life expectancy at birth but includes and adjustment for time spent in poor health. It is most easily understood as the equivalent number of years in full health that a newborn can expect to live based on current rates of ill health and mortality. 776. Natural history of disease is studied with ? a) Longitudinal studies b) Cross-sectional studies c) Both d) None Correct Answer - A Ans. is 'a' i.e., Longitudinal studies Longitudinal studies In this type of study, observations are repeated in the same population over a prolonged period using follow up examinations. They are useful to
+----------------------------------------------------------------
+
+ID: 23291 | Answer: [D] 2, 3, 4
+QUESTION: You have to IV cannulate a newborn. The following things are available: 1. 22 G Cannula 2. 26 G Cannula 3. Gloves 4. Normal Saline 5. 5 ml Syringe Which among the following you shall be using for cannulation in this newborn?
+OPTIONS: A) 1, 2, 3, 4, 5 | B) 1, 3, 4, 5 | C) 2, 3, 4, 5 | D) 2, 3, 4
+EXPLANATION: This question is a practical application-based question and very similar to an actual question asked recently. The correct answer is D. For IV cannulating a neonate, we need Gloves, Cannula, Normal saline (to flush) and a 2 ml syringe (not a 5 ml syringe) In neonates, 26G Cannula is used. Reference: The Harriet Lane Handbook 23 rd Edition
+----------------------------------------------------------------
+
+ID: 23292 | Answer: [A] Saline-soaked gauze
+QUESTION: In a neonate with leaky meningomyelocele with CSF dripping out, it should be covered with which among the following before surgery is undertaken?
+OPTIONS: A) Saline-soaked gauze | B) Povidone-iodine soaked gauze | C) Spirit soaked gauze | D) Dextrose soaked gauze
+EXPLANATION: The exposed meningomyelocele sac containing neural tissue should be covered with a sterile Saline-soaked gauze. REMEMBER: Exposed neural tissue should not be covered or wiped with any irritant, not even Povidone-Iodine! Perinatal Care for Meningomyelocele Prone or lateral position nursing Cover the sac with a sterile, saline-moistened gauze Prophylactic antibiotics Consider a doughnut ring to prevent sac rupture in MC & MMC Monitor OFC, AF & Vitals closely Reference: AIIMS NICU Protocols 3 rd Edition
+----------------------------------------------------------------
+
+ID: 23293 | Answer: [B] Neuroblastoma
+QUESTION: Dinutuximab has been recently approved for which among the following pediatric malignancy?
+OPTIONS: A) ALL | B) Neuroblastoma | C) Wilms tumour | D) Rhabdomyosarcoma
+EXPLANATION: Dinutuximab is a monoclonal antibody that targets a diasialoganglioside, GD2, which has ubiquitous expression on neuroblastoma cells Incorporation of the mAb into consolidative therapy after autologous stem cell transplant improves the 2-yr event-free survival from 46.5% to 66.5%. Dinutuximab is approved by the U.S. Food and Drug Administration (FDA) as a standard of care for this subset of patients. Reference: Nelson 21 st Edition, Chapter 525
+----------------------------------------------------------------
+
+ID: 23294 | Answer: [B] Order urgent bronchoscopy to remove foreign body
+QUESTION: A 2-year-old boy presents to the ED with shortness of breath in mild distress. His parents state that they were at a movie theater and eating popcorn yesterday evening when the child 'choked' on a bit of popcorn. He is slightly tachypneic and tachycardic but is saturating well on room air. You order a stat chest x-ray. What is the next step?
+OPTIONS: A) Perform the Heimlich maneuver to dislodge foreign body | B) Order urgent bronchoscopy to remove foreign body | C) Start needle thoracocentesis for tension pneumothorax | D) Encourage the child to cough up foreign body
+EXPLANATION: The chest x-ray shows hyperinflation of the left side and a mediastinal shift to the right , which should raise suspicion for a foreign body in the left bronchus. Hyperinflation is indicative of partial obstruction. With a complete obstruction, there should be atelectasis on the affected side and a mediastinal shift to the affected side. Heimlich maneuver is performed in upper airway obstruction . There is no pneumothorax, hence no point of needle thoracocentesis. Rigid bronchoscopy is diagnostic and therapeutic. Tags : Topic : FOREIGN BODY ASPIRATION Difficulty level : MUST KNOW PYQ : NEET PG 2021;2022 Reference : Manual of Pediatric Emergencies & Critical Care, Suchitra Ranjit, 2 nd ed., pg. 47
+----------------------------------------------------------------
+
+ID: 23295 | Answer: [C] >2500 grams
+QUESTION: A baby receiving KMC is now stable enough for the procedure to be stopped. What shall be the baby's weight at which you shall decide stopping KMC?
+OPTIONS: A) >1500 grams | B) >2000 grams | C) >2500 grams | D) >3000 grams
+EXPLANATION: When to Discontinue KMC? If the mother and baby are comfortable, KMC is continued at the hospital and at home for as long as possible. Often this is desirable until the baby's gestation reaches term or the weight is around 2500 g. Once the weight cut off is reached or crossed and the neonate starts wriggling to show that she is uncomfortable, pulls her limbs out, cries, and fusses whenever put in skin-to-skin contact, the mother can wean the baby from KMC. Reference: AIIMS Protocols In Neonatology, 3 rd Edition, Volume 2, Page 527
+----------------------------------------------------------------
+
+ID: 23296 | Answer: [C] Check creatine kinase level
+QUESTION: A 7-month-old male infant is at his pediatrician's office for his routine check-up and immunizations. He can roll over from his tummy to back but unable to roll over supine to prone. He is passing objects with his hands, and he cannot sit. His nurse mentions this to the pediatrician. There is a family history of maternal uncle (mother's brother) dying at 16 years of age after being bed-ridden for many years. Of the following, the BEST next step in evaluation and management would be to:
+OPTIONS: A) Refer to neurologist | B) Get an MRI | C) Check creatine kinase level | D) Refer to physiotherapy
+EXPLANATION: This infant has development delay predominantly involving motor domain with history of maternal uncle dying between 15-20 years age, who was bed-ridden prior. All this indicates a likely muscle dystrophy with X-linked recessive inheritance, causing death in the 2 nd decade of life. Duchenne muscular dystrophy (DMD) is an X-linked, recessive condition affecting male infants should be ruled out in such cases Since targeted therapies are available with more emerging for DMD, sending a creatine kinase (CK) in a male infant with development delay is the next best step at the pediatrician's office. Early detection and diagnosis will enable early treatment. Serum Creatine kinase (CK) is the primary biomarker for Duchenne muscular dystrophy (DMD) and often used as a screening test. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 2967
+----------------------------------------------------------------
+
+ID: 23297 | Answer: [C] 6 months
+QUESTION: An anxious mother of a 3-day newborn, comes to you for a routine visit. While counselling about the weight gain pattern of the baby, you explain her that on an average the weight of the baby doubles by?
+OPTIONS: A) 3 months | B) 8 months | C) 6 months | D) 12 months
+EXPLANATION: The weight of the baby doubles by 6 months. Tags : Topic : GROWTH & ANTHROPOMETRY Difficulty level : MUST KNOW PYQ : INICET NOV 2022; FMGE JUNE 2022; NEET PG 2023 Reference : Ghai essential pediatrics, 8 th ed., pg.13
+----------------------------------------------------------------
+
+ID: 23298 | Answer: [C] Supplementary nutrition
+QUESTION: Which of the following is not a component of Kangaroo Mother Care (KMC)?
+OPTIONS: A) Skin to skin contact | B) Exclusive breastfeeding | C) Supplementary nutrition | D) Early discharge and follow-up
+EXPLANATION: Components of KMC have traditionally included the following 3 things In the latest AIIMS Protocol 2023, 3 rd Edition, a 4 th component called Continued follow-up has been mentioned. Reference: AIIMS Protocols In Neonatology, 3 rd Edition, Volume 2, Page 520
+----------------------------------------------------------------
+
+ID: 23299 | Answer: [D] Osmotic fragility
+QUESTION: A newborn female develops jaundice at 12 hours of life. Her indirect bilirubin is 21.2 mg/dL. His mother's blood type is AB+; her blood type is A+. Her direct Coombs test is negative. Her CBC shows WBC 15,200/cumm, Hb 10 g/dL, Hct 30%, MCV 98 fL, MCHC 37 g/dL, Platelets 2.75 lac/cumm. What is the next best step?
+OPTIONS: A) G6PD enzyme activity in erythrocytes | B) Hemoglobin electrophoresis | C) UGT1A1 activity | D) Osmotic fragility
+TAG TOPIC: ANEMIA Difficulty level: GOOD TO KNOW PYQ: NEET PG 2023 Reference: Nelson textbook of Pediatrics, 1 st SA edition, page number: 2330
+EXPLANATION: The patient has hereditary spherocytosis, which can be confirmed by osmotic fragility testing. Osmotic Fragility Test: Spherocytes are more susceptible to lysis in hypotonic solutions. This test measures how easily red blood cells burst when placed in increasingly diluted saline solutions. This patient's jaundice is not consistent with physiologic jaundice given the elevated bilirubin level within the first 24 hours of life. In this setting, with an MCHC of greater than 36 g/dL, the most likely diagnosis is hereditary spherocytosis in the newborn period.Outside the newborn period this typically presents as intermittent jaundice and palpable splenomegaly. Option A: Neonates with G6PD deficiency can also present with non-physiologic jaundice; however, G6PD deficiency is X-linked and this patient is a female. In addition, the MCHC is normal in patients with G6PD. Option B: Hemoglobin Electrophoresis is a laboratory technique used to separate and identify different types of hemoglobin in the blood. This test is essential for diagnosing hemoglobin disorders such as sickle cell disease, thalassemias, and hemoglobin variants. Option C: Reduced UGT1A1 activity leads to elevated bilirubin levels, potentially causing jaundice. KEY TAKEAWAYS: Hereditary Spherocytosis (HS) is an inherited red blood cell disorder characterized by the presence of spherical-shaped red blood cells (spherocytes) due to defects in the proteins that maintain cell membrane stability. This condition leads to hemolytic anemia as the spleen destroys the abnormal spherocytes more readily than normal red blood cells. Tags: Topic: ANEMIA Difficulty level: GOOD TO KNOW PYQ: NEET PG 2023 Reference: Nelson textbook of Pediatrics, 1 st SA edition, page number: 2330
+----------------------------------------------------------------
+
+ID: 23302 | Answer: [C] Donor human milk
+QUESTION: A preterm neonate could not be started on mother's feed due to some maternal issues. Which among the following is the best alternative to administer in such a case?
+OPTIONS: A) Preterm formula milk | B) Term formula milk | C) Donor human milk | D) Cow's milk
+EXPLANATION: DONOR HUMAN MILK Donar human milk [DHM] is the milk expressed and voluntarily donated by lactating women other than the biological mother of the recipient baby. This donor human milk is pasteurized using the Holder pasteurization method [pasteurized donor human milk; PDHM] and dispensed for use of the recipient. Donation should be free and without any monetary benefit. The recipient should also be provided the DHM free of cost. World health Organization [WHO] and National Neonatology Forum [NNF], India recommends DHM as the preferred choice if mother's own milk is not available for feeding of preterm or low- birthweight [LBW] infants, including very preterm [ Reference: AIIMS Protocols In Neonatology, 3 rd Edition, Volume 2, Page 543
+----------------------------------------------------------------
+
+ID: 23304 | Answer: [D] Pyloric atresia
+QUESTION: You are called by the newborn nursery nurse secondary to see a 1-day-old infant vomiting with every feed. The patient takes the formula well but vomits large amounts soon after his feed. The emesis is nonbilious. The only significant history is polyhydramnios during his mother's pregnancy. You obtain an abdominal radiograph and find a large, dilated stomach. What is the most likely diagnosis?
+OPTIONS: A) Pyloric stenosis | B) Duodenal web | C) Jejunoileal atresia | D) Pyloric atresia
+EXPLANATION: It is a tough question, but such questions can be answered by ruling out other options easily. Option A- Pyloric stenosis is an acquired condition and would NEVER present in the first few days of life, nor would it be associated with a large stomach at birth and polyhydramnios. Option B- Duodenal webs and atresia would likely present with bilious vomiting. Option C- Jejunoileal atresia would also likely present with bilious vomiting and abdominal distension. Option D- Neonates with pyloric atresia will present with early onset of vomiting that is nonbilious, as well as a dilated stomach at birth. The mother may also have polyhydramnios during her pregnancy. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 1801
+----------------------------------------------------------------
+
+ID: 23306 | Answer: [D] Erythromycin only
+QUESTION: Ajay, a 3-year-old child, is the younger brother of Anuj, who is currently undergoing treatment for diphtheria in the hospital. Ajay lives in the same household and received his diphtheria vaccination 16 months ago. What is the most appropriate course of action for the care of Ajay?
+OPTIONS: A) One booster dose | B) Nothing, as the child is already exposed | C) Erythromycin + diphtheria toxoid | D) Erythromycin only
+EXPLANATION: Explanation: Ajay is a household contact of a diphtheria case and should receive erythromycin prophylaxis, even though he is vaccinated and asymptomatic. When a confirmed case of diphtheria is identified, close contacts (like household members) are at risk of asymptomatic carriage or developing the disease. Recommended Management for Asymptomatic Close Contacts (like Ajay): Antibiotic Prophylaxis : Oral erythromycin 40-50 mg/kg/day (max 2 g/day) for 10 days OR single dose of benzathine penicillin G Vaccination Review : Booster only if: Less than 3 doses taken previously No booster in the last 5 years Ajay received his last diphtheria vaccine dose 16 months ago, so he does not need a booster now. Monitoring : Observe for symptoms for 7 days Take cultures if symptoms develop Explanation of other options: One booster dose (Option A): Not needed now, as Ajay received a dose within the last 5 years. Boosters are only required if the last dose was &ge;5 years ago. Nothing, as the child is already exposed (Option B): Incorrect, because vaccination does not guarantee full protection, and exposed individuals can still become carriers or symptomatic. Erythromycin + diphtheria toxoid (Option C): Not indicated in Ajay's case, as diphtheria toxoid is only added if: Immunization is incomplete or last booster was &ge;5 years ago
+----------------------------------------------------------------
+
+ID: 23307 | Answer: [C] Remand homes
+QUESTION: Homes where children are placed under the care of doctors and psychiatrists are called -
+OPTIONS: A) Foster homes | B) Borstals | C) Remand homes | D) Child guidance clinics
+EXPLANATION: Ans. is 'c' i.e., Remand homes Child placement : o Orphanages : For children who have no home or cannot be taken care of by their parents. o Foster Homes : Several types of facilities for rearing children other than in natural families. o Adoption : Legal adoption confers upon child and the adoptive parents, rights and responsibilities similar to that of natural parents. o Remand Homes : Child is placed under the care of doctors, psychiatrists and other trained personnel to improve the mental and physical well being of the child.
+----------------------------------------------------------------
+
+ID: 23308 | Answer: [B] 400 IU/day
+QUESTION: What is the current IAP recommendation for Vitamin D3 supplementation in a full-term neonate?
+OPTIONS: A) 200 IU/day | B) 400 IU/day | C) 600 IU/day | D) 800 IU/day
+EXPLANATION: All infants younger than 12 months should receive 400 IU daily beginning within the first few days after birth. Healthy children 1 to 18 years of age should receive 600 IU daily . Children with liver disease, kidney disease, or malabsorption (i.e., secondary to cystic fibrosis, celiac disease, inflammatory bowel disease [IBD], etc.) as well as premature infants need even higher doses to account for the limitations in vitamin D metabolism or absorption brought on by these health issues. Tags : Topic : NORMAL NEWBORN Difficulty level : MUST KNOW PYQ : FMGE JAN 2023; DEC 2020;NEET PG 2022 Reference: IAP guidelines for prevention and treatment of Rickets, 2017
+----------------------------------------------------------------
+
+ID: 23310 | Answer: [D] Raised areola
+QUESTION: While assessing a newborn for maturity, which of the following findings does not suggest prematurity?
+OPTIONS: A) No crease on sole | B) Empty scrotum | C) Soft pinna with slow recoil | D) Raised areola
+EXPLANATION: Commonly assessed components for checking the maturity are: Tags : Topic : NORMAL NEWBORN Difficulty level : MUST KNOW PYQ : FMGE JAN 2023,DEC 2021 Reference : Cloherty and Stark's manual of Neonatal care, SA ed., pg. 95
+----------------------------------------------------------------
+
+ID: 23311 | Answer: [C] 34 w to 36 w 6 d GA
+QUESTION: By definition, what is called as late preterm baby?
+OPTIONS: A) 30 w to 31 w 6 d GA (gestational age) | B) 32 w to 33 w 6 d GA | C) 34 w to 36 w 6 d GA | D) 37 w to 37 w 6 d GA
+EXPLANATION: Preterm are born at . Subgroups of preterm infant include the following: Extremely preterm infants are born Early preterm infants are born Late preterm infants are born between 34 0/7 and 36 6/7 weeks of gestation (238 to 258 days). Term infants are born between 37 0/7 and 41 6/7 weeks of gestation (259 to 293 days). Early term infants are subgroup of term infants born between 37 0/7 and 38 6/7 weeks of gestation (259 to 272 days). Post term infants are born after 42 weeks of gestation (294 days) or more. Tags : Topic : NORMAL NEWBORN Difficulty level : MUST KNOW PYQ : FMGE JAN 2023,DEC 2021 ;NEET PG 2022; Reference : Cloherty and Stark's manual of Neonatal care, SA ed., pg. 95
+----------------------------------------------------------------
+
+ID: 23312 | Answer: [B] Anemia
+QUESTION: In a monochorionic monoamniotic twin with uncompensated arteriovenous shunt, which of the following characteristic is present in donor twin that helps differentiating it from the recipient twin?
+OPTIONS: A) Polyhydroamnios | B) Anemia | C) Cardiac hypertrophy | D) Thick walled arterioles
+EXPLANATION: Monochorionic twin with uncompensated arteriovenous shunt has following differentiating features : Tags : Topic : HIGH RISK NEWBORN Difficulty level : MUST KNOW Reference : Cloherty and Stark's Manual of Neonatal care, SA ed., pg. 73
+----------------------------------------------------------------
+
+ID: 23313 | Answer: [A] Stage 1
+QUESTION: A full-term newborn has history of delayed cry and suspected hypoxic ischemic encephalopathy. The baby is hyperalert with exaggerated tendon reflexes, clonus and a normal EEG. What is the stage of HIE?
+OPTIONS: A) Stage 1 | B) Stage 2 | C) Stage 3 | D) Child is normal
+EXPLANATION: Important points from SARNAT and SARNAT staging for HIE Tags : Topic : HYPOXIC ISCHEMIC ENCEPHALOPATHY Difficulty level : GOOD TO KNOW PYQ : INICET MAY 2022 Reference: Cloherty and Stark's manual of Neonatal care, SA ed., pg. 797
+----------------------------------------------------------------
+
+ID: 23314 | Answer: [A] Damage to C5-C6
+QUESTION: A 4kg post term baby is delivered at 43weeks of gestation with difficult vaginal delivery. Forceps assistance was needed while delivering the baby. On 15th day mother comes to you with complaint that child moves the right hand significantly less since birth compared to left. Child is otherwise fine, feeding well and gaining weight. What pathology you suspect in this child for the condition?
+OPTIONS: A) Damage to C5-C6 | B) Humerus fracture | C) Damage to C8-T1 | D) Pulled elbow
+EXPLANATION: The child in the question has Erb's palsy. Cause: excessive traction on the head, neck and arm during birth. Risk factors : macrosomia, shoulder dystocia, malpresentation and instrumental deliveries. (in our case, macrosomia and instrumental delivery were present) Duchenne-Erb palsy involves the upper trunks (C5, C6, and occasionally C7) and is the most common type of brachial plexus injury, accounting for approximately 90% of cases. The arm is typically adducted and internally rotated at the shoulder . There is extension and pronation at the elbow and flexion of the wrist and fingers in the characteristic 'waiter's tip' posture. The deltoid, infraspinatus, biceps, supinator, and brachioradialis muscles, and the extensors of the wrist and fingers may be weak or paralyzed. The Moro, biceps, and radial reflexes are absent on the affected side . The grasp reflex is intact. Sensation is variably affected. Diaphragm paralysis occurs in 5% of cases. Option C: Klumpke's palsy, involves C8-T1 with typical Claw hand deformity . Instrumental delivery is a risk factor. It is rarest of the trauma in newborn. Option B: Humerus fracture will be painful and will not show waiter's tip deformity as seen in the image. Option D: Pulled elbow is extended and forearm is pronated. It is generally caused after jerky lifting of the baby and not since birth. It is extremely painful. Tags: Topic : HIGH RISK NEWBORN Difficulty level : GOOD TO KNOW Reference : Cloherty and Stark's manual of neonatal care, SA ed., pg. 86
+----------------------------------------------------------------
+
+ID: 23315 | Answer: [C] Administer IV glucose and recheck blood glucose after 20 minutes
+QUESTION: A newborn, born to a diabetic mother, presents after 24 hours with a blood glucose (BG) < 35 mg/dl. The baby is symptomatic. What is the next best step in management?
+OPTIONS: A) Administer an IV bolus of Hartmann's solution | B) Recheck blood glucose after 20 minutes | C) Administer IV glucose and recheck blood glucose after 20 minutes | D) Start oral feeds and observe
+EXPLANATION: Explanation: Neonatal hypoglycemia is defined as BG In an infant of a diabetic mother , hyperinsulinemia predisposes to severe hypoglycemia. A symptomatic newborn with BG . The recommended step is to give IV 10% dextrose (2 ml/kg bolus) , followed by continuous glucose infusion , and recheck BG after 20 minutes. This prevents seizures, brain injury, and other complications. Explanation of other options: Hartmann solution (Option A): Hartmann (Ringer's lactate) contains electrolytes but no significant glucose content , so it cannot correct hypoglycemia. Giving this delays appropriate therapy and risks neurological injury. Recheck BG after 20 min (Option B): Simply rechecking without treatment is unsafe in a symptomatic neonate with very low glucose. Immediate correction is essential before monitoring. Oral feeds and observe (Option D): Oral feeding may help in asymptomatic infants with borderline hypoglycemia , but in a symptomatic baby with BG
+----------------------------------------------------------------
+
+ID: 23316 | Answer: [B] Oropharyngeal airway
+QUESTION: A newborn presents with irritability and cyanosis that improves with crying. On examination, a nasogastric tube cannot be passed, and no mist is seen on laryngeal mirror testing. What is the most appropriate next step in management?
+OPTIONS: A) Endotracheal intubation | B) Oropharyngeal airway | C) Oxygen inhalation | D) Epinephrine nebulization
+EXPLANATION: Explanation: The patient's presentations are suggestive of choanal atresia and the next best step in management is establishing an oropharyngeal airway. Choanal atresia is the most common congenital anomaly of the nose, characterised by the blockage of the nasal passages due to the complete or partial persistence of the buccopharyngeal membrane or failure of the oronasal membrane to rupture. Clinical features: Unilateral obstruction: Asymptomatic till the first respiratory infection Unilateral nasal discharge Persistent nasal obstruction Bilateral obstruction: Difficulty in mouth breathing Vigorous attempts to inspire (sucking in of lips) Cyanosis Crying relieves cyanosis Difficulty in feeding Cyanotic while feeding Management of choanal atresia: Establish an oropharyngeal airway keeping the mouth open or intubate An oropharyngeal airway tube or a feeding nipple with large holes is used Feeding by gavage till the ability to breathe and eat without assistance is gained Bilateral choanal atresia is managed by intubation and sometimes needs tracheotomy Trans nasal repair is the treatment of choice and is done for neonates who are otherwise stable
+----------------------------------------------------------------
+
+ID: 23317 | Answer: [D] C5-C6
+QUESTION: A newborn developed an asymmetric Moro reflex after a complicated delivery. The poorly responsive arm hung in adduction, rotated internally at the shoulder, extended and pronated at the elbow, and flexed at the wrist. The most likely affected roots are?
+OPTIONS: A) C7-C8 | B) T1-T2 | C) C3-C4 | D) C5-C6
+EXPLANATION: The patient described in this case has the classic signs of Erb's palsy, a paralysis of the muscles innervated by the C5-C6 roots. It occurs in approximately 0.6% of all vaginal deliveries; shoulder dystocia is typically diagnosed when there is impaction of the anterior fetal shoulder behind the symphysis pubis. Most such neonates are conservatively managed. Reference: Avery's diseases of the newborn, 1 st SA ed., pg. 1447
+----------------------------------------------------------------
+
+ID: 23318 | Answer: [A] Gilbert syndrome
+QUESTION: An 8-day-old infant continues to have jaundice which was first noted on the second day of life; his latest total and direct bilirubin levels are 12.5 and 0.9 mg/dL, respectively. The baby and the mother have type O positive blood, the direct and indirect Coombs tests are negative, the infant's reticulocyte count is 15%, and a smear of his blood reveals no abnormally shaped cells. He is bottle-feeding well, produces normal stools and urine, and has gained weight well. Which of the following remains in the differential diagnosis?
+OPTIONS: A) Gilbert syndrome | B) Disseminated intravascular coagulation (DIC) | C) Polycythemia | D) Rh isoimmunization
+EXPLANATION: This is a neonate with unconjugated hyperbilirubinemia and raised reticulocyte count & negative Coombs test. Gilbert syndrome would present with a negative Coombs test, a normal (or low) hemoglobin, a normal (or slightly elevated) reticulocyte count, and prolonged hyperbilirubinemia. Thus, the likely diagnosis is option A. Regarding other options Option B- Red cell morphology would be abnormal in DIC and the patient will be quite sick. Hence ruled out. Option C- Polycythemia would present with an elevated hemoglobin and would have associated clinical signs. Nothing in the question suggests polycythemia. Option D- Rh isoimmunization would present with a positive Coombs test. And since both mother and baby have O+ve blood group, this is unlikely. Reference: Avery's diseases of the newborn, 1 st SA ed., pg. 1203
+----------------------------------------------------------------
+
+ID: 23319 | Answer: [D] Chromosome 22
+QUESTION: A 2-day-old baby boy is admitted at the neonatal intensive care unit due to high fever with a temperature of 38&#176;C and seizures. Physical examination reveals a newborn baby with wide-set eyes, small mandible, and a cleft palate. On auscultation of the heart, there is a holosystolic ejection murmur at the fourth intercostal space in the midclavicular line. Serum chemistries show severe hypocalcemia. This syndrome is caused by mutant genes found in which of the following chromosomes?
+OPTIONS: A) Chromosome 5 | B) Chromosome 13 | C) Chromosome 18 | D) Chromosome 22
+EXPLANATION: Clues in the question include facial dysmorphism, cleft palate, infection causing hospital admission, a likely heart disease and hypocalcemia. These findings together suggest a likely diagnosis of DiGeorge syndrome . Its pathophysiology involves microdeletions of specific DNA sequences , called the DiGeorge chromosomal region (DGCR), from chromosome 22q11.2. DiGeorge syndrome has characteristic features which include cardiac abnormalities, abnormal facies, thymic hypoplasia, cleft palate, and hypocalcemia. It is often called the CATCH22 syndrome because of its characteristic manifestations. Patients with partial DiGeorge syndrome may grow normally but patients who have complete DiGeorge syndrome have a very low immunity and increased susceptibility to infections even with common pathogens. Timely diagnosis is critical since the disease is fatal without treatment. Reference: Nelson 21 st Ed, Table 98.13
+----------------------------------------------------------------
+
+ID: 23320 | Answer: [B] Influenza virus
+QUESTION: A child was advised yearly vaccination with a vaccine, which is not a part of the national immunization schedule. Yearly vaccination is recommended against?
+OPTIONS: A) H influenzae | B) Influenza virus | C) Tetanus | D) Yellow Fever
+EXPLANATION: Annual vaccination is given against Influenza Vaccine in selected high-risk groups. The type of influenza vaccine currently marketed for use in India is an inactivated, quadrivalent vaccine. The vaccines are highly immunogenic and safe for use above 6 months of age. The vaccine is not part of the National Immunization Schedule, but recommended by IAP in selected high-risk groups like Chronic cardiac, pulmonary, renal, hepatic or hematological disease Asthma or wheezing in the past one year Chronic diseases like Sickle Cell Anemia, DM, SLE and Morbid Obesity Immunodeficiency Prolonged Aspirin Use Laboratory and Health-Care Workers Reference: OP Ghai 10 th Edition, Pages 205-206
+----------------------------------------------------------------
+
+ID: 23321 | Answer: [D] Back blows with face down
+QUESTION: An 11-month-old male is found by his mother at home unconscious and not breathing after she left him eating in the room. She came back to find him slumped in his high chair with blue lips and face. She called the ambulance and while she waits for them to arrive, which of the following describes the best action?
+OPTIONS: A) CPR | B) Blind finger sweep of his mouth | C) Heimlich manoeuvre | D) Back blows with face down
+EXPLANATION: The management of FB aspiration depends on the presentation and age of the patient. For infants under the age of 1 year, the recommendation of the American Heart Association is to hold the infant face down along the rescuer's arm and deliver sharp back blows between the scapulae. Children over the age of 1 year should receive the Heimlich manoeuvre as the first step of intervention Reference: Nelson 21 st Edition; Manual of Pediatric Emergencies & Critical Care, Suchitra Ranjit, 2 nd ed., pg. 47
+----------------------------------------------------------------
+
+ID: 23322 | Answer: [D] Chromosome 22
+QUESTION: A 2-day-old baby boy is admitted at the neonatal intensive care unit due to high fever with a temperature of 38&deg;C and seizures. Physical examination reveals a newborn baby with wide-set eyes, small mandible, and a cleft palate. On auscultation of the heart, there is a holosystolic ejection murmur at the fourth intercostal space in the midclavicular line. Serum chemistries show severe hypocalcemia. This syndrome is caused by mutant genes found in which of the following chromosomes?
+OPTIONS: A) Chromosome 13 | B) Chromosome 18 | C) Chromosome 21 | D) Chromosome 22
+EXPLANATION: The boy presents with common manifestations of DiGeorge syndrome. Its pathophysiology involves microdeletions of specific DNA sequences, called the DiGeorge chromosomal region (DGCR), from chromosome 22q11.2. It is often called the CATCH22 syndrome because of its characteristic manifestations. DiGeorge syndrome has characteristic features which include C ardiac abnormalities - Interrupted aortic arch, Truncus arteriosus, Tetralogy of Fallot A bnormal facies - Hypertelorism, Anti mongoloid slant, Folded ears, abnormal philtrum, thin upper lip, Mandibular hypoplasia T hymic hypoplasia, C left palate, H ypocalcemia. Patients with partial DiGeorge syndrome may grow normally but patients who have complete DiGeorge syndrome have a very low immunity and increased susceptibility to infections even with common pathogens. Timely diagnosis is critical since the disease is fatal without treatment. Tags : Topic : IMMUNE DISORDERS Difficulty level : MUST KNOW PYQ : FMGE DEC 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 1113
+----------------------------------------------------------------
+
+ID: 23323 | Answer: [D] < 60/min
+QUESTION: In newborn, chest compression should be started if heart rate is ?
+OPTIONS: A) < 120/min | B) < 100/min | C) < 80/min | D) < 60/min
+EXPLANATION: Ans, D. < 60/min Compression for new born should be started if HR < 60/min'
+----------------------------------------------------------------
+
+ID: 23324 | Answer: [D] <40
+QUESTION: In acute intrinsic renal failure, the urine-to-plasma creatinine ratio is?
+OPTIONS: A) <5 | B) >10 | C) >40 | D) <40
+EXPLANATION: The urine-to-plasma creatinine ratio is > 40 in prerenal failure. In acute intrinsic renal failure, urine-to-plasma creatinine ratio is Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 519; Manual of pediatric emergencies & Critical care, 2 nd ed., pg. 306
+----------------------------------------------------------------
+
+ID: 23325 | Answer: [B] Reassurance that this is self-limited
+QUESTION: A healthy 9-month-old female infant is seen for a routine health supervision visit. On physical examination, a membrane connecting the labia minora that seems to cover most of the vaginal opening is seen. The parents do not report any symptoms and have been able to see a strong urine stream. Of the following, the BEST approach to the management of the examination finding is?
+OPTIONS: A) Manual separation in the office | B) Reassurance that this is self-limited | C) Referral to a urologist or gynecologist for immediate surgery | D) Topical estrogen cream
+EXPLANATION: As seen in the image, the child is having labial adhesions. Asymptomatic children with labial adhesions do not require treatment. Symptomatic children with labial adhesions should first undergo a trial of a topical estrogen cream. Referral to a specialist for surgical lysis may be necessary for symptomatic labial adhesions that do not respond to conventional therapies. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 2584
+----------------------------------------------------------------
+
+ID: 23326 | Answer: [A] Multicystic Dysplastic Kidney
+QUESTION: Which among the following is the most common cause of abdominal mass in a neonate?
+OPTIONS: A) Multicystic Dysplastic Kidney | B) Wilms Tumour | C) Omphalocele | D) Medullary Sponge Kidney
+EXPLANATION: Multicystic dysplastic kidney- MCDK is the most common cause of an abdominal mass in the newborn, but the vast majority are nonpalpable at birth. In most cases, it is discovered incidentally during prenatal sonography. Contralateral hydronephrosis is present in 5-10% of patients. Sonography shows the characteristic appearance of a kidney replaced by multiple cysts of varying sizes that do not communicate, and no identifiable parenchyma is present. Serial USGs done at 3 month initially and then every 6 monthly post infancy show regression of the cysts. Most cysts resolve by 7 years of age. References: Nelson 21 st Edition, Chapter 552; OP Ghai 10 th Edition, Pages 528-529.
+----------------------------------------------------------------
+
+ID: 23327 | Answer: [C] 0.8-1.0 mg/dl
+QUESTION: What is the normal value of creatinine on first day of life in a full term baby?
+OPTIONS: A) 0.5-0.7 mg/dl | B) 0.7-0.8 mg/dl | C) 0.8-1.0 mg/dl | D) 1.0-1.2 mg/dl
+TAG TOPIC: ACUTE KIDNEY INJURY Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2022 Reference: Cloherty and Stark's manual of newborn care, SA ed., pg. 308
+EXPLANATION: Normal serum creatinine values at day 1 are 0.8-1.0 mg/dL, 7-0.8 mg/dL at day 3 and Tags: Topic: ACUTE KIDNEY INJURY Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2022 Reference: Cloherty and Stark's manual of newborn care, SA ed., pg. 308
+----------------------------------------------------------------
+
+ID: 23333 | Answer: [C] SNHL
+QUESTION: A newborn infant on examination was found to be having hepatomegaly. Other examination was normal. On detailed history, mother was found to be positive for CMV. On investigation of the child, Anti-IgM CMV was positive. Which of the following is the most common long term sequalae expected in this child?
+OPTIONS: A) Renal failure | B) CHF | C) SNHL | D) Mental retardation
+EXPLANATION: The child has congenital CMV infection. More than 90% babies are asymptomatic. Most common manifestation- Petechial rashes Most common long term sequalae- SNHL Most common lab finding- elevated SGPT/ALT Tags : Topic : CONGENITAL CMV Difficulty level : MUST KNOW PYQ : NEET PG 2023 Reference : Cloherty and starks manual of neonatal care, SA ed., pg. 665
+----------------------------------------------------------------
+
+ID: 23334 | Answer: [B] 48 hours
+QUESTION: The mother of a premature newborn is concerned because the baby has not yet passed meconium. What is the maximum safe time to wait for the first passage of meconium in this infant?
+OPTIONS: A) 12 hours | B) 48 hours | C) 24 hours | D) 72 hours
+EXPLANATION: Explanation: Meconium: First stool of the newborn Thick, sticky, greenish-black. Timing: Term newborns: Usually pass meconium within 24 hours . Preterm newborns: May be delayed and passage within 24-48 hours is generally considered normal. Composition of Meconium: Bile pigments and salts Mucus Lanugo Desquamated intestinal epithelial cells Amniotic fluid Water Clinical Significance: Delayed meconium (>48 hours in preterm, >24 hours in term) may indicate intestinal obstruction , Hirschsprung disease , or other congenital anomalies. Careful monitoring and evaluation are warranted if meconium is not passed within the expected timeframe.
+----------------------------------------------------------------
+
+ID: 23335 | Answer: [C] Number of daughters a newborn girl will have during life time
+QUESTION: Net reproduction rate is ?
+OPTIONS: A) Number of live births per 1000 mid-year population | B) Number of live birth per 1000 women of child bearing age | C) Number of daughters a newborn girl will have during life time | D) None of the above
+EXPLANATION: Ans. is 'c' i.e., Number of daughters a newborn girl will have during life time Net reproduction rate Net reproductive rate is defined as "The no. of daughters a new born girl will bear during her lifetime assuming fixed age specific fertility and mortality rates" It is the only fertility related statistics which also takes mortality rates into consideration. NRR of one is equivalent to attaining approximately the two child norms. Goal of NRR=1 can be achieved only if atleast 60%* of the eligible couples are effectively practicing family planning.
+----------------------------------------------------------------
+
+ID: 23336 | Answer: [D] Osmotic fragility
+QUESTION: A newborn female develops jaundice at 12 hours of life. Her indirect bilirubin is 21.2 mg/dL. Her mother's blood type is AB+; her blood type is A+. Her direct Coombs test is negative. Her CBC shows WBC 15,200/cumm, Hb 10 g/dL, Hct 30%, MCV 98 fL, MCHC 37 g/dL, Platelets 2.75 lac/cumm. What is the next best step?
+OPTIONS: A) G6PD enzyme activity in erythrocytes | B) Hemoglobin electrophoresis | C) UGT1A1 activity | D) Osmotic fragility
+EXPLANATION: The patient is a newborn with unconjugated hyperbilirubinemia and low Hb for a neonate. This patient's jaundice is not consistent with physiologic jaundice given the elevated bilirubin level within the first 24 hours of life. In this setting, with an MCHC of greater than 36 g/dL, the most likely diagnosis is hereditary spherocytosis in the newborn period. The likely diagnosis is hereditary spherocytosis, which can be confirmed by osmotic fragility testing. Outside the newborn period this disease typically presents as intermittent jaundice and palpable splenomegaly. Neonates with G6PD deficiency can also present with non-physiologic jaundice; however, G6PD deficiency is X-linked and this patient is a female. In addition, the MCHC is normal in patients with G6PD. Hb Electrophoresis will pick Thalassemia and Sickle Cell anemias and similar hemoglobinopathies which are unlikely to present in this age group. Reference: Nelson textbook of Pediatrics, 1 st SA edition, pg. 2330
+----------------------------------------------------------------
+
+ID: 23341 | Answer: [D] All of the above
+QUESTION: Requirements for IV cannulating a newborn shall include?
+OPTIONS: A) 26 G Cannula | B) Gloves | C) Normal Saline | D) All of the above
+EXPLANATION: Cannula size & color IV cannulation a newborn Adequate light Ensure complete aseptic precautions Wear gloves Stabilize child Take appropriate size cannula In Newborn smallest size cannula 26G is used 22G is bigger used in beyond infancy Create adequate position of child: Flex the palm at wrist joint Ideally apply tourniquet In newborns tourniquet is not mandatory,because there is small hand.only by pressing hand vein will become prominent Choose appropriate vein Insert the Cannula catheter Apply the tape/fixatOr Flush the Cannula by Normal saline by using small 1-2ml syringe because blood is coming backward in Cannula, there is risk of Clot formation. Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23343 | Answer: [B] Large for gestational age
+QUESTION: A neonate was born through normal vaginal delivery at term. His birth weight was 3.8 Kg and was plotted on the chart in red, as shown in the figure. What is the likely diagnosis?
+OPTIONS: A) Macrosomia | B) Large for gestational age | C) Both macrosomia and large for gestational age | D) Appropriate for gestational age
+EXPLANATION: As seen in the image, the birth weight of the neonate has been plotted on the Lubchenco's Chart & since it is above 90 th percentile, the diagnosis is Large for gestational age, LGA Baby. Also note that since the birth weight is Classification of neonates based upon centiles/charts (e.g., Lubchenco's or Fenton's Charts)- We take BW, Gest Age & then plot on a chart. Interpretation Appropriate for gestational age (AGA): Between 10 th to 90 th centiles Small for gest age (SGA): Below 10 th centile Large of gest age (LGA): Above 90 th centile Reference: OP Ghai 10 th Edition, Page 131
+----------------------------------------------------------------
+
+ID: 23344 | Answer: [A] Resting heart rate
+QUESTION: All of the following can be used to differentiate a term and preterm baby except?
+OPTIONS: A) Resting heart rate | B) Expanded New Ballard Score assessment | C) Scarf sign | D) Presence of lanugo
+EXPLANATION: Resting heart rate can't distinguish between term and preterm neonates Regarding other options Expanded new ballard score is specifically designed clinical examination tool to assess gestational age & thus can distinguish preterm and term babies Scarf Sign is a sign performed clinically. In a supine child, if the elbow crosses midline, it indicates reduced tone suggestive of a preterm neonate. Scarf Sign is also a component of the Expanded new ballard score. Lanugo is fine, non-pigmented hair found only in preterm neonates at birth, whereas it is absent in term neonates. Thus, the presence or absence of lanugo can be used to distinguish preterm and term babies Reference: OP Ghai 10 th Edition, Pages 133-138
+----------------------------------------------------------------
+
+ID: 23347 | Answer: [D] Decreased glycogen stores
+QUESTION: A 1600-g infant was born at 39 6/7 weeks gestation (via spontaneous vaginal delivery) to a 34-year-old woman with a history of chronic hypertension. In the nursery at 2 hours of age, the baby's blood glucose was 24 mg/dL before feeding. After taking 20 mL of age-appropriate formula, the blood glucose increased to 50 mg/dL. What is the most likely cause for the initial hypoglycemia in this infant?
+OPTIONS: A) Increased gluconeogenesis | B) Decreased neonatal insulin sensitivity | C) Increased placental transport of maternal insulin in utero | D) Decreased glycogen stores
+EXPLANATION: Hypoglycemia is common in small-for-gestational-age (SGA) infants, including the infant in this vignette. Of note, hypoglycemia increases with the severity of intrauterine growth restriction. The risk of hypoglycemia is greatest during the first 3 postnatal days, but fasting hypoglycemia may occur repetitively for several days after birth. This early hypoglycemia usually results from insufficient hepatic and skeletal muscle glycogen content and is exacerbated by the lack of alternative energy sources (because of scant adipose tissue and decreased lactate concentrations). Early enteral feeding usually can prevent hypoglycemia. Less commonly, hyperinsulinemia and/or increased sensitivity to insulin may also contribute to hypoglycemia. This insulin is fetally/neonatally derived, as maternal insulin does not cross the placenta. Finally, deficient catecholamine responses to low blood sugar levels (seen in SGA infants) may also result in persistent hypoglycemia. Increased gluconeogenesis would decrease, not increase, the incidence of hypoglycemia in this infant. Reference: Cloherty and stark's manual of neonatal care, 8 th ed., pg. 910
+----------------------------------------------------------------
+
+ID: 23348 | Answer: [D] Eosinophils
+QUESTION: An otherwise healthy 2-day-old infant girl is noted to have multiple erythematous papules with small inflammatory pustules on the torso and extremities but sparing the palms and soles. A smear of the pustule contents is prepared. What would you expect to see on the smear?
+OPTIONS: A) Langerhans cells | B) Neutrophils | C) Gram Positive Cocci | D) Eosinophils
+EXPLANATION: The infant has erythema toxicum neonatorum. This common newborn eruption typically spares the palms, soles, and perioral region and this distribution of lesions can be used to differentiate erythema toxicum neonatorum from transient neonatal pustulosis. Smears of pustule contents typically show eosinophils. Smears from the pustules of transient neonatal pustulosis typically show neutrophils. Cocci would be seen in bacterial infection and hyphae in cutaneous candidiasis. Reference: Cloherty and stark's manual of neonatal care, 8 th ed., pg. 115
+----------------------------------------------------------------
+
+ID: 23351 | Answer: [C] Overfeeding
+QUESTION: A 2-week-old boy is brought to the clinic for persistent vomiting. The neonate is exclusively fed a standard cow milk- based formula. He takes 40ml every 2 hours and vomits a small amount after every feeding, despite burping. The emesis is not bloody, bilious, or projectile. He has 4 yellow, seedy, soft stools per day without blood. He is otherwise healthy. His weight today is greater than his birth weight. Of the following, the MOST likely cause of this neonate's symptoms is
+OPTIONS: A) Duodenal atresia | B) Milk protein allergy | C) Overfeeding | D) Pyloric stenosis
+TAG TOPIC: GASTROESOPHAGEAL REFLUX Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1935
+EXPLANATION: The neonate in the vignette has gastroesophageal reflux (GER) caused by overfeeding. In this condition the child is otherwise healthy and grows well with adequate weight gain. Pyloric stenosis and duodenal atresia have persistent vomiting of large amount with failure to thrive. Cow milk protein allergy is with top fed children who develops diarrhea, bloating and vomiting with failure to thrive. It is one of the leading causes of chronic diarrhea. Tags: Topic: GASTROESOPHAGEAL REFLUX Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed, pg no: 1935
+----------------------------------------------------------------
+
+ID: 23352 | Answer: [C] Iron supplements
+QUESTION: A 2-year-old who has eczema has come for routine check-up. He is noticed to be having pallor. The remainder of his examination is normal. His mother reports that he has been eating bits of carpet from his room recently. Investigations reveal: Hb-6.6 mg/dL; WBC-10.2x10 9 /L; platelet count: 350x10 9 /L; MCV-60 fL (normal: 75-87 fL). What is the most appropriate treatment?
+OPTIONS: A) Dietary advice | B) Folic acid | C) Iron supplements | D) Vitamin B12 injections
+TAG TOPIC: ANEMIA Difficulty level: MUST KNOW PYQ: NEET PG 2023;2024 Reference: Nelson textbook of pediatrics, 21 st ed, page number: 2522
+EXPLANATION: Iron-deficiency anemia is the most likely diagnosis and iron therapy is indicated. The presence of 'pica' strongly suggests iron deficiency. Iron deficiency anemia is a condition in which the body lacks enough iron to produce adequate hemoglobin, the protein in red blood cells that carries oxygen. This deficiency can lead to symptoms such as fatigue, weakness, pale skin, and shortness of breath. One peculiar symptom associated with iron deficiency anemia is pica, a craving for non-nutritive substances, such as ice, clay, dirt, or paper. He may well be a picky eater and survives on cow's milk and little else. In some children anemia can be due to a &beta;-thalassemia trait. The blood parameters should be repeated after a course of treatment and if there has not been a response he should be tested for &beta;-thalassemia trait. Option A: Dietary advice is required but iron therapy is a must as his anemia is severe. Option B and D: Macrocytosis is usually seen in vitamin B12 deficiency and folic acid deficiency. KEY TAKEAWAYS: One peculiar symptom associated with iron deficiency anemia is pica, a craving for non-nutritive substances, such as ice, clay, dirt, or paper. Tags: Topic: ANEMIA Difficulty level: MUST KNOW PYQ: NEET PG 2023;2024 Reference: Nelson textbook of pediatrics, 21 st ed, page number: 2522
+----------------------------------------------------------------
+
+ID: 23372 | Answer: [B] Subaortic stenosis is almost always recognized in infancy.
+QUESTION: Outflow obstruction from the left ventricle is characterized by the following except:
+OPTIONS: A) It may be associated with VSD. | B) Subaortic stenosis is almost always recognized in infancy. | C) In aortic stenosis, a bicuspid aortic valve is the most common finding. | D) Subaortic valvular stenosis is more common in Williams' syndrome.
+TAG TOPIC: ACYANOTIC CHD Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Park&rsquo;s Pediatric cardiology, 6 th ed., pg. 131
+EXPLANATION: Left cardiac outflow obstruction can present in different ways. Infants presenting in the first 2-3 weeks of life usually have critical aortic valve stenosis, hypoplastic left heart syndrome or coarctation of the aorta. As the PDA duct starts to close, these babies will become very ill, in shock and heart failure. Emergency support is needed, and valvoplasty (which is not always successful) may save the baby's life - but valvotomy is the definitive treatment in this situation. Initial support should be given, and prostaglandin should be considered to keep the duct open, with correction of acidosis and treatment of the heart failure as an emergency measure. Aortic stenosis normally presents and is symptomatic in teenagers with chest pain and not tolerating exercise. It is usually discovered incidentally when the murmur is found during a routine check. It is most commonly associated with bicuspid aortic valve. Subaortic stenosis is rarely recognized in infancy; rather, it is usually found in children of school age and older. The systolic murmur heard at the base of the heart and on echocardiography is usually helpful in diagnosing subaortic valvular stenosis. Tags: Topic: ACYANOTIC CHD Difficulty level: MUST KNOW PYQ: INICET MAY 2024 Reference: Park&rsquo;s Pediatric cardiology, 6 th ed., pg. 131
+----------------------------------------------------------------
+
+ID: 23374 | Answer: [D] If mother has IgG positive for CMV, child unlikely to develop infection
+QUESTION: Which of the following is a true statement about congenital CMV infection?
+OPTIONS: A) About 20-30% CMV infections are symptomatic | B) Triad of SNHL, intracranial calcifications and enamel hypoplasia | C) Most children asymptomatic at birth can develop SNHL later in life | D) If mother has IgG positive for CMV, child unlikely to develop infection
+EXPLANATION: Let us evaluate the options individually Option A is false. About 10% of congenital CMV are symptomatic Option B is false. There is no such triad described in Congenital CMV Option C is false. 60% of symptomatic & only 5% asymptomatic children at birth can develop SNHL in later life. Option D is true. IgG positive mother has passed on the passive immunity to the child hence it reduces the incidence of infection in the newborn. Primary maternal infection with CMV during pregnancy is the predominant mode in developed countries, like US. In a developing country like India, most maternal infections in pregnancy with CMV are either reactivation or reinfection. Since reactivation or reinfection will have IgG present in the mother as opposed to primary infection, so the risk of fetal infection is more in primary maternal CMV infection (25-30%) compared to that in reactivation or reinfection (1-3%). Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 1593, Cloherty & Stark&rsquo;s Neonatology, 8 th Edition
+----------------------------------------------------------------
+
+ID: 23377 | Answer: [C] 24 months
+QUESTION: The weight of a child is quadrupled the birth weight at?
+OPTIONS: A) 12 months | B) 18 months | C) 24 months | D) 30 months
+EXPLANATION: Remember the following Reference: O.P Ghai, 10 th edition, Pages 11-12.
+----------------------------------------------------------------
+
+ID: 23378 | Answer: [D] Ulnar palmar grasp reflex
+QUESTION: Which among the following is the earliest to appear in a child?
+OPTIONS: A) Moro's Reflex | B) Asymmetric tonic neck reflex | C) Parachute Reflex | D) Ulnar palmar grasp reflex
+EXPLANATION: Let us evaluate each option sequentially Option A- Incomplete/ immature moro's reflex comes at 32 weeks gestation. In this, only Abduction & Extension components are present. Complete/ mature moro's reflex comes at 36-37-week gestation, where all 4 components are present. Option B- Asymmetric Tonic Neck Reflex appears at 35-36 weeks of gestation Option C- Parachute Reflex appears at 9 months of post-natal age. Option D- Ulnar palmar grasp reflex, also known simply as Palmar grasp reflex comes at 28 weeks of gestation and is strong by 32 weeks of gestation. Thus, Option D is the earliest to appear in a child. Reference: OP Ghai 10 th Edition, Page 138
+----------------------------------------------------------------
+
+ID: 23379 | Answer: [B] Parachute reflex
+QUESTION: Which primitive reflex persists throughout life instead of disappearing?
+OPTIONS: A) Rooting reflex | B) Parachute reflex | C) Moro's reflex | D) Palmar grasp reflex
+EXPLANATION: Explanation: The parachute reflex: Appears at 7-8 months of age. Persists throughout life. Trigger: when held in ventral suspension and dropped suddenly, the child extends arms/legs to protect from fall. Primitive Reflexes Table: Key Takeaways: Parachute reflex is the only primitive reflex that never disappears. Used as a protective postural reflex in life. Reference: Primitive Reflexes - StatPearls, NCBI Bookshelf.
+----------------------------------------------------------------
+
+ID: 23380 | Answer: [C] 2.5 - 2.9 kg
+QUESTION: Mean birth weight in India -
+OPTIONS: A) 2.0 - 2.4 kg | B) 2.4 - 2.5 kg | C) 2.5 - 2.9 kg | D) > 3.0 kg
+EXPLANATION: Ans. is 'c' i.e., 2.5 - 2.9 kg Mean birth weight in Different parts of the world Region Mean birth weight North America, Western Europe, Australia 3.5 - 3.6 kg Eastern Europe 3.1 - 3.3 kg Africa and East Asia 2.9 - 3.1 kg South Asian countries 2.7 kg o In India, mean birth weight ranges from 24.9 kg to 28.8 kg.
+----------------------------------------------------------------
+
+ID: 23381 | Answer: [C] Stage 2B
+QUESTION: A 28-week preterm baby developed necrotising enterocolitis. He is found to have visible blood in stools, abdominal wall cellulitis, absent bowel sounds. His X-ray revealed pneumatosis intestinalis & portal vein gas, however there was no ascites or gas under diaphragm. What stage is the child currently in, as per modified Bell's staging?
+OPTIONS: A) Stage 1B | B) Stage 2A | C) Stage 2B | D) Stage 3A
+EXPLANATION: Presence of Abdominal Wall Cellulitis & Portal Vein Gas in NEC indicate Stage 2B. Modified Bell's Staging of NEC Reference: AIIMS Protocols In Neonatology, 3 rd Edition, Volume 1, Page 248-258
+----------------------------------------------------------------
+
+ID: 23407 | Answer: [C] Peritoneal lavage and drainage
+QUESTION: Treatment of choice in NEC Stage IIIB in an ELBW neonate who is extremely unstable and has DIC includes?
+OPTIONS: A) Laparotomy | B) Damage control surgery | C) Peritoneal lavage and drainage | D) ECMO
+EXPLANATION: Although Laparotomy with resection of gangrenous bowel and enterostomy formation is the standard procedure in most neonates with Stage IIIB of NEC owing to Perforation, this is not possible in ELBW unstable neonates. Many ELBW neonates who are hemodynamically unstable and/or have complications like uncontrolled DIC cannot undergo immediate surgery. They benefit from PPD- Primary Peritoneal Drainage, till the baby becomes stable & then surgery can be safely followed. Reference: AIIMS Protocols In Neonatology, 3 rd Edition, Volume 1, Page 254
+----------------------------------------------------------------
+
+ID: 23408 | Answer: [C] Prevention of NNJ
+QUESTION: All of the following are indications to use Antenatal Dexamethasone in a lady with preterm labour, except?
+OPTIONS: A) Prevention of RDS | B) Prevention of IVH | C) Prevention of NNJ | D) Prevention of NEC
+EXPLANATION: Antenatal corticosteroid given to pregnant female can prevent 3 problems in preterm neonates RDS or HMD IVH NEC However, the risk of NNJ is not reduced by antenatal corticosteroids. Reference: Cloherty & Stark's Neonatology, 8 th Edition
+----------------------------------------------------------------
+
+ID: 23409 | Answer: [B] Start BMV
+QUESTION: A preterm neonate, admitted in hospital & receiving Caffeine Citrate becomes suddenly apneic and unresponsive. What is the immediate next step to do?
+OPTIONS: A) Wait and watch | B) Start BMV | C) Give a bolus dose of Caffeine | D) Add Theophylline
+EXPLANATION: Any neonate developing apnea due to any reason needs to be immediately managed to prevent mortality. Such neonates need tactile stimulation, followed by PPV using bag and mask ventilation. If apneic episodes persist, start CPAP or put on ventilator after intubation. Once the child is stable, investigate the underlying cause. If no secondary cause is found & it is apnea of prematurity child, start Caffeine Citrate. If already on Caffeine citrate, give one IV mini-bolus, evaluate serum caffeine levels & rule out IVH, sepsis and polycythemia using appropriate investigations. Reference: Cloherty & Stark's Neonatology 8 th Edition, Chapter 31, Pages 428-429
+----------------------------------------------------------------
+
+ID: 23411 | Answer: [A] Near-infrared spectroscopy
+QUESTION: A preterm neonate is being evaluated for complications. Which of the following is now recommended as a latest clinical tool to aid in the early diagnosis of necrotizing enterocolitis (NEC)?
+OPTIONS: A) Near-infrared spectroscopy | B) Positron emission scan of gut | C) Haemin detection in stools | D) Serial Gastrografin enemas
+EXPLANATION: As per the latest AIIMS Protocol, 3 rd edition, Near-infrared spectroscopy (NIRS) is a clinical tool that non-invasively measures oxygen consumption of tissues in real-time and can assess potential ischemia of the bowel, which can aid in the early diagnosis of NEC. Evidence suggests that a reduction in splanchnic saturation (rSO2) may be an early warning sign of NEC in vulnerable neonates. Moreover, monitoring of NIRS in preterm neonates with NEC may predict complications such as bowel necrosis, perforation, need for surgical intervention and death in the 1 st 48 hours after the onset of symptoms of NEC. Reference: AIIMS Protocols in Neonatology: Volume 1, 3 rd Edition, Page Number-251.
+----------------------------------------------------------------
+
+ID: 23428 | Answer: [D] Immature platelet fraction
+QUESTION: A newborn baby comes to you at 7th day of life with refusal to feeding. Baby also had fever since 2 days and reduced activity since a day before. On examination child remains sleepy, wakes up only for feeding. Sucking is poor. Mother is confident that child was sucking very well for first 5 days. You suspect neonatal sepsis in the baby. Which of the following investigation is not a part of neonatal septic screen?
+OPTIONS: A) Blood and urine culture | B) Procalcitonin | C) C reactive protein | D) Immature platelet fraction
+EXPLANATION: The primary investigation in a suspected neonatal sepsis screen includes Blood culture (option a) Urine culture (option a) CSF culture Tracheal aspirate culture (in intubated babies) Absolute neutrophil count and immature to total neutrophil ratio Platelet count CSF cell count with protein and glucose levels C Reactive Protein (option c) Procalcitonin (option b) Tags : Topic : NEONATAL SEPSIS Difficulty level : GOOD TO KNOW PYQ : INICET NOV 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 527
+----------------------------------------------------------------
+
+ID: 23451 | Answer: [C] Self-inflating bag attached to an oxygen mask placed over baby's mouth and nose
+QUESTION: Which of the following is not a suitable method for free flow oxygen delivery to a newborn baby?
+OPTIONS: A) Oxygen tube kept close to the baby's nose and mouth | B) Oxygen mask placed over the baby's mouth and nose | C) Self-inflating bag attached to an oxygen mask placed over baby's mouth and nose | D) A reservoir bag attached to an oxygen mask kept over the baby's nose and mouth
+EXPLANATION: Explanation: A self-inflating bag is specifically designed to provide positive pressure ventilation (PPV) and is not suitable for free-flow oxygen delivery . It delivers higher flow rates and pressures appropriate for resuscitation, unlike the gentle, continuous flow required for free-flow oxygen therapy. Free-Flow Oxygen Delivery Methods: Oxygen tube near face (blow-by) Oxygen mask over face Oxygen hood Reservoir bag with mask Self-inflating bag delivers positive pressure ventilation , not free-flow oxygen. PPV Characteristics: Rate: 40-60 breaths/minute First breath: 30-40 cm H&#8322;O Subsequent: 15-20 cm H&#8322;O Contraindication: Congenital diaphragmatic hernia Explanation of Other Options: Keeping an oxygen tube close to the baby's nose and mouth (Option A): Provides free-flow oxygen by directing oxygen near the baby's face, allowing continuous oxygen supply without direct contact with the nose or mouth. Keeping an oxygen mask over the baby's nose and mouth (Option B): Delivers free-flow oxygen efficiently , ensuring the baby inhales oxygen without requiring active ventilation from the mask. Using a reservoir bag attached to an oxygen mask over the baby's nose and mouth (Option D): Provides high-concentration oxygen , suitable for free-flow oxygen delivery when higher oxygen levels are needed. Positive pressure ventilation:
+----------------------------------------------------------------
+
+ID: 23522 | Answer: [A] Zika virus
+QUESTION: Transplacental transmission of the organism given in the image which causes microcephaly in the newborn is?
+OPTIONS: A) Zika virus | B) Rubella | C) CMV | D) HSV
+EXPLANATION: Mother infected with Zika virus, transmitted by Aedes mosquito Infection involves Hofbauer cells in placenta Virus crosses placenta, reaching the fetus Damages developing glial cells, causing microcephaly Incorrect options: Rubella CMV HSV Key takeaway Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23617 | Answer: [B] Giving a bath immediately after birth
+QUESTION: Which of the following is considered harmful to a newborn in the immediate postnatal period?
+OPTIONS: A) Cleaning the eyes with a wet, sterile swab | B) Giving a bath immediately after birth | C) Initiating breastfeeding within 1 hour | D) Placing the baby on the mother's chest
+EXPLANATION: Explanation: Newborns should not be bathed immediately after birth , as it increases the risk of hypothermia, hypoglycemia, and infections due to loss of protective vernix caseosa. WHO recommends delaying the first bath for at least 24 hours (or at least 6 hours if not possible) to promote thermal regulation and early bonding. Hence, giving a bath immediately is harmful in the immediate postnatal period. Explanation of other options: Cleaning eyes with a sterile swab (Option A): This is part of essential newborn care to prevent ophthalmia neonatorum and keep the eyes clean. It is not harmful when performed with sterile technique. Initiating breastfeeding within 1 hour (Option C): Early initiation ensures colostrum intake, improves immunity, and reduces neonatal morbidity. Far from harmful, it is one of the most beneficial interventions. Placing the baby on the mother&rsquo;s chest (Option D): Skin-to-skin contact stabilises body temperature, promotes bonding, and stimulates breastfeeding reflexes. It is considered a cornerstone of immediate newborn care.
+----------------------------------------------------------------
+
+ID: 23619 | Answer: [D] Prematurity
+QUESTION: Causes of prolonged jaundice in a neonate include all except?
+OPTIONS: A) Breastfeeding jaundice | B) Breastmilk jaundice | C) Neonatal cholestasis | D) Prematurity
+EXPLANATION: Persistence of significant jaundice >2 weeks in term and >3 weeks in preterm babies is termed Prolonged Jaundice In A Neonate. Causes include the following Reference: AIIMS Protocols In Neonatology, 3 rd Edition, Volume 1, Page 223; OP Ghai 10 th Edition, Page 174
+----------------------------------------------------------------
+
+ID: 23635 | Answer: [A] Continue breastfeeding and observe
+QUESTION: A 1-day-old newborn has not passed urine since birth. What is the most appropriate next step in management?
+OPTIONS: A) Continue breastfeeding and observe | B) Admit to NICU | C) Start artificial feeding | D) Start intravenous fluids
+EXPLANATION: Explanation: If a healthy term neonate has not passed urine within the first 24 hours, the initial management is to continue breastfeeding and observe , as most will void spontaneously soon after. First urine: Normally passed within 12-24 hours after delivery. Early urine: May be concentrated and contain urates , causing orange/pink stains on diapers. Persistent delay beyond 24 hours: Requires evaluation for possible urinary tract obstruction or congenital anomalies. Conditions causing delayed passage of urine: Posterior urethral valves (PUV) Urethral atresia Ureterocele Urogenital sinus anomaly (females) Spina bifida Meconium passage: Normal: First meconium (green-black sticky stool) should be passed within 48 hours . Delayed passage seen in: Hirschsprung disease Meconium plug syndrome Imperforate anus Congenital hypothyroidism Neonatal sepsis Explanation of Other Options: Admit to NICU (Option B): Required only if the neonate fails to pass urine beyond 24 hours or develops systemic illness/dehydration. Start artificial feeding (Option C): Indicated only if breastfeeding is inadequate or not feasible (e.g., maternal lactation failure, poor latch). Start intravenous fluids (Option D): Reserved for cases with signs of dehydration or underlying pathology needing urgent intervention. Key Takeaways: First urine should occur within 12-24 hours after birth. Continue breastfeeding and observation is the first step in a healthy neonate with delayed urination. Persistent delay (>24 hours) or systemic illness warrants further evaluation for urinary tract obstruction or congenital anomalies. Meconium should pass within 48 hours ; delay suggests intestinal obstruction or metabolic/septic causes . Reference: https://www.msdmanuals.com/home/children-s-health-issues/care-of-newborns-and-infants/first-few-days-after-birth#Skin_v84059324 https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/UrineBlockage_508.pdf
+----------------------------------------------------------------
+
+ID: 23973 | Answer: [C] JE
+QUESTION: Which disease has not been covered routinely under Mission Indradhanush?
+OPTIONS: A) TB | B) Measles | C) JE | D) Diphtheria
+EXPLANATION: Mission Indradhanush was launched in December 2014 with the objective of achieving full immunization coverage for more than 90% of infants by the year 2020. "Indradhanush" is a Hindi word for rainbow, symbolizing the seven diseases targeted in the mission. Diseases Covered in Mission Indradhanush : Diphtheria Pertussis (Whooping Cough) Tetanus Polio Tuberculosis Measles Hepatitis B Mission Indradhanush later expanded to cover Japanese Encephalitis ,HiB(Hemophilus influenzae B)and Rotavirus . ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 24091 | Answer: [B] Neonatal hepatitis
+QUESTION: A newborn presents with conjugated hyperbilirubinemia, intrahepatic cholestasis, elevated alkaline phosphatase, and eosinophilic PAS-positive cytoplasmic granules on liver biopsy suggestive of Alpha-1 antitrypsin deficiency. What is the most common cause of jaundice in this scenario?
+OPTIONS: A) Hypoplasia of the biliary tract | B) Neonatal hepatitis | C) Choledochal cyst | D) Physiological
+EXPLANATION: Explanation: Neonatal hepatitis : Neonatal hepatitis is the most common cause of conjugated jaundice in newborns and may be associated with: Conjugated hyperbilirubinemia Intrahepatic cholestasis High alkaline phosphatase PAS-positive eosinophilic granules in liver biopsy (seen in Alpha-1 antitrypsin deficiency subtype) Etiology includes: Viral: Hepatitis A-E, CMV, HSV, Rubella Metabolic: Alpha-1 antitrypsin deficiency, galactosemia, tyrosinemia Immune-mediated: Autoimmune hepatitis, neonatal lupus Drug-induced: Maternal medications (anticonvulsants, antibiotics, NSAIDs) Explanation of Other Options: Hypoplasia of biliary tract (Option A): Underdeveloped bile ducts leading to cholestasis Typically shows bile duct proliferation and pale stools Less common than neonatal hepatitis Choledochal cyst (Option C): Congenital dilation of bile ducts causing extrahepatic obstruction Presents with jaundice and abdominal mass No PAS-positive inclusions ; primarily extrahepatic obstruction Physiological jaundice (Option D): Common, transient, unconjugated hyperbilirubinemia Peaks at 2-4 days in term infants Not conjugated , unlike in this patient Key Takeaway Points: Reference: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4100675/
+----------------------------------------------------------------
+
+ID: 24114 | Answer: [B] Transient tachypnea of newborn
+QUESTION: A newborn delivered at 36 weeks has breathing difficulty which improved with Fi02 30%. Chest X-ray is shown below. What is the probable diagnosis?
+OPTIONS: A) Hyaline membrane disease | B) Transient tachypnea of newborn | C) Meconium aspiration syndrome | D) None of the above
+EXPLANATION: Explanation: A 36-week newborn with mild respiratory distress needing only 30 % FiO 2 and a chest X-ray showing fluid within the interlobar fissures is most consistent with Transient Tachypnea of the Newborn (TTN) . TTN occurs more often in term or late-preterm infants and is linked to factors such as twin pregnancy, maternal asthma or hypertension, cesarean delivery without labour, precipitous birth, gestational diabetes, fetal macrosomia, and perinatal depression. The disorder results from incomplete absorption of fetal lung fluid, which lowers lung compliance and hampers gas exchange. Typical features include rapid breathing soon after birth (rate >60/min) sometimes with mild retractions or expiratory grunting, and any cyanosis usually resolves with low-flow oxygen ( Chest imaging commonly reveals prominent perihilar streaking and fluid within the interlobar fissures, with occasional small pleural effusions. Management is supportive, and most infants improve quickly without long-term problems. Explanations for other Options: Hyaline membrane disease (Option A): Usually affects very premature infants ( Meconium aspiration syndrome (Option C): Seen mainly in term or post-term babies with meconium-stained amniotic fluid and shows patchy coarse infiltrates and areas of hyperinflation on X-ray, unlike this case.
+----------------------------------------------------------------
+
+ID: 24189 | Answer: [A] Most Common cause of Non-Syndromic SNHL in children
+QUESTION: Which of the following is true about Congenital CMV Infection?
+OPTIONS: A) Most Common cause of Non-Syndromic SNHL in children | B) 25-30% babies are asymptomatic | C) Confirmation can be done by urine culture or PCR after 4 weeks of age | D) In developing countries, primary maternal infection can lead to congenital CMV
+EXPLANATION: Let us evaluate each option Option A is true. Congenital CMV is the most common non-syndromic cause of SNHL in children. SNHL can occur in 60% of symptomatic and even 5% asymptomatic patients infected with CMV in utero. Option B is false. Congenital CMV is asymptomatic in 90% cases and symptomatic in 10% cases. Option C is false. Urine culture and PCR are diagnostic, but can identify congenital CMV only in the 1 st 3 weeks of age. Option D is false. Primary maternal infection with CMV during pregnancy is the predominant mode in developed countries, like US. In a developing country like India, most maternal infections in pregnancy with CMV are either reactivation or reinfection. Also note that risk of fetal infection is more in primary maternal CMV infection (25-30%) compared to that in reactivation or reinfection (1-3%). Reference: OP Ghai 10 th Edition, Page 285; Cloherty & Stark&rsquo;s Neonatology 8 th Edition
+----------------------------------------------------------------
+
+ID: 24226 | Answer: [C] PP65 antigen levels
+QUESTION: Which of the following is used to monitor response to therapy in a patient of severe congenital CMV, who is being treated with ganciclovir?
+OPTIONS: A) CSF studies | B) PCR | C) PP65 antigen levels | D) Serum AST levels
+EXPLANATION: Fast detection methods for CMV viremia include: the antigenemia assay for detecting PP65 antigen in polymorphonuclear leukocytes from peripheral blood, polymerase chain reaction (PCR), nucleic acid sequence-based amplification (NASBA), and molecular methods such as branched-DNA signal amplification assay (b-DNA) and hybrid capture. Quantitative PP65 antigen assay performed on blood is a good test for diagnosing CMV disease and monitoring response to antiviral therapy in a high sero-endemic populations. Reference: Cloherty & Stark&rsquo;s Neonatology, 8 th Edition
+----------------------------------------------------------------
+
+ID: 24227 | Answer: [B] Clutton's joints
+QUESTION: Not a feature of early congenital syphilis?
+OPTIONS: A) Snuffles | B) Clutton's joints | C) Periostitis | D) Hepatosplenomegaly
+EXPLANATION: Clutton&rsquo;s joints refers to bilateral knee swelling or effusion, seen in late congenital syphilis, appearing beyond 2 years of age. This is not a feature of early congenital syphilis. All others are features of early congenital syphilis. Reference: Cloherty & Stark&rsquo;s Neonatology 8 th Edition, OP Ghai 10 th Edition, Page 286
+----------------------------------------------------------------
+
+ID: 24263 | Answer: [C] A dried blood sample and screen first for TSH levels
+QUESTION: A 22-year-old mother presented with her 2-week-old newborn who had a large tongue and an umbilical hernia. Which investigation is most appropriate for newborn screening of congenital hypothyroidism?
+OPTIONS: A) A fresh blood sample and screen first for TSH levels | B) A fresh blood sample and screen first for T4 levels | C) A dried blood sample and screen first for TSH levels | D) A dried blood sample and screen first for T4 levels
+EXPLANATION: Explanation: The clinical manifestations indicate congenital hypothyroidism, as evidenced by the large tongue and umbilical hernia . The screening method for congenital hypothyroidism involves using dried blood spot samples and testing for TSH levels . TSH is a more sensitive and specific marker for detecting hypothyroidism in newborns Elevated TSH levels indicate hypothyroidism, while low or normal TSH levels suggest normal thyroid function Measuring T4 levels alone is not sufficient (Option B and C Ruled Out) for the initial screening of congenital hypothyroidism because T4 levels can be affected by various factors, including stress, illness, and medications Dried blood spot testing is a simple, minimally invasive method to collect a blood sample , allowing for large-scale newborn screening programs where a small amount of blood from a heel prick is readily accessible for analysis. (Option A Ruled Out) Key Takeaway Points:
+----------------------------------------------------------------
+
+ID: 24270 | Answer: [D] Prolonged jaundice
+QUESTION: During his 1st physical examination following birth at home with the assistance of a midwife, a 5- week-old male is suspected to have congenital hypothyroidism. His parents refused all newborn screening at the time of his birth. Which of the following may be the earliest clinical sign of congenital hypothyroidism?
+OPTIONS: A) Exophthalmos | B) Sustained clonus | C) Closed posterior fontanelle | D) Prolonged jaundice
+EXPLANATION: Prolongation of physiologic jaundice, due to delayed maturation of glucuronide conjugation, is often the 1st clinical finding in an infant with congenital hypothyroidism. Poor feeding, partly due to a large tongue, somnolence, and lack of interest are characteristic. Additional clinical findings may include a large protuberant abdomen; umbilical hernia; mottled, cool, and dry skin; extremity edema; and widely open fontanelles. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 2668
+----------------------------------------------------------------
+
+ID: 24271 | Answer: [B] 3 days
+QUESTION: A full term baby born to a mother with hypothyroidism, needs to be screened for congenital hypothyroidism ideally at what age?
+OPTIONS: A) 1 day | B) 3 days | C) 1 week | D) 3 weeks
+EXPLANATION: A newborn screening for congenital hypothyroidism must be done at 3-4 days of life coupled with newborn screening for inborn errors of metabolism. Screening test that are positive must be reassessed with a repeat venous sample and read according to cut-off values for the age. Tags : Topic : CONGENITAL HYPOTHYROIDISM Difficulty level : MUST KNOW PYQ : NEET PG 2022 Reference : AIIMS protocols in neonatology, 2019, pg. 236
+----------------------------------------------------------------
+
+ID: 24277 | Answer: [A] CAH
+QUESTION: A newborn infant is found at birth to have proximal hypospadias in a short phallus with bilateral nonpalpable gonads. The karyotype is suggestive of XX and the 17-hydroxyprogesterone is elevated. What is the likely diagnosis?
+OPTIONS: A) CAH | B) Mixed gonadal dysgenesis | C) Klinefelter syndrome | D) Turner syndrome
+EXPLANATION: Child is genotypic female . Phenotypically child has ambiguous genitals as the phallus is small and gonads are non-palpable. No other signs of shock or distress is mentioned. 17-OHP is elevated. These are suggestive of CAH with 21 hydroxylase deficiency. Mixed gonadal dysgenesisis characterized by a unilateral streak gonad with a contralateral, often dysgenetic, testis (option b). A variant where two dysgenetic testes are present, rather than one dysgenetic testis and a streak gonad, is called partial gonadal dysgenesis . Most of patients have a 45,XO/46,XY karyotype and persistence of M&uuml;llerian structures associated with varying degrees of masculinization, including normal male genitalia. Klinefelter syndrome has XXY and Turner has XO karyotype. (option c, d) Tags : Topic : DISORDER OF SEXUAL DEVELOPMENT Difficulty level : GOOD TO KNOW Reference : Nelson pediatric symptom-based diagnosis, pg. 356
+----------------------------------------------------------------
+
+ID: 24283 | Answer: [A] 21 hydroxylase
+QUESTION: A female newborn is found to have ambiguous genitalia. Work up shows very high 17-hydroxyprogesterone and progesterone levels. Which enzyme deficiency is responsible?
+OPTIONS: A) 21 hydroxylase | B) 17 beta hydroxylases | C) 11 hydroxylase | D) 17 alpha hydroxylase
+EXPLANATION: A female neonate with ambiguous genitalia is likely to have either 21 hydroxylase deficiency or 11 beta hydroxylase deficiency or 3 beta hydroxysteroid dehydrogenase deficiency. Reason: Nelson 21 st Edition Says- The most important problem caused by accumulation of steroid precursors is that in 21 hydroxylase deficiency, 17-hydroxyprogesterone is increased, which is shunted into the pathway for androgen biosynthesis, leading to high levels of androstenedione that are converted outside the adrenal gland to testosterone. This problem begins in affected fetuses by 8-10 wk of gestation and leads to abnormal genital development in females. Please note that in 21 hydroxylase deficiency, there is an elevated level of 17-hydroxy progesterone, which is a screening test for this condition. Hence, the likely enzyme deficiency is 21 hydroxylase deficiency. Note: For better and detailed conceptual understanding, kindly listen to the video discussion of CAH by Dr Sandeep Sharma on Doctutorials App & you will never go wrong in similar questions!!! Reference: Nelson 21 st Edition, Chapter 594; OP Ghai 10 th Edition, Table 18.16; Pages 547-548
+----------------------------------------------------------------
+
+ID: 24304 | Answer: [A] Neuroblastoma
+QUESTION: A 4 year old boy is found to be having a large abdominal mass on routine examination. What is the next most common differential for malignant etiology in this child after nephroblastoma?
+OPTIONS: A) Neuroblastoma | B) Polycystic kidney disease | C) Pheochromocytoma | D) Hydronephrosis
+TAG TOPIC: SOLID TUMORS Difficulty level: MUST KNOW PYQ: FMGE JULY 2023 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2681
+EXPLANATION: Most common cause of renal mass in a preschool child is Nephroblastoma. Other renal causes of an abdominal mass include polycystic kidney disease and hydronephrosis. The most common malignant differential diagnosis of an abdominal mass in a preschool child is neuroblastoma, which may also present with hypertension, abdominal pain or fever. Neuroblastoma is associated with periorbital ecchymosis (dark circles under the eyes), an abdominal mass which crosses the midline, and signs of bone marrow infiltration. KEY TAKEAWAYS: Most common cause of renal mass in a preschool child is Nephroblastoma. Tags: Topic: SOLID TUMORS Difficulty level: MUST KNOW PYQ: FMGE JULY 2023 Reference: Nelson textbook of paediatrics, 21 st ed, page number: 2681
+----------------------------------------------------------------
+
+ID: 24382 | Answer: [B] You are unable to tell right now and a detailed assessment of the baby including scans and blood tests will be needed before a specialist can tell them
+QUESTION: A newborn baby has recently been delivered. The midwife requests an urgent pediatric review of the baby because she cannot tell if the baby is male or female. The parents are asking what sex their baby is. What should you tell them?
+OPTIONS: A) You are unable to tell if the baby is male or female, and tell the parents it is likely to be a mixture of both sexes, i.e. ovo-testicular disorder of sex development (DSD - or hermaphroditism). | B) You are unable to tell right now and a detailed assessment of the baby including scans and blood tests will be needed before a specialist can tell them | C) You are unable to tell right now but will be able to assign a sex as soon as you get the baby's chromosomes back | D) You think it is likely to be a girl so tell them the baby should be named as a female on the birth certificate pending the results
+TAG TOPIC: DISORDER OF SEXUAL DEVELOPMENT Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3008
+EXPLANATION: A detailed assessment by medical, surgical and psychological specialists needs to be performed followed by a full discussion with the parents before the infant is assigned a sex. Sexuality is complex, and depends on more than the baby's phenotype, chromosomes and hormone levels. If there is abnormal sexual differentiation at birth , do not guess the infant's gender. A detailed assessment needs to be performed. Ovo-testicular DSD is extremely rare. It is usually possible to assign the infant a sex after assessment of phenotype, sex hormones and ultrasound scans of internal structures and gonads are performed. Tags: Topic: DISORDER OF SEXUAL DEVELOPMENT Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3008
+----------------------------------------------------------------
+
+ID: 24430 | Answer: [B] Stage 2
+QUESTION: A neonate had delayed cry after birth and developed features of hypoxic ischemic encephalopathy (HIE). On examination, he had hypotonia, exaggerated ankle reflex, recurrent focal seizures and miotic pupils. What is the likely stage of HIE according to Sarnat and Sarnat staging system?
+OPTIONS: A) Stage 1 | B) Stage 2 | C) Stage 3 | D) Stage 4
+EXPLANATION: The features, especially the presence of recurrent focal seizures and miotic pupils, are suggestive of Stage 2 HIE. Please revise Sarnat and Sarnat staging of HIE as follows: Reference: Nelson 21 st Edition, Chapter 120
+----------------------------------------------------------------
+

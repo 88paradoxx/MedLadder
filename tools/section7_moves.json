@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1905,
+    "from": 89,
+    "to": 74,
+    "reason": "Mitral/periglomerular cells in olfactory bulb -> Special Senses (Mod 74)"
+  },
+  {
+    "id": 2153,
+    "from": 89,
+    "to": 74,
+    "reason": "Transducin in retina phototransduction -> Special Senses (Mod 74)"
+  },
+  {
+    "id": 2753,
+    "from": 89,
+    "to": 91,
+    "reason": "Renal acid secretion (H+) -> Acid-Base Balance & Renal Hormones (Mod 91)"
+  },
+  {
+    "id": 2852,
+    "from": 89,
+    "to": 82,
+    "reason": "Lymph flow factors -> Vascular System (Mod 82)"
+  },
+  {
+    "id": 2867,
+    "from": 89,
+    "to": 83,
+    "reason": "Fastest impulse generation (SA node) -> Electrophysiology of Heart (Mod 83)"
+  },
+  {
+    "id": 2636,
+    "from": 89,
+    "to": 469,
+    "reason": "Nelson syndrome after adrenalectomy -> Medicine (Mod 469: Adrenal Gland Disorders)"
+  },
+  {
+    "id": 2868,
+    "from": 89,
+    "to": 83,
+    "reason": "AV nodal delay 0.1s -> Electrophysiology of Heart (Mod 83)"
+  },
+  {
+    "id": 2844,
+    "from": 89,
+    "to": 181,
+    "reason": "Asbestosis / mesothelioma insulation worker -> Pathology (Mod 181: Lung Tumors)"
+  },
+  {
+    "id": 2882,
+    "from": 89,
+    "to": 82,
+    "reason": "Laminar blood flow in small vessels -> Vascular System (Mod 82)"
+  },
+  {
+    "id": 2874,
+    "from": 89,
+    "to": 77,
+    "reason": "Reynolds number / gas flow turbulence -> Mechanics of Respiration (Mod 77)"
+  },
+  {
+    "id": 2879,
+    "from": 89,
+    "to": 82,
+    "reason": "Coronary blood flow regulation -> Vascular System (Mod 82)"
+  },
+  {
+    "id": 2880,
+    "from": 89,
+    "to": 82,
+    "reason": "Poiseuille-Hagen law -> Vascular System (Mod 82)"
+  },
+  {
+    "id": 2883,
+    "from": 89,
+    "to": 82,
+    "reason": "Largest cross-sectional area (capillaries) -> Vascular System (Mod 82)"
+  },
+  {
+    "id": 2884,
+    "from": 89,
+    "to": 82,
+    "reason": "Pre-capillary sphincter relaxation -> Vascular System (Mod 82)"
+  },
+  {
+    "id": 2888,
+    "from": 89,
+    "to": 83,
+    "reason": "SA node fastest impulse rate -> Electrophysiology of Heart (Mod 83)"
+  },
+  {
+    "id": 2889,
+    "from": 89,
+    "to": 77,
+    "reason": "Small airway laminar air flow -> Mechanics of Respiration (Mod 77)"
+  },
+  {
+    "id": 2895,
+    "from": 89,
+    "to": 604,
+    "reason": "Pediatric tumor cure rates (Retinoblastoma/Wilms) -> Pediatrics (Mod 604: Solid Neoplasms)"
+  },
+  {
+    "id": 2911,
+    "from": 89,
+    "to": 90,
+    "reason": "Medullary hyperosmolarity -> Renal Tubular Functions (Mod 90)"
+  },
+  {
+    "id": 3325,
+    "from": 89,
+    "to": 98,
+    "reason": "Adrenal cortex histology / aldosterone -> Misc Physiology (Mod 98)"
+  },
+  {
+    "id": 3334,
+    "from": 89,
+    "to": 98,
+    "reason": "Adrenal androgen DHEA -> Misc Physiology (Mod 98)"
+  },
+  {
+    "id": 2873,
+    "from": 89,
+    "to": 78,
+    "reason": "Hemoglobin chain synthesis / HbF gamma chain -> Gas Transport in Blood (Mod 78)"
+  },
+  {
+    "id": 2353,
+    "from": 89,
+    "to": 78,
+    "reason": "CPD blood storage / 2,3-DPG -> Gas Transport in Blood (Mod 78)"
+  },
+  {
+    "id": 3054,
+    "from": 89,
+    "to": 90,
+    "reason": "Urea tubular reabsorption -> Renal Tubular Functions (Mod 90)"
+  },
+  {
+    "id": 3175,
+    "from": 89,
+    "to": 98,
+    "reason": "DHEA-S exclusive female adrenal secretion -> Misc Physiology (Mod 98)"
+  },
+  {
+    "id": 3329,
+    "from": 89,
+    "to": 601,
+    "reason": "Congenital adrenal hyperplasia enzymes -> Pediatrics (Mod 601: CAH)"
+  },
+  {
+    "id": 1844,
+    "from": 89,
+    "to": 227,
+    "reason": "Aliskiren direct renin inhibitor mechanism -> Pharmacology (Mod 227: Antihypertensives)"
+  },
+  {
+    "id": 2419,
+    "from": 89,
+    "to": 94,
+    "reason": "1-alpha-hydroxylase vitamin D activation -> Calcium Homeostasis (Mod 94)"
+  },
+  {
+    "id": 1917,
+    "from": 90,
+    "to": 98,
+    "reason": "Counter current mechanism in body sites (testes, vasa recta) -> Misc Physiology (Mod 98)"
+  },
+  {
+    "id": 2948,
+    "from": 90,
+    "to": 89,
+    "reason": "Glomerular barrier charge selectivity / polyanions -> GFR & Glomerular Filtration (Mod 89)"
+  },
+  {
+    "id": 2951,
+    "from": 90,
+    "to": 92,
+    "reason": "ADH synthesis in supraoptic nucleus -> Pituitary and Thyroid (Mod 92)"
+  },
+  {
+    "id": 2953,
+    "from": 90,
+    "to": 63,
+    "reason": "Beta-2 transferrin in CSF -> Body Fluids (Mod 63)"
+  },
+  {
+    "id": 2979,
+    "from": 90,
+    "to": 106,
+    "reason": "Phenylketonuria mousy urine -> Biochemistry (Mod 106: Amino Acid Metabolic Disorder)"
+  },
+  {
+    "id": 2984,
+    "from": 90,
+    "to": 63,
+    "reason": "Potassium distribution in body fluids -> Body Fluids (Mod 63)"
+  },
+  {
+    "id": 2985,
+    "from": 90,
+    "to": 63,
+    "reason": "CSF vs plasma composition -> Body Fluids (Mod 63)"
+  },
+  {
+    "id": 2986,
+    "from": 90,
+    "to": 78,
+    "reason": "HbF oxygen affinity / 2,3-DPG -> Gas Transport in Blood (Mod 78)"
+  },
+  {
+    "id": 2993,
+    "from": 90,
+    "to": 146,
+    "reason": "Primaquine induced hemolysis in G6PD deficiency -> Pathology (Mod 146: G6PD Deficiency)"
+  },
+  {
+    "id": 3000,
+    "from": 90,
+    "to": 61,
+    "reason": "Ficks law of diffusion -> Transport Across Cell Membrane (Mod 61)"
+  },
+  {
+    "id": 3056,
+    "from": 90,
+    "to": 63,
+    "reason": "Sahlis acid hematin method -> Body Fluids (Mod 63)"
+  },
+  {
+    "id": 1770,
+    "from": 90,
+    "to": 63,
+    "reason": "Neubauer chamber cell count calculation -> Body Fluids (Mod 63)"
+  },
+  {
+    "id": 3017,
+    "from": 90,
+    "to": 91,
+    "reason": "Ammonia buffer system in DCT / renal buffering -> Acid-Base Balance (Mod 91)"
+  },
+  {
+    "id": 2976,
+    "from": 90,
+    "to": 228,
+    "reason": "Hydrochlorothiazide site of action -> Pharmacology (Mod 228: Diuretics)"
+  },
+  {
+    "id": 2970,
+    "from": 90,
+    "to": 228,
+    "reason": "Acute pulmonary edema loop diuretic (furosemide) MoA -> Pharmacology (Mod 228: Diuretics)"
+  },
+  {
+    "id": 2403,
+    "from": 91,
+    "to": 77,
+    "reason": "Kyphoscoliosis restrictive lung disease mechanics -> Mechanics of Respiration (Mod 77)"
+  },
+  {
+    "id": 2505,
+    "from": 91,
+    "to": 94,
+    "reason": "Tetany causes / hypocalcemia -> Calcium Homeostasis (Mod 94)"
+  },
+  {
+    "id": 2534,
+    "from": 91,
+    "to": 470,
+    "reason": "Gynecomastia clinical case -> Medicine (Mod 470: Male Reproductive Disorders)"
+  },
+  {
+    "id": 2705,
+    "from": 91,
+    "to": 98,
+    "reason": "Precursor of mineralo/glucocorticoids/sex steroids -> Misc Physiology (Mod 98)"
+  },
+  {
+    "id": 2960,
+    "from": 91,
+    "to": 601,
+    "reason": "Congenital adrenal hyperplasia / 11b-hydroxylase -> Pediatrics (Mod 601: CAH)"
+  },
+  {
+    "id": 3023,
+    "from": 91,
+    "to": 79,
+    "reason": "V/Q ratio mismatch -> Pulmonary Circulation, V/Q & Gas Exchange (Mod 79)"
+  },
+  {
+    "id": 3024,
+    "from": 91,
+    "to": 77,
+    "reason": "Pulmonary ventilation -> Mechanics of Respiration (Mod 77)"
+  },
+  {
+    "id": 3034,
+    "from": 91,
+    "to": 71,
+    "reason": "Higher center for righting reflex -> Vestibular Apparatus & Posture (Mod 71)"
+  },
+  {
+    "id": 3041,
+    "from": 91,
+    "to": 71,
+    "reason": "Vestibulo-ocular reflex -> Vestibular Apparatus & Posture (Mod 71)"
+  },
+  {
+    "id": 3042,
+    "from": 91,
+    "to": 72,
+    "reason": "Spinocerebellar tract -> Motor System & Cerebellum (Mod 72)"
+  },
+  {
+    "id": 3043,
+    "from": 91,
+    "to": 73,
+    "reason": "Pavlov conditioned reflex in dogs -> Hypothalamus, Limbic & Cortex (Mod 73)"
+  },
+  {
+    "id": 3044,
+    "from": 91,
+    "to": 81,
+    "reason": "Hering-Breuer reflex -> Regulation of Respiration (Mod 81)"
+  },
+  {
+    "id": 3051,
+    "from": 91,
+    "to": 87,
+    "reason": "Bile acid detergent action -> Digestion & Absorption (Mod 87)"
+  },
+  {
+    "id": 3052,
+    "from": 91,
+    "to": 87,
+    "reason": "SCFA bacterial absorption -> Digestion & Absorption (Mod 87)"
+  },
+  {
+    "id": 3057,
+    "from": 91,
+    "to": 74,
+    "reason": "Umami taste receptor -> Special Senses (Mod 74)"
+  },
+  {
+    "id": 3058,
+    "from": 91,
+    "to": 71,
+    "reason": "Tonic labyrinthine reflex -> Vestibular Apparatus & Posture (Mod 71)"
+  },
+  {
+    "id": 3059,
+    "from": 91,
+    "to": 71,
+    "reason": "Righting reflex -> Vestibular Apparatus & Posture (Mod 71)"
+  },
+  {
+    "id": 3062,
+    "from": 91,
+    "to": 71,
+    "reason": "Postural reflex in spine -> Vestibular Apparatus & Posture (Mod 71)"
+  },
+  {
+    "id": 3063,
+    "from": 91,
+    "to": 73,
+    "reason": "Pavlov conditioned response -> Hypothalamus, Limbic & Cortex (Mod 73)"
+  },
+  {
+    "id": 3071,
+    "from": 91,
+    "to": 81,
+    "reason": "Cough reflex -> Regulation of Respiration (Mod 81)"
+  },
+  {
+    "id": 3073,
+    "from": 91,
+    "to": 64,
+    "reason": "H-reflex in EMG/NCV -> Physiology of Nerve (Mod 64)"
+  },
+  {
+    "id": 3076,
+    "from": 91,
+    "to": 97,
+    "reason": "Sprinter immediate energy (ATP-PCr) -> Exercise Physiology (Mod 97)"
+  },
+  {
+    "id": 2339,
+    "from": 91,
+    "to": 97,
+    "reason": "Triathlon anaerobic threshold exercise -> Exercise Physiology (Mod 97)"
+  },
+  {
+    "id": 2442,
+    "from": 91,
+    "to": 94,
+    "reason": "Tetany in alkalosis / ionized calcium -> Calcium Homeostasis (Mod 94)"
+  },
+  {
+    "id": 3009,
+    "from": 91,
+    "to": 90,
+    "reason": "Bicarbonate reabsorption PCT site -> Renal Tubular Functions (Mod 90)"
+  },
+  {
+    "id": 3045,
+    "from": 91,
+    "to": 85,
+    "reason": "Bezold-Jarisch reflex -> Blood Pressure & Regulation (Mod 85)"
+  },
+  {
+    "id": 2845,
+    "from": 91,
+    "to": 81,
+    "reason": "Peripheral chemoreceptors hypoxemia -> Regulation of Respiration (Mod 81)"
+  },
+  {
+    "id": 2780,
+    "from": 91,
+    "to": 87,
+    "reason": "Jejunal resection electrolyte absorption -> Digestion & Absorption (Mod 87)"
+  },
+  {
+    "id": 1933,
+    "from": 91,
+    "to": 97,
+    "reason": "Heat stroke / heat exhaustion cessation of sweating -> Exercise & Temperature Physiology (Mod 97)"
+  },
+  {
+    "id": 2704,
+    "from": 91,
+    "to": 98,
+    "reason": "Zona glomerulosa aldosterone -> Misc Physiology (Mod 98)"
+  },
+  {
+    "id": 2724,
+    "from": 91,
+    "to": 98,
+    "reason": "Adrenal gland zones histology -> Misc Physiology (Mod 98)"
+  }
+]

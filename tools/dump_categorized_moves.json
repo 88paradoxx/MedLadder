@@ -1,0 +1,1988 @@
+[
+  {
+    "id": 9726,
+    "fromModule": 433,
+    "toModule": 496,
+    "reason": "Tests gastric adenocarcinoma presentation and oncologic surgery, belongs in Surgery: Carcinoma Stomach"
+  },
+  {
+    "id": 16217,
+    "fromModule": 411,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 16224,
+    "fromModule": 411,
+    "toModule": 499,
+    "reason": "Tests colonic diverticular disease and infectious colitis (C. difficile), belongs in Surgery: Large Intestine"
+  },
+  {
+    "id": 16238,
+    "fromModule": 411,
+    "toModule": 437,
+    "reason": "Tests small vessel and ANCA-associated vasculitides, belongs in Medicine: Small vessel vasculitis"
+  },
+  {
+    "id": 16239,
+    "fromModule": 411,
+    "toModule": 443,
+    "reason": "Tests pulmonary parenchymal infections, pneumonia, and pleural effusions, belongs in Medicine: Pneumonia"
+  },
+  {
+    "id": 16242,
+    "fromModule": 411,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 16244,
+    "fromModule": 411,
+    "toModule": 215,
+    "reason": "Tests medical parasitology (protozoology and helminthology), belongs in Microbiology: Protozoology - Amoebae, Ciliates & Flagellates"
+  },
+  {
+    "id": 16245,
+    "fromModule": 411,
+    "toModule": 240,
+    "reason": "Tests malaria chemotherapy and Plasmodium biology, belongs in Pharmacology: Antimalarial Drugs"
+  },
+  {
+    "id": 16247,
+    "fromModule": 411,
+    "toModule": 240,
+    "reason": "Tests malaria chemotherapy and Plasmodium biology, belongs in Pharmacology: Antimalarial Drugs"
+  },
+  {
+    "id": 16248,
+    "fromModule": 411,
+    "toModule": 240,
+    "reason": "Tests malaria chemotherapy and Plasmodium biology, belongs in Pharmacology: Antimalarial Drugs"
+  },
+  {
+    "id": 16249,
+    "fromModule": 411,
+    "toModule": 240,
+    "reason": "Tests malaria chemotherapy and Plasmodium biology, belongs in Pharmacology: Antimalarial Drugs"
+  },
+  {
+    "id": 16250,
+    "fromModule": 411,
+    "toModule": 215,
+    "reason": "Tests medical parasitology (protozoology and helminthology), belongs in Microbiology: Protozoology - Amoebae, Ciliates & Flagellates"
+  },
+  {
+    "id": 16251,
+    "fromModule": 411,
+    "toModule": 215,
+    "reason": "Tests medical parasitology (protozoology and helminthology), belongs in Microbiology: Protozoology - Amoebae, Ciliates & Flagellates"
+  },
+  {
+    "id": 16256,
+    "fromModule": 411,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 16261,
+    "fromModule": 411,
+    "toModule": 423,
+    "reason": "Tests reproductive endocrinology, hypogonadism, amenorrhea, and PCOS workup, belongs in Medicine: Reproductive Endocrinology"
+  },
+  {
+    "id": 16262,
+    "fromModule": 411,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 16263,
+    "fromModule": 433,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 16265,
+    "fromModule": 411,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 16273,
+    "fromModule": 411,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 16275,
+    "fromModule": 411,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 16277,
+    "fromModule": 411,
+    "toModule": 460,
+    "reason": "Tests ischemic heart disease reperfusion, pharmacotherapy, and post-MI management, belongs in Medicine: Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "id": 16278,
+    "fromModule": 411,
+    "toModule": 462,
+    "reason": "Tests heart failure diagnosis, classifications, and guideline-directed therapy, belongs in Medicine: Heart Failure"
+  },
+  {
+    "id": 16280,
+    "fromModule": 432,
+    "toModule": 464,
+    "reason": "Tests neurodegenerative dementias, higher cortical functions, and coma evaluation, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma"
+  },
+  {
+    "id": 16282,
+    "fromModule": 432,
+    "toModule": 512,
+    "reason": "Tests acute pancreatitis etiology, complications, and surgical management, belongs in Surgery: Congenital Anomalies and Acute Pancreatitis"
+  },
+  {
+    "id": 16286,
+    "fromModule": 411,
+    "toModule": 499,
+    "reason": "Tests colonic diverticular disease and infectious colitis (C. difficile), belongs in Surgery: Large Intestine"
+  },
+  {
+    "id": 16301,
+    "fromModule": 433,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 16332,
+    "fromModule": 432,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 16356,
+    "fromModule": 432,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 16359,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16372,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 16373,
+    "fromModule": 434,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 16374,
+    "fromModule": 434,
+    "toModule": 412,
+    "reason": "Tests acid-base balance interpretation, ABG calculations, and fluid-electrolyte disturbances, belongs in Medicine: Acid-Base Disorders"
+  },
+  {
+    "id": 16379,
+    "fromModule": 432,
+    "toModule": 476,
+    "reason": "Tests chronic leukemias, lymphomas, and oncology emergencies (tumor lysis syndrome), belongs in Medicine: Chronic Myeloid Leukemia and Lymphoid Leukemias"
+  },
+  {
+    "id": 16460,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 16494,
+    "fromModule": 433,
+    "toModule": 423,
+    "reason": "Tests reproductive endocrinology, hypogonadism, amenorrhea, and PCOS workup, belongs in Medicine: Reproductive Endocrinology"
+  },
+  {
+    "id": 16496,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 16516,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16522,
+    "fromModule": 433,
+    "toModule": 459,
+    "reason": "Tests presentation, clinical diagnosis, and biomarkers of myocardial ischemia, belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "id": 16524,
+    "fromModule": 433,
+    "toModule": 414,
+    "reason": "Tests anterior pituitary physiology, prolactinoma, acromegaly, or hypopituitarism, belongs in Medicine: Disorders of Anterior Pituitary"
+  },
+  {
+    "id": 16526,
+    "fromModule": 432,
+    "toModule": 501,
+    "reason": "Tests colorectal adenomas, polyposis syndromes, and colorectal cancer, belongs in Surgery: Polyps and Colorectal Carcinoma"
+  },
+  {
+    "id": 16543,
+    "fromModule": 433,
+    "toModule": 496,
+    "reason": "Tests gastric adenocarcinoma presentation and oncologic surgery, belongs in Surgery: Carcinoma Stomach"
+  },
+  {
+    "id": 16544,
+    "fromModule": 432,
+    "toModule": 459,
+    "reason": "Tests presentation, clinical diagnosis, and biomarkers of myocardial ischemia, belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "id": 16552,
+    "fromModule": 433,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 16555,
+    "fromModule": 432,
+    "toModule": 422,
+    "reason": "Tests diabetes mellitus medical management, glycemic targets, or systemic complications, belongs in Medicine: Diabetes Mellitus - Complications and Management"
+  },
+  {
+    "id": 16561,
+    "fromModule": 432,
+    "toModule": 473,
+    "reason": "Tests cerebrovascular accidents (stroke, SAH, brainstem syndromes) and neurovascular territories, belongs in Medicine: Cerebrovascular Disease"
+  },
+  {
+    "id": 16573,
+    "fromModule": 432,
+    "toModule": 473,
+    "reason": "Tests cerebrovascular accidents (stroke, SAH, brainstem syndromes) and neurovascular territories, belongs in Medicine: Cerebrovascular Disease"
+  },
+  {
+    "id": 16591,
+    "fromModule": 433,
+    "toModule": 459,
+    "reason": "Tests presentation, clinical diagnosis, and biomarkers of myocardial ischemia, belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "id": 16626,
+    "fromModule": 432,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16627,
+    "fromModule": 433,
+    "toModule": 197,
+    "reason": "Tests Mycobacterium tuberculosis biology and systemic infections, belongs in Microbiology: Mycobacteria Tuberculosis"
+  },
+  {
+    "id": 16630,
+    "fromModule": 419,
+    "toModule": 414,
+    "reason": "Tests anterior pituitary physiology, prolactinoma, acromegaly, or hypopituitarism, belongs in Medicine: Disorders of Anterior Pituitary"
+  },
+  {
+    "id": 16632,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16633,
+    "fromModule": 419,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16635,
+    "fromModule": 419,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16636,
+    "fromModule": 419,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16638,
+    "fromModule": 419,
+    "toModule": 417,
+    "reason": "Tests thyroid therapeutic management and drug selection, belongs in Medicine: Thyroid Disorders - Management"
+  },
+  {
+    "id": 16647,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16656,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16661,
+    "fromModule": 419,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16663,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16668,
+    "fromModule": 434,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16672,
+    "fromModule": 419,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16673,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16676,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16685,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16688,
+    "fromModule": 419,
+    "toModule": 417,
+    "reason": "Tests thyroid therapeutic management and drug selection, belongs in Medicine: Thyroid Disorders - Management"
+  },
+  {
+    "id": 16689,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 16696,
+    "fromModule": 419,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16699,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16704,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16705,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 16712,
+    "fromModule": 434,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16716,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16717,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16720,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16725,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16726,
+    "fromModule": 433,
+    "toModule": 442,
+    "reason": "Tests chronic obstructive airway diseases (Asthma and COPD), belongs in Medicine: Asthma & COPD"
+  },
+  {
+    "id": 16753,
+    "fromModule": 434,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 16818,
+    "fromModule": 434,
+    "toModule": 422,
+    "reason": "Tests diabetes mellitus medical management, glycemic targets, or systemic complications, belongs in Medicine: Diabetes Mellitus - Complications and Management"
+  },
+  {
+    "id": 16825,
+    "fromModule": 432,
+    "toModule": 423,
+    "reason": "Tests reproductive endocrinology, hypogonadism, amenorrhea, and PCOS workup, belongs in Medicine: Reproductive Endocrinology"
+  },
+  {
+    "id": 16826,
+    "fromModule": 432,
+    "toModule": 423,
+    "reason": "Tests reproductive endocrinology, hypogonadism, amenorrhea, and PCOS workup, belongs in Medicine: Reproductive Endocrinology"
+  },
+  {
+    "id": 16830,
+    "fromModule": 432,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 16840,
+    "fromModule": 432,
+    "toModule": 423,
+    "reason": "Tests reproductive endocrinology, hypogonadism, amenorrhea, and PCOS workup, belongs in Medicine: Reproductive Endocrinology"
+  },
+  {
+    "id": 16842,
+    "fromModule": 433,
+    "toModule": 423,
+    "reason": "Tests reproductive endocrinology, hypogonadism, amenorrhea, and PCOS workup, belongs in Medicine: Reproductive Endocrinology"
+  },
+  {
+    "id": 16843,
+    "fromModule": 432,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 16848,
+    "fromModule": 432,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 16851,
+    "fromModule": 432,
+    "toModule": 454,
+    "reason": "Tests renal tubular acidosis and hereditary renal tubulopathies, belongs in Medicine: Renal Tubular Diseases of Kidney"
+  },
+  {
+    "id": 16852,
+    "fromModule": 432,
+    "toModule": 465,
+    "reason": "Tests seizure types, EEG semiology, and antiepileptic management, belongs in Medicine: Seizure and Epilepsy"
+  },
+  {
+    "id": 16872,
+    "fromModule": 434,
+    "toModule": 417,
+    "reason": "Tests thyroid therapeutic management and drug selection, belongs in Medicine: Thyroid Disorders - Management"
+  },
+  {
+    "id": 16876,
+    "fromModule": 433,
+    "toModule": 452,
+    "reason": "Tests renal replacement therapy, dialysis modalities, and allograft care, belongs in Medicine: Renal Replacement Therapy"
+  },
+  {
+    "id": 16893,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 16905,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 16913,
+    "fromModule": 434,
+    "toModule": 460,
+    "reason": "Tests ischemic heart disease reperfusion, pharmacotherapy, and post-MI management, belongs in Medicine: Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "id": 16923,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 16928,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 16929,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 16930,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 16932,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 16945,
+    "fromModule": 433,
+    "toModule": 425,
+    "reason": "Tests bilirubin metabolism, hereditary hyperbilirubinemias, and jaundice workup, belongs in Medicine: Hyperbilirubinemia and Functions of Liver"
+  },
+  {
+    "id": 16951,
+    "fromModule": 433,
+    "toModule": 425,
+    "reason": "Tests bilirubin metabolism, hereditary hyperbilirubinemias, and jaundice workup, belongs in Medicine: Hyperbilirubinemia and Functions of Liver"
+  },
+  {
+    "id": 16955,
+    "fromModule": 433,
+    "toModule": 493,
+    "reason": "Tests esophageal motility disorders, Mallory-Weiss tears, and inflammatory pathology, belongs in Surgery: Esophagus - Congenital, Motility & Inflammatory Disorders"
+  },
+  {
+    "id": 16956,
+    "fromModule": 433,
+    "toModule": 448,
+    "reason": "Tests bronchogenic carcinomas, lung cancer staging, and paraneoplastic syndromes, belongs in Medicine: Neoplasms of the Lung"
+  },
+  {
+    "id": 16958,
+    "fromModule": 433,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 16960,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 16973,
+    "fromModule": 433,
+    "toModule": 466,
+    "reason": "Tests extrapyramidal disorders, parkinsonian syndromes, and hyperkinetic movement pathology, belongs in Medicine: Extrapyramidal Syndromes and Movement Disorders"
+  },
+  {
+    "id": 17014,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17028,
+    "fromModule": 433,
+    "toModule": 428,
+    "reason": "Tests complications of cirrhosis (ascites, SBP, encephalopathy, HRS) and acute liver failure, belongs in Medicine: Acute Liver Failure and Complications of Cirrhosis"
+  },
+  {
+    "id": 17034,
+    "fromModule": 434,
+    "toModule": 428,
+    "reason": "Tests complications of cirrhosis (ascites, SBP, encephalopathy, HRS) and acute liver failure, belongs in Medicine: Acute Liver Failure and Complications of Cirrhosis"
+  },
+  {
+    "id": 17036,
+    "fromModule": 419,
+    "toModule": 428,
+    "reason": "Tests complications of cirrhosis (ascites, SBP, encephalopathy, HRS) and acute liver failure, belongs in Medicine: Acute Liver Failure and Complications of Cirrhosis"
+  },
+  {
+    "id": 17043,
+    "fromModule": 433,
+    "toModule": 428,
+    "reason": "Tests complications of cirrhosis (ascites, SBP, encephalopathy, HRS) and acute liver failure, belongs in Medicine: Acute Liver Failure and Complications of Cirrhosis"
+  },
+  {
+    "id": 17066,
+    "fromModule": 434,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 17069,
+    "fromModule": 434,
+    "toModule": 499,
+    "reason": "Tests colonic diverticular disease and infectious colitis (C. difficile), belongs in Surgery: Large Intestine"
+  },
+  {
+    "id": 17070,
+    "fromModule": 433,
+    "toModule": 493,
+    "reason": "Tests esophageal motility disorders, Mallory-Weiss tears, and inflammatory pathology, belongs in Surgery: Esophagus - Congenital, Motility & Inflammatory Disorders"
+  },
+  {
+    "id": 17071,
+    "fromModule": 434,
+    "toModule": 445,
+    "reason": "Tests bronchiectasis, cystic fibrosis, and cavitary lung abscesses, belongs in Medicine: Bronchiectasis and Lung Abscess"
+  },
+  {
+    "id": 17078,
+    "fromModule": 433,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 17080,
+    "fromModule": 433,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 17081,
+    "fromModule": 433,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 17085,
+    "fromModule": 433,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 17088,
+    "fromModule": 433,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 17089,
+    "fromModule": 434,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 17097,
+    "fromModule": 433,
+    "toModule": 464,
+    "reason": "Tests neurodegenerative dementias, higher cortical functions, and coma evaluation, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma"
+  },
+  {
+    "id": 17130,
+    "fromModule": 432,
+    "toModule": 454,
+    "reason": "Tests renal tubular acidosis and hereditary renal tubulopathies, belongs in Medicine: Renal Tubular Diseases of Kidney"
+  },
+  {
+    "id": 17143,
+    "fromModule": 419,
+    "toModule": 459,
+    "reason": "Tests presentation, clinical diagnosis, and biomarkers of myocardial ischemia, belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "id": 17170,
+    "fromModule": 432,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17173,
+    "fromModule": 433,
+    "toModule": 432,
+    "reason": "Tests irritable bowel syndrome pathophysiology and clinical management, belongs in Medicine: Irritable Bowel Syndrome"
+  },
+  {
+    "id": 17183,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 17185,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17193,
+    "fromModule": 433,
+    "toModule": 459,
+    "reason": "Tests presentation, clinical diagnosis, and biomarkers of myocardial ischemia, belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "id": 17197,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 17198,
+    "fromModule": 433,
+    "toModule": 434,
+    "reason": "Tests inflammatory bowel disease pharmacotherapy and acute flare management, belongs in Medicine: Inflammatory Bowel Disease - Complications and Treatment"
+  },
+  {
+    "id": 17205,
+    "fromModule": 434,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 17206,
+    "fromModule": 434,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17208,
+    "fromModule": 434,
+    "toModule": 501,
+    "reason": "Tests colorectal adenomas, polyposis syndromes, and colorectal cancer, belongs in Surgery: Polyps and Colorectal Carcinoma"
+  },
+  {
+    "id": 17209,
+    "fromModule": 432,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 17219,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 17220,
+    "fromModule": 434,
+    "toModule": 447,
+    "reason": "Tests respiratory failure, ARDS, and critical care ventilation mechanics, belongs in Medicine: Respiratory Failure and ARDS"
+  },
+  {
+    "id": 17222,
+    "fromModule": 434,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 17223,
+    "fromModule": 434,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 17225,
+    "fromModule": 434,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17227,
+    "fromModule": 434,
+    "toModule": 493,
+    "reason": "Tests esophageal motility disorders, Mallory-Weiss tears, and inflammatory pathology, belongs in Surgery: Esophagus - Congenital, Motility & Inflammatory Disorders"
+  },
+  {
+    "id": 17228,
+    "fromModule": 434,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17229,
+    "fromModule": 434,
+    "toModule": 448,
+    "reason": "Tests bronchogenic carcinomas, lung cancer staging, and paraneoplastic syndromes, belongs in Medicine: Neoplasms of the Lung"
+  },
+  {
+    "id": 17236,
+    "fromModule": 434,
+    "toModule": 422,
+    "reason": "Tests diabetes mellitus medical management, glycemic targets, or systemic complications, belongs in Medicine: Diabetes Mellitus - Complications and Management"
+  },
+  {
+    "id": 17242,
+    "fromModule": 434,
+    "toModule": 423,
+    "reason": "Tests reproductive endocrinology, hypogonadism, amenorrhea, and PCOS workup, belongs in Medicine: Reproductive Endocrinology"
+  },
+  {
+    "id": 17243,
+    "fromModule": 434,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 17244,
+    "fromModule": 434,
+    "toModule": 240,
+    "reason": "Tests malaria chemotherapy and Plasmodium biology, belongs in Pharmacology: Antimalarial Drugs"
+  },
+  {
+    "id": 17245,
+    "fromModule": 434,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 17248,
+    "fromModule": 411,
+    "toModule": 499,
+    "reason": "Tests colonic diverticular disease and infectious colitis (C. difficile), belongs in Surgery: Large Intestine"
+  },
+  {
+    "id": 17251,
+    "fromModule": 434,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 17252,
+    "fromModule": 434,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 17255,
+    "fromModule": 434,
+    "toModule": 437,
+    "reason": "Tests small vessel and ANCA-associated vasculitides, belongs in Medicine: Small vessel vasculitis"
+  },
+  {
+    "id": 17265,
+    "fromModule": 434,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17267,
+    "fromModule": 434,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17270,
+    "fromModule": 434,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 17274,
+    "fromModule": 434,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17276,
+    "fromModule": 434,
+    "toModule": 465,
+    "reason": "Tests seizure types, EEG semiology, and antiepileptic management, belongs in Medicine: Seizure and Epilepsy"
+  },
+  {
+    "id": 17279,
+    "fromModule": 434,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 17282,
+    "fromModule": 434,
+    "toModule": 460,
+    "reason": "Tests ischemic heart disease reperfusion, pharmacotherapy, and post-MI management, belongs in Medicine: Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "id": 17293,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17297,
+    "fromModule": 434,
+    "toModule": 422,
+    "reason": "Tests diabetes mellitus medical management, glycemic targets, or systemic complications, belongs in Medicine: Diabetes Mellitus - Complications and Management"
+  },
+  {
+    "id": 17300,
+    "fromModule": 411,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17301,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 17303,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17309,
+    "fromModule": 432,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 17310,
+    "fromModule": 433,
+    "toModule": 434,
+    "reason": "Tests inflammatory bowel disease pharmacotherapy and acute flare management, belongs in Medicine: Inflammatory Bowel Disease - Complications and Treatment"
+  },
+  {
+    "id": 17311,
+    "fromModule": 433,
+    "toModule": 435,
+    "reason": "Tests intestinal malabsorption syndromes, celiac disease, and mucosal histology, belongs in Medicine: Malabsorption Syndrome"
+  },
+  {
+    "id": 17319,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 17327,
+    "fromModule": 433,
+    "toModule": 475,
+    "reason": "Tests plasma cell dyscrasias, multiple myeloma, and amyloidosis, belongs in Medicine: Plasma Cell Disorders"
+  },
+  {
+    "id": 17332,
+    "fromModule": 433,
+    "toModule": 499,
+    "reason": "Tests colonic diverticular disease and infectious colitis (C. difficile), belongs in Surgery: Large Intestine"
+  },
+  {
+    "id": 17334,
+    "fromModule": 433,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 17344,
+    "fromModule": 419,
+    "toModule": 493,
+    "reason": "Tests esophageal motility disorders, Mallory-Weiss tears, and inflammatory pathology, belongs in Surgery: Esophagus - Congenital, Motility & Inflammatory Disorders"
+  },
+  {
+    "id": 17352,
+    "fromModule": 432,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 17365,
+    "fromModule": 433,
+    "toModule": 437,
+    "reason": "Tests small vessel and ANCA-associated vasculitides, belongs in Medicine: Small vessel vasculitis"
+  },
+  {
+    "id": 17392,
+    "fromModule": 411,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 17397,
+    "fromModule": 432,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17400,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17401,
+    "fromModule": 433,
+    "toModule": 438,
+    "reason": "Tests systemic sclerosis (scleroderma) and Sjogren syndrome, belongs in Medicine: Sjogrens Syndrome and Scleroderma"
+  },
+  {
+    "id": 17402,
+    "fromModule": 434,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17403,
+    "fromModule": 434,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17404,
+    "fromModule": 411,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17405,
+    "fromModule": 411,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17414,
+    "fromModule": 433,
+    "toModule": 438,
+    "reason": "Tests systemic sclerosis (scleroderma) and Sjogren syndrome, belongs in Medicine: Sjogrens Syndrome and Scleroderma"
+  },
+  {
+    "id": 17415,
+    "fromModule": 432,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17423,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17429,
+    "fromModule": 434,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17431,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17471,
+    "fromModule": 432,
+    "toModule": 473,
+    "reason": "Tests cerebrovascular accidents (stroke, SAH, brainstem syndromes) and neurovascular territories, belongs in Medicine: Cerebrovascular Disease"
+  },
+  {
+    "id": 17473,
+    "fromModule": 433,
+    "toModule": 460,
+    "reason": "Tests ischemic heart disease reperfusion, pharmacotherapy, and post-MI management, belongs in Medicine: Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "id": 17475,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17487,
+    "fromModule": 432,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17498,
+    "fromModule": 433,
+    "toModule": 197,
+    "reason": "Tests Mycobacterium tuberculosis biology and systemic infections, belongs in Microbiology: Mycobacteria Tuberculosis"
+  },
+  {
+    "id": 17510,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17527,
+    "fromModule": 433,
+    "toModule": 422,
+    "reason": "Tests diabetes mellitus medical management, glycemic targets, or systemic complications, belongs in Medicine: Diabetes Mellitus - Complications and Management"
+  },
+  {
+    "id": 17550,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17551,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17552,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17553,
+    "fromModule": 434,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17572,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17582,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17604,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 17610,
+    "fromModule": 433,
+    "toModule": 463,
+    "reason": "Tests venous thromboembolism, DVT, and pulmonary embolism protocols, belongs in Medicine: DVT and Pulmonary Embolism"
+  },
+  {
+    "id": 17644,
+    "fromModule": 433,
+    "toModule": 442,
+    "reason": "Tests chronic obstructive airway diseases (Asthma and COPD), belongs in Medicine: Asthma & COPD"
+  },
+  {
+    "id": 17667,
+    "fromModule": 433,
+    "toModule": 463,
+    "reason": "Tests venous thromboembolism, DVT, and pulmonary embolism protocols, belongs in Medicine: DVT and Pulmonary Embolism"
+  },
+  {
+    "id": 17670,
+    "fromModule": 433,
+    "toModule": 443,
+    "reason": "Tests pulmonary tuberculosis and tubercular pleural effusion, belongs in Medicine: Pneumonia"
+  },
+  {
+    "id": 17672,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 17673,
+    "fromModule": 433,
+    "toModule": 442,
+    "reason": "Tests chronic obstructive airway diseases (Asthma and COPD), belongs in Medicine: Asthma & COPD"
+  },
+  {
+    "id": 17676,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 17678,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 17679,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 17697,
+    "fromModule": 433,
+    "toModule": 466,
+    "reason": "Tests extrapyramidal disorders, parkinsonian syndromes, and hyperkinetic movement pathology, belongs in Medicine: Extrapyramidal Syndromes and Movement Disorders"
+  },
+  {
+    "id": 17700,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 17703,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17712,
+    "fromModule": 433,
+    "toModule": 197,
+    "reason": "Tests Mycobacterium tuberculosis biology and systemic infections, belongs in Microbiology: Mycobacteria Tuberculosis"
+  },
+  {
+    "id": 17721,
+    "fromModule": 433,
+    "toModule": 443,
+    "reason": "Tests pulmonary tuberculosis and tubercular pleural effusion, belongs in Medicine: Pneumonia"
+  },
+  {
+    "id": 17765,
+    "fromModule": 433,
+    "toModule": 443,
+    "reason": "Tests pulmonary parenchymal infections, pneumonia, and pleural effusions, belongs in Medicine: Pneumonia"
+  },
+  {
+    "id": 17775,
+    "fromModule": 433,
+    "toModule": 435,
+    "reason": "Tests intestinal malabsorption syndromes, celiac disease, and mucosal histology, belongs in Medicine: Malabsorption Syndrome"
+  },
+  {
+    "id": 17781,
+    "fromModule": 433,
+    "toModule": 475,
+    "reason": "Tests plasma cell dyscrasias, multiple myeloma, and amyloidosis, belongs in Medicine: Plasma Cell Disorders"
+  },
+  {
+    "id": 17795,
+    "fromModule": 434,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 17800,
+    "fromModule": 433,
+    "toModule": 443,
+    "reason": "Tests pulmonary parenchymal infections, pneumonia, and pleural effusions, belongs in Medicine: Pneumonia"
+  },
+  {
+    "id": 17836,
+    "fromModule": 432,
+    "toModule": 445,
+    "reason": "Tests bronchiectasis, cystic fibrosis, and cavitary lung abscesses, belongs in Medicine: Bronchiectasis and Lung Abscess"
+  },
+  {
+    "id": 17861,
+    "fromModule": 433,
+    "toModule": 418,
+    "reason": "Tests thyroid clinical manifestations, laboratory evaluation, and pathology, belongs in Medicine: Thyroid Disorders - Clinical Features"
+  },
+  {
+    "id": 17922,
+    "fromModule": 432,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 17936,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 17939,
+    "fromModule": 432,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17943,
+    "fromModule": 433,
+    "toModule": 441,
+    "reason": "Tests rheumatoid arthritis, spondyloarthritis, SLE, and inflammatory arthritis, belongs in Medicine: Rheumatoid Arthritis"
+  },
+  {
+    "id": 17951,
+    "fromModule": 432,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17953,
+    "fromModule": 433,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17965,
+    "fromModule": 433,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17966,
+    "fromModule": 432,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17967,
+    "fromModule": 432,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17968,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 17969,
+    "fromModule": 432,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17970,
+    "fromModule": 432,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17971,
+    "fromModule": 433,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 17972,
+    "fromModule": 432,
+    "toModule": 460,
+    "reason": "Tests ischemic heart disease reperfusion, pharmacotherapy, and post-MI management, belongs in Medicine: Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "id": 17976,
+    "fromModule": 433,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 17982,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 17985,
+    "fromModule": 432,
+    "toModule": 425,
+    "reason": "Tests bilirubin metabolism, hereditary hyperbilirubinemias, and jaundice workup, belongs in Medicine: Hyperbilirubinemia and Functions of Liver"
+  },
+  {
+    "id": 18002,
+    "fromModule": 433,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 18010,
+    "fromModule": 432,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 18014,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18015,
+    "fromModule": 432,
+    "toModule": 165,
+    "reason": "Tests glomerular diseases, nephrotic/nephritic syndromes, and renal biopsy pathology, belongs in Pathology: Glomerular Diseases"
+  },
+  {
+    "id": 18031,
+    "fromModule": 434,
+    "toModule": 475,
+    "reason": "Tests plasma cell dyscrasias, multiple myeloma, and amyloidosis, belongs in Medicine: Plasma Cell Disorders"
+  },
+  {
+    "id": 18039,
+    "fromModule": 433,
+    "toModule": 451,
+    "reason": "Tests chronic kidney disease progression, staging, and uremic syndrome, belongs in Medicine: Chronic Kidney Disease"
+  },
+  {
+    "id": 18050,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18057,
+    "fromModule": 434,
+    "toModule": 427,
+    "reason": "Tests autoimmune cholestatic and parenchymal liver diseases (PBC, PSC, AIH), belongs in Medicine: Autoimmune Liver Diseases"
+  },
+  {
+    "id": 18058,
+    "fromModule": 433,
+    "toModule": 451,
+    "reason": "Tests chronic kidney disease progression, staging, and uremic syndrome, belongs in Medicine: Chronic Kidney Disease"
+  },
+  {
+    "id": 18063,
+    "fromModule": 432,
+    "toModule": 468,
+    "reason": "Tests peripheral polyneuropathies, GBS, and focal nerve entrapment syndromes, belongs in Medicine: Guillain Barre Syndrome and Other Peripheral Neuropathies"
+  },
+  {
+    "id": 18069,
+    "fromModule": 434,
+    "toModule": 427,
+    "reason": "Tests autoimmune cholestatic and parenchymal liver diseases (PBC, PSC, AIH), belongs in Medicine: Autoimmune Liver Diseases"
+  },
+  {
+    "id": 18070,
+    "fromModule": 434,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18076,
+    "fromModule": 432,
+    "toModule": 452,
+    "reason": "Tests renal replacement therapy, dialysis modalities, and allograft care, belongs in Medicine: Renal Replacement Therapy"
+  },
+  {
+    "id": 18079,
+    "fromModule": 433,
+    "toModule": 449,
+    "reason": "Tests sleep-disordered breathing and obstructive sleep apnea, belongs in Medicine: Sleep Apnea"
+  },
+  {
+    "id": 18090,
+    "fromModule": 433,
+    "toModule": 493,
+    "reason": "Tests esophageal motility disorders, Mallory-Weiss tears, and inflammatory pathology, belongs in Surgery: Esophagus - Congenital, Motility & Inflammatory Disorders"
+  },
+  {
+    "id": 18115,
+    "fromModule": 433,
+    "toModule": 465,
+    "reason": "Tests seizure types, EEG semiology, and antiepileptic management, belongs in Medicine: Seizure and Epilepsy"
+  },
+  {
+    "id": 18117,
+    "fromModule": 434,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18120,
+    "fromModule": 433,
+    "toModule": 453,
+    "reason": "Tests cystic and inherited structural diseases of the kidney, belongs in Medicine: Cysts and Inherited Disorders of the Kidney"
+  },
+  {
+    "id": 18129,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18184,
+    "fromModule": 432,
+    "toModule": 466,
+    "reason": "Tests extrapyramidal disorders, parkinsonian syndromes, and hyperkinetic movement pathology, belongs in Medicine: Extrapyramidal Syndromes and Movement Disorders"
+  },
+  {
+    "id": 18202,
+    "fromModule": 433,
+    "toModule": 197,
+    "reason": "Tests Mycobacterium tuberculosis biology and systemic infections, belongs in Microbiology: Mycobacteria Tuberculosis"
+  },
+  {
+    "id": 18226,
+    "fromModule": 432,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18251,
+    "fromModule": 433,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18255,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18257,
+    "fromModule": 433,
+    "toModule": 427,
+    "reason": "Tests autoimmune cholestatic and parenchymal liver diseases (PBC, PSC, AIH), belongs in Medicine: Autoimmune Liver Diseases"
+  },
+  {
+    "id": 18263,
+    "fromModule": 434,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 18270,
+    "fromModule": 433,
+    "toModule": 463,
+    "reason": "Tests venous thromboembolism, DVT, and pulmonary embolism protocols, belongs in Medicine: DVT and Pulmonary Embolism"
+  },
+  {
+    "id": 18281,
+    "fromModule": 433,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18282,
+    "fromModule": 433,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 18305,
+    "fromModule": 419,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18307,
+    "fromModule": 434,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18309,
+    "fromModule": 411,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18344,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18364,
+    "fromModule": 433,
+    "toModule": 459,
+    "reason": "Tests presentation, clinical diagnosis, and biomarkers of myocardial ischemia, belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "id": 18371,
+    "fromModule": 433,
+    "toModule": 464,
+    "reason": "Tests neurodegenerative dementias, higher cortical functions, and coma evaluation, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma"
+  },
+  {
+    "id": 18388,
+    "fromModule": 433,
+    "toModule": 468,
+    "reason": "Tests peripheral polyneuropathies, GBS, and focal nerve entrapment syndromes, belongs in Medicine: Guillain Barre Syndrome and Other Peripheral Neuropathies"
+  },
+  {
+    "id": 18494,
+    "fromModule": 433,
+    "toModule": 464,
+    "reason": "Tests neurodegenerative dementias, higher cortical functions, and coma evaluation, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma"
+  },
+  {
+    "id": 18506,
+    "fromModule": 433,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 18507,
+    "fromModule": 433,
+    "toModule": 464,
+    "reason": "Tests neurodegenerative dementias, higher cortical functions, and coma evaluation, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma"
+  },
+  {
+    "id": 18511,
+    "fromModule": 433,
+    "toModule": 464,
+    "reason": "Tests neurodegenerative dementias, higher cortical functions, and coma evaluation, belongs in Medicine: Cerebral Neurology: Dementia, Death and Coma"
+  },
+  {
+    "id": 18521,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18525,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18546,
+    "fromModule": 432,
+    "toModule": 457,
+    "reason": "Tests ventricular arrhythmias, heart blocks, and sudden cardiac death risks, belongs in Medicine: Ventricular Arrhythmias and Heart Blocks"
+  },
+  {
+    "id": 18561,
+    "fromModule": 433,
+    "toModule": 466,
+    "reason": "Tests extrapyramidal disorders, parkinsonian syndromes, and hyperkinetic movement pathology, belongs in Medicine: Extrapyramidal Syndromes and Movement Disorders"
+  },
+  {
+    "id": 18563,
+    "fromModule": 433,
+    "toModule": 466,
+    "reason": "Tests extrapyramidal disorders, parkinsonian syndromes, and hyperkinetic movement pathology, belongs in Medicine: Extrapyramidal Syndromes and Movement Disorders"
+  },
+  {
+    "id": 18564,
+    "fromModule": 433,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 18565,
+    "fromModule": 433,
+    "toModule": 429,
+    "reason": "Tests hereditary metabolic liver diseases (Wilson's disease / Hemochromatosis), belongs in Medicine: Hemochromatosis and Wilsons Disease"
+  },
+  {
+    "id": 18571,
+    "fromModule": 433,
+    "toModule": 465,
+    "reason": "Tests seizure types, EEG semiology, and antiepileptic management, belongs in Medicine: Seizure and Epilepsy"
+  },
+  {
+    "id": 18581,
+    "fromModule": 433,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18591,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18594,
+    "fromModule": 433,
+    "toModule": 458,
+    "reason": "Tests valvular heart diseases, structural heart lesions, and endocarditis, belongs in Medicine: Vascular Heart Diseases"
+  },
+  {
+    "id": 18597,
+    "fromModule": 433,
+    "toModule": 466,
+    "reason": "Tests extrapyramidal disorders, parkinsonian syndromes, and hyperkinetic movement pathology, belongs in Medicine: Extrapyramidal Syndromes and Movement Disorders"
+  },
+  {
+    "id": 18601,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18608,
+    "fromModule": 433,
+    "toModule": 420,
+    "reason": "Tests adrenal cortical and medullary disorders (Cushing, Addison, Conn, Pheochromocytoma), belongs in Medicine: Cushing Syndrome"
+  },
+  {
+    "id": 18621,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18625,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18630,
+    "fromModule": 433,
+    "toModule": 468,
+    "reason": "Tests peripheral polyneuropathies, GBS, and focal nerve entrapment syndromes, belongs in Medicine: Guillain Barre Syndrome and Other Peripheral Neuropathies"
+  },
+  {
+    "id": 18632,
+    "fromModule": 432,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 18636,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18661,
+    "fromModule": 432,
+    "toModule": 197,
+    "reason": "Tests Mycobacterium tuberculosis biology and systemic infections, belongs in Microbiology: Mycobacteria Tuberculosis"
+  },
+  {
+    "id": 18663,
+    "fromModule": 433,
+    "toModule": 424,
+    "reason": "Tests calcium homeostasis, parathyroid disorders, and metabolic bone disease, belongs in Medicine: Disorders of Parathyroid and Calcium"
+  },
+  {
+    "id": 18667,
+    "fromModule": 433,
+    "toModule": 426,
+    "reason": "Tests alcoholic and non-alcoholic fatty liver diseases (NAFLD/NASH), belongs in Medicine: Alcoholic Liver Diseases and Non-Alcoholic Fatty Liver Disease"
+  },
+  {
+    "id": 18672,
+    "fromModule": 434,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 18683,
+    "fromModule": 433,
+    "toModule": 469,
+    "reason": "Tests central demyelinating disease (Multiple Sclerosis) and myelinolytic disorders, belongs in Medicine: Multiple Sclerosis and Other Demyelinating Disorders"
+  },
+  {
+    "id": 18687,
+    "fromModule": 433,
+    "toModule": 465,
+    "reason": "Tests seizure types, EEG semiology, and antiepileptic management, belongs in Medicine: Seizure and Epilepsy"
+  },
+  {
+    "id": 18718,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18772,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18773,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18798,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18801,
+    "fromModule": 434,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18805,
+    "fromModule": 432,
+    "toModule": 449,
+    "reason": "Tests sleep-disordered breathing and obstructive sleep apnea, belongs in Medicine: Sleep Apnea"
+  },
+  {
+    "id": 18817,
+    "fromModule": 432,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  },
+  {
+    "id": 18831,
+    "fromModule": 411,
+    "toModule": 454,
+    "reason": "Tests renal tubular acidosis and hereditary renal tubulopathies, belongs in Medicine: Renal Tubular Diseases of Kidney"
+  },
+  {
+    "id": 18861,
+    "fromModule": 433,
+    "toModule": 473,
+    "reason": "Tests cerebrovascular accidents (stroke, SAH, brainstem syndromes) and neurovascular territories, belongs in Medicine: Cerebrovascular Disease"
+  },
+  {
+    "id": 18876,
+    "fromModule": 411,
+    "toModule": 471,
+    "reason": "Tests myelopathies, spinal cord transection syndromes, and cord compression, belongs in Medicine: Spinal Cord Disorders"
+  },
+  {
+    "id": 18879,
+    "fromModule": 432,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18889,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 18894,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18897,
+    "fromModule": 411,
+    "toModule": 474,
+    "reason": "Tests CNS infections (meningitis, encephalitis) and CSF interpretation, belongs in Medicine: Meningitis Encephalitis"
+  },
+  {
+    "id": 18899,
+    "fromModule": 433,
+    "toModule": 444,
+    "reason": "Tests interstitial lung diseases, occupational pneumoconioses, and sarcoidosis, belongs in Medicine: Interstitial Lung Diseases and Sarcoidosis"
+  },
+  {
+    "id": 18902,
+    "fromModule": 433,
+    "toModule": 421,
+    "reason": "Tests diabetes mellitus diagnosis, classification, and clinical features, belongs in Medicine: Diabetes Mellitus - Clinical Features"
+  },
+  {
+    "id": 18914,
+    "fromModule": 432,
+    "toModule": 460,
+    "reason": "Tests ischemic heart disease reperfusion, pharmacotherapy, and post-MI management, belongs in Medicine: Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "id": 18920,
+    "fromModule": 433,
+    "toModule": 460,
+    "reason": "Tests ischemic heart disease reperfusion, pharmacotherapy, and post-MI management, belongs in Medicine: Ischemic Heart Disease - Complications and Management"
+  },
+  {
+    "id": 18921,
+    "fromModule": 433,
+    "toModule": 450,
+    "reason": "Tests acute kidney injury differentiation, tubular necrosis, and nephrotoxicity, belongs in Medicine: Acute Kidney Injury"
+  },
+  {
+    "id": 18933,
+    "fromModule": 433,
+    "toModule": 459,
+    "reason": "Tests presentation, clinical diagnosis, and biomarkers of myocardial ischemia, belongs in Medicine: Ischemic Heart Disease - Presentation and Diagnosis"
+  },
+  {
+    "id": 18934,
+    "fromModule": 433,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 18937,
+    "fromModule": 433,
+    "toModule": 427,
+    "reason": "Tests autoimmune cholestatic and parenchymal liver diseases (PBC, PSC, AIH), belongs in Medicine: Autoimmune Liver Diseases"
+  },
+  {
+    "id": 18938,
+    "fromModule": 432,
+    "toModule": 493,
+    "reason": "Tests esophageal motility disorders, Mallory-Weiss tears, and inflammatory pathology, belongs in Surgery: Esophagus - Congenital, Motility & Inflammatory Disorders"
+  },
+  {
+    "id": 18956,
+    "fromModule": 433,
+    "toModule": 427,
+    "reason": "Tests autoimmune cholestatic and parenchymal liver diseases (PBC, PSC, AIH), belongs in Medicine: Autoimmune Liver Diseases"
+  },
+  {
+    "id": 18958,
+    "fromModule": 432,
+    "toModule": 448,
+    "reason": "Tests bronchogenic carcinomas, lung cancer staging, and paraneoplastic syndromes, belongs in Medicine: Neoplasms of the Lung"
+  },
+  {
+    "id": 18985,
+    "fromModule": 433,
+    "toModule": 449,
+    "reason": "Tests sleep-disordered breathing and obstructive sleep apnea, belongs in Medicine: Sleep Apnea"
+  },
+  {
+    "id": 19002,
+    "fromModule": 434,
+    "toModule": 495,
+    "reason": "Tests peptic ulcer disease, H. pylori, and upper gastrointestinal ulcer bleeding, belongs in Surgery: Stomach and Duodenum"
+  },
+  {
+    "id": 19038,
+    "fromModule": 433,
+    "toModule": 455,
+    "reason": "Tests physical examination of the cardiovascular system, pulses, and JVP, belongs in Medicine: Diagnosis of cardiovascular disorders"
+  },
+  {
+    "id": 19039,
+    "fromModule": 433,
+    "toModule": 467,
+    "reason": "Tests neuromuscular junction disorders (myasthenia gravis) and motor neuron disease (ALS), belongs in Medicine: Myasthenia Gravis and Other Neuromuscular Disorders"
+  }
+]

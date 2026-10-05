@@ -1,0 +1,274 @@
+
+============================================================
+MODULE 581: Protein Energy Malnutrition (35 questions)
+============================================================
+[23543] Q: A 15-month-old boy has length-for-age below -2 SD. What is the most probable diagnosis? | Ans: Moderate stunting
+[23566] Q: 11 years diagnosed CKD secondary to renal hypoplasia Upon reviewing the history you found that  | Ans: Correction of metabolic acidosis an
+[23654] Q: Gene mutated in Chediak-Higashi syndrome is? | Ans: LYST
+[23655] Q: Hepatitis B subunit vaccine is derived from? | Ans: HBsAg
+[23656] Q: A 6-year-old female child presented with non-blanchable, palpable petechial rash on lower limbs | Ans: Conservative management
+[23657] Q: A child with meningitis was evaluated by LP. He has CSF counts of 150 cells/mm3, CSF protein of | Ans: Aseptic meningitis
+[23658] Q: Not correct regarding Duchenne's muscular dystrophy is? | Ans: Normal serum CK levels in asymptoma
+[23659] Q: A child brought with a 2-week history of fever, not feeding well and irritability was examined  | Ans: Lymphocytosis, Low Sugar, High Prot
+[23660] Q: All of the following are true regarding tubercular meningitis in a child, except? | Ans: No role of steroids in the therapy
+[23661] Q: An 11-year-old boy presents to clinic with a complaint of 1 to 2 episodes of vomiting at least  | Ans: A 2-week trial of Protein-Pump Inhi
+[23662] Q: A 15-year-old girl presents with a painful mass involving her right fourth rib. Biopsy reveals  | Ans: t(11;22)
+[23664] Q: A 4-month-old infant presents with choking when taking his bottles, tongue fasciculation, and p | Ans: Cough is impaired and use of an air
+[23665] Q: A 12-year-old boy with type 1 diabetes mellitus, is reviewed in the outpatient clinic. In spite | Ans: Hypothyroidism
+[23666] Q: Which of the following symptoms is most suggestive of a diagnosis of IgE-mediated cow's milk pr | Ans: Onset within 2 hours
+[23667] Q: A child presented to the clinic with complaints of malnutrition and severe dehydration. What wo | Ans: RL in 5% Dextrose
+[23669] Q: A child presents with the findings shown in the image below. What is the true statement regardi | Ans: Kwashiorkor due to protein malnutri
+[23670] Q: A child fed mostly rice water presents with a swollen abdomen, apathetic look, and low serum pr | Ans: Kwashiorkor
+[23671] Q: A child who is exclusively fed rice water presents with a swollen abdomen and a pale, unenerget | Ans: Kwashiorkor
+[23673] Q: A child presents to the pediatric OPD with the findings shown in the image below. What is the l | Ans: Kwashiorkor
+[23674] Q: What is the specific sign of kwashiorkor? | Ans: Pitting edema
+[23681] Q: A 6-year-old boy presents with chronic cough and foul-smelling stools. His sibling had similar  | Ans: Cl -
+[23683] Q: A child presented with complaints of low-grade fever, neck stiffness and skin lesions. Examinat | Ans: Coxsackie Viral meningitis with Han
+[23685] Q: Which of the following is correct comparing breast milk with cow's milk? | Ans: Breast milk contains less calcium
+[23690] Q: An 8-year-old child presented with periorbital edema and mild oliguria but no hypertension. On  | Ans: Minimal change disease
+[23691] Q: A 5-year-old child developed periorbital puffiness following an acute febrile illness. His spot | Ans: Continue prednisolone in same dose 
+[23692] Q: A 6-year-old male child presented with a boil on the leg 2 weeks ago and is now presenting with | Ans: Post streptococcal glomerulonephrit
+[23693] Q: On evaluation of a child referred in view of periorbital edema, a urine dipstick examination wa | Ans: 300-1000 mg/dl
+[23694] Q: A 4-year-old boy presents with swelling that has increased over the past week. The swelling is  | Ans: Idiopathic nephrotic syndrome
+[23695] Q: A 10-year-old child presented with generalized edema. On investigation, his serum cholesterol l | Ans: Nephrotic syndrome
+[23697] Q: A 4-year-old child is having first episode of nephrotic syndrome and is started on oral steroid | Ans: Mesenteric ischemia
+[23941] Q: A 7-year-old child from a low socioeconomic background presents with fever, convulsions, behavi | Ans: Tubercular meningitis
+[23971] Q: A 10-year-old child presents with edema, anasarca and massive proteinuria. A diagnosis of minim | Ans: Good response to steroids
+[24318] Q: A 12-year-old girl presents with a history of joint stiffening in the morning and feeling tired | Ans: Polyarticular-onset JIA
+[24319] Q: A 4-year-old male child presents to the emergency department with a history of fever for 10 day | Ans: Pediatric multisystem inflammatory 
+[24410] Q: A child presents with dark-brown coloured urine since 3 days with mild edema of face and legs w | Ans: Nephrotic syndrome
+
+============================================================
+MODULE 582: Deficiency of Fat Soluble Vitamins (39 questions)
+============================================================
+[23410] Q: A 2-year-old child born abroad presents to the GP with another chest infection: this has been h | Ans: Sweat Test
+[23432] Q: Deficiency of which of the following vitamins is associated with increased risk of thrombosis? | Ans: Vitamin E
+[23433] Q: A neonate delivered via normal vaginal delivery is started on mother's feed. He developed vomit | Ans: Galactose-1-Phosphate Uridyl Transf
+[23544] Q: A 10-year-old girl is 4 ft 10 in (147 cm) tall. Her father is 5 ft 10 in (178 cm) tall, and her | Ans: Obtain IGF-1 level.
+[23582] Q: Which of the following is not associated feature with zinc deficiency? | Ans: Increased skin infections
+[23616] Q: During the 1-week health supervision visit, a mother who is exclusively breastfeeding asks abou | Ans: Vitamin D
+[23639] Q: In which of the following scenarios is the child least likely to suffer from vitamin K deficien | Ans: A 4 day old baby of a healthy mothe
+[23640] Q: Which vitamin is deficient in breast milk? | Ans: Vitamin K
+[23684] Q: A child presents with malnutrition and multiple follicular, dry papules on the elbows and knees | Ans: Phrynoderma
+[23708] Q: What is absent in breast milk ? | Ans: Vit K
+[23710] Q: Vitamin K is given at birth to prevent the following? | Ans: Hemorrhagic disease of newborn
+[23711] Q: A 2-year-old boy has rickets not resolving with first complete course of vitamin D supplementat | Ans: Hypophosphatemic rickets
+[23712] Q: In which of the following causes of rickets is the serum 25-OH D levels are decreased? | Ans: Vitamin D deficiency rickets
+[23713] Q: When suspecting early vitamin D deficiency in the patient, which of the following test is stand | Ans: 25 Hydroxy cholecalciferol levels
+[23714] Q: Which mineral deficiency causes Keshan's disease? | Ans: Selenium
+[23715] Q: Classical triad of Wernicke encephalopathy of thiamine deficiency is characterized by? | Ans: Altered sensorium, ocular signs, at
+[23716] Q: Which of the following vitamin is the most important for free radical scavenging action? | Ans: Vitamin E
+[23719] Q: A 4-week-old male child with normal genitalia presents to the emergency department with severe  | Ans: 17 hydroxy progesterone
+[23721] Q: A child suspected to have Celiac disease is to be evaluated. Which of the following will be the | Ans: IgA TTG + Total Serum IgA
+[23722] Q: A vegan patient with MCV of 110 fL and Hb of 10 g% is most likely to have? | Ans: Megaloblastic anemia
+[23723] Q: A child is found to have low serum iron, high ferritin and normal total iron binding capacity.  | Ans: Anemia of chronic disease
+[23724] Q: A child suffering from iron deficiency anemia was started on oral iron therapy. When will the p | Ans: 5-7 days
+[23725] Q: A 3-year-old child is suffering from progressive anemia. On examination, malar prominence and h | Ans: Thalassemia
+[23726] Q: A child developed sudden-onset cardiac arrest. CPR was started and rhythm was checked. Since th | Ans: Intraosseous
+[23729] Q: A 10-year-old boy who presents to you with lethargy and his urine has become dark in colour. Th | Ans: G6PD deficiency
+[23735] Q: Which vitamin deficiency causes conjunctival xerosis in children? | Ans: Vitamin A
+[23737] Q: Which of the following would be the most likely radiographic finding in a child who has been di | Ans: Prominence of the costochondral jun
+[23853] Q: When suspecting vitamin C deficiency in a child, which of the following test is the best indica | Ans: Leukocyte ascorbate concentration
+[23854] Q: An infant is brought to a hospital because her wet diaper turns black when they are exposed to  | Ans: Homogentisic acid oxidase
+[23856] Q: Phenylketonuria occurs due to deficiency of? | Ans: Phenylalanine hydroxylase
+[23875] Q: A 9-year-old child is hospitalized with her second episode of meningococcemia. Immunodeficiency | Ans: Terminal complement C5b-C9 deficien
+[23877] Q: A child presented with anemia, mental retardation, bone pains and hepatosplenomegaly. Bone marr | Ans: Glucocerebrosidase
+[23880] Q: Angular cheilitis, stomatitis, and glossitis are characteristic of the deficiency of which vita | Ans: Riboflavin
+[23881] Q: A child presented with anemia, mental retardation, bone pains and hepatosplenomegaly. Bone marr | Ans: Glucocerebrosidase
+[23910] Q: A 12-month-old male child is brought to your office for a well-child examination and immunizati | Ans: Varicella
+[23939] Q: Which of the following vaccines should not be given to a child with severe combined immunodefic | Ans: MMR vaccine
+[24092] Q: Galactosemia occurs most commonly due to the deficiency of? | Ans: Galactose-1-Phosphate Uridyltransfe
+[24094] Q: An 8-year-old child presented with hepatomegaly and hypoglycemia. He was diagnosed with glucose | Ans: Glycogen accumulation in liver
+[24379] Q: Of the following options, the best initial test for a workup for immunodeficiency is? | Ans: A complete blood count with differe
+
+============================================================
+MODULE 583: Deficiency of Water-soluble Vitamins & Trace Elements (7 questions)
+============================================================
+[1651] Q: White line of Frenkel is seen in: September 2008 | Ans: Scurvy
+[23738] Q: Which of the following radiological finding is the most specific for Scurvy? | Ans: Trummerfeld zone at the metaphysis
+[23739] Q: A child presents with generalized body aches, poor wound healing, corkscrew hairs on her arms,  | Ans: Vitamin C deficiency
+[23741] Q: For children <5 years, the highest global prevalence of micronutrient and trace elements defici | Ans: Vitamin A deficiency
+[23742] Q: According to NICE guidelines, what is the first line of management for a formula fed child with | Ans: Ensure infant is not over fed
+[23745] Q: Low glycemic index is classified as value less than: | Ans: 55
+[23878] Q: Which vitamins need to be supplemented in CF patients? | Ans: A, D, E
+
+============================================================
+MODULE 584: Fluid and Electrolyte Disorders (37 questions)
+============================================================
+[3351] Q: What is the cause of death in pediatric patients with Diabetic Ketoacidosis? | Ans: Cerebral edema
+[3728] Q: What alteration occurs in chloride concentration in sweat and pancreatic secretions in cystic f | Ans: Chloride is elevated in sweat
+[8512] Q: Dosage of intravenous fluid for 2 month old child in diarrhoea with severe dehydration - | Ans: 100 ml/Kg in 6 hour
+[9036] Q: Rehydration therapy in a 2 year old severely dehydrated child is - | Ans: 30 ml/kg in 30 min, 70 ml/kg in 2'/
+[9482] Q: A 2-year-old boy has passed 4-6 stools daily over the last 2 days. The faces are liquid and con | Ans: Sodium-glucose solution
+[9572] Q: A newborn infant is diagnosed with a congenital anomaly which can be understood by the image il | Ans: Prostaglandin PGE1
+[23353] Q: What is the daily fluid requirement for a neonate on day 3 of life with a birth weight of 1500  | Ans: 80-90 ml/kg/day
+[23434] Q: A term neonate is sick and cannot be immediately started on mother's milk. He is started on IV  | Ans: 60 ml/kg
+[23680] Q: A 2-year-old child presents with fever, irritability, and a stiff neck. Cerebrospinal fluid (CS | Ans: Tuberculous meningitis
+[23747] Q: While promoting oral fluids in a child with active diarrhea, which of the following fluids must | Ans: Fruit juices
+[23748] Q: A 5-year-old child is brought to the ER with complaints of 18 episodes of loose stools in the l | Ans: Oral rehydration therapy with ORS
+[23750] Q: In a 28-week child with suspected RDS, what of the following occurs? | Ans: Surface tension increases, complian
+[23752] Q: Upon presentation to the emergency department, a 7-year-old girl is found to have a serum gluco | Ans: Administer a normal saline bolus
+[23753] Q: A 10-year-old child weighing 30 kg presents with a history of loose stools for 2 days. On exami | Ans: Manage ABC, NS 20 mL/kg and start i
+[23754] Q: A 10-year-old boy has a history of recurrent sinusitis and multiple episodes of pneumonia. You  | Ans: Perform DNA testing for CFTR gene m
+[23755] Q: A 3-year-old boy presents with fever and cough. A chest x-ray was done, which showed the follow | Ans: Right upper lobe consolidation
+[23756] Q: Which is the ideal maintenance fluid for pediatric patients? | Ans: 5% dextrose and N saline
+[23758] Q: A child presents to the emergency department with a history of arrhythmia, chronic laxative use | Ans: Hypocalcemia
+[23759] Q: An 18-month-old child presents with an episode of choking and cyanosis. Examination revealed re | Ans: 1, 2
+[23761] Q: A child who is a known case of type 1 DM presented to the emergency with unconsciousness. There | Ans: NS @ 20 ml/kg over 1 hr with insuli
+[23763] Q: Initial drug to start in fluid-refractory cold shock in children? | Ans: Epinephrine
+[23764] Q: A 10-day-old infant presents to clinic with a painful, red vesicular rash as below. He is mildl | Ans: Transmission is more common in seco
+[23765] Q: A child is admitted with DKA and is severely dehydrated. Their blood pressure is low and you wo | Ans: 230ml
+[23766] Q: A 7-year-old girl, is newly diagnosed with diabetes mellitus. She has been drinking lots of flu | Ans: There is autoimmune pancreatic &bet
+[23767] Q: 2-year-old 10kg child with multiple episodes of diarrhea presents with sunken dry eyes, depress | Ans: 1000ml
+[23768] Q: A 1-year-old child has acute gastroenteritis and is in some dehydration. What will be the amoun | Ans: 10-20 ml/kg
+[23771] Q: A 7-year-old boy weighing 30 kg has been posted for surgical resection of a tumor. What is the  | Ans: 1700 mL
+[23772] Q: A 2-year-old boy is brought to a village hospital with loose stools for the past 3 days. His mo | Ans: 1000 ml
+[23773] Q: A malnourished child, given too much food, developed hypophosphatemia & hypomagnesemia. What co | Ans: Insulin mediated uptake of electrol
+[23775] Q: A child with severe hypovolemic shock was administered fluids, followed by starting on IV epine | Ans: IV Milrinone
+[23776] Q: A 5-year-old child presents with loose stools, irritability, and hasty drinking. On examination | Ans: Consider severe dehydration, start 
+[23777] Q: A 6-year-old child is brought by parents with complaints of bedwetting at night. Which of the f | Ans: Behaviour therapy
+[23778] Q: A 25-day-old infant is brought to the Emergency Department. In the triage the patient was havin | Ans: Begin dopamine IV infusion
+[23779] Q: A 7 years-old boy has history of regular bed-wetting, twice a week, since many years. With thor | Ans: Bell and pad based classical condit
+[23780] Q: Most important mechanism of nephrotic syndrome is? | Ans: Primary Na+ retention
+[23866] Q: A 7-year-old boy, recently treated with chemotherapy, presents with abdominal pain, vomiting, o | Ans: Hydration
+[24150] Q: A 2.5-year-old child presents with high grade fever, barking cough and stridor while crying. Ch | Ans: Oral dexamethasone
+
+============================================================
+MODULE 585: Chromosomal Disorders (67 questions)
+============================================================
+[2047] Q: A 7-year-old boy presented with proximal muscle weakness and low IQ. Gower's sign is present. W | Ans: Dystrophin
+[23300] Q: A 7-day-old female newborn had an abnormal result on newborn screening revealing an absence of  | Ans: Lymphocyte subsets via flow cytomet
+[23426] Q: Which of the following is true regarding the mechanism of breast milk jaundice? | Ans: Unconjugated hyperbilirubinemia
+[23520] Q: The parents of a 2-month-old girl are concerned that their child may be at risk for autism beca | Ans: Absence of social smile by 6 months
+[23567] Q: An early marker of Mineral and Bone Disorder in CKD Patient is? | Ans: Rise in FGF-23 levels
+[23588] Q: A Child is having macrocephaly, large hands and feet, low IQ, is tall for age, has hyperteloris | Ans: NSD-1 deletions
+[23589] Q: Wolf Hirschhorn syndrome involves which among the following genetic abnormalities? | Ans: Del 4p
+[23637] Q: A 7-month-old infant presents with diarrhea and mucocutaneous lesions since weaning. The sympto | Ans: Acrodermatitis enteropathica
+[23717] Q: Which among the following disorders is an example of polygenic inheritance? | Ans: Cleft palate
+[23718] Q: Defective class-switch recombination underlies which among the following disorders? | Ans: Hyper IgM Syndrome
+[23727] Q: A 2-year-old child presents with a history of recurrent UTI and chest infection. The mother rec | Ans: Leukocyte adhesion deficiency
+[23794] Q: A 13-year-old boy, above the 99th centile for height, with gynecomastia and small testes. He ha | Ans: Klinefelter's syndrome
+[23799] Q: What type of chromosomal abnormality is associated with acute promyelocytic leukemia? | Ans: Chromosomal translocation (15;17)
+[23800] Q: A chromosomal deletion responsible for the DiGeorge syndrome is found at | Ans: 22q11
+[23801] Q: All of the following are true about syndromes and chromosomal abnormalities except: | Ans: Patau's syndrome: trisomy 18
+[23802] Q: Which chromosomal abnormality is indicated by the karyotyping given below? | Ans: Trisomy 18
+[23803] Q: Look at the image and tell the associated genetic abnormality? | Ans: 47, XY, +21
+[23804] Q: A child with Trisomy 21 developed Transient Leukemia. Such patients are likely to show which ad | Ans: GATA-1 mutations
+[23805] Q: Anticipation phenomenon occurs in which of the following? | Ans: Myotonic dystrophy
+[23806] Q: Which of the following is most common preventable cause of intellectual disability, previously  | Ans: Hypothyroidism
+[23807] Q: Which genetic condition of the following is associated with an increased risk of leukemia? | Ans: Trisomy 21
+[23809] Q: Steroid-resistant nephrotic syndrome is defined as failure to achieve remission after how many  | Ans: 6
+[23811] Q: A Child is having short stature, triangular face, frontal bossing, micrognathia and clinodactyl | Ans: Russell Silver Syndrome
+[23812] Q: A child had typical clinical characteristics of Down Syndrome and was evaluated for genetic abn | Ans: Partial Deletions
+[23813] Q: Epibulbar dermoids are usually found in | Ans: Goldenhar syndrome
+[23814] Q: Pierre Robin syndrome includes | Ans: Micrognathia
+[23816] Q: A 12-years old boy presents with a deafness and recurrent hematuria, with investigations sugges | Ans: Alport Syndrome
+[23822] Q: Hypoplastic ribs, scalp defects, cleft palate, rocker bottom feet, hypotelorism and holoprosenc | Ans: Trisomy 13
+[23823] Q: Hall's Criteria have been described to identify Down Syndrome. All of the following are Hall's  | Ans: Presence of congenital heart diseas
+[23825] Q: Most common cardiac lesion in down's syndrome is? | Ans: Atrioventricular septal defect
+[23826] Q: Which of the following is most commonly associated with Tetralogy of Fallot? | Ans: Down’s syndrome
+[23827] Q: What is the diagnosis of the patient having the following type of karyotype, as shown in the im | Ans: Down Syndrome
+[23830] Q: Down syndrome children have decreased risk of developing the following as compared to general p | Ans: Neuroblastoma
+[23831] Q: A mother brings her 3-year-old son with Down syndrome to the clinic because his gums have been  | Ans: Leukemia
+[23832] Q: A mother brings her 3-year-old son with Down syndrome to the clinic because his gums have been  | Ans: Leukemia
+[23833] Q: Identify the incorrect match for an abnormality and the corresponding common syndrome where it  | Ans: Cystic Hygroma- Klinefelter Syndrom
+[23834] Q: All of the following can be diagnosed on Karyotyping except? | Ans: Noonan Syndrome
+[23835] Q: Which of the following examination findings would you be most likely to identify on examination | Ans: Ejection systolic murmur
+[23836] Q: A baby was born with small but elongated skull, omphalocele, VSD, overlapping fingers, tight pa | Ans: Trisomy 18
+[23837] Q: A child with short stature underwent karyotyping and the following was seen. Tell the likely di | Ans: Turner Syndrome
+[23838] Q: A 6-year-old boy with round face, thick upper lip and full cheeks. There are stellate patterns  | Ans: William's syndrome
+[23839] Q: Identify the likely diagnosis by looking at the karyotype? | Ans: Cri-du-chat Syndrome
+[23840] Q: In which trimester is the Quadruple Test done for Antenatal Screening of Down Syndrome? | Ans: 2nd trimester
+[23841] Q: True regarding risk of having a child with Down Syndrome? | Ans: Increased with increase in maternal
+[23842] Q: Which of the following is not a microdeletion syndrome? | Ans: Noonan Syndrome
+[23843] Q: Polydactyly is a feature of which trisomy? | Ans: Trisomy 13
+[23844] Q: 100% risk of Down syndrome in all viable fetuses is seen with which translocation? | Ans: t (21;21)
+[23845] Q: Spot diagnosis of the following syndrome is- | Ans: Apert syndrome
+[23846] Q: Which of these is not a typical feature of Down's Syndrome? | Ans: Widely spaced nipples
+[23847] Q: Clinical features of Edwards syndrome include: | Ans: Flexed, overlapping fingers
+[23855] Q: A 10-year-old boy presents with pain and swelling at the great toe, serum uric acid of 9.4 mg/d | Ans: Hypoxanthine-guanine phosphoribosyl
+[23879] Q: The following are causes of neutropenia except: | Ans: DiGeorge syndrome
+[23882] Q: Which of the following is X-linked dominant condition? | Ans: Rett's Syndrome
+[23915] Q: PANDAS is associated with? | Ans: Streptococcus pyogenes
+[23958] Q: All are habit disorders except? | Ans: Temper tantrum
+[23985] Q: About Parvovirus B19 infection, which of the following statements is incorrect? | Ans: Erosive arthritis
+[23989] Q: A child presented with decline in scholastic performance and myoclonic jerks. There is a histor | Ans: IgG antibodies in CSF
+[24019] Q: A child comes with multiple petechiae in her lower limbs. A CBC is ordered which shows low plat | Ans: ITP (immune thrombocytopenia)
+[24086] Q: A 7 years old girl presents to the clinic for evaluation of short stature. He has no medical pr | Ans: 158.5 cm
+[24101] Q: Which among the following is the most common cause of bronchiolitis obliterans in children? | Ans: Adenovirus
+[24353] Q: A child presented with mucosal bleeds, superficial petechiae and purpurae, but no muscle bleeds | Ans: Bernard Soulier Syndrome
+[24362] Q: The following statements are true with regard to Wiskott-Aldrich syndrome except: | Ans: It is inherited as an autosomal dom
+[24364] Q: A child presented with petechiae, purpura and platelet count of 10,000. Bone marrow aspirate sh | Ans: IVIG
+[24387] Q: Which of the following is a known risk factor for language delay? | Ans: Family history of reading delay
+[24458] Q: All of the following are phagocytic disorders except? | Ans: Ataxia Telangiectasia
+[24529] Q: False about thumb sucking among the following is | Ans: Needs treatment after 6 years of ag
+[24530] Q: At what age does autism spectrum disorder usually become evident? | Ans: 2-4 years
+
+============================================================
+MODULE 586: Metabolic Disorders of Amino Acids (38 questions)
+============================================================
+[23342] Q: A term baby with a birth weight of 3 kg was on exclusive breastfeeds. On day 5 of life, the chi | Ans: Inadequate breast feeding
+[23412] Q: A neonate with hypoglycemia is being managed using IV Dextrose infusion. He needs a bolus or hi | Ans: Rule out hyperinsulinemia
+[23429] Q: Which of the following condition you do not expect risk of developing cerebral palsy? | Ans: A 14 year old child had significant
+[23436] Q: Which among the following is not included in the triad of necrotizing enterocolitis? | Ans: Hyponatremia instead of option
+[23437] Q: Not a part of metabolic triad in NEC? | Ans: Neutropenia
+[23442] Q: Most common indication of liver transplantation in children is? | Ans: Biliary atresia
+[23564] Q: A 10-month-old child being treated for diarrhoea with hypokalemia shows poor response to potass | Ans: Hypomagnesemia
+[23583] Q: The X-ray image of a child with muscle weakness and failure to thrive is attached below. What i | Ans: Rickets
+[23641] Q: An infant presents with vomiting after feeding. A Benedict's test is performed and returns posi | Ans: Galactosemia due to GAL-1-P uridyl 
+[23686] Q: Out of the following, which represents marasmus accurately? | Ans: Calorie deficit with normal serum p
+[23700] Q: A 7-month-old girl presents to your clinic with recurrent episodes of fever, vomiting and chron | Ans: Fanconi syndrome
+[23744] Q: An 18-month-old child presents with 3 days of watery diarrhea and vomiting, followed by altered | Ans: 1, 3, 4
+[23749] Q: You are asked to see a 2-year-old child who has a 12-hour history of severe diarrhoea and vomit | Ans: Hypovolemic
+[23762] Q: Thirty-six hours after initiation of treatment with insulin for DKA, a 4-year-old girl's serum  | Ans: Continue intravenous insulin therap
+[23783] Q: A 6-week-old male infant has projectile emesis after feeding. He has an olive shaped abdominal  | Ans: He likely has hypochloremic metabol
+[23796] Q: A 10-year-old child presents with diarrhea and significant weight loss. On examination, both he | Ans: Gluten-free diet
+[23810] Q: Which MRI finding is seen in a child with spastic quadriplegia? | Ans: Multicystic encephalomalacia
+[23848] Q: You are evaluating a child for obesity with failure to thrive and low IQ. The following facial  | Ans: Phenylketonuria
+[23852] Q: A child born normally, developed mental retardation, blonde hair and convulsions by 1 year of a | Ans: Phenylketonuria
+[23859] Q: Vitamin B6 administration is helpful in which among the following metabolic disorders? | Ans: Homocystinuria
+[23860] Q: After the delivery of an infant of diabetic mother, blood glucose of infant was 60mg/dl. Which  | Ans: Serum calcium
+[23861] Q: Which of the following amino acid position, amino acids and channel combination is defective in | Ans: Position 508, Phenylalanine, Cl
+[23862] Q: Recently approved drug indicated in Rett syndrome is? | Ans: Trofinetide
+[23864] Q: A 5-day-old infant presents to the Emergency for lethargy. Parents report that he has had irrit | Ans: Plasma amino acid concentrations
+[23865] Q: Type of change seen in sickle cell anemia is? | Ans: Glutamic acid to valine
+[23867] Q: Which is CORRECT regarding febrile seizure? A: Febrile seizures are generalized tonic-clonic se | Ans: A, C, D
+[23868] Q: Nonionic dye is | Ans: lohexol
+[23869] Q: An infant presented to a clinic with complaints of failure to thrive. On evaluation, the child  | Ans: Gordon syndrome
+[23870] Q: A child is being evaluated for suspected inherited renal tubular disorder. He is found to have  | Ans: Bartter Syndrome
+[23902] Q: Which of the following is a X linked metabolic disorder? | Ans: Fabry's disease
+[23906] Q: The mucopolysaccharidosis (MPSs) are a group of inherited disorders caused by defects in the ca | Ans: Hunter syndrome (MPS II)
+[24056] Q: An infant presented with multiple episodes of projectile non-bilious vomiting post-feeds and ep | Ans: Hypochloremic hypokalemic metabolic
+[24057] Q: A 9-week-old infant is brought to you for persistent vomiting and is found to have the followin | Ans: Hypokalemia, hypochloremia, and met
+[24058] Q: A child is diagnosed with hypertrophic pyloric stenosis, which among the following can be seen  | Ans: B,C& D
+[24059] Q: The metabolic derangement in congenital pyloric stenosis is? | Ans: Hypochloremic alkalosis
+[24100] Q: A newborn baby is diagnosed with a metabolic condition at 10 days of age, after she presented w | Ans: Galactose-1-phosphate uridyl transf
+[24191] Q: A 2-week-old infant presents with tachypnea, poor perfusion, gallop rhythm, diminished pulses,  | Ans: Alprostadil
+[24267] Q: Find the correct match of mineral toxicity and its associated clinical symptom/disease | Ans: Iron - abdominal pain
+
+============================================================
+MODULE 587: Metabolic Disorders of Urea Cycle, Complex Molecules, and Carbohydrates (23 questions)
+============================================================
+[23354] Q: A 2-year-old child is brought to the emergency room with a generalised seizure following a high | Ans: Diazepam
+[23485] Q: A child presents with nausea and abdominal pain following an iron tablet overdose. What is the  | Ans: Deferoxamine
+[23884] Q: A 4-year-old child is diagnosed to be having complex febrile seizure. Which of the following fe | Ans: Recurrence within 24 hours of same 
+[23885] Q: A 12-year-old girl has hepatomegaly. She is short for her age, suffers from hypoglycemia and ne | Ans: Glycogen storage disorder
+[23886] Q: A baby born at term and was well at birth. On day 2 of life, he became severely unwell with poo | Ans: Urea cycle defect
+[23887] Q: Which among the following conditions presents in infancy with cyclic cyanosis? | Ans: Bilateral choanal atresia
+[23888] Q: Not a major risk factor for febrile seizure recurrence? | Ans: Complex febrile seizure
+[23889] Q: A 6-month-old girl is brought to the ED for excessive fussiness and colicky behavior. On exam,  | Ans: Vigabatrin
+[23890] Q: A female child with febrile seizures was evaluated for risk factors. It was found that the chil | Ans: 25-50%
+[23891] Q: A 16-year-old boy who plays left tackle for his high school football team complains of cramping | Ans: GSD type V
+[23892] Q: A 12 year old child while trekking, developed severe hypothermia. He was evaluated in a local h | Ans: J wave
+[23893] Q: According to PALS guidelines - what is the most appropriate treatment for a 7-year-old boy, pre | Ans: Synchronized DC shock 1J/kg
+[23895] Q: A 2-year-old child presents with stable vitals and an ECG showing paroxysmal supraventricular t | Ans: Adenosine 0.1 mg/kg
+[23896] Q: A 10-year-old child presents with edema and generalized swelling. A diagnosis of minimal change | Ans: Good response to steroids
+[23898] Q: A 4-year-old male child with body weight of 15 kg and height 100 cm is admitted with renal fail | Ans: 40 ml/min/1.73 m&#178; BSA
+[23899] Q: What therapy would you recommend for the most effective treatment of the hematologic complicati | Ans: Enzyme replacement therapy (ERT)
+[23900] Q: A 15-year-old presents with chronic fatigue and severe bone pain of 1 year's duration. He has h | Ans: Gaucher disease
+[23904] Q: A 14 year old boy presents with episode of unexpected collapse during sports. He recovers withi | Ans: Wolff-Parkinson-White syndrome
+[23905] Q: A 20-day-old breastfed girl presents to the emergency department with jaundice, vomiting, letha | Ans: Galactosemia
+[23907] Q: A child with early exercise fatiguability presented to the OPD. The pediatrician suspected McAr | Ans: Muscle Phosphorylase
+[23908] Q: A 4-month-old girl is brought in by her mother with the complaint of progressive weakness and p | Ans: Tay-Sachs's disease
+[23909] Q: A child was brought with mental retardation. He had a Cherry red spot with no organomegaly. Wha | Ans: Tay Sachs disease
+[24182] Q: In Sickle Cell Anemia, which drug is used to decrease the incidence of painful vaso-occlusive c | Ans: Hydroxyurea

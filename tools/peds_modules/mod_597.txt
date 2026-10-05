@@ -1,0 +1,331 @@
+================================================================
+MODULE 597: Acyanotic Congenital Heart Diseases (53 questions)
+================================================================
+
+ID: 12303 | Answer: [C] Tender hepatomegaly
+QUESTION: In children, CHF (congestion heart failure) is diagnosed by
+OPTIONS: A) Raised JVP | B) Pedal edema | C) Tender hepatomegaly | D) Basal crepts
+EXPLANATION: Answer- C. Tender hepatomegaly Heart failure in infants & children results some degree of hepatemegaly which is usually tender & sometimes splenomegaly. Peripheral edema is age dependent : In infants, edema usually eye & over flank. Older childern & adolescent shows both periorbital edema & pedal edema and occurs late.
+----------------------------------------------------------------
+
+ID: 17374 | Answer: [B] Bisferiens pulse
+QUESTION: Which of the following features is not associated with patent ductus arteriosus?
+OPTIONS: A) Continuous 'machinery' murmur | B) Bisferiens pulse | C) Heaving apex beat | D) Wide pulse pressure
+EXPLANATION: PDA is associated with a collapsing pulse Patent ductus arteriosus Overview Acyanotic congenital heart defect Connection between the pulmonary trunk and descending aorta More common in premature babies, born at high altitude or maternal rubella infection in the first trimester Features Left subclavicular thrill Continuous 'machinery' murmur Large volume, bounding, collapsing pulse Wide pulse pressure Heaving apex beat Management Indomethacin closes the connection in the majority of cases If associated with another congenital heart defect amenable to surgery then prostaglandin E1 isuseful to keep the duct open until after surgical repair. Reference: Braunwald's heart disease 12 th edition, page no.1559
+----------------------------------------------------------------
+
+ID: 23368 | Answer: [B] 25-30% babies are asymptomatic
+QUESTION: Which of the following is true about Congenital CMV Infection?
+OPTIONS: A) Most Common cause of Non-Syndromic NHL in children | B) 25-30% babies are asymptomatic | C) Confirmation can be done by urine culture or PCR after 4 weeks of age | D) In developing countries, primary maternal infection can lead to congenital CMV
+EXPLANATION: In Congenital CMV Infection cases 90% cases are Asymptomatic & 10% are symptomatic. Incorrect Options: Most Common cause of Non-Syndromic NHL in children: This is incorrect . Non-Syndromic Non-Hodgkin Lymphoma (NHL) is not associated with congenital CMV NHL in children is more likely to be associated with other factors, such as immunodeficiency or genetic mutations . CMV is not a common cause of NHL. Confirmation can be done by urine culture or PCR after 4 weeks of age: This is incorrect . Confirmation of congenital CMV infection is typically done by urine PCR or culture within the first 3 weeks of life (not after 4 weeks), as the virus is most reliably detected early after birth. Urine PCR is considered the best method for diagnosing congenital CMV infection. In developing countries, primary maternal infection can lead to congenital CMV: This is correct , but the question asks for the most accurate statement. Primary maternal infection can indeed lead to congenital CMV , but the key point in this question was about the asymptomatic nature of the infection , which makes B the correct answer. Key takeaways:Congenital CMV Epidemiology: 90% Asymptomatic 10% symptomatic C/F in symptomatic cases : IUGR, Petechiae(Thrombocytopenia) Sometimes blueberry muffin rash Microcephaly +/- ,Periventricular Calcification Chorioretinitis HSM(HepatoSplenomegaly) Complications : SNHL: more common in symptomatic,but can occurs in asymptomatic cases Hearing assessment in all suspected congenital CMV cases should be done Schedule:At birth,then every 6 monthly till 2 years of age By OAE(OtoAcoustic Emission ) Investigation : Best sample - Urine > Saliva IOC -PCR Culture(Urine culture)-confirmatory/gold standard Rx: DOC iv Ganciclovir x 6week specially recommended in CNS & eye involvement Alternative Oral Valganciclovir x 6 month Reference: Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23370 | Answer: [A] Ventricular Septal Defect (VSD)
+QUESTION: The physical finding of a "hairy pinna" (hypertrichosis of the external ear) is a classic sign associated with infants of diabetic mothers (IDM). Which congenital heart defect is most commonly found overall in this population?
+OPTIONS: A) Ventricular Septal Defect (VSD) | B) Atrial Septal Defect (ASD) | C) Patent Ductus Arteriosus (PDA) | D) Transposition of the Great Arteries (TGA)
+EXPLANATION: Explanation: The image shows hypertrichosis of the pinna ("hairy ear"), a well-described dysmorphic feature in infants of diabetic mothers (IDMs) . IDMs are at a significantly increased risk for congenital anomalies, particularly congenital heart disease (CHD). While several cardiac defects are associated with maternal diabetes, Ventricular Septal Defect (VSD) is the single most common anomaly observed in this group. Other associated defects include hypertrophic cardiomyopathy and atrial septal defects. Explanation of Other Options: Atrial Septal Defect (ASD) (Option A): ASDs are also seen with increased frequency in IDMs, but they are less common than VSDs. Patent Ductus Arteriosus (PDA) (Option C): While a PDA can be present, it is more strongly associated with prematurity. In term IDMs, structural defects like VSD are more characteristic. Transposition of the Great Arteries (TGA) (Option D): This is a critical distractor. TGA is the most specific CHD for infants of diabetic mothers, meaning the relative risk for TGA is extremely high in this population compared to the general population. However, it is not the most common defect overall. Key Takeaways: This table summarizes the key cardiac associations in Infants of Diabetic Mothers:
+----------------------------------------------------------------
+
+ID: 23444 | Answer: [C] Rotor syndrome
+QUESTION: Causes of congenital unconjugated hyperbilirubinemia may include all except?
+OPTIONS: A) Sepsis | B) Crigler-Najar syndrome | C) Rotor syndrome | D) Gilbert syndrome
+EXPLANATION: Sepsis, Crigler Najar syndrome and Gilbert syndrome can all present with unconjugated hyperbilirubinemia in neonates and even in first 24 hr of life (the so-called congenital jaundice). Rotor syndrome produces conjugated jaundice and usually does not manifest in the neonatal period, hence the answer. Reference: OP Ghai 10 th Edition, Page 171
+----------------------------------------------------------------
+
+ID: 23602 | Answer: [D] Recurrent oral candidiasis
+QUESTION: An infant with a cleft palate and abnormal facies is noted to have refractory hypocalcemia in the first few weeks of life. A cardiology consult confirms a congenital heart defect. In addition to these findings, which other clinical manifestation is a classic component of this syndrome?
+OPTIONS: A) Severe microcephaly | B) Polydactyly | C) Hypoglycemic seizures | D) Recurrent oral candidiasis
+EXPLANATION: Explanation: This is a two-step question. The constellation of findings- C ardiac defects, A bnormal facies, P alatal defects, and H ypocalcemia-is classic for DiGeorge Syndrome , which is caused by a microdeletion on chromosome 22q11.2 . This embryologic defect results from the maldevelopment of the 3rd and 4th pharyngeal pouches. The key feature missing from the vignette is Thymic aplasia or hypoplasia , the 'T' in the mnemonic. The thymus is crucial for the maturation of T-lymphocytes. A deficient T-cell population leads to impaired cell-mediated immunity, making the infant highly susceptible to infections with intracellular pathogens, particularly fungi (like Candida ) and viruses. Therefore, recurrent or persistent mucocutaneous candidiasis is a hallmark immunologic manifestation of this syndrome. Related Mnemonic: The features of DiGeorge Syndrome are easily remembered with the mnemonic CATCH-22 : C ardiac abnormalities (especially conotruncal defects like Tetralogy of Fallot, Truncus Arteriosus) A bnormal facies T hymic aplasia/hypoplasia &#8594; T-cell deficiency C left palate H ypocalcemia/Hypoparathyroidism all due to a microdeletion on chromosome 22 . Explanation of other options: Severe microcephaly (Option A): While some children with 22q11.2 deletion may have a smaller head circumference, severe microcephaly is not a classic or defining feature. It is more characteristic of other syndromes (e.g., congenital CMV or Zika infection). Polydactyly (Option B): This finding (extra digits) is characteristic of other genetic syndromes, such as Patau Syndrome (Trisomy 13) or Ellis-van Creveld syndrome, but not DiGeorge Syndrome. Seizures (Option C): Seizures in this context would be a consequence of the hypocalcemia, which is already mentioned in the clinical stem. While they do occur, recurrent candidiasis represents a distinct and primary consequence of the immunodeficiency, another core pillar of the syndrome.
+----------------------------------------------------------------
+
+ID: 23604 | Answer: [A] Only 1,2,3 is correct
+QUESTION: Which of the following congenital heart disease presents with split-second heart sounds? 1. Atrial Septal Defect (ASD) 2. Ventricular Septal Defect (VSD) 3. Patent Ductus Arteriosus (PDA) 4. Tetralogy of Fallot (TOF)
+OPTIONS: A) Only 1,2,3 is correct | B) Only 2,3,4 is correct | C) Only 1,2,4 is correct | D) All are correct
+EXPLANATION: Explanation: Congenital heart diseases that can present with split-second heart sounds include: Atrial Septal Defect (ASD) (Statement 1): An ASD is a hole in the wall (septum) that separates the two upper chambers of the heart (atria). It can lead to increased blood flow from the left atrium to the right atrium, resulting in more evident splitting of the second heart sound (S2) during auscultation. Ventricular Septal Defect (VSD) (Statement 2) : A VSD is a hole in the septum between the two lower chambers of the heart (ventricles). Like ASD, it can cause increased blood flow from the left ventricle to the right ventricle, leading to accentuated splitting of S2. Patent Ductus Arteriosus (PDA) (Statement 3): PDA is a condition where a blood vessel called the ductus arteriosus, which connects the pulmonary artery to the aorta during fetal development, remains open after birth. This can result in abnormal blood flow and increased flow across the pulmonary valve, leading to a more pronounced splitting of S2. Tetralogy of Fallot (TOF): Does not usually present with split S2. Features include: Single S2 due to pulmonic stenosis (P2 often inaudible) Harsh systolic ejection murmur at left upper sternal border Right ventricular hypertrophy Overriding aorta and VSD Splitting of S2 is absent due to delayed or obstructed pulmonary flow. Key Takeaway Points: Splitting of S2 and associated conditions:
+----------------------------------------------------------------
+
+ID: 23698 | Answer: [B] Scurvy
+QUESTION: Which of the following diseases is associated with impaired collagen maturation?
+OPTIONS: A) Rickets | B) Scurvy | C) Beri Beri | D) Pellagra
+EXPLANATION: Scurvy, caused by a deficiency of vitamin C (ascorbic acid), directly affects collagen synthesis and maturation. Vitamin C is a crucial cofactor for the enzymes prolyl hydroxylase and lysyl hydroxylase , which are necessary for the hydroxylation of proline and lysine residues in procollagen. These modifications are essential for stabilizing the collagen triple helix and proper cross-linking of collagen fibers. Clinical Features of Scurvy: Fragile connective tissues: Poor collagen formation leads to fragile skin, blood vessels, and bones. Skeletal issues: Thin cortex, brittle trabeculae, and poor bone formation. Gum disease: Swelling, bleeding, and receding gums. Impaired wound healing: Due to defective collagen synthesis. Other Options: Rickets (A): Caused by vitamin D deficiency, it affects bone mineralization but does not impair collagen maturation. Beri Beri (C): Caused by thiamine (vitamin B1) deficiency, it affects energy metabolism, particularly in the nervous and cardiovascular systems. Pellagra (D): Caused by niacin (vitamin B3) deficiency, it results in dermatitis, diarrhea, and dementia but does not affect collagen synthesis. Key Takeaway: In scurvy, the impaired collagen leads to weakened structural integrity in tissues, making B. Scurvy the correct answer. Reference : Nelson textbook of Pediatrics, 21st ed., pg. 367
+----------------------------------------------------------------
+
+ID: 23706 | Answer: [B] NPHS-1 gene
+QUESTION: Finnish type of congenital nephrotic syndrome arises due to mutations in?
+OPTIONS: A) WT1 gene | B) NPHS-1 gene | C) NPHS-2 gene | D) PLCE-1 gene
+EXPLANATION: Mutations in NPHS-1 gene produces an Autosomal Recessive type of Congenital Nephrotic Syndrome called as "Finnish Type". NPHS-1 codes for nephrin protein, a key component of glomerular basement membrane. Genes implicated in congenital nephrotic syndrome Reference: OP Ghai 10 th Edition, Page 506; Nelson 21 st Edition, Chapter 545
+----------------------------------------------------------------
+
+ID: 23786 | Answer: [D] Facial nerve palsy
+QUESTION: Which of the following is not a part of congenital syphilis?
+OPTIONS: A) Hutchinson teeth | B) Saber shin | C) Clutton joint | D) Facial nerve palsy
+EXPLANATION: Clinical features of Congenital Syphilis: Olympian brow - Bony prominence of the forehead caused by persistent or recurrent periostitis Clavicular or Higoumenakia sign- Unilateral or bilateral thickening of the sternoclavicular third of the clavicle Saber shins- Anterior bowing of the midportion of the tibia Scaphoid scapula- Convexity along the medial border of the scapula Hutchinson teeth - Peg-shaped upper central incisors; they erupt during 6th year of life with abnormal enamel, resulting in a notch along the biting surface Mulberry molars- Abnormal 1st lower molars characterized by small biting surface and excessive number of cusps Saddle nose- Depression of the nasal root, a result of syphilitic rhinitis destroying adjacent bone and cartilage Rhagades- Linear scars that extend in a spoke-like pattern from previous mucocutaneous fissures of the mouth, anus, and genitalia Juvenile paresis - Latent meningovascular infection; it is rare and typically occurs during adolescence with behavioral changes, focal seizures, or loss of intellectual function Juvenile tabes- Rare spinal cord involvement and cardiovascular involvement with aortitis Hutchinson triad- Hutchinson teeth, interstitial keratitis, and 8th nerve deafness Clutton joint - Unilateral or bilateral painless joint swelling (usually involving knees) from synovitis with sterile synovial fluid; spontaneous remission usually occurs after several weeks Interstitial keratitis - Manifests with intense photophobia and lacrimation, followed within weeks or months by corneal opacification and complete blindness 8th nerve deafness - May be unilateral or bilateral, appears at any age, manifests initially as vertigo and high-tone hearing loss, and progresses to permanent deafness. Tags : Topic : CONGENITAL SYPHILIS Difficulty level : MUST KNOW PYQ : NEET PG 2023 Reference : Cloherty and starks manual of neonatal care, SA ed., pg. 753
+----------------------------------------------------------------
+
+ID: 23824 | Answer: [D] Atrioventricular Septal Defect
+QUESTION: Most common congenital heart disease in Down Syndrome is?
+OPTIONS: A) Atrial Septal Defect | B) Ventricular Septal Defect | C) Patent Ductus Arteriosus | D) Atrioventricular Septal Defect
+EXPLANATION: Most common congenital heart disease in Down Syndrome is Endocardial Cushion Defect (ECD), also known as Atrioventricular septal defect (AVSD) or Complete Atrioventricular Canal Defect (C-AVCD). As per Ghai 10 th Ed, ECD comprises 40-60% of all congenital heart diseases in Down Syndrome. Extra-Edge Point: Patients of ECD show "Goose-Neck Deformity" on Angiography. Reference: Nelson 21 st Ed, Ghai 10 th Ed, Page
+----------------------------------------------------------------
+
+ID: 23903 | Answer: [C] HLA-DQ3
+QUESTION: A baby developed congenital toxoplasmosis. Presence of which among the following will predict a higher risk of severe infection?
+OPTIONS: A) HLA-DR1 | B) HLA-DQ2 | C) HLA-DQ3 | D) Toxoplasma infection is not HLA-associated
+EXPLANATION: HLA-DQ3+ predicts a more severe and fulminant course of congenital toxoplasma infection. According to Nelson, In monozygotic twins with congenital toxoplasmosis, the clinical pattern of involvement is most often similar, whereas in dizygotic twins the manifestations often differ. The major histocompatibility complex class II gene DQ3 appears to be common even among HIV-infected persons seropositive for T. gondii who develop toxoplasmic encephalitis, as well as in children with congenital toxoplasmosis who develop hydrocephalus. These findings suggest that the presence of HLA-DQ3 is a risk factor for severity of toxoplasmosis, in all patients including congenital toxoplasmosis. Reference: Nelson 21 st Edition, Chapter 316
+----------------------------------------------------------------
+
+ID: 24029 | Answer: [C] Rubella
+QUESTION: A child at birth has sensorineural hearing loss, diminished vision and a heart defect (PDA). Likely organism causing this?
+OPTIONS: A) CMV | B) Toxoplasma | C) Rubella | D) Chicken Pox
+EXPLANATION: The child at birth is presenting with a classic triad of Congenital Rubella Syndrome (CRS). The triad includes Deafness due to SNHL Cataract PDA Thus, the likely diagnosis is Rubella Infection, likely acquired in utero. Reference: OP Ghai 10 th Edition, Page 285
+----------------------------------------------------------------
+
+ID: 24043 | Answer: [C] C
+QUESTION: Involvement of which of the following is responsible for most cases of Bochdalek's hernia?
+OPTIONS: A) A | B) B | C) C | D) D
+EXPLANATION: In congenital diaphragmatic hernia (CDH) the Bochdalek hernia accounts for up to 90% of the hernias seen, with 80-90% occurring on the left side. Involvement of the left pleuro-peritoneal fold (membrane) is responsible for most cases of CDH, on the left side. See the image below for more information Reference: Nelson 21 st Edition, Chapter 345.1; Avery's diseases of the newborn, 1 st SA Edition.
+----------------------------------------------------------------
+
+ID: 24073 | Answer: [B] Congenital diaphragmatic hernia
+QUESTION: The following fetal procedure is performed for which of the following lesions?
+OPTIONS: A) Tracheo-esophageal fistula | B) Congenital diaphragmatic hernia | C) Choanal Atresia | D) Laryngomalacia
+EXPLANATION: The procedure being performed is a fetal procedure called as FETO, which stands for Fetal Endoscopic Tracheal Occlusion. Based on the observation that hydrostatic pressure exerted by fetal lung fluid plays a critical role in lung growth and maturity, a promising experimental therapy for CDH to prevent pulmonary hypoplasia is in utero tracheal occlusion by FETO. Indicated in antenatally diagnosed CDH esp those with severe CDH (LHR Reference: Nelson 21 st Edition, Chapter 345.1; Avery's diseases of the newborn, 1 st SA Edition.
+----------------------------------------------------------------
+
+ID: 24075 | Answer: [B] Symptoms develop beyond 48 hr of birth
+QUESTION: Which among the following is associated with a good prognosis in congenital diaphragmatic hernia?
+OPTIONS: A) Lung head ratio <1 | B) Symptoms develop beyond 48 hr of birth | C) CDH detected in the 1st trimester scan prenatally | D) Liver herniated into thorax
+EXPLANATION: Symptoms developing beyond 48 hr of birth usually indicates a milder variant of CDH and thus has a better outcome. Extra-Edge: Poor prognosis predictors in congenital diaphragmatic hernia Lung: Head Ratio Severe pulmonary hypoplasia An associated major anomaly Herniation to the contralateral lung Symptoms before 24 hr of age Liver herniation into thorax CDH detected in the 1 st trimester Need for ECMO Reference: Nelson 21 st Edition, Chapter 122.10
+----------------------------------------------------------------
+
+ID: 24111 | Answer: [B] Transposition of the great arteries
+QUESTION: A full-term infant develops cyanosis, tachypnea, and a sharp drop in oxygen saturation within the first 30 minutes of birth. On examination, she has normal heart sounds, normal liver edge, and oxygen saturation in the low 60s. When placed on continuous positive airway pressure (CPAP) and 100% oxygen, her oxygen saturation remains in the low 70s. A chest X-ray is performed. What is the most likely diagnosis?
+OPTIONS: A) Pulmonary atresia | B) Transposition of the great arteries | C) Tetralogy of Fallot | D) Hypoplastic left heart syndrome
+EXPLANATION: This patient's clinical findings and 'egg on a string' appearance of the heart are characteristics of transposition of the great arteries. In this congenital heart defect, the aorta arises from the right ventricle and the pulmonary artery arises from the left ventricle. This results in deoxygenated venous blood flowing back to the systemic circulation while oxygenated pulmonary venous blood flows back to the lungs. Patients are typically presented with Cyanosis in the 1 day of life, acute management includes prostaglandin E1 or/and a balloon atrial septostomy to expand the ductus arteriosus and facilitate inter-circulatory mixing. Once the patient is stabilized, corrective surgery should be performed as early as possible. Reference- Park's Pediatric cardiology, 6 th edition, page number- 209
+----------------------------------------------------------------
+
+ID: 24112 | Answer: [B] Transposition of the great arteries
+QUESTION: A full-term infant develops cyanosis, tachypnea, and a sharp drop in oxygen saturation within the first 30 minutes of birth. On examination, she has normal heart sounds, normal liver edge, and oxygen saturation in the low 60s. When placed on continuous positive airway pressure (CPAP) and 100% oxygen, her oxygen saturation remains in the low 70s. A chest X-ray is performed. What is the most likely diagnosis?
+OPTIONS: A) Ventricular septal defect | B) Transposition of the great arteries | C) Tetralogy of Fallot | D) Hypoplastic left heart syndrome
+TAG TOPIC: CYANOTIC CHD Difficulty level: GOOD TO KNOW PYQ: INICET NOV 2020 Reference: Park&rsquo;s Pediatric Cardiology, 6 th ed., pg. 209
+EXPLANATION: This patient's clinical findings and " egg on a string" appearance of the heart are characteristics of transposition of the great arteries. In this congenital heart defect, the aorta arises from the right ventricle and the pulmonary artery arises from the left ventricle. This results in deoxygenated venous blood flowing back to the systemic circulation while oxygenated pulmonary venous blood flows back to the lungs. Patients are typically presented with Cyanosis in the 1 day of life , acute management includes prostaglandin E1 or/and a balloon atrial septostomy to expand the ductus arteriosus and facilitate inter-circulatory mixing. Once the patient is stabilized, corrective surgery should be performed as early as possible. Option C: Patients of Teratology of Fallot presents after 2-4 weeks of life with cyanosis and respiratory distress. Option D: Hypoplastic left heart patients presents with cardiogenic shock and pallor. Cyanosis is absent or mild. Option A: Ventricular septal defect is acyanotic disease, hence ruled out. Tags: Topic: CYANOTIC CHD Difficulty level: GOOD TO KNOW PYQ: INICET NOV 2020 Reference: Park&rsquo;s Pediatric Cardiology, 6 th ed., pg. 209
+----------------------------------------------------------------
+
+ID: 24187 | Answer: [C] Hypoplastic left heart syndrome (HLHS)
+QUESTION: 4-day old infant presents with decreased oral intake and activity. Birth history is unremarkable and he was discharged home on day 2 of his life. On examination, child is cool, mottled, with decreased pulses. No murmur. Which is the most likely congenital heart defect?
+OPTIONS: A) Tetralogy of Fallot | B) Transposition of the great arteries (pure TGA) | C) Hypoplastic left heart syndrome (HLHS) | D) Ventricular septal defect
+TAG TOPIC: ACYANOTIC CHD; Hypoplastic Left Heart Syndrome Difficulty level: GOOD TO KNOW Reference: Park&rsquo;s Pediatric cardiology, 6 th ed., pg. 258
+EXPLANATION: This infant is in cardiac shock and is presenting due to closure of the ductus arteriosus, which supports the systemic output. In Hypoplastic left heart syndrome, the Mitral valve is atretic, there is hypoplasia of left ventricle, atresia of aortic valve and proximal aorta. Hence, in fetus the circulation is duct dependent. As the duct closes post-natal, the systemic circulation is compromised and hence there is cardiogenic shock, absent pulses and pallor. Option A: Remember, isolated Tetralogy of Fallot never presents with shock. Option B : Pure TGA, is a duct dependent lesion, and presents in this age group. But it is associated with severe cyanosis . Option D : Differential points for Ventricular septal defect, is significant VSD have prominent pan systolic murmur and presents at 6-8 weeks of age. Tags: Topic: ACYANOTIC CHD; Hypoplastic Left Heart Syndrome Difficulty level: GOOD TO KNOW Reference: Park&rsquo;s Pediatric cardiology, 6 th ed., pg. 258
+----------------------------------------------------------------
+
+ID: 24188 | Answer: [D] Should be paced immediately after birth if heart rate is below 60 beats per minute
+QUESTION: All the following are true statement for congenital heart block diagnosed in fetal life except
+OPTIONS: A) It may be associated with structural heart disease | B) Has poor prognosis if there is hydrops in utero | C) Can be treated with neonatal isoprenaline | D) Should be paced immediately after birth if heart rate is below 60 beats per minute
+TAG TOPIC: ARRHYTHMIAS Difficulty level: MAY KNOW PYQ: FMGE JUNE 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 2447
+EXPLANATION: Congenital heart block is usually present from birth. The baby is usually born with a heart rate of approx. 70 beats per minute but is usually not unwell . Often no treatment is required for many years. However, if the affected child fails to thrive, or collapses, develops heart failure, experiences Stokes-Adams attacks or has a resting heart rate lower than 40 per minute, intervention should be considered. If the child is well and the absolute indications for pacing are not present, then the child should be managed conservatively with 24-hour ECG tapes every few months to document the heart rate. If there are symptoms, or the absolute criteria are satisfied, in-dwelling transvenous pacing should be inserted. Tags: Topic: ARRHYTHMIAS Difficulty level: MAY KNOW PYQ: FMGE JUNE 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 2447
+----------------------------------------------------------------
+
+ID: 24192 | Answer: [A] A murmur may not be present at birth.
+QUESTION: Which of the following statements is true about a ventricular septal defect (VSD)?
+OPTIONS: A) A murmur may not be present at birth. | B) Surgical repair is always required. | C) A continuous machinery-like murmur is characteristic. | D) A larger defect will have a louder murmur than a small defect.
+TAG TOPIC: ACYANOTIC CHD Difficulty level: GOOD TO KNOW PYQ: AIIMS JULY 2020 Reference: Park&rsquo;s Pediatric cardiology, 6 th ed., pg. 166
+EXPLANATION: The murmur of a VSD is due to turbulent blood flow across the defect. When pulmonary vascular resistance is high enough, blood cannot flow from left to right across the defect. Once the pulmonary pressure drops to normal levels, which is typically by 2 to 6 months of age, the murmur becomes audible. The murmur is holosystolic and usually smaller defects create more turbulence which in turn, produces a louder murmur. Only large defects require surgical repair. Tags: Topic: ACYANOTIC CHD Difficulty level: GOOD TO KNOW PYQ: AIIMS JULY 2020 Reference: Park&rsquo;s Pediatric cardiology, 6 th ed., pg. 166
+----------------------------------------------------------------
+
+ID: 24193 | Answer: [B] COA
+QUESTION: A neonate presents with weak pulses in the lower limbs and strong pulses in the upper limbs. What is the most probable diagnosis?
+OPTIONS: A) TGA | B) COA | C) TOF | D) Ebstein anomaly
+EXPLANATION: Explanation: The described findings are typical of Coarctation of Aorta (COA): which is a congenital constriction of the aorta, most often seen just beyond the origin of the left subclavian artery at the site of the ductus arteriosus. COA typically presents with diminished femoral pulses in the lower limbs alongside prominent upper limb pulses. This difference in pulse volume and blood pressure between the arms and legs is described as radio-femoral delay. Investigations: Chest X-ray: Enlarged left subclavian artery forming a prominent shadow in the left upper mediastinum Notching of the lower borders of the ribs from collateral vessel erosion (seen most commonly after the first decade of life) Post-stenotic dilatation in the descending aorta Additional tests: ECG, echocardiography, color Doppler, CT scan, MRI Treatment: Prostaglandin E1 infusion to reopen the ductus arteriosus and restore adequate blood flow to the lower extremities Definitive management with surgical repair Explanation of other options: TGA (Option A): Presents with cyanosis and circulatory failure, not pulse discrepancy. TOF (Option C): Causes cyanosis due to VSD &#43; pulmonary stenosis, not weak femoral pulses. Ebstein anomaly (Option D): Abnormal tricuspid valve position, but no differential pulses.
+----------------------------------------------------------------
+
+ID: 24194 | Answer: [C] Start PPV
+QUESTION: A neonate delivered at term did not cry immediately at birth. Initial Steps were performed and the child's HR was found to be <100/min. What is the immediate next step in management?
+OPTIONS: A) Start O2 | B) Start CPR | C) Start PPV | D) Give Epinephrine
+EXPLANATION: Any neonate who doesn't cry immediately at birth, needs initial steps including providing warmth and stimulation. In term infants after stimulation, if no respirations are noted, or if the heart rate is PPV should be initiated at pressures of approximately 20 cm H2 O at a rate of 40-60 breaths/min initially with 21% fraction of inspired oxygen (FIO 2 ) for full-term infants. Reference: Nelson 21 st Ed, Chapter 121; NRP 8 th Edition Guidelines
+----------------------------------------------------------------
+
+ID: 24195 | Answer: [A] TOF
+QUESTION: All of the following are common diseases in Turner Syndrome, except?
+OPTIONS: A) TOF | B) Coarctation of aorta | C) Mitral Valve prolapse | D) Bicuspid aortic valve
+EXPLANATION: As per Nelson 21 st Ed, the most common heart defects in Turner syndrome patients are bicuspid aortic valves, coarctation of the aorta, aortic stenosis, and mitral valve prolapse. TOF is not described in most textbooks and is thus the answer by exclusion. Reference: Nelson 21 st Ed, Chapter 98.4, OP Ghai 10 th Ed, Page 669
+----------------------------------------------------------------
+
+ID: 24196 | Answer: [C] Laryngomalacia
+QUESTION: Most common congenital anomaly of larynx is?
+OPTIONS: A) Laryngeal web | B) Laryngeal stenosis | C) Laryngomalacia | D) Laryngeal papilloma
+EXPLANATION: As per all pediatric texts, laryngomalacia is the most common congenital anomaly of larynx. Also remember: Laryngomalacia is the most common cause of intermittent stridor below 2 years of age. Reference: Nelson 21 st Edition, Chapter 413
+----------------------------------------------------------------
+
+ID: 24197 | Answer: [C] Absence of any specific organ involvement
+QUESTION: All are true regarding hypereosinophilic syndrome in children except?
+OPTIONS: A) Eosinophilia of >1500 cells/microlitre | B) Persistent eosinophilia for 6 months | C) Absence of any specific organ involvement | D) Corticosteroids are first-line therapy
+EXPLANATION: Hypereosinophilic syndrome A disease characterized by a persistently elevated eosinophil count (&ge; 1500 eosinophils/mm&sup3;) in the blood for at least six months without any recognizable cause, with involvement of either the heart, nervous system, or bone marrow. The term HES should only be used when there is eosinophilia with end-organ damage from the eosinophils and not from another cause. Prednisone at 15 mg/kg is indicated to acutely reduce the eosinophil count after diagnostic tests are performed and when safe. If the patient is unstable, the glucocorticoid should be administered to prevent progression of symptoms. Other acute therapies aimed at reduction of eosinophil counts include vincristine, imatinib mesylate, or even leukophoresis. Reference: Nelson 21 st Ed/Chapter 427.4
+----------------------------------------------------------------
+
+ID: 24198 | Answer: [B] Aqueductal stenosis
+QUESTION: Most common cause of obstructive hydrocephalus is?
+OPTIONS: A) Brain tumours | B) Aqueductal stenosis | C) Tubercular meningitis | D) Pneumococcal meningitis
+EXPLANATION: Causes of hydrocephalus Obstructive hydrocephalus: Congenital aqueductal stenosis Non-obstructive hydrocephalus: Subarachnoid haemorrhage in western countries, TB meningitis in India Reference: Nelson 21 st Edition, OP Ghai 10 th Edition, Page 590
+----------------------------------------------------------------
+
+ID: 24199 | Answer: [D] Spinal muscular atrophy
+QUESTION: Nusinersen is a recently approved drug useful in the management of which of the following Pediatric neurological condition?
+OPTIONS: A) Duchenne's muscular dystrophy | B) Myotonic dystrophy | C) Congenital myasthenia | D) Spinal muscular atrophy
+EXPLANATION: Nusinersen, also called as Spinraza, is a drug approved for use in patients with spinal muscular atrophy (SMA). The drug is given via intrathecal route. SMA occurs due to loss-of-function mutations in the SMN-1 gene. Nusinersen acts by modulating alternative splicing of SMN-2 gene, making it partially functional. Reference: Nelson 21 st Edition, Chapter 630.2
+----------------------------------------------------------------
+
+ID: 24200 | Answer: [A] Sturge Weber syndrome
+QUESTION: A 10-yr old male child was presented for evaluation of a seizure disorder. On examination a vascular plaque was found along the ophthalmic and maxillary divisions of the trigeminal nerve. The mother informed the pediatrician that the lesion was present since birth and there was no change in morphology. There was also raised intra-ocular pressure in the same eye. The most likely possibility is?
+OPTIONS: A) Sturge Weber syndrome | B) Infantile hemangioma | C) Congenital hemangioma | D) Proteus syndrome
+EXPLANATION: Sturge-Weber syndrome has three major features: a red or pink birthmark called a port-wine birthmark, a brain abnormality called a leptomeningeal angioma, and increased pressure in the eye (glaucoma). These features can vary in severity and not all individuals with Sturge-Weber syndrome have all three features. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 2879
+----------------------------------------------------------------
+
+ID: 24202 | Answer: [B] 4th week
+QUESTION: Failure of closure of anterior neuropore at what time is responsible for producing the congenital defect as shown?
+OPTIONS: A) 3rd week | B) 4th week | C) 6th week | D) 12th week
+EXPLANATION: The image is showing a severe type of neural tube defect, called Anencephaly. Anencephaly occurs due to failure of closure of anterior neuropore Closure of anterior neuropore occurs on 25 th day (i.e., 4 th week) of intrauterine life, developing into the lamina terminalis. Anencephaly is usually not compatible with life, with children being either still-born or expiring soon after birth. Reference: Nelson 21 st Edition, Chapter 609
+----------------------------------------------------------------
+
+ID: 24203 | Answer: [C] Dandy Walker Malformation
+QUESTION: Look at the following radiological image in an infant & tell the likely diagnosis?
+OPTIONS: A) Arnold Chiari malformation | B) Cisterna magna congenita | C) Dandy Walker Malformation | D) Congenital absence of cerebellum
+EXPLANATION: As depicted in the image, there is cystic dilatation of the 4 th ventricle with an enlarged posterior fossa. This is consistent with a diagnosis of Dandy-Walker Malformation. Review: Posterior Fossa Malformations Reference: Nelson 20 th Edition, Page 2811.
+----------------------------------------------------------------
+
+ID: 24204 | Answer: [D] Hypoplastic left heart syndrome
+QUESTION: A 4-day-old infant presents with decreased oral intake and activity. Birth history is unremarkable and he was discharged home on day 2 of his life. On examination, child is cool, mottled, with decreased pulses. No murmur. Which is the most likely congenital heart defect?
+OPTIONS: A) Tetralogy of Fallot | B) Transposition of the great arteries | C) Ebstein's anomaly | D) Hypoplastic left heart syndrome
+EXPLANATION: This infant is in cardiac shock and is presenting due to closure of the ductus arteriosus, which supports the systemic output. Remember the concept that any neonate who suddenly worsens in the 1 st week of life, a possibility of ductus-dependent cardiac lesions should be considered. Ductus dependent lesions like Ebstein's anomaly, tricuspid atresia and isolated TGA present with cyanosis, while those with hypoplastic left heart syndrome and severe coarctation of aorta present with shock, when ductus arteriosus closes. Most infants with hypoplastic left heart syndrome (HLHS) are acutely ill, with signs of acute shock in the 1 st week of life. There are signs and symptoms of severe right-sided and left-sided heart failure: cyanosis is variable and less common. Instead, these children present with a characteristic greyish pallor and poor peripheral pulses, which contrast with hyperdynamic cardiac pulsations. Murmurs are not prominent, but a short soft mid-systolic murmur and mid-diastolic rumble may be present. The second heart sound is single, heard loudest at the upper left sternal border, and is accentuated until clinical deterioration with gross right heart failure is advanced. Urgent management includes starting Alprostadil (PGE1) infusion iv as soon as possible to open the ductus arteriosus and planning an urgent surgery in the immediate neonatal period. The surgical procedure typically used is the Norwood procedure or the Sano procedure. References: Park's Pediatric cardiology, 6 th edition, page number - 258; Nelson 21 st Edition, Chapter 458.10
+----------------------------------------------------------------
+
+ID: 24205 | Answer: [D] Furosemide
+QUESTION: A 3-month-old boy arrives in the emergency room with tachypnea and retractions. His mother reports he has nasal congestion, cough, and is not able to feed well. On auscultation, you note fine basal crackles. His HR is 190, and a 2/6 harsh holosystolic murmur is identified along the left sternal border. He also has hepatomegaly. CXR shows cardiomegaly and increased pulmonary vascular markings. Which medication is indicated for symptomatic relief?
+OPTIONS: A) Inhaled Salbutamol | B) Racemic epinephrine | C) Indomethacin | D) Furosemide
+EXPLANATION: This child is exhibiting congestive heart failure in view of tachycardia, hepatomegaly & basal crepitations. Presence of chest infection, holosystolic murmur, age 3 months and CXR showing cardiomegaly and increased pulmonary vascular markings, the most likely etiology is a large VSD. VSD can cause CCF in this age group like this. Now see carefully, among all the mentioned options, only option D, i.e., Frusemide has a role in the management of CCF symptoms. Reference: Park's Pediatric cardiology, 6 th edition, page number 166
+----------------------------------------------------------------
+
+ID: 24206 | Answer: [C] Ostium primum atrial septal defect.
+QUESTION: A young female presents with history of dyspnea on exertion. On examination, she has wide, fixed split S2, with ejection systolic murmur in left second intercostal space. Her ECG shows left axis deviation. The most probable diagnosis is?
+OPTIONS: A) Total anomalous pulmonary venous drainage | B) Tricuspid atresia. | C) Ostium primum atrial septal defect. | D) Ventricular septal defect with pulmonary arterial hypertension
+EXPLANATION: Wide fixed splitting S2, in association with ejection systolic murmur suggests the diagnosis of Atrial septal defect. Ideally with hypertrophy of the right side of the heart, right axis deviation should be present, but left axis deviation is seen in patients of ostium primum A.S.D. Reference: Park's Pediatric cardiology, 6 th edition , page number 155; Nelson 21 st Edition, Chapter 453.1
+----------------------------------------------------------------
+
+ID: 24207 | Answer: [D] 124
+QUESTION: NADAS minor criteria for congenital heart disease includes? 1. Abnormal S2 2. Systolic Murmur grade 2/6 3. Diastolic Murmur 4. Low BP
+OPTIONS: A) 123 | B) 234 | C) 134 | D) 124
+EXPLANATION: NADAS Criteria to predict congenital heart disease in a child Reference: OP Ghai 10 th Edition, Table 16.11, Page 432
+----------------------------------------------------------------
+
+ID: 24208 | Answer: [C] TOF
+QUESTION: Least risk of CCF is seen in which of the following heart diseases?
+OPTIONS: A) ASD | B) VSD | C) TOF | D) TGA
+EXPLANATION: The VSD of TOF is always large enough to allow free exit to the right-to-left shunt into overriding aorta. Since the right ventricle is effectively decompressed by the VSD, CCF seldom occurs in TOF. The exceptions to this rule include Anemia Infective Endocarditis Systemic HTN RV Dysfunction from long-standing hypoxia AR or TR Reference: OP Ghai 10 th Edition, Page 445
+----------------------------------------------------------------
+
+ID: 24209 | Answer: [B] A term neonate having TGA with VSD
+QUESTION: Which of the following congenital heart disease would be expected to exhibit cyanosis?
+OPTIONS: A) A 2-year-old girl with tetralogy of Fallot with concomitant Hb of 4.5 g/dl | B) A term neonate having TGA with VSD | C) A preterm neonate with large PDA with distal aortic narrowing | D) A 4-month-old infant with supracristal VSD
+EXPLANATION: TGA with VSD is the most common cause of cyanosis in the first week of life. About other options: Although TOF is a cyanotic disease, there must be atleast 5 g/dl of reduced Hb to produce clinical cyanosis. Hence despite having TOF, in the presence of severe anemia, child will not show cyanosis PDA and supracristal VSDs are acyanotic diseases. Ref: Perloff's Cardiology, Nelson 21 st Edition
+----------------------------------------------------------------
+
+ID: 24210 | Answer: [A] Atrioventricular septal defect
+QUESTION: You are examining an infant Down's syndrome. You hear a murmur on auscultation of the precordium. Which of these is the most likely cause of the murmur?
+OPTIONS: A) Atrioventricular septal defect | B) Coarctation of the aorta | C) Tetralogy of Fallot | D) Ventricular septal defect
+EXPLANATION: Atrioventricular septal defect is the most common heart defect found in those with Down's syndrome. Atrial septal defect, ventricular septal defect and tetralogy of Fallot can also occur in those with Down's syndrome. Coarctation of the aorta is more commonly associated with Turner's. Tags : Topic : DOWNS SYNDROME Difficulty level : MUST KNOW PYQ : FMGE JULY 2023 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 660
+----------------------------------------------------------------
+
+ID: 24211 | Answer: [B] Male genital cancer
+QUESTION: A child has been diagnosed with Diamond Blackfan syndrome. He is at increased risk of all the following cancers except
+OPTIONS: A) AML | B) Male genital cancer | C) Osteogenic sarcoma | D) Colon carcinoma
+TAG TOPIC: DIAMOND BLACKFAN SYNDROME Difficulty level: MAY KNOW Reference: Nelson textbook of Pediatrics, 1 st SA ed, page number: 2313
+EXPLANATION: Diamond-Blackfan anemia (DBA) is a rare, inherited bone marrow failure disorder that primarily affects the production of red blood cells. It's a congenital condition The risk is increased for Myelodysplastic syndrome Acute myeloid leukemia Colon carcinoma Osteogenic sarcoma Female genital cancers. Tags: Topic: DIAMOND BLACKFAN SYNDROME Difficulty level: MAY KNOW Reference: Nelson textbook of Pediatrics, 1 st SA ed, page number: 2313
+----------------------------------------------------------------
+
+ID: 24212 | Answer: [C] Shout for help
+QUESTION: What is the first thing you should do if there is an unresponsive child in the basic life support algorithm?
+OPTIONS: A) Open airways | B) Chest compressions | C) Shout for help | D) Rescue breaths
+TAG TOPIC: PALS Difficulty level: MUST KNOW PYQ: INICET MAY 2023 Reference: Basic life support, American Heart Association, 2024
+EXPLANATION: Tags: Topic: PALS Difficulty level: MUST KNOW PYQ: INICET MAY 2023 Reference: Basic life support, American Heart Association, 2024
+----------------------------------------------------------------
+
+ID: 24213 | Answer: [A] Ventricular septal defect
+QUESTION: Statistically, which of the following congenital cardiac defect is the most common?
+OPTIONS: A) Ventricular septal defect | B) Atrial septal defect | C) Tetralogy of Fallot | D) Patent ductus arteriosus
+TAG TOPIC: EPIDEMIOLOGY Difficulty level: MUST KNOW PYQ: AIIMS JULY 2020 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 2379
+EXPLANATION: Most common cardiac anomaly - Bicuspid aortic valve Most common congenital cardiac defect - Ventricular septal defect Most common cyanotic heart defect- Tetralogy of Fallot Most common acyanotic heart defect- Ventricular septal defect Tags: Topic: EPIDEMIOLOGY Difficulty level: MUST KNOW PYQ: AIIMS JULY 2020 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 2379
+----------------------------------------------------------------
+
+ID: 24214 | Answer: [B] Ellis-van Creveld
+QUESTION: Which one of these syndromes is associated with total anomalous pulmonary venous return?
+OPTIONS: A) Turner's | B) Ellis-van Creveld | C) 49XXXXY | D) Holt Oram Syndrome
+TAG TOPIC: EPIDEMIOLOGY Difficulty level: MUST KNOW PYQ: INICET NOV 2021 Reference: Park&rsquo;s Pediatric cardiology, 6th ed., pg. 237
+EXPLANATION: Turner&rsquo;s syndrome is associated with coarctation of the aorta. 49XXXXY and 49XXXXX are associated with patent ductus arteriosus. Holt-Oram syndrome is associated with ASD. Ellis-van Creveld syndrome is associated with ASD, PDA, hypoplastic left heart syndrome, TAPVD and TGA. Tags: Topic: EPIDEMIOLOGY Difficulty level: MUST KNOW PYQ: INICET NOV 2021 Reference: Park&rsquo;s Pediatric cardiology, 6th ed., pg. 237
+----------------------------------------------------------------
+
+ID: 24216 | Answer: [C] The majority of patients will require a pacemaker
+QUESTION: Which of the following is true about congenital heart block in neonatal lupus erythematosus?
+OPTIONS: A) It is associated with maternal anti-Ku autoantibodies | B) It is transient | C) The majority of patients will require a pacemaker | D) The risk of mortality is small
+TAG TOPIC: ARRHYTHMIAS Difficulty level: MAY KNOW PYQ: FMGE JUNE 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1279
+EXPLANATION: It should be considered in pregnant women with systemic lupus erythematosus who are anti-SSA/Ro antibody positive and have previous children with congenital heart block. Congenital complete heart block is the most serious manifestation of NLE. NLE is responsible for 80 to 95 % of all cases of congenital complete heart block diagnosed in utero or in the neonatal period. KEY TAKEAWAYS : Congenital heart block, is an important manifestation of neonatal lupus erythematosus (NLE) that carries a poor prognosis and high mortality. In severe cases, surgical implantation of a pacemaker, along with the correction of structural abnormalities in the heart, may be necessary. Tags: Topic: ARRHYTHMIAS Difficulty level: MAY KNOW PYQ: FMGE JUNE 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 1279
+----------------------------------------------------------------
+
+ID: 24218 | Answer: [B] Increased Troponin T
+QUESTION: In children diagnosed with congenital heart disease, NADA's criteria include all of the following except?
+OPTIONS: A) Diastolic murmur- any grade | B) Increased Troponin T | C) Abnormal X-ray | D) Congestive heart failure
+EXPLANATION: Explanation: NADA's Criteria for Congenital Heart Disease Diagnosis: Diagnosis requires: 1 major OR 2 minor criteria Troponin T is not part of NADA's criteria (used for myocardial injury assessment)
+----------------------------------------------------------------
+
+ID: 24219 | Answer: [A] 3 and 4
+QUESTION: Nada's Minor Criteria include which of the following? 1.Systolic murmur Grade 3 2.Diastolic murmur 3.Abnormal second heart sound 4.Abnormal BP
+OPTIONS: A) 3 and 4 | B) 1, 2 and 3 | C) 1, 2, 3 and 4 | D) 2, 3 and 4
+EXPLANATION: Explanation: Minor criteria of Nada's classification include abnormal second heart sound and abnormal blood pressure , making option A correct. Nada's Criteria for CHD Presence of one major criterion or two minor criteria &rarr; likely congenital heart disease Helps in early diagnosis of CHD in children Table: Nada's Criteria for Congenital Heart Disease (Other options ruled out) Key Takeaways: Major criteria: systolic murmur &ge; grade 3, diastolic murmur, cyanosis, CHF Minor criteria: systolic murmur
+----------------------------------------------------------------
+
+ID: 24221 | Answer: [A] PUV
+QUESTION: Most common cause of bladder outlet obstruction in a male child?
+OPTIONS: A) PUV | B) Ureterocele | C) Ureteral Atresia | D) Bladder stone
+EXPLANATION: Posterior Urethral Valves (PUV): The most common cause of bladder outlet obstruction in male children . A congenital anomaly involving obstructive leaflets in the posterior urethra. Affects 1 in 8,000 male infants . Leads to severe obstructive uropathy , causing bladder dysfunction, hydroureteronephrosis, and potential renal damage. Other Options: (B) Ureterocele: A congenital anomaly of the ureter, typically associated with ureteral duplication. Can obstruct the ureter but does not cause primary bladder outlet obstruction. (C) Ureteral Atresia: A rare cause of obstruction but primarily affects the ureter, not the bladder outlet. (D) Bladder stone: Can cause bladder outlet obstruction but is far less common in children compared to PUV. Key Takeaway: Reference : Nelson textbook of Pediatrics, 21st ed., pg. 2808
+----------------------------------------------------------------
+
+ID: 24222 | Answer: [A] Left lower lobe
+QUESTION: Bronchogenic sequestration is seen in which lobe -
+OPTIONS: A) Left lower lobe | B) Right upper lobe | C) Left middle lobe | D) Left upper lobe
+EXPLANATION: Ans. is 'a' i.e., Left lower lobe Bronchogenic sequestration refers to the presence of a discrete mass of lung tissue without any normal connection to the airway system. Intralobar sequestrations are found most frequently in the posterior basal segment of the left lower lobe. Blood supply to the sequestered area arises not from the pulmonary arteries but from the aorta or its branches. Extralobar sequestrations are external to the lung. Found most commonly in infants as abnormal mass lesions, they may be associated with other congenital anomalies. Intralobar sequestrations are found within the lung substance and are usually associated with recurrent localized infection or bronchiectasis.
+----------------------------------------------------------------
+
+ID: 24223 | Answer: [A] Vesico-ureteric reflux
+QUESTION: STING Procedure is employed in the management of which among the following?
+OPTIONS: A) Vesico-ureteric reflux | B) Hypoplastic Left Heart Syndrome | C) Jejuno-ileal Atresia | D) Meningomyelocele
+EXPLANATION: Sub-ureteric Transurethral Injection Of A Bulking Agent in VUR is Also called STING Procedure. Using a Cystoscope, a bulking agent is injected into the submucosal plane of the intra-mural part of ureter This narrows the ureteric orifice and reinforces the flap-valve mechanism, reducing reflux. Increasingly being used as an alternative to surgery in VUR patients. Reference: Nelson 21 st Edition, Chapter 554
+----------------------------------------------------------------
+
+ID: 24224 | Answer: [B] WT2
+QUESTION: All of the following genes are involved in congenital nephrotic syndrome, except?
+OPTIONS: A) WT1 | B) WT2 | C) LMX1B | D) SMARCAL1
+EXPLANATION: Genes implicated in congenital nephrotic syndrome Reference: Nelson 21 st Edition, Chapter 545
+----------------------------------------------------------------
+
+ID: 24232 | Answer: [C] 3,5
+QUESTION: Increased pulmonary blood flow is seen in? 1. TOF 2. Ebstein's Anomaly 3. TGA 4. Tricuspid Atresia 5. TAPVC
+OPTIONS: A) 1,3,4,5 | B) 3,4,5 | C) 3,5 | D) 1,5
+EXPLANATION: Congenital Heart Diseases Based Upon Pulmonary Blood Flow A. Increased pulmonary blood flow All Left to Right lesions like ASD, VSD, PDA, ECD etc TGA TAPVC Truncus Arterious B. Reduced pulmonary blood flow TOF Tricuspid Atresia Ebstein's Anomaly Pulmonary Atresia Eisenmenger Syndrome Useful Tip For Integrated Pediatric-Radiology MCQS- Kindly note that all conditions with increased pulmonary blood flow will show pulmonary plethora on CXR due to increased vascular markings, while all conditions with reduced pulmonary blood flow will have pulmonary oligemia on CXR due to reduced vascular markings. Reference: OP Ghai 10 th Edition, Table 16.10, Page 430
+----------------------------------------------------------------
+
+ID: 24234 | Answer: [C] TAPVC
+QUESTION: Which congenital heart disease is associated with the same saturation in all 4 chambers of the heart?
+OPTIONS: A) TGA | B) TOF | C) TAPVC | D) Tricuspid atresia
+EXPLANATION: The duct dependent lesions cause shunting of blood from right to left leading to difference in limb saturations. However, in cardiac lesions causing complete mixing of blood like in TAPVC and Truncus arteriosus the limb saturation is low equally in all limbs (i.e., no differential cyanosis Analysis of Other Options: (A) TGA (Transposition of the Great Arteries): There is no mixing unless associated with an atrial or ventricular septal defect, so oxygen saturation differs across chambers. (B) TOF (Tetralogy of Fallot): Significant right-to-left shunting leads to hypoxemia but not equal saturation in all chambers. (D) Tricuspid Atresia: Oxygenation varies depending on the associated defects (e.g., ASD, VSD), so saturation is not uniform. Key Point: In TAPVC, because of the complete mixing of blood, all chambers of the heart show the same (reduced) oxygen saturation. Reference : Cloherty and Starks manual of neonatal care, SA ed., pg. 574
+----------------------------------------------------------------
+
+ID: 24273 | Answer: [B] Thyroid dysgenesis
+QUESTION: What is the most common cause of congenital hypothyroidism?
+OPTIONS: A) Thyroid agenesis | B) Thyroid dysgenesis | C) Iodine deficiency | D) Thyroid dyshormonogenesis
+EXPLANATION: Causes of permanent congenital hypothyroidism are: Thyroid dysgenesis (most common) Thyroid agenesis TSH resistance Thyroid dyshormonogenesis (2 nd most common) Central hypothyroidism Tags : Topic : CONGENITAL HYPOTHYROIDISM Difficulty level : MUST KNOW PYQ : NEET PG 2022 Reference : Cloherty and Stark's manual of neonatal care, SA ed., pg. 933
+----------------------------------------------------------------
+
+ID: 24275 | Answer: [D] Defect in iodine transport
+QUESTION: Which of the following is most likely in a neonate presenting with congenital hypothyroidism, decreased T3 and T4 levels, decreased radioactive iodine uptake, but a normal thyroid on ultrasound?
+OPTIONS: A) Thyroid dyshormonogenesis | B) Thyroid agenesis | C) Iodine deficiency | D) Defect in iodine transport
+EXPLANATION: Explanation: The most likely condition in a neonate presenting with congenital hypothyroidism, decreased T3 and T4 levels, along with decreased radioactive iodine uptake, is a defect in the iodine transporter . The following image shows a baby with jaundice due to congenital hypothyroidism. Explanation of other options: Thyroid dyshormonogenesis (Option A): Defects in thyroid hormone production, known as dyshormonogenesis, can be identified through newborn screening.. Due to the trophic influence of elevated TSH on thyroid follicular cells, affected infants frequently develop a goitre. It is associated with increased uptake of radioactive iodine. Thyroid agenesis (Option B): Thyroid agenesis is characterised by reduced uptake of radioactive iodine, but this option can be ruled out since the thyroid gland is visualised on ultrasound. Iodine deficiency (Option C): It is the most common cause of congenital hypothyroidism and is characterised by increased uptake on scintigraphy.
+----------------------------------------------------------------
+

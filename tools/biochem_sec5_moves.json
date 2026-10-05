@@ -1,0 +1,116 @@
+[
+  {
+    "id": 3529,
+    "from": 120,
+    "to": 101,
+    "reason": "Von Gierke G6Pase hyperuricemia -> Glycogen Storage Disorders (Mod 101)"
+  },
+  {
+    "id": 3767,
+    "from": 120,
+    "to": 140,
+    "reason": "SCID adenosine deaminase deficiency oral candidiasis -> Pathology (Mod 140: Hypersensitivity & Autoimmunity)"
+  },
+  {
+    "id": 4226,
+    "from": 120,
+    "to": 475,
+    "reason": "Acute gout 1st MTP podagra -> Medicine (Mod 475: Crystal Arthropathies)"
+  },
+  {
+    "id": 4641,
+    "from": 120,
+    "to": 136,
+    "reason": "Hallmarks of cancer cells -> Pathology (Mod 136: Neoplasms)"
+  },
+  {
+    "id": 4476,
+    "from": 120,
+    "to": 475,
+    "reason": "Alcoholic gouty arthritis lactate competition -> Medicine (Mod 475: Crystal Arthropathies)"
+  },
+  {
+    "id": 4096,
+    "from": 120,
+    "to": 418,
+    "reason": "Metabolic syndrome insulin resistance -> Medicine (Mod 418: Metabolic Syndrome)"
+  },
+  {
+    "id": 4680,
+    "from": 121,
+    "to": 264,
+    "reason": "Microtubule inhibitors vs Ciprofloxacin -> Pharmacology (Mod 264: Anticancer Drugs)"
+  },
+  {
+    "id": 4694,
+    "from": 121,
+    "to": 137,
+    "reason": "Li-Fraumeni syndrome TP53 mutation -> Pathology (Mod 137: Molecular Basis of Cancer)"
+  },
+  {
+    "id": 4697,
+    "from": 121,
+    "to": 261,
+    "reason": "Ciprofloxacin DNA gyrase mechanism -> Pharmacology (Mod 261: Fluoroquinolones)"
+  },
+  {
+    "id": 4698,
+    "from": 121,
+    "to": 264,
+    "reason": "Etoposide topoisomerase II anticancer -> Pharmacology (Mod 264: Anticancer Drugs)"
+  },
+  {
+    "id": 4702,
+    "from": 121,
+    "to": 137,
+    "reason": "HNPCC Lynch syndrome mismatch repair -> Pathology (Mod 137: Molecular Basis of Cancer)"
+  },
+  {
+    "id": 4700,
+    "from": 121,
+    "to": 137,
+    "reason": "HNPCC colorectal cancer mismatch repair -> Pathology (Mod 137: Molecular Basis of Cancer)"
+  },
+  {
+    "id": 4705,
+    "from": 122,
+    "to": 262,
+    "reason": "Rifampin RNA polymerase transcription inhibitor -> Pharmacology (Mod 262: Antitubercular Drugs)"
+  },
+  {
+    "id": 4709,
+    "from": 122,
+    "to": 608,
+    "reason": "Duchenne muscular dystrophy frame shift mutation -> Pediatrics (Mod 608: Neuromuscular Disorders)"
+  },
+  {
+    "id": 4844,
+    "from": 125,
+    "to": 87,
+    "reason": "Hexose absorption small intestine -> Physiology (Mod 87: Digestion & Absorption)"
+  },
+  {
+    "id": 4845,
+    "from": 125,
+    "to": 86,
+    "reason": "Ptyalin salivary amylase salivary gland -> Physiology (Mod 86: Gastrointestinal Secretion)"
+  },
+  {
+    "id": 4848,
+    "from": 125,
+    "to": 103,
+    "reason": "Cyanide inhibition complex IV ETC -> Krebs Cycle & ETC (Mod 103)"
+  },
+  {
+    "id": 4833,
+    "from": 125,
+    "to": 107,
+    "reason": "Type I collagen skin distribution -> Protein Structure (Mod 107)"
+  },
+  {
+    "id": 4840,
+    "from": 125,
+    "to": 89,
+    "reason": "Creatinine clearance parameters -> Physiology (Mod 89: GFR & Clearance)"
+  }
+]

@@ -1,0 +1,172 @@
+
+============================================================
+MODULE 596: Fetal Circulation (12 questions)
+============================================================
+[23438] Q: Which is correct about ABO and Rh incompatibility leading to erythroblastosis fetalis? | Ans: Cytotoxic
+[24166] Q: A 15-year-old adolescent collapses while playing in a high school basketball game without any p | Ans: Ask someone to retrieve an automati
+[24169] Q: A 7-year-old boy is seen by a pediatrician for constipation and was noted to look pale. Haemato | Ans: &beta;Thalassemia trait
+[24174] Q: Desmopressin is relatively contraindicated in which type of Von Willebrand disease? | Ans: Type 2B
+[24175] Q: Which of the following results is expected in Hb electrophoresis of a child who is a sickle cel | Ans: HbA 60%; HbF <2%; HbS 40%
+[24176] Q: During the examination of the child at birth, you observe that the umbilical cord of the baby h | Ans: Risk of renal agenesis
+[24177] Q: True about fetal circulation | Ans: Blood in IVC has more oxygen satura
+[24178] Q: The MOST common cause of syncope in children is | Ans: Neurocardiogenic syncope
+[24180] Q: Which of the following vessels carries deoxygenated blood back to the placenta in fetal circula | Ans: Umbilical Artery
+[24181] Q: Which of the following is the cause of the closure of ductus arteriosus? | Ans: Increase in Oxygen
+[24184] Q: What is the dose of dexamethasone given for achieving fetal lung maturity? | Ans: 6mg IM 4 doses 12 hr apart
+[24190] Q: A child was born and found to have a single umbilical artery as shown below. What is the likely | Ans: Unilateral Renal Agenesis
+
+============================================================
+MODULE 597: Acyanotic Congenital Heart Diseases (53 questions)
+============================================================
+[12303] Q: In children, CHF (congestion heart failure) is diagnosed by | Ans: Tender hepatomegaly
+[17374] Q: Which of the following features is not associated with patent ductus arteriosus? | Ans: Bisferiens pulse
+[23368] Q: Which of the following is true about Congenital CMV Infection? | Ans: 25-30% babies are asymptomatic
+[23370] Q: The physical finding of a "hairy pinna" (hypertrichosis of the external ear) is a classic sign  | Ans: Ventricular Septal Defect (VSD)
+[23444] Q: Causes of congenital unconjugated hyperbilirubinemia may include all except? | Ans: Rotor syndrome
+[23602] Q: An infant with a cleft palate and abnormal facies is noted to have refractory hypocalcemia in t | Ans: Recurrent oral candidiasis
+[23604] Q: Which of the following congenital heart disease presents with split-second heart sounds? 1. Atr | Ans: Only 1,2,3 is correct
+[23698] Q: Which of the following diseases is associated with impaired collagen maturation? | Ans: Scurvy
+[23706] Q: Finnish type of congenital nephrotic syndrome arises due to mutations in? | Ans: NPHS-1 gene
+[23786] Q: Which of the following is not a part of congenital syphilis? | Ans: Facial nerve palsy
+[23824] Q: Most common congenital heart disease in Down Syndrome is? | Ans: Atrioventricular Septal Defect
+[23903] Q: A baby developed congenital toxoplasmosis. Presence of which among the following will predict a | Ans: HLA-DQ3
+[24029] Q: A child at birth has sensorineural hearing loss, diminished vision and a heart defect (PDA). Li | Ans: Rubella
+[24043] Q: Involvement of which of the following is responsible for most cases of Bochdalek's hernia? | Ans: C
+[24073] Q: The following fetal procedure is performed for which of the following lesions? | Ans: Congenital diaphragmatic hernia
+[24075] Q: Which among the following is associated with a good prognosis in congenital diaphragmatic herni | Ans: Symptoms develop beyond 48 hr of bi
+[24111] Q: A full-term infant develops cyanosis, tachypnea, and a sharp drop in oxygen saturation within t | Ans: Transposition of the great arteries
+[24112] Q: A full-term infant develops cyanosis, tachypnea, and a sharp drop in oxygen saturation within t | Ans: Transposition of the great arteries
+[24187] Q: 4-day old infant presents with decreased oral intake and activity. Birth history is unremarkabl | Ans: Hypoplastic left heart syndrome (HL
+[24188] Q: All the following are true statement for congenital heart block diagnosed in fetal life except | Ans: Should be paced immediately after b
+[24192] Q: Which of the following statements is true about a ventricular septal defect (VSD)? | Ans: A murmur may not be present at birt
+[24193] Q: A neonate presents with weak pulses in the lower limbs and strong pulses in the upper limbs. Wh | Ans: COA
+[24194] Q: A neonate delivered at term did not cry immediately at birth. Initial Steps were performed and  | Ans: Start PPV
+[24195] Q: All of the following are common diseases in Turner Syndrome, except? | Ans: TOF
+[24196] Q: Most common congenital anomaly of larynx is? | Ans: Laryngomalacia
+[24197] Q: All are true regarding hypereosinophilic syndrome in children except? | Ans: Absence of any specific organ invol
+[24198] Q: Most common cause of obstructive hydrocephalus is? | Ans: Aqueductal stenosis
+[24199] Q: Nusinersen is a recently approved drug useful in the management of which of the following Pedia | Ans: Spinal muscular atrophy
+[24200] Q: A 10-yr old male child was presented for evaluation of a seizure disorder. On examination a vas | Ans: Sturge Weber syndrome
+[24202] Q: Failure of closure of anterior neuropore at what time is responsible for producing the congenit | Ans: 4th week
+[24203] Q: Look at the following radiological image in an infant & tell the likely diagnosis? | Ans: Dandy Walker Malformation
+[24204] Q: A 4-day-old infant presents with decreased oral intake and activity. Birth history is unremarka | Ans: Hypoplastic left heart syndrome
+[24205] Q: A 3-month-old boy arrives in the emergency room with tachypnea and retractions. His mother repo | Ans: Furosemide
+[24206] Q: A young female presents with history of dyspnea on exertion. On examination, she has wide, fixe | Ans: Ostium primum atrial septal defect.
+[24207] Q: NADAS minor criteria for congenital heart disease includes? 1. Abnormal S2 2. Systolic Murmur g | Ans: 124
+[24208] Q: Least risk of CCF is seen in which of the following heart diseases? | Ans: TOF
+[24209] Q: Which of the following congenital heart disease would be expected to exhibit cyanosis? | Ans: A term neonate having TGA with VSD
+[24210] Q: You are examining an infant Down's syndrome. You hear a murmur on auscultation of the precordiu | Ans: Atrioventricular septal defect
+[24211] Q: A child has been diagnosed with Diamond Blackfan syndrome. He is at increased risk of all the f | Ans: Male genital cancer
+[24212] Q: What is the first thing you should do if there is an unresponsive child in the basic life suppo | Ans: Shout for help
+[24213] Q: Statistically, which of the following congenital cardiac defect is the most common? | Ans: Ventricular septal defect
+[24214] Q: Which one of these syndromes is associated with total anomalous pulmonary venous return? | Ans: Ellis-van Creveld
+[24216] Q: Which of the following is true about congenital heart block in neonatal lupus erythematosus? | Ans: The majority of patients will requi
+[24218] Q: In children diagnosed with congenital heart disease, NADA's criteria include all of the followi | Ans: Increased Troponin T
+[24219] Q: Nada's Minor Criteria include which of the following? 1.Systolic murmur Grade 3 2.Diastolic mur | Ans: 3 and 4
+[24221] Q: Most common cause of bladder outlet obstruction in a male child? | Ans: PUV
+[24222] Q: Bronchogenic sequestration is seen in which lobe - | Ans: Left lower lobe
+[24223] Q: STING Procedure is employed in the management of which among the following? | Ans: Vesico-ureteric reflux
+[24224] Q: All of the following genes are involved in congenital nephrotic syndrome, except? | Ans: WT2
+[24232] Q: Increased pulmonary blood flow is seen in? 1. TOF 2. Ebstein's Anomaly 3. TGA 4. Tricuspid Atre | Ans: 3,5
+[24234] Q: Which congenital heart disease is associated with the same saturation in all 4 chambers of the  | Ans: TAPVC
+[24273] Q: What is the most common cause of congenital hypothyroidism? | Ans: Thyroid dysgenesis
+[24275] Q: Which of the following is most likely in a neonate presenting with congenital hypothyroidism, d | Ans: Defect in iodine transport
+
+============================================================
+MODULE 598: Cyanotic Congenital Heart Diseases (20 questions)
+============================================================
+[18249] Q: The use of prostaglandin to keep the ductus arteriosus open is necessary in which of the follow | Ans: Tricuspid atresia
+[18320] Q: Which of the following is not true regarding Tetralogy of Fallot? | Ans: Egg on side appearance in chest x-r
+[18354] Q: The 'snowman' appearance of heart on chest xray is seen in which congenital heart disease: | Ans: TAPVC
+[18359] Q: Which congenital disease has equal saturation in all four chambers of the heart? | Ans: TAPVC
+[23375] Q: A 30-hour-old term infant has been feeding normally, has a normal physical examination, and her | Ans: If an echocardiogram is normal
+[24229] Q: A 5-day-old, full-term male infant was severely cyanotic at birth. Prostaglandin E was administ | Ans: Transposition of great vessels
+[24230] Q: A Child with CHD with chest X ray finding shown. Diagnosis with correct match is? | Ans: Snowman heart- TAPVC
+[24231] Q: An infant presented with cyanosis. On cardiac catheterization, all four chambers of heart were  | Ans: TAPVC
+[24235] Q: A 38-week neonate developed poor feeding, lethargy and bradycardia. Since thermometer was unava | Ans: Cold Stress
+[24236] Q: Brain abscess in cyanotic heart disease is commonly located in - | Ans: Parietal lobe
+[24238] Q: A child with cyanotic heart disease was found to have SVT & evaluation revealed Wolff-Parkinson | Ans: Ebstein's Anomaly
+[24239] Q: A 12-year-old girl with a history of tetralogy of Fallot with pulmonary atresia and major aorto | Ans: Polycythemia
+[24241] Q: Which of the following statements about cyanotic congenital heart disease is true? | Ans: Infants with cyanotic congenital he
+[24242] Q: Which of the following statements about truncus arteriosus is true? | Ans: Symptoms may not be present until a
+[24244] Q: Which of the following is not a characteristic of the tetralogy of Fallot? | Ans: Atrial septal defect
+[24245] Q: A cyanotic child is having the CXR findings as shown in the image. What is correct? | Ans: Snowman Appearance- Supracardiac TA
+[24246] Q: Which of the following is seen in tetralogy of Fallot (TOF)? | Ans: Pulmonary infundibular stenosis
+[24247] Q: A 15-month-old boy is brought to the urgent care center after an episode during which he stoppe | Ans: Breath-holding spell
+[24248] Q: An infant with CCF underwent angiography and the following image was seen on ventriculography.  | Ans: Endocardial Cushion Defect
+[24249] Q: Increased pulmonary blood flow is seen in? (Multiple Options) | Ans: Both b & c
+
+============================================================
+MODULE 599: Paediatric Nephrology (17 questions)
+============================================================
+[23707] Q: An 8 year old boy presents with generalize edema, pallor and hyperlipidemia, with serum cholest | Ans: Nephrotic Syndrome
+[24251] Q: A 14-year-old boy presents with a sudden onset of severe testicular pain. On examination, the c | Ans: Exploration of the testis
+[24252] Q: All of the following can be used to distinguish bartter syndrome from gitelman syndrome, except | Ans: Serum potassium
+[24253] Q: A girl child presents with complaints of constant dribbling of urine since birth. She is, howev | Ans: Ectopic Ureter
+[24254] Q: All of the following are features of bladder exstrophy except? | Ans: Risk of transitional cell carcinoma
+[24256] Q: The following instrument is useful in a pediatric condition. What is that condition? | Ans: Nocturnal Enuresis
+[24257] Q: A male infant was brought to the pediatric emergency with abdominal distension and crying episo | Ans: Posterior uretheral valve
+[24258] Q: RIFLE Criteria is used for which among the following? | Ans: AKI
+[24259] Q: A 5-year-old boy frequently wets his bed with foul smelling urine. His parents are concerned an | Ans: Urinalysis & General Advice
+[24260] Q: A 2-year-old girl has high-grade fever and burning urination. She has been diagnosed with E.col | Ans: Age < 6 years
+[24262] Q: A 10-month-old female infant is seen for follow up 2 weeks after diagnosed with Escherichia col | Ans: Ureteropelvic junction obstruction
+[24305] Q: Which is the most common organ for metastasis in a child with Wilm's tumor? | Ans: Lung
+[24406] Q: A 14-month-old child has steroid dependent nephrotic syndrome. Which of the following statement | Ans: Only killed vaccines should be give
+[24412] Q: A 5-year-old male child suffering from nephrotic syndrome is responding well to steroid therapy | Ans: No finding
+[24417] Q: A child is diagnosed with nephrotic syndrome, first episode. Which of the following feature is  | Ans: Hypertension
+[24461] Q: A 14-month-old child has steroid dependent nephrotic syndrome. Look at the 4 statements mention | Ans: 2,3,4
+[24564] Q: A 14-month-old child has steroid-dependent nephrotic syndrome. Which of the following is true? | Ans: Only killed vaccines should be give
+
+============================================================
+MODULE 600: Disorders of Thyroid (4 questions)
+============================================================
+[24268] Q: A neonate was found to have Serum TSH >100 IU/L on day 4 of life. What is the next investigatio | Ans: Radionuclide scan
+[24272] Q: A 14-year-old boy presents with enlargement of the thyroid gland. His TSH is low at 2 mIU/l, hi | Ans: FNAC
+[24274] Q: Most common cause of hyperthyroidism in children is? | Ans: Grave's disease
+[24276] Q: An 8-day-old neonate has TSH >100 mIU/L. Which investigation should be performed next? | Ans: Radiotracer uptake with technetium
+
+============================================================
+MODULE 601: Congenital Adrenal Hyperplasia and Related Disorders (30 questions)
+============================================================
+[2960] Q: A 10-year-old boy is brought to a pediatric clinic by his parents with pain and weakness in the | Ans: Gitelman's syndrome
+[3329] Q: Congenital adrenal hyperplasia is due to deficiency of enzyme a. 3&beta;-Hydroxysteroid dehydro | Ans: a, c, d
+[3583] Q: In 21-hydroxylase deficiency, which of the following laboratory findings is typically elevated? | Ans: 17-Hydroxyprogesterone (17-OHP)
+[4308] Q: Which of the following is a common clinical feature of classic congenital adrenal hyperplasia ( | Ans: Ambiguous genitalia in females
+[4349] Q: Which condition is most likely in a hypertensive patient with Tanner stage 4 sexual development | Ans: 11 beta-hydroxylase deficiency
+[16213] Q: A very high concentration of which of the following is diagnostic of classic 21-hydroxylase def | Ans: 17-hydroxyprogesterone
+[16335] Q: An 8-day-old baby presents with vomiting, poor feeding and loose stools. On examination, his he | Ans: Congenital adrenal hyperplasia
+[16834] Q: A 19-year-old young woman is referred to the endocrinologist with primary amenorrhoea. She is o | Ans: Congenital adrenal hyperplasia
+[23817] Q: A 7-year-old child of short stature presents with skin patches and learning difficulties. Diagn | Ans: Bloom Syndrome
+[23829] Q: Which of the following syndromes is associated with the congenital malformation shown? | Ans: Turner Syndrome
+[23872] Q: Assertion: Mousy odour occurs in Phenylketonuria Reason: There is decrease in tyrosine, dopamin | Ans: Assertion is correct but Reason is 
+[23965] Q: Most common gene mutation in cystic fibrosis is related to? | Ans: Phenylalanine at 508 position: Cl c
+[24228] Q: A 10-year-old child, who was asymptomatic, was being evaluated for some unrelated health issue  | Ans: ASD Ostium Primum
+[24278] Q: A full-term neonate develops the rash seen in the image on the second day of life. The lesions  | Ans: Erythema toxicum neonatorum
+[24279] Q: A 5-year-old girl presents with hypertension, hypernatremia and virilization. There is also fin | Ans: 11-beta hydroxylase deficiency
+[24280] Q: A 4-week-old male child is found to have hypoglycemia, hyperpigmented scrotum, hyponatremia and | Ans: 3 beta hydroxysteroid dehydrogenase
+[24281] Q: A male child with 3 beta-hydroxysteroid dehydrogenase deficiency cannot have which among the fo | Ans: Normal genitalia
+[24282] Q: A 10-year-old boy presents with sexual maturity rating 5, height for age > chronological age, h | Ans: 11 beta hydroxylase
+[24284] Q: A 2-month-old infant is presented with failure to thrive, recurrent emesis, hepatosplenomegaly, | Ans: Wolman disease
+[24285] Q: A 31-year-old lady with diabetes mellitus delivers a term neonate. Which of the following compl | Ans: Hypoglycemia
+[24286] Q: Which among the following is the drug of choice in Steroid Resistant Nephrotic Syndrome? | Ans: Tacrolimus
+[24287] Q: Which of the following is not a classic feature of a salt-losing crisis in an infant with conge | Ans: Hypokalemia
+[24288] Q: A 4-year child was brought with episodes of icterus and pallor. What is the probable diagnosis  | Ans: Hereditary Spherocytosis, osmotic f
+[24289] Q: Which of the following is not included in the neonatal blood spot? | Ans: Cystic Fibrosis
+[24291] Q: A 18-day-old female infant, has congenital adrenal hypoplasia. She presents having vomited all  | Ans: Intravenous saline, glucose and hyd
+[24292] Q: A baby is born with a disorder of sexual differentiation. Congenital adrenal hyperplasia is sus | Ans: A markedly raised plasma 17&alpha;-
+[24293] Q: Parents of a 3-month-old infant comes to you with complaint of blood in stool over last 15 days | Ans: Volvulus
+[24307] Q: A 16-year-old boy adolescent end-stage renal disease who is scheduled to undergo related-donor  | Ans: 1 dose of PCV13 followed by 1 dose 
+[24388] Q: Single gene defect causing multiple unrelated problems? | Ans: Pleiotropism
+[24389] Q: Single gene defect causing multiple unrelated problems? | Ans: Pleiotropy
+
+============================================================
+MODULE 602: Disorders of the Pituitary Gland (1 questions)
+============================================================
+[24297] Q: A 17-year-old boy presents to the clinic with fever, sore throat, and lymphadenopathy for the p | Ans: Salivary secretion transmission
+
+============================================================
+MODULE 603: Disorders of Puberty (3 questions)
+============================================================
+[24301] Q: The following are complications of Neurofibromatosis-1, EXCEPT? | Ans: Cataracts
+[24302] Q: What is the recommended chest compression rate during CPR in a child according to PALS 2020 gui | Ans: 100-120/min
+[24303] Q: Which of the following complications is not expected in a child diagnosed with neurofibromatosi | Ans: Cataracts

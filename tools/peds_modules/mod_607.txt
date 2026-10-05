@@ -1,0 +1,16 @@
+================================================================
+MODULE 607: Paediatric Anemias (2 questions)
+================================================================
+
+ID: 2502 | Answer: [B] The mothers blood group is A negative the babies blood group is A positive
+QUESTION: In her second pregnancy, the patient's baby was born with anemia, severe jaundice and edema. The baby showed neurological symptoms of kernicterus. Which of the following is the cause of the features seen in the baby?
+OPTIONS: A) The mother's blood group is A positive. The baby's blood group is A negative. | B) The mothers blood group is A negative the babies blood group is A positive | C) The mother's blood group is A positive. The baby's blood group is B positive. | D) The mother's blood group is B negative. The baby's blood group is A negative.
+EXPLANATION: Erythorbalstosis foetalis/Hydrops Fetalis: Definition: A severe condition characterized by an abnormal accumulation of fluid in the fetal compartments. Cause: Often occurs when an Rh-negative mother carries an Rh-positive fetus, leading to the mother's immune response. Rh Incompatibility Mechanism: Maternal Response: An Rh-negative mother exposed to Rh-positive antigens develops antibodies (agglutinins) against them. Subsequent Pregnancies: In future pregnancies, these antibodies can cross the placenta and attack the fetal red blood cells, causing hemolytic disease of the newborn (erythroblastosis fetalis) . Explanation of Incorrect Options: Option A: Incorrect because Rh-positive mothers do not produce antibodies against Rh-negative babies. Option C: Incorrect as A/B antibodies (from blood type incompatibility) do not cross the placenta. Option D: Incorrect due to the absence of Rh incompatibility in Rh-positive mothers. Key Takeaways: Erythroblastosis is seen in a Rh positive baby (2 nd pregnancy) in Rh negative mother, who has Rh positive baby in 1 st pregnancy. Rh antibodies are IgG type (can cross placenta). ABO antibodies are Ig M type (cannot cross placenta). Level: Must Know Tag: Vascular physiology Reference: Ganong's review of medical physiology, 26 th edition, Page 1279-1280
+----------------------------------------------------------------
+
+ID: 24380 | Answer: [B] Megaloblastic anemia
+QUESTION: A child with anemia is found to have the following peripheral smear finding. What is the likely possibility?
+OPTIONS: A) Blast crisis in AML | B) Megaloblastic anemia | C) Sideroblastic anemia | D) Fanconi anemia
+EXPLANATION: The peripheral smear is showing hypersegmented neutrophil. In megaloblastic anemias, a complete hemogram with red cell indices shows macrocytosis with MCV>110 fl and cytopenias. Hypersegmented neutrophils, with nucleus >6 lobes as well as macrocytes on peripheral smear may be seen and are clues to underlying megaloblastic anemia. Reference: OP Ghai 9 th Ed/Page 335
+----------------------------------------------------------------
+

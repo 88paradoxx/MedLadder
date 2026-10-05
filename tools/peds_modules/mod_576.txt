@@ -1,0 +1,304 @@
+================================================================
+MODULE 576: Diseases in Neonates requiring Special Care (50 questions)
+================================================================
+
+ID: 2930 | Answer: [B] Fat
+QUESTION: Parenteral nutrition is instituted for a 4-day-old infant who has a total bilirubin of 18 mg/dL and a direct bilirubin of 3.0 mg/dL. Which one of the following macronutrients in the parenteral nutrition should be restricted in this patient?
+OPTIONS: A) Carbohydrate | B) Fat | C) Protein | D) Vitamin
+EXPLANATION: Option B: Reason for Restriction: Infusion of lipids displaces bilirubin from albumin , increasing the risk of kernicterus . Infusion Guidelines: Lipids should be administered at a low rate to prevent essential fatty acid deficiency while minimizing bilirubin displacement. Why not other options: Option A: Carbohydrate: Carbohydrates do not significantly impact bilirubin levels and are necessary for energy, so they should not be restricted. Option C: Protein: Proteins are essential for growth and development, and while they can affect bilirubin indirectly, they are not typically restricted in this context. Option D: Vitamin: Vitamins are necessary for various metabolic processes and are not directly related to bilirubin metabolism, so they do not need to be restricted. Key takeaways: In infant with elevated bilirubin levels, fat should be restricted in parenteral nutrition, as it displaces bilirubin from albumin, increasing the risk of kernicterus. Tags: Good to know Level: Good to know Tag: Bilirubin metabolism Reference: Guyton and Hall, Textbook of Medical Physiology, 14 th edition, Page no. 1066; Peter Ronner, Netter's Essential Biochemistry, Page no. 152.
+----------------------------------------------------------------
+
+ID: 9377 | Answer: [D] Cabergoline
+QUESTION: A G2P1 delivered a preterm baby at 36 weeks. The baby was admitted to the NICU and given expressed breast milk. Unfortunately, the baby did not survive. What is used to reduce pain and engorgement of the lactating breast in this case?
+OPTIONS: A) Pramipexole | B) Chlorpromazine | C) Sumatriptan | D) Cabergoline
+EXPLANATION: Explanation: Cabergoline is a potent dopamine D2 receptor agonist with minimal activity at D1, 5-HT, and &alpha;-adrenergic receptors. It inhibits prolactin secretion and thereby suppresses lactation, making it useful when lactation must be prevented-for instance, after fetal loss or when breastfeeding is not intended or possible. As the drug of choice for prolactinoma , cabergoline acts specifically on pituitary lactotroph D2 receptors to reduce prolactin release. Its long half-life (approximately 65 hours) allows for lower dosing and better tolerability, which is why it has largely replaced bromocriptine. Explanation of other options: Pramipexole (Option A) and ropinirole are mainly used in the management of Parkinson's disease . They are D2-like receptor agonists with strong affinity for the D3 receptor subtype, though they are less effective than L-DOPA in the early stages of therapy. Chlorpromazine (Option B) , an antipsychotic , can elevate prolactin levels and is therefore inappropriate for inhibiting lactation. Sumatriptan (Option C) is used for migraine treatment and has no influence on prolactin secretion or lactation. Key Takeaways: Cabergoline &rarr; D2 agonist &rarr; inhibits prolactin &rarr; stops lactation. Long-acting, better tolerated than bromocriptine. Avoid dopamine antagonists (e.g., chlorpromazine).
+----------------------------------------------------------------
+
+ID: 17563 | Answer: [D] Juvenile chronic arthritis
+QUESTION: A 14 year old boy has fevers. He has had elbow , shoulder and hip and knee pains over the last few months. On examination, he has a temperature of 37.5&deg;C and palpable hepatosplenomegaly. Investigations show a CRP of 30 and negative ANA. What is the likely diagnosis?
+OPTIONS: A) Marfan's syndrome | B) Ehler Danlos syndrome | C) Perthes disease | D) Juvenile chronic arthritis
+EXPLANATION: Any arthritis that occurs in individuals Oligoarticular Polyarticular Rheumatoid factor positive Polyarticular Rheumatoid factor negative Systemic onset Psoriatic arthritis and Enthesitis related arthritis. Systemic onset JIA. It is characterised by Fever Evanescent rash Hepatosplenomegaly Generalized Lymphadenopathy Serositis They are prone for developing a life-threatening complication called Macrophage Activation Syndrome. They will be negative for ANA and RA factor. There will be anemia, raised ESR and CRP with transaminase elevation. Ferritin may be elevated and coagulation screen may be abnormal. Reference : Harrison's Principles of Internal Medicine, 21 st ed, Ch:58, Pg: 394
+----------------------------------------------------------------
+
+ID: 23345 | Answer: [A] 2, 3
+QUESTION: Which of the following children are considered at-risk babies? 1. Baby with a birth weight of 2.5 kg 2. Baby on artificial feeding 3. Baby of working mother/single parent 4. Baby with weight 5. Birth order of 3 or more
+OPTIONS: A) 2, 3 | B) 1, 2, 3, 4 | C) 4, 5 | D) 1, 4
+EXPLANATION: Explanation: Among the given options, babies on artificial feeding and those with a working mother or single parent fall under the "at-risk" category. These infants are more vulnerable to malnutrition, infection, and inadequate care, requiring closer monitoring. Criteria for At-Risk Infants: Low birth weight ( Twins Higher birth order (&ge;5). Artificial feeding. Weight Failure to gain weight for 3 consecutive months. Children with PEM or recurrent diarrhea. Babies of working mothers or single parents. These risk factors are used to identify infants who need special attention to reduce morbidity and mortality. Key Takeaways: At-risk infants include those with low birth weight, artificial feeding, PEM, frequent diarrhea, high birth order, and social risk factors . Early identification allows for targeted interventions to reduce neonatal and infant mortality.
+----------------------------------------------------------------
+
+ID: 23382 | Answer: [B] Observation
+QUESTION: A 2700-gram, term baby, well and exclusively breastfed, was found to be icteric with a TSB of 14 mg/dl on day 5 of life. What is the management?
+OPTIONS: A) Stop breastfeeding | B) Observation | C) Phototherapy | D) Exchange transfusion
+EXPLANATION: Ideally decision to start phototherapy or exchange transfusion depends on American Academy of Pediatrics (AAP) Charts. Practically, the following cut-offs are often used as a ready reckoner Age 24 hr- Cut-off of TSB to start PT is 10 mg/dl or more Age 48 hr- Cut-off of TSB to start PT is 13 mg/dl or more Age 72 hr- Cut-off of TSB to start PT is 15 mg/dl or more Age 96 hr and beyond- Cut-off of TSB to start PT is 18 mg/dl or more Reference: AIIMS Neonatal Protocols; Avery's diseases of the newborn, 1 st SA ed., pg. 1152
+----------------------------------------------------------------
+
+ID: 23383 | Answer: [C] VZIG to baby + Acyclovir to mother as well as baby
+QUESTION: What is the therapy of choice in asymptomatic baby born to pregnant female who gets chicken pox one day prior to delivery?
+OPTIONS: A) Only Acyclovir to mother and baby | B) VZIG to both mother and baby but no acyclovir to be given | C) VZIG to baby + Acyclovir to mother as well as baby | D) Nothing active needed since child is asymptomatic
+EXPLANATION: Mortality is particularly high in neonates born to susceptible mothers who contract varicella around the time of delivery. Infants whose mothers demonstrate varicella in the period from 5 days prior to delivery to 2 days afterward are at high risk for severe varicella. These are labelled as Neonatal Varicella Syndrome. These infants acquire the infection transplacentally as a result of maternal viremia, which may occur up to 48 hr prior to onset of maternal rash. The infant's rash usually occurs toward the end of the 1st wk to the early part of the 2nd wk of life (although it may be as soon as 2 days). Because the mother has not yet developed a significant antibody response, the infant receives a large dose of virus without the moderating effect of maternal anti-VZV antibody. Newborns whose mothers develop varicella during the period of 5 days before to 2 days after delivery should receive VZIG as soon as possible after birth. Because perinatally acquired varicella may be life threatening, the infant should usually be treated with acyclovir (10 mg/kg every 8 hr IV) when lesions develop. Reference: Nelson 21 st Edition, Chapter 280
+----------------------------------------------------------------
+
+ID: 23384 | Answer: [D] Acyclovir is unsafe in neonates with suspected varicella
+QUESTION: All of the following are true regarding management of chicken pox, except
+OPTIONS: A) Aspirin should be avoided | B) Antipruritic agents like Cetirizine can be safely given | C) Acyclovir should be started within 24-48 hr of rash for optimum efficacy, if indicated | D) Acyclovir is unsafe in neonates with suspected varicella
+EXPLANATION: Management of Chicken Pox/Varicella Management is symptomatic and includes antipyretics Aspirin is contraindicated due to risk of Reye syndrome and ibuprofen due to risk of necrotizing fasciitis Antipruritic agents and good hygiene are important. The child should not attend school until no new lesions appear and all lesions have crusted. Administration of oral acyclovir (20 mg/kg/ dose four times a day for 5 days) within 24 hours of onset of rash in healthy children reduces the duration of rash by one day and lesions by 25%. There may be some benefit even if started within 24-48 hours of the rash but none beyond 48 hours. However, acyclovir is generally not needed in immunocompetent children. IV acyclovir (10 mg/ kg every 8 hours for 14 days) is recommended for patients with complicated varicella and illness of any severity in high-risk patients such as neonates and immunocompromised children. Reference: OP Ghai 10 th Edition, Page 232
+----------------------------------------------------------------
+
+ID: 23385 | Answer: [C] Structural isomerization
+QUESTION: Which mechanism of phototherapy is chiefly responsible for reduction in serum bilirubin?
+OPTIONS: A) Photooxidation | B) Photoisomerization | C) Structural isomerization | D) Conjugation
+EXPLANATION: Phototherapy (PTx) remains the mainstay of treating hyperbilirubinemia in neonates. PTx is highly effective and carries an excellent safety track record of over 50 years. It acts by converting insoluble bilirubin (unconjugated) into soluble isomers that can be excreted in urine and feces. The most important mechanism is by Structural isomerization, where bilirubin gets converted into Lumirubin. Reference: OP Ghai 10 th Edition, Page 174
+----------------------------------------------------------------
+
+ID: 23387 | Answer: [C] Passing >4 stools in 24 hr
+QUESTION: You are planning to discharge a neonate & explain danger signs to the parents, counselling them to bring the child to hospital if the baby develops any of these signs. The danger signs will include all of the following except?
+OPTIONS: A) Body temperature <33.5&#176; C | B) Severe chest indrawing | C) Passing >4 stools in 24 hr | D) Movement only when stimulated
+EXPLANATION: Neonates can normally pass 6-8 stools in 24 hr and so passing >4 stools in 24 hr is not considered a danger sign. Danger Signs Include Temperature 37.5&deg; C Fast breathing with a RR &ge; 60/min Severe Chest indrawing Poor feeding Convulsions Lethargy- Movement only when the baby is stimulated Yellow palms and soles indicating severe hyperbilirubinemia Reference: OP Ghai 10 th Edition, Page 129, Figure 9.15
+----------------------------------------------------------------
+
+ID: 23388 | Answer: [B] Early rescue surfactant
+QUESTION: A 31-week-old neonate was delivered via LSCS. Which among the following surfactant strategies shall be useful in such a neonate?
+OPTIONS: A) Prophylactic surfactant | B) Early rescue surfactant | C) Late rescue surfactant | D) No role of surfactant since baby is >28 weeks
+EXPLANATION: Types of surfactant administration in RDS or suspected RDS in preterm neonates Prophylactic surfactant:- Surfactant is administered within 15-30min of birth, irrespective of the signs of RDS. Prophylactic surfactant therapy should be used with caution as recent evidence suggests an increased risk of BPD/ mortality compared to selective surfactant administration. It may be considered only in neonates born before 28 weeks of gestation with no/incomplete antenatal steroids or required intubation and mechanical ventilation immediately after birth. Early rescue:- Surfactant is administered in an infant with features of RDS within 2 hours. Early administration of surfactant is advantageous as the presence of lung fluid helps in the uniform distribution of the surfactant. It also ensures the surfactant is administered before widespread atelectasis develops in the lungs. Early rescue surfactant therapy following a trial of CPAD is preferred over prophylactic treatment because it reduces the amount of surfactant used with comparable immediate outcomes. Late rescue:- Surfactant is administered in an infant with features of RDS after 2 hours. It is usually done in outborn neonates who are transported late to referral centers. Reference: AIIMS Neonatal Protocols 3 rd Edition, Volume 2, Pages 453-454
+----------------------------------------------------------------
+
+ID: 23389 | Answer: [C] Normal Saline Bolus
+QUESTION: A neonate was resuscitated successfully but found to develop hypovolemic shock. What is the next step in management?
+OPTIONS: A) Wait for shock to spontaneously improve | B) Ringer Lactate bolus | C) Normal Saline Bolus | D) Start Epinephrine Infusion
+EXPLANATION: Some neonates can develop hypovolemic shock in the post-resuscitation phase or during resuscitation owing to excessive blood loss during birth. For such neonates, volume expansion using 10 ml/kg of Normal Saline given over 5-10 minutes is the preferred initial therapy. If there is visible blood loss, consider giving O-ve PRBC transfusion. In neonates, Normal Saline is usually preferred over Ringer's Lactate. Reference: Nelson 21 st Edition, Chapter 121; IAP 2022 Guidelines, NRP 8 th Edition Guidelines
+----------------------------------------------------------------
+
+ID: 23390 | Answer: [C] 20 sec
+QUESTION: What is the cut-off to define apnea in a neonate?
+OPTIONS: A) 10 sec | B) 15 sec | C) 20 sec | D) 30 sec
+EXPLANATION: Apnea in neonates Defined as Stoppage or Cessation of breathing for &ge; 20 seconds in a neonate. Cessation of breathing for lesser duration is also considered apnea, if associated with bradycardia or cyanosis Most common cause of apnea in preterm neonates is Apnea of Prematurity (AoP) Reference: Nelson 21 st Edition, Chapter 122
+----------------------------------------------------------------
+
+ID: 23392 | Answer: [C] MDI With Mask With Spacer
+QUESTION: A child aged less than 1 yr of age is suspected to have an asthma-like illness and so was decided to start on therapy. Which of the following devices can be used in this child?
+OPTIONS: A) MDI With Mask | B) MDI With Spacer | C) MDI With Mask With Spacer | D) DPI
+EXPLANATION: Using Metered Dose Inhaler (MDI) with spacer to administer drugs via inhalational route has multiple advantages, like not requiring coordination with inspiration and have rapid onset of action of the drugs. However, for use below 2 to 3 years of age, we need to use MDI with spacer with a face mask. Summary Child Child 4 yr and above: MDI with spacer Child >12 yr: MDI alone is sufficient. Spacer may or may not be used. Reference: OP Ghai 10 th Edition, Pages 412-413
+----------------------------------------------------------------
+
+ID: 23393 | Answer: [C] Myotonic dystrophy
+QUESTION: See the picture below and tell the likely diagnosis if child has muscular dystrophy, facial weakness and characteristic facies as shown?
+OPTIONS: A) Duchenne's muscular dystrophy | B) Becker's muscular dystrophy | C) Myotonic dystrophy | D) Emery-driefuss syndrome
+EXPLANATION: Facial weakness, inverted V-shaped upper lip, and loss Facial weakness, inverted V-shaped upper lip, and loss of muscle mass in the temporal fossae are characteristic of myotonic muscular dystrophy type 1, also known as Dystrophica myotonia. Posterior cataracts and endocrinopathies are also commonly seen Arrhythmias and reduced GIT motility are persistent problems. Myotonia is absent in neonates and infants. Reference: Nelson 21 st Edition Chapter 627, OP Ghai 10 th Edition, Page 616
+----------------------------------------------------------------
+
+ID: 23394 | Answer: [D] Positive meningeal signs
+QUESTION: Clinical features of meningitis in infancy include all the following except:
+OPTIONS: A) Irritability | B) Poor feeding | C) Bulging anterior fontanelle. | D) Positive meningeal signs
+EXPLANATION: Meningeal signs are absent below months of age, even if the child has meningitis. Signs of meningitis in neonates and infants include the following: Reference: IAP STG Guidelines 2022; Nelson textbook of pediatrics, 1 st SA edition, pg. 921
+----------------------------------------------------------------
+
+ID: 23395 | Answer: [B] Parvovirus B19
+QUESTION: Which of the following microorganism is the most common cause of aplastic crisis in Sickle Cell Anemia & Hereditary Spherocytosis?
+OPTIONS: A) Salmonella typhi | B) Parvovirus B19 | C) Streptococcus pneumoniae | D) Parainfluenza virus 1
+EXPLANATION: Human Parvovirus B19, also written as B19V, is notorious for aplastic crisis in chronic hemolytic states. Individuals with chronic hemolytic anemia and increased red blood cell (RBC) turnover, including Sickle Cell Anemia & Hereditary Spherocytosis, are very sensitive to minor perturbations in erythropoiesis. Infection with B19V leads to a transient arrest in RBC production and a precipitous fall in serum hemoglobin, often requiring transfusion. The reticulocyte count drops to undetectable levels, reflecting the lysis of infected erythroid precursors. Humoral immunity is crucial in controlling infection. Specific immunoglobulin (Ig) M appears within 1-2 days of infection and is followed by anti-B19 IgG, which leads to control of the infection, restoration of reticulocytosis, and a rise in serum hemoglobin. Reference: Nelson 21 st Edition, Chapter 278
+----------------------------------------------------------------
+
+ID: 23396 | Answer: [B] Burkitt's lymphoma
+QUESTION: A child with an underlying malignancy developed tumour lysis syndrome. Which among the following is the most likely such malignancy?
+OPTIONS: A) Hodgkin's lymphoma | B) Burkitt's lymphoma | C) Chronic lymphocytic leukemia | D) Wilms tumour
+EXPLANATION: Tumour lysis syndrome (TLS) is characterized by hyperuricemia, hyperkalemia, hyperphosphatemia, and hypocalcemia and is caused by the destruction of a large number of rapidly proliferating neoplastic cells. Acidosis may also develop. Acute renal failure occurs frequently. TLS is most often associated with the treatment of Burkitt's lymphoma, acute lymphoblastic leukemia, esp T-cell ALL and other rapidly proliferating lymphomas, but it also may be seen with chronic leukemias and, rarely, with solid tumors. Manifestations occur 12-72 hours after starting chemotherapy but can rarely occur even prior to therapy. This is an oncological emergency requiring hospitalization and extensive management. Please note that CLL does not occur in children. Reference: AIIMS PICU Protocols 2022, Pages 260-261; Harrison 21 st Edition, Pages 573-574
+----------------------------------------------------------------
+
+ID: 23397 | Answer: [A] Uncuffed tube is better than cuffed tube in a child aged 1 year
+QUESTION: All of the following are true regarding pediatric intubation, except?
+OPTIONS: A) Uncuffed tube is better than cuffed tube in a child aged 1 year | B) A 4 mm size cuffed ET tube is ideal in a 4 year old child | C) Depth of insertion of ET tube in a 4 year old child should be 14 cm | D) High cuff pressure >25 cm H20 in a cuffed ETT can cause airway necrosis
+EXPLANATION: Let us see all options individually Option A is false. Only in neonates, we prefer an uncuffed tube. Beyond the neonatal period, cuffed tubes are better than uncuffed tubes. They ensure better pressure delivery in patients with poor lung compliance, prevent peritubal leakage and prevent aspirations. Thus a cuffed tube should be used in a child aged 1 year. Option B is true. For an uncuffed tube, ET tube size (in mm)= (Age in yr/4) + 4. So in a 4 year old child, ideal size of uncuffed tube is 5 mm internal diameter tube. Now, we also know that size of cuffed tube to be taken is always 0.5 to 1 mm less than uncuffed tube. Hence the cuffed ET tube size to be used here will be 5 mm - 1 mm = 4 mm size Cuffed ET Tube Option C is true. Depth of insertion in cm = (Age in yr/2) + 12. So it comes out to be 14 cm in a 4 year old child. Option D is true. Cuff pressure in a cuffed ETT should always be kept below 20 to 25 cm H20 to prevent airway necrosis. Reference: OP Ghai 10 th Edition, Page 765
+----------------------------------------------------------------
+
+ID: 23398 | Answer: [A] Coarctation of aorta
+QUESTION: A Child presents with absent femoral pulses with increased blood pressure in the upper limbs and dilated intercostal arteries. Best diagnosis is?
+OPTIONS: A) Coarctation of aorta | B) TOF | C) PDA | D) Bicuspid Aortic Valve
+EXPLANATION: The clinical picture is compatible with a diagnosis of Coarctation of aorta (CoA). CoA refers to narrowing or constriction in the aorta. The classic sign of coarctation of the aorta is a disparity in pulsation and BP in the arms and legs. The femoral, popliteal, posterior tibial, and dorsalis pedis pulses are weak (or absent in up to 40% of patients), in contrast to the bounding pulses of the arms and carotid vessels. The radial and femoral pulses should always be palpated simultaneously for the presence of a radial-femoral delay. Normally, the femoral pulse occurs slightly before the radial pulse. A radio-femoral delay occurs when blood flow to the descending aorta is dependent on collaterals, in which case the femoral pulse is felt after the radial pulse. In normal persons (except neonates), systolic BP in the legs obtained by the cuff method is 10-20 mm Hg higher than that in the arms. In coarctation of the aorta, BP in the legs is lower than that in the arms; frequently, it is difficult to obtain. This differential in BPs is common in patients with coarctation who are older than 1 yr, approximately 90% of whom have systolic hypertension in an upper extremity >95th percentile for age. One site of collateral formation is in the intercostal arteries, which are often dilated and in untreated CoA patients beyond 8-10 years, produces the inferior rib notching sign. Reference: Nelson 21 st Edition, Chapter 454.6
+----------------------------------------------------------------
+
+ID: 23399 | Answer: [C] Statement A, B
+QUESTION: Choose the correct statement regarding physiological jaundice in neonates A. It is caused by inadequate hepatic conjugation capacity B. It is caused by increased lysis of RBCs C. Threshold for starting phototherapy is higher in pre-term babies D. Caput succedaneum is a risk factor
+OPTIONS: A) Statement A, C | B) Statement B, C | C) Statement A, B | D) Statement A, B, D
+EXPLANATION: The exaggerated physiological jaundice in neonates is a result of increased RBC lysis along with low hepatic capacity to conjugate the increased bilirubin load. In pre term babies the threshold for starting the phototherapy and exchange transfusion is lower due to increased risk of neuronal damage at low bilirubin levels. (statement c) Cephalhematoma is a known risk factor for jaundice due to lysis of RBC accumulated in the lesion. (statement d) Tags : Topic : NEONATAL JAUNDICE Difficulty level : MUST KNOW PYQ : AIIMS JULY 2020 Reference : Cloherty and Stark's manual of Neonatal care, SA ed., pg. 353
+----------------------------------------------------------------
+
+ID: 23400 | Answer: [B] Varicella-zoster immune globulin
+QUESTION: A 4-year-old boy with acute lymphocytic leukemia is currently receiving consolidation chemotherapy. His mother informs you that 9 days ago he was in contact with a child who has now been diagnosed with varicella. Her son has not had varicella in the past. His serologic test results are not available. Of the following, the BEST next step in management is to administer
+OPTIONS: A) Acyclovir | B) Varicella-zoster immune globulin | C) Intravenous immune globulin | D) Varicella vaccine
+EXPLANATION: Passive immune-prophylaxis after exposure to varicella is indicated in immunocompromised patients, certain neonates, and pregnant women. Varicella-zoster immune globulin should be given as soon as possible after exposure or up to 10 days after exposure to varicella. For individuals that are nonimmune and exposed but otherwise do not meet criteria for immune-prophylaxis, varicella vaccine can be used if the individual is 12 months of age or older and the vaccine is not contraindicated. Tags : Topic : VARICELLA Difficulty level : MAY KNOW PYQ : FMGE AUG 2020 Reference : Nelson textbook of pediatrics, 1 st SA ed., pg. 1586
+----------------------------------------------------------------
+
+ID: 23401 | Answer: [B] Strangulated hernia
+QUESTION: A 2-year-old child presents with a scrotal swelling since birth, which has recently become painful, red, and irreducible. What is the most likely diagnosis?
+OPTIONS: A) Hydrocele | B) Strangulated hernia | C) Undescended testis | D) Torsion testis
+EXPLANATION: Explanation: A strangulated inguinal hernia occurs when a loop of intestine enters the inguinal canal and becomes trapped, compromising its blood supply. The key clinical features are: long-standing scrotal swelling , which becomes acutely painful, red, tender, and irreducible . This is a surgical emergency requiring immediate intervention to prevent bowel necrosis. Explanation of other options: Hydrocele (Option A): Presents as a painless, fluctuant, transilluminant swelling; does not suddenly become red, painful, or irreducible. Undescended testis (Option C): Testis is absent in the scrotum, but it does not cause acute swelling, redness, or pain. Torsion testis (Option D): Presents with sudden severe testicular pain, high-riding testis, absent cremasteric reflex , but no swelling has been present since birth.
+----------------------------------------------------------------
+
+ID: 23402 | Answer: [C] ECF is higher than ICF
+QUESTION: Children easily get dehydrated. What is the difference in the ECF and ICF ratio compared to that of adults?
+OPTIONS: A) ICF is higher than ECF | B) Total body water is high | C) ECF is higher than ICF | D) ECF is equal to ICF
+EXPLANATION: Explanation: In neonates, extracellular fluid (ECF) volume is higher than intracellular fluid (ICF) By around 3 months of age , ECF and ICF volumes become approximately equal . After 3 months, ICF gradually increases and stabilizes by 1 year of age . Even after stabilization, the ECF remains relatively higher in infants compared to adults when considering the ECF:ICF ratio. Explanation of other options: ICF is higher than ECF (Option A): This is true for adults but not for neonates or infants . In neonates, ECF is greater than ICF at birth and equalizes around 3 months of age . Total body water is high (Option B): While it is true that neonates have a higher total body water content (~75%) compared to adults (~60%) , this does not specifically explain the ECF-to-ICF ratio difference . ECF is equal to ICF (Option D): This occurs around 3 months of age , but at birth , ECF is higher than ICF. Even after 3 months , ECF remains slightly higher than ICF compared to adults . Key Takeaways: In neonates, ECF is higher than ICF, making them more susceptible to fluid loss and dehydration.
+----------------------------------------------------------------
+
+ID: 23403 | Answer: [A] Cold temperature
+QUESTION: Cutis marmorata is a condition seen in neonates due to exposure to?
+OPTIONS: A) Cold temperature | B) Hot temperature | C) Extensive humidity | D) Dust and pollen
+EXPLANATION: Cutis marmorata is a condition seen in neonates due to exposure to cold temperature. Key takeaways:- ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 23404 | Answer: [A] 10 ml/kg
+QUESTION: Child with polytrauma came to casualty, dose of packed cell
+OPTIONS: A) 10 ml/kg | B) 20 ml/kg | C) 30 ml/kg | D) 40 ml/kg
+EXPLANATION: Answer-A Usual dosage of packed red cells in pediatric populations is 10-15 ml/kg, but can be increased upto 20 ml/kg in cases where higher increase in HCt is needed, as in trauma. Colloid 10ml/kg Crystalloid 20ml/kg Requiring > 20 ml/Kg of PRBCs in the 1st hour of resuscitation Pediatric MTG Pack (≤ 50 Kg) • 4 Units of PRBCs • 2 Units of thawed plasma • 1 Unit of apheresis platelets
+----------------------------------------------------------------
+
+ID: 23405 | Answer: [C] 12.5
+QUESTION: Maximum concentration of dextrose that can be given through peripheral vascular line in neonate -
+OPTIONS: A) 5 | B) 10 | C) 12.5 | D) 25
+EXPLANATION: Ans. is 'c' i.e., 12.5 o Hypoglycemia in neonates is blood sugar 12.5% dextrose infusion through peripheral line because of risk of thrombophlebitis. (Prefer central line)
+----------------------------------------------------------------
+
+ID: 23418 | Answer: [B] 2 weeks
+QUESTION: Jaundice due to biliary atresia is suspected when it persists beyond?
+OPTIONS: A) 2 days | B) 2 weeks | C) 2 months | D) 2 years
+EXPLANATION: Neonatal cholestasis tends to produce conjugated hyperbilirubinemia in a neonate & usually produces prolonged jaundice. Extrahepatic biliary atresia (EHBA) is one of the most common causes of neonatal cholestasis and should be suspected in a term neonate if jaundice fails to resolve and persists beyond 2 weeks of postnatal age. EHBA should also be suspected if the neonate has jaundice with dark-coloured urine & clay-coloured stools. Reference: OP Ghai 10 th Edition, Pages 345-349
+----------------------------------------------------------------
+
+ID: 23419 | Answer: [A] To determine gestational age
+QUESTION: Look at the chart below and tell the use of this chart in neonates?
+OPTIONS: A) To determine gestational age | B) To determine risk of cerebral palsy | C) To determine risk of neonatal sepsis | D) To determine feeding mode
+EXPLANATION: The given image shows Expanded New Ballard Score (ENBS), which is used to determine the gestational age of a neonate based upon clinical Examination. Key points to know about ENBS Has 2 set of criteria Visual examination (clinical appearance) Neuromuscular examination Applicable in babies between 20-44 week Accuracy of + 1 week Least score = -10 &rarr; 20 weeks Maximum score = +50 &rarr; 44 weeks Reference: Cloherty 8 th Edition, Nelson 21 st Edition
+----------------------------------------------------------------
+
+ID: 23422 | Answer: [C] Start Phototherapy
+QUESTION: A term baby born to primigravida mother with maternal blood group was found to be icteric on the very first day of life. The mother's blood group is O+ve. What is the immediate next step in management?
+OPTIONS: A) Observation | B) Do Total Serum Bilirubin (TSB) Levels | C) Start Phototherapy | D) Start Exchange Transfusion
+EXPLANATION: Any baby who has visible jaundice on day 1 of life, or has jaundice with encephalopathy or TcB value above 95 th percentile or Yellow palms and soles anytime is labelled as "Serious Jaundice" in a neonate. Approach to such babies is mentioned below Since this baby has serious jaundice, we first start phototherapy without wasting any time and then investigate the child. Reference: OP Ghai 10 th Edition, Page 172; AIIMS Neonatal Protocols 3 rd Edition, Volume 1
+----------------------------------------------------------------
+
+ID: 23424 | Answer: [A] Biliary atresia
+QUESTION: A 2-week-old infant presents with high conjugated (direct) bilirubin, dark-colored urine, and clay-colored stools. On examination, the infant is jaundiced but feeds normally. What is the most likely diagnosis?
+OPTIONS: A) Biliary atresia | B) Gilbert's syndrome | C) Crigler-Najjar syndrome | D) Physiological jaundice
+EXPLANATION: Explanation: Biliary atresia is the most common cause of neonatal cholestasis . It presents in the first weeks of life with conjugated hyperbilirubinemia, dark urine (due to bilirubinuria), and pale/clay-colored stools (due to absent bile pigments in the intestine) . The infant usually appears otherwise healthy and feeds well, which can delay diagnosis. Early recognition is critical because untreated cases progress to cirrhosis and liver failure , and surgical correction (Kasai portoenterostomy) is needed. Explanation of other options: Gilbert's syndrome (Option B): Causes mild unconjugated hyperbilirubinemia , often in adolescents or adults, not infants; urine and stool colour remain normal. Crigler-Najjar syndrome (Option C): A disorder of unconjugated hyperbilirubinemia due to UDP-glucuronyl transferase deficiency, not associated with dark urine or pale stools. Physiological jaundice (Option D): Common in newborns but involves unconjugated bilirubin , appears on day 2-5, and resolves by 2 weeks; stools and urine remain normal.
+----------------------------------------------------------------
+
+ID: 23435 | Answer: [C] Acute chest syndrome
+QUESTION: Usual indications for an exchange transfusion in a child with sickle cell disease include?
+OPTIONS: A) Painful vasoocclusive crisis | B) Splenic sequestration crisis | C) Acute chest syndrome | D) Dactylitis
+EXPLANATION: Indications for an exchange transfusion reaction in a child with sickle cell disease may include Acute CNS event (stroke) Priapism Acute chest syndrome Vaso-occlusive crisis (VOC) only if it is refractory to initial management - analgesia, fluids, correction of acidosis and oxygen. Splenic sequestration is managed with a packed red cell transfusion, as is an aplastic crisis. Dactylitis is a form of VOC. Chronic exchange transfusional programs to keep HbS Reference: Nelson textbook of Pediatrics, 1 st SA edition, pg. 2337
+----------------------------------------------------------------
+
+ID: 23440 | Answer: [B] Biliary atresia
+QUESTION: Which is NOT a feature of cystic fibrosis?
+OPTIONS: A) Nasal polyposis | B) Biliary atresia | C) Meconium ileus | D) Bleeding diathesis
+EXPLANATION: Explanation: Biliary atresia is not a feature of cystic fibrosis (CF) . CF can lead to liver disease and biliary cirrhosis due to thick, obstructive bile secretions, biliary atresia is a congenital absence or malformation of the bile ducts , causing severe neonatal jaundice and progressive liver damage, and occurs independently of CF. Cystic fibrosis is an autosomal recessive disorder caused by mutations in the CFTR gene on chromosome 7q31.2 , with the most common mutation being &Delta;F508 , resulting in a defective CFTR protein that disrupts chloride and water transport across epithelial surfaces. Defective chloride transport &rarr; thick mucus &rarr; obstruction Clinical Features of Cystic Fibrosis Key Takeaways:
+----------------------------------------------------------------
+
+ID: 23441 | Answer: [D] Biliary atresia
+QUESTION: A 3-month-old infant presents to the pediatric OPD with complaints of persistent jaundice and pale (clay-colored) stools. On examination, hepatomegaly is noted. Laboratory investigations show conjugated hyperbilirubinemia, and liver biopsy reveals periductal proliferation. What is the most likely diagnosis?
+OPTIONS: A) Crigler-Najjar syndrome | B) Rotor syndrome | C) Dubin-Johnson syndrome | D) Biliary atresia
+EXPLANATION: Explanation: Biliary atresia presents in infancy with conjugated hyperbilirubinemia, clay-colored stools, and shows periductal proliferation on liver biopsy. Biliary atresia is a progressive fibro-obliterative disease of the extrahepatic biliary tree, often presenting in the first 2-6 weeks of life. The key clinical features include: Persistent jaundice Acholic (clay-colored) stools Dark urine The histological hallmark is periductal fibrosis and bile duct proliferation, seen on liver biopsy. Types: Perinatal type (70%): No associated anomalies BASM syndrome (15%): Includes Biliary atresia, Asplenia/polysplenia, Situs inversus, and other anomalies Other syndromic associations (15%): Choledochal cysts, renal malformations Investigations: LFTs: Elevated conjugated bilirubin and cholestatic enzymes (ALP, GGT, 5'-nucleotidase) Ultrasound: Absent gallbladder, "triangular cord sign" HIDA scan: No tracer excretion despite phenobarbitone priming Liver biopsy: Gold standard, shows periductal fibrosis and bile duct proliferation Exploratory laparotomy with intraoperative cholangiogram: Confirmatory test Management: Kasai portoenterostomy (hepaticojejunostomy) within 8 weeks Definitive treatment: Liver transplant Explanation of other options: Crigler-Najjar syndrome (Option A): Caused by glucuronyl transferase deficiency &rarr; results in unconjugated hyperbilirubinemia. No periductal changes on biopsy. Rotor syndrome (Option B): Caused by defects in hepatic organic anion transporters (SLCO1B1/1B3) &rarr; mild conjugated hyperbilirubinemia with normal liver histology. Dubin-Johnson syndrome (Option C): Mutation in MRP2 gene &rarr; benign conjugated hyperbilirubinemia. The liver appears black grossly due to pigment deposition, but no bile duct proliferation. Reference: https://www.pathologyoutlines.com/topic/liverextrahepaticbiliaryatresia.html
+----------------------------------------------------------------
+
+ID: 23443 | Answer: [D] CO2 washout
+QUESTION: A child with PDA will not have which among the following?
+OPTIONS: A) Bounding pulses | B) Pulmonary hemorrhage | C) Necrotizing enterocolitis | D) CO2 washout
+EXPLANATION: Children with PDA have pulmonary congestion due to increased pulmonary blood flow, which results in CO2 Retention, not CO2 Washout. Regarding other options Option A is True. Bounding pulses are seen in PDA due to wide pulse pressure found in most patients. In PDA, there is diastolic run-off of blood due to L -> R shunt. This causes a fall in Diastolic BP, producing a wide pulse pressure. Option B is True. Pulmonary hemorrhage has been described in some patients due to pulmonary congestion and increased pulmonary pressures. Option C is True. Necrotizing Enterocolitis can occur in preterm babies with NEC, since a large L -> R shunt reduces descending aorta blood flow. This produces vasoconstriction in the gut circulation and predisposes to NEC. Reference: Nelson 21 st Edition, Chapter 122.5
+----------------------------------------------------------------
+
+ID: 23445 | Answer: [C] Choreo-athetoid CP
+QUESTION: A term neonate with Rh incompatibility developed severe unconjugated hyperbilirubinemia. The baby was managed with phototherapy and required two cycles of exchange transfusion as well as IVIG. On follow-up he was found to have recurrent seizures, had abnormal hearing screening test and at 1 year of age, he was diagnosed to have developed cerebral palsy. His MRI revealed evidence of past damage in bilateral thalami and putamen. Which of the following is the likely type of cerebral palsy you will suspect in this child?
+OPTIONS: A) Spastic diplegic CP | B) Spastic quadriplegic CP | C) Choreo-athetoid CP | D) Ataxic CP
+EXPLANATION: Interpretation The baby had features of pathological unconjugated hyperbilirubinemia Later he developed seizures, deafness and cerebral palsy. MRI reveals damage in basal ganglia-thalamic region Features suggestive of Kernicterus are seen Now we know that basal ganglia damage due to jaundice or asphyxia tends to produce a form of cerebral palsy called as Choreo-athetoid cerebral palsy. This form is also known by other names like Dyskinetic cerebral palsy and Extrapyramidal cerebral palsy. Reference: Nelson 21 st Edition, Chapter 616.1, Table 616.1
+----------------------------------------------------------------
+
+ID: 23446 | Answer: [A] CHPS
+QUESTION: 24 day neonate with projectile vomiting & failure to gain weight .what is the diagnosis
+OPTIONS: A) CHPS | B) NEC | C) Duodenal atresia | D) Hirschsprung's disease
+EXPLANATION: Answer- A. CHPS Projectile vomiting in 4th week is quite suggestive of CHPS. In duodenal atresia the vomiting (usually bilious) is right from the 1st day of life. NEC and Hirschsprung's disease have different clinical presentation.
+----------------------------------------------------------------
+
+ID: 23447 | Answer: [B] 5-10 ml/min
+QUESTION: Blood transfusion to neonate rate of
+OPTIONS: A) 1-5 ml/min-5 ml/min. | B) 5-10 ml/min | C) 10-15 ml/min | D) 15-20 ml/min
+EXPLANATION: Answer- B. 5-10 ml/min A) Exchange transfusion For term infant = 80-160 ml/kg For pre term = 100-200 ml/kg B) Top-up transfusion Desired Hb (glds) - actual hb x kg x 3 (usually 10-20 ml/kg). Rate of transfusion 5-10 ml/min.
+----------------------------------------------------------------
+
+ID: 23672 | Answer: [B] Duchenne Muscular Dystrophy
+QUESTION: Dystrophin protein is absent completely in which of the following diseases?
+OPTIONS: A) Becker's Muscular Dystrophy | B) Duchenne Muscular Dystrophy | C) Myasthenia gravis | D) Lambert-Eaton myasthenic syndrome
+EXPLANATION: Explanation: Duchenne Muscular Dystrophy (DMD) is a genetic disorder caused by mutations in the dystrophin gene, resulting in the complete absence of the dytrophin protein. Duchene muscular dystrophy Duchenne muscular dystrophy (DMD) is the most common hereditary neuromuscular disease affecting all races and ethnic groups. The incidence is 1 in 3,600 liveborn infant males. This disease is inherited as an X-&shy; linked recessive trait. Clinical features Progressive weakness Intellectual impairment Hypertrophy of the calves, with proliferation of connective tissue and progressive fibrosis in muscle. Becker muscular dystrophy (BMD) is a disease that is fundamentally similar to DMD, with a genetic defect at the same locus. The phenotypic variation is explained by the reading frame hypothesis . In more than 90% of cases, mutations that disrupt the reading frame (frameshift mutations) result in dystrophin deficiency and cause Duchenne muscular dystrophy (DMD) . In contrast, in Becker muscular dystrophy (BMD) , the mutations preserve the reading frame (in-frame mutations), producing an abnormal but partially functional dystrophin protein. Thus, BMD clinically it follows a milder and more protracted course. Explanation of other options: Myasthenia gravis (MG) (Option C): A chronic autoimmune disease of the neuromuscular junction (postsynaptic end plate) that leads to abnormal neuromuscular transmission or blockade. Lambert-Eaton myasthenic syndrome (Option D) . In LEMS, autoantibodies target voltage-gated calcium channels (VGCCs) on presynaptic nerve terminals. This leads to a reduction in acetylcholine release, which causes muscle weakness. Blockade of presynaptic calcium channels at the neuromuscular junction is characteristic of LEMS.
+----------------------------------------------------------------
+
+ID: 23709 | Answer: [B] Hemorrhagic disease of the newborn
+QUESTION: Vitamin K supplementation is given to neonates to prevent:
+OPTIONS: A) Breast milk jaundice | B) Hemorrhagic disease of the newborn | C) Keratomalacia | D) Scurvy
+EXPLANATION: Explanation: Vitamin K is essential for blood clotting, and its deficiency can lead to hemorrhagic disease of the newborn (VKDB). Hemorrhagic disease of the newborn Three forms: early, late, and drug-induced. Early VKDB , occurring within the first 1-14 days of life, is typically seen in breastfed infants due to insufficient vitamin K at birth (very low placental transfer), as well as limited intake in the first days and the sterile newborn gut that lacks vitamin K production. Late VKDB usually develops between 2-12 weeks, mostly in breastfed infants, and can be exacerbated by malabsorption conditions like cystic fibrosis or liver disease. The third form results from maternal use of medications such as warfarin that affect vitamin K function. In older children and adults, vitamin K deficiency may arise from fat malabsorption disorders or the use of broad-spectrum antibiotics. Prophylaxis with vitamin K supplementation is critical to preventing these conditions, especially in infants . Prevention of Early VKDB: Administer oral or parenteral vitamin K shortly after birth. Prevention of Late VKDB: A single intramuscular (IM) dose of 1 mg of vitamin K is most effective. Oral vitamin K does not effectively prevent late VKDB. VKDB due to Maternal Medications: Discontinue maternal medications before delivery, if possible. If discontinuation is not possible, administer vitamin K to the mother. Neonate should receive IM vitamin K immediately after birth. If coagulopathy persists, fresh frozen plasma (FFP) may be needed. High-risk children (e.g., malabsorption): Provide supplemental vitamin K. Monitor prothrombin time (PT) periodically. Explanation of other options: Breast milk jaundice (Option A): Occurs due to substances in breast milk (FFA and beta glucuronidase) that decrease bilirubin conjugation or glucuronidase action. It usually requires no treatment. Keratomalacia (Option C): Keratomalacia is an ocular disorder characterized by drying and clouding of the cornea, resulting from vitamin A deficiency. Scurvy (Option D): Scurvy results from vitamin C deficiency.
+----------------------------------------------------------------
+
+ID: 23821 | Answer: [A] Congenital Heart Disease
+QUESTION: Down syndrome patients are found to have a reduced life expectancy compared to the general population. Which among the following is considered the chief cause of mortality especially in the first decade of life?
+OPTIONS: A) Congenital Heart Disease | B) Aspiration pneumonia | C) Acute lymphoblastic leukemia | D) Cervical spine injury
+EXPLANATION: As per OP Ghai 10th Edition, the chief cause of early mortality in Down Syndrome patients is Congenital Heart Disease. Furthermore, Endocardial Cushion Defects (ECDs) are the most common congenital heart disease in patients with Down Syndrome. Extra-Edge Point: Nelson 21 st Ed says that the current average life expectancy in Down Syndrome is 50-55 years. Reference: OP Ghai 10 th Edition, Page 668, Nelson 21 st Edition, Chapter 98.2
+----------------------------------------------------------------
+
+ID: 23858 | Answer: [D] Methionine
+QUESTION: Which amino acid does not need to be restricted in diet in MSUD?
+OPTIONS: A) Leucine | B) Isoleucine | C) Valine | D) Methionine
+EXPLANATION: Maple Syrup Urine Disease (MSUD) AR inheritance Defect in decarboxylation of branched chain Amino acids Valine,Leucine & Isoleucine. Cause : Low activity of enzyme Branched Chain Alpha Ketoacid Dehydrogenase (BCKA) complex Presents in neonates as poor feeding, dehydration, acidosis, cerebral depression Maple syrup urine dour Test: Raised serum levels of BAAs(Branched Amino Acids) In Urine Adding 2,4-DNPH forms yellow-white precipitates. Rx: Hemodialysis/Peritoneal dialysis Dietary restriction of Branched chain amino acid rich foods. Thiamine supplementation is effective in some cases. Incorrect Options: Leucine: Leucine is one of the branched-chain amino acids that need to be restricted in the diet of individuals with MSUD. Due to the BCKAD enzyme deficiency, leucine cannot be properly metabolized, leading to toxic accumulation in the blood and urine. Isoleucine: Isoleucine, like leucine, is a branched-chain amino acid and needs to be restricted in the diet of MSUD patients due to impaired metabolism caused by the enzyme defect. Valine: Valine is another branched-chain amino acid that must be restricted in the diet of MSUD patients, as it too accumulates due to the deficient BCKAD enzyme activity. Key Takeaway: Maple Syrup Urine Disease (MSUD) involves a defect in the metabolism of branched-chain amino acids (leucine, isoleucine, and valine), requiring dietary restriction of these amino acids. Methionine , being a non-branched-chain amino acid, does not need to be restricted in the diet of MSUD patients. Treatment includes dietary management (restricting BCAAs) and sometimes hemodialysis or peritoneal dialysis for acute episodes, as well as thiamine supplementation , which may be effective in some cases. Reference: Nelson textbook of paediatrics
+----------------------------------------------------------------
+
+ID: 23876 | Answer: [A] Rett syndrome
+QUESTION: Which of the following diseases is X linked dominant?
+OPTIONS: A) Rett syndrome | B) OTC deficiency | C) Spinal Muscular Atrophy | D) Duchenne's Muscular Dystrophy
+EXPLANATION: Mnemonic for conditions with X-linked dominant inheritance: "Red Ribbon For All Children" Rickets (Hypophosphatemic) Rett syndrome Fragile X syndrome Alport syndrome Charcot Marie Tooth disease Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 598
+----------------------------------------------------------------
+
+ID: 24033 | Answer: [C] Parvovirus B19
+QUESTION: Perinatal infection presenting with anemia, possible myocarditis, high-output cardiac failure, and ascites is most likely caused by which pathogen?
+OPTIONS: A) Treponema pallidum | B) CMV | C) Parvovirus B19 | D) Toxoplasma gondii
+EXPLANATION: Explanation: The clinical features described - anemia, myocarditis, high-output cardiac failure, and ascites in the context of hydrops fetalis - are characteristic of Parvovirus B19 infection . This virus is the causative agent of erythema infectiosum (Fifth disease) , which in perinatal transmission may result in severe complications, including nonimmune hydrops fetalis and fetal demise. Erythema Infectiosum (Fifth Disease): Causative Agent: Parvovirus B19 Age Group Affected: Most common in children 5-15 years (&asymp;70% of cases). Incubation Period: 4-28 days. Mode of Transmission: Spread via respiratory droplets; household/close contact transmission rate is about 15-30%. Clinical Features: Prodromal Phase: Low-grade fever, headache, mild upper respiratory tract symptoms. Rash: Classically presents with "slapped-cheek" erythema on the face, followed by a lacy reticular rash spreading to the trunk and extremities. Management: Usually a self-limiting illness requiring only supportive care. Complications: Aplastic Crisis: Severe anemia due to suppression of erythropoiesis, particularly in children with chronic hemolytic anemia. Arthropathy: Arthritis/arthralgia, especially in adults. Fetal Infection: Nonimmune hydrops fetalis, intrauterine death. Other Manifestations: Papular-purpuric gloves-and-socks syndrome, myocarditis. Childhood Exanthems (First to Sixth Diseases): Explanation of Other Options: Treponema pallidum (Option A): Causative agent of congenital syphilis , presenting with early features such as mucocutaneous lesions, snuffles, hepatosplenomegaly, and bony changes; late signs include Hutchinson's triad (notched teeth, interstitial keratitis, deafness). Cytomegalovirus (CMV) (Option B): Major cause of congenital infection; associated with sensorineural hearing loss, microcephaly, and chorioretinitis rather than hydrops. Toxoplasma gondii (Option D): Leads to congenital toxoplasmosis with hydrocephalus, intracranial calcifications, and chorioretinitis. Key Takeaways: Parvovirus B19 causes Fifth disease and is linked to severe fetal outcomes, including hydrops and stillbirth. It uniquely suppresses erythropoiesis &rarr; aplastic crisis in hemolytic anemia. Recognizing the slapped-cheek rash helps in clinical diagnosis.
+----------------------------------------------------------------
+
+ID: 24040 | Answer: [D] Hand foot and mouth disease
+QUESTION: Which of the following diseases presents with ulcers and blisters in children?
+OPTIONS: A) Kyasanur forest disease | B) Zika virus | C) Erythema infectiosum | D) Hand foot and mouth disease
+EXPLANATION: Kyasanur forest disease and Zika virus presents with maculo-papular rashes. Erythema infectiosum has a slapped cheek appearance. Hand foot and mouth disease is caused by Coxsackie A16 virus, that manifests as ulcers in mouth and sore throat, blisters on palms, soles and buttocks, along with fever. Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 1564
+----------------------------------------------------------------
+
+ID: 24044 | Answer: [B] Congenital diaphragmatic hernia
+QUESTION: Bag and mask ventilation is absolutely contraindicated in neonates due to?
+OPTIONS: A) Meconium aspiration syndrome | B) Congenital diaphragmatic hernia | C) Tracheo esophageal fistula | D) Laryngomalacia
+EXPLANATION: Bag and mask ventilation (BMV) is absolutely contraindicated in Congenital Diaphragmatic Hernia (CDH) and relatively contraindicated in Tracheoesophageal fistula. Reference: Nelson 21 st Edition, Chapter 121; IAP 2022 Guidelines, NRP 8 th Edition Guidelines
+----------------------------------------------------------------
+
+ID: 24063 | Answer: [A] In the mid epigastric area
+QUESTION: A 4-week-old child presents to the hospital with a complaint of projectile, non-bilious vomiting associated with movable, olive-shaped abdominal mass, 2.5 cms in length is seen especially after feeding. In which of the following regions, this abdominal mass can be best palpated?
+OPTIONS: A) In the mid epigastric area | B) In the right hypochondriac quadrant | C) In the umbilical area | D) Hypogastric region
+EXPLANATION: In the given scenario of projectile, non-bilious vomiting and a movable, olive-shaped abdominal mass, the most probable diagnosis is Congenital Hypertrophic Pyloric Stenosis (CHPS ) . In CHPS, the mass is typically located in the right upper quadrant of the abdomen , just to the right of the midline, often below the liver margin. Key takeaways:- CHPS Definition : Thickening of the pyloric muscle, causing obstruction between the stomach and duodenum. Epidemiology : Age of presentation: 2 weeks to 3 months More common in males than females Clinical Presentation: - Projectile Vomiting : Non-bilious, progressing to projectile after feeding - Olive-Shaped Mass : Movable, often found in the right upper quadrant, below the liver margin (hallmark feature) - Dehydration&Weight Loss : Due to poor food retention Diagnosis : - Ultrasound : First-line tool, shows thickened pyloric muscle - Blood Tests : Hypochloremic, hypokalemic metabolic alkalosis due to prolonged vomiting Treatment : - Surgical Intervention: Ramstedt pyloromyotomy is the definitive treatment - Preoperative Stabilization : Correct dehydration and electrolyte imbalances ref :Nelson textbook of paediatric
+----------------------------------------------------------------
+
+ID: 24089 | Answer: [A] Kasai procedure should be done within 90 days
+QUESTION: Which of the following is false regarding neonatal cholestasis?
+OPTIONS: A) Kasai procedure should be done within 90 days | B) HIDA scan is an investigation of choice | C) Biliary atresia is the most common cause | D) Liver biopsy rules out other causes
+EXPLANATION: Explanation: The Kasai portoenterostomy (hepaticojejunostomy) is most successful when performed within the first 60 days (8 weeks) of life . Performing the procedure after this critical window significantly reduces the success rate of achieving bile drainage and increases the likelihood of the child requiring a liver transplant. Neonatal cholestasis is defined as an abnormal accumulation of conjugated bilirubin due to impaired bile formation or flow, with levels >1 mg/dL being suggestive. The most common cause is extrahepatic biliary atresia (EHBA) . Causes of Neonatal Cholestasis Key Takeaways: The Kasai procedure is a time-sensitive intervention with optimal outcomes when performed before 60 days of age . Biliary atresia is the most common cause of persistent cholestasis in neonates. The diagnostic workup combines HIDA scan (screening) and liver biopsy (confirmation).
+----------------------------------------------------------------
+
+ID: 24165 | Answer: [A] Diazepam
+QUESTION: A 6-year-old child is brought to the emergency department with continuous generalized tonic-clonic seizures lasting for the past 30 minutes. There have been no seizure-free intervals during this time. After ensuring airway, breathing, and circulation are stable, which of the following is the first-line drug that should be administered?
+OPTIONS: A) Diazepam | B) Phenytoin | C) Phenobarbital | D) Thiopentone sodium
+EXPLANATION: Explanation: The child is in status epilepticus (SE) - defined as continuous seizure activity >5 minutes or recurrent seizures without regaining consciousness . Immediate management focuses on ABC stabilization (Airway, Breathing, Circulation) followed by prompt anticonvulsant therapy . Benzodiazepines are the first-line agents for SE as they enhance GABAergic inhibition, rapidly aborting seizure activity. Among these, IV lorazepam is preferred where available, but IV or rectal diazepam and IM/IV midazolam are equally acceptable first-line agents per AHA/ILAE/AES guidelines . Early treatment (within first 5-20 minutes) improves prognosis and prevents neuronal injury or progression to refractory SE Explanation of Other Options: Phenytoin (Option B): Used in the second-line phase (20-40 min) after benzodiazepines. Mechanism: blocks voltage-gated Na + channels, stabilizing neuronal membranes. Given as IV fosphenytoin (preferred due to better safety, less hypotension). Not first-line due to slower onset of action (10-20 min). Phenobarbital (Option C): Considered second-line in neonates and third-line in older children. Acts via GABA receptor enhancement and neuronal hyperpolarization. Used when benzodiazepines and phenytoin/fosphenytoin fail. Can cause respiratory depression and hypotension , requiring ICU care. Thiopentone Sodium (Option D): A barbiturate anesthetic , used only in refractory status epilepticus (40-60 min mark). Induces burst suppression on EEG. Requires mechanical ventilation and continuous EEG monitoring . Key Takeaway Points:
+----------------------------------------------------------------
+
+ID: 24336 | Answer: [C] Purulent conjunctivitis
+QUESTION: Which of the following is not seen in Kawasaki diseases?
+OPTIONS: A) Strawberry tongue | B) Rash | C) Purulent conjunctivitis | D) Cervical lymphadenopathy
+EXPLANATION: Explanation: Kawasaki disease features bilateral non-purulent conjunctivitis. Kawasaki Disease Diagnostic Criteria (CREAM): Fever &ge;5 days + 4 of 5 features: C - Conjunctivitis, bilateral non-purulent R - Rash (polymorphous) (Option B ruled out) E - Extremity changes (edema/erythema &rarr; desquamation) A - Adenopathy (unilateral cervical) (Option D ruled out) M - Mucositis (strawberry tongue, cracked lips) ( Option A ruled out) Disease Phases and Pathology: Acute (Days 1-10): Neutrophilic vasculitis Subacute (Weeks 2-4): Aneurysm formation risk Convalescent (>4 weeks): Scarring, stenosis Treatment: IVIG + high-dose aspirin initially Low-dose aspirin maintenance for antiplatelet effect IVIG-resistant: Second IVIG, corticosteroids, infliximab Key Takeaways:
+----------------------------------------------------------------
+
+ID: 24571 | Answer: [C] 1 and 3
+QUESTION: A 4-month-old infant is brought to the OPD with intense itching, especially at night. On examination, there are multiple excoriated papules and burrows seen over the palms, soles, and trunk. A clinical diagnosis of scabies is made. Which of the following drugs are appropriate and safe for use in infants with scabies? 1. Permethrin 5% cream 2. Benzyl benzoate 25% lotion 3. Crotamiton 10% cream 4. Ivermectin
+OPTIONS: A) 1 and 2 | B) 1,3, and 4 | C) 1 and 3 | D) 2 and 4
+EXPLANATION: Explanation: Permethrin 5% and Crotamiton 10% are used to treat scabies in infants. Permethrin 5% cream is the preferred first-line therapy for scabies. It is applied over the entire body twice, one week apart, and can be safely used in infants older than 2 months. Crotamiton 10% ointment is another option, applied overnight on days 1, 2, 3, and again on day 8. In contrast, i vermectin should not be given to children weighing less than 15 kg, and benzyl benzoate 25% lotion is not recommended for pediatric patients.
+----------------------------------------------------------------
+

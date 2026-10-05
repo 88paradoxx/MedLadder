@@ -1,0 +1,659 @@
+
+============================================================
+MODULE 575: Basics of Neonatology and Routine Newborn Care (28 unflagged)
+============================================================
+[23285] Q: A 28-day-old child was brought to the OPD with swelling over the head since birth. What is the  | Ans: Cephalohematoma
+[23286] Q: A newborn comes to you on 2nd day of life with following finding. The child was delivered by no | Ans: Swelling of the soft tissue of scal
+[23287] Q: What is the normal color of stool in the newborn after first week of life? | Ans: Golden yellow
+[23291] Q: You have to IV cannulate a newborn. The following things are available: 1. 22 G Cannula 2. 26 G | Ans: 2, 3, 4
+[23292] Q: In a neonate with leaky meningomyelocele with CSF dripping out, it should be covered with which | Ans: Saline-soaked gauze
+[23295] Q: A baby receiving KMC is now stable enough for the procedure to be stopped. What shall be the ba | Ans: >2500 grams
+[23298] Q: Which of the following is not a component of Kangaroo Mother Care (KMC)? | Ans: Supplementary nutrition
+[23302] Q: A preterm neonate could not be started on mother's feed due to some maternal issues. Which amon | Ans: Donor human milk
+[23310] Q: While assessing a newborn for maturity, which of the following findings does not suggest premat | Ans: Raised areola
+[23311] Q: By definition, what is called as late preterm baby? | Ans: 34 w to 36 w 6 d GA
+[23312] Q: In a monochorionic monoamniotic twin with uncompensated arteriovenous shunt, which of the follo | Ans: Anemia
+[23314] Q: A 4kg post term baby is delivered at 43weeks of gestation with difficult vaginal delivery. Forc | Ans: Damage to C5-C6
+[23316] Q: A newborn presents with irritability and cyanosis that improves with crying. On examination, a  | Ans: Oropharyngeal airway
+[23317] Q: A newborn developed an asymmetric Moro reflex after a complicated delivery. The poorly responsi | Ans: C5-C6
+[23325] Q: A healthy 9-month-old female infant is seen for a routine health supervision visit. On physical | Ans: Reassurance that this is self-limit
+[23327] Q: What is the normal value of creatinine on first day of life in a full term baby? | Ans: 0.8-1.0 mg/dl
+[23334] Q: The mother of a premature newborn is concerned because the baby has not yet passed meconium. Wh | Ans: 48 hours
+[23341] Q: Requirements for IV cannulating a newborn shall include? | Ans: All of the above
+[23343] Q: A neonate was born through normal vaginal delivery at term. His birth weight was 3.8 Kg and was | Ans: Large for gestational age
+[23344] Q: All of the following can be used to differentiate a term and preterm baby except? | Ans: Resting heart rate
+[23348] Q: An otherwise healthy 2-day-old infant girl is noted to have multiple erythematous papules with  | Ans: Eosinophils
+[23378] Q: Which among the following is the earliest to appear in a child? | Ans: Ulnar palmar grasp reflex
+[23379] Q: Which primitive reflex persists throughout life instead of disappearing? | Ans: Parachute reflex
+[23380] Q: Mean birth weight in India - | Ans: 2.5 - 2.9 kg
+[23408] Q: All of the following are indications to use Antenatal Dexamethasone in a lady with preterm labo | Ans: Prevention of NNJ
+[23411] Q: A preterm neonate is being evaluated for complications. Which of the following is now recommend | Ans: Near-infrared spectroscopy
+[23617] Q: Which of the following is considered harmful to a newborn in the immediate postnatal period? | Ans: Giving a bath immediately after bir
+[23635] Q: A 1-day-old newborn has not passed urine since birth. What is the most appropriate next step in | Ans: Continue breastfeeding and observe
+
+============================================================
+MODULE 576: Diseases in Neonates requiring Special Care (14 unflagged)
+============================================================
+[2930] Q: Parenteral nutrition is instituted for a 4-day-old infant who has a total bilirubin of 18 mg/dL | Ans: Fat
+[23345] Q: Which of the following children are considered at-risk babies? 1. Baby with a birth weight of 2 | Ans: 2, 3
+[23382] Q: A 2700-gram, term baby, well and exclusively breastfed, was found to be icteric with a TSB of 1 | Ans: Observation
+[23385] Q: Which mechanism of phototherapy is chiefly responsible for reduction in serum bilirubin? | Ans: Structural isomerization
+[23387] Q: You are planning to discharge a neonate & explain danger signs to the parents, counselling them | Ans: Passing >4 stools in 24 hr
+[23389] Q: A neonate was resuscitated successfully but found to develop hypovolemic shock. What is the nex | Ans: Normal Saline Bolus
+[23399] Q: Choose the correct statement regarding physiological jaundice in neonates A. It is caused by in | Ans: Statement A, B
+[23403] Q: Cutis marmorata is a condition seen in neonates due to exposure to? | Ans: Cold temperature
+[23405] Q: Maximum concentration of dextrose that can be given through peripheral vascular line in neonate | Ans: 12.5
+[23419] Q: Look at the chart below and tell the use of this chart in neonates? | Ans: To determine gestational age
+[23422] Q: A term baby born to primigravida mother with maternal blood group was found to be icteric on th | Ans: Start Phototherapy
+[23445] Q: A term neonate with Rh incompatibility developed severe unconjugated hyperbilirubinemia. The ba | Ans: Choreo-athetoid CP
+[23447] Q: Blood transfusion to neonate rate of | Ans: 5-10 ml/min
+[23709] Q: Vitamin K supplementation is given to neonates to prevent: | Ans: Hemorrhagic disease of the newborn
+
+============================================================
+MODULE 577: Apgar score and Neonatal Resuscitation (23 unflagged)
+============================================================
+[23448] Q: In a newborn delivered through meconium-stained amniotic fluid, which of the following steps ar | Ans: 3, 4
+[23449] Q: A full-term infant born through emergency cesarean section to a 34-year-old mother whose pregna | Ans: Initiate bag-and-mask ventilation
+[23452] Q: True regarding management and resuscitation in a baby born through meconium-stained liquor (MSL | Ans: Positive-Pressure Ventilation in al
+[23456] Q: In a neonate undergoing resuscitation, PPV and chest compressions are being administered. Epine | Ans: HR<60/min with Chest Compressions &
+[23457] Q: A neonate was born at term and did not cry after birth. Resuscitation was started and baby was  | Ans: Right upper limb
+[23458] Q: Calculate the APGAR score in a neonate at 1 min of life, if there is acrocyanosis, grimacing on | Ans: 8
+[23459] Q: Which of the following is an effective indicator or perinatal asphyxia? | Ans: Hypotonia
+[23461] Q: Which of the following is the best way to assess adequate response of ventilation during neonat | Ans: Improvement in HR
+[23462] Q: A neonate delivered at term did not cry or breath at birth. Initial Steps were performed and th | Ans: Start BMV on room air
+[23463] Q: A term baby is born after an uncomplicated pregnancy to a 33-year-old mother. At birth he was l | Ans: Begin chest compressions
+[23465] Q: Correct order of suctioning during neonatal resuscitation is? | Ans: Mouth &rarr; Nose
+[23466] Q: You are an intern reading the birth card of an infant. You find that the report mentions APGAR  | Ans: Severely Depressed
+[23468] Q: During neonatal resuscitation, while giving chest compression what should be the ratio of chest | Ans: 3:1
+[23469] Q: What is the proper dose of adrenaline to be used during neonatal resuscitation if given endotra | Ans: 0.05-0.1 mg/kg
+[23470] Q: A 38 week, 3.2kg baby boy is born by spontaneous vaginal delivery. At 5 minutes he has a heart  | Ans: 9
+[23473] Q: Per the neonatal resuscitation guidelines, at what heart rate should chest compressions be star | Ans: 60
+[23474] Q: A baby assessed five minutes after birth is found to have a blue, absent pulse, minimal respons | Ans: 3
+[23476] Q: APGAR score of 3 at 1 minute indicates? | Ans: Severely depressed
+[23477] Q: Resuscitation of a neonate with HR < 60/min includes all of the following except? | Ans: Slapping the back
+[23478] Q: Which of the following is an effective indicator of perinatal asphyxia? | Ans: Hypotonia
+[23479] Q: Which of the following is the best way to assess adequate response of ventilation during neonat | Ans: Improvement in HR
+[23481] Q: Dose of i.v. adrenaline in term infant is during neonatal resuscitation - | Ans: 0.1-0.3 ml/kg in 1:10,000
+[24167] Q: A 38 week term baby is delivered by emergency cesarean section due to non reassuring doppler fi | Ans: Endotracheal intubation and chest c
+
+============================================================
+MODULE 578: Developmental Milestones (20 unflagged)
+============================================================
+[16052] Q: The milestone of development not matched correctly with age: | Ans: Holds head erect: 6 months
+[23486] Q: A child is able to repeat a sentence of 6 syllables at what age? | Ans: 3 years
+[23487] Q: Look at the image below and tell the approximate age at which this milestone is normally attain | Ans: 15 months
+[23488] Q: Mouthing of objects tends to significantly reduce by what developmental age in a child? | Ans: 12-15 months
+[23489] Q: A child with developmental delay, can ride a tricycle, can copy a circle, can say name, knows o | Ans: 3 years
+[23490] Q: Look at the image below and tell the approximate age at which this milestone is normally attain | Ans: 18 months
+[23491] Q: A child keeps doing the following when awake. What is the age at which this disappears? | Ans: 20 weeks
+[23492] Q: A normal infant is able to sits leaning forward with hands, reaches for and grasps cube with on | Ans: 7 months
+[23493] Q: A boy has now learnt to feed himself with spoon without spillage, can dress and undress himself | Ans: 2 to 3 years
+[23494] Q: An infant can sit leaning forwards, on his own hands. When made to stand, he bounces actively.  | Ans: 28 weeks
+[23501] Q: A 1-year-old boy is brought to you for routine assessment. He can walk with support, has a good | Ans: Developmental dissociation
+[23502] Q: The age at which the infant achieves early head control with bobbing motion when pulled to sit  | Ans: 3 months
+[23504] Q: A 9-month-old infant is brought for a routine check-up. Which of the following developmental mi | Ans: Creeps well on hands and knees
+[23506] Q: At what age does stranger anxiety typically appear in infants? | Ans: 7 months
+[23507] Q: At what age does a child begin to transfer objects from one hand to the other? | Ans: 7 months
+[23508] Q: A child can ride a tricycle and climb stairs with alternate feet but is unable to hop. What is  | Ans: 3.5 years
+[23509] Q: In an infant, which of the following milestones is achieved the earliest? | Ans: Ulnar palmar grasp
+[23511] Q: A 9 month-old child cannot sit without support. The baby can roll and say mama & dada. The chil | Ans: Reassure the parents as this much v
+[23512] Q: Copies cross, tells stories, and goes to toilet alone. What is the child's age? | Ans: 4 years
+[23513] Q: Arrange in order, the development milestones, and the age by which it is normally achieved | Ans: 2, 4, 3, 1
+
+============================================================
+MODULE 579: Facets of Growth and Development (29 unflagged)
+============================================================
+[1937] Q: The graph shows the growth of different tissues at various ages as a percentage of size at age  | Ans: Body and most visceral organs
+[15069] Q: Height of a new-born doubles by the age of | Ans: 4 years
+[23350] Q: A baby boy born at 30 weeks of gestation is brought to you at 8 months of chronological age wit | Ans: Reassure the parents
+[23530] Q: Sigmoid-shaped growth curve is shown by which among the following tissues/organs? | Ans: Somatic growth
+[23531] Q: 70% of the adult head size is attained by which age? | Ans: At birth
+[23534] Q: Which of the following is not correct regarding achondroplasia? | Ans: Many patients have intellectual dys
+[23535] Q: Rachit, a 6 year's old child is seen at the school clinic for growth and development monitoring | Ans: A decline in growth rate
+[23539] Q: With regard to the length of full-term neonate the upper to lower segment ratio is: | Ans: 1.7:1
+[23540] Q: Which is the first primary tooth to erupt? | Ans: Lower central incisor
+[23541] Q: A 12 year old girl comes to you with complaints of abnormally increasing weight over last 2 yea | Ans: Renal function test
+[23542] Q: A 12-year-old boy presents to you for evaluation of short stature. His growth charts from age 2 | Ans: Constitutional delay
+[23546] Q: How is the mid-parental height calculated for a male child whose father's height is 183 cm and  | Ans: 185.5
+[23548] Q: Identify the incorrect match of period of growth and corresponding cut-off for ages? | Ans: Perinatal period- 26 weeks gestatio
+[23554] Q: At which of the following ages does maximum brain growth occur? | Ans: 1 year
+[23555] Q: A 6-month-old infant with a birth weight of 2.8 kg is brought for routine follow-up. The pediat | Ans: Increase in length of 25 centimetre
+[23558] Q: All of the following statements regarding human growth are true EXCEPT? | Ans: Growth shows a proximal to distal p
+[23559] Q: Fetal growth is maximally affected by which of the following hormones? | Ans: Insulin
+[23572] Q: All the following are principles of growth and development except | Ans: Rate and pattern of growth can be m
+[23573] Q: Gonadal growth corresponds with _____. | Ans: Skeletal system
+[23575] Q: The following line diagram represents growth of body organs with age. Which of these curves wil | Ans: A
+[23576] Q: Which of the following is not associated with a period of excessive growth? | Ans: Pseudohypoparathyroidism
+[23577] Q: A child presents with short stature. Laboratory evaluation shows elevated growth hormone (GH) l | Ans: Laron dwarfism
+[23579] Q: Hormone not involved in fetal growth? | Ans: Growth Hormone
+[23580] Q: An Alternate way to measure height in a 4 year old child involves which among the following? | Ans: Arm Span
+[23584] Q: A 15-year-old boy with short stature has US/LS ratio 0.8:1. Likely diagnosis? | Ans: Spondyloepiphyseal dysplasia
+[23587] Q: Which of the following correlates closely with stature of a child? | Ans: Lean body mass
+[23615] Q: What is the usual age by which the posterior fontanelle closes? | Ans: 2 months
+[23647] Q: A 3 year old baby comes to you with complaints of not gaining weight. On plotting his growth ch | Ans: Grade 2
+[24298] Q: A 12-year-old child presents with short stature. On evaluation, the bone age is less than the c | Ans: Constitutional delay
+
+============================================================
+MODULE 580: Nutrition and Breastfeeding (9 unflagged)
+============================================================
+[23620] Q: The instrument shown is a Paladai, used for feeding preterm infants. At which of the following  | Ans: 32-34 weeks
+[23621] Q: A neonate weighing 1500 grams is delivered at 33 weeks. Which of the following would be the mos | Ans: Orogastric feeding/alternate oral f
+[23622] Q: Which is true about breastmilk jaundice? | Ans: Exclusive breastfeeding with biliru
+[23624] Q: Breastfeeding should be started within how much time after birth? | Ans: 1 hr
+[23627] Q: Which of the following is an absolute contraindication for breastfeeding? | Ans: Galactosemia in an infant
+[23628] Q: Which of the following is an absolute contraindication for breastfeeding? | Ans: Classic galactosemia in the infant
+[23629] Q: When is it recommended to introduce solid foods to an infant while continuing breastfeeding? | Ans: 6 months
+[23630] Q: A mother delivered 33 weeks old baby, via normal vaginal delivery with no complications at birt | Ans: Paladai feeds
+[23636] Q: Which of the following statements is incorrect about colostrum? | Ans: It contains a high amount of lactos
+
+============================================================
+MODULE 581: Protein Energy Malnutrition (6 unflagged)
+============================================================
+[23667] Q: A child presented to the clinic with complaints of malnutrition and severe dehydration. What wo | Ans: RL in 5% Dextrose
+[23669] Q: A child presents with the findings shown in the image below. What is the true statement regardi | Ans: Kwashiorkor due to protein malnutri
+[23670] Q: A child fed mostly rice water presents with a swollen abdomen, apathetic look, and low serum pr | Ans: Kwashiorkor
+[23671] Q: A child who is exclusively fed rice water presents with a swollen abdomen and a pale, unenerget | Ans: Kwashiorkor
+[23673] Q: A child presents to the pediatric OPD with the findings shown in the image below. What is the l | Ans: Kwashiorkor
+[23674] Q: What is the specific sign of kwashiorkor? | Ans: Pitting edema
+
+============================================================
+MODULE 582: Deficiency of Fat Soluble Vitamins (13 unflagged)
+============================================================
+[23432] Q: Deficiency of which of the following vitamins is associated with increased risk of thrombosis? | Ans: Vitamin E
+[23616] Q: During the 1-week health supervision visit, a mother who is exclusively breastfeeding asks abou | Ans: Vitamin D
+[23639] Q: In which of the following scenarios is the child least likely to suffer from vitamin K deficien | Ans: A 4 day old baby of a healthy mothe
+[23640] Q: Which vitamin is deficient in breast milk? | Ans: Vitamin K
+[23684] Q: A child presents with malnutrition and multiple follicular, dry papules on the elbows and knees | Ans: Phrynoderma
+[23708] Q: What is absent in breast milk ? | Ans: Vit K
+[23710] Q: Vitamin K is given at birth to prevent the following? | Ans: Hemorrhagic disease of newborn
+[23711] Q: A 2-year-old boy has rickets not resolving with first complete course of vitamin D supplementat | Ans: Hypophosphatemic rickets
+[23712] Q: In which of the following causes of rickets is the serum 25-OH D levels are decreased? | Ans: Vitamin D deficiency rickets
+[23713] Q: When suspecting early vitamin D deficiency in the patient, which of the following test is stand | Ans: 25 Hydroxy cholecalciferol levels
+[23716] Q: Which of the following vitamin is the most important for free radical scavenging action? | Ans: Vitamin E
+[23735] Q: Which vitamin deficiency causes conjunctival xerosis in children? | Ans: Vitamin A
+[23737] Q: Which of the following would be the most likely radiographic finding in a child who has been di | Ans: Prominence of the costochondral jun
+
+============================================================
+MODULE 583: Deficiency of Water-soluble Vitamins & Trace Elements (4 unflagged)
+============================================================
+[1651] Q: White line of Frenkel is seen in: September 2008 | Ans: Scurvy
+[23738] Q: Which of the following radiological finding is the most specific for Scurvy? | Ans: Trummerfeld zone at the metaphysis
+[23739] Q: A child presents with generalized body aches, poor wound healing, corkscrew hairs on her arms,  | Ans: Vitamin C deficiency
+[23745] Q: Low glycemic index is classified as value less than: | Ans: 55
+
+============================================================
+MODULE 584: Fluid and Electrolyte Disorders (18 unflagged)
+============================================================
+[8512] Q: Dosage of intravenous fluid for 2 month old child in diarrhoea with severe dehydration - | Ans: 100 ml/Kg in 6 hour
+[9036] Q: Rehydration therapy in a 2 year old severely dehydrated child is - | Ans: 30 ml/kg in 30 min, 70 ml/kg in 2'/
+[9482] Q: A 2-year-old boy has passed 4-6 stools daily over the last 2 days. The faces are liquid and con | Ans: Sodium-glucose solution
+[23353] Q: What is the daily fluid requirement for a neonate on day 3 of life with a birth weight of 1500  | Ans: 80-90 ml/kg/day
+[23434] Q: A term neonate is sick and cannot be immediately started on mother's milk. He is started on IV  | Ans: 60 ml/kg
+[23747] Q: While promoting oral fluids in a child with active diarrhea, which of the following fluids must | Ans: Fruit juices
+[23748] Q: A 5-year-old child is brought to the ER with complaints of 18 episodes of loose stools in the l | Ans: Oral rehydration therapy with ORS
+[23752] Q: Upon presentation to the emergency department, a 7-year-old girl is found to have a serum gluco | Ans: Administer a normal saline bolus
+[23753] Q: A 10-year-old child weighing 30 kg presents with a history of loose stools for 2 days. On exami | Ans: Manage ABC, NS 20 mL/kg and start i
+[23756] Q: Which is the ideal maintenance fluid for pediatric patients? | Ans: 5% dextrose and N saline
+[23758] Q: A child presents to the emergency department with a history of arrhythmia, chronic laxative use | Ans: Hypocalcemia
+[23763] Q: Initial drug to start in fluid-refractory cold shock in children? | Ans: Epinephrine
+[23767] Q: 2-year-old 10kg child with multiple episodes of diarrhea presents with sunken dry eyes, depress | Ans: 1000ml
+[23768] Q: A 1-year-old child has acute gastroenteritis and is in some dehydration. What will be the amoun | Ans: 10-20 ml/kg
+[23771] Q: A 7-year-old boy weighing 30 kg has been posted for surgical resection of a tumor. What is the  | Ans: 1700 mL
+[23772] Q: A 2-year-old boy is brought to a village hospital with loose stools for the past 3 days. His mo | Ans: 1000 ml
+[23775] Q: A child with severe hypovolemic shock was administered fluids, followed by starting on IV epine | Ans: IV Milrinone
+[23776] Q: A 5-year-old child presents with loose stools, irritability, and hasty drinking. On examination | Ans: Consider severe dehydration, start 
+
+============================================================
+MODULE 585: Chromosomal Disorders (39 unflagged)
+============================================================
+[23588] Q: A Child is having macrocephaly, large hands and feet, low IQ, is tall for age, has hyperteloris | Ans: NSD-1 deletions
+[23589] Q: Wolf Hirschhorn syndrome involves which among the following genetic abnormalities? | Ans: Del 4p
+[23717] Q: Which among the following disorders is an example of polygenic inheritance? | Ans: Cleft palate
+[23794] Q: A 13-year-old boy, above the 99th centile for height, with gynecomastia and small testes. He ha | Ans: Klinefelter's syndrome
+[23800] Q: A chromosomal deletion responsible for the DiGeorge syndrome is found at | Ans: 22q11
+[23801] Q: All of the following are true about syndromes and chromosomal abnormalities except: | Ans: Patau's syndrome: trisomy 18
+[23802] Q: Which chromosomal abnormality is indicated by the karyotyping given below? | Ans: Trisomy 18
+[23803] Q: Look at the image and tell the associated genetic abnormality? | Ans: 47, XY, +21
+[23804] Q: A child with Trisomy 21 developed Transient Leukemia. Such patients are likely to show which ad | Ans: GATA-1 mutations
+[23805] Q: Anticipation phenomenon occurs in which of the following? | Ans: Myotonic dystrophy
+[23807] Q: Which genetic condition of the following is associated with an increased risk of leukemia? | Ans: Trisomy 21
+[23811] Q: A Child is having short stature, triangular face, frontal bossing, micrognathia and clinodactyl | Ans: Russell Silver Syndrome
+[23812] Q: A child had typical clinical characteristics of Down Syndrome and was evaluated for genetic abn | Ans: Partial Deletions
+[23813] Q: Epibulbar dermoids are usually found in | Ans: Goldenhar syndrome
+[23814] Q: Pierre Robin syndrome includes | Ans: Micrognathia
+[23822] Q: Hypoplastic ribs, scalp defects, cleft palate, rocker bottom feet, hypotelorism and holoprosenc | Ans: Trisomy 13
+[23823] Q: Hall's Criteria have been described to identify Down Syndrome. All of the following are Hall's  | Ans: Presence of congenital heart diseas
+[23825] Q: Most common cardiac lesion in down's syndrome is? | Ans: Atrioventricular septal defect
+[23826] Q: Which of the following is most commonly associated with Tetralogy of Fallot? | Ans: Down’s syndrome
+[23827] Q: What is the diagnosis of the patient having the following type of karyotype, as shown in the im | Ans: Down Syndrome
+[23830] Q: Down syndrome children have decreased risk of developing the following as compared to general p | Ans: Neuroblastoma
+[23831] Q: A mother brings her 3-year-old son with Down syndrome to the clinic because his gums have been  | Ans: Leukemia
+[23832] Q: A mother brings her 3-year-old son with Down syndrome to the clinic because his gums have been  | Ans: Leukemia
+[23833] Q: Identify the incorrect match for an abnormality and the corresponding common syndrome where it  | Ans: Cystic Hygroma- Klinefelter Syndrom
+[23834] Q: All of the following can be diagnosed on Karyotyping except? | Ans: Noonan Syndrome
+[23835] Q: Which of the following examination findings would you be most likely to identify on examination | Ans: Ejection systolic murmur
+[23836] Q: A baby was born with small but elongated skull, omphalocele, VSD, overlapping fingers, tight pa | Ans: Trisomy 18
+[23837] Q: A child with short stature underwent karyotyping and the following was seen. Tell the likely di | Ans: Turner Syndrome
+[23838] Q: A 6-year-old boy with round face, thick upper lip and full cheeks. There are stellate patterns  | Ans: William's syndrome
+[23839] Q: Identify the likely diagnosis by looking at the karyotype? | Ans: Cri-du-chat Syndrome
+[23840] Q: In which trimester is the Quadruple Test done for Antenatal Screening of Down Syndrome? | Ans: 2nd trimester
+[23841] Q: True regarding risk of having a child with Down Syndrome? | Ans: Increased with increase in maternal
+[23842] Q: Which of the following is not a microdeletion syndrome? | Ans: Noonan Syndrome
+[23843] Q: Polydactyly is a feature of which trisomy? | Ans: Trisomy 13
+[23844] Q: 100% risk of Down syndrome in all viable fetuses is seen with which translocation? | Ans: t (21;21)
+[23845] Q: Spot diagnosis of the following syndrome is- | Ans: Apert syndrome
+[23846] Q: Which of these is not a typical feature of Down's Syndrome? | Ans: Widely spaced nipples
+[23847] Q: Clinical features of Edwards syndrome include: | Ans: Flexed, overlapping fingers
+[23879] Q: The following are causes of neutropenia except: | Ans: DiGeorge syndrome
+
+============================================================
+MODULE 586: Metabolic Disorders of Amino Acids (4 unflagged)
+============================================================
+[23848] Q: You are evaluating a child for obesity with failure to thrive and low IQ. The following facial  | Ans: Phenylketonuria
+[23852] Q: A child born normally, developed mental retardation, blonde hair and convulsions by 1 year of a | Ans: Phenylketonuria
+[23859] Q: Vitamin B6 administration is helpful in which among the following metabolic disorders? | Ans: Homocystinuria
+[23864] Q: A 5-day-old infant presents to the Emergency for lethargy. Parents report that he has had irrit | Ans: Plasma amino acid concentrations
+
+============================================================
+MODULE 587: Metabolic Disorders of Urea Cycle, Complex Molecules, and Carbohydrates (9 unflagged)
+============================================================
+[23885] Q: A 12-year-old girl has hepatomegaly. She is short for her age, suffers from hypoglycemia and ne | Ans: Glycogen storage disorder
+[23886] Q: A baby born at term and was well at birth. On day 2 of life, he became severely unwell with poo | Ans: Urea cycle defect
+[23891] Q: A 16-year-old boy who plays left tackle for his high school football team complains of cramping | Ans: GSD type V
+[23899] Q: What therapy would you recommend for the most effective treatment of the hematologic complicati | Ans: Enzyme replacement therapy (ERT)
+[23900] Q: A 15-year-old presents with chronic fatigue and severe bone pain of 1 year's duration. He has h | Ans: Gaucher disease
+[23905] Q: A 20-day-old breastfed girl presents to the emergency department with jaundice, vomiting, letha | Ans: Galactosemia
+[23907] Q: A child with early exercise fatiguability presented to the OPD. The pediatrician suspected McAr | Ans: Muscle Phosphorylase
+[23908] Q: A 4-month-old girl is brought in by her mother with the complaint of progressive weakness and p | Ans: Tay-Sachs's disease
+[23909] Q: A child was brought with mental retardation. He had a Cherry red spot with no organomegaly. Wha | Ans: Tay Sachs disease
+
+============================================================
+MODULE 588: Polio and AIDS (2 unflagged)
+============================================================
+[3022] Q: A 3-year-old girl was brought to the emergency department with weakness in her left leg. On exa | Ans: Poliomyelitis
+[23911] Q: A child with HIV presents with features of pneumonia. Which of the following organisms would be | Ans: Pneumocystis jirovecii
+
+============================================================
+MODULE 589: Paediatric Bacterial and Parasitic Infections (9 unflagged)
+============================================================
+[23349] Q: A 14 days-old neonate who had bilateral conjunctivitis, now has a cough with chest infiltrates. | Ans: Chlamydia
+[23600] Q: Select the correct statement/s for congenital toxoplasmosis infection A. They are asymptomatic  | Ans: Statement A, C
+[23942] Q: The following non-blanching rash seen in a child with splenic abnormality can be due to? | Ans: Neisseria meningitides
+[23945] Q: Most common sequela for acute pyogenic meningitis in children is? | Ans: Sensorineural deafness
+[23946] Q: A child comes to see you with a severely sore throat and limited neck movement. No neurological | Ans: Retropharyngeal abscess
+[23948] Q: Which of the following is not a feature associated with meningococcal sepsis? | Ans: White spot in mouth
+[23953] Q: A 1-year-old male presents with fever and neck stiffness. Meningitis is suspected. Which of the | Ans: Streptococcus pneumoniae
+[23979] Q: Gold standard investigation for Whooping cough? | Ans: Nasopharyngeal swab culture
+[23980] Q: Staccato paroxysms of cough is seen in | Ans: Chlamydia infection
+
+============================================================
+MODULE 590: Measles, Mumps, Rubella and Other Viral Infections (33 unflagged)
+============================================================
+[16203] Q: What is the Most common clinical manifestation of mumps? | Ans: Parotid gland swelling
+[18758] Q: A 33 year old lady presents with bilateral swelling and discomfort around her face. This caused | Ans: Mumps
+[23934] Q: Choose the correct statements about Hand Foot and mouth Disease i. Humans are the only carriers | Ans: i, ii, iv
+[23981] Q: A child with fever presents with the following appearance, as shown. What complication can happ | Ans: Pure Red Cell Aplasia
+[23986] Q: A 5-year-old boy, presents to the OPD as shown in the image. Which of the following is the caus | Ans: Coxsackie virus
+[23990] Q: A 3 month old child has recurrent candidiasis and chest infections. She is currently undergoing | Ans: Measles
+[23991] Q: A 5-year-old child develops fever with rash. Rash is polymorphous, itchy and starts on trunk an | Ans: Chicken pox
+[23992] Q: Identify the incorrect match for pediatric infection and characteristic feature on clinical exa | Ans: Petechiae at junction of soft and h
+[23993] Q: A child develops fever with rash. The pediatrician noticed Koplik Spots in the mouth. Likely di | Ans: Measles
+[23994] Q: The mother of a 15-year-old adolescent girl recently diagnosed with infectious mononucleosis ca | Ans: Explain that medications are not ro
+[23995] Q: A 2-year-old male child presented with high grade fever since 3 days, followed by the onset of  | Ans: Human Herpes Virus-6
+[23996] Q: Which among the following is true regarding Mumps? | Ans: Meningoencephalitis can sometimes p
+[23997] Q: A 12-year-old child is suffering from myoclonic jerks throughout the day since 1 month. Teacher | Ans: Anti measles IgG antibody in CSF
+[23998] Q: Period of infectivity in measles? | Ans: 4 days before to 5 days after onset
+[23999] Q: A child presented with febrile illness, followed by altered perception of objects and occasiona | Ans: EBV
+[24000] Q: A 5-year-old boy presents with low grade fever, headache and nasal congestion. He has a flushed | Ans: Scarlet fever
+[24001] Q: The X-linked lymphoproliferative (XLP) syndrome is classically associated with overwhelming inf | Ans: Epstein-Barr virus
+[24004] Q: A female child has recurrent candidiasis and respiratory infections since she was 3 months old. | Ans: Measles/MMR
+[24006] Q: Most common cause of aseptic meningitis in children? | Ans: Mumps
+[24008] Q: All of the following are true statements for encephalitis except? | Ans: Herpes simplex encephalitis has a r
+[24012] Q: Which of the following statement about measles in children is false? | Ans: Pneumonia is the most common compli
+[24013] Q: A 3-month-old baby boy contact with sibling has measles at home. You obtain a complete history  | Ans: A single dose of immunoglobulin (IG
+[24014] Q: Choose the correct statement/s regarding Mumps in children i. Child is infective 7 days prior t | Ans: I, IV
+[24015] Q: A 5-year-old boy presented with a low fever and a modestly itchy skin rash. On physical examina | Ans: Erythema infectiosum
+[24016] Q: A 5-year-old boy presents with low grade fever, headache and nasal congestion. He has a flushed | Ans: Scarlet fever
+[24020] Q: Which of the following viral infection increases risk of developing lymphoma? | Ans: Epstein Barr virus
+[24021] Q: A 5-year-old boy presents with low-grade fever, headache, and mild upper respiratory tract symp | Ans: Erythema infectiosum
+[24022] Q: What is the most likely diagnosis in a 5-year-old girl presenting with fever, cough, conjunctiv | Ans: Measles
+[24023] Q: A child presents with fever and a rash that begins on the face, particularly behind the ears, c | Ans: Measles
+[24026] Q: Which of the following infections carries the lowest risk of perinatal transmission? | Ans: Rubella
+[24037] Q: A 3-month-old baby comes with complaints of deafness, cataract, and patent ductus arteriosus. W | Ans: Congenital rubella syndrome
+[24039] Q: Which congenital infection is least teratogenic to the fetus/ neonate? | Ans: HSV-2
+[24186] Q: Which of the following is true about Congenital CMV? | Ans: If pregnant mother is IgG positive,
+
+============================================================
+MODULE 591: Surgical GI Disorders (19 unflagged)
+============================================================
+[2813] Q: An infant visits a pediatric presenting with symptoms of abdominal distension, anorexia, and la | Ans: Congenital absence of ganglion cell
+[2820] Q: 3 month infants with abdominal palpable mass & non bilious vomiting - | Ans: Hypertrophic pyloric stenosis
+[16982] Q: Hirschsprung disease is confirmed by ? | Ans: Rectal biopsy
+[24041] Q: Ideal time of surgery in CDH? | Ans: After stabilization for 48 hr
+[24045] Q: An infant with a history of recurrent pneumonia is diagnosed with TEF at 8 months of age. Which | Ans: The infant most likely has an H-typ
+[24047] Q: A 3-day-old male neonate who has not yet passed meconium developed abdominal distension. There  | Ans: Rectal biopsy
+[24048] Q: A baby presents with abdominal pain. On examination, a mass is palpable in the left lumbar regi | Ans: Intussusception
+[24049] Q: A new born baby presents with abdominal distention, vomiting & absence of bowel movement for 3  | Ans: Hirschsprung disease
+[24050] Q: All of the following are common complications in survivors of CDH, except? | Ans: Hepatic Fibrosis
+[24054] Q: A >48-hour neonate has still not passed meconium after birth. What is the investigation of choi | Ans: Contrast enema
+[24055] Q: A 24-day old baby is presented to you with complaints of non-bilious projectile vomiting. Child | Ans: Hypertrophic pyloric stenosis
+[24064] Q: Which of the following is responsible for the condition given in the image below? | Ans: Failure of gut to return to the bod
+[24077] Q: A child has been diagnosed as Idiopathic hypertrophic pyloric stenosis. Most common association | Ans: Unconjugated hyperbilirubinemia
+[24078] Q: A neonate presented with complaints of bilious vomiting with minimal abdominal distension. His  | Ans: Duodenal Atresia
+[24079] Q: A 3-day old neonate comes to you with not passed stool since birth. You suspect Hirschsprung di | Ans: Rectal biopsy
+[24080] Q: Which of the following is not a component of the VACTERL syndrome? | Ans: Coloboma of iris
+[24081] Q: A neonate was diagnosed as a case of trachea-esophageal fistula with esophageal atresia and was | Ans: Intubation to secure airway
+[24082] Q: Which of the following is the most common variety of TEF? | Ans: Type C
+[24083] Q: Investigation of choice in a TEF with esophageal atresia? | Ans: X-ray after passing nasogastric tub
+
+============================================================
+MODULE 592: Medical GI Disorders (1 unflagged)
+============================================================
+[24088] Q: A 9-yr old boy passes hard infrequent stools for the last 2 years. Also, sometimes he soils his | Ans: Combination of Polyethylene glycol 
+
+============================================================
+MODULE 593: Disorders of the Liver (7 unflagged)
+============================================================
+[24090] Q: An infant presented with progressive jaundice and pale coloured stools. Liver biopsy revealed b | Ans: Extra hepatic biliary atresia
+[24096] Q: A 12-year-old boy seen in your clinic has a history of Wilson disease. Which of the following t | Ans: Brain
+[24098] Q: A 19-year-old mother notices that her 3-week-old neonate has increasing jaundice. On physical e | Ans: Extrahepatic biliary atresia
+[24106] Q: A previously healthy 9-year-Old male presents to the ER with asymptomatic jaundice and is found | Ans: Prothrombin time (PT)
+[24107] Q: A 12-year-old child has hepatic illness. On ophthalmological examination following finding is s | Ans: Combination therapy with Zinc and D
+[24110] Q: A 10-year-old child with severe acute liver failure is being cared for in the intensive care un | Ans: Up trending total bilirubin
+[24113] Q: Dubin Johnson syndrome and Rotor Syndrome can be distinguished on the basis of all of the follo | Ans: Degree of conjugated hyperbilirubin
+
+============================================================
+MODULE 594: Neonatal Respiratory Disorders (23 unflagged)
+============================================================
+[2298] Q: A preterm infant born at 28 weeks develops signs of respiratory distress syndrome. Which statem | Ans: Surface tension - increased; Compli
+[2330] Q: A preterm neonate develops respiratory distress soon after birth. The pediatrician suspects neo | Ans: Type 2 pneumocyte
+[2334] Q: Which of the following cells are deficient is a premature infant with RDS? | Ans: Type II alveolar cells
+[2435] Q: In children with respiratory distress, there is deficiency of which of the following lipids: | Ans: Dipalmitoyl phosphatidylcholine
+[2437] Q: In preterm baby with respiratory distress syndrome which of the following lipid would be defici | Ans: Dipalmitoyl phosphatidyl choline
+[3975] Q: A preterm infant admitted to the NICU shows reticulo-granular opacities on X-ray with white out | Ans: Glycerol + 2 fatty acids + po4 + ch
+[23359] Q: You are formulating a differential diagnosis for a newborn infant with respiratory distress. Wh | Ans: Gestational age
+[23361] Q: A newborn presented with chest retractions, dyspnea, and lethargy. The pediatrician diagnosed t | Ans: Lecithin
+[23386] Q: A neonate born at 32 weeks develops RR of 70/min and expiratory grunting, soon after birth. The | Ans: CPAP
+[23406] Q: A preterm neonate at 28 weeks developed severe HMD, for which nasal CPAP followed by surfactant | Ans: 50-70 mm Hg
+[23453] Q: Which are components of Downe's score? 1.Respiratory rate 2.Feeding 3.Grunting 4.Cyanosis | Ans: 1,3,4
+[23464] Q: A neonate with respiratory distress is being monitored using the Silverman Anderson scoring met | Ans: 3
+[24066] Q: An infant presented with progressive respiratory distress and mediastinal shift to the right. C | Ans: Congenital lobar emphysema
+[24115] Q: A 28 wk premature neonate developed respiratory distress soon after birth. Likely cause is defi | Ans: Lecithin
+[24120] Q: A neonate is born at 32 weeks by LSCS delivery. All of the following shall be the anticipated c | Ans: Meconium aspiration syndrome
+[24121] Q: A term baby is born via caesarean section to a 30-year-old woman. Immediately after birth he ha | Ans: Observe and administer supplemental
+[24122] Q: A neonate was born at 32 weeks of gestation and developed respiratory distress soon after birth | Ans: Surfactant therapy by INSURE or LIS
+[24132] Q: A neonate is on ventilatory support due to respiratory distress syndrome. Which of the followin | Ans: EtCO2 reading of Zero
+[24143] Q: In which of the following conditions is the INSURE technique used? | Ans: Respiratory distress syndrome
+[24171] Q: A 36-week gestation infant is delivered via cesarean section because of macrosomia and fetal di | Ans: Respiratory distress syndrome
+[24172] Q: What is the currently recommended dose of steroids for attaining fetal lung maturity? | Ans: Inj Dexamethasone 6 mg for 4 doses 
+[24240] Q: A 1-day-old infant in the nursery is found to have episodes of apnea and respiratory distress.  | Ans: Insert an oral airway
+[24432] Q: Most important component of surfactant? | Ans: DPPC
+
+============================================================
+MODULE 595: Childhood Respiratory Disorders (7 unflagged)
+============================================================
+[14018] Q: A 2-year-old healthy child suddenly develops breathlessness while playing. What is the most lik | Ans: Foreign body aspiration
+[23365] Q: Which of the following is a known environmental risk factor for asthma? | Ans: Smoking
+[24153] Q: A previously healthy child presents with sudden-onset dyspnea. Chest X-ray reveals unilateral h | Ans: Focal area of decreased air entry w
+[24161] Q: A child diagnosed with severe pneumonia was started on antibiotics after hospital admission. On | Ans: Staphylococcus aureus
+[24162] Q: The most appropriate investigation in infants with acute bronchiolitis is? | Ans: None of the above
+[24163] Q: A 2-year-old male child was playing and suddenly developed acute onset breathing difficulty. Th | Ans: Focal hyperinflation with reduced o
+[24164] Q: A 6-year-old child having repeated episodes of coughing and wheezing, is seen by a general phys | Ans: Fall in FEV1 = 10% on exercise chal
+
+============================================================
+MODULE 596: Fetal Circulation (5 unflagged)
+============================================================
+[24176] Q: During the examination of the child at birth, you observe that the umbilical cord of the baby h | Ans: Risk of renal agenesis
+[24177] Q: True about fetal circulation | Ans: Blood in IVC has more oxygen satura
+[24180] Q: Which of the following vessels carries deoxygenated blood back to the placenta in fetal circula | Ans: Umbilical Artery
+[24181] Q: Which of the following is the cause of the closure of ductus arteriosus? | Ans: Increase in Oxygen
+[24190] Q: A child was born and found to have a single umbilical artery as shown below. What is the likely | Ans: Unilateral Renal Agenesis
+
+============================================================
+MODULE 597: Acyanotic Congenital Heart Diseases (14 unflagged)
+============================================================
+[12303] Q: In children, CHF (congestion heart failure) is diagnosed by | Ans: Tender hepatomegaly
+[17374] Q: Which of the following features is not associated with patent ductus arteriosus? | Ans: Bisferiens pulse
+[23370] Q: The physical finding of a "hairy pinna" (hypertrichosis of the external ear) is a classic sign  | Ans: Ventricular Septal Defect (VSD)
+[23604] Q: Which of the following congenital heart disease presents with split-second heart sounds? 1. Atr | Ans: Only 1,2,3 is correct
+[23824] Q: Most common congenital heart disease in Down Syndrome is? | Ans: Atrioventricular Septal Defect
+[24192] Q: Which of the following statements is true about a ventricular septal defect (VSD)? | Ans: A murmur may not be present at birt
+[24193] Q: A neonate presents with weak pulses in the lower limbs and strong pulses in the upper limbs. Wh | Ans: COA
+[24205] Q: A 3-month-old boy arrives in the emergency room with tachypnea and retractions. His mother repo | Ans: Furosemide
+[24206] Q: A young female presents with history of dyspnea on exertion. On examination, she has wide, fixe | Ans: Ostium primum atrial septal defect.
+[24207] Q: NADAS minor criteria for congenital heart disease includes? 1. Abnormal S2 2. Systolic Murmur g | Ans: 124
+[24210] Q: You are examining an infant Down's syndrome. You hear a murmur on auscultation of the precordiu | Ans: Atrioventricular septal defect
+[24213] Q: Statistically, which of the following congenital cardiac defect is the most common? | Ans: Ventricular septal defect
+[24218] Q: In children diagnosed with congenital heart disease, NADA's criteria include all of the followi | Ans: Increased Troponin T
+[24219] Q: Nada's Minor Criteria include which of the following? 1.Systolic murmur Grade 3 2.Diastolic mur | Ans: 3 and 4
+
+============================================================
+MODULE 598: Cyanotic Congenital Heart Diseases (16 unflagged)
+============================================================
+[18249] Q: The use of prostaglandin to keep the ductus arteriosus open is necessary in which of the follow | Ans: Tricuspid atresia
+[18320] Q: Which of the following is not true regarding Tetralogy of Fallot? | Ans: Egg on side appearance in chest x-r
+[18354] Q: The 'snowman' appearance of heart on chest xray is seen in which congenital heart disease: | Ans: TAPVC
+[18359] Q: Which congenital disease has equal saturation in all four chambers of the heart? | Ans: TAPVC
+[24229] Q: A 5-day-old, full-term male infant was severely cyanotic at birth. Prostaglandin E was administ | Ans: Transposition of great vessels
+[24230] Q: A Child with CHD with chest X ray finding shown. Diagnosis with correct match is? | Ans: Snowman heart- TAPVC
+[24231] Q: An infant presented with cyanosis. On cardiac catheterization, all four chambers of heart were  | Ans: TAPVC
+[24236] Q: Brain abscess in cyanotic heart disease is commonly located in - | Ans: Parietal lobe
+[24238] Q: A child with cyanotic heart disease was found to have SVT & evaluation revealed Wolff-Parkinson | Ans: Ebstein's Anomaly
+[24239] Q: A 12-year-old girl with a history of tetralogy of Fallot with pulmonary atresia and major aorto | Ans: Polycythemia
+[24241] Q: Which of the following statements about cyanotic congenital heart disease is true? | Ans: Infants with cyanotic congenital he
+[24242] Q: Which of the following statements about truncus arteriosus is true? | Ans: Symptoms may not be present until a
+[24244] Q: Which of the following is not a characteristic of the tetralogy of Fallot? | Ans: Atrial septal defect
+[24245] Q: A cyanotic child is having the CXR findings as shown in the image. What is correct? | Ans: Snowman Appearance- Supracardiac TA
+[24246] Q: Which of the following is seen in tetralogy of Fallot (TOF)? | Ans: Pulmonary infundibular stenosis
+[24249] Q: Increased pulmonary blood flow is seen in? (Multiple Options) | Ans: Both b & c
+
+============================================================
+MODULE 599: Paediatric Nephrology (14 unflagged)
+============================================================
+[23707] Q: An 8 year old boy presents with generalize edema, pallor and hyperlipidemia, with serum cholest | Ans: Nephrotic Syndrome
+[24252] Q: All of the following can be used to distinguish bartter syndrome from gitelman syndrome, except | Ans: Serum potassium
+[24253] Q: A girl child presents with complaints of constant dribbling of urine since birth. She is, howev | Ans: Ectopic Ureter
+[24254] Q: All of the following are features of bladder exstrophy except? | Ans: Risk of transitional cell carcinoma
+[24257] Q: A male infant was brought to the pediatric emergency with abdominal distension and crying episo | Ans: Posterior uretheral valve
+[24258] Q: RIFLE Criteria is used for which among the following? | Ans: AKI
+[24259] Q: A 5-year-old boy frequently wets his bed with foul smelling urine. His parents are concerned an | Ans: Urinalysis & General Advice
+[24260] Q: A 2-year-old girl has high-grade fever and burning urination. She has been diagnosed with E.col | Ans: Age < 6 years
+[24262] Q: A 10-month-old female infant is seen for follow up 2 weeks after diagnosed with Escherichia col | Ans: Ureteropelvic junction obstruction
+[24406] Q: A 14-month-old child has steroid dependent nephrotic syndrome. Which of the following statement | Ans: Only killed vaccines should be give
+[24412] Q: A 5-year-old male child suffering from nephrotic syndrome is responding well to steroid therapy | Ans: No finding
+[24417] Q: A child is diagnosed with nephrotic syndrome, first episode. Which of the following feature is  | Ans: Hypertension
+[24461] Q: A 14-month-old child has steroid dependent nephrotic syndrome. Look at the 4 statements mention | Ans: 2,3,4
+[24564] Q: A 14-month-old child has steroid-dependent nephrotic syndrome. Which of the following is true? | Ans: Only killed vaccines should be give
+
+============================================================
+MODULE 600: Disorders of Thyroid (4 unflagged)
+============================================================
+[24268] Q: A neonate was found to have Serum TSH >100 IU/L on day 4 of life. What is the next investigatio | Ans: Radionuclide scan
+[24272] Q: A 14-year-old boy presents with enlargement of the thyroid gland. His TSH is low at 2 mIU/l, hi | Ans: FNAC
+[24274] Q: Most common cause of hyperthyroidism in children is? | Ans: Grave's disease
+[24276] Q: An 8-day-old neonate has TSH >100 mIU/L. Which investigation should be performed next? | Ans: Radiotracer uptake with technetium
+
+============================================================
+MODULE 601: Congenital Adrenal Hyperplasia and Related Disorders (14 unflagged)
+============================================================
+[3329] Q: Congenital adrenal hyperplasia is due to deficiency of enzyme a. 3&beta;-Hydroxysteroid dehydro | Ans: a, c, d
+[3583] Q: In 21-hydroxylase deficiency, which of the following laboratory findings is typically elevated? | Ans: 17-Hydroxyprogesterone (17-OHP)
+[4308] Q: Which of the following is a common clinical feature of classic congenital adrenal hyperplasia ( | Ans: Ambiguous genitalia in females
+[4349] Q: Which condition is most likely in a hypertensive patient with Tanner stage 4 sexual development | Ans: 11 beta-hydroxylase deficiency
+[16213] Q: A very high concentration of which of the following is diagnostic of classic 21-hydroxylase def | Ans: 17-hydroxyprogesterone
+[16335] Q: An 8-day-old baby presents with vomiting, poor feeding and loose stools. On examination, his he | Ans: Congenital adrenal hyperplasia
+[16834] Q: A 19-year-old young woman is referred to the endocrinologist with primary amenorrhoea. She is o | Ans: Congenital adrenal hyperplasia
+[24279] Q: A 5-year-old girl presents with hypertension, hypernatremia and virilization. There is also fin | Ans: 11-beta hydroxylase deficiency
+[24280] Q: A 4-week-old male child is found to have hypoglycemia, hyperpigmented scrotum, hyponatremia and | Ans: 3 beta hydroxysteroid dehydrogenase
+[24281] Q: A male child with 3 beta-hydroxysteroid dehydrogenase deficiency cannot have which among the fo | Ans: Normal genitalia
+[24282] Q: A 10-year-old boy presents with sexual maturity rating 5, height for age > chronological age, h | Ans: 11 beta hydroxylase
+[24287] Q: Which of the following is not a classic feature of a salt-losing crisis in an infant with conge | Ans: Hypokalemia
+[24291] Q: A 18-day-old female infant, has congenital adrenal hypoplasia. She presents having vomited all  | Ans: Intravenous saline, glucose and hyd
+[24292] Q: A baby is born with a disorder of sexual differentiation. Congenital adrenal hyperplasia is sus | Ans: A markedly raised plasma 17&alpha;-
+
+============================================================
+MODULE 602: Disorders of the Pituitary Gland (0 unflagged)
+============================================================
+
+============================================================
+MODULE 603: Disorders of Puberty (0 unflagged)
+============================================================
+
+============================================================
+MODULE 604: Solid Neoplasms of Childhood (13 unflagged)
+============================================================
+[321] Q: Commonest tumor of face in chidren is- | Ans: Rhabdomyosarcoma
+[2895] Q: Highest cure rate is of - | Ans: Retinoblastoma
+[12302] Q: Most common cerebellar tumor in children? | Ans: Astrocytoma
+[23963] Q: All of the following portend poor prognosis in childhood ALL except? | Ans: Hyperdiploidy
+[24030] Q: An 18-month-old child presents with hepatosplenomegaly, a hemoglobin level of 7 g/dL, a white b | Ans: Vincristine + Prednisolone
+[24294] Q: Which of the following malignant tumors, commonly found in children, has a high tendency to spr | Ans: Neuroblastoma
+[24308] Q: Which statement about childhood brain tumors is true? | Ans: Most are located in the midline and
+[24309] Q: Most common extracranial solid malignancy in children? | Ans: Neuroblastoma
+[24310] Q: A 3-year-old child presents with a history of haematuria for 2 days. On examination there is a  | Ans: 1,2
+[24312] Q: A 4-year-old child is brought in with a 14 cm firm, tender swelling in the flank that has been  | Ans: Wilm's tumor
+[24313] Q: Incorrect statement regarding retinoblastoma? | Ans: Undifferentiated tumours have a bad
+[24314] Q: Maximum risk of Wilms tumour is seen with? | Ans: Denys-Drash Syndrome
+[24315] Q: Which of the following events is associated with a "good" outcome in neuroblastoma? | Ans: Trk A expression
+
+============================================================
+MODULE 605: Paediatric Rheumatology (30 unflagged)
+============================================================
+[12301] Q: Neonatal lupus - | Ans: All of above
+[23967] Q: An 11 year old child has Acute Rheumatic Fever and has no cardiac manifestations. What should b | Ans: 5 years
+[24316] Q: A child with Kawasaki Disease underwent echocardiography and was found to have a giant aneurysm | Ans: Size &ge;8 mm
+[24317] Q: The most common bony finding on a skeletal radiograph in JIA is which of the following? | Ans: A normal radiograph
+[24321] Q: An 8 year old male child presents with multiple petechiae on both lower limbs along with joint  | Ans: HSP
+[24323] Q: A 2-year-old boy presents with a fever since 2 weeks and loss of appetite. He is miserable, com | Ans: Systemic JIA
+[24324] Q: All of the following are consistent with the cardiac complications described in Kawasaki Diseas | Ans: Cardiac Tamponade
+[24325] Q: Which of the following is not a feature of Kawasaki disease? | Ans: Bilateral purulent conjunctivitis
+[24326] Q: A 1-year-old boy, is brought to OPD. He has had a high temperature for the last week. His mothe | Ans: Kawasaki disease
+[24327] Q: Which of the following is the most common complication associated with Kawasaki disease? | Ans: Myocarditis
+[24328] Q: A child is diagnosed with Kawasaki disease and is given a dose of IVIG and aspirin. After 48 ho | Ans: Rituximab
+[24330] Q: All of the following features can present in Kawasaki's disease except? | Ans: Axillary lymphadenopathy
+[24331] Q: The following symptoms may be suggestive of rheumatic disease except? | Ans: Weakness: juvenile idiopathic arthr
+[24332] Q: Which disease is incorrectly matched with the characteristic rash? | Ans: Kawasaki disease- vesicular rash
+[24333] Q: A 4-year-old boy presents with persistent fever, conjunctival redness, and peeling erythematous | Ans: IVIG
+[24334] Q: Not a feature of Kawasaki disease? | Ans: Purulent conjunctivitis
+[24335] Q: All of the following are features to diagnose Kawasaki disease, except? | Ans: Myocarditis
+[24337] Q: A 4-year-old girl presents with difficulty in going upstairs and leg pains. She is always tired | Ans: Juvenile Dermatomyositis
+[24338] Q: A 5 year old child, presents to you as she has been unwell for 2 weeks with lethargy, fever and | Ans: Systemic-onset juvenile idiopathic 
+[24339] Q: Which among the following is effective in systemic onset JIA (SoJIA)? | Ans: Oral steroids
+[24340] Q: Most common cause of death in a child of Kawasaki Disease between 3rd to 6th week of illness? | Ans: Thrombosis of CAA
+[24341] Q: A 3 1/2-year-old child presented with high fever for one-week, cervical lymphadenopathy, red ey | Ans: Myocarditis
+[24342] Q: Peak age for Kawasaki disease? | Ans: 18-24 months
+[24343] Q: "White strawberry tongue" is seen in a febrile child, as shown in the picture. What can be the  | Ans: Can be seen in both
+[24344] Q: Which of the following statement regarding Kawasaki disease is true? | Ans: Associated with coronary artery ane
+[24345] Q: A 2 year old child was clinically diagnosed as Kawasaki disease and started on IVIG infusion, w | Ans: Repeat dose of IVIG followed by ste
+[24346] Q: True statement about Juvenile Idiopathic Arthritis is? | Ans: Oligo-articular is the commonest ty
+[24347] Q: A 3 year old child presented with High grade fever, desquamating rash on the body, lymphadenopa | Ans: Fever responsiveness to antibiotics
+[24402] Q: A 5/10 year old male was admitted with complaints of fatigue and joint pains. On examination, a | Ans: Gattron's papules in Juvenile Derma
+[24575] Q: A 3-year-old child is on ventilation with nasal cannula delivering oxygen at 3 L/min. What shal | Ans: 30%
+
+============================================================
+MODULE 606: Paediatric Hematology - Introduction, Bleeding, and Clotting Disorders (17 unflagged)
+============================================================
+[2532] Q: A 2 yrs. old boy fall from bed. He developed swelling of knee. On examination boy has a hematom | Ans: X-linked recessive
+[24349] Q: Cryoprecipitate will control bleeding due to deficiency of all of the following except? | Ans: Factor IX deficiency
+[24350] Q: Which of the following is associated with an increased risk of thrombosis? | Ans: Prothrombin gene mutation
+[24351] Q: Bernard-Soulier Syndrome occurs due to the deficiency of? | Ans: Gplb
+[24357] Q: A 13-year-old girl had complaints of increased bleeding after dental extraction. Local hemostat | Ans: Von Willebrand Disease
+[24358] Q: A child presents with bruising, petechiae, and occasional minor epistaxis that does not interfe | Ans: Education, counseling, and watchful
+[24359] Q: A 5-year-old boy presented to ER with acute onset hematemesis and Hb of 6.2 g/dl. Due to hemody | Ans: BT to maintain Hb above 10 g/dl
+[24361] Q: A 1-week-old presents to your office with bruising and coffee ground emesis. She was a term bab | Ans: Low factor VII level
+[24363] Q: A 2-week-old with epistaxis, rectal bleeding, umbilical bleeding since birth. Normal PT, aPTT,  | Ans: Factor XIII
+[24367] Q: A 5-year-old was well till 2 days back when he has profuse bleeding from nose. You suspect him  | Ans: If patient has Hepatosplenomegaly
+[24368] Q: Reduced levels of which clotting factor can produce Hemophilia C? | Ans: Factor XI
+[24369] Q: Which of the following statements about Hemophilia A is incorrect? | Ans: It presents as frequent mucosal ble
+[24370] Q: A 10-year-old boy presented with complaints of recurrent bleeding. There was also a history of  | Ans: Factor 8 & 9
+[24372] Q: A 5-year-old boy with past history of multiple bleeding episodes, fell while playing and presen | Ans: Hemophilia A
+[24373] Q: A 7-year-old male child has a swollen painful knee joint after falling down. His skin cuts blee | Ans: High aPTT
+[24374] Q: A 5 years old boy is troubled by recurrent nose bleeds, the last of which took 1.5 hours to sto | Ans: Von Willebrand disease
+[24377] Q: All of the following are true regarding Hemophilia A, Except? | Ans: Mostly presents as mucosal bleeding
+
+============================================================
+MODULE 607: Paediatric Anemias (1 unflagged)
+============================================================
+[24380] Q: A child with anemia is found to have the following peripheral smear finding. What is the likely | Ans: Megaloblastic anemia
+
+============================================================
+MODULE 608: Mixed / Miscellaneous Topics (78 unflagged)
+============================================================
+[4709] Q: A 3-year-old child presented with trouble walking to paediatrician. He is diagnosed with DMD (D | Ans: Transcription of dystrophin mRNA
+[8920] Q: A 1-year-old boy is presented with an episode of loss of consciousness followed by jerky moveme | Ans: No treatment required
+[24384] Q: Which one of the following murmur characteristics supports the diagnosis of an innocent murmur? | Ans: Variability with position and postu
+[24385] Q: A school nurse called you to see a 6-year-old boy with school refusal, he is always crying afte | Ans: Refer the child to a pediatrics psy
+[24393] Q: Hallmark finding in neurofibromatosis-2 is? | Ans: Bilateral vestibular schwannomas
+[24394] Q: The following sign is positive in which among the following conditions? | Ans: All of the above
+[24395] Q: A 3-year-old girl presented with fever since 3 days, vomiting, photophobia, neck stiffness and  | Ans: CECT Head
+[24398] Q: In an unresponsive child with some signs of life present, head-tilt, chin-lift manoeuvre was pe | Ans: Suspected cervical spine injury
+[24405] Q: Which of the following shall be indicated in severe COVID-19 infection in a child? | Ans: Corticosteroids
+[24409] Q: Which of the following neuromuscular disorder occurs due to a trinucleotide repeat defect? | Ans: Myotonic Dystrophy
+[24416] Q: A 9-year-old boy complains of sharp shooting pain in right pelvic region for 2 days associated  | Ans: Ultrasound
+[24427] Q: Maximum screen time allowed by AAP & WHO for a child aged 2-5 years is? | Ans: Less than 1 hr
+[24440] Q: Pediatric airway is different from adult in which aspect? | Ans: Short epiglottis
+[24442] Q: A young man presents to the emergency department with shortness of breath and chest pain. His H | Ans: Insert a large bore needle on right
+[24456] Q: All of the following vaccines are excluded from open vial policy except? | Ans: Bivalent OPV
+[24457] Q: A baby has received BCG at birth and has been vaccinated at 14 weeks. Which of the following sh | Ans: MR Vaccine s.c. on right arm & Oral
+[24459] Q: Are all the following statements about the vaccine vial monitor are correct except? | Ans: If the inner square is same as oute
+[24460] Q: A child reports to you at 1 year of age. He has received DPT at 6 weeks of age but was lost to  | Ans: Give DPT 2nd dose
+[24462] Q: Which of the following vaccines do you recommend for a 10-year-old school child according to th | Ans: Td
+[24463] Q: Dengvaxia is a globally licensed vaccine against Dengue, but is not available in India owing to | Ans: Risk of severe dengue infection
+[24464] Q: Japanese B Encephalitis Vaccine is recommended in the National Immunization Schedule in endemic | Ans: Inactivated Vero cell culture deriv
+[24465] Q: A 10-week-old child has come for vaccination. In the previous visit at 6 weeks, post-vaccinatio | Ans: Give DPT
+[24466] Q: An unvaccinated 13-month child comes to your clinic. What vaccines will be given at the 1st vis | Ans: DPT, OPV, MR
+[24471] Q: A 5-year-old child with multiple hyperpigmented brown macules on the body was also found to hav | Ans: NF-1 with UBO
+[24472] Q: Which among the following is not compatible with a diagnosis of Neurofibromatosis-1? | Ans: Solitary large neurofibroma
+[24473] Q: A 12-year-old male presents to pediatric OPD with a rough, raised, scaly, yellow-white lesion o | Ans: Tuberous Sclerosis
+[24474] Q: An adolescent girl complains of dropping objects from hands, it gets precipitated during mornin | Ans: Juvenile myoclonic epilepsy
+[24475] Q: A Pediatric 8 yr old patient presented with GTCS convulsions lasting >45 minutes. What shall be | Ans: Lorazepam followed by Levetiracetam
+[24476] Q: Cerebral perfusion pressure equals? | Ans: MAP - ICP
+[24477] Q: A child presented with multiple small nodular swellings on the body and axillary examination sh | Ans: Optic glioma
+[24479] Q: Which of the following factors are not associated with recurrence of febrile seizure? | Ans: Duration of fever >24 hour
+[24480] Q: A child aged 6 years has episodes of frequent falls, progressive muscle weakness and his lower  | Ans: Normal life expectancy
+[24481] Q: A 3-month old infant has the following EEG report. What is the likely diagnosis? | Ans: Hypsarrhythmia
+[24482] Q: ACTH is the drug of choice for? | Ans: West syndrome
+[24483] Q: A patient has been diagnosed as Guillain-Barre Syndrome. All of the following will be effective | Ans: Prednisolone
+[24484] Q: Arnold Chiari malformation is a common association of? | Ans: Meningomyelocele
+[24486] Q: Tongue fasciculations are a characteristic feature of? | Ans: Spinal Muscular Atrophy
+[24487] Q: A 12-year-old boy was playing cricket and got a nasty bouncer, hitting him on head and producin | Ans: Inability to recall his mobile phon
+[24488] Q: A seven-day-old neonate presents with recurrent seizures. Examination reveals tachycardia, S3 g | Ans: Vein of Galen malformation
+[24489] Q: SCN1A gene mutations are responsible for which among the following epilepsy syndrome? | Ans: Dravet Syndrome
+[24490] Q: Persistent "commando crawl" at one year of age indicates which among the following? | Ans: Spastic diplegia
+[24491] Q: A 12-year-old healthy boy has noticed some muscle weakness. He has experienced increasing diffi | Ans: Becker muscular dystrophy
+[24492] Q: Folic acid requirement in pregnancy for prevention of neural tube defects in a lady with previo | Ans: 4000 &mu;g
+[24493] Q: Identify the incorrect match for the drug used and the underlying condition? | Ans: Eteplirsen- ALS
+[24494] Q: A neonate was stillborn. His image is as depicted below. Likely diagnosis? | Ans: Craniorachischisis
+[24495] Q: A neonate was born to a mother who did not take folic acid during pregnancy. The baby was absol | Ans: Spina bifida occulta
+[24496] Q: A 3-year-old child has been diagnosed as a case of pyogenic meningitis on 1st January 2024. He  | Ans: 2nd January, 9 AM
+[24497] Q: In a small child diagnosed with H influenzae associated meningitis, what investigation is neede | Ans: BERA
+[24499] Q: In an 8-year-old child recently diagnosed with type 1 DM, when should the first evaluation for  | Ans: After 3 years
+[24501] Q: A 7-year-old boy presents to you with a 2 cm, painful major aphthous ulcer. Which among the fol | Ans: Topical clotrimazole
+[24502] Q: Red flag signs of vomiting in a child include all except? | Ans: Association with fever
+[24515] Q: The following columns A and B contain types of Hodgkin's Lymphoma and the corresponding key cha | Ans: 1-R, 2-Q, 3-S, 4-P
+[24522] Q: A 3-year-old child is on ventilation with nasal cannula delivering oxygen at 3 L/min. What shal | Ans: 30%
+[24523] Q: Mechanical ventilation needs to be initiated in a child in all of the following ABG conditions  | Ans: Serum bicarbonate value of 18 mEq/L
+[24528] Q: During a well child visit, a 6-month-old boy demonstrates clinical evidence of craniosynostosis | Ans: Scaphocephaly
+[24531] Q: A 4-year-old child has fever and sore throat since 2 days. On examination there is significant  | Ans: Non-Hodgkins lymphoma
+[24532] Q: According to WHO reports, which of the following is the most commonly reported symptoms in COVI | Ans: Fever
+[24533] Q: A mother brings her 7-year-old child who is becoming very difficult to manage and has significa | Ans: X linked recessive
+[24541] Q: A 2-month-old male infant is brought to your office for a health supervision visit. When discus | Ans: Delaying this vaccine increases the
+[24542] Q: An 11-year-old girl visits you with purpose of HPV vaccination. What is the advised schedule fo | Ans: 2 doses at 0, 6 months
+[24543] Q: You are giving vaccine in your OPD and observe following color of VVM in OPV vaccine. What is t | Ans: Can be used till the square is dark
+[24544] Q: You are counselling parents of a 3-year-old child who recently had first episode of simple febr | Ans: 1%
+[24545] Q: A 10-year-old girl has been experiencing recurrent headaches over the last 2 months. There is a | Ans: Early morning headaches
+[24546] Q: A 6 year old female presents with recurrent episodes of 'day dreaming'. Parents report during t | Ans: Ethosuximide
+[24547] Q: Brain perfusion pressure equals | Ans: MAP - ICP
+[24548] Q: Prematurity is major cause of which type of cerebral palsy? | Ans: Spastic diplegia
+[24550] Q: Which is the most severe type of Spinomuscular atrophy among the following? | Ans: Type 1
+[24551] Q: An infant with repeated attacks of seizures has hypsarrhythmia on EEG. She is a known case of t | Ans: Vigabatrin
+[24552] Q: A 4-year-old boy present to clinic with weakness and increased frequency of falls over the past | Ans: Dermatomyositis
+[24553] Q: All the following are features of Arnold Chiari-II malformation except | Ans: Hypoplasia of cerebellar vermis
+[24563] Q: A child is performing poor in school, and with an IQ of 55 comes under: | Ans: Mild intellectual disability
+[24565] Q: A 14-year-old girl presented with firm, non-tender, slow-growing swelling in the left side of n | Ans: Neurofibroma
+[24567] Q: A 7-year-old child presented with complaints of bed-wetting almost twice a week. A detailed inv | Ans: Bell and pad based classical condit
+[24582] Q: Bivalent meningococcal vaccine is ? | Ans: A C
+[24583] Q: According to EVINCE fast breathing in 5 mth child is defined as - | Ans: 50
+[24584] Q: IMNCI target group - | Ans: Upto 5yrs
+[24587] Q: Pica refers to - | Ans: Foreign object being put in the mou
+[24588] Q: CPR with 2 candidate is done at rate of (in infant) - | Ans: 15 : 2

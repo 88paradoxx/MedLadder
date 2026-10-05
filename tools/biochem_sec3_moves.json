@@ -1,0 +1,152 @@
+[
+  {
+    "id": 3931,
+    "from": 109,
+    "to": 63,
+    "reason": "Cephalin / PE in clotting cascade -> Body Fluids & Hemostasis (Mod 63)"
+  },
+  {
+    "id": 3944,
+    "from": 109,
+    "to": 76,
+    "reason": "Fetal surfactant L:S ratio -> Surfactant & Compliance (Mod 76)"
+  },
+  {
+    "id": 3968,
+    "from": 109,
+    "to": 112,
+    "reason": "Sphingomyelin sphingophospholipid -> Sphingolipids (Mod 112)"
+  },
+  {
+    "id": 3983,
+    "from": 109,
+    "to": 117,
+    "reason": "Hemolytic anemia vitamin E deficiency -> Fat Soluble Vitamins (Mod 117)"
+  },
+  {
+    "id": 4494,
+    "from": 109,
+    "to": 633,
+    "reason": "Phrynoderma essential fatty acid / vit A -> Dermatology (Mod 633: Nutritional Dermatoses)"
+  },
+  {
+    "id": 4005,
+    "from": 109,
+    "to": 103,
+    "reason": "Mitochondria TCA & ETC energy production -> Krebs Cycle (Mod 103)"
+  },
+  {
+    "id": 3975,
+    "from": 109,
+    "to": 594,
+    "reason": "Preterm infant RDS reticulogranular opacities -> Pediatrics (Mod 594: Neonatal Respiratory)"
+  },
+  {
+    "id": 4117,
+    "from": 109,
+    "to": 158,
+    "reason": "Saturated fat atherosclerosis -> Pathology (Mod 158: Atherosclerosis)"
+  },
+  {
+    "id": 4022,
+    "from": 109,
+    "to": 110,
+    "reason": "Systemic carnitine deficiency muscle fat vacuoles -> Fatty Acid Oxidation (Mod 110)"
+  },
+  {
+    "id": 4411,
+    "from": 109,
+    "to": 117,
+    "reason": "Vitamin E antioxidant in cell membrane -> Fat Soluble Vitamins (Mod 117)"
+  },
+  {
+    "id": 4004,
+    "from": 110,
+    "to": 103,
+    "reason": "Chemiosmotic Mitchell hypothesis ATP -> Krebs Cycle & ETC (Mod 103)"
+  },
+  {
+    "id": 4014,
+    "from": 110,
+    "to": 100,
+    "reason": "Jamaican vomiting sickness hypoglycin gluconeogenesis -> Gluconeogenesis (Mod 100)"
+  },
+  {
+    "id": 4030,
+    "from": 110,
+    "to": 135,
+    "reason": "Zellweger syndrome VLCFA accumulation -> Pathology (Mod 135: Genetic/Organelle Diseases)"
+  },
+  {
+    "id": 4496,
+    "from": 110,
+    "to": 100,
+    "reason": "Alcohol NADH ratio hypoglycemia -> Gluconeogenesis (Mod 100)"
+  },
+  {
+    "id": 3991,
+    "from": 110,
+    "to": 91,
+    "reason": "Diabetic ketoacidosis metabolic acidosis -> Physiology (Mod 91: Acid-Base)"
+  },
+  {
+    "id": 3722,
+    "from": 110,
+    "to": 91,
+    "reason": "High anion gap metabolic acidosis ketogenic diet -> Physiology (Mod 91: Acid-Base)"
+  },
+  {
+    "id": 3985,
+    "from": 110,
+    "to": 59,
+    "reason": "Zellweger peroxisome biogenesis defect -> Cellular Physiology (Mod 59)"
+  },
+  {
+    "id": 4085,
+    "from": 112,
+    "to": 99,
+    "reason": "Hunter syndrome MPS iduronate sulfatase -> Mucopolysaccharides (Mod 99)"
+  },
+  {
+    "id": 3971,
+    "from": 112,
+    "to": 76,
+    "reason": "Dipalmitoyl lecithin surfactant -> Surfactant & Compliance (Mod 76)"
+  },
+  {
+    "id": 4079,
+    "from": 112,
+    "to": 134,
+    "reason": "Niemann-Pick sphingomyelinase deficiency -> Pathology (Mod 134: Lysosomal Storage)"
+  },
+  {
+    "id": 4081,
+    "from": 112,
+    "to": 134,
+    "reason": "Sphingomyelinase deficiency Niemann-Pick -> Pathology (Mod 134: Lysosomal Storage)"
+  },
+  {
+    "id": 4134,
+    "from": 113,
+    "to": 202,
+    "reason": "Cholera toxin GM1 ganglioside receptor -> Microbiology (Mod 202: Vibrio & Campylobacter)"
+  },
+  {
+    "id": 4145,
+    "from": 113,
+    "to": 61,
+    "reason": "Simple diffusion definition -> Transport Across Cell Membrane (Mod 61)"
+  },
+  {
+    "id": 4154,
+    "from": 113,
+    "to": 135,
+    "reason": "Familial hypercholesterolemia LDL receptor -> Pathology (Mod 135: Genetic Disorders)"
+  },
+  {
+    "id": 4142,
+    "from": 113,
+    "to": 135,
+    "reason": "Familial hypercholesterolemia tendon xanthoma -> Pathology (Mod 135: Genetic Disorders)"
+  }
+]

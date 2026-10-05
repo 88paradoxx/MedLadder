@@ -1,0 +1,187 @@
+{
+  "subject": "OB & G",
+  "totalQuestions": 1818,
+  "flaggedCount": 30,
+  "moves": [
+    {
+      "id": 21259,
+      "fromModule": 531,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 21272,
+      "fromModule": 531,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 21291,
+      "fromModule": 531,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 21292,
+      "fromModule": 531,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 21317,
+      "fromModule": 531,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 21327,
+      "fromModule": 536,
+      "toModule": 692,
+      "reason": "Psychiatry in OBGYN"
+    },
+    {
+      "id": 21848,
+      "fromModule": 540,
+      "toModule": 692,
+      "reason": "Psychiatry in OBGYN"
+    },
+    {
+      "id": 22823,
+      "fromModule": 543,
+      "toModule": 692,
+      "reason": "Psychiatry in OBGYN"
+    },
+    {
+      "id": 21765,
+      "fromModule": 557,
+      "toModule": 338,
+      "reason": "Ophthalmology in OBGYN"
+    },
+    {
+      "id": 22666,
+      "fromModule": 563,
+      "toModule": 692,
+      "reason": "Psychiatry in OBGYN"
+    },
+    {
+      "id": 22790,
+      "fromModule": 568,
+      "toModule": 692,
+      "reason": "Psychiatry in OBGYN"
+    },
+    {
+      "id": 22336,
+      "fromModule": 569,
+      "toModule": 338,
+      "reason": "Ophthalmology in OBGYN"
+    },
+    {
+      "id": 23192,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23229,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23230,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23246,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23155,
+      "fromModule": 574,
+      "toModule": 548,
+      "reason": "Preeclampsia mapped to dedicated module"
+    },
+    {
+      "id": 23145,
+      "fromModule": 574,
+      "toModule": 551,
+      "reason": "PPH mapped to dedicated module"
+    },
+    {
+      "id": 23146,
+      "fromModule": 574,
+      "toModule": 551,
+      "reason": "PPH mapped to dedicated module"
+    },
+    {
+      "id": 23148,
+      "fromModule": 574,
+      "toModule": 551,
+      "reason": "PPH mapped to dedicated module"
+    },
+    {
+      "id": 23152,
+      "fromModule": 574,
+      "toModule": 548,
+      "reason": "Preeclampsia mapped to dedicated module"
+    },
+    {
+      "id": 23153,
+      "fromModule": 574,
+      "toModule": 548,
+      "reason": "Preeclampsia mapped to dedicated module"
+    },
+    {
+      "id": 23157,
+      "fromModule": 574,
+      "toModule": 548,
+      "reason": "Preeclampsia mapped to dedicated module"
+    },
+    {
+      "id": 23162,
+      "fromModule": 574,
+      "toModule": 548,
+      "reason": "Preeclampsia mapped to dedicated module"
+    },
+    {
+      "id": 23220,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23233,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23237,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23225,
+      "fromModule": 574,
+      "toModule": 551,
+      "reason": "PPH mapped to dedicated module"
+    },
+    {
+      "id": 23231,
+      "fromModule": 574,
+      "toModule": 569,
+      "reason": "Cervical cancer mapped to dedicated module"
+    },
+    {
+      "id": 23235,
+      "fromModule": 574,
+      "toModule": 548,
+      "reason": "Preeclampsia mapped to dedicated module"
+    }
+  ]
+}

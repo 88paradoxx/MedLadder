@@ -1,0 +1,230 @@
+[
+  {
+    "id": 7,
+    "cur": "Gametogenesis",
+    "topic": "Cortical reaction preventing polyspermy",
+    "rec": "Embryology 2: Pre-Embryonic (Fertilization)"
+  },
+  {
+    "id": 26,
+    "cur": "Gametogenesis",
+    "topic": "SRY gene location on short arm of Y chromosome",
+    "rec": "Pathology: Chromosomal Disorders / Genitalia"
+  },
+  {
+    "id": 235,
+    "cur": "Gametogenesis",
+    "topic": "Antral follicle histology (fluid-filled antrum)",
+    "rec": "Histology: Reproductive / Genitourinary"
+  },
+  {
+    "id": 1710,
+    "cur": "Gametogenesis",
+    "topic": "Cryptorchidism and Leydig cell testosterone",
+    "rec": "Anatomy: Internal and External Genitalia"
+  },
+  {
+    "id": 27,
+    "cur": "Pre-Embryonic",
+    "topic": "Fertilization site (ampulla of fallopian tube)",
+    "rec": "Anatomy: Internal and External Genitalia (or Keep)"
+  },
+  {
+    "id": 32,
+    "cur": "Pre-Embryonic",
+    "topic": "Mitochondrial DNA inherited from mother",
+    "rec": "Pathology: Modes of Inheritance / Genetics"
+  },
+  {
+    "id": 35,
+    "cur": "Pre-Embryonic",
+    "topic": "Hydatidiform mole pathogenesis (paternal disomy)",
+    "rec": "Pathology / OBG: Gestational Trophoblastic Disease"
+  },
+  {
+    "id": 101,
+    "cur": "Pre-Embryonic",
+    "topic": "Embryonic period definition (3rd to 8th week)",
+    "rec": "Embryology 3: Embryonic Phase of Development"
+  },
+  {
+    "id": 82,
+    "cur": "Embryonic Phase",
+    "topic": "Eye structure developing from surface ectoderm (lens/cornea)",
+    "rec": "Embryology 8: Face, Nose & Palate, Eye, Ear"
+  },
+  {
+    "id": 98,
+    "cur": "Embryonic Phase",
+    "topic": "Paraxial mesoderm cervical region derivative (tongue muscles/occipital somites)",
+    "rec": "Embryology 5: Pharyngeal Arches / Anatomy: Tongue"
+  },
+  {
+    "id": 132,
+    "cur": "Pharyngeal Arches",
+    "topic": "Calcium homeostasis disturbance in DiGeorge / 3rd-4th pouch",
+    "rec": "Keep (DiGeorge syndrome embryology) or Pathology"
+  },
+  {
+    "id": 133,
+    "cur": "Pharyngeal Arches",
+    "topic": "Cervical sinus blind pit along SCM border dripping mucus",
+    "rec": "Keep (Branchial fistula/cleft) or Anatomy: Neck Triangles"
+  },
+  {
+    "id": 135,
+    "cur": "Pharyngeal Arches",
+    "topic": "Auditory ossicles mesenchyme derivation (1st & 2nd arch)",
+    "rec": "Keep (Arch 1 & 2 bones) or Embryology 8: Eye & Ear"
+  },
+  {
+    "id": 155,
+    "cur": "Pharyngeal Arches",
+    "topic": "Absent lower jaw (agnathia / micrognathia)",
+    "rec": "Embryology 8: Face, Nose & Palate"
+  },
+  {
+    "id": 171,
+    "cur": "Pharyngeal Arches",
+    "topic": "6th pharyngeal arch artery left side (ductus arteriosus / left pulmonary)",
+    "rec": "Embryology 6: Cardiovascular & Respiratory"
+  },
+  {
+    "id": 880,
+    "cur": "Pharyngeal Arches",
+    "topic": "Sensory innervation of posterior tongue (3rd arch / CN IX)",
+    "rec": "Anatomy: Tongue and Palate (or Keep in Arch 3)"
+  },
+  {
+    "id": 58,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Blood islands forming mesenchymal cells (angioblasts/hemangioblasts)",
+    "rec": "Embryology 3: Embryonic Phase (Vasculogenesis)"
+  },
+  {
+    "id": 74,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Angiogenic cell clusters differentiation at 13-14 days (yolk sac/extraembryonic)",
+    "rec": "Embryology 4: Placenta & Fetal Membranes"
+  },
+  {
+    "id": 120,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Blood islands mesenchymal cells aggregation",
+    "rec": "Embryology 3: Embryonic Phase (Vasculogenesis)"
+  },
+  {
+    "id": 172,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Left recurrent laryngeal nerve longer due to 6th arch artery",
+    "rec": "Embryology 5: Pharyngeal Arches (or Keep Mod 6)"
+  },
+  {
+    "id": 506,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Most common congenital cardiac septal defect (VSD)",
+    "rec": "Keep in Mod 6 or Pediatrics / Medicine: Cardiology"
+  },
+  {
+    "id": 524,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Tetralogy of Fallot components",
+    "rec": "Keep in Mod 6 or Pediatrics / Medicine: Cardiology"
+  },
+  {
+    "id": 1375,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Common carotid artery derived from 3rd aortic arch",
+    "rec": "Embryology 5: Pharyngeal Arches (or Keep Mod 6)"
+  },
+  {
+    "id": 1376,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Remnant of first aortic arch artery (maxillary artery)",
+    "rec": "Embryology 5: Pharyngeal Arches (or Keep Mod 6)"
+  },
+  {
+    "id": 1377,
+    "cur": "Cardiovascular/Respiratory",
+    "topic": "Distal internal iliac artery collapse into medial umbilical ligament",
+    "rec": "Embryology 4: Placenta & Fetal Membranes"
+  },
+  {
+    "id": 94,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Gastroschisis vs Omphalocele defect identification",
+    "rec": "Pediatrics / Surgery: Pediatric Surgery (or Keep Mod 7)"
+  },
+  {
+    "id": 119,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Meconium discharge from umbilicus (patent vitellointestinal duct)",
+    "rec": "Embryology 4: Placenta & Fetal Membranes (or Keep Mod 7)"
+  },
+  {
+    "id": 123,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Congenital umbilical / vitelline defect image",
+    "rec": "Keep Mod 7 (Vitelline duct) or Surgery"
+  },
+  {
+    "id": 168,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Tracheoesophageal fistula / esophageal atresia features",
+    "rec": "Embryology 6: Respiratory / Foregut or Surgery"
+  },
+  {
+    "id": 200,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Anal agenesis / imperforate anus with fistula",
+    "rec": "Surgery: Pediatric Surgery (or Keep Mod 7 Hindgut)"
+  },
+  {
+    "id": 247,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Gut rotation bringing cecum/appendix to McBurney point",
+    "rec": "Keep Mod 7 (Gut rotation)"
+  },
+  {
+    "id": 1301,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Dorsal mesogastrium derivatives (gastrosplenic/splenorenal lig)",
+    "rec": "Anatomy 42: Abdominal Cavity and Peritoneum"
+  },
+  {
+    "id": 1327,
+    "cur": "Alimentary/Hepatobiliary",
+    "topic": "Ligamentum teres hepatis remnant of left umbilical vein",
+    "rec": "Embryology 6: CV Fetal Remnants / Mod 4"
+  },
+  {
+    "id": 56,
+    "cur": "Face, Nose, Palate, Eye, Ear",
+    "topic": "Middle ear cavity & Eustachian tube from endoderm (1st pouch)",
+    "rec": "Embryology 5: Pharyngeal Arches (1st pouch)"
+  },
+  {
+    "id": 155,
+    "cur": "Face, Nose, Palate, Eye, Ear",
+    "topic": "Agnathia (mandibular prominence defect)",
+    "rec": "Embryology 5: 1st Arch or Keep Mod 8 (Face)"
+  },
+  {
+    "id": 71,
+    "cur": "Nervous & Endocrine",
+    "topic": "Hypophysis cerebri dual origin (Rathke pouch & infundibulum)",
+    "rec": "Keep Mod 9 (Pituitary Development)"
+  },
+  {
+    "id": 1353,
+    "cur": "Nervous & Endocrine",
+    "topic": "Rathke pouch gives rise to anterior pituitary (adenohypophysis)",
+    "rec": "Keep Mod 9 (Pituitary Development)"
+  },
+  {
+    "id": 1237,
+    "cur": "Nervous & Endocrine",
+    "topic": "Adult representation of anterior neuropore (lamina terminalis)",
+    "rec": "Keep Mod 9 (Neural tube closure)"
+  }
+]

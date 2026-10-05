@@ -1,0 +1,319 @@
+
+============================================================
+MODULE 604: Solid Neoplasms of Childhood (29 questions)
+============================================================
+[321] Q: Commonest tumor of face in chidren is- | Ans: Rhabdomyosarcoma
+[2895] Q: Highest cure rate is of - | Ans: Retinoblastoma
+[9336] Q: Which is MC genetic cause of mental retardation - | Ans: Fragile-x-syndrome
+[12302] Q: Most common cerebellar tumor in children? | Ans: Astrocytoma
+[23356] Q: A 9-month-old child is passing 10 to 12 loose stools per day for last 9 days. There is no blood | Ans: ORS with Zinc
+[23475] Q: A child presents with a 4-day history of watery stools with increased frequency. On examination | Ans: Severe dehydration
+[23521] Q: Which of the following is a not a cause of hemorrhagic anemia in a neonate? | Ans: Diamond Blackfan syndrome
+[23740] Q: A child with diarrhea is eager to drink water, and the skin pinch returns slowly. According to  | Ans: Yellow
+[23924] Q: While at school, a 6-year-old boy is noted by his teacher to experience 10- to 20-second lapses | Ans: Valproic acid
+[23925] Q: A boy presented with blue sclera and excessively fragile bones prone to repeated fractures. Lik | Ans: Osteogenesis Imperfecta
+[23926] Q: Which among the following is contraindicated in childhood dysentery? | Ans: Loperamide
+[23927] Q: EEG of which of the following epilepsy syndrome shows centrotemporal spikes? | Ans: Rolandic epilepsy
+[23928] Q: Regarding childhood UTI, all of the following are true except? | Ans: Most childhood UTI are caused by St
+[23929] Q: What is the time duration to define steroid resistance in childhood nephrotic syndrome? | Ans: 6 weeks
+[23930] Q: True regarding minimal change disease? | Ans: Severe hypoalbuminemia
+[23931] Q: All are true regarding childhood nephrotic syndrome except? | Ans: Low complement levels can occur
+[23960] Q: Which of the following is true regarding Ataxia Telangiectasia? | Ans: Raised AFP can be seen
+[23963] Q: All of the following portend poor prognosis in childhood ALL except? | Ans: Hyperdiploidy
+[24030] Q: An 18-month-old child presents with hepatosplenomegaly, a hemoglobin level of 7 g/dL, a white b | Ans: Vincristine + Prednisolone
+[24294] Q: Which of the following malignant tumors, commonly found in children, has a high tendency to spr | Ans: Neuroblastoma
+[24306] Q: During the surgery for acute appendicitis in a 2-year-old child, the surgeon discovered that th | Ans: Meckel's diverticulum
+[24308] Q: Which statement about childhood brain tumors is true? | Ans: Most are located in the midline and
+[24309] Q: Most common extracranial solid malignancy in children? | Ans: Neuroblastoma
+[24310] Q: A 3-year-old child presents with a history of haematuria for 2 days. On examination there is a  | Ans: 1,2
+[24312] Q: A 4-year-old child is brought in with a 14 cm firm, tender swelling in the flank that has been  | Ans: Wilm's tumor
+[24313] Q: Incorrect statement regarding retinoblastoma? | Ans: Undifferentiated tumours have a bad
+[24314] Q: Maximum risk of Wilms tumour is seen with? | Ans: Denys-Drash Syndrome
+[24315] Q: Which of the following events is associated with a "good" outcome in neuroblastoma? | Ans: Trk A expression
+[24320] Q: Which among the following pediatric condition is associated with mutations in ITPKC gene as wel | Ans: Kawasaki Disease
+
+============================================================
+MODULE 605: Paediatric Rheumatology (68 questions)
+============================================================
+[12301] Q: Neonatal lupus - | Ans: All of above
+[23337] Q: A 12-year-old boy presents with swelling and tenderness of his left maxilla, and left subconjun | Ans: X ray facial bone
+[23340] Q: In a child with recurrent UTIs, what is the order of performing investigation in importance on  | Ans: abc
+[23373] Q: A 6-year-old child was brought to her paediatrician for routine well-childcare. Her physical ex | Ans: Atrial septal defect
+[23454] Q: Which of the following is true regarding paediatric cardiopulmonary resuscitation? | Ans: In chest compression, depth must be
+[23517] Q: Handedness is established in a child at what age? | Ans: 3 year
+[23556] Q: A child is brought to the paediatrician with short stature. On evaluation, growth hormone level | Ans: GH receptor anomaly
+[23593] Q: Which among the following is the last fontanelle to close in a child? | Ans: Anterior
+[23732] Q: A 6 year old female child presents with bony deformities and rickets-like features. She has rec | Ans: X-linked Hypophosphatemic Rickets
+[23733] Q: Which of the following is true regarding Hemophilia A? | Ans: Serum levels of factor VIII are dec
+[23734] Q: A vegetarian/vegan patient with MCV of 110 fL and Hb of 10 g% is most likely to have? | Ans: Megaloblastic anemia
+[23743] Q: A 1 year old baby with diarrhea presented with restlessness, sunken eyes but was able to drink  | Ans: Plan B
+[23746] Q: Which of the following clinical feature is less likely in a condition of hypernatremia dehydrat | Ans: Hypotonia
+[23757] Q: A 7-year-old male child has complaints of nocturnal bed-wetting twice per week. Evaluation was  | Ans: Bell & Pad Conditioning
+[23808] Q: A 7-year-old boy has ALL. His white cell count at diagnosis was < 50 x 10^9. He was also told t | Ans: Testicular leukemia
+[23820] Q: A 10 year old girl presented with short stature, dorsal edema of hands & feet, webbed neck and  | Ans: Turner Syndrome
+[23897] Q: A 4 year old male child with body weight of 15 kg and height 100 cm is admitted with renal fail | Ans: 40 ml/min/ 1.73 m? BSA
+[23954] Q: A child with hydrocephalus underwent placement of a V-P shunt. Post operatively, the child deve | Ans: Blood Culture + CSF Culture, with C
+[23955] Q: A 10 year old boy who is previously unimmunized, presented to you at OPD. Which one of the foll | Ans: Td
+[23956] Q: A pregnant female at 34 weeks gestation was inadvertently given oral indomethacin for body pain | Ans: Closure of ductus arteriosus premat
+[23957] Q: A child with tachypnea in emergency developed carpopedal spasms. Likely reason? | Ans: Alkalosis
+[23961] Q: Ideal time gap between two live vaccines, if both can't be given together, should be? | Ans: 4 weeks
+[23962] Q: Chances of recurrence of febrile seizures are increased in? | Ans: All the above
+[23966] Q: An 8 year old child presents with an acute exacerbation of asthma with life-threatening feature | Ans: All of the above
+[23967] Q: An 11 year old child has Acute Rheumatic Fever and has no cardiac manifestations. What should b | Ans: 5 years
+[23968] Q: A young girl presents with the complaints of continuous dribbling of urine. However, she also v | Ans: Ectopic ureter
+[23969] Q: A 14-year-old girl presented with firm, non-tender, palpable masses on the left side of neck. T | Ans: Plexiform Neurofibroma
+[23972] Q: A 4-year-old boy presents following a head injury while running around at nursery and fell over | Ans: GCS <15
+[24170] Q: A 6 year old child presents with hypertension. On examination, his lower limb pulses are feeble | Ans: Coarctation of aorta
+[24183] Q: Which among the following is not useful in the management of Sickle Cell Anemia? | Ans: Bebtelovimab
+[24220] Q: Not useful in the management of hyperkalemia? | Ans: IV Magnesium Sulphate
+[24233] Q: A Child presented with decreased lower limb pulses, which were also delayed, as compared to the | Ans: Coarctation of Aorta
+[24311] Q: Which of the following is most common pulmonary tumor in children? | Ans: Carcinoid tumor
+[24316] Q: A child with Kawasaki Disease underwent echocardiography and was found to have a giant aneurysm | Ans: Size &ge;8 mm
+[24317] Q: The most common bony finding on a skeletal radiograph in JIA is which of the following? | Ans: A normal radiograph
+[24321] Q: An 8 year old male child presents with multiple petechiae on both lower limbs along with joint  | Ans: HSP
+[24323] Q: A 2-year-old boy presents with a fever since 2 weeks and loss of appetite. He is miserable, com | Ans: Systemic JIA
+[24324] Q: All of the following are consistent with the cardiac complications described in Kawasaki Diseas | Ans: Cardiac Tamponade
+[24325] Q: Which of the following is not a feature of Kawasaki disease? | Ans: Bilateral purulent conjunctivitis
+[24326] Q: A 1-year-old boy, is brought to OPD. He has had a high temperature for the last week. His mothe | Ans: Kawasaki disease
+[24327] Q: Which of the following is the most common complication associated with Kawasaki disease? | Ans: Myocarditis
+[24328] Q: A child is diagnosed with Kawasaki disease and is given a dose of IVIG and aspirin. After 48 ho | Ans: Rituximab
+[24330] Q: All of the following features can present in Kawasaki's disease except? | Ans: Axillary lymphadenopathy
+[24331] Q: The following symptoms may be suggestive of rheumatic disease except? | Ans: Weakness: juvenile idiopathic arthr
+[24332] Q: Which disease is incorrectly matched with the characteristic rash? | Ans: Kawasaki disease- vesicular rash
+[24333] Q: A 4-year-old boy presents with persistent fever, conjunctival redness, and peeling erythematous | Ans: IVIG
+[24334] Q: Not a feature of Kawasaki disease? | Ans: Purulent conjunctivitis
+[24335] Q: All of the following are features to diagnose Kawasaki disease, except? | Ans: Myocarditis
+[24337] Q: A 4-year-old girl presents with difficulty in going upstairs and leg pains. She is always tired | Ans: Juvenile Dermatomyositis
+[24338] Q: A 5 year old child, presents to you as she has been unwell for 2 weeks with lethargy, fever and | Ans: Systemic-onset juvenile idiopathic 
+[24339] Q: Which among the following is effective in systemic onset JIA (SoJIA)? | Ans: Oral steroids
+[24340] Q: Most common cause of death in a child of Kawasaki Disease between 3rd to 6th week of illness? | Ans: Thrombosis of CAA
+[24341] Q: A 3 1/2-year-old child presented with high fever for one-week, cervical lymphadenopathy, red ey | Ans: Myocarditis
+[24342] Q: Peak age for Kawasaki disease? | Ans: 18-24 months
+[24343] Q: "White strawberry tongue" is seen in a febrile child, as shown in the picture. What can be the  | Ans: Can be seen in both
+[24344] Q: Which of the following statement regarding Kawasaki disease is true? | Ans: Associated with coronary artery ane
+[24345] Q: A 2 year old child was clinically diagnosed as Kawasaki disease and started on IVIG infusion, w | Ans: Repeat dose of IVIG followed by ste
+[24346] Q: True statement about Juvenile Idiopathic Arthritis is? | Ans: Oligo-articular is the commonest ty
+[24347] Q: A 3 year old child presented with High grade fever, desquamating rash on the body, lymphadenopa | Ans: Fever responsiveness to antibiotics
+[24402] Q: A 5/10 year old male was admitted with complaints of fatigue and joint pains. On examination, a | Ans: Gattron's papules in Juvenile Derma
+[24403] Q: ACTH is used in the treatment of which of the following? | Ans: West Syndrome
+[24419] Q: Which of the following is the recommended dose for HPV vaccination in girls aged 9-14 years acc | Ans: 2 doses
+[24557] Q: Which of the following is not a first line of investigation in a child suspected to be having A | Ans: Bone marrow aspirate
+[24574] Q: Match the column kind of question- Modes of Inheritance? | Ans: A-3, B-1, C-4, D-2
+[24575] Q: A 3-year-old child is on ventilation with nasal cannula delivering oxygen at 3 L/min. What shal | Ans: 30%
+[24576] Q: For a preterm child, what is best suited in the absence of breast milk? | Ans: Donor breast milk
+[24577] Q: A 1-year-old boy is brought to you for vaccination. He has only received 1 shot of DPT at 6 wee | Ans: Give 2nd dose of DPT shot
+[24578] Q: Tongue fasciculations are a feature of which among the following? | Ans: Spinal Muscular Atrophy
+
+============================================================
+MODULE 606: Paediatric Hematology - Introduction, Bleeding, and Clotting Disorders (28 questions)
+============================================================
+[2532] Q: A 2 yrs. old boy fall from bed. He developed swelling of knee. On examination boy has a hematom | Ans: X-linked recessive
+[23431] Q: A 4-month-old formula-fed infant presents with rectal bleeding without emesis or diarrhea. She  | Ans: Milk protein allergy
+[23787] Q: Which of the following is the most common cause of shock in paediatric patient? | Ans: Dehydration
+[24348] Q: A 3-year-old girl comes to urgent care because since she woke up that morning she has been 'clu | Ans: Acute cerebellar ataxia
+[24349] Q: Cryoprecipitate will control bleeding due to deficiency of all of the following except? | Ans: Factor IX deficiency
+[24350] Q: Which of the following is associated with an increased risk of thrombosis? | Ans: Prothrombin gene mutation
+[24351] Q: Bernard-Soulier Syndrome occurs due to the deficiency of? | Ans: Gplb
+[24352] Q: A child presents with fatigue, bone pain, and bleeding gums. Examination reveals petechiae on t | Ans: Vitamin C
+[24356] Q: Which of the following is the most common type of ectopic tissue found in Meckel's diverticulum | Ans: Gastric mucosa
+[24357] Q: A 13-year-old girl had complaints of increased bleeding after dental extraction. Local hemostat | Ans: Von Willebrand Disease
+[24358] Q: A child presents with bruising, petechiae, and occasional minor epistaxis that does not interfe | Ans: Education, counseling, and watchful
+[24359] Q: A 5-year-old boy presented to ER with acute onset hematemesis and Hb of 6.2 g/dl. Due to hemody | Ans: BT to maintain Hb above 10 g/dl
+[24360] Q: A 3-year-old boy presents with fever, rash, bleeding gums, and a positive tourniquet test. His  | Ans: Platelet count
+[24361] Q: A 1-week-old presents to your office with bruising and coffee ground emesis. She was a term bab | Ans: Low factor VII level
+[24363] Q: A 2-week-old with epistaxis, rectal bleeding, umbilical bleeding since birth. Normal PT, aPTT,  | Ans: Factor XIII
+[24365] Q: Which among the following is the procedure of choice in aspirated foreign bodies in lower airwa | Ans: Rigid bronchoscopy
+[24366] Q: A 4-year-old male patient is admitted with features of raised intracranial pressure & papillede | Ans: Intracranial space-occupying lesion
+[24367] Q: A 5-year-old was well till 2 days back when he has profuse bleeding from nose. You suspect him  | Ans: If patient has Hepatosplenomegaly
+[24368] Q: Reduced levels of which clotting factor can produce Hemophilia C? | Ans: Factor XI
+[24369] Q: Which of the following statements about Hemophilia A is incorrect? | Ans: It presents as frequent mucosal ble
+[24370] Q: A 10-year-old boy presented with complaints of recurrent bleeding. There was also a history of  | Ans: Factor 8 & 9
+[24371] Q: A 12-year-old with a history of recurrent infection and bleeding gums. On investigations the pa | Ans: Aplastic anemia
+[24372] Q: A 5-year-old boy with past history of multiple bleeding episodes, fell while playing and presen | Ans: Hemophilia A
+[24373] Q: A 7-year-old male child has a swollen painful knee joint after falling down. His skin cuts blee | Ans: High aPTT
+[24374] Q: A 5 years old boy is troubled by recurrent nose bleeds, the last of which took 1.5 hours to sto | Ans: Von Willebrand disease
+[24375] Q: You are counseling a father about the treatment options for his child with &beta;-thalassemia m | Ans: Thrombosis
+[24376] Q: Which of the following conditions can result in dactylitis? | Ans: Sickle cell anemia
+[24377] Q: All of the following are true regarding Hemophilia A, Except? | Ans: Mostly presents as mucosal bleeding
+
+============================================================
+MODULE 607: Paediatric Anemias (2 questions)
+============================================================
+[2502] Q: In her second pregnancy, the patient's baby was born with anemia, severe jaundice and edema. Th | Ans: The mothers blood group is A negati
+[24380] Q: A child with anemia is found to have the following peripheral smear finding. What is the likely | Ans: Megaloblastic anemia
+
+============================================================
+MODULE 608: Mixed / Miscellaneous Topics (172 questions)
+============================================================
+[4709] Q: A 3-year-old child presented with trouble walking to paediatrician. He is diagnosed with DMD (D | Ans: Transcription of dystrophin mRNA
+[8920] Q: A 1-year-old boy is presented with an episode of loss of consciousness followed by jerky moveme | Ans: No treatment required
+[24384] Q: Which one of the following murmur characteristics supports the diagnosis of an innocent murmur? | Ans: Variability with position and postu
+[24385] Q: A school nurse called you to see a 6-year-old boy with school refusal, he is always crying afte | Ans: Refer the child to a pediatrics psy
+[24386] Q: A 6 year old child visits you for short stature. To determine the bone age of the child, X ray  | Ans: Wrist
+[24390] Q: Which of the following is NOT an essential medication for acute asthma exacerbations? | Ans: Montelukast
+[24391] Q: A 9 year old girl presents with difficulty in combing, climbing stairs and erythematous lesions | Ans: Do Serum CK Levels
+[24392] Q: Which among the following is the drug of choice in patients with KD? | Ans: IVIG
+[24393] Q: Hallmark finding in neurofibromatosis-2 is? | Ans: Bilateral vestibular schwannomas
+[24394] Q: The following sign is positive in which among the following conditions? | Ans: All of the above
+[24395] Q: A 3-year-old girl presented with fever since 3 days, vomiting, photophobia, neck stiffness and  | Ans: CECT Head
+[24397] Q: Wilson disease- All are true except? | Ans: Raised ceruloplasmin levels
+[24398] Q: In an unresponsive child with some signs of life present, head-tilt, chin-lift manoeuvre was pe | Ans: Suspected cervical spine injury
+[24399] Q: A child is diagnosed with Acute Rheumatic Fever. He also has migratory polyarthritis. Which amo | Ans: Aspirin
+[24400] Q: Which among the following is the most common cause of infective endocarditis in children? | Ans: Viridans Streptococci
+[24401] Q: Which of the following is not a known risk factor for intussusception? | Ans: Irritable bowel syndrome
+[24404] Q: Which of the following is a characteristic of Langerhans Cell Histiocytosis (LCH)? | Ans: Birbeck Granules
+[24405] Q: Which of the following shall be indicated in severe COVID-19 infection in a child? | Ans: Corticosteroids
+[24407] Q: Question: A 14-year-old boy presents with back pain and pain in both ankles and left knee. When | Ans: Ankylosing spondylitis
+[24409] Q: Which of the following neuromuscular disorder occurs due to a trinucleotide repeat defect? | Ans: Myotonic Dystrophy
+[24411] Q: In a child with recurrent UTIs, what is the order of performing investigation in importance on  | Ans: 1, 2, 3
+[24413] Q: A 6-year-old child has a weight of 12 kg. His urine output is 0.4 ml/kg/hr since last 12 hours  | Ans: Stage 2
+[24414] Q: A child with recurrent UTI is most likely to show? | Ans: VUR
+[24415] Q: Identify this anomaly in a neonate? | Ans: Bladder exstrophy
+[24416] Q: A 9-year-old boy complains of sharp shooting pain in right pelvic region for 2 days associated  | Ans: Ultrasound
+[24418] Q: What is the dose of Zinc to be given to a 10-month-old child with acute diarrhea? | Ans: 20mg/day for 10-14 days
+[24420] Q: A 4-year-old girl presents with difficulty in going upstairs and leg pains. She is always tired | Ans: Juvenile Dermatomyositis
+[24421] Q: A 3-year-old child presented with high chills with fever, hepatosplenomegaly and a lesion as sh | Ans: Doxycycline
+[24423] Q: A 5-year-old child developed diphtheria and was managed appropriately. He has a 3-year-old sibl | Ans: Antimicrobial prophylaxis to be giv
+[24424] Q: Which of the following drug is indicated in the empirical treatment of uncomplicated enteric fe | Ans: Oral Cefixime
+[24425] Q: Which among the following is correct regarding definition of adolescent period? | Ans: 10-19 years
+[24426] Q: A child has just started to move on all 4 limbs as shown below. When does the following movemen | Ans: 8-9 months
+[24427] Q: Maximum screen time allowed by AAP & WHO for a child aged 2-5 years is? | Ans: Less than 1 hr
+[24428] Q: Both the ability to run independently and social behaviour of separation anxiety in a child are | Ans: 18-20 months
+[24429] Q: Handedness gets established at what age? | Ans: 36 months
+[24431] Q: Asymmetric moro's reflex is seen in all of the following conditions, except? | Ans: Hypoglycemia
+[24433] Q: Expressed breast milk can be stored at room temperature for how much time? | Ans: 6-8 hours
+[24434] Q: A child was delivered by normal vaginal delivery and immediate post-delivery, it was noticed th | Ans: Only observation is needed
+[24435] Q: A 7-year-old girl is taken for a health check-up as her parents feel she is too short. Her heig | Ans: Webbing of the neck
+[24436] Q: All of the following are consistent with Klinefelter Syndrome except? | Ans: Low FSH
+[24437] Q: A couple did not have a child for more than 3 years and went for check-up. The check-up of lady | Ans: Klinefelter Syndrome
+[24438] Q: Prophylactic gonadectomy is indicated for which Turner Syndrome patients? | Ans: Mosaics with additional Y chromosom
+[24439] Q: Which of the following is the most common location of aspirated foreign bodies going into the l | Ans: Right main bronchus
+[24440] Q: Pediatric airway is different from adult in which aspect? | Ans: Short epiglottis
+[24441] Q: A 5-year-old girl with a family history of bronchial asthma, presents to emergency with a histo | Ans: All of the above
+[24442] Q: A young man presents to the emergency department with shortness of breath and chest pain. His H | Ans: Insert a large bore needle on right
+[24443] Q: Which among the following is/are true statements regarding sweat and pancreatic secretions chlo | Ans: 1 and 4 are correct
+[24444] Q: Drug of choice for chest-indrawing pneumonia in a one year old child is? | Ans: Oral amoxicillin
+[24445] Q: Most common cause of empyema in a child aged 2 years is? | Ans: Staphylococcus
+[24446] Q: A 3-year-old boy has complaints of chronic cough, foul-smelling bulky and sticky stools, poor w | Ans: Chloride
+[24447] Q: Nasal Nitric Oxide measurement is useful to screen for which among the following conditions? | Ans: Primary ciliary dyskinesia
+[24448] Q: A child with noisy breathing was found to have stridor on examination. His laryngoscopic findin | Ans: Inspiratory
+[24449] Q: Which of the following treatments must be used when a child presents in Status asthmaticus? 1.  | Ans: 2, 3, 4
+[24450] Q: All the following PFT findings in a child are suggestive of asthma except? | Ans: Day and night variation of FEV1 >15
+[24451] Q: Chloride level is tested in which disease? | Ans: Cystic fibrosis
+[24452] Q: A child has been diagnosed recently as Cystic Fibrosis and his gene analysis report revealed de | Ans: Class II
+[24453] Q: All of the following new molecular agents are CFTR correctors except? | Ans: Ivacaftor
+[24454] Q: Kartagener Syndrome is characterized by all of the following except? | Ans: Differential Pulses
+[24455] Q: A 7-year-old child with a strong family history of bronchial asthma has multiple episodes of wh | Ans: Inhaled Budesonide
+[24456] Q: All of the following vaccines are excluded from open vial policy except? | Ans: Bivalent OPV
+[24457] Q: A baby has received BCG at birth and has been vaccinated at 14 weeks. Which of the following sh | Ans: MR Vaccine s.c. on right arm & Oral
+[24459] Q: Are all the following statements about the vaccine vial monitor are correct except? | Ans: If the inner square is same as oute
+[24460] Q: A child reports to you at 1 year of age. He has received DPT at 6 weeks of age but was lost to  | Ans: Give DPT 2nd dose
+[24462] Q: Which of the following vaccines do you recommend for a 10-year-old school child according to th | Ans: Td
+[24463] Q: Dengvaxia is a globally licensed vaccine against Dengue, but is not available in India owing to | Ans: Risk of severe dengue infection
+[24464] Q: Japanese B Encephalitis Vaccine is recommended in the National Immunization Schedule in endemic | Ans: Inactivated Vero cell culture deriv
+[24465] Q: A 10-week-old child has come for vaccination. In the previous visit at 6 weeks, post-vaccinatio | Ans: Give DPT
+[24466] Q: An unvaccinated 13-month child comes to your clinic. What vaccines will be given at the 1st vis | Ans: DPT, OPV, MR
+[24467] Q: All are seen in Henoch-Schoenlein Purpura, except? | Ans: Thrombocytopenia
+[24468] Q: A 6-year-old male was admitted with complaints of fatigue and mild joint pains. On examination, | Ans: Gottron's Papules in Juvenile Derma
+[24469] Q: Hallmark finding in IgA vasculitis is? | Ans: Non-thrombocytopenic purpura
+[24470] Q: Risk of chronic renal disease in HSP? | Ans: 1-5%
+[24471] Q: A 5-year-old child with multiple hyperpigmented brown macules on the body was also found to hav | Ans: NF-1 with UBO
+[24472] Q: Which among the following is not compatible with a diagnosis of Neurofibromatosis-1? | Ans: Solitary large neurofibroma
+[24473] Q: A 12-year-old male presents to pediatric OPD with a rough, raised, scaly, yellow-white lesion o | Ans: Tuberous Sclerosis
+[24474] Q: An adolescent girl complains of dropping objects from hands, it gets precipitated during mornin | Ans: Juvenile myoclonic epilepsy
+[24475] Q: A Pediatric 8 yr old patient presented with GTCS convulsions lasting >45 minutes. What shall be | Ans: Lorazepam followed by Levetiracetam
+[24476] Q: Cerebral perfusion pressure equals? | Ans: MAP - ICP
+[24477] Q: A child presented with multiple small nodular swellings on the body and axillary examination sh | Ans: Optic glioma
+[24479] Q: Which of the following factors are not associated with recurrence of febrile seizure? | Ans: Duration of fever >24 hour
+[24480] Q: A child aged 6 years has episodes of frequent falls, progressive muscle weakness and his lower  | Ans: Normal life expectancy
+[24481] Q: A 3-month old infant has the following EEG report. What is the likely diagnosis? | Ans: Hypsarrhythmia
+[24482] Q: ACTH is the drug of choice for? | Ans: West syndrome
+[24483] Q: A patient has been diagnosed as Guillain-Barre Syndrome. All of the following will be effective | Ans: Prednisolone
+[24484] Q: Arnold Chiari malformation is a common association of? | Ans: Meningomyelocele
+[24486] Q: Tongue fasciculations are a characteristic feature of? | Ans: Spinal Muscular Atrophy
+[24487] Q: A 12-year-old boy was playing cricket and got a nasty bouncer, hitting him on head and producin | Ans: Inability to recall his mobile phon
+[24488] Q: A seven-day-old neonate presents with recurrent seizures. Examination reveals tachycardia, S3 g | Ans: Vein of Galen malformation
+[24489] Q: SCN1A gene mutations are responsible for which among the following epilepsy syndrome? | Ans: Dravet Syndrome
+[24490] Q: Persistent "commando crawl" at one year of age indicates which among the following? | Ans: Spastic diplegia
+[24491] Q: A 12-year-old healthy boy has noticed some muscle weakness. He has experienced increasing diffi | Ans: Becker muscular dystrophy
+[24492] Q: Folic acid requirement in pregnancy for prevention of neural tube defects in a lady with previo | Ans: 4000 &mu;g
+[24493] Q: Identify the incorrect match for the drug used and the underlying condition? | Ans: Eteplirsen- ALS
+[24494] Q: A neonate was stillborn. His image is as depicted below. Likely diagnosis? | Ans: Craniorachischisis
+[24495] Q: A neonate was born to a mother who did not take folic acid during pregnancy. The baby was absol | Ans: Spina bifida occulta
+[24496] Q: A 3-year-old child has been diagnosed as a case of pyogenic meningitis on 1st January 2024. He  | Ans: 2nd January, 9 AM
+[24497] Q: In a small child diagnosed with H influenzae associated meningitis, what investigation is neede | Ans: BERA
+[24498] Q: A child has been diagnosed with Pompe's Disease. Enzyme deficient in Pompe's Disease? | Ans: Acid Maltase
+[24499] Q: In an 8-year-old child recently diagnosed with type 1 DM, when should the first evaluation for  | Ans: After 3 years
+[24500] Q: A child has been recently diagnosed as Celiac Disease. His parents ask you for foods which are  | Ans: Semolina
+[24501] Q: A 7-year-old boy presents to you with a 2 cm, painful major aphthous ulcer. Which among the fol | Ans: Topical clotrimazole
+[24502] Q: Red flag signs of vomiting in a child include all except? | Ans: Association with fever
+[24503] Q: Molar ratio of sodium and glucose in WHO low osmolarity ORS is? | Ans: 1:1
+[24504] Q: A 4-year-old child presented with abdominal pain which was acute in nature, vomiting and progre | Ans: Intussusception
+[24505] Q: Not associated with Wilms tumour? | Ans: Retinoblastoma
+[24506] Q: The following X ray skull appearance is most commonly seen in which condition? | Ans: Thalassemia major
+[24507] Q: A 6-year-old girl comes to you for evaluation due to easy fatiguability noticed by the parents. | Ans: <11.5 g/dl
+[24508] Q: Brentuximab vedotin is useful in the management of which malignancy? | Ans: Hodgkin's lymphoma
+[24510] Q: Trilateral retinoblastoma comprises bilateral retinoblastomas plus which of the following? | Ans: Pinealoblastoma
+[24511] Q: A 17-year-old girl presents to clinic with fatigue, pallor, and a recent history of easy bruisi | Ans: Hematopoietic stem cell transplanta
+[24512] Q: Most common intra-abdominal tumour in a 3-year-old child is? | Ans: Wilms tumour
+[24513] Q: Chang Staging is used in which pediatric malignancy? | Ans: Medulloblastoma
+[24514] Q: A 2-year-old has been diagnosed with ALL. Which among the following will be the one having a go | Ans: Age 2-8 years
+[24515] Q: The following columns A and B contain types of Hodgkin's Lymphoma and the corresponding key cha | Ans: 1-R, 2-Q, 3-S, 4-P
+[24516] Q: Which type of vWD behaves similarly to Hemophilia A? | Ans: Type 3
+[24517] Q: The type of disease having severe thrombocytopenia with decreased vWF and mildly decreased fact | Ans: Pseudo-vWD
+[24518] Q: Which of the following drugs is not useful for sickle cell anaemia patients? | Ans: Bebtelovimab
+[24520] Q: A child presented with proptosis. You suspect it to be a chloroma. Next investigation to make t | Ans: Peripheral blood film
+[24521] Q: A 14-months-old child with Haemoglobin - 6.3 g/dL was undergoing repeated blood transfusions. A | Ans: Globin gene sequencing
+[24522] Q: A 3-year-old child is on ventilation with nasal cannula delivering oxygen at 3 L/min. What shal | Ans: 30%
+[24523] Q: Mechanical ventilation needs to be initiated in a child in all of the following ABG conditions  | Ans: Serum bicarbonate value of 18 mEq/L
+[24524] Q: An 11-year-old child has Acute Rheumatic Fever and has no cardiac manifestations. What should t | Ans: 10 years
+[24525] Q: Most consistent sign of infantile CCF? | Ans: Hepatomegaly
+[24528] Q: During a well child visit, a 6-month-old boy demonstrates clinical evidence of craniosynostosis | Ans: Scaphocephaly
+[24531] Q: A 4-year-old child has fever and sore throat since 2 days. On examination there is significant  | Ans: Non-Hodgkins lymphoma
+[24532] Q: According to WHO reports, which of the following is the most commonly reported symptoms in COVI | Ans: Fever
+[24533] Q: A mother brings her 7-year-old child who is becoming very difficult to manage and has significa | Ans: X linked recessive
+[24534] Q: Which of the following statements about a girl with Turner syndrome is true? | Ans: Pigmented nevi are commonly seen, b
+[24535] Q: Which of the following is the most common location of aspirated foreign bodies in children? | Ans: Right main bronchus
+[24536] Q: A 4-month-old infant is brought to you with parents complaining that the child has abnormal sou | Ans: Laryngomalacia
+[24537] Q: A 6-year-old child who is previously diagnosed with Cystic fibrosis, comes with high fever and  | Ans: Staphylococcus aureus
+[24538] Q: Which of the following is the most common adverse effect associated with inhaled corticosteroid | Ans: Oral candidiasis
+[24539] Q: A 12-year-old child comes to you with complaints of wet cough since 4 days and high grade conti | Ans: Pneumocystis carinii
+[24540] Q: Which of the following is not the recommendation for management of exercise induced asthma? | Ans: LABA before exercise
+[24541] Q: A 2-month-old male infant is brought to your office for a health supervision visit. When discus | Ans: Delaying this vaccine increases the
+[24542] Q: An 11-year-old girl visits you with purpose of HPV vaccination. What is the advised schedule fo | Ans: 2 doses at 0, 6 months
+[24543] Q: You are giving vaccine in your OPD and observe following color of VVM in OPV vaccine. What is t | Ans: Can be used till the square is dark
+[24544] Q: You are counselling parents of a 3-year-old child who recently had first episode of simple febr | Ans: 1%
+[24545] Q: A 10-year-old girl has been experiencing recurrent headaches over the last 2 months. There is a | Ans: Early morning headaches
+[24546] Q: A 6 year old female presents with recurrent episodes of 'day dreaming'. Parents report during t | Ans: Ethosuximide
+[24547] Q: Brain perfusion pressure equals | Ans: MAP - ICP
+[24548] Q: Prematurity is major cause of which type of cerebral palsy? | Ans: Spastic diplegia
+[24549] Q: A CNS tumor that predominantly affects the midline vermis, causes hydrocephalus, biopsy shows s | Ans: Medulloblastoma
+[24550] Q: Which is the most severe type of Spinomuscular atrophy among the following? | Ans: Type 1
+[24551] Q: An infant with repeated attacks of seizures has hypsarrhythmia on EEG. She is a known case of t | Ans: Vigabatrin
+[24552] Q: A 4-year-old boy present to clinic with weakness and increased frequency of falls over the past | Ans: Dermatomyositis
+[24553] Q: All the following are features of Arnold Chiari-II malformation except | Ans: Hypoplasia of cerebellar vermis
+[24554] Q: A 15-year-old male patient presents with abdominal pain. For the past several months, he has ha | Ans: IgA anti-TTG
+[24556] Q: Evaluation of a 9-year-old girl with known SCD reveals right-sided weakness and slurring of spe | Ans: Annual transcranial Doppler ultraso
+[24558] Q: A 10-year-old patient has a history of arthritis that started in the ankles, moved to the knees | Ans: 3 weeks
+[24559] Q: As a secondary prophylaxis, what is the accepted therapy in a patient of acute rheumatic fever  | Ans: Benzathine penicillin 1.2 M IU for 
+[24560] Q: Identify the condition seen in a neonate presenting with a head swelling that developed a few w | Ans: Cephalhematoma
+[24561] Q: At what age would a child normally be able to make a tower of 6 cubes, turn a doorknob, and use | Ans: 24 months
+[24562] Q: Which of the following biochemical parameters are correct in vitamin D-dependent rickets? | Ans: B
+[24563] Q: A child is performing poor in school, and with an IQ of 55 comes under: | Ans: Mild intellectual disability
+[24565] Q: A 14-year-old girl presented with firm, non-tender, slow-growing swelling in the left side of n | Ans: Neurofibroma
+[24566] Q: A 14 months old child with Hemoglobin - 6.3 g/dl was undergoing repeated blood transfusions. Th | Ans: Globin gene sequencing
+[24567] Q: A 7-year-old child presented with complaints of bed-wetting almost twice a week. A detailed inv | Ans: Bell and pad based classical condit
+[24568] Q: Bidextrous grasp begins at what age? | Ans: 3 months
+[24569] Q: A child, 13 yrs old was admitted to the pediatric emergency as he started developing breathless | Ans: Haemophilus influenzae type B
+[24570] Q: True about Fragile X Syndrome is? | Ans: Gain of function mutation is seen
+[24572] Q: All are true about renal tubular acidosis in children EXCEPT: | Ans: Type 4 with paradoxical aciduria an
+[24579] Q: A child presented with proptosis. You suspect it to be a chloroma. Next best investigation to m | Ans: Peripheral blood film
+[24580] Q: Site of injection in gluteus ? | Ans: Superolateral
+[24581] Q: 'Secrete of national health lies in the homes of people' statement by ? | Ans: Florence Nightingale
+[24582] Q: Bivalent meningococcal vaccine is ? | Ans: A C
+[24583] Q: According to EVINCE fast breathing in 5 mth child is defined as - | Ans: 50
+[24584] Q: IMNCI target group - | Ans: Upto 5yrs
+[24585] Q: Above which level of heat stress index it is not possible to work comfortably - | Ans: 40 - 60
+[24586] Q: Students receive how much cereal /day in mid day meal prog - | Ans: 75 gm
+[24587] Q: Pica refers to - | Ans: Foreign object being put in the mou
+[24588] Q: CPR with 2 candidate is done at rate of (in infant) - | Ans: 15 : 2

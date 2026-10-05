@@ -1,0 +1,164 @@
+[
+  {
+    "id": 3537,
+    "from": 101,
+    "to": 106,
+    "reason": "Myoglobinuria post-electric burn -> Amino acid/Protein (Mod 106)"
+  },
+  {
+    "id": 3431,
+    "from": 101,
+    "to": 100,
+    "reason": "Fluoride glycolysis inhibitor tube -> Glycolysis (Mod 100)"
+  },
+  {
+    "id": 3723,
+    "from": 101,
+    "to": 91,
+    "reason": "Normal saline hyperchloremic acidosis -> Physiology (Mod 91: Acid-Base)"
+  },
+  {
+    "id": 4064,
+    "from": 101,
+    "to": 134,
+    "reason": "Gaucher disease crumpled tissue paper -> Pathology (Mod 134: Lysosomal Storage)"
+  },
+  {
+    "id": 4563,
+    "from": 101,
+    "to": 118,
+    "reason": "Folate metabolism polyglutamates -> Vitamins (Mod 118: Energy Releasing Vitamins)"
+  },
+  {
+    "id": 4615,
+    "from": 101,
+    "to": 143,
+    "reason": "Vegetarian B12 deficiency megaloblastic anemia -> Pathology (Mod 143: Macrocytic Anemia)"
+  },
+  {
+    "id": 4834,
+    "from": 101,
+    "to": 512,
+    "reason": "Acute pancreatitis statement -> Surgery (Mod 512: Acute Pancreatitis)"
+  },
+  {
+    "id": 3484,
+    "from": 102,
+    "to": 111,
+    "reason": "Excess carb to fat synthesis -> Fatty Acid Biosynthesis (Mod 111)"
+  },
+  {
+    "id": 3540,
+    "from": 102,
+    "to": 99,
+    "reason": "Agar heteroglycan electrophoresis -> Chemistry of Carbohydrates (Mod 99)"
+  },
+  {
+    "id": 3576,
+    "from": 102,
+    "to": 90,
+    "reason": "Renal glucosuria SGLT2 defect -> Physiology (Mod 90: Renal Tubular Functions)"
+  },
+  {
+    "id": 3563,
+    "from": 102,
+    "to": 89,
+    "reason": "Inulin homopolysaccharide GFR -> Physiology (Mod 89: GFR & Clearance)"
+  },
+  {
+    "id": 3577,
+    "from": 102,
+    "to": 124,
+    "reason": "Hybridoma technology HGPRT salvage -> Recombinant DNA Technology (Mod 124)"
+  },
+  {
+    "id": 3583,
+    "from": 102,
+    "to": 601,
+    "reason": "21-hydroxylase CAH 17-OHP -> Pediatrics (Mod 601: CAH)"
+  },
+  {
+    "id": 4536,
+    "from": 102,
+    "to": 92,
+    "reason": "TRH thyroid hormone release -> Physiology (Mod 92: Pituitary and Thyroid)"
+  },
+  {
+    "id": 4466,
+    "from": 102,
+    "to": 105,
+    "reason": "Histidine load test FIGLU -> Amino Acid Metabolism (Mod 105)"
+  },
+  {
+    "id": 3586,
+    "from": 102,
+    "to": 65,
+    "reason": "Phosphagens creatine phosphate muscle -> Physiology (Mod 65: Muscle Physiology)"
+  },
+  {
+    "id": 4564,
+    "from": 102,
+    "to": 119,
+    "reason": "Ascorbic acid gulonolactone oxidase -> Vitamins (Mod 119: Antioxidants & Minerals)"
+  },
+  {
+    "id": 3552,
+    "from": 102,
+    "to": 139,
+    "reason": "IgG highest serum concentration -> Pathology (Mod 139: Components of Immune System)"
+  },
+  {
+    "id": 3930,
+    "from": 102,
+    "to": 109,
+    "reason": "Cephalin / PE clotting phospholipid -> Lipids: Basics (Mod 109)"
+  },
+  {
+    "id": 3596,
+    "from": 103,
+    "to": 110,
+    "reason": "Fatty acid metabolism to Acetyl-CoA -> Fatty Acid Oxidation (Mod 110)"
+  },
+  {
+    "id": 3995,
+    "from": 103,
+    "to": 110,
+    "reason": "Beta-oxidation products -> Fatty Acid Oxidation (Mod 110)"
+  },
+  {
+    "id": 4021,
+    "from": 103,
+    "to": 110,
+    "reason": "Acetyl-CoA ketone bodies starvation -> Ketogenesis (Mod 110)"
+  },
+  {
+    "id": 4462,
+    "from": 103,
+    "to": 105,
+    "reason": "Glutamate dehydrogenase cofactors -> Amino Acid Metabolism (Mod 105)"
+  },
+  {
+    "id": 4493,
+    "from": 103,
+    "to": 102,
+    "reason": "G6PD NADP requirement -> HMP Shunt (Mod 102)"
+  },
+  {
+    "id": 4508,
+    "from": 103,
+    "to": 118,
+    "reason": "PDHC thiamine responsiveness in infant -> Energy Releasing Vitamins (Mod 118)"
+  },
+  {
+    "id": 4238,
+    "from": 103,
+    "to": 102,
+    "reason": "Cytosolic NADPH sources -> HMP Shunt (Mod 102)"
+  },
+  {
+    "id": 4465,
+    "from": 103,
+    "to": 118,
+    "reason": "Thiamine deficiency beriberi post-diuretic -> Energy Releasing Vitamins (Mod 118)"
+  }
+]

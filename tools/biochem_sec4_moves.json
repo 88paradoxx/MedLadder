@@ -1,0 +1,146 @@
+[
+  {
+    "id": 3676,
+    "from": 115,
+    "to": 512,
+    "reason": "Acute pancreatitis lipase/amylase diagnostic rise -> Surgery (Mod 512: Acute Pancreatitis)"
+  },
+  {
+    "id": 4255,
+    "from": 115,
+    "to": 386,
+    "reason": "Anthropology definition social history -> PSM (Mod 386: Social Organization)"
+  },
+  {
+    "id": 4267,
+    "from": 115,
+    "to": 256,
+    "reason": "DPP-4 inhibitors oral antidiabetic -> Pharmacology (Mod 256: Anti-Diabetic Drugs)"
+  },
+  {
+    "id": 4621,
+    "from": 115,
+    "to": 120,
+    "reason": "tRNA degradation pseudouridine purine excretion -> Nucleotide Metabolism (Mod 120)"
+  },
+  {
+    "id": 4365,
+    "from": 115,
+    "to": 264,
+    "reason": "Warfarin poisoning vitamin K reversal -> Pharmacology (Mod 264: Anticoagulants)"
+  },
+  {
+    "id": 4449,
+    "from": 115,
+    "to": 102,
+    "reason": "Pentosuria L-xylulose excretion -> HMP Shunt & Fructose/Galactose (Mod 102)"
+  },
+  {
+    "id": 4732,
+    "from": 115,
+    "to": 185,
+    "reason": "Achondroplasia FGFR3 short limbs -> Pathology (Mod 185: Bone Disorders)"
+  },
+  {
+    "id": 4812,
+    "from": 115,
+    "to": 135,
+    "reason": "Micrognathia low set ears chromosomal aneuploidy -> Pathology (Mod 135: Chromosomal Disorders)"
+  },
+  {
+    "id": 3777,
+    "from": 115,
+    "to": 459,
+    "reason": "LDH-1 H4 flip myocardial infarction -> Medicine (Mod 459: IHD)"
+  },
+  {
+    "id": 4594,
+    "from": 115,
+    "to": 143,
+    "reason": "Post-ileal resection B12 deficiency anemia -> Pathology (Mod 143: Macrocytic Anemia)"
+  },
+  {
+    "id": 4308,
+    "from": 115,
+    "to": 601,
+    "reason": "Classic CAH ambiguous genitalia -> Pediatrics (Mod 601: CAH)"
+  },
+  {
+    "id": 4060,
+    "from": 116,
+    "to": 269,
+    "reason": "NSAIDs COX-1/2 inhibition mechanism -> Pharmacology (Mod 269: NSAIDs)"
+  },
+  {
+    "id": 4328,
+    "from": 116,
+    "to": 264,
+    "reason": "Urokinase fibrinolytic plasminogen conversion -> Pharmacology (Mod 264: Anticoagulants/Thrombolytics)"
+  },
+  {
+    "id": 4353,
+    "from": 116,
+    "to": 139,
+    "reason": "Myeloperoxidase neutrophil antiparasitic toxicity -> Pathology (Mod 139: Immune System)"
+  },
+  {
+    "id": 4363,
+    "from": 116,
+    "to": 117,
+    "reason": "Vitamin D toxicity soft tissue calcification -> Fat Soluble Vitamins (Mod 117)"
+  },
+  {
+    "id": 4366,
+    "from": 116,
+    "to": 117,
+    "reason": "Newborn Vitamin K deficiency sterile gut -> Fat Soluble Vitamins (Mod 117)"
+  },
+  {
+    "id": 4372,
+    "from": 116,
+    "to": 264,
+    "reason": "Methotrexate DHFR competitive inhibitor -> Pharmacology (Mod 264: Anticancer/Antimetabolites)"
+  },
+  {
+    "id": 4110,
+    "from": 116,
+    "to": 93,
+    "reason": "Insulin storage hormone uncontrolled diabetes -> Physiology (Mod 93: The Pancreas)"
+  },
+  {
+    "id": 4349,
+    "from": 116,
+    "to": 601,
+    "reason": "11-beta hydroxylase deficiency hypertension -> Pediatrics (Mod 601: CAH)"
+  },
+  {
+    "id": 3671,
+    "from": 117,
+    "to": 426,
+    "reason": "Alcoholic liver disease ALT elevation -> Medicine (Mod 426: Alcoholic Liver Disease)"
+  },
+  {
+    "id": 4402,
+    "from": 117,
+    "to": 264,
+    "reason": "Warfarin vitamin K antagonist -> Pharmacology (Mod 264: Anticoagulants)"
+  },
+  {
+    "id": 4394,
+    "from": 117,
+    "to": 63,
+    "reason": "Warfarin vitamin K dependent factors gamma-carboxylation -> Physiology (Mod 63: Body Fluids)"
+  },
+  {
+    "id": 4603,
+    "from": 117,
+    "to": 508,
+    "reason": "Choledocholithiasis fat soluble vitamin deficiency -> Surgery (Mod 508: Gall Bladder & Biliary)"
+  },
+  {
+    "id": 4601,
+    "from": 119,
+    "to": 87,
+    "reason": "Iron absorption regulation -> Physiology (Mod 87: Digestion & Absorption)"
+  }
+]

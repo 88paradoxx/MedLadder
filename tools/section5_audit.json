@@ -1,0 +1,200 @@
+[
+  {
+    "id": 2622,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 159,
+    "targetName": "Pathology: [159] Aneurysm and Dissection",
+    "topic": "A 62-year-old man was brought to the emergency department with severe, sudd",
+    "reason": "Acute aortic dissection with tearing chest pain radiating to interscapular back"
+  },
+  {
+    "id": 2649,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 617,
+    "targetName": "Anaesthesia: [617] ACLS",
+    "topic": "A 53-year old woman was brought to the hospital after she became unconsciou",
+    "reason": "Sudden cardiac arrest from ventricular fibrillation resuscitation / ACLS protocol"
+  },
+  {
+    "id": 3159,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 459,
+    "targetName": "Medicine: [459] Ischemic Heart Disease - Presentation and Diagnosis",
+    "topic": "A male patient of age 40 presented with complaint of severe chest pain alon",
+    "reason": "Acute myocardial infarction with retrosternal chest pain and ST segment elevation"
+  },
+  {
+    "id": 2628,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 457,
+    "targetName": "Medicine: [457] Ventricular Arrhythmias and Heart Blocks",
+    "topic": "A 58-year-old male came to the emergency department. Prolongation of the QT",
+    "reason": "Drug-induced QT interval prolongation predisposing to Torsades de pointes"
+  },
+  {
+    "id": 2265,
+    "currentMod": 84,
+    "cross": false,
+    "targetModId": 74,
+    "targetName": "Physiology: [74] Higher Mental Functions",
+    "topic": "Identify the sleep wave marked (5th wave) in the EEG during sleep wake cycl",
+    "reason": "EEG sleep stage delta waves identification during non-REM sleep"
+  },
+  {
+    "id": 2060,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 459,
+    "targetName": "Medicine: [459] Ischemic Heart Disease - Presentation and Diagnosis",
+    "topic": "49-year-old male developed chest pain, nausea and uneasiness. On investigat",
+    "reason": "Acute myocardial infarction with retrosternal chest pain and ST segment elevation"
+  },
+  {
+    "id": 1981,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 226,
+    "targetName": "Pharmacology: [226] Heart Failure Drugs",
+    "topic": "Which of these is not driven by Digitalis?",
+    "reason": "Digoxin pharmacological actions, inotropic mechanism, and electrophysiological toxicity"
+  },
+  {
+    "id": 2659,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 617,
+    "targetName": "Anaesthesia: [617] ACLS",
+    "topic": "A 62-year-old male was brought to the emergency department in an unconsciou",
+    "reason": "Sudden cardiac arrest from ventricular fibrillation resuscitation / ACLS protocol"
+  },
+  {
+    "id": 2596,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 226,
+    "targetName": "Pharmacology: [226] Heart Failure Drugs",
+    "topic": "A 50-year-old male is given digitalis for the treatment of atrial fibrillat",
+    "reason": "Digoxin pharmacological actions, inotropic mechanism, and electrophysiological toxicity"
+  },
+  {
+    "id": 2648,
+    "currentMod": 84,
+    "cross": true,
+    "targetModId": 225,
+    "targetName": "Pharmacology: [225] Anti-Anginal Drugs",
+    "topic": "The patient who suffered from arrhythmia was given Ivabradine that is a fun",
+    "reason": "Ivabradine selective hyperpolarization-activated funny current (If) channel blocker"
+  },
+  {
+    "id": 2114,
+    "currentMod": 85,
+    "cross": false,
+    "targetModId": 74,
+    "targetName": "Physiology: [74] Higher Mental Functions",
+    "topic": "All are true about reticular activating system except",
+    "reason": "Ascending reticular activating system (ARAS) mediating cortical arousal"
+  },
+  {
+    "id": 2615,
+    "currentMod": 85,
+    "cross": false,
+    "targetModId": 83,
+    "targetName": "Physiology: [83] Cardiac Cycle and Cardiac Output",
+    "topic": "Choose whether sentences are T-True or F-false<br>Protodiastole is a phase ",
+    "reason": "Ventricular pressure-volume loop points and phases of the cardiac cycle"
+  },
+  {
+    "id": 2887,
+    "currentMod": 85,
+    "cross": false,
+    "targetModId": 63,
+    "targetName": "Physiology: [63] Body Fluids",
+    "topic": "CSF Pressure is mainly regulated by",
+    "reason": "Cerebrospinal fluid hydrostatic pressure regulation and arachnoid villi bulk absorption"
+  },
+  {
+    "id": 2929,
+    "currentMod": 85,
+    "cross": false,
+    "targetModId": 97,
+    "targetName": "Physiology: [97] Exercise Physiology",
+    "topic": "The main cause of increased blood flow to exercising muscles is:",
+    "reason": "Active hyperemia and metabolic vasodilatation in exercising skeletal muscle"
+  },
+  {
+    "id": 2959,
+    "currentMod": 85,
+    "cross": false,
+    "targetModId": 78,
+    "targetName": "Physiology: [78] Gas Transport in Blood",
+    "topic": "One intern calculated the concentration of O2 in blood as 0.0025ml/ml blood",
+    "reason": "Dissolved oxygen concentration in blood calculated via Henry law solubility coefficient"
+  },
+  {
+    "id": 2634,
+    "currentMod": 85,
+    "cross": true,
+    "targetModId": 544,
+    "targetName": "OB & G: [544] Fetal Assessment and Monitoring",
+    "topic": "Which is responsible for fetal heart rate acceleration?",
+    "reason": "Fetal heart rate acceleration on cardiotocography indicating fetal well-being"
+  },
+  {
+    "id": 2963,
+    "currentMod": 85,
+    "cross": true,
+    "targetModId": 420,
+    "targetName": "Medicine: [420] Cushing Syndrome / Adrenal",
+    "topic": "A 45-year-old woman presents to the clinic with episodes of palpitations, s",
+    "reason": "Pheochromocytoma paroxysmal hypertension triad of headache, sweating, and palpitations"
+  },
+  {
+    "id": 2653,
+    "currentMod": 85,
+    "cross": true,
+    "targetModId": 226,
+    "targetName": "Pharmacology: [226] Heart Failure Drugs",
+    "topic": "A patient is admitted to the ICU with pulmonary edema and features of heart",
+    "reason": "Dobutamine / inotropic support in acute decompensated heart failure with pulmonary edema"
+  },
+  {
+    "id": 2609,
+    "currentMod": 85,
+    "cross": false,
+    "targetModId": 83,
+    "targetName": "Physiology: [83] Cardiac Cycle and Cardiac Output",
+    "topic": "In the provided LV pressure-volume loop diagram, point C represents -<br><i",
+    "reason": "Ventricular pressure-volume loop points and phases of the cardiac cycle"
+  },
+  {
+    "id": 3077,
+    "currentMod": 85,
+    "cross": false,
+    "targetModId": 97,
+    "targetName": "Physiology: [97] Exercise Physiology",
+    "topic": " A 30-year-old male marathon runner presents to the physiology lab for a ca",
+    "reason": "Active hyperemia and metabolic vasodilatation in exercising skeletal muscle"
+  },
+  {
+    "id": 2543,
+    "currentMod": 85,
+    "cross": true,
+    "targetModId": 459,
+    "targetName": "Medicine: [459] Ischemic Heart Disease - Presentation and Diagnosis",
+    "topic": "A 65-year-old male patient presents to the emergency department with chest ",
+    "reason": "Acute myocardial infarction with retrosternal chest pain and ST segment elevation"
+  },
+  {
+    "id": 3143,
+    "currentMod": 85,
+    "cross": true,
+    "targetModId": 227,
+    "targetName": "Pharmacology: [227] Antihypertensive Drugs",
+    "topic": " A 60-year-old male with benign prostatic hyperplasia (BPH) and hypertensio",
+    "reason": "Prazosin / alpha-1 adrenergic blocker therapy in comorbid hypertension and BPH"
+  }
+]

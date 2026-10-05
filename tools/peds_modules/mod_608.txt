@@ -1,0 +1,1055 @@
+================================================================
+MODULE 608: Mixed / Miscellaneous Topics (172 questions)
+================================================================
+
+ID: 4709 | Answer: [C] Transcription of dystrophin mRNA
+QUESTION: A 3-year-old child presented with trouble walking to paediatrician. He is diagnosed with DMD (Duchenne muscular dystrophy) by polymerase chain reaction. Genetic analysis shows that the patient's gene for the muscle protein dystrophin on X chromosome contains a mutation. Mutation is found in its promoter region. Which would be the most likely defective process in this child?
+OPTIONS: A) Translation of dystrophin protein | B) Post translational modification in dystrophin protein | C) Transcription of dystrophin mRNA | D) Post transcriptional modification in dystrophin mRNA
+EXPLANATION: Option A & Option B: Translation is synthesis of protein from mRNA. Mutation in promoter regions does not lead to any problem during translation or post translational modifications. A deficiency of dystrophin mRNA will result in a deficiency in the production of the dystrophin protein. Option C: Mutations in the promoter typically prevent formation of the RNA polymerase II transcription complex, resulting in a decrease in the initiation of mRNA synthesis during transcription. Option D: Post transcriptional modifications like capping, splicing and tailing defects are not a consequence of promoter mutations. Reference: Harper&rsquo;s illustrated biochemistry 32 nd edition CH 36 PN 379
+----------------------------------------------------------------
+
+ID: 8920 | Answer: [D] No treatment required
+QUESTION: A 1-year-old boy is presented with an episode of loss of consciousness followed by jerky movements of his arms and legs for 30 seconds. After this episode, he immediately regained consciousness. The child began crying after his 4-year-old brother snatched a toy from him. The brief shrill cry was followed by a period of expiration; he then turned blue. He had a similar episode 1 week ago when his mother refused to give him ice-cream. Which of the following is the most appropriate next step in management?
+OPTIONS: A) IV Lorazepam | B) IM Midazolam | C) Clonazepam | D) No treatment required
+EXPLANATION: This patient's episode of cyanosis with loss of consciousness following emotional upset (i.e.,frustration) and vigorous crying is indicative of a breath-holding spell.It typically manifest between the age of 6&ndash;18 months. They are typically triggered by emotional distress, as is the case in this patient. The typical sequence includes crying, exhaling, and holding the breath, followed by cyanosis and loss of consciousness. Patients usually resume breathing and regain consciousness in less than 1 minute. Most importantly, parents should be reassured that the condition is benign and their child will outgrow it by the age of 4&ndash;8 years. The diagnosis is usually based on the clinical features and a detailed description of the episode; no treatment is required. Parents should be aware of the triggers of breath-holding spells, such as tantrums, minor injuries, and distress. However, they should not avoid reprimands for fear of triggering an episode. Since several studies suggest an association between breath-holding spells and iron-deficiency anemia, confirmatory tests (e.g., CBC, serum ferritin) may be considered. Iron supplements may decrease the frequency of breath-holding spells in these children. Reference: Basic & Clinical Pharmacology, Fourteenth Edition By Bertram G. Katzung Page number. 428
+----------------------------------------------------------------
+
+ID: 24384 | Answer: [B] Variability with position and posture.
+QUESTION: Which one of the following murmur characteristics supports the diagnosis of an innocent murmur?
+OPTIONS: A) Association with a palpable thrill. | B) Variability with position and posture. | C) Radiation to the neck. | D) Maximum intensity at the left lower sternal border.
+TAG TOPIC: BASICS OF CARDIOLOGY Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 2169
+EXPLANATION: The characteristics of innocent murmur are Medium-pitched, vibratory or "musical," Relatively short systolic ejection murmur, Heard best along the left lower and midsternal border Has no significant radiation to the apex, base, or back. The intensity of the murmur often changes with respiration and position and may be attenuated in the sitting or prone position. It is heard most frequently in children between 3 and 7 years of age. Tags: Topic: BASICS OF CARDIOLOGY Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 2169
+----------------------------------------------------------------
+
+ID: 24385 | Answer: [A] Refer the child to a pediatrics psychologist
+QUESTION: A school nurse called you to see a 6-year-old boy with school refusal, he is always crying after parental leaving, refuses to stay in the classroom, the school nurse informed you that she tried her best during the last 4 weeks; and she met with the parents frequently. Of the following, the BEST action is to?
+OPTIONS: A) Refer the child to a pediatrics psychologist | B) Start selective serotonin reuptake inhibitor treatment | C) Assess the home environment | D) Arrange for parent management training
+EXPLANATION: Management of school refusal typically requires parent management training and family therapy, with school personnel is always indicated; anxious children often require special attention from teachers, counsellors, or school nurses. Parents who are coached to calmly sending child to school and to reward the child for each completed day of school are usually successful; in this scenario this option had been used. In cases of ongoing school refusal, referral to a child psychiatrist or psychologist is indicated. SSRI treatment may be helpful. Young children with affective symptoms have a good prognosis. Reference: Nelson textbook of pediatrics, 20 th edition, pg-146
+----------------------------------------------------------------
+
+ID: 24386 | Answer: [A] Wrist
+QUESTION: A 6 year old child visits you for short stature. To determine the bone age of the child, X ray of which bone must be ordered?
+OPTIONS: A) Wrist | B) Elbow | C) Shoulder | D) Knee
+EXPLANATION: X ray for bone age estimation Tags : Topic : SHORT STATURE Difficulty level : MUST KNOW PYQ : FMGE JAN 2023 Reference : Nelson Pediatric symptom-based diagnosis, pg. 144
+----------------------------------------------------------------
+
+ID: 24390 | Answer: [A] Montelukast
+QUESTION: Which of the following is NOT an essential medication for acute asthma exacerbations?
+OPTIONS: A) Montelukast | B) Albuterol | C) Prednisolone | D) Ipratropium
+EXPLANATION: Montelukast is a leukotriene modifier that is used in the long-term control of asthma. The other medications are used in acute asthma exacerbations. Please note that Salbutamol is also called as Albuterol. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 1106
+----------------------------------------------------------------
+
+ID: 24391 | Answer: [D] Do Serum CK Levels
+QUESTION: A 9 year old girl presents with difficulty in combing, climbing stairs and erythematous lesions at the MCP joints. Gower Sign is positive. What shall be the next step in diagnostic work-up?
+OPTIONS: A) Do RF Levels | B) Do EMG | C) Do Nerve Conduction Studies | D) Do Serum CK Levels
+EXPLANATION: The girl has features of proximal muscle weakness, in the form of clinical features and a positive Gower sign. She also has erythematous papules at MCP joints, likely due to Gottron papules. This picture suggests a clinical possibility of Juvenile Dermatomyositis (JDM). Option A: RF has no role in the diagnosis of JDM Option B: Not done in initial work-up in most cases. As per OP Ghai 10 th Ed, Muscle biopsy and Electromyography (EMG) are invasive procedures and rarely needed, if other parameters are fulfilled. Option C: No role of NCS in JDM Option D: As per EULAR Criteria of JDM, documenting muscle inflammation by raised muscle enzymes like Serum CK, is needed before we make the final diagnosis. Thus, the next step to do will be to see the Serum CK levels Reference : OP Ghai 10 th Edition, Pages 656-657.
+----------------------------------------------------------------
+
+ID: 24392 | Answer: [D] IVIG
+QUESTION: Which among the following is the drug of choice in patients with KD?
+OPTIONS: A) Aspirin | B) Prednisolone | C) Infliximab | D) IVIG
+EXPLANATION: DOC in KD is Single-dose IVIG. Patients with acute KD should be treated with 2 g/kg of IVIG as a single infusion, usually administered over 10-12 hr within 10 days of disease onset, and ideally as soon as possible after diagnosis. In addition, moderate (30-50 mg/kg/day divided every 6 hr) to high-dose aspirin (80-100 mg/kg/day divided every 6 hr) should be administered until the patient is afebrile, then lowered to antiplatelet doses. Other NSAIDs should not be given during therapy with aspirin because they may block the action of aspirin. Reference: OP Ghai 10 th Edition, Page 659, Nelson 21 st Edition, Chapter 191
+----------------------------------------------------------------
+
+ID: 24393 | Answer: [B] Bilateral vestibular schwannomas
+QUESTION: Hallmark finding in neurofibromatosis-2 is?
+OPTIONS: A) Caf&eacute;-au-lait macules | B) Bilateral vestibular schwannomas | C) Axillary freckling | D) Plexiform neurofibromas
+EXPLANATION: Bilateral vestibular schwannomas are the hallmark of NF-2. Other findings are seen in NF-1 Reference: Nelson 21 st Edition, Chapter 614
+----------------------------------------------------------------
+
+ID: 24394 | Answer: [D] All of the above
+QUESTION: The following sign is positive in which among the following conditions?
+OPTIONS: A) Duchenne's muscular dystrophy | B) Pompe's disease | C) Juvenile dermatomyositis | D) All of the above
+EXPLANATION: The given image is showing Gower Sign- The child has proximal muscle weakness and so when he gets up from lying down or squatting position, the child climbs upon his own body. Gower Sign was originally described in DMD but can occur in other conditions also where proximal muscle weakness affects hip girdle muscles bilaterally. Can be seen in Duchenne's muscular dystrophy Pompe's disease Juvenile dermatomyositis Reference: Nelson 21 st Edition, Chapter 627
+----------------------------------------------------------------
+
+ID: 24395 | Answer: [C] CECT Head
+QUESTION: A 3-year-old girl presented with fever since 3 days, vomiting, photophobia, neck stiffness and papilledema. You decide to investigate the child before starting therapy. Which among the following is the investigation of choice in this child?
+OPTIONS: A) Lumbar Puncture | B) Transcranial USG | C) CECT Head | D) MRI Brain
+EXPLANATION: The child has features suggestive of meningitis. Normally, lumbar puncture for CSF analysis is considered the investigation of choice. However, the child is also having papilledema, which suggests a strong possibility of raised ICP. Now, raised ICP is an absolute contraindication for performing LP. Thus, we need to do a non-invasive test, which is sensitive and gives good confirmation of the likelihood of meningitis. Contrast-enhanced CT Scan (CECT) is usually preferred in such cases since it not only delineates meninges inflammation with good sensitivity but can also show dilated ventricles and other sequels associated with raised ICP. Transcranial USG cannot be performed with a good sensitivity in a 3 year old child since the anterior fontanelle will already be closed. MRI Brain is sensitive for picking up inflammation but is time-consuming and can only be done in a stable patient, not in someone with acutely elevated ICP. Reference: Nelson 21 st Edition, Chapter 621
+----------------------------------------------------------------
+
+ID: 24397 | Answer: [D] Raised ceruloplasmin levels
+QUESTION: Wilson disease- All are true except?
+OPTIONS: A) Autosomal recessive inheritance | B) KF rings in eyes | C) Raised hepatic copper levels | D) Raised ceruloplasmin levels
+EXPLANATION: Low serum ceruloplasmin is a key feature of Wilson&rsquo;s disease and is often used as a screening test sometimes. Other options are true. Also remember Reference: Nelson 21 st Edition, Harrison 20 th Ed, page 2983
+----------------------------------------------------------------
+
+ID: 24398 | Answer: [C] Suspected cervical spine injury
+QUESTION: In an unresponsive child with some signs of life present, head-tilt, chin-lift manoeuvre was performed. This manoeuvre to open the airway is contraindicated in which among the following conditions?
+OPTIONS: A) Suspected VF | B) Suspected poisoning | C) Suspected cervical spine injury | D) Suspected blunt abdominal trauma
+EXPLANATION: Head-tilt, chin-lift manoeuvre is done to open the airway in an unresponsive child with signs of life present. One hand is used to tilt the head, extending the neck. The index finger of the rescuer's other hand lifts the mandible outward by lifting the chin. Head-tilt should not be performed if a cervical spine injury is suspected. Reference: OP Ghai 10 th Edition, Page 764, PALS 2020 Guidelines
+----------------------------------------------------------------
+
+ID: 24399 | Answer: [C] Aspirin
+QUESTION: A child is diagnosed with Acute Rheumatic Fever. He also has migratory polyarthritis. Which among the following shall be the preferred drug in the treatment?
+OPTIONS: A) Benzathine Penicillin G | B) Digoxin | C) Aspirin | D) Frusemide
+EXPLANATION: Patients of Acute Rheumatic Fever need suppressive therapy to control the acute inflammation. Either steroids or aspirin are used for this purpose as follows: Carditis with CCF: Use Steroids Carditis without CCF: Either Steroids or Aspirin. But Steroids to be preferred No carditis, only arthritis or other manifestations: Use Aspirin Dose of Steroids- Prednisolone 2 mg/kg for 3 weeks, then tapered over 9 weeks; total duration is 12 weeks Dose of Aspirin- 90-120 mg/kg/day in 4 divided doses for 10 weeks, then tapered over 2 weeks; total duration is 12 weeks. Reference: IAP 2022 Guidelines; OP Ghai 10 th Edition, Page 461
+----------------------------------------------------------------
+
+ID: 24400 | Answer: [C] Viridans Streptococci
+QUESTION: Which among the following is the most common cause of infective endocarditis in children?
+OPTIONS: A) Staphylococcus aureus | B) HACEK pathogens | C) Viridans Streptococci | D) Klebsiella
+EXPLANATION: According To Nelson 21 st Edition, Viridans-type streptococci (&alpha;-hemolytic streptococci groups such as Streptococcus mitis, S. anginosus, S. mutans, S. salivarius, and S. bovis ) and Staphylococcus aureus remain the leading causative agents for endocarditis in pediatric patients. Other organisms cause endocarditis less frequently, and in approximately 6% of cases, blood cultures are negative for any organisms. According to OP Ghai 10 th Edition, Streptococcus viridans, followed by Staph aureus, Enterococci, Pseudomonas aeruginosa and some Gram negative bacilli are responsible for most episodes of infective endocarditis in children. Reference: Nelson 21 st Edition, Chapter 464; OP Ghai 10 th Edition, Page 467
+----------------------------------------------------------------
+
+ID: 24401 | Answer: [D] Irritable bowel syndrome
+QUESTION: Which of the following is not a known risk factor for intussusception?
+OPTIONS: A) Meckle's diverticula | B) Abdominal lymphoma | C) Polyp | D) Irritable bowel syndrome
+TAG TOPIC: INTUSSUSCEPTION Difficulty level: MUST KNOW PYQ: NEET PG 2022 Reference: Nelson textbook of pediatrics, 1 st SA ed, pg no: 1966
+EXPLANATION: Factors increasing the risk of Intussusception Meckel diverticulum (most common) Polyps Henoch-Sch&ouml;nlein purpura Lymphoma and other tumors Post-operative Tags: Topic: INTUSSUSCEPTION Difficulty level: MUST KNOW PYQ: NEET PG 2022 Reference: Nelson textbook of pediatrics, 1 st SA ed, pg no: 1966
+----------------------------------------------------------------
+
+ID: 24404 | Answer: [B] Birbeck Granules
+QUESTION: Which of the following is a characteristic of Langerhans Cell Histiocytosis (LCH)?
+OPTIONS: A) Eosinophils | B) Birbeck Granules | C) Histiocytes | D) Granulomas
+EXPLANATION: Langerhans Cell Histiocytosis (LCH) is a rare disorder characterized by the proliferation of abnormal Langerhans-like cells. The hallmark feature includes the presence of Birbeck granules , which are tennis racket-shaped organelles seen in the cytoplasm of LCH cells under electron microscopy. Other Characteristics: Eosinophils (A): Eosinophils are often found in LCH lesions, but they are not specific or diagnostic. Histiocytes (C): While Langerhans cells are a type of histiocyte, their presence alone is not specific for LCH. Granulomas (D): Granulomas may be present but are not a defining feature of LCH. Key Diagnostic Features of LCH: Immunohistochemistry: LCH cells express CD1a , CD207 (Langerin) , and S100 . Birbeck Granules: Found on electron microscopy and are specific to LCH. Reference : Nelson textbook of Pediatrics, 21st ed., pg. 2710
+----------------------------------------------------------------
+
+ID: 24405 | Answer: [C] Corticosteroids
+QUESTION: Which of the following shall be indicated in severe COVID-19 infection in a child?
+OPTIONS: A) Ivermectin | B) Remdesivir | C) Corticosteroids | D) All of the above
+EXPLANATION: Other Options: Ivermectin: Not recommended for COVID-19 treatment in children or adults, as there is no robust evidence supporting its efficacy in treating COVID-19. Remdesivir: May be used in specific cases of severe COVID-19 in children, but its use is more limited and should be considered under expert guidance. It is not as broadly recommended as corticosteroids
+----------------------------------------------------------------
+
+ID: 24407 | Answer: [A] Ankylosing spondylitis
+QUESTION: Question: A 14-year-old boy presents with back pain and pain in both ankles and left knee. When he bends forward, his lower spine remains straight. There is localized tenderness around the left foot. Likely Diagnosis?
+OPTIONS: A) Ankylosing spondylitis | B) SLE | C) Postinfectious arthritis | D) Polyarteritis nodosa
+EXPLANATION: Ankylosing spondylitis is one of a group of diseases - spondyloarthropathies - which also includes arthritis following inflammatory bowel diseases and chronic reactive arthritis following enteric or genitourinary tract infection. They are characterized by inflammation of the joints and involvement of the axial skeleton. Enthesitis is present and characterized by inflammation at the sites of attachment of ligaments, tendons, fascies and capsules. The diagnosis of a spondyloarthropathy is suggested by onset in an older child with oligoarthritis affecting the hips, knees or ankles and accompanied by enthesitis. Radiographic evidence will help in diagnosing ankylosing spondylitis, and shows evidence of sacroiliitis in the form of extensive sclerosis, erosions of joint margins and apparent widening of the joint space. HLA-B27 occurs in 90% of patients with juvenile ankylosing spondylitis (JAS). The ESR can be high. Iridocyclitis occurs in a quarter of patients with JAS. Controlling pain and minimizing inflammation is the treatment target for these patients. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1171
+----------------------------------------------------------------
+
+ID: 24409 | Answer: [D] Myotonic Dystrophy
+QUESTION: Which of the following neuromuscular disorder occurs due to a trinucleotide repeat defect?
+OPTIONS: A) DMD | B) BMD | C) SMA | D) Myotonic Dystrophy
+EXPLANATION: Myotonic dystrophy occurs due to >80 CTG trinucleotide repeats in DMPK gene on chromosome 19q. The disease shows autosomal dominant inheritance. All the other 3 diseases mentioned in the question arise due to deletions or loss of function of the corresponding genes. Reference: OP Ghai 10 th Edition, Page 616
+----------------------------------------------------------------
+
+ID: 24411 | Answer: [A] 1, 2, 3
+QUESTION: In a child with recurrent UTIs, what is the order of performing investigation in importance on follow-up? 1. Ultrasound 2. Micturating Cystourethrogram 3. DMSA Scan
+OPTIONS: A) 1, 2, 3 | B) 2, 1, 3 | C) 1, 3, 2 | D) 2, 3, 1
+EXPLANATION: As per ISPN & IAP Review Articles Additionally, OP Ghai 10 th Edition says that USG is needed in all children with UTI, which can be done during treatment or preferably after treatment. MCU is done, if indicated after 2-4 weeks of treatment, while DMSA scan for renal scintigraphy is done after 4-6 months of treatment. Reference: ISPN Guidelines; OP Ghai 10 th Edition, Page 509
+----------------------------------------------------------------
+
+ID: 24413 | Answer: [B] Stage 2
+QUESTION: A 6-year-old child has a weight of 12 kg. His urine output is 0.4 ml/kg/hr since last 12 hours and serum creatinine has doubled over the baseline. What is the stage of AKI by KDIGO Criteria?
+OPTIONS: A) Stage 1 | B) Stage 2 | C) Stage 3 | D) Stage 4
+EXPLANATION: Reference: OP Ghai 10 th Edition, Table 17.13, Page 512
+----------------------------------------------------------------
+
+ID: 24414 | Answer: [B] VUR
+QUESTION: A child with recurrent UTI is most likely to show?
+OPTIONS: A) PUV | B) VUR | C) Neurogenic bladder | D) Renal and ureteric calculi
+EXPLANATION: VUR (Vesico-ureteric reflux) refers to the retrograde flow of urine from bladder to pelvis or ureters either during rest or during micturition. Recurrent UTIs occur in 30-50% children and major factors include female sex, age VUR is the most common cause of recurrent UTI in children, overall as well as in females PUV is a common cause of recurrent UTI only in males. Reference: OP Ghai 10 th Edition, Pages 507-511; Nelson 21 st Edition, Chapters 553 And 554
+----------------------------------------------------------------
+
+ID: 24415 | Answer: [A] Bladder exstrophy
+QUESTION: Identify this anomaly in a neonate?
+OPTIONS: A) Bladder exstrophy | B) Gastroschisis | C) Omphalocele | D) Patent vitello intestinal duct
+EXPLANATION: In classic bladder exstrophy, the bladder protrudes from the abdominal wall and its mucosa is exposed. The umbilicus is displaced downward, the pubic rami are widely separated in the midline, and the rectus muscles are separated. In boys, there are complete epispadias with dorsal chordee, and the overall penile length is approximately half that of unaffected boys. The scrotum typically is separated slightly from the penis and is wide and shallow. Undescended testes and inguinal hernias are common. Girls also have epispadias, with separation of the 2 halves of the clitoris and wide separation of the labia. The anus is displaced anteriorly in both sexes, and there may be rectal prolapse. The pubic rami are widely separated. Persons with exstrophy tend to be shorter than normal. Reference: Nelson textbook of Pediatrics, 20 th ed, pg. 2575
+----------------------------------------------------------------
+
+ID: 24416 | Answer: [A] Ultrasound
+QUESTION: A 9-year-old boy complains of sharp shooting pain in right pelvic region for 2 days associated with vomiting. The pain is not relieved with common analgesics. It is waxing and waning since last 3 months. There is a family history of renal stones in father and grandfather. Which of the following investigation should be first line in acute condition?
+OPTIONS: A) Ultrasound | B) Contrast CT abdomen | C) Non-contrast CT abdomen | D) MRI
+TAG TOPIC: SURGICAL ILLNESSES Difficulty level: MUST KNOW Reference: Nelson textbook of Pediatrics, 21 st ed., pg. 2744
+EXPLANATION: Differentials to be considered in this case is Renal stone, appendicitis, bowel obstruction and Ureteropelvic junction obstruction. However, with a strong family history of renal stones with recurrent colicky pain, diagnosis goes more in favor of renal stones. In all the above conditions first line of investigation is Abdominal ultrasound. Option C: If diagnosis still uncertain, consider low-dose non-contrast CT scan of kidneys, ureters and bladder. Option B: The CT is more likely to pick up stones smaller than 3mm , but due to radiation, USG remains the first line. Option D: MRI is used for soft tissue lesions. KEY TAKEAWAYS: The first line of investigation for Renal stones is Abdominal ultrasound . Tags: Topic: SURGICAL ILLNESSES Difficulty level: MUST KNOW Reference: Nelson textbook of Pediatrics, 21 st ed., pg. 2744
+----------------------------------------------------------------
+
+ID: 24418 | Answer: [D] 20mg/day for 10-14 days
+QUESTION: What is the dose of Zinc to be given to a 10-month-old child with acute diarrhea?
+OPTIONS: A) 5mg/day for 10-14 days | B) 5mg/kg/day for 10-14 days | C) 10mg/kg/day for 10-14 days | D) 20mg/day for 10-14 days
+TAG TOPIC: DIARRHOEAL ILLNESS Difficulty level: MUST KNOW PYQ: NEET PG 2022; AIIMS JULY 2020; FMGE DEC 2020; AUG 2020 Reference: IMNCI guidelines, management of acute gastroenteritis
+EXPLANATION: All children ageing more than 6 months suffering from acute diarrheal illness must receive zinc at 20mg/day for 10-14 days . It helps for regeneration of damaged mucosa and reduces diarrhea related mortality. Tags: Topic: DIARRHOEAL ILLNESS Difficulty level: MUST KNOW PYQ: NEET PG 2022; AIIMS JULY 2020; FMGE DEC 2020; AUG 2020 Reference: IMNCI guidelines, management of acute gastroenteritis
+----------------------------------------------------------------
+
+ID: 24420 | Answer: [D] Juvenile Dermatomyositis
+QUESTION: A 4-year-old girl presents with difficulty in going upstairs and leg pains. She is always tired, feels hot and has had some weight loss. The family doctor has seen her on several occasions for eczema that appears on her face and hands. It will disappear and come back within days, even without treatment. The muscle enzyme is 1500 mmol/l, and ESR is 90, with thrombocytosis. Lactate dehydrogenase is high, as is ANA.
+OPTIONS: A) Sjogren's syndrome | B) Bechet's disease | C) SLE | D) Juvenile Dermatomyositis
+TAG TOPIC: JUVENILE DERMATOMYOSITIS Difficulty level: GOOD TO KNOW PYQ: INICET NOV 2022;MAY 2022 Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1182
+EXPLANATION: Juvenile dermatomyositis is the most common inflammatory myopathy in children. It can progress slowly with fatiguability, a low-grade fever and loss of weight, all of which are common. The rash usually appears first over exposed areas, followed by proximal weakness . Periorbital violaceous (heliotropic) erythema occurs across the nasal bridge and around the eyelids. It may involve the upper torso, hands and especially the knuckles . Facial edema is common. Creatinine kinase will be very high, and aldolase, serum aspartate aminotransferase (AST) and lactate dehydrogenase (LDH) will be high, but not specific. An MRI scan is also helpful in diagnosis by using T2-weighted images and fat suppression. This will show the active site of the disease, helping muscle biopsy and EMG testing. Corticosteroids, methotrexate and cyclosporine can be used in management. Long-term complications are calcification and calcified nodules with cardiomyopathies. KEY TAKEAWAYS: Dermatomyositis is a rare autoimmune disease marked by muscle weakness and a distinctive skin rash, often purple in color, affecting areas like the eyelids and knuckles. It primarily impacts the shoulders, hips, and thighs, making everyday movements difficult. Treatment includes corticosteroids and immunosuppressive drugs to control inflammation and prevent muscle damage. Tags: Topic: JUVENILE DERMATOMYOSITIS Difficulty level: GOOD TO KNOW PYQ: INICET NOV 2022;MAY 2022 Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1182
+----------------------------------------------------------------
+
+ID: 24421 | Answer: [B] Doxycycline
+QUESTION: A 3-year-old child presented with high chills with fever, hepatosplenomegaly and a lesion as shown in the picture. Peripheral blood showed thrombocytopenia and transaminitis. What is the drug of choice?
+OPTIONS: A) Azithromycin | B) Doxycycline | C) Penicillin G | D) Levofloxacin
+EXPLANATION: The clinical picture plus image showing single, black eschar is suggestive of Rickettsial infection like Scrub Typhus. The drug of choice in patients, even below 8 yr age is Doxycycline. IP: 10-12 days High fever with chills, headache: Maculopapular rash on Day 4-5 in rd , Splenomegaly in 1/3 rd patients GIT Symptoms in 40%, LAP in 23-93% cases Hallmark: A Single Painless ESCHAR In untreated cases, fever disappears in the 3 rd week HLH Syndrome may occur Leukocytosis, Thrombocytopenia and Transaminitis are common Weil-Felix test may be positive but has availability issues. Reference: OP Ghai 10 th Edition, Page 271
+----------------------------------------------------------------
+
+ID: 24423 | Answer: [A] Antimicrobial prophylaxis to be given
+QUESTION: A 5-year-old child developed diphtheria and was managed appropriately. He has a 3-year-old sibling with whom he had close contact. The sibling is immunized with DPT and had got last diphtheria booster about 22 months back. What is to be done with the contact?
+OPTIONS: A) Antimicrobial prophylaxis to be given | B) No prophylaxis needed | C) Give 1 dose of DT booster | D) Give both antimicrobial prophylaxis and DT booster
+EXPLANATION: Exposure of close contacts to Diphtheria Patient. How to manage? Immunized asymptomatic individuals who have not received a diphtheria toxoid booster within 5 years and inadequately immunized individuals all should receive a diphtheroid toxoid vaccine. Children who have not received their 4 th dose, should also get a DPT booster. Regardless of immunization status, close contacts should receive either erythromycin orally (40 mg/kg/day in four divided doses) for 7-10 days or a single dose of benzathine penicillin G intramuscularly (600,000 units for children weighing Since this child got DPT booster at appropriate time 22 months back, he needs to be given only antimicrobial prophylaxis. Nelson 21 st Ed Also Says: Reference: Nelson 21 st Edition, Chapter 214
+----------------------------------------------------------------
+
+ID: 24424 | Answer: [D] Oral Cefixime
+QUESTION: Which of the following drug is indicated in the empirical treatment of uncomplicated enteric fever in children?
+OPTIONS: A) Injection Ceftriaxone | B) Oral Azithromycin | C) Oral Ciprofloxacin | D) Oral Cefixime
+EXPLANATION: Choice of antimicrobial therapy for enteric fever in children Reference: OP Ghai 10 th Edition, Table 11.13, Page 268
+----------------------------------------------------------------
+
+ID: 24425 | Answer: [B] 10-19 years
+QUESTION: Which among the following is correct regarding definition of adolescent period?
+OPTIONS: A) 10-14 years | B) 10-19 years | C) 10-20 years | D) 10-21 years
+EXPLANATION: Adolescent period is defined as age group between 10-19 years. The period can further be sub-divided into: Early Adolescent period: 10-13 years Mid Adolescent period: 14-16 years Late Adolescent period: 17-19 years Reference: OP Ghai 10 th Edition, Table 2.1
+----------------------------------------------------------------
+
+ID: 24426 | Answer: [C] 8-9 months
+QUESTION: A child has just started to move on all 4 limbs as shown below. When does the following movement begin in a child?
+OPTIONS: A) 5-6 months | B) 6-7 months | C) 8-9 months | D) 9-12 months
+EXPLANATION: The child being shown in the image is doing crawling, which begins at 8-9 months. In crawling, abdomen is touching the ground. Creeping, which involves abdomen lifted off the ground, comes about 1 month later at 9-10 months. Reference: OP Ghai 10 th Ed, Page 25
+----------------------------------------------------------------
+
+ID: 24427 | Answer: [B] Less than 1 hr
+QUESTION: Maximum screen time allowed by AAP & WHO for a child aged 2-5 years is?
+OPTIONS: A) Absolutely avoided | B) Less than 1 hr | C) 2-4 hr | D) As much as the child wants
+EXPLANATION: According to WHO, children upto 24 months should avoid screen time (mobiles/laptops/TVs/Computers) completely, except for video-chatting. But for children between 2-5 years, upto 1 hour of screen time is allowed in the presence of the parents. Reference: OP Ghai 10 th Edition, Page 38
+----------------------------------------------------------------
+
+ID: 24428 | Answer: [D] 18-20 months
+QUESTION: Both the ability to run independently and social behaviour of separation anxiety in a child are present together at what age?
+OPTIONS: A) 6-7 months | B) 12-15 months | C) 15-16 months | D) 18-20 months
+EXPLANATION: Child is able to run stiffly but independently around 18 months of age as per OP Ghai & Nelson. The child also develops separation anxiety, esp at night, when parents are not around starting from 18 months of age. So the age at which both will be present together shall be option D, i.e., 18-20 months of age. Reference: OP Ghai 10 th Ed, Table 3.1; Nelson 21 st Edition, Chapter 23
+----------------------------------------------------------------
+
+ID: 24429 | Answer: [C] 36 months
+QUESTION: Handedness gets established at what age?
+OPTIONS: A) 12 months | B) 24 months | C) 36 months | D) 48 months
+EXPLANATION: Handedness develops in a child at 3 years of age, i.e., 36 months of age. As per Nelson, 'Handedness is usually established by the 3rd year. Frustration may result from attempts to change children's hand preference.' Reference: Nelson 21 st Edition, Chapter 24.
+----------------------------------------------------------------
+
+ID: 24431 | Answer: [C] Hypoglycemia
+QUESTION: Asymmetric moro's reflex is seen in all of the following conditions, except?
+OPTIONS: A) Spastic hemiplegia | B) Erb's palsy | C) Hypoglycemia | D) Fracture clavicle
+EXPLANATION: Asymmetric moro's reflex means absence of Moro on one side of the body. Causes include Erb's palsy- C5C6 Injury Fracture Clavicle Fracture Humerus Shoulder Dislocation Spastic Hemiplegia pr Hemiparesison the affected side Kindly note that Hypoglycemia tends to produce exaggerated Moro's reflex, not asymmetric moro's Reflex. Reference: Nelson 21 st Edition, Chapter 608
+----------------------------------------------------------------
+
+ID: 24433 | Answer: [B] 6-8 hours
+QUESTION: Expressed breast milk can be stored at room temperature for how much time?
+OPTIONS: A) 4 hours | B) 6-8 hours | C) 8-10 hours | D) 12 hours
+EXPLANATION: A mother can express breast milk if she cannot feed her neonate immediately and this expressed breast milk (EBM) can be stored as follows: At room temperature- For 6 to 8 hours In a refrigerator- For 24 hours In a freezer at -20 Degrees Celsius- For 3 to 6 months Please note that values differ according to country-specific guidelines & the above values as per the Latest editions of OP Ghai & AIIMS Publications. Reference: OP Ghai 10 th Edition, Page 146
+----------------------------------------------------------------
+
+ID: 24434 | Answer: [B] Only observation is needed
+QUESTION: A child was delivered by normal vaginal delivery and immediate post-delivery, it was noticed that the child had a swelling on his scalp. The swelling was soft, mainly present in the frontal area with some extension to the adjacent parietal area and X-ray of the skull did not reveal any underlying skull fracture. What is true regarding this condition?
+OPTIONS: A) Cephalohematoma is a likely possibility | B) Only observation is needed | C) May persist for 3-6 weeks | D) Needle suction may be needed if size >2 cm
+EXPLANATION: The given clinical description suggests the presence of a caput succedaneum. Most such patients improve with observation alone & the swelling tends to disappear in 48-72 hours. Also note the following: Reference: OP Ghai 10 th Edition, Page 135
+----------------------------------------------------------------
+
+ID: 24435 | Answer: [C] Webbing of the neck
+QUESTION: A 7-year-old girl is taken for a health check-up as her parents feel she is too short. Her height is less than the 3rd centile and she has non-pitting edema of both lower limbs. Her blood pressure is 130/92mmHg in both upper limbs and a radio femoral delay is noted on simultaneous palpation of pulses. What additional finding do you expect on general examination of this girl?
+OPTIONS: A) Long 4th metacarpals | B) Up slanting palpebral fissures | C) Webbing of the neck | D) Decreased inter nipple distance
+EXPLANATION: The patient in the scenario has short stature, hypertension, non-pitting edema on limbs suggesting lymphedema and examination findings consistent with coarctation of the aorta (HTN + Radio-femoral delay). All these are suggestive of Turner Syndrome. Both bicuspid aortic valves and coarctation of the aorta are common among individuals with Turner syndrome. Bicuspid aortic valves occur in up to 50% of patients with Turner syndrome while coarctation of aorta occurs in up to 20% of cases. Physical findings in patients with Turner syndrome include nonpitting edema of the lower extremities, wide spaced nipples and webbing of neck. Reference: Nelson textbook of pediatrics, 20 th edition, pg-2744
+----------------------------------------------------------------
+
+ID: 24436 | Answer: [C] Low FSH
+QUESTION: All of the following are consistent with Klinefelter Syndrome except?
+OPTIONS: A) Tall for age | B) Hyalinization of seminiferous tubules | C) Low FSH | D) Hypertrophy of Leydig cells in testes
+EXPLANATION: Let us see each options individually Option A- Most patients with Klinefelter Syndrome are tall for age. Option B- Testicular biopsy often reveals hyalinization of seminiferous tubules in these patients Option C: Klinefelter Syndrome is characterized by hypergonadotropic hypogonadism. This means that patients have high FSH, high LH and low testosterone. Option D: In long standing cases, hypertrophy of Leydig cells in testes can be found. Among all options, Option C is not consistent with Klinefelter Syndrome and thus the answer. Reference: OP Ghai 10 th Ed, Page, Nelson 21 st Ed, Chapter
+----------------------------------------------------------------
+
+ID: 24437 | Answer: [C] Klinefelter Syndrome
+QUESTION: A couple did not have a child for more than 3 years and went for check-up. The check-up of lady was normal but the male was found to have tall limbs, gynecomastia, scant pubic and facial hair as well as small testes. He had history of loud, aggressive and anti-social behaviour in his school days and adolescent period. What is the likely diagnosis?
+OPTIONS: A) Noonan Syndrome | B) Asperger Syndrome | C) Klinefelter Syndrome | D) Marfan Syndrome
+EXPLANATION: Tall limbs, gynecomastia, small testes and lack of secondary sexual characters are a feature of Klinefelter Syndrome. Mostly infertile and have frequent behavioural problems IQ is suboptimal to low Patients have hypergonadotropic hypogonadism Reference: Nelson 21 st Ed Chapter 601.1, Ghai 10 th Ed, Page 669
+----------------------------------------------------------------
+
+ID: 24438 | Answer: [D] Mosaics with additional Y chromosome material
+QUESTION: Prophylactic gonadectomy is indicated for which Turner Syndrome patients?
+OPTIONS: A) Not indicated | B) All patients with Turner Syndrome | C) Those having ring chromosomes | D) Mosaics with additional Y chromosome material
+EXPLANATION: Mosaicism involving the Y chromosome occurs in 5% cases of Turner Syndrome. They often have a genotype of 45,XO/46,XY. Gonadoblastoma among Y-positive patients occurs in 7-10% of such patients. Therefore the recommendation is that prophylactic gonadectomy for streak gonads should be performed even in the absence of MRI or CT evidence of tumors. The recommended timing of this procedure is at the time of diagnosis. Reference: OP Ghai 10 th Ed, Page 669; Nelson 21 st Ed, Chapter 604.1
+----------------------------------------------------------------
+
+ID: 24439 | Answer: [C] Right main bronchus
+QUESTION: Which of the following is the most common location of aspirated foreign bodies going into the lower airway in children?
+OPTIONS: A) Left lower bronchus | B) Left main bronchus | C) Right main bronchus | D) Trachea
+EXPLANATION: The right main bronchus has a predilection for foreign body impaction because it is wider and shorter than the left and the right main bronchus has more direct extension of the trachea than the left main bronchus. Reference: Nelson textbook of pediatrics, 1 st SA ed., pg. 2040
+----------------------------------------------------------------
+
+ID: 24440 | Answer: [B] Short epiglottis
+QUESTION: Pediatric airway is different from adult in which aspect?
+OPTIONS: A) Small tongue | B) Short epiglottis | C) Narrowest part is glottis | D) Larynx in lower position
+EXPLANATION: Features of pediatric airway compared to an adult airway include the following Relatively larger tongue Short epiglottis Larynx is placed higher Subglottic area is the narrowest part Reference : Interventional Pulmonology- An Update/Page 73
+----------------------------------------------------------------
+
+ID: 24441 | Answer: [D] All of the above
+QUESTION: A 5-year-old girl with a family history of bronchial asthma, presents to emergency with a history of difficulty in breathing. She is sitting, not talking, and looks very anxious. Her saturation in 5 L of oxygen via a facemask is <90%. She is using her accessory muscles, has no audible wheeze and is a known asthmatic. She was playing outside when her mother found her crying and noticed that her breathing was very shallow. She gave her 10 puffs of salbutamol via a spacer and brought her to hospital. What are the plans of action for this patient?
+OPTIONS: A) Give nebulized salbutamol | B) Intravenous Hydrocortisone | C) Intravenous Magnesium Sulphate can be considered | D) All of the above
+EXPLANATION: As per the details given, the child is having Life-threatening asthma (SpO2 For life-threatening asthma, previously called as status asthmaticus, all the above-mentioned modalities are started. They should receive Oxygen, Injection of Terbutaline or Adrenaline Subcutaneously, Nebulization with Salbutamol, with or without Ipratropium Bromide. An injection of 5 mg/kg Hydrocortisone is given intravenously and patient is transferred to Pediatric ICU If no improvement or deteriorates, we can consider a slow IV infusion of Magnesium Sulphate (50 mg/Kg). Theophylline can also be considered as an alternative. If there is no improvement in clinical status, intubation and mechanical ventilation is the eventual resort. Reference: OP Ghai 10 th Edition, Page 415; Nelson textbook of pediatrics, 1 st SA ed., pg. 1106
+----------------------------------------------------------------
+
+ID: 24442 | Answer: [A] Insert a large bore needle on right side
+QUESTION: A young man presents to the emergency department with shortness of breath and chest pain. His HR is 120, BP is 80/50, JVP elevated, and trachea shifted to left. His oxygen saturation is 70% in spite of supplemental oxygen. What is the next step of management?
+OPTIONS: A) Insert a large bore needle on right side | B) Insert a large bore needle on left side | C) Arrange for an urgent chest X-ray and meanwhile give high doses of inhaled oxygen | D) Emergency tracheostomy to secure airway
+EXPLANATION: The clinical features are suggestive of tension pneumothorax. The next step in management is to insert a large bore needle on the right side. Massive pleural effusion can also present similarly but will not have such an acute and dramatic presentation. Reference: Nelson 20 th Ed/Page 2137
+----------------------------------------------------------------
+
+ID: 24443 | Answer: [D] 1 and 4 are correct
+QUESTION: Which among the following is/are true statements regarding sweat and pancreatic secretions chloride levels in Cystic Fibrosis? 1. Chloride excretion is increased in sweat 2. Chloride excretion is decreased in sweat 3. Chloride concentration is increased in pancreatic secretions 4. Chloride concentration is decreased in pancreatic secretions
+OPTIONS: A) Only 1 is correct | B) 2 and 3 are correct | C) 1 and 3 are correct | D) 1 and 4 are correct
+EXPLANATION: In Cystic Fibrosis Reference: OP GhaI 10 th Edition, Pages 417-418, Nelson 21 st Edition, Chapter 432
+----------------------------------------------------------------
+
+ID: 24444 | Answer: [A] Oral amoxicillin
+QUESTION: Drug of choice for chest-indrawing pneumonia in a one year old child is?
+OPTIONS: A) Oral amoxicillin | B) Oral cotrimoxazole | C) IV Ampicillin + Gentamycin | D) IV Ceftriaxone
+EXPLANATION: According to latest guidelines, oral amoxicillin at a dose of 80 mg/kg in 2 divided doses is recommended for pneumonia as well as chest-indrawing pneumonia in children aged 2 months to 5 years. Reference: OP Ghai 10 th Edition, Page 815
+----------------------------------------------------------------
+
+ID: 24445 | Answer: [D] Staphylococcus
+QUESTION: Most common cause of empyema in a child aged 2 years is?
+OPTIONS: A) E. coli | B) Pneumococcus | C) Klebsiella | D) Staphylococcus
+EXPLANATION: Staphylococcus aureus is the most common cause of empyema in young children upto 2 to 3 yr of age. In older children Strep pyogenes is more common. Also note the criteria to define empyema The effusion is an empyema if bacteria are present on Gram staining, the pH is 100,000 neutrophils/&micro;L Reference: Nelson 21 st Edition, Chapter 429
+----------------------------------------------------------------
+
+ID: 24446 | Answer: [A] Chloride
+QUESTION: A 3-year-old boy has complaints of chronic cough, foul-smelling bulky and sticky stools, poor weight gain. On kissing the child, salty taste is felt by the parents. History of sibling death who had similar complaints. CFTR gene mutation was detected. Which ion abnormality should be checked for confirmation of the diagnosis
+OPTIONS: A) Chloride | B) Potassium | C) Sodium | D) Bicarbonate
+EXPLANATION: Poor weight gain, steatorrhea, chronic cough & salty kiss are all indicative of Cystic Fibrosis. Cystic Fibrosis is due to CFTR gene mutations, which produce Chloride channel dysfunction or absence, producing the characteristic features. Reference: Nelson 21 st Edition, Chapter 432
+----------------------------------------------------------------
+
+ID: 24447 | Answer: [B] Primary ciliary dyskinesia
+QUESTION: Nasal Nitric Oxide measurement is useful to screen for which among the following conditions?
+OPTIONS: A) Exercise-induced asthma | B) Primary ciliary dyskinesia | C) ABPA | D) Interstitial Lung Disease
+EXPLANATION: Studies showed that nasal nitric oxide concentrations are reduced in subjects with Primary Ciliary Dyskinesia (PCD). Because nasal nitric oxide measurements are relatively easy to perform and non-invasive, this method is a promising screen and potentially a diagnostic test for PCD, provided that cystic fibrosis has been excluded. Currently this is used as a screening test for PCD in children aged 5 years and above. Nasal nitric oxide during plateau 2 months apart (with CF excluded) is suggestive of PCD. Reference: Nelson 21 st Edition, Chapter 433
+----------------------------------------------------------------
+
+ID: 24448 | Answer: [A] Inspiratory
+QUESTION: A child with noisy breathing was found to have stridor on examination. His laryngoscopic finding is as shown below. What is the likely type of stridor in this child?
+OPTIONS: A) Inspiratory | B) Expiratory | C) Biphasic | D) Any of them can occur
+EXPLANATION: The child is having laryngomalacia since he has stridor & laryngoscopy showing the typical omega-epiglottis. In Laryngomalacia, supraglottic part of the larynx is involved, and thus most patients have episodic or intermittent inspiratory stridor. Remember the concept Supraglottic Obstruction: Inspiratory Stridor is present Infraglottic or Trachel Obstruction: Biphasic Stridor is present Reference: OP Ghai 10 th Edition
+----------------------------------------------------------------
+
+ID: 24449 | Answer: [B] 2, 3, 4
+QUESTION: Which of the following treatments must be used when a child presents in Status asthmaticus? 1. Chest X ray 2. Salbutamol nebulization 3. Oxygen supplementation 4. Oral prednisolone
+OPTIONS: A) 1, 2, 3 | B) 2, 3, 4 | C) 1, 2, 3, 4 | D) 2, 4
+EXPLANATION: Management strategy of Status asthmaticus includes: Supplemental oxygen Bronchodilators- Levosalbutamol/Albuterol/Terbutaline Systemic corticosteroids- Prednisolone or Hydrocortisone Anticholinergics- Ipratropium Adrenaline Injection can be considered Refractory Cases: IV MgSO4 or IV Theophylline Infusions Last Resort: Intubation & Mechanical Ventilation There is no immediate role of Chest x ray in an established case of Asthma. Reference: OP Ghai 10 th Edition, Page 415; Nelson textbook of pediatrics, 1 st SA ed., pg. 1106
+----------------------------------------------------------------
+
+ID: 24450 | Answer: [D] Day and night variation of FEV1 >15%
+QUESTION: All the following PFT findings in a child are suggestive of asthma except?
+OPTIONS: A) Increase in FEV1>12% after salbutamol inhalation | B) FEV1/FVC < 80% | C) Fall in FEV1 >15% after exercise | D) Day and night variation of FEV1 >15%
+EXPLANATION: Lung Function Abnormalities in Asthma Spirometry (in clinic): Airflow limitation: Low FEV1 (relative to percentage of predicted norms) FEV1: FVC ratio Bronchodilator response (to inhaled &beta;-agonist): Improvement in FEV1 &ge;12% and &ge;200 mL Exercise challenge: Worsening in FEV1 &ge;15% Daily peak flow or FEV1 monitoring: day to day and/or A.M.-to-P.M. variation &ge;20% Reference: OP Ghai 10 th Edition, Page 408; Nelson textbook of Pediatrics, 20 th ed., 1099
+----------------------------------------------------------------
+
+ID: 24451 | Answer: [A] Cystic fibrosis
+QUESTION: Chloride level is tested in which disease?
+OPTIONS: A) Cystic fibrosis | B) Gaucher's disease | C) Osteogenesis Imperfecta | D) Wilson's disease
+EXPLANATION: The sweat test, which involves using pilocarpine iontophoresis to collect sweat and performing chemical analysis of its chloride content, is the standard approach to diagnosis of Cystic Fibrosis. Cystic fibrosis is an inherited disease caused by mutations in a gene called the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Reference: Nelson Textbook of Pediatrics, 20 th ed., pg. 2104
+----------------------------------------------------------------
+
+ID: 24452 | Answer: [B] Class II
+QUESTION: A child has been diagnosed recently as Cystic Fibrosis and his gene analysis report revealed deletion in Phenylalanine residue at position 508. What class of mutation does it belong to?
+OPTIONS: A) Class I | B) Class II | C) Class III | D) Class IV
+EXPLANATION: Six Classes of mutations producing Cystic Fibrosis Among these, most common mutations are in Class 2, which includes Delta F508, now known as Del508 Phe mutation. Deletion at 508 position is the most common cause of Cystic Fibrosis overall. Reference: Nelson 21 st Edition, Chapter 432
+----------------------------------------------------------------
+
+ID: 24453 | Answer: [D] Ivacaftor
+QUESTION: All of the following new molecular agents are CFTR correctors except?
+OPTIONS: A) Lumacaftor | B) Elexacaftor | C) Tezacaftor | D) Ivacaftor
+EXPLANATION: The new molecular agents used in Cystic Fibrosis belong to broadly 2 categories CFTR Potentiators : Potentiate & facilitate channel opening. These work best in Class 3 mutations like G551D. Example: Ivacaftor CFTR Correctors : Facilitate proper processing and trafficking of the channel to the cell surface. These work best in Class 2 mutations like Del508Phe. Examples include Tezacaftor, Elexacaftor & Lumacaftor. Note : Many commercial preparations combine both category of drugs to have a synergistic action. Reference: Nelson 21 st Edition, Chapter 432, Cystic Fibrosis Foundation Guidelines
+----------------------------------------------------------------
+
+ID: 24454 | Answer: [D] Differential Pulses
+QUESTION: Kartagener Syndrome is characterized by all of the following except?
+OPTIONS: A) Sinusitis | B) Bronchiectasis | C) Situs Inversus | D) Differential Pulses
+EXPLANATION: Kartagener Syndrome is characterized by a triad of Bronchiectasis Situs Inversus Sinusitis Please note that Kartagener Syndrome occurs in about 50% patients with Primary Ciliary Dyskinesia. Reference: Nelson 21 st Edition, Chapter 433
+----------------------------------------------------------------
+
+ID: 24455 | Answer: [A] Inhaled Budesonide
+QUESTION: A 7-year-old child with a strong family history of bronchial asthma has multiple episodes of wheeze and cough whenever he plays or runs. He is diagnosed with exercise-induced bronchoconstriction. What shall be the prophylaxis of choice?
+OPTIONS: A) Inhaled Budesonide | B) Inhaled Salbutamol | C) Inhaled Salmeterol | D) Oral Montelukast
+EXPLANATION: Very Controversial. Read carefully. No cut-copy-paste here. As per GINA 2023 guidelines, regular treatment with inhaled corticosteroids (ICS) like Budesonide significantly reduces exercise-induced bronchoconstriction (EIB). Training and sufficient warm-up prior to exercise also reduce the incidence and severity of EIB. Now as per OP Ghai 10 th Edition, taking SABA prior to exercise can prevent EIB. However for regular prophylaxis, their use has limitations. According to GINA 2023 guidelines, Use of SABA, LABA and oral chromones like Sodium Cromoglycate prior to exercise can be beneficial, but tolerance develops to their use, restricting long-term efficacy Limited data is there regarding usefulness of Montelukast for EIB. Hence the answer here is Inhaled Budesonide. In future MCQs, if ICS not in options, SABA can be the next best possible answer. Reference: GINA 2023 Guidelines- Full Report, Page 114; OP Ghai 10 th Edition, Page 414
+----------------------------------------------------------------
+
+ID: 24456 | Answer: [A] Bivalent OPV
+QUESTION: All of the following vaccines are excluded from open vial policy except?
+OPTIONS: A) Bivalent OPV | B) BCG | C) MR | D) Rotavirus
+EXPLANATION: Open vial policy allows reuse of previously open multi-dose vials of vaccines upto 4 weeks, provided the vaccines are stored aseptically, the cold chain is maintained and the expiry date has not crossed. Under UIP, its used in OPV, DT, DPT, TT etc. Not applicable in BCG, MR, Rotavirus and JE Rotavirus vaccine is NOT a part of Open Vial Policy. There is no such update. Vaccines come as a single use vials only, in the NIS now. Reference: Guidelines on Open Vial Policy for using multi-dose vials in Universal Immunization Program. MoHFW, Immunization Division, New Delhi, India. 2015.
+----------------------------------------------------------------
+
+ID: 24457 | Answer: [B] MR Vaccine s.c. on right arm & Oral Vit A, at 9 months completed
+QUESTION: A baby has received BCG at birth and has been vaccinated at 14 weeks. Which of the following shall be given on the next visit, along with route and site?
+OPTIONS: A) MR Vaccine s.c. on left arm & Oral Vit A, at 9 months completed | B) MR Vaccine s.c. on right arm & Oral Vit A, at 9 months completed | C) MR Vaccine s.c. on left arm & Oral Vit A, at 8 months completed | D) MR Vaccine s.c. on right arm & Oral Vit A, at 8 months completed
+EXPLANATION: As per National Immunization Schedule, the child will next require vaccination at 9-12 months, i.e., 9 completed months of age. Vaccines given are MR Vaccine- Dose of 0.5 ml subcutaneously, given in right upper arm at the insertion of deltoid. Oral Vitamin A Drops- 1 Lakh IU Given Orally In addition, JE vaccine is given in endemic areas and since 2023, 3 rd dose of fractional IPV has also been introduced at 9-12 months of age. Reference: OP Ghai 10 th Edition, Page 198
+----------------------------------------------------------------
+
+ID: 24459 | Answer: [C] If the inner square is same as outer circle, use the vaccine
+QUESTION: Are all the following statements about the vaccine vial monitor are correct except?
+OPTIONS: A) If the inner square is lighter than outer circle, use the vaccine | B) If the inner square is changing colour but still lighter than outer circle, use the vaccine | C) If the inner square is same as outer circle, use the vaccine | D) If the inner square is darker than outer circle, discard the vaccine
+EXPLANATION: Reference: IAP guidebook on immunization, 3 rd ed., pg. 64
+----------------------------------------------------------------
+
+ID: 24460 | Answer: [C] Give DPT 2nd dose
+QUESTION: A child reports to you at 1 year of age. He has received DPT at 6 weeks of age but was lost to follow-up. What should be the next vaccination strategy regarding DPT vaccine?
+OPTIONS: A) DPT full course should be repeated | B) Only DT needs to be given now | C) Give DPT 2nd dose | D) No need of DPT now
+EXPLANATION: If a primary dose of DPT, IPV, Hib, PCV, Hep A, Hep B or MR vaccine is missed, subsequent immunization should be given at the next visit as if the usual interval had elapsed. OP Ghai Textbook says 'A delay or lapse in the administration of a dose does not require the schedule to be repeated; the missed dose is administered and the course resumed at the point it was interrupted. Delaying the dose does not affect adversely the rates of seroconversion or titers. Reference: Reference: OP Ghai 10 th Edition, Page 188; WHO Update March 2023; IAP guidebook of immunization, 2018, pg. 87
+----------------------------------------------------------------
+
+ID: 24462 | Answer: [B] Td
+QUESTION: Which of the following vaccines do you recommend for a 10-year-old school child according to the national immunization schedule?
+OPTIONS: A) Typhoid | B) Td | C) TT | D) Chickenpox
+EXPLANATION: According to NIP, at 10 and 16 years of age, Td vaccine is recommended. Reference: OP Ghai 10 th Edition, Page 197
+----------------------------------------------------------------
+
+ID: 24463 | Answer: [B] Risk of severe dengue infection
+QUESTION: Dengvaxia is a globally licensed vaccine against Dengue, but is not available in India owing to concerns over a specific adverse effect. What is that adverse effect?
+OPTIONS: A) Risk of Guillain-Barre Syndrome | B) Risk of severe dengue infection | C) Risk of toxic shock syndrome | D) Risk of multiple sclerosis
+EXPLANATION: Dengvaxia is the only dengue vaccine, which has been licensed for global use. Children aged 9-16 years living in endemic areas and with laboratory confirmation of previous dengue infection are eligible Requires 3 doses at 0,6 and 12 months. Has relatively low protection against Type 2 dengue Infection. Large scale implementation has not been done in India yet owing to safety concerns. One particular concern is the risk of severe dengue infection in those were initially seronegative for any dengue infection. Two more Dengue Vaccines- LATV and DenVax are currently in Phase III Clinical Trials. Reference: OP Ghai 10 th Edition, Page 211
+----------------------------------------------------------------
+
+ID: 24464 | Answer: [C] Inactivated Vero cell culture derived Kolar strain
+QUESTION: Japanese B Encephalitis Vaccine is recommended in the National Immunization Schedule in endemic areas. Which type of JE Vaccine is currently used in NIS?
+OPTIONS: A) Live attenuated | B) Inactivated cell culture-derived | C) Inactivated Vero cell culture derived Kolar strain | D) All of the above
+EXPLANATION: The current JE vaccine used is JENVAC. JENVAC is a single dose inactivated Japanese Encephalitis (JE) Vaccine. This Vero cell derived vaccine is prepared from an Indian strain (Kolar- 821564XY) of the JE virus. JENVAC has been developed in collaboration with the National Institute of Virology, India. Reference: OP Ghai 10 th Edition, Pages 202-203
+----------------------------------------------------------------
+
+ID: 24465 | Answer: [A] Give DPT
+QUESTION: A 10-week-old child has come for vaccination. In the previous visit at 6 weeks, post-vaccination, the child had developed fever of 40 C and inconsolable crying for 1 hour. What next should be done?
+OPTIONS: A) Give DPT | B) Give DT | C) Avoid DPT in any form | D) Defer vaccination for 1 month
+EXPLANATION: The question is a tricky one. In the previous visit at 6 weeks, following DPT vaccine, the child had fever of 40 Degrees Celsius & inconsolable crying for 1 hour. Please note that none of them is contraindication or precaution to use of DPT in the next visit. Hence, the child should receive DPT Vaccine safely in the next visit at 10 weeks. Contraindications for DPT Vaccine Anaphylaxis after the previous dose Encephalopathy within 7 days of the dose Progressive neurological disease- Relative Contraindication Precautions for DPT Vaccine Fever >40.5 Degrees Celsius within 48 hours Hypotonic-Hyporesponsive Episode in Persistent inconsolable crying for >3 hours Seizures in Kindly note that if there is any contraindication, DPT vaccine should not be used. If any event mentioned in Precautions is seen with the previous vaccine & then in the 2 nd vaccine too, then we change DPT to DT vaccine in the 3 rd visit. Reference: OP Ghai 10 th Edition, Page 196
+----------------------------------------------------------------
+
+ID: 24466 | Answer: [D] DPT, OPV, MR
+QUESTION: An unvaccinated 13-month child comes to your clinic. What vaccines will be given at the 1st visit?
+OPTIONS: A) BCG, DPT, MR, OPV | B) DPT, Rotavirus, OPV, MR | C) Pentavalent, OPV, MR | D) DPT, OPV, MR
+EXPLANATION: Remember the concept that under national immunization schedule, the upper limit for catch-up vaccine in missed doses is 1 year for BCG, Pentavalent & Rotavirus Vaccines. Now since the age of this patient is >1 year, he can not receive BCG, Pentavalent and Rotavirus vaccines. This leaves only option D as the plausible vaccines which can be given in a 13 month old child. Reference: OP Ghai 10 th Edition, Pages 192, 196 and 201
+----------------------------------------------------------------
+
+ID: 24467 | Answer: [C] Thrombocytopenia
+QUESTION: All are seen in Henoch-Schoenlein Purpura, except?
+OPTIONS: A) Glomerulonephritis | B) Abdominal Pain | C) Thrombocytopenia | D) Palpable purpura
+EXPLANATION: Palpable purpura in HSP occur in the absence of any platelet abnormalities. Diagnostic criteria for HSP/IgA Vasculitis: Palpable purpura (on buttocks & lower limbs) plus any 2 of the following Diffuse Abdominal Pain Tissue biopsy showing IgA deposits Arthritis or Arthralgia Renal involvement in the form of glomerulonephritis Reference: OP Ghai 10 th Ed, Box 22.4
+----------------------------------------------------------------
+
+ID: 24468 | Answer: [B] Gottron's Papules in Juvenile Dermatomyositis
+QUESTION: A 6-year-old male was admitted with complaints of fatigue and mild joint pains. On examination, rash was found on the hands as shown in the image. What is the likely diagnosis?
+OPTIONS: A) Nodules in Juvenile RA | B) Gottron's Papules in Juvenile Dermatomyositis | C) Osteoarthritis | D) Sclerodactyly
+EXPLANATION: The diagnosis is Juvenile Dermatomyositis. Fatigue is an early sign of muscle weakness. That along with the characteristic Gottron papules in the image suggest a diagnosis of Juvenile Dermatomyositis. Please note that as per Nelson 21 st Ed, 22-58% of JDM patients also have arthralgia and arthritis. Reference : Nelson 21 st Ed, Chapter 184, OP Ghai 10 th Ed, Pages 656-657
+----------------------------------------------------------------
+
+ID: 24469 | Answer: [C] Non-thrombocytopenic purpura
+QUESTION: Hallmark finding in IgA vasculitis is?
+OPTIONS: A) Glomerulonephritis | B) Elevated serum IgA levels | C) Non-thrombocytopenic purpura | D) Arthritis
+EXPLANATION: Presence of palpable purpuric rash is a hallmark of HSP, seen in 95-100% of all patients. Diagnostic criteria for HSP/IgA Vasculitis: Palpable purpura (on buttocks & lower limbs) plus any 2 of the following Diffuse Abdominal Pain Tissue biopsy showing IgA deposits Arthritis or Arthralgia Renal involvement in the form of glomerulonephritis the form of glomerulonephritis Reference: OP Ghai 10 th Ed, Box 22.4, Nelson 21 st Edition, Chapter 192.1
+----------------------------------------------------------------
+
+ID: 24470 | Answer: [B] 1-5%
+QUESTION: Risk of chronic renal disease in HSP?
+OPTIONS: A) Never develops | B) 1-5% | C) 5-10% | D) 10-25%
+EXPLANATION: Chances of chronic renal disease in HSP As per OP Ghai 10 th Edition, risk is 1-5% As per Nelson 21 st Edition, Chronic renal disease develops in 1-2% of children with HSP Reference: OP Ghai 10 th Ed, Page 661, Nelson 21 st Edition, Chapter 192.1
+----------------------------------------------------------------
+
+ID: 24471 | Answer: [A] NF-1 with UBO
+QUESTION: A 5-year-old child with multiple hyperpigmented brown macules on the body was also found to have similar findings in axillary region. His IQ was normal but brain MRI revealed basal ganglia hyperintensities on T2-weighed image, without any mass effect, as shown below. Repeat MRI done in the child 2 years later showed disappearance of these lesions. What is the likely diagnosis?
+OPTIONS: A) NF-1 with UBO | B) NF-1 with Optic Nerve Gliomas | C) NF-1 with TIA | D) Tuberous Sclerosis with cortical tubers
+EXPLANATION: Let us go stepwise here A child with multiple hyperpigmented brown macules suggests presence of Caf&eacute;-au-lait macules. Similar hyperpigmented lesions in axilla suggests Axillary Freckling. Likely diagnosis is NF-1 Now, MRI shows hyperintensities on T2 in basal ganglia which disappeared after some years. This suggests the finding of UBO- Unidentified bright objects. These Are Abnormal hyperintense signals on T 2 in optic tract, globus pallidus, brain stem, cerebellum. As age increases &rarr; UBOs Reduce and Disappear Significance is not clear, but is a highly interesting finding seen in children with NF-1 Reference: Nelson 21 st Edition, Chapter 614
+----------------------------------------------------------------
+
+ID: 24472 | Answer: [B] Solitary large neurofibroma
+QUESTION: Which among the following is not compatible with a diagnosis of Neurofibromatosis-1?
+OPTIONS: A) 6 caf&eacute;-au-lait macules of size 18 mm in post-pubertal male | B) Solitary large neurofibroma | C) 3 Lisch nodules in iris on one side | D) Sphenoid dysplasia
+EXPLANATION: Reference: OP Ghai 10 th Edition, Table 19.2, Page 576
+----------------------------------------------------------------
+
+ID: 24473 | Answer: [C] Tuberous Sclerosis
+QUESTION: A 12-year-old male presents to pediatric OPD with a rough, raised, scaly, yellow-white lesion on the lower back. His mother tells you that the child has some kind of intellectual disability. She also tells you that last night the boy had an attack of abnormal body movements lasting for about 5 minutes. What is the most likely diagnosis in this case?
+OPTIONS: A) Sturge-Weber Syndrome | B) Von Hippel Lindau Syndrome | C) Tuberous Sclerosis | D) Neurofibromatosis -1
+EXPLANATION: Let us go systematically here and interpret the information provided. Rough, raised, scaly, yellow-white lesion on the lower back is likely to be Shagreen Patch. Intellectual disability and seizure-like episode indicate likely CNS Involvement CNS Involvement + Skin manifestations like Shagreen Patch/Adenoma Sebaceum or Ash-leaf macules indicate Tuberous Sclerosis as the likely Possibility. Reference: OP Ghai 10 th Edition, Page 576
+----------------------------------------------------------------
+
+ID: 24474 | Answer: [D] Juvenile myoclonic epilepsy
+QUESTION: An adolescent girl complains of dropping objects from hands, it gets precipitated during morning. There is no H/O loss of consciousness and her cousin sister has been diagnosed with epilepsy. EEG was s/o epileptic seizures. What's the diagnosis?
+OPTIONS: A) Atypical absence seizures | B) Choreo-athetoid epilepsy | C) Centrotemporal spikes | D) Juvenile myoclonic epilepsy
+EXPLANATION: The patient is suffering from Juvenile Myoclonic Epilepsy (JME) Quick Review of Juvenile Myoclonic Epilepsy Also known as JANZ Syndrome Onset: 12 - 18 years &rarr; Adulthood Sex: Female > Male Strong positive family history Many genes eg: CACNB, GABRA-I Morphology Myoclonic Jerks (100%) Awake state, Increases in morning Precipitated by Awaking from sleep, Lack of sleep-in preceding night Frequent fall of objects GTCS (50 - 90%) Absence Seizures (25%) No Mental retardation EEG &rarr; 4 to 6 Hz Polyspike & Slow wave patterns DOC: Valproate 2 nd line - Lamotrigine, Levetiracetam Reference: Nelson 21 st Edition, Chapter 611
+----------------------------------------------------------------
+
+ID: 24475 | Answer: [D] Lorazepam followed by Levetiracetam
+QUESTION: A Pediatric 8 yr old patient presented with GTCS convulsions lasting >45 minutes. What shall be the appropriate management in patient?
+OPTIONS: A) Carbamazepine followed by Lorazepam | B) Valproate followed by Lorazepam | C) Levetiracetam followed by Valproate | D) Lorazepam followed by Levetiracetam
+EXPLANATION: The child is having Status Epilepticus & the management entails using BZDs like Lorazepam as 1 st line therapy, followed by using Antiepileptics like Phenytoin, Valproate & Levetiracetam. Remember that BZDs are always the 1 st drug to be given. As per IAP 2022 Guidelines, the initial management in the first 5 minutes of any child presenting with status epilepticus is as follows: Reference: IAP Standard Treatment Guidelines 2022- Evaluation and Management of Status Epilepticus in Children, OP Ghai 10 th Edition
+----------------------------------------------------------------
+
+ID: 24476 | Answer: [B] MAP - ICP
+QUESTION: Cerebral perfusion pressure equals?
+OPTIONS: A) DBP - ICP | B) MAP - ICP | C) ICP - SBP | D) SBP - DBP
+EXPLANATION: A major determinant of brain injury and prognosis in patients with head trauma and raised ICP is cerebral perfusion pressure. Cerebral Perfusion Pressure (CPP) = MAP - ICP or CVP (whichever is highest) Cerebral Blood Flow (CBF) = CPP/CVR [CVR = cerebral vascular resistance] This implies that CPP & CBF depend on both MAP and ICP In hypovolemia, MAP falls and cause reduction in CBF Likewise, in raised ICP, CBF can fall and can cause CNS injury by reduction in CBF Reference: Nelson 21 st Edition, Chapter 85
+----------------------------------------------------------------
+
+ID: 24477 | Answer: [B] Optic glioma
+QUESTION: A child presented with multiple small nodular swellings on the body and axillary examination showed hyperpigmentation as shown in the picture. There is a positive family history for these lesions. Which among the following is the most likely tumour the child will develop?
+OPTIONS: A) Pheochromocytoma | B) Optic glioma | C) Rhabdomyosarcoma | D) ALL
+EXPLANATION: This child is showing axillary freckling in picture. Nodular swellings may be seen due to neurofibromas. Hence the diagnosis is NF-1. Reference: OP Ghai 10 th Edition, Page 576
+----------------------------------------------------------------
+
+ID: 24479 | Answer: [B] Duration of fever >24 hour
+QUESTION: Which of the following factors are not associated with recurrence of febrile seizure?
+OPTIONS: A) Age of onset < 1 year | B) Duration of fever >24 hour | C) Duration of fever < 24 hour | D) Temperature between 38-39C
+EXPLANATION: Risk factors for recurrence of febrile seizures Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 2829
+----------------------------------------------------------------
+
+ID: 24480 | Answer: [C] Normal life expectancy
+QUESTION: A child aged 6 years has episodes of frequent falls, progressive muscle weakness and his lower limbs are shown below Which among the following is not true regarding such a child?
+OPTIONS: A) X-linked recessive | B) Cardiomyopathy may be seen | C) Normal life expectancy | D) Serum CPK may be normal in late stages
+EXPLANATION: This is a child with Pseudohypertrophy of calf muscles with muscular weakness, leading to frequent falls. This is consistent with a diagnosis of Duchenne's muscular dystrophy. Features include X-linked recessive inheritance; mainly seen in boys Age of onset between 2-6 years; frequent falls are common Cardiomyopathy may be seen Pseudohypertrophy of calf muscles and deltoid may be seen IQ may be normal or low Serum CPK is massively elevated but may return to normal in terminal stages once atrophy kicks in. Muscle biopsy and gene analysis are confirmatory Average life expectancy is 20 years. Treatment is mainly supportive. Reference: OP Ghai 10 th Edition, Pages 614 - 616
+----------------------------------------------------------------
+
+ID: 24481 | Answer: [B] Hypsarrhythmia
+QUESTION: A 3-month old infant has the following EEG report. What is the likely diagnosis?
+OPTIONS: A) Focal clonic seizure | B) Hypsarrhythmia | C) Anoxic brain damage | D) Normal EEG
+EXPLANATION: The child is having chaotic EEG, with multifocal high voltage spikes, suggestive of hypsarrhythmia. Classically seen in Infantile spasm (also known as West syndrome), which is a severe myoclonic epilepsy of infancy. Reference: OP Ghai 10 th Edition, Page 582
+----------------------------------------------------------------
+
+ID: 24482 | Answer: [B] West syndrome
+QUESTION: ACTH is the drug of choice for?
+OPTIONS: A) Tuberous sclerosis | B) West syndrome | C) Rolandic epilepsy | D) JME
+EXPLANATION: West syndrome is best treated with ACTH. High-dose ACTH is preferred over low-dose ACTH Vigabatrin is considered by some as a drug of second choice for infantile spasms and by some even as an alternative to ACTH as a drug of first choice in Tuberous Sclerosis patients. Reference: OP Ghai 10 th Edition, Page 582, AOCN 2021 Guidelines On West Syndrome
+----------------------------------------------------------------
+
+ID: 24483 | Answer: [A] Prednisolone
+QUESTION: A patient has been diagnosed as Guillain-Barre Syndrome. All of the following will be effective in the management of this patient except?
+OPTIONS: A) Prednisolone | B) Plasma exchange | C) IVIG | D) Chest Physiotherapy
+EXPLANATION: Steroids, e.g., Prednisolone do not have any role in the management of GBS. IVIG is the initial drug of choice, in a dose of 2 g/kg given over 3-5 days Plasma exchange, also called as Plasmapheresis is effective in those patients where IVIG is either not available or there is any restriction to its use Chest physiotherapy is recommended in most patients of GBS, especially those who are admitted in ICU and receiving ventilation, to reduce the chances of pulmonary impaction & hypostasis pneumonia. Reference: OP Ghai 10 th Edition, Page 610; Nelson 21 st Edition, Chapter 634
+----------------------------------------------------------------
+
+ID: 24484 | Answer: [A] Meningomyelocele
+QUESTION: Arnold Chiari malformation is a common association of?
+OPTIONS: A) Meningomyelocele | B) Leptomeningeal cyst | C) Agenesis of corpus callosum | D) Dandy-Walker anomaly
+EXPLANATION: Among the options listed, Meningomyelocele is a common association of Chiari-2 malformations, also called as Arnold-Chiari Malformation. Hydrocephalus in association with a type II Chiari malformation develops in at least 80% of patients with myelomeningocele. Reference: Nelson 21 st Edition, Chapter 609
+----------------------------------------------------------------
+
+ID: 24486 | Answer: [B] Spinal Muscular Atrophy
+QUESTION: Tongue fasciculations are a characteristic feature of?
+OPTIONS: A) Myasthenia gravis | B) Spinal Muscular Atrophy | C) Duchenne muscular dystrophy | D) GBS
+EXPLANATION: Tongue fasciculation is typical of LMN nerve dysfunction and indicates progressive denervation. SMA is a LMN disorder that has a floppy child with severe hypotonia, atrophic muscles and tongue fasciculations. Myasthenia is a condition of NM junction DMD is a muscular disorder. GBS is a demyelinating disorder with bilateral symmetrical ascending paraparesis Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 2997
+----------------------------------------------------------------
+
+ID: 24487 | Answer: [D] Inability to recall his mobile phone
+QUESTION: A 12-year-old boy was playing cricket and got a nasty bouncer, hitting him on head and producing a concussion. Which of the following symptoms after a concussion would warrant further evaluation with neuroimaging?
+OPTIONS: A) Decreased appetite | B) Nausea but no vomiting | C) Excess Fatigue | D) Inability to recall his mobile phone
+EXPLANATION: In a child with concussion injury to the head Persistent amnesia would warrant further evaluation with imaging. Nausea, fatigue, and difficulty falling asleep are symptoms of concussion that can last several weeks to even months but do not require imaging. Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 3350
+----------------------------------------------------------------
+
+ID: 24488 | Answer: [B] Vein of Galen malformation
+QUESTION: A seven-day-old neonate presents with recurrent seizures. Examination reveals tachycardia, S3 gallop, and bruit in anterior fontanelle. Blood investigations are normal. Transcranial USG shows a hypoechoic lesion. What is the likely diagnosis?
+OPTIONS: A) Arachnoid cyst | B) Vein of Galen malformation | C) Dilated ventricles | D) Intraventricular hemorrhage
+EXPLANATION: A Neonate with High-Output CCF, bruit in skull in midline and transcranial USG showing a hypoechoic lesion &rarr; Vein Of Galen Malformation (VGM). Cause of VGM: Abnormal Persistence of Median Prosencephalic Vein- MPV Treatment: Endoscopic embolization &rarr; Surgery Reference: Nelson 21 st Edition, Chapter 609
+----------------------------------------------------------------
+
+ID: 24489 | Answer: [D] Dravet Syndrome
+QUESTION: SCN1A gene mutations are responsible for which among the following epilepsy syndrome?
+OPTIONS: A) Lennox Gastaut syndrome | B) Rolandic epilepsy | C) Otahara syndrome | D) Dravet Syndrome
+EXPLANATION: Dravet syndrome is the most severe of the phenotypic spectrum of febrile seizure-associated epilepsies. Mutations in the SCN1A gene are the most common cause of Dravet syndrome (causing ~ 80% of all cases). Reference: Nelson 21 st Edition, Chapter 611
+----------------------------------------------------------------
+
+ID: 24490 | Answer: [B] Spastic diplegia
+QUESTION: Persistent "commando crawl" at one year of age indicates which among the following?
+OPTIONS: A) Normal variant | B) Spastic diplegia | C) Spastic quadriplegia | D) Proximal myopathy
+EXPLANATION: Signs in Diplegic Cerebral Palsy Scissoring of gait Commando Crawl: Child drags body forward using Upper Limbs. Fisting of hands- Child usually keeps both the fists tightly closed Reference: Nelson 21 st Edition, Chapter 611
+----------------------------------------------------------------
+
+ID: 24491 | Answer: [D] Becker muscular dystrophy
+QUESTION: A 12-year-old healthy boy has noticed some muscle weakness. He has experienced increasing difficulty lifting his backpack and walking long distances. He has no trouble with schoolwork, and he continues to play the piano and video games without tiring. His 38-year-old maternal uncle recently became wheelchair bound for unclear reasons. Which of the following is the most likely diagnosis?
+OPTIONS: A) Cerebral palsy | B) Duchenne muscular dystrophy | C) Myasthenia gravis | D) Becker muscular dystrophy
+EXPLANATION: This patient does not have muscle weakness that precludes extended use of distal muscles (hands) or limits his manual dexterity. The child's presentation at age 12 years and a 38-year-old wheelchair-bound maternal uncle suggest a diagnosis of Becker muscular dystrophy. Remember that DMD has onset before 5 to 7 years of age! Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 2977
+----------------------------------------------------------------
+
+ID: 24492 | Answer: [C] 4000 &mu;g
+QUESTION: Folic acid requirement in pregnancy for prevention of neural tube defects in a lady with previous pregnancy having neural tube defect is?
+OPTIONS: A) 200 &mu;g | B) 400 &mu; | C) 4000 &mu;g | D) 8000 &mu;g
+EXPLANATION: Prevention or prophylaxis of NTDs Done Via Peri-conceptional folate supplementation Ideally started 1 month prior to conception and given daily at least till 12 weeks of gestation Every pregnancy: 0.4 mg/day (400 g/day) In Previous NTD: 4 mg/day (4000 g/day)- Produces 72% risk reduction in NTDs Reference: AIIMS NICU Protocols 3 rd Edition- Additional Protocols, CDC Guidelines
+----------------------------------------------------------------
+
+ID: 24493 | Answer: [A] Eteplirsen- ALS
+QUESTION: Identify the incorrect match for the drug used and the underlying condition?
+OPTIONS: A) Eteplirsen- ALS | B) Nusinersen- SMA | C) ACTH- West Syndrome | D) Everolimus- Tuberous Sclerosis
+EXPLANATION: Let us evaluate each option individually Option A is incorrect. Eteplirsen, also known as Exondys-51, is a novel exon-skipping gene therapy, useful in patients of Duchenne Muscular Dystrophy. The drug is FDA approved for DMD patients and is considered a type of ASO= Antisense oligonucleotide agent Option B is correct, Nusinersen is used intrathecally in Spinal Muscular Atrophy and acts by partially activating the SMN-2 gene. Option C is correct. High-dose ACTH is the first-line therapy in patients with West Syndrome. Option D is correct. Everolimus is an mTOR inhibitor, useful in Subependymal Giant Cell Astrocytomas (SEGAs) which are not amenable to surgery. Reference : Nelson 21 st Edition, Chapters 627 & 630; OP Ghai 10 th Edition, Table 20.5, Page 608.
+----------------------------------------------------------------
+
+ID: 24494 | Answer: [B] Craniorachischisis
+QUESTION: A neonate was stillborn. His image is as depicted below. Likely diagnosis?
+OPTIONS: A) Anencephaly | B) Craniorachischisis | C) Spina bifida occulta | D) Tethered Cord Syndrome
+EXPLANATION: Craniorachischisis is characterized by the combination of anencephaly (absence of the brain and cranial vault, without skin covering) with a contiguous bony defect of the cervical spine (also without meninges covering the neural tissue - rachischisis). It is a severe and rare type of neural tube defect and is usually not compatible with life. Reference: CDC Guidelines- Birth Defects Surveillance Toolkit
+----------------------------------------------------------------
+
+ID: 24495 | Answer: [C] Spina bifida occulta
+QUESTION: A neonate was born to a mother who did not take folic acid during pregnancy. The baby was absolutely asymptomatic at birth, except for the lesion in the midline back as shown below. Likely possibility?
+OPTIONS: A) Anencephaly | B) Meningocele | C) Spina bifida occulta | D) Tethered Cord Syndrome
+EXPLANATION: Pregnant mother not taking folic acid is a risk factor for neural tube defects. The image shown is a tuft of hair in the lumbosacral region. This is a cutaneous marker of underlying spina bifida occulta, also known as Occult spinal dysraphism. The patients are asymptomatic and do not require any specific therapy. Remember- Cutaneous markers for spina bifida occulta include Tuft of hair Lipoma Dermal sinus Hemangioma Reference: Nelson 21 st Edition, Chapter 609
+----------------------------------------------------------------
+
+ID: 24496 | Answer: [A] 2nd January, 9 AM
+QUESTION: A 3-year-old child has been diagnosed as a case of pyogenic meningitis on 1st January 2024. He was started on IV Ceftriaxone on the same day at 9 AM after admission and was isolated. From what date onwards, the child can come out of isolation and will be considered non-infectious to others?
+OPTIONS: A) 2nd January, 9 AM | B) 4th January, 9 AM | C) 8th January, 9 AM | D) 11th January, 9 AM
+EXPLANATION: The question seems tricky, but is not and is a highly-important, applied clinical knowledge kind of question expected for NEXT & INI-CET level. The funda is clear- Any child with pyogenic meningitis, when started on IV 3 rd generation cephalosporins, will become non-infectious and CSF will become sterile within 24 hours of the antibiotic therapy initiation. Since here it was started at 9 AM on 1 st January, 2024; so the child will not require isolation after 2 nd January, 2024, 9 AM onwards. Reference: Nelson 20 th Edition, Page 2941
+----------------------------------------------------------------
+
+ID: 24497 | Answer: [D] BERA
+QUESTION: In a small child diagnosed with H influenzae associated meningitis, what investigation is needed at follow-up?
+OPTIONS: A) X-ray skull | B) CECT Head | C) MRI Brain | D) BERA
+EXPLANATION: H influenzae associated meningitis is commonly associated with risk of developing sensorineural hearing loss (SNHL); therefore all these children need to be evaluated by BERA test for hearing at discharge and follow-up. Reference: Nelson 21 st Edition, Chapter 621
+----------------------------------------------------------------
+
+ID: 24498 | Answer: [D] Acid Maltase
+QUESTION: A child has been diagnosed with Pompe's Disease. Enzyme deficient in Pompe's Disease?
+OPTIONS: A) Muscle phosphorylase | B) Glycogen phosphorylase | C) Glucose-6-Phosphatase | D) Acid Maltase
+EXPLANATION: Types of GSDs Reference: OP Ghai 10 th Edition, Pages 687-689; Nelson 21 st Edition, Chapter 105.1
+----------------------------------------------------------------
+
+ID: 24499 | Answer: [B] After 3 years
+QUESTION: In an 8-year-old child recently diagnosed with type 1 DM, when should the first evaluation for diabetic retinopathy done?
+OPTIONS: A) Immediately at diagnosis | B) After 3 years | C) After 10 years | D) Not needed in Type 2 DM
+EXPLANATION: Regarding Diabetic Retinopathy monitoring, guidelines suggest that diabetic patients have an initial dilated and comprehensive examination by an ophthalmologist shortly after the diagnosis of diabetes is made in patients with T2DM, and within 3-5 yr after the onset of T1DM (but not before age 10 yr). Any patients with visual symptoms or abnormalities should be referred for ophthalmologic evaluation. Subsequent evaluations for both T1DM and T2DM patients should be repeated every 1-2 yr. Reference: Nelson 21 st Edition, Chapter 607.1
+----------------------------------------------------------------
+
+ID: 24500 | Answer: [C] Semolina
+QUESTION: A child has been recently diagnosed as Celiac Disease. His parents ask you for foods which are safe to be consumed. You will suggest all of the following foods as safe to eat in this patient, except?
+OPTIONS: A) Quinoa | B) Sorghum | C) Semolina | D) Poha
+EXPLANATION: Since the child has been diagnosed with Celiac Disease, the child should avoid eating foods and grains which contain gluten in them. Among the options, Semolina is puffed wheat and thus should be avoided. Grains unsafe to eat in Celiac Disease- Contain gluten. Mnemonic is BROW Barley Rye Oats Wheat, including whole wheat & semolina (suji/rava) Grains safe to eat in Celiac Disease- Do not contain gluten. Includes Rice, including Puffed Rice like Poha Maize Quinoa Sorghum Chia Seeds Flax Seeds Tapioca Reference: OP Ghai 10 th Edition, Page 320; Nelson 21 st Edition, Chapter 364
+----------------------------------------------------------------
+
+ID: 24501 | Answer: [A] Topical clotrimazole
+QUESTION: A 7-year-old boy presents to you with a 2 cm, painful major aphthous ulcer. Which among the following is not effective in the management of this lesion in a child?
+OPTIONS: A) Topical clotrimazole | B) Topical benzocaine | C) Topical Lidocaine | D) Topical steroids
+EXPLANATION: This child is having a major aphthous ulcer, also called canker sore. These lesions have a size >1 cm and often need some topical therapies. Nonprescription palliative therapies, such as benzocaine and topical lidocaine, are effective, as are topical steroids. Tetracycline has benefit with severe outbreaks, but caution is necessary in children There is no role of topical clotrimazole in the management of this condition. Reference: Nelson 21 st Ed/Chapter 341
+----------------------------------------------------------------
+
+ID: 24502 | Answer: [C] Association with fever
+QUESTION: Red flag signs of vomiting in a child include all except?
+OPTIONS: A) Projectile vomiting | B) Bilious vomiting | C) Association with fever | D) Association with photophobia
+EXPLANATION: The 'red flag' symptoms and signs in a child with vomiting are The presence of blood or bile in the vomitus Severe abdominal pain with abdominal distension or tenderness Projectile vomiting Persistent tachycardia or hypotension Neck stiffness and / or photophobia. These patients need immediate investigation in a hospital. Reference: OP Ghai 9 th Ed/Page 274
+----------------------------------------------------------------
+
+ID: 24503 | Answer: [A] 1:1
+QUESTION: Molar ratio of sodium and glucose in WHO low osmolarity ORS is?
+OPTIONS: A) 1:1 | B) 1:2 | C) 2:3 | D) 2:5
+EXPLANATION: Composition of low-osmolarity ORS, recommended by WHO Reference: Nelson 21 st Edition, Chapter 366.
+----------------------------------------------------------------
+
+ID: 24504 | Answer: [B] Intussusception
+QUESTION: A 4-year-old child presented with abdominal pain which was acute in nature, vomiting and progressive lethargy. There was red-currant jelly stools and contrast enema revealed coiled spring sign. What is the likely diagnosis?
+OPTIONS: A) Volvulus | B) Intussusception | C) Meckel's diverticulitis | D) Adhesions
+EXPLANATION: In typical cases of intussusception, there is sudden onset, in a previously well child, of severe paroxysmal colicky pain that recurs at frequent intervals and is accompanied by straining efforts with legs and knees flexed and loud cries. At times, the lethargy is disproportionate to the abdominal signs. Eventually, a shock-like state, with fever and peritonitis, can develop. Vomiting occurs in most cases and is usually more frequent in the early phase. In the later phase, the vomitus becomes bile stained. 60% of infants pass a stool containing red blood and mucus, the currant jelly stool. The diagnostic findings of intussusception on ultrasound include a tubular mass in longitudinal views and a doughnut or target appearance in transverse images. Contrast enemas demonstrate a filling defect or cupping in the head of the contrast media where its advance is obstructed by the intussusceptum. A central linear column of contrast media may be visible in the compressed lumen of the intussusceptum, and a thin rim of contrast may be seen trapped around the invaginating intestine in the folds of mucosa within the intussuscipiens (coiled-spring sign), especially after evacuation. Reference: OP Ghai 10 th Edition, Pages 304-305
+----------------------------------------------------------------
+
+ID: 24505 | Answer: [D] Retinoblastoma
+QUESTION: Not associated with Wilms tumour?
+OPTIONS: A) Aniridia | B) Macroglossia | C) Gonadoblastoma | D) Retinoblastoma
+EXPLANATION: Common Syndromes associated with Wilms Tumour Syndromes like Bloom Syndrome, Frasier Syndrome and Li-Fraumeni Syndrome also carry an increased risk of Wilms Tumour. Reference: OP Ghai 10 th Edition, Page 636, Nelson 21 st Edition
+----------------------------------------------------------------
+
+ID: 24506 | Answer: [B] Thalassemia major
+QUESTION: The following X ray skull appearance is most commonly seen in which condition?
+OPTIONS: A) Thalassemia trait | B) Thalassemia major | C) Sickle cell anemia | D) Osteopetrosis
+EXPLANATION: This is the typical "hair on end" appearance of skull, seen in thalassemia major. It occurs due to widening of the diploic spaces. Reference: OP Ghai 10 th Edition, Page 363
+----------------------------------------------------------------
+
+ID: 24507 | Answer: [C] <11.5 g/dl
+QUESTION: A 6-year-old girl comes to you for evaluation due to easy fatiguability noticed by the parents. Her hemogram is done to look for Hb level and diagnose anemia. What shall be the cut-off of Hb for this child, according to WHO guidelines?
+OPTIONS: A) <10.5 g/dl | B) <11 g/dl | C) <11.5 g/dl | D) <12 g/dl
+EXPLANATION: WHO Cut-offs for anemia are as follows 6 months - 5 years: Hb 5 years - 11 years: Hb 12-13 years: Hb Adult male: Hb Adult non-pregnant female: Hb Reference: OP Ghai 10 th Edition, Table 13.2
+----------------------------------------------------------------
+
+ID: 24508 | Answer: [B] Hodgkin's lymphoma
+QUESTION: Brentuximab vedotin is useful in the management of which malignancy?
+OPTIONS: A) Burkitt's lymphoma | B) Hodgkin's lymphoma | C) AML | D) JMML
+EXPLANATION: Brentuximab vedotin is an antibody-drug conjugate approved by the U.S. Food and Drug Administration (FDA) to treat Hodgkin's Lymphoma (HL). It combines the chimeric anti-CD30 antibody brentuximab linked to the antimitotic agent monomethyl auristatin E. This agent shows impressive efficacy as single-agent therapy in refractory HL and is currently being tested as part of upfront therapy combined with chemotherapy in patients with newly diagnosed disease. Reference: Nelson 21 st Ed/Chapter 523
+----------------------------------------------------------------
+
+ID: 24510 | Answer: [C] Pinealoblastoma
+QUESTION: Trilateral retinoblastoma comprises bilateral retinoblastomas plus which of the following?
+OPTIONS: A) Osteogenic sarcoma | B) Medulloblastoma | C) Pinealoblastoma | D) Teratoma
+EXPLANATION: Associated tumours in a patient with RB include Osteosarcoma Soft tissue sarcomas Malignant melanomas In a patient with existing RB, the next MC malignancy to look for&rarr; Osteosarcoma In 5% cases, B/L RB is associated with a Pinealoblastoma&rarr; Called as Trilateral Retinoblastoma. It usually carries a very poor prognosis. Reference: OP Ghai 10 th Edition, Page 635
+----------------------------------------------------------------
+
+ID: 24511 | Answer: [C] Hematopoietic stem cell transplantation
+QUESTION: A 17-year-old girl presents to clinic with fatigue, pallor, and a recent history of easy bruising. She is afebrile. A complete blood count with differential reveals a neutropenia, thrombocytopenia, and elevated mean corpuscular volume, and her reticulocyte count is low. She is referred to a pediatric hematologist, and a diagnosis of severe aplastic anemia is confirmed, with a hemoglobin of 9.8 g/dL. What is the first-line therapy for this patient's condition?
+OPTIONS: A) Blood transfusion | B) Broad-spectrum antibiotics | C) Hematopoietic stem cell transplantation | D) Immunosuppressive therapy
+EXPLANATION: The only curative as well as 1 st -line therapy in Aplastic Anemia is HSCT. An allogeneic hematopoietic stem cell transplantation is the first-line therapy for a patient with severe or very severe aplastic anemia if a human leukocyte antigen-matched sibling donor can be identified. A cause should be identified if possible. Pancytopenia is seen on a complete blood count of a person with aplastic anemia, associated with a low reticulocyte count. A bone marrow biopsy is performed to confirm the diagnosis, which also demonstrates low cellularity of all three cell lines. Severity of disease is based on bone marrow cellularity, absolute neutrophil count, platelet count, and absolute reticulocyte counts. Please note that if HSCT is not possible, Horse Anti-Thymocyte Globulin (ATG) and Cyclosporine have been used. Thrombopoietin Receptor Agonists (TPO-RA) are often added but Granulocyte Colony-Stimulating Factor (G-CSF) is usually ineffective and can cause malignant transformation. References: OP Ghai 10 th Edition, Page 367; Nelson textbook of Pediatrics, 1 st SA edition, pg. 1064
+----------------------------------------------------------------
+
+ID: 24512 | Answer: [B] Wilms tumour
+QUESTION: Most common intra-abdominal tumour in a 3-year-old child is?
+OPTIONS: A) Neuroblastoma | B) Wilms tumour | C) Medullary cystic kidney | D) Rhabdomyosarcoma
+EXPLANATION: MC intra-abdominal tumour in infancy is neuroblastoma, while in a 2-3 year old child, its Wilms tumour. According to OP Ghai 10 th Edition, the peak incidence of Wilms tumour is 2-3 years. OP Ghai 10 th Edition also says that Neuroblastoma is the most common tumour diagnosed in the first year of life and the median age at diagnosis is approximately 19 months. Rhabdomyosarcomas occur around 5 years of age and are relatively rare than WT or NB, comprising 3-4% of pediatric cancers. Reference: OP Ghai 10 th Edition, Pages 636, 638 and 640
+----------------------------------------------------------------
+
+ID: 24513 | Answer: [B] Medulloblastoma
+QUESTION: Chang Staging is used in which pediatric malignancy?
+OPTIONS: A) ALL | B) Medulloblastoma | C) Retinoblastoma | D) Rhabdomyosarcoma
+EXPLANATION: Key revision points regarding medulloblastoma Most common malignant brain tumour in children Midline enhancing mass, more common in males and has a median age of 5-7 years Produces hydrocephalus & &uarr;ICP Aggressive tumour with a poor prognosis, shows CSF metastasis Extracranial Metastasis also seen &rarr; Drop metastasis Moderately radio sensitive tumours (Most radiosensitive brain tumour) Poor prognosis Chang staging is used References: Nelson 21 st Edition, Chapter 524; OP Ghai 10 th Edition, Pages 642-643.
+----------------------------------------------------------------
+
+ID: 24514 | Answer: [A] Age 2-8 years
+QUESTION: A 2-year-old has been diagnosed with ALL. Which among the following will be the one having a good prognosis?
+OPTIONS: A) Age 2-8 years | B) Presence of t(9;22) | C) TLC of 1 lakh/mm3 | D) Mediastinal involvement
+EXPLANATION: Prognostic factors in ALL Reference: OP Ghai 10 th Edition, Page 624
+----------------------------------------------------------------
+
+ID: 24515 | Answer: [B] 1-R, 2-Q, 3-S, 4-P
+QUESTION: The following columns A and B contain types of Hodgkin's Lymphoma and the corresponding key characteristics in a random manner. Kindly identify the correct match of the respective columns?
+OPTIONS: A) 1-Q, 2-R, 3-S, 4-P | B) 1-R, 2-Q, 3-S, 4-P | C) 1-S, 2-Q, 3-P, 4-R | D) 1-P, 2-S, 4-Q, 3-R
+EXPLANATION: Types of Hodgkin's Lymphoma Reference: Nelson 21 st Edition, Chapter 523.1
+----------------------------------------------------------------
+
+ID: 24516 | Answer: [D] Type 3
+QUESTION: Which type of vWD behaves similarly to Hemophilia A?
+OPTIONS: A) Type 1 | B) Type 2A | C) Type 2B | D) Type 3
+EXPLANATION: Types of VWD References: Nelson 21 st Edition, Chapter 504; Harrison 21 st Edition, Page 909
+----------------------------------------------------------------
+
+ID: 24517 | Answer: [D] Pseudo-vWD
+QUESTION: The type of disease having severe thrombocytopenia with decreased vWF and mildly decreased factor 8 levels in blood is:
+OPTIONS: A) Type 1 | B) Type 2A | C) Type 3 | D) Pseudo-vWD
+EXPLANATION: Platelet-type, pseudo-VWD occurs when a mutation in platelet GPIb causes spontaneous binding to VWF and also presents with decreased VWF activity, loss of high-molecular-weight multimers, and thrombocytopenia similar to type 2B VWD. Specific testing is required to distinguish the 2 conditions. References: Nelson 21 st Edition, Chapter 504; Harrison 21 st Edition, Page 909
+----------------------------------------------------------------
+
+ID: 24518 | Answer: [D] Bebtelovimab
+QUESTION: Which of the following drugs is not useful for sickle cell anaemia patients?
+OPTIONS: A) Hydroxyurea | B) L-Glutamine | C) Voxelotor | D) Bebtelovimab
+EXPLANATION: Hydroxyurea, increases haemoglobin F, decreases number and severity of painful vaso-occlusive events, frequency of acute chest syndrome and need of transfusion in children as early as 1 year of age. Three new disease-modifying drugs have been FDA approved for treatment of sickle cell anaemia- Crizanlizumab, Voxelotor and L-glutamine. Reference: Nelson textbook of Pediatrics 21 st Edition, OP Ghai 10 th Edition, Page 365
+----------------------------------------------------------------
+
+ID: 24520 | Answer: [B] Peripheral blood film
+QUESTION: A child presented with proptosis. You suspect it to be a chloroma. Next investigation to make the diagnosis, among the following, is?
+OPTIONS: A) Platelet count | B) Peripheral blood film | C) WBC Count | D) Haemoglobin
+EXPLANATION: Firstly, understand what are chloromas? Patients with AML present with signs and symptoms that are uncommon like subcutaneous nodules or "blueberry muffin" lesions (especially in infants), infiltration of the gingiva (especially in monocytic subtypes), signs and laboratory findings of disseminated intravascular coagulation (especially indicative of APL), and discrete masses, known as chloromas or granulocytic sarcomas. These masses can occur in the absence of apparent bone marrow involvement and typically are associated with a t(8; 21) translocation. Chloromas also may be seen in the orbit and epidural space. Among the options, the next investigation is to get a good peripheral smear to identify myeloblasts. Best for the definitive diagnosis will be Bone marrow aspirate and Flow cytometry. Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 2442
+----------------------------------------------------------------
+
+ID: 24521 | Answer: [B] Globin gene sequencing
+QUESTION: A 14-months-old child with Haemoglobin - 6.3 g/dL was undergoing repeated blood transfusions. A peripheral smear is done which is shown. The last transfusion was given at 9 months. What is an investigation for definitive diagnosis?
+OPTIONS: A) HPLC | B) Globin gene sequencing | C) Ferritin | D) BM aspiration
+EXPLANATION: The history is suggestive of a transfusion-dependent haemolytic anemia. The peripheral smear shows anisopoikilocytosis with target cells. These are all suggestive of Thalassemia. HPLC and Hb Electrophoresis are often done initially, but for definitive diagnosis and determining the variant of Thalassemia, a globin chain sequencing will be helpful. Reference: Nelson textbook of Pediatrics, 20 th ed., pg. 2351
+----------------------------------------------------------------
+
+ID: 24522 | Answer: [A] 30%
+QUESTION: A 3-year-old child is on ventilation with nasal cannula delivering oxygen at 3 L/min. What shall be the FiO2?
+OPTIONS: A) 30% | B) 35% | C) 40% | D) 50%
+EXPLANATION: Nasal cannula oxygen provides low levels of oxygen supplementation and is easy to administer. Oxygen is humidified in a bubble humidifier and delivered via nasal prongs inserted in to the nares. In children, a flow rate A common formula for an estimation of the FiO2 during use of a nasal cannula in older children and adults follows: FiO2 (%)= 21% + [(Nasal Cannula Flow rate in L/in) x 3] So in this question, it comes out to be 30% Reference: Nelson 21 st Edition, Chapter 89
+----------------------------------------------------------------
+
+ID: 24523 | Answer: [B] Serum bicarbonate value of 18 mEq/L
+QUESTION: Mechanical ventilation needs to be initiated in a child in all of the following ABG conditions except?
+OPTIONS: A) PaO2 < 60 mm despite FiO2 0.7 | B) Serum bicarbonate value of 18 mEq/L | C) PaCo2 > 60 mm Hg | D) Arterial blood pH of 7.22
+EXPLANATION: Although there are no absolute criteria for derangement of gas exchange, ABG parameters give you clues that mechanical ventilation needs to be started in a child. These include PaO2 60% FiO2 PaCO2 >60 mm Hg Arterial blood pH Reference: Nelson 21 st Edition, Chapter 89.1
+----------------------------------------------------------------
+
+ID: 24524 | Answer: [B] 10 years
+QUESTION: An 11-year-old child has Acute Rheumatic Fever and has no cardiac manifestations. What should the duration of antibiotic prophylaxis?
+OPTIONS: A) 5 years | B) 10 years | C) 20 years | D) 40 years
+EXPLANATION: The current age of patient is 11 years . For rheumatic fever without any cardiac manifestations penicillin prophylaxis is given for 5yrs or till 21yrs of age whichever is longer . since the patient age is 11 years(21-11 = 10 years). 10 years is longer than 5yrs . so answer here is 10 years. Prophylaxis Of ARF a. Primary : Penicillin G given before 9 th day of symptom of strep sore throat b. Secondary : DOC - Benzathine PnG: 1.2 million units IM for 21 days. If Pn allergic, then give macrolides Eg: Erythromycin/Sulfadiazine or sulfisoxazole As per Nelson 21 st Edition, Duration of Prophylaxis As per IAP 2022 Guidelines Reference: Nelson 21 st Edition, Chapter ; IAP 2022 Guidelines; OP Ghai 10 th Edition, Page 461
+----------------------------------------------------------------
+
+ID: 24525 | Answer: [C] Hepatomegaly
+QUESTION: Most consistent sign of infantile CCF?
+OPTIONS: A) High JVP | B) Pedal edema | C) Hepatomegaly | D) Basal crepitations
+EXPLANATION: Most consistent sign of infantile CCF is Hepatomegaly. Pedal edema is less frequently encountered in pediatric CCF. Reference: Nelson 21 st Edition, Perloff's Cardiology
+----------------------------------------------------------------
+
+ID: 24528 | Answer: [A] Scaphocephaly
+QUESTION: During a well child visit, a 6-month-old boy demonstrates clinical evidence of craniosynostosis. Which of the following is the most common type of craniosynostosis?
+OPTIONS: A) Scaphocephaly | B) Brachycephaly | C) Trigonocephaly | D) Occipital plagiocephaly
+EXPLANATION: Craniosynostosis is premature closure of &ge; 1 cranial suture . Scaphocephaly (Sagittal synostosis) is the most common type of craniosynostosis. Tags : Topic : ABNORMAL HEAD & CRANIOSYNOSTOSIS Difficulty level : GOOD TO KNOW Reference : Nelson textbook of pediatrics, 21 st ed., pg. 3054)
+----------------------------------------------------------------
+
+ID: 24531 | Answer: [B] Non-Hodgkins lymphoma
+QUESTION: A 4-year-old child has fever and sore throat since 2 days. On examination there is significant cervical lymphadenopathy and hepatosplenomegaly. The throat examination is shown. Paul Bunnell test is positive. Which of the following condition is not associated with this causative agent?
+OPTIONS: A) Infectious mononucleosis | B) Non-Hodgkins lymphoma | C) Burkitt's lymphoma | D) Nasopharyngeal carcinoma
+EXPLANATION: Symptoms + hemorrhagic petechia at the junction of soft and hard palate + positive Paul Bunnell test all are suggestive of Infectious mononucleosis . The causative agent is EBV. Conditions associated with EBV are: Infectious mononucleosis Nasopharyngeal carcinoma Burkitt's lymphoma Hodgkin's lymphoma X-linked lymphoproliferative disorder HLH syndrome Alice in wonderland syndrome Guillain Barre syndrome Tags : Topic : EPSTEIN BARR VIRUS Difficulty level : GOOD TO KNOW Reference : Nelson textbook of pediatrics, 21 st ed., pg. 1716
+----------------------------------------------------------------
+
+ID: 24532 | Answer: [A] Fever
+QUESTION: According to WHO reports, which of the following is the most commonly reported symptoms in COVID19 in children?
+OPTIONS: A) Fever | B) Headache | C) Body ache | D) Sore throat
+EXPLANATION: Reported symptoms in COVID19 in children: Fever (56%) Dry cough (54%) Headache (28%) Sore throat (24%) Myalgia (23%) Shortness of breath (13%) Diarrhea (13%) Nausea/vomiting (11%) Coryza (7.2%) Abdominal pain (5.8%) Fever and dry cough are the most common. Tags : Topic : COVID19 Difficulty level :GOOD TO KNOW PYQ : INICET JULY 2021 Reference : World Health Organization. Coronavirus. Accessed at: https://www.who.int/health-topics/coronavirus#tab=tab_3)
+----------------------------------------------------------------
+
+ID: 24533 | Answer: [B] X linked recessive
+QUESTION: A mother brings her 7-year-old child who is becoming very difficult to manage and has significant temper tantrums at home. He is struggling at school and they have recommended assessment for allowing shadow teacher. Mother reports that she also has mild learning disability. On examination, the child has a large forehead and ears. How is this disorder inherited?
+OPTIONS: A) X linked dominant | B) X linked recessive | C) Autosomal dominant | D) Autosomal recessive
+EXPLANATION: This is a diagnosis of Fragile X . The key dysmorphic features with the history suggestive of ASD and learning disability indicates this diagnosis. It is the most common heritable cause of mental retardation. It is X linked recessive, females are rarely affected and affected females have mildly reduced IQ. It is a trinucleotide repeat disease with CGG repeats of FMR-1 Main features include: Large Jaw Large Ear Large testes Tags : Topic : FRAGILE X SYNDROME Difficulty level : GOOD TO KNOW Reference : Nelson textbook of pediatrics, 21 st ed., pg. 671
+----------------------------------------------------------------
+
+ID: 24534 | Answer: [D] Pigmented nevi are commonly seen, but transformation to melanoma is rare
+QUESTION: Which of the following statements about a girl with Turner syndrome is true?
+OPTIONS: A) By adolescence they are social advanced as compared to their peers | B) Hyperthyroidism commonly occurs by the second decade of life | C) Intelligence is normal and difficulty in school is rarely seen | D) Pigmented nevi are commonly seen, but transformation to melanoma is rare
+EXPLANATION: Hypothyroidism commonly develops in girls with Turner syndrome, mostly after their fourth year of life. Overall, the intelligence of girls with Turner syndrome is normal, but often are socially delayed compared to their peers and frequently have difficulty in school with attention deficit disorder and specific learning difficulties. Pigmented nevi are commonly seen (especially in adolescents ), can be disfiguring and irritated by clothing, but are at low risk of malignant transformation. Tags : Topic : TURNER SYNDROME Difficulty level : MAY KNOW PYQ : FMGE DEC 2020 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 3002
+----------------------------------------------------------------
+
+ID: 24535 | Answer: [C] Right main bronchus
+QUESTION: Which of the following is the most common location of aspirated foreign bodies in children?
+OPTIONS: A) Left lower bronchus | B) Left main bronchus | C) Right main bronchus | D) Trachea
+EXPLANATION: Right main bronchus is wider, straighter and more in line of main bronchus in comparison to left bronchus. Tags : Topic : FOREIGN BODY ASPIRATION Difficulty level : MUST KNOW PYQ : INICET NOV 2022 Reference : Nelson textbook of pediatrics, 1 st SA ed., pg. 2040
+----------------------------------------------------------------
+
+ID: 24536 | Answer: [B] Laryngomalacia
+QUESTION: A 4-month-old infant is brought to you with parents complaining that the child has abnormal sounds while breathing in. it worsens on crying and improves when held prone. What is the most likely cause of infant's sound?
+OPTIONS: A) Laryngeal stenosis | B) Laryngomalacia | C) Laryngeal papilloma | D) Laryngeal web
+EXPLANATION: Commonest cause of stridor in an healthy infant . It is due to soft larynx, that gets pulled during inspiration and thus producing whistling sound. Typical characteristic is that the stridor is aggravated on exertion like crying, agitation and feeding and disappears in prone position. It is self-resolving condition and needs no active management. Tags : Topic : LARYNGOMALACIA Difficulty level : GOOD TO KNOW PYQ : NEET PG 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 2207
+----------------------------------------------------------------
+
+ID: 24537 | Answer: [B] Staphylococcus aureus
+QUESTION: A 6-year-old child who is previously diagnosed with Cystic fibrosis, comes with high fever and productive coughing in last 3 days. X ray shows unilateral consolidation. Which of the following organism is most likely to be responsible?
+OPTIONS: A) Burkholderia cepacia | B) Staphylococcus aureus | C) Pseudomonas aeruginosa | D) Pneumococcus
+EXPLANATION: Staphylococcus aureus and Pseudomonas are the most common organisms responsible for pneumonia in patients with cystic fibrosis. Staphylococcus aureus is more common in children; Pseudomonas is more common in adult . Burkholderia can be one of the causes but it is less common. Tags : Topic : CYSTIC FIBROSIS Difficulty level : MAY KNOW PYQ : INICET NOV 2022; MAY 2022; MAY 2024; NEET PG 2020;2022 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 2285
+----------------------------------------------------------------
+
+ID: 24538 | Answer: [B] Oral candidiasis
+QUESTION: Which of the following is the most common adverse effect associated with inhaled corticosteroids in asthma patients?
+OPTIONS: A) Tachycardia | B) Oral candidiasis | C) Loss of smell | D) Nausea
+EXPLANATION: Patients using inhaled corticosteroids can get a fungal infection called oropharyngeal candidiasis . The infection occurs because the steroids weaken the immune system in the mouth and throat. Tags : Topic : ASTHMA Difficulty level : MUST KNOW PYQ : INICET NOV 2022; AIIMS JULY 2020 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 1192
+----------------------------------------------------------------
+
+ID: 24539 | Answer: [A] Pneumocystis carinii
+QUESTION: A 12-year-old child comes to you with complaints of wet cough since 4 days and high grade continuous fever since 3 days. The X ray chest is as shown. What is the most likely organism for the condition?
+OPTIONS: A) Pneumocystis carinii | B) Staphylococcus aureus | C) Moraxella catarrhalis | D) Mycobacterium tuberculosis
+EXPLANATION: The X ray is suggestive of unilateral consolidation with cavitation. There are loculated necrosed tissues or cavitations . These along with acute history of high fever and wet cough are more likely to be seen in Staphylococcus aureus pneumonia. It may develop complications like empyema, pneumatocele or bronchopulmonary fistula. Tags : Topic : PNEUMONIA & COMPLICATIONS Difficulty level : GOOD TO KNOW PYQ : FMGE JUNE 2022; AUG 2020; DEC 2021 Reference : Nelson textbook of pediatrics, 21 st ed., pg. 1431
+----------------------------------------------------------------
+
+ID: 24540 | Answer: [D] LABA before exercise
+QUESTION: Which of the following is not the recommendation for management of exercise induced asthma?
+OPTIONS: A) Low dose inhalational corticosteroids (ICS) before exercise | B) Low dose maintenance ICS daily | C) SABA before exercise | D) LABA before exercise
+EXPLANATION: Breakthrough Exercise induced asthma can be managed with Warm up before exercise SABA before or during exercise Low dose ICS formoterol before or during exercise For prevention of Exercise induced bronchoconstriction Daily treatment with ICS Tags : Topic : ASTHMA Difficulty level : MUST KNOW PYQ : INICET NOV 2022; AIIMS JULY 2020 Reference : GINA guidelines, 2023, pg. 91
+----------------------------------------------------------------
+
+ID: 24541 | Answer: [A] Delaying this vaccine increases the risk of the complication of rotaviral diarrheas
+QUESTION: A 2-month-old male infant is brought to your office for a health supervision visit. When discussing vaccines, his mother reports that her daughter had an intussusception that was reduced by the radiologist. She would like to delay administration of the rotavirus vaccine for her son until 6 months of age. Of the following, considering his sibling's history, the MOST accurate information you can provide is that for this infant
+OPTIONS: A) Delaying this vaccine increases the risk of the complication of rotaviral diarrheas | B) Only 1 dose of the vaccine should be administered | C) The 2-dose series is preferred over the 3-dose series of the vaccine, given the family history | D) This vaccine is contraindicated, given the family history
+EXPLANATION: Rotavirus vaccine, an orally administered, live vaccine that is highly effective at preventing gastroenteritis caused by rotavirus, should be administered routinely at 6, 10, 14 weeks of age. There are age limits beyond which the vaccine should not be administered (14 weeks, 6 days for a first dose; 8 months, 0 days for the second or third doses); thus, delaying the vaccine could result in missed opportunities for protection. There is a small, increased risk of intussusception with the first dose of the rotavirus vaccine, which has an acceptable risk-benefit ratio within the permitted age range. Tags : Topic : IMMUNIZATION Difficulty level : MUST KNOW PYQ : FMGE JUNE 2022;INICET NOV 2022; MAY 2022; NOV 2021;JULY 2021 Reference : IAP guidebook on immunization 2018-19, pg. 189
+----------------------------------------------------------------
+
+ID: 24542 | Answer: [B] 2 doses at 0, 6 months
+QUESTION: An 11-year-old girl visits you with purpose of HPV vaccination. What is the advised schedule for HPV 4 vaccination in this patient?
+OPTIONS: A) 1 dose stat | B) 2 doses at 0, 6 months | C) 3 doses at 0, 2, 6 months | D) 3 doses at 0, 1, 6 months
+EXPLANATION: IAP recommendations for HPV 4 9-14 years - 2 doses at 0, 6 months 15-45 years - 3 doses at 0, 2, 6 months Tags : Topic : IMMUNIZATION Difficulty level : MUST KNOW PYQ : FMGE JUNE 2022;INICET NOV 2022; MAY 2022; NOV 2021;JULY 2021 Reference : IAP Purple book on Immunization in India- 2023, pg. 315
+----------------------------------------------------------------
+
+ID: 24543 | Answer: [C] Can be used till the square is darker than circle
+QUESTION: You are giving vaccine in your OPD and observe following color of VVM in OPV vaccine. What is the next course of action?
+OPTIONS: A) Discard the vaccine immediately | B) Can be used for next 1 hour | C) Can be used till the square is darker than circle | D) Depends on the availability of vaccines
+EXPLANATION: Tags : Topic : IMMUNIZATION Difficulty level : MUST KNOW PYQ : INICET NOV 2022 Reference : IAP Guidebook of immunization, 3 rd ed., pg. 65
+----------------------------------------------------------------
+
+ID: 24544 | Answer: [A] 1%
+QUESTION: You are counselling parents of a 3-year-old child who recently had first episode of simple febrile seizure. There is no significant past or family history and birth was uneventful. Child is otherwise growing well. What is the likelihood of child developing epilepsy in future?
+OPTIONS: A) 1% | B) 4% | C) 6% | D) 18%
+TAG TOPIC: SEIZURE AND EPILEPSY Difficulty level: MUST KNOW PYQ: INICET Nov 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3093
+EXPLANATION: Risk of subsequent epilepsy after febrile seizure KEY TAKEAWAYS : The Risk of subsequent epilepsy after Simple febrile seizure is 1%. Tags: Topic: SEIZURE AND EPILEPSY Difficulty level: MUST KNOW PYQ: INICET Nov 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3093
+----------------------------------------------------------------
+
+ID: 24545 | Answer: [B] Early morning headaches
+QUESTION: A 10-year-old girl has been experiencing recurrent headaches over the last 2 months. There is a family history of migraine in mother. Which of the following is a red flag symptom for headaches that warrants neuroimaging?
+OPTIONS: A) Photophobia | B) Early morning headaches | C) Associated nausea | D) Unilateral headache
+TAG TOPIC: HEADACHE Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3195
+EXPLANATION: Indications of neuroimaging in children with headache KEY TAKEAWAYS : Early morning headache is a red flag symptom for headaches that warrants neuroimaging. Tags: Topic: HEADACHE Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3195
+----------------------------------------------------------------
+
+ID: 24546 | Answer: [B] Ethosuximide
+QUESTION: A 6 year old female presents with recurrent episodes of 'day dreaming'. Parents report during these episodes they are not responsive to any stimuli and then come round and will not be aware of the episode. Similar events are occurring at school. You diagnose the child with absence seizures, which medication would be most appropriate to start?
+OPTIONS: A) Carbamazepine | B) Ethosuximide | C) Vigabatrin | D) Lamotrigine
+TAG TOPIC: SEIZURE AND EPILEPSY Difficulty level: MUST KNOW PYQ: FMGE DEC 2021 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3095
+EXPLANATION: History is typical of absence seizures characterized by brief staring spells, with no awareness. There is associated poor scholastic performance. Absence seizures , also known as "petit mal seizures," are brief, sudden lapses in awareness, often lasting only a few seconds. These seizures are most common in children but can also occur in adults. Here are the main characteristics: Key Characteristics of Absence Seizures: Brief Duration : Usually last between 5-10 seconds , rarely longer than 20 seconds. Sudden Onset : The child or adult may suddenly stop speaking or lose focus , appearing to "stare into space". Lack of Response : During the seizure, the person is unresponsive to external stimuli. Automatic Movements : Some individuals may exhibit slight twitching, blinking, or hand movements. Rapid Recovery : After the seizure, the person usually resumes activities immediately, with no memory of the event. First line of management is Ethosuximide in typical absence seizures and Valproate in Atypical absence seizures. KEY TAKEAWAYS : Absence seizures are brief episodes of staring or "spacing out ," lasting only a few seconds, during which a person is unresponsive. They often occur in children and may involve subtle movements like blinking, with immediate recovery and no memory of the event. Tags: Topic: SEIZURE AND EPILEPSY Difficulty level: MUST KNOW PYQ: FMGE DEC 2021 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3095
+----------------------------------------------------------------
+
+ID: 24547 | Answer: [A] MAP - ICP
+QUESTION: Brain perfusion pressure equals
+OPTIONS: A) MAP - ICP | B) DBP - ICP | C) ICP - SBP | D) SBP - DBP
+TAG TOPIC: RAISED ICP Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 557
+EXPLANATION: Cerebral Perfusion Pressure (CPP) = MAP - ICP or CVP (whichever is highest) Cerebral Blood Flow (CBF) = CPP/CVR [CVR = cerebral vascular resistance] Tags: Topic: RAISED ICP Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 557
+----------------------------------------------------------------
+
+ID: 24548 | Answer: [A] Spastic diplegia
+QUESTION: Prematurity is major cause of which type of cerebral palsy?
+OPTIONS: A) Spastic diplegia | B) Spastic quadriplegia | C) Hemiplegia | D) Athetoid
+TAG TOPIC: CEREBRAL PALSY Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3168
+EXPLANATION: KEY TAKEAWAYS : Prematurity causes Spastic Diplegia. Tags: Topic: CEREBRAL PALSY Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3168
+----------------------------------------------------------------
+
+ID: 24549 | Answer: [C] Medulloblastoma
+QUESTION: A CNS tumor that predominantly affects the midline vermis, causes hydrocephalus, biopsy shows small round blue cells and Homer-Wright rosettes is?
+OPTIONS: A) Pilocytic astrocytoma | B) Ependymoma | C) Medulloblastoma | D) Pontine glioma
+TAG TOPIC: HYDROCEPHALUS Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3064
+EXPLANATION: Medulloblastoma is an embryonal CNS tumor, affecting mainly the cerebellar vermis and thus causing ataxia, poor balance and dysmetria. Histologically, there are small round blue tumor cell characterized by Homer-wright rosettes and immunopositivity for synaptophysin. It can cause obstruction of 4 th ventricle and thus hydrocephalus . Tags: Topic: HYDROCEPHALUS Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3064
+----------------------------------------------------------------
+
+ID: 24550 | Answer: [A] Type 1
+QUESTION: Which is the most severe type of Spinomuscular atrophy among the following?
+OPTIONS: A) Type 1 | B) Type 2 | C) Type 3 | D) Type 4
+TAG TOPIC: NEUROMUSCULAR DISEASE Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3110
+EXPLANATION: KEY TAKEAWAYS: Most severe is Type 0 - incompatible to life - dies in utero Tags: Topic: NEUROMUSCULAR DISEASE Difficulty level: GOOD TO KNOW PYQ: INICET MAY 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3110
+----------------------------------------------------------------
+
+ID: 24551 | Answer: [A] Vigabatrin
+QUESTION: An infant with repeated attacks of seizures has hypsarrhythmia on EEG. She is a known case of tuberous sclerosis. Which is the most appropriate treatment?
+OPTIONS: A) Vigabatrin | B) ACTH | C) Lacosamide | D) Phenytoin
+TAG TOPIC: NEUROCUTANEOUS SYNDROME Difficulty level: GOOD TO KNOW PYQ: NEET PG 2022; INICET MAY 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3103
+EXPLANATION: Hypsarrhythmia in EEG is typical of infantile spasms. It is one of the major features of patients with Tuberous sclerosis. Infantile spasms (IS), also known as West syndrome , are a rare but severe form of epilepsy that typically begins in infants aged 3-12 months. These spasms appear as sudden, brief jerking movements that often occur in clusters, especially upon waking. Symptoms may include the baby bending forward at the waist, extending their arms and legs, or a "jackknife" movement. KEY TAKEAWAYS: For infantile spasm DOC is ACTH. For infantile spasm in Tuberous sclerosis, DOC is Vigabatrin. Tags: Topic: NEUROCUTANEOUS SYNDROME Difficulty level: GOOD TO KNOW PYQ: NEET PG 2022; INICET MAY 2022 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 3103
+----------------------------------------------------------------
+
+ID: 24552 | Answer: [A] Dermatomyositis
+QUESTION: A 4-year-old boy present to clinic with weakness and increased frequency of falls over the past month. His gait is weak, and Gower sign is positive. Purplish swelling of the eyelids is also noted. What is the most likely diagnosis?
+OPTIONS: A) Dermatomyositis | B) Duchenne Muscular Dystrophy | C) Myasthenia Gravis | D) Scleroderma
+TAG TOPIC: NEUROCUTANEOUS SYNDROME Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1182
+EXPLANATION: Dermatomyositis should be suspected in any child with symmetrical proximal muscle weakness and skin changes. Proximal muscle weakness is manifest by difficulty in standing, getting out of bed, climbing stairs, or combing one's hair. Falls may occur with increasing frequency. Affected children may display the Gower sign , where they use their arms to climb up their legs into a standing position because their proximal musculature is too weak to support standing without assistance. Skin manifestations of Dermatomyositis include a classic heliotrope rash and Gottron's papules. Rash is not a manifestation of Duchenne Muscular Dystrophy. Tags: Topic: NEUROCUTANEOUS SYNDROME Difficulty level: GOOD TO KNOW Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1182
+----------------------------------------------------------------
+
+ID: 24553 | Answer: [D] Hypoplasia of cerebellar vermis
+QUESTION: All the following are features of Arnold Chiari-II malformation except
+OPTIONS: A) Myelomeningocele | B) Herniation of cerebellar tonsils | C) Hydrocephalus | D) Hypoplasia of cerebellar vermis
+TAG TOPIC: CNS MALFORMATIONS Difficulty level: GOOD TO KNOW PYQ: NEET PG 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 2150
+EXPLANATION: Arnold-Chiari type II malformation is associated with Myelomeningocele Hydrocephalus Herniation of the cerebellar tonsils, caudal brainstem, and the fourth ventricle through the foramen magnum. Tags: Topic: CNS MALFORMATIONS Difficulty level: GOOD TO KNOW PYQ: NEET PG 2024 Reference: Nelson textbook of pediatrics, 21 st ed., pg. 2150
+----------------------------------------------------------------
+
+ID: 24554 | Answer: [B] IgA anti-TTG
+QUESTION: A 15-year-old male patient presents with abdominal pain. For the past several months, he has had vague complaints of abdominal discomfort. He has felt "bloated" with little appetite. He also states that he is feeling more tired than normal and has been experiencing severe headaches. Although he has had some loose bowel movements, overall, they have been normal, and he that states no blood is apparent in his stool. Prior to this, the patient was healthy. You diagnose the patient with likely celiac disease. What is the first test in work up of the patient?
+OPTIONS: A) Intestinal biopsy | B) IgA anti-TTG | C) Ultrasound scan of the abdomen | D) MRI of the abdomen
+TAG TOPIC: CELIAC DISEASE Difficulty level: GOOD TO KNOW PYQ: NEET PG 2022 Reference: Nelson textbook of pediatrics, 1 st SA ed, pg no: 1141
+EXPLANATION: The screening test for celiac disease is IgA TTG levels. However, If the clinical suspicion for celiac disease is strong and screening test is negative, consider performing an intestinal biopsy as most serologic tests have a sensitivity of 80- 90% and a specificity of 90-96%, with some degree of variation. As a result, it is possible that the tests will be falsely negative and should be followed, if suspicion warrants it, by a biopsy. Delaying diagnosis and treatment is not recommended. If the follow-up test is positive, due to the equivocal nature of one positive and one negative test, it is likely that a biopsy would be performed anyway. Ultrasound and MRI of the abdomen may show signs of inflammation but is not as helpful in the definitive diagnosis of celiac disease. Tags: Topic: CELIAC DISEASE Difficulty level: GOOD TO KNOW PYQ: NEET PG 2022 Reference: Nelson textbook of pediatrics, 1 st SA ed, pg no: 1141
+----------------------------------------------------------------
+
+ID: 24556 | Answer: [C] Annual transcranial Doppler ultrasound
+QUESTION: Evaluation of a 9-year-old girl with known SCD reveals right-sided weakness and slurring of speech without any associated pain. Her vital signs are within normal limits for her age. Which of the following screening tests might have helped to prevent this complication of SCD?
+OPTIONS: A) Annual CT of head | B) Annual MRI of head | C) Annual transcranial Doppler ultrasound | D) Annual neurologic assessments during well-child checks
+TAG TOPIC: SICKLE CELL ANEMIA Difficulty level: MUST KNOW PYQ: INICET MAY 2022 Reference: Nelson textbook of Pediatrics, 1 st SA edition, page number: 2344
+EXPLANATION: Transcranial Doppler ultrasound should initially be performed at 2 years of age. If normal, it should be repeated annually until the patient is 16 years old. TCD identifies children with sickle cell anemia who are at high risk for ischemic stroke by detecting elevated blood flow velocities in the cerebral arteries, indicating narrowing or increased resistance. If two ultrasounds are abnormal, transfusion therapy typically is initiated and continued indefinitely to help prevent stroke. Option A and B: CT and MRI without any signs of stroke are not indicated. A change in hemoglobin level does not indicate potential stroke in a patient with SCD, but may be concerning for infection or aplastic crisis. Option D: Although neurological examinations are an important part of any physical examination, changes in the examination would indicate an already evolving process, rather than help to predict the potential for future disease. KEY TAKEAWAYS: Regular TCD screening is a crucial component of stroke prevention in children with sickle cell anemia, allowing for early identification and intervention to reduce the risk of serious neurological complications. Tags: Topic: SICKLE CELL ANEMIA Difficulty level: MUST KNOW PYQ: INICET MAY 2022 Reference: Nelson textbook of Pediatrics, 1 st SA edition, page number: 2344
+----------------------------------------------------------------
+
+ID: 24558 | Answer: [B] 3 weeks
+QUESTION: A 10-year-old patient has a history of arthritis that started in the ankles, moved to the knees, and then shifted to the wrists. On physical examination, there is a fever (40&deg;C) and a friction rub. Echocardiography reveals mitral valve prolapse and left ventricular dysfunction consistent with carditis. The laboratory results show an elevated erythrocyte sedimentation rate. How long before onset of symptoms does the infection associated with this diagnosis typically occur?
+OPTIONS: A) Less than 1 week | B) 3 weeks | C) 6 weeks | D) 9 weeks
+TAG TOPIC: ACQUIRED CARDIAC DISEASE Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1333
+EXPLANATION: Acute rheumatic fever presents approximately 3 weeks after a group A Streptococcus infection. Diagnosis of acute rheumatic fever (ARF) is based on the Jones criteria, which require evidence of a group A streptococcal infection and either 2 major criteria or 1 major and 2 minor criteria. Major Jones criteria for ARF are Polyarthritis Carditis Sydenham chorea Subcutaneous nodules Erythema marginatum. Minor Jones criteria for ARF are Fever Arthralgia Prolonged PR interval on electrocardiograph Elevated acute-phase reactants Key takeaways: T he process begins with a streptococcal throat infection (pharyngitis) caused by GAS. Certain strains of this bacteria have proteins (like M proteins ) that mimic proteins in human tissues, a phenomenon known as molecular mimicry. Tags: Topic: ACQUIRED CARDIAC DISEASE Difficulty level: MUST KNOW Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1333
+----------------------------------------------------------------
+
+ID: 24559 | Answer: [C] Benzathine penicillin 1.2 M IU for 10 years or 21 years of age
+QUESTION: As a secondary prophylaxis, what is the accepted therapy in a patient of acute rheumatic fever with rheumatic carditis without valve damage?
+OPTIONS: A) Benzathine penicillin 1.2 M IU for 5 years or 18 years of age | B) Benzathine penicillin 1.2 M IU for 5 years or 21 years of age | C) Benzathine penicillin 1.2 M IU for 10 years or 21 years of age | D) Benzathine penicillin 1.2 M IU for 10 years or 40 years of age
+TAG TOPIC: ACQUIRED CARDIAC DISEASE Difficulty level: MUST KNOW PYQ: NEET PG 2021 Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1333
+EXPLANATION: Primary prophylaxis of ARF Penicillin G given before 9 days of onset of streptococcal sore throat. Secondary Prophylaxis Benzathine penicillin 1.2 M IU IM is drug of choice For penicillin allergic - Macrolides or sulfonamides are given KEY TAKEAWAYS: Duration of secondary prophylaxis Tags: Topic: ACQUIRED CARDIAC DISEASE Difficulty level: MUST KNOW PYQ: NEET PG 2021 Reference: Nelson textbook of pediatrics, 1 st SA edition, pg. 1333
+----------------------------------------------------------------
+
+ID: 24560 | Answer: [B] Cephalhematoma
+QUESTION: Identify the condition seen in a neonate presenting with a head swelling that developed a few weeks after birth, as shown in the given image.
+OPTIONS: A) Caput succedaneum | B) Cephalhematoma | C) Subgaleal bleed | D) Encephalocele
+EXPLANATION: Explanation: Cephalhematoma is a subperiosteal hemorrhage confined within suture lines, most commonly over parietal bones. It appears hours after delivery, enlarges over 12&ndash;24 hours, and resolves in 2&ndash;3 weeks. May be associated with linear skull fractures or hyperbilirubinemia. Differentiation Table: Key takeaways: Cephalhematoma &rarr; subperiosteal bleed limited by sutures. Appears after birth; resolves gradually.
+----------------------------------------------------------------
+
+ID: 24561 | Answer: [D] 24 months
+QUESTION: At what age would a child normally be able to make a tower of 6 cubes, turn a doorknob, and use pronouns like "I," "me", or "you"?
+OPTIONS: A) 36 months | B) 18 months | C) 15 months | D) 24 months
+EXPLANATION: Explanation: At 24 months of age , a child is typically able to stack a tower of six cubes, twist a doorknob, and use pronouns such as I, me, and you.
+----------------------------------------------------------------
+
+ID: 24562 | Answer: [B] B
+QUESTION: Which of the following biochemical parameters are correct in vitamin D-dependent rickets?
+OPTIONS: A) A | B) B | C) C | D) D
+EXPLANATION: Explanation: In vitamin D-dependent rickets, the serum calcium is decreased or normal and PTH is increased.
+----------------------------------------------------------------
+
+ID: 24563 | Answer: [A] Mild intellectual disability
+QUESTION: A child is performing poor in school, and with an IQ of 55 comes under:
+OPTIONS: A) Mild intellectual disability | B) Moderate intellectual disability | C) Severe intellectual disability | D) Profound intellectual disability
+EXPLANATION: Explanation: Mild intellectual disability: Intellectual disability: IQ IQ = (Mental age / Chronological age) x 100 Mild intellectual disability: IQ 51-70 Key Takeaway Points:
+----------------------------------------------------------------
+
+ID: 24565 | Answer: [B] Neurofibroma
+QUESTION: A 14-year-old girl presented with firm, non-tender, slow-growing swelling in the left side of neck. She was noted to have axillary freckles and pigmented flat spots on the trunk. Most probable diagnosis?
+OPTIONS: A) Lipoma | B) Neurofibroma | C) Chemodectoma | D) Cystic hygroma
+EXPLANATION: Some key features of neurofibroma are following
+----------------------------------------------------------------
+
+ID: 24566 | Answer: [B] Globin gene sequencing
+QUESTION: A 14 months old child with Hemoglobin - 6.3 g/dl was undergoing repeated blood transfusions. The last transfusion was given at 9 months. What is an investigation for definitive diagnosis?
+OPTIONS: A) HPLC | B) Globin gene sequencing | C) Ferritin | D) Bone marrow sampling
+EXPLANATION: Takeaway :-
+----------------------------------------------------------------
+
+ID: 24567 | Answer: [D] Bell and pad based classical conditioning
+QUESTION: A 7-year-old child presented with complaints of bed-wetting almost twice a week. A detailed investigation was done to rule out the organic cause. What should be the initial treatment plan for this child?
+OPTIONS: A) Pharmacotherapy with imipramine | B) Psychodynamic psychotherapy | C) Bladder training | D) Bell and pad based classical conditioning
+EXPLANATION: 
+----------------------------------------------------------------
+
+ID: 24568 | Answer: [A] 3 months
+QUESTION: Bidextrous grasp begins at what age?
+OPTIONS: A) 3 months | B) 4 months | C) 5 months | D) 6 months
+EXPLANATION: Key Takeaway :-
+----------------------------------------------------------------
+
+ID: 24569 | Answer: [A] Haemophilus influenzae type B
+QUESTION: A child, 13 yrs old was admitted to the pediatric emergency as he started developing breathlessness following a flu. Child was shifted to the isolation ward after confirming that it is the first case of swine flu in that area. He developed pneumonia and for which treatment was started. Which vaccine needs to be taken every year by the people who are at high risk?
+OPTIONS: A) Haemophilus influenzae type B | B) Pneumococcal | C) Influenza | D) Chicken pox
+EXPLANATION: 
+----------------------------------------------------------------
+
+ID: 24570 | Answer: [D] Gain of function mutation is seen
+QUESTION: True about Fragile X Syndrome is?
+OPTIONS: A) Triple nucleotide CAG sequence shows mutation | B) 10% female carriers are mentally retarded | C) Males can have IQ of 20-40 | D) Gain of function mutation is seen
+EXPLANATION: 
+----------------------------------------------------------------
+
+ID: 24572 | Answer: [C] Type 4 with paradoxical aciduria and hypokalemia
+QUESTION: All are true about renal tubular acidosis in children EXCEPT:
+OPTIONS: A) Type 4 is due to defective ammoniagenesis and aldosterone resistance | B) Type 2 is Fanconi and hypophosphatemic rickets | C) Type 4 with paradoxical aciduria and hypokalemia | D) Type 2 - abnormal loss of HCO&#8323;
+EXPLANATION: Explanation: Type 4 renal tubular acidosis presents with hyperkalemia not hypokalemia Types of Renal Tubular Acidosis:
+----------------------------------------------------------------
+
+ID: 24579 | Answer: [B] Peripheral blood film
+QUESTION: A child presented with proptosis. You suspect it to be a chloroma. Next best investigation to make the diagnosis (among the following) is?
+OPTIONS: A) Platelet count | B) Peripheral blood film | C) TLC/WBC Count | D) Haemoglobin
+EXPLANATION: Chloroma, also known as granulocytic sarcoma , is a rare extramedullary manifestation of acute myeloid leukemia (AML) . It can present as proptosis when the orbit is involved. The best investigation to make the diagnosis of chloroma is a peripheral blood film , which helps identify the presence of myeloblasts . These cells are characteristic of AML and would confirm the diagnosis. In addition, chloromas are often associated with specific cytogenetic abnormalities, such as t(8;21) translocation. While a bone marrow aspirate and flow cytometry are essential for definitive diagnosis, a peripheral blood smear is a practical, quick test to support the diagnosis. AML patients may also present with unusual symptoms such as "blueberry muffin" lesions , subcutaneous nodules, or infiltration of the gingiva, which can be helpful in diagnosing chloromas. Incorrect Options: Platelet count: Platelet counts may show thrombocytopenia in AML, but this is nonspecific and does not aid in the diagnosis of chloromas. TLC/WBC Count: Total leukocyte count may show leukocytosis , but it does not provide specific information about the presence of chloromas or myeloblasts, making it insufficient for diagnosis. Hemoglobin: Anemia is common in AML due to bone marrow failure, but hemoglobin levels are not specific for diagnosing chloromas or AML. Key Takeaway: Peripheral blood film is the best initial test to identify myeloblasts when chloroma is suspected. Definitive diagnosis requires bone marrow aspirate , flow cytometry , and cytogenetic analysis . Chloromas are extramedullary AML manifestations and can cause symptoms such as proptosis, "blueberry muffin" lesions , and subcutaneous nodules in infants. Reference : Nelson textbook of Pediatrics, 21st ed., pg. 2654
+----------------------------------------------------------------
+
+ID: 24580 | Answer: [C] Superolateral
+QUESTION: Site of injection in gluteus ?
+OPTIONS: A) Inferomedial | B) Superomedial | C) Superolateral | D) Inferolateral
+EXPLANATION: Ans. is 'c' i.e., Superolateral level Part of axilla Lymph nodes I Upper arm (Deltoid) 5 cm distal to the acromion or 4 cm proximal to the insertion of deltoid. This is to prevent injury to circumflex humeral nerve. II Gluteal region Upper outer (superolateral) quadrant. This is to avoid damage to superior and inferior gluteal vessels and sciatic nerve. III Thigh (lateral aspect) Infant :- Upper lateral quadrant of (vastus lateralis) thigh below GT Adult :- Middle third of lateral aspect.
+----------------------------------------------------------------
+
+ID: 24581 | Answer: [D] Florence Nightingale
+QUESTION: 'Secrete of national health lies in the homes of people' statement by ?
+OPTIONS: A) Indira Gandhi | B) Abhraham lincon | C) Bhore | D) Florence Nightingale
+EXPLANATION: Ans. is 'd' i.e., Florence Nightingale [Ref Housing and planning review p. 35] Florence Nighingale pointed out nearly a hundrade years ago, "the secret of national health lies in the homes of people".
+----------------------------------------------------------------
+
+ID: 24582 | Answer: [B] A C
+QUESTION: Bivalent meningococcal vaccine is ?
+OPTIONS: A) A Y | B) A C | C) C y | D) A W-I35
+EXPLANATION: Ans. is 'b' i.e., A C Two type of meningococcal vaccine develop Unconjugated polysaccharide vaccine. Conjugated group C vaccine. Polysaccharide vaccines Internationally marketed meningococcal polysaccharide vaccines are o Bivalent (A and C), Trivalent (A, C and W-135) Tetravalent (A, C, Y and W-135). The vaccines are purified, heat-stable, lyophilized capsular polysaccharides from meningococci of the respective serogroups. A protective antibody response occurs within 10 days of vaccination. In schoolchildren and adults, one dose of these polysaccharide vaccines appears to provide protection for at least 3 years, but in children under 4 years of age the levels of specific antibodies decline rapidly after 2-3 years.
+----------------------------------------------------------------
+
+ID: 24583 | Answer: [C] 50
+QUESTION: According to EVINCE fast breathing in 5 mth child is defined as -
+OPTIONS: A) >30/min | B) 40 | C) 50 | D) 60
+EXPLANATION: Ans. is 'c' i.e.,
+----------------------------------------------------------------
+
+ID: 24584 | Answer: [A] Upto 5yrs
+QUESTION: IMNCI target group -
+OPTIONS: A) Upto 5yrs | B) Upto 10 yrs | C) Upto 15 yrs | D) Upto 20 yrs
+EXPLANATION: Ans. is 'a' i.e., Upto 5 years om
+----------------------------------------------------------------
+
+ID: 24585 | Answer: [B] 40 - 60
+QUESTION: Above which level of heat stress index it is not possible to work comfortably -
+OPTIONS: A) 20 - 40 | B) 40 - 60 | C) 60 - 80 | D) 80 - 100
+EXPLANATION: Ans. is b'., 40-60 o HSI 40-60 causes severe heat strain and it is not possible to work comfortably.
+----------------------------------------------------------------
+
+ID: 24586 | Answer: [D] 75 gm
+QUESTION: Students receive how much cereal /day in mid day meal prog -
+OPTIONS: A) 50 gm | B) 100 gm | C) 150 gm | D) 75 gm
+EXPLANATION: Ans. is 'd' i.e., 75 gm
+----------------------------------------------------------------
+
+ID: 24587 | Answer: [C] Foreign object being put in the mouth
+QUESTION: Pica refers to -
+OPTIONS: A) Ice sucking | B) Thumb sucking | C) Foreign object being put in the mouth | D) None of above
+EXPLANATION: Answer- C. Foreign object being put in the mouth Pica involves repeated or chronic ingestion of non-nutritive substances, which include plaster, charcoal, clay, wool, ashes, paint & earth.
+----------------------------------------------------------------
+
+ID: 24588 | Answer: [A] 15 : 2
+QUESTION: CPR with 2 candidate is done at rate of (in infant) -
+OPTIONS: A) 15 : 2 | B) 30 : 2 | C) 1 : 3 | D) 1 : 5
+EXPLANATION: Answer- A. 15 : 2 In infant children with two resuscitator = 15 : 2 In adult with two resuscitator - 30 : 2 In single resuscitator chest compresion ventilation ratio in all age group i.e. Infant, children & adult = 30 :
+----------------------------------------------------------------
+

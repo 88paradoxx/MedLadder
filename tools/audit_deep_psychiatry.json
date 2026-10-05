@@ -1,0 +1,247 @@
+{
+  "subject": "Psychiatry",
+  "totalQuestions": 1036,
+  "flaggedCount": 40,
+  "moves": [
+    {
+      "id": 28291,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28275,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28325,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28322,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28302,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28320,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28472,
+      "fromModule": 688,
+      "toModule": 693,
+      "reason": "Tests non-schizophrenic psychotic disorders (Schizoaffective, Delusional disorder, Capgras, Cotard, Brief psychosis), belongs in Psychiatry: Other Psychotic Disorders (Module 693)."
+    },
+    {
+      "id": 28277,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28293,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28292,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28297,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28295,
+      "fromModule": 688,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28433,
+      "fromModule": 688,
+      "toModule": 697,
+      "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+    },
+    {
+      "id": 28192,
+      "fromModule": 692,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28338,
+      "fromModule": 692,
+      "toModule": 704,
+      "reason": "Tests Cluster A, B, and C personality disorders (Borderline, Antisocial, Schizoid, OCPD), belongs in Psychiatry: Personality Disorders (Module 704)."
+    },
+    {
+      "id": 28351,
+      "fromModule": 693,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28345,
+      "fromModule": 693,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28790,
+      "fromModule": 693,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28826,
+      "fromModule": 693,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28189,
+      "fromModule": 693,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28794,
+      "fromModule": 693,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28413,
+      "fromModule": 697,
+      "toModule": 690,
+      "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+    },
+    {
+      "id": 28734,
+      "fromModule": 698,
+      "toModule": 714,
+      "reason": "Tests intellectual disability (IQ classification) and specific learning disorders (Dyslexia, Dyscalculia), belongs in Psychiatry: Intellectual Disability & Specific Learning Disorders (Module 714)."
+    },
+    {
+      "id": 28323,
+      "fromModule": 698,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28327,
+      "fromModule": 698,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28832,
+      "fromModule": 698,
+      "toModule": 697,
+      "reason": "Tests depressive disorders (Major Depression, Atypical Depression, Dysthymia, Beck cognitive triad), belongs in Psychiatry: Depressive Disorders (Module 697)."
+    },
+    {
+      "id": 28503,
+      "fromModule": 699,
+      "toModule": 700,
+      "reason": "Tests illicit substance use disorders (Opioids/Naloxone, Cannabis, Cocaine formication, Benzodiazepines/Flumazenil, Nicotine), belongs in Psychiatry: Other Substance Use Disorders (Module 700)."
+    },
+    {
+      "id": 28384,
+      "fromModule": 699,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28510,
+      "fromModule": 699,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28379,
+      "fromModule": 699,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28508,
+      "fromModule": 699,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28267,
+      "fromModule": 702,
+      "toModule": 690,
+      "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+    },
+    {
+      "id": 28610,
+      "fromModule": 703,
+      "toModule": 707,
+      "reason": "Tests dissociative disorders (Dissociative amnesia, Dissociative fugue, DID, Depersonalization), belongs in Psychiatry: Dissociative Disorders (Module 707)."
+    },
+    {
+      "id": 28595,
+      "fromModule": 705,
+      "toModule": 702,
+      "reason": "Tests obsessive-compulsive spectrum disorders (OCD, ERP therapy, Body dysmorphic disorder, Trichotillomania), belongs in Psychiatry: Obsessive-Compulsive and Related Disorders (Module 702)."
+    },
+    {
+      "id": 28477,
+      "fromModule": 708,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28407,
+      "fromModule": 708,
+      "toModule": 709,
+      "reason": "Tests eating disorders (Anorexia nervosa, Bulimia nervosa, Binge-eating disorder), belongs in Psychiatry: Eating Disorders (Module 709)."
+    },
+    {
+      "id": 28482,
+      "fromModule": 708,
+      "toModule": 688,
+      "reason": "Tests elementary psychopathology (Hallucinations, Delusions, Disorders of thought form/stream, Catatonic signs), belongs in Psychiatry: Symptoms and Clinical Manifestations in Psychiatry (Module 688)."
+    },
+    {
+      "id": 28311,
+      "fromModule": 714,
+      "toModule": 692,
+      "reason": "Tests schizophrenia spectrum psychopathology (Schneider first rank symptoms, clinical subtypes, dopamine pathways), belongs in Psychiatry: Schizophrenia (Module 692)."
+    },
+    {
+      "id": 28739,
+      "fromModule": 716,
+      "toModule": 714,
+      "reason": "Tests intellectual disability (IQ classification) and specific learning disorders (Dyslexia, Dyscalculia), belongs in Psychiatry: Intellectual Disability & Specific Learning Disorders (Module 714)."
+    },
+    {
+      "id": 28270,
+      "fromModule": 718,
+      "toModule": 690,
+      "reason": "Tests somatic treatments (Modified ECT indications/contraindications) and psychotherapeutic modalities (CBT, DBT, Psychoanalysis), belongs in Psychiatry: Specific Treatment Modalities (Module 690)."
+    }
+  ]
+}

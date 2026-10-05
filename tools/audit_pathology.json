@@ -1,0 +1,3871 @@
+{
+  "subject": "Pathology",
+  "totalQuestions": 1717,
+  "flaggedCount": 644,
+  "moves": [
+    {
+      "id": 1834,
+      "fromModule": 180,
+      "toModule": 73,
+      "reason": "Gas exchange by diffusion impairment in emphysema -> Physiology (Mod 73: Mechanism of Respiration / Gas Exchange)"
+    },
+    {
+      "id": 2408,
+      "fromModule": 185,
+      "toModule": 113,
+      "reason": "Gs alpha subunit gain-of-function mutation causing increased cAMP -> Biochemistry (Mod 113: Signal Transduction)"
+    },
+    {
+      "id": 2622,
+      "fromModule": 159,
+      "toModule": 161,
+      "reason": "Anterior wall myocardial infarction with ST elevation -> Pathology (Mod 161: Heart Failure and Ischemic Heart Disease)"
+    },
+    {
+      "id": 2838,
+      "fromModule": 180,
+      "toModule": 2,
+      "reason": "Kartagener syndrome ciliary defect -> Anatomy (Mod 2: Cell Biology & Cytoskeleton)"
+    },
+    {
+      "id": 2844,
+      "fromModule": 181,
+      "toModule": 74,
+      "reason": "Removal of alveolar particulate matter by alveolar macrophage phagocytosis -> Physiology (Mod 74: Defense mechanisms of respiratory system / Respiration)"
+    },
+    {
+      "id": 3168,
+      "fromModule": 156,
+      "toModule": 308,
+      "reason": "Meniere disease / vestibular vertigo -> ENT (Mod 308: Vestibular System & Its Disorders)"
+    },
+    {
+      "id": 4739,
+      "fromModule": 142,
+      "toModule": 145,
+      "reason": "Sickle cell painful vaso-occlusive bone crisis -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 4891,
+      "fromModule": 187,
+      "toModule": 132,
+      "reason": "Causes of deep vein thrombosis (Virchow triad) -> Pathology (Mod 132: Disorders of Hemodynamics and Hemostasis)"
+    },
+    {
+      "id": 4892,
+      "fromModule": 187,
+      "toModule": 148,
+      "reason": "Prothrombin time (PT/INR) monitoring for oral warfarin anticoagulant therapy -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 4893,
+      "fromModule": 153,
+      "toModule": 151,
+      "reason": "Non-specific esterase (NSE) positivity in acute monoblastic/monocytic leukemia (AML M4/M5) -> Pathology (Mod 151: Acute Myeloid Leukemia)"
+    },
+    {
+      "id": 4894,
+      "fromModule": 126,
+      "toModule": 661,
+      "reason": "Volkmann's ischemic contracture following supracondylar fracture/brachial artery injury -> Orthopaedics (Mod 661: Injuries of Elbow and Forearm)"
+    },
+    {
+      "id": 4896,
+      "fromModule": 187,
+      "toModule": 138,
+      "reason": "Ames test for mutagenic and carcinogenic potential -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 4897,
+      "fromModule": 187,
+      "toModule": 188,
+      "reason": "Cerebellum as most common site for juvenile pilocytic astrocytoma -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 4901,
+      "fromModule": 126,
+      "toModule": 188,
+      "reason": "Traumatic brain injury and diffuse axonal injury -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 4904,
+      "fromModule": 161,
+      "toModule": 126,
+      "reason": "Disuse muscular atrophy following immobilization in plaster cast -> Pathology (Mod 126: Cellular Adaptations and Injury)"
+    },
+    {
+      "id": 4905,
+      "fromModule": 126,
+      "toModule": 169,
+      "reason": "Pap smear cytology fixative -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 4906,
+      "fromModule": 134,
+      "toModule": 169,
+      "reason": "Pap smear cytology Papanicolaou stain -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 4908,
+      "fromModule": 187,
+      "toModule": 179,
+      "reason": "Mycoplasma pneumoniae causing atypical pneumonia -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 4909,
+      "fromModule": 187,
+      "toModule": 177,
+      "reason": "Enterokinase/enteropeptidase in small intestine activating digestive zymogens -> Pathology (Mod 177: Small Intestine)"
+    },
+    {
+      "id": 4910,
+      "fromModule": 187,
+      "toModule": 166,
+      "reason": "Gross pathology of polycystic kidney disease -> Pathology (Mod 166: Tubulointerstitial, Vascular and Cystic Diseases)"
+    },
+    {
+      "id": 4911,
+      "fromModule": 187,
+      "toModule": 188,
+      "reason": "Metastasis as most common brain tumour in adults -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 4912,
+      "fromModule": 187,
+      "toModule": 188,
+      "reason": "Medulloblastoma as most common malignant brain tumour in children -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 4915,
+      "fromModule": 126,
+      "toModule": 169,
+      "reason": "Cervical biopsy showing severe dysplasia / CIN-3 -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 4917,
+      "fromModule": 136,
+      "toModule": 169,
+      "reason": "Pap smear cytology cervical dysplasia -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 4918,
+      "fromModule": 126,
+      "toModule": 173,
+      "reason": "Central stellate scar in focal nodular hyperplasia -> Pathology (Mod 173: Neoplasms of Liver and Biliary Tract)"
+    },
+    {
+      "id": 4921,
+      "fromModule": 134,
+      "toModule": 127,
+      "reason": "Moth-eaten cytoplasm in necrotic cells -> Pathology (Mod 127: Cell Death)"
+    },
+    {
+      "id": 4924,
+      "fromModule": 126,
+      "toModule": 187,
+      "reason": "Actinic keratosis showing basal cell layer dysplasia -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 4931,
+      "fromModule": 169,
+      "toModule": 126,
+      "reason": "Endometrial hyperplasia as example of hormonal pathological hyperplasia -> Pathology (Mod 126: Cellular Adaptations and Injury)"
+    },
+    {
+      "id": 4936,
+      "fromModule": 150,
+      "toModule": 174,
+      "reason": "Gallstone disease and acute calculous cholecystitis -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 4943,
+      "fromModule": 141,
+      "toModule": 170,
+      "reason": "Corpora amylacea in benign prostatic hyperplasia -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 4944,
+      "fromModule": 126,
+      "toModule": 187,
+      "reason": "Tzanck smear demonstrating multinucleated giant cells -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 4945,
+      "fromModule": 126,
+      "toModule": 148,
+      "reason": "Endothelial injury tissue factor combining with Factor VII -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 4952,
+      "fromModule": 126,
+      "toModule": 186,
+      "reason": "Pigmented villonodular synovitis / tenosynovial giant cell tumor -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 4955,
+      "fromModule": 180,
+      "toModule": 126,
+      "reason": "Vitamin A / retinoic acid deficiency inducing squamous metaplasia -> Pathology (Mod 126: Cellular Adaptations and Injury)"
+    },
+    {
+      "id": 4959,
+      "fromModule": 159,
+      "toModule": 188,
+      "reason": "Tabes dorsalis in neurosyphilis -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 4960,
+      "fromModule": 126,
+      "toModule": 158,
+      "reason": "Hyaline arteriolosclerosis in benign nephrosclerosis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 4961,
+      "fromModule": 150,
+      "toModule": 187,
+      "reason": "Dysplastic nevi architectural disorder and cytological atypia -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 4970,
+      "fromModule": 126,
+      "toModule": 455,
+      "reason": "Parkinson disease / Dementia with Lewy bodies (alpha-synuclein) -> Medicine (Mod 455: Movement Disorders)"
+    },
+    {
+      "id": 4975,
+      "fromModule": 162,
+      "toModule": 126,
+      "reason": "Cardiac hypertrophy cellular adaptations -> Pathology (Mod 126: Cellular Adaptations and Injury)"
+    },
+    {
+      "id": 4977,
+      "fromModule": 126,
+      "toModule": 135,
+      "reason": "Myotonic dystrophy (CTG repeat expansion) -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 4978,
+      "fromModule": 187,
+      "toModule": 158,
+      "reason": "Benign nephrosclerosis gross features with fine cortical granularity -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 4979,
+      "fromModule": 187,
+      "toModule": 186,
+      "reason": "Gastrocnemius muscle biopsy showing denervation atrophy -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 4982,
+      "fromModule": 126,
+      "toModule": 173,
+      "reason": "Gross liver specimen showing focal nodular hyperplasia with central stellate scar -> Pathology (Mod 173: Neoplasms of Liver and Biliary Tract)"
+    },
+    {
+      "id": 4986,
+      "fromModule": 126,
+      "toModule": 171,
+      "reason": "Gamma-glutamyl transferase (GGT) in alcohol-related liver disease -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 4987,
+      "fromModule": 173,
+      "toModule": 131,
+      "reason": "Labile vs stable cells (liver hepatocytes are stable cells) -> Pathology (Mod 131: Tissue Repair)"
+    },
+    {
+      "id": 4989,
+      "fromModule": 180,
+      "toModule": 188,
+      "reason": "AIDS dementia complex microglial nodules and encephalitis -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 4996,
+      "fromModule": 126,
+      "toModule": 158,
+      "reason": "Fibrinoid necrosis and hyperplastic arteriolosclerosis in malignant hypertension -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 4997,
+      "fromModule": 126,
+      "toModule": 347,
+      "reason": "Bilateral optic atrophy etiology -> Ophthalmology (Mod 347: Optic Nerve)"
+    },
+    {
+      "id": 4998,
+      "fromModule": 126,
+      "toModule": 579,
+      "reason": "Bronchopulmonary dysplasia in preterm infant -> Pediatrics (Mod 579: Neonatal Disorders)"
+    },
+    {
+      "id": 5001,
+      "fromModule": 126,
+      "toModule": 127,
+      "reason": "Apoptosis vs necrosis intact cell membrane and absence of inflammation -> Pathology (Mod 127: Cell Death)"
+    },
+    {
+      "id": 5013,
+      "fromModule": 127,
+      "toModule": 330,
+      "reason": "Most common malignant tumour of eyelid (Basal cell carcinoma) -> Ophthalmology (Mod 330: Diseases of Eyelids)"
+    },
+    {
+      "id": 5014,
+      "fromModule": 127,
+      "toModule": 158,
+      "reason": "Jaw claudication in Giant cell arteritis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 5015,
+      "fromModule": 161,
+      "toModule": 162,
+      "reason": "Hypertrophic cardiomyopathy (HCM) causing sudden cardiac death in athlete -> Pathology (Mod 162: Myocardial and Pericardial Diseases and Cardiac Tumors)"
+    },
+    {
+      "id": 5016,
+      "fromModule": 127,
+      "toModule": 162,
+      "reason": "Takotsubo cardiomyopathy following emotional stress -> Pathology (Mod 162: Myocardial and Pericardial Diseases and Cardiac Tumors)"
+    },
+    {
+      "id": 5018,
+      "fromModule": 127,
+      "toModule": 169,
+      "reason": "Clear cell carcinoma of ovary -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 5019,
+      "fromModule": 127,
+      "toModule": 170,
+      "reason": "Spermatocytic tumor not derived from GCNIS -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5020,
+      "fromModule": 127,
+      "toModule": 170,
+      "reason": "IHC markers for seminoma (OCT3/4, KIT, Podoplanin) -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5021,
+      "fromModule": 127,
+      "toModule": 170,
+      "reason": "Teratoma with somatic type malignant transformation -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5027,
+      "fromModule": 127,
+      "toModule": 128,
+      "reason": "Hayflick limit and cellular replicative senescence -> Pathology (Mod 128: Intracellular Accumulations, Pathological Calcification and Cellular Ageing)"
+    },
+    {
+      "id": 5029,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "Cancer cell survival, p53 suppression, BCL-2 overexpression -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5030,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "RB gene as the Governor of cellular proliferation in neoplasia -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5031,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "p53 gene as the Guardian of the Genome in neoplasia -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5032,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "G2/M cell cycle checkpoint function -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5033,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "Cell cycle regulators and p53 tumor suppressor -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5034,
+      "fromModule": 127,
+      "toModule": 150,
+      "reason": "Differentiating anterior mediastinal mass: thymoma vs T-ALL (TdT, CD1a, cytokeratin) -> Pathology (Mod 150: Acute Lymphocytic Leukemia)"
+    },
+    {
+      "id": 5035,
+      "fromModule": 127,
+      "toModule": 189,
+      "reason": "Forward scatter and side scatter in flow cytometry -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 5036,
+      "fromModule": 127,
+      "toModule": 130,
+      "reason": "Membrane attack complex (MAC C5b-9) in complement cascade -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5037,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "p53 tumor suppressor gene cell cycle regulation and apoptosis -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5038,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "Evasion of apoptosis mechanisms by cancer cells -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5043,
+      "fromModule": 127,
+      "toModule": 153,
+      "reason": "BCL-2 overexpression in follicular lymphoma t(14;18) -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 5044,
+      "fromModule": 127,
+      "toModule": 138,
+      "reason": "Relative radiosensitivity of blood cells (platelets least sensitive) -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5045,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "p53-induced G1-S cell cycle arrest -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5046,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "RB tumor suppressor gene role in genomic stability -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5048,
+      "fromModule": 187,
+      "toModule": 137,
+      "reason": "Cyclin-dependent kinase inhibitors (CDKIs) in cell cycle regulation -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5049,
+      "fromModule": 127,
+      "toModule": 18,
+      "reason": "Oligodendrocytes producing central nervous system myelin -> Anatomy (Mod 18: White Matter of the Brain)"
+    },
+    {
+      "id": 5050,
+      "fromModule": 187,
+      "toModule": 180,
+      "reason": "Emphysema causing permanent enlargement and destruction of alveolar acini -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 5051,
+      "fromModule": 127,
+      "toModule": 177,
+      "reason": "Carcinoid tumors arising from enterochromaffin cells -> Pathology (Mod 177: Small Intestine)"
+    },
+    {
+      "id": 5052,
+      "fromModule": 187,
+      "toModule": 330,
+      "reason": "Basal cell carcinoma as most common malignancy of eyelid -> Ophthalmology (Mod 330: Diseases of Eyelids)"
+    },
+    {
+      "id": 5058,
+      "fromModule": 127,
+      "toModule": 158,
+      "reason": "Polyarteritis nodosa (PAN) histology and stages -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 5060,
+      "fromModule": 127,
+      "toModule": 503,
+      "reason": "Parrot beak / bird beak sign in sigmoid volvulus -> Surgery (Mod 503: Intestinal Obstruction)"
+    },
+    {
+      "id": 5093,
+      "fromModule": 161,
+      "toModule": 158,
+      "reason": "Polyarteritis nodosa (PAN) transmural necrotizing vasculitis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 5096,
+      "fromModule": 135,
+      "toModule": 158,
+      "reason": "Benign vs malignant nephrosclerosis (fibrinoid necrosis) -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 5097,
+      "fromModule": 182,
+      "toModule": 184,
+      "reason": "Fat necrosis of breast following trauma/resection -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 5098,
+      "fromModule": 134,
+      "toModule": 127,
+      "reason": "Wet gangrene following trauma -> Pathology (Mod 127: Cell Death)"
+    },
+    {
+      "id": 5103,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "Telomerase enzyme activation and telomere maintenance in neoplasia -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5104,
+      "fromModule": 136,
+      "toModule": 170,
+      "reason": "Leydig cell testicular tumor with Reinke crystals -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5118,
+      "fromModule": 134,
+      "toModule": 180,
+      "reason": "Asbestos bodies in asbestosis pneumoconiosis -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 5126,
+      "fromModule": 128,
+      "toModule": 180,
+      "reason": "Eggshell calcification in silicosis -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 5131,
+      "fromModule": 172,
+      "toModule": 128,
+      "reason": "Hemosiderin reaction with potassium ferrocyanide (Prussian blue stain) -> Pathology (Mod 128: Intracellular Accumulations, Pathological Calcification and Cellular Ageing)"
+    },
+    {
+      "id": 5134,
+      "fromModule": 172,
+      "toModule": 128,
+      "reason": "Prussian blue stain confirming hemosiderin pigment -> Pathology (Mod 128: Intracellular Accumulations, Pathological Calcification and Cellular Ageing)"
+    },
+    {
+      "id": 5139,
+      "fromModule": 144,
+      "toModule": 128,
+      "reason": "Anthracotic pigment in hilar lymph nodes -> Pathology (Mod 128: Intracellular Accumulations, Pathological Calcification and Cellular Ageing)"
+    },
+    {
+      "id": 5140,
+      "fromModule": 128,
+      "toModule": 182,
+      "reason": "Prolactinoma with galactorrhea and amenorrhea -> Pathology (Mod 182: Pituitary, Parathyroid and Pancreas)"
+    },
+    {
+      "id": 5141,
+      "fromModule": 178,
+      "toModule": 186,
+      "reason": "Pigmented villonodular synovitis of tendon sheaths -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 5147,
+      "fromModule": 134,
+      "toModule": 157,
+      "reason": "Emperipolesis in Rosai-Dorfman disease -> Pathology (Mod 157: Leukemoid, Leukocytosis and Lymphadenitis)"
+    },
+    {
+      "id": 5188,
+      "fromModule": 128,
+      "toModule": 148,
+      "reason": "vWF synthesis in endothelial cells and platelets -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5192,
+      "fromModule": 155,
+      "toModule": 127,
+      "reason": "Phosphatidylserine exposure on outer membrane leaflet in apoptosis -> Pathology (Mod 127: Cell Death)"
+    },
+    {
+      "id": 5196,
+      "fromModule": 133,
+      "toModule": 135,
+      "reason": "NF1 neurofibromin mutation mechanisms -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 5208,
+      "fromModule": 128,
+      "toModule": 179,
+      "reason": "Primary tuberculosis (Ghon focus) vs secondary cavitary TB -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 5209,
+      "fromModule": 134,
+      "toModule": 130,
+      "reason": "IL-6 acute phase response -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5211,
+      "fromModule": 186,
+      "toModule": 176,
+      "reason": "NSAID-induced acute erosive hemorrhagic gastritis -> Pathology (Mod 176: Stomach)"
+    },
+    {
+      "id": 5220,
+      "fromModule": 150,
+      "toModule": 171,
+      "reason": "Masson trichrome blue collagen staining in hepatic cirrhosis -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 5232,
+      "fromModule": 176,
+      "toModule": 128,
+      "reason": "Caloric restriction extending lifespan through sirtuins -> Pathology (Mod 128: Intracellular Accumulations, Pathological Calcification and Cellular Ageing)"
+    },
+    {
+      "id": 5254,
+      "fromModule": 150,
+      "toModule": 156,
+      "reason": "BCR-ABL fusion protein kinase activity in CML -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 5257,
+      "fromModule": 187,
+      "toModule": 183,
+      "reason": "Hashimoto thyroiditis with Hurthle cell metaplasia and lymphocytic infiltrate -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 5298,
+      "fromModule": 172,
+      "toModule": 140,
+      "reason": "Autoimmune disorder classification (Influenza is viral infection) -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5304,
+      "fromModule": 134,
+      "toModule": 133,
+      "reason": "Pedigree symbol for adopted child -> Pathology (Mod 133: Modes of Inheritance)"
+    },
+    {
+      "id": 5313,
+      "fromModule": 162,
+      "toModule": 132,
+      "reason": "Septic infarction from embolization of vegetations -> Pathology (Mod 132: Disorders of Hemodynamics and Hemostasis)"
+    },
+    {
+      "id": 5318,
+      "fromModule": 186,
+      "toModule": 238,
+      "reason": "Tocilizumab monoclonal antibody against IL-6 receptor in RA -> Pharmacology (Mod 238: Disease Modifying Anti-Rheumatic Drugs)"
+    },
+    {
+      "id": 5323,
+      "fromModule": 185,
+      "toModule": 129,
+      "reason": "Chronic granulomatous disease with recurrent catalase-positive infections -> Pathology (Mod 129: Acute Inflammation)"
+    },
+    {
+      "id": 5333,
+      "fromModule": 131,
+      "toModule": 137,
+      "reason": "Xeroderma pigmentosum nucleotide excision repair defect -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5336,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "p53-mediated G1 cell cycle arrest -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5346,
+      "fromModule": 131,
+      "toModule": 186,
+      "reason": "Liposarcoma malignant neoplasm of adipose tissue -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 5347,
+      "fromModule": 131,
+      "toModule": 27,
+      "reason": "Nasmyth's membrane / primary enamel cuticle covering newly erupted teeth -> Anatomy (Mod 27: Oral Cavity & Pharynx)"
+    },
+    {
+      "id": 5349,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "Xeroderma pigmentosum defective nucleotide excision repair in carcinogenesis -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5350,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "Hereditary nonpolyposis colorectal cancer (Lynch syndrome) mismatch repair defect -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5353,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "Homologous recombination DNA repair defects in cancer syndromes -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5359,
+      "fromModule": 131,
+      "toModule": 187,
+      "reason": "Melanocytic nevus histology and maturation -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 5363,
+      "fromModule": 187,
+      "toModule": 179,
+      "reason": "Cotton candy intra-alveolar foamy exudates in Pneumocystis pneumonia -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 5364,
+      "fromModule": 187,
+      "toModule": 137,
+      "reason": "Xeroderma pigmentosum nucleotide excision repair defect -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5365,
+      "fromModule": 127,
+      "toModule": 137,
+      "reason": "Cancer-enabling inflammation hallmark -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5367,
+      "fromModule": 128,
+      "toModule": 131,
+      "reason": "Integrin binding to laminin in extracellular matrix -> Pathology (Mod 131: Tissue Repair)"
+    },
+    {
+      "id": 5369,
+      "fromModule": 131,
+      "toModule": 137,
+      "reason": "Warburg metabolism (aerobic glycolysis) in cancer cells -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5371,
+      "fromModule": 131,
+      "toModule": 137,
+      "reason": "BRCA1 and BRCA2 DNA repair tumor suppressors -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5374,
+      "fromModule": 187,
+      "toModule": 171,
+      "reason": "Mallory-Denk hyaline intermediate filament skeins in cirrhosis -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 5376,
+      "fromModule": 131,
+      "toModule": 186,
+      "reason": "Rheumatoid arthritis pannus and synovial hyperplasia in hand joints -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 5382,
+      "fromModule": 127,
+      "toModule": 158,
+      "reason": "Polyarteritis nodosa (PAN) with HBsAg and fibrinoid necrosis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 5385,
+      "fromModule": 132,
+      "toModule": 188,
+      "reason": "Cerebral abscess autopsy findings -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 5386,
+      "fromModule": 156,
+      "toModule": 148,
+      "reason": "Hereditary thrombophilias (Factor V Leiden, Prothrombin G20210A) -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5387,
+      "fromModule": 132,
+      "toModule": 148,
+      "reason": "Factor V Leiden mutation (Arg506Gln) -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5391,
+      "fromModule": 161,
+      "toModule": 132,
+      "reason": "Deep veins of leg as commonest site of venous thrombosis -> Pathology (Mod 132: Disorders of Hemodynamics and Hemostasis)"
+    },
+    {
+      "id": 5396,
+      "fromModule": 180,
+      "toModule": 161,
+      "reason": "Heart failure cells in left-sided congestive heart failure -> Pathology (Mod 161: Heart Failure and Ischemic Heart Disease)"
+    },
+    {
+      "id": 5403,
+      "fromModule": 180,
+      "toModule": 132,
+      "reason": "Post-traumatic pulmonary fat embolism -> Pathology (Mod 132: Disorders of Hemodynamics and Hemostasis)"
+    },
+    {
+      "id": 5408,
+      "fromModule": 171,
+      "toModule": 130,
+      "reason": "C1 esterase inhibitor deficiency in hereditary angioedema -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5411,
+      "fromModule": 134,
+      "toModule": 153,
+      "reason": "Hairy cell leukemia morphology -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 5416,
+      "fromModule": 134,
+      "toModule": 133,
+      "reason": "Modes of Mendelian inheritance matching -> Pathology (Mod 133: Modes of Inheritance)"
+    },
+    {
+      "id": 5439,
+      "fromModule": 156,
+      "toModule": 187,
+      "reason": "Dysplastic nevi syndrome clinical and histological features -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 5440,
+      "fromModule": 155,
+      "toModule": 137,
+      "reason": "Inherited genetic syndromes predisposing to cancer -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5449,
+      "fromModule": 178,
+      "toModule": 127,
+      "reason": "Autophagy-related genes (Atg) and mechanisms in human diseases -> Pathology (Mod 127: Cell Death)"
+    },
+    {
+      "id": 5453,
+      "fromModule": 178,
+      "toModule": 188,
+      "reason": "SOD1 gene mutation in amyotrophic lateral sclerosis (ALS) -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 5458,
+      "fromModule": 133,
+      "toModule": 135,
+      "reason": "Neurofibromatosis type 1 clinical presentation and neurofibromas -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 5461,
+      "fromModule": 127,
+      "toModule": 162,
+      "reason": "Spider cells in cardiac rhabdomyoma -> Pathology (Mod 162: Myocardial and Pericardial Diseases and Cardiac Tumors)"
+    },
+    {
+      "id": 5463,
+      "fromModule": 134,
+      "toModule": 130,
+      "reason": "Virchow / lepra cells in lepromatous leprosy -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5468,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "G1/S cell cycle checkpoint mechanism and cyclin-CDK regulation -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5469,
+      "fromModule": 135,
+      "toModule": 186,
+      "reason": "Gout pathogenesis and predisposing factors to urate crystallization -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 5470,
+      "fromModule": 159,
+      "toModule": 184,
+      "reason": "Aneuploidy in breast carcinoma -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 5472,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "Chromothripsis mutational process in cancer genomics -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5479,
+      "fromModule": 135,
+      "toModule": 184,
+      "reason": "BRCA genetic testing in familial breast cancer -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 5481,
+      "fromModule": 135,
+      "toModule": 170,
+      "reason": "TMPRSS2-ERG gene fusion rearrangement in prostate carcinoma -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5495,
+      "fromModule": 131,
+      "toModule": 137,
+      "reason": "Epithelial-mesenchymal transition (EMT) transcription factors (SNAIL, TWIST) -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5500,
+      "fromModule": 136,
+      "toModule": 165,
+      "reason": "Post-streptococcal glomerulonephritis following impetigo -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 5501,
+      "fromModule": 127,
+      "toModule": 167,
+      "reason": "Histopathology as prognostic factor in Wilms tumor -> Pathology (Mod 167: Renal Tumors)"
+    },
+    {
+      "id": 5507,
+      "fromModule": 136,
+      "toModule": 187,
+      "reason": "Breslow thickness and Clark level for melanoma depth of invasion -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 5510,
+      "fromModule": 136,
+      "toModule": 185,
+      "reason": "Osteosarcoma of distal femur / knee bone pain -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 5511,
+      "fromModule": 134,
+      "toModule": 344,
+      "reason": "Leukocoria in retinoblastoma -> Ophthalmology (Mod 344: Diseases of Retina)"
+    },
+    {
+      "id": 5512,
+      "fromModule": 184,
+      "toModule": 136,
+      "reason": "Routes of metastasis: lymphatic in carcinomas vs hematogenous in sarcomas -> Pathology (Mod 136: Characteristics of Neoplasms and Epidemiology)"
+    },
+    {
+      "id": 5514,
+      "fromModule": 153,
+      "toModule": 188,
+      "reason": "Pilocytic astrocytoma WHO grade I histology with Rosenthal fibers -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 5515,
+      "fromModule": 136,
+      "toModule": 188,
+      "reason": "Glioblastoma WHO grade IV high grade glioma -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 5520,
+      "fromModule": 181,
+      "toModule": 138,
+      "reason": "Thymoma associated with pure red cell aplasia -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5527,
+      "fromModule": 175,
+      "toModule": 138,
+      "reason": "Obesity-associated malignancies and hormonal/inflammatory mechanisms -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5546,
+      "fromModule": 135,
+      "toModule": 170,
+      "reason": "Isochromosome 12p in testicular germ cell tumors -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5554,
+      "fromModule": 153,
+      "toModule": 126,
+      "reason": "Heat shock proteins and molecular chaperones in cellular injury response -> Pathology (Mod 126: Cellular Adaptations and Injury)"
+    },
+    {
+      "id": 5558,
+      "fromModule": 126,
+      "toModule": 129,
+      "reason": "Citrulline in neutrophil extracellular trap (NET) formation -> Pathology (Mod 129: Acute Inflammation)"
+    },
+    {
+      "id": 5561,
+      "fromModule": 135,
+      "toModule": 130,
+      "reason": "TACE (tumor necrosis factor-alpha converting enzyme) -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5564,
+      "fromModule": 131,
+      "toModule": 138,
+      "reason": "Cancer cachexia mediated by TNF-alpha -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5576,
+      "fromModule": 135,
+      "toModule": 153,
+      "reason": "CLL definitive diagnosis and immunophenotyping -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 5593,
+      "fromModule": 187,
+      "toModule": 180,
+      "reason": "Asbestosis pleural thickening and interstitial pulmonary fibrosis -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 5598,
+      "fromModule": 155,
+      "toModule": 180,
+      "reason": "Pneumoconiosis and occupational lung diseases matching -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 5625,
+      "fromModule": 187,
+      "toModule": 157,
+      "reason": "Calculation of absolute neutrophil count (ANC) in leukopenia -> Pathology (Mod 157: Leukemoid, Leukocytosis and Lymphadenitis)"
+    },
+    {
+      "id": 5627,
+      "fromModule": 187,
+      "toModule": 186,
+      "reason": "Rhabdomyoma benign skeletal muscle tumor -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 5631,
+      "fromModule": 187,
+      "toModule": 165,
+      "reason": "Diabetic nephropathy with Kimmelstiel-Wilson nodular glomerulosclerosis -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 5634,
+      "fromModule": 187,
+      "toModule": 180,
+      "reason": "Asbestos-related pleural plaques and asbestosis -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 5635,
+      "fromModule": 135,
+      "toModule": 171,
+      "reason": "Cryoglobulinemia association with Hepatitis C -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 5638,
+      "fromModule": 162,
+      "toModule": 170,
+      "reason": "Gleason grade 1 adenocarcinoma of prostate -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5645,
+      "fromModule": 187,
+      "toModule": 344,
+      "reason": "Retinoblastoma with Flexner-Wintersteiner rosettes -> Ophthalmology (Mod 344: Diseases of Retina)"
+    },
+    {
+      "id": 5650,
+      "fromModule": 136,
+      "toModule": 153,
+      "reason": "Chronic lymphocytic leukemia (CLL) generalized lymphadenopathy and smudge cells -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 5653,
+      "fromModule": 134,
+      "toModule": 138,
+      "reason": "Tumor markers and associated conditions -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5654,
+      "fromModule": 177,
+      "toModule": 181,
+      "reason": "Bronchial carcinoid tumor IHC neuroendocrine markers (Synaptophysin, Chromogranin, NSE) -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 5655,
+      "fromModule": 183,
+      "toModule": 138,
+      "reason": "Immunohistochemical markers for neuroendocrine tumors (synaptophysin, chromogranin) -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5658,
+      "fromModule": 178,
+      "toModule": 138,
+      "reason": "Paraneoplastic endocrine syndromes (hypoglycemia/hyperglycemia) -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5659,
+      "fromModule": 134,
+      "toModule": 170,
+      "reason": "Seminoma gross specimen -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5660,
+      "fromModule": 126,
+      "toModule": 137,
+      "reason": "Gene silencing mechanisms (siRNA, miRNA, RNAi) -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 5664,
+      "fromModule": 127,
+      "toModule": 140,
+      "reason": "Central and peripheral anergy in immune tolerance -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5670,
+      "fromModule": 187,
+      "toModule": 189,
+      "reason": "Flow cytometry for cell surface CD marker characterization -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 5674,
+      "fromModule": 139,
+      "toModule": 140,
+      "reason": "Systemic lupus erythematosus malar rash and ANA -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5675,
+      "fromModule": 127,
+      "toModule": 139,
+      "reason": "Pattern recognition receptors (TLRs, NLRs, CLRs) in innate immunity -> Pathology (Mod 139: Components of Immune System)"
+    },
+    {
+      "id": 5676,
+      "fromModule": 137,
+      "toModule": 130,
+      "reason": "Caspase-1 activating IL-1 beta and IL-18 -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5678,
+      "fromModule": 181,
+      "toModule": 186,
+      "reason": "Dermatomyositis paraneoplastic inflammatory myopathy with perifascicular atrophy -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 5682,
+      "fromModule": 134,
+      "toModule": 93,
+      "reason": "Zona fasciculata glucocorticoid production -> Physiology (Mod 93: Adrenal Gland)"
+    },
+    {
+      "id": 5685,
+      "fromModule": 130,
+      "toModule": 140,
+      "reason": "Type 1 hypersensitivity IgE-allergen crosslinking -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5690,
+      "fromModule": 139,
+      "toModule": 149,
+      "reason": "CMV transmission risk via all cellular blood components -> Pathology (Mod 149: Blood Products and Transfusion Reactions)"
+    },
+    {
+      "id": 5692,
+      "fromModule": 139,
+      "toModule": 170,
+      "reason": "Testicular dysgenesis syndrome components -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 5694,
+      "fromModule": 134,
+      "toModule": 126,
+      "reason": "Core aspects of disease process (etiology, pathogenesis, morphology) -> Pathology (Mod 126: Cellular Adaptations and Injury)"
+    },
+    {
+      "id": 5697,
+      "fromModule": 171,
+      "toModule": 140,
+      "reason": "Mantoux / tuberculin skin test Type IV delayed hypersensitivity -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5703,
+      "fromModule": 130,
+      "toModule": 140,
+      "reason": "Th2 cells in Type 1 hypersensitivity -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5712,
+      "fromModule": 172,
+      "toModule": 140,
+      "reason": "Autoimmune diseases mediated by antibodies vs cell-mediated (Multiple sclerosis is T-cell mediated) -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5717,
+      "fromModule": 161,
+      "toModule": 165,
+      "reason": "Rapidly progressive glomerulonephritis (Goodpasture syndrome) evaluation -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 5718,
+      "fromModule": 141,
+      "toModule": 130,
+      "reason": "Albumin and transferrin as negative acute-phase reactants -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5720,
+      "fromModule": 146,
+      "toModule": 139,
+      "reason": "Severe combined immunodeficiency (SCID) absent T and B cell function -> Pathology (Mod 139: Components of Immune System)"
+    },
+    {
+      "id": 5732,
+      "fromModule": 162,
+      "toModule": 141,
+      "reason": "Cardiac amyloidosis Congo red birefringence -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 5733,
+      "fromModule": 178,
+      "toModule": 141,
+      "reason": "Secondary amyloidosis (AA protein) in chronic inflammation -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 5734,
+      "fromModule": 141,
+      "toModule": 142,
+      "reason": "Iron absorption, DMT-1, and ferroportin in iron metabolism -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 5742,
+      "fromModule": 161,
+      "toModule": 141,
+      "reason": "Cardiac amyloidosis with systemic organ involvement -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 5744,
+      "fromModule": 130,
+      "toModule": 141,
+      "reason": "Dialysis-associated amyloidosis from beta-2 microglobulin -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 5745,
+      "fromModule": 141,
+      "toModule": 165,
+      "reason": "Diabetic nephropathy microalbuminuria in early glomerular disease -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 5746,
+      "fromModule": 174,
+      "toModule": 182,
+      "reason": "Islet amyloid polypeptide (amylin) in Type 2 Diabetes Mellitus -> Pathology (Mod 182: Pituitary, Parathyroid and Pancreas)"
+    },
+    {
+      "id": 5750,
+      "fromModule": 185,
+      "toModule": 142,
+      "reason": "Iron deficiency anemia with low iron, low ferritin, high TIBC -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 5757,
+      "fromModule": 142,
+      "toModule": 168,
+      "reason": "Gross painless hematuria in urothelial bladder carcinoma -> Pathology (Mod 168: Lower Urinary Tract)"
+    },
+    {
+      "id": 5759,
+      "fromModule": 142,
+      "toModule": 143,
+      "reason": "Vitamin B12 malabsorption and macrocytic anemia following terminal ileal resection -> Pathology (Mod 143: Normocytic And Macrocytic Anemia)"
+    },
+    {
+      "id": 5761,
+      "fromModule": 156,
+      "toModule": 142,
+      "reason": "Sideroblastic anemia response to Pyridoxine (Vitamin B6) -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 5767,
+      "fromModule": 146,
+      "toModule": 145,
+      "reason": "Howell-Jolly bodies in sickle cell functional autosplenectomy -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 5771,
+      "fromModule": 185,
+      "toModule": 142,
+      "reason": "Pica (eating sand) in iron deficiency anemia -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 5777,
+      "fromModule": 155,
+      "toModule": 143,
+      "reason": "Fanconi anemia aplastic anemia with congenital skeletal anomalies -> Pathology (Mod 143: Normocytic And Macrocytic Anemia)"
+    },
+    {
+      "id": 5780,
+      "fromModule": 152,
+      "toModule": 138,
+      "reason": "Thymoma paraneoplastic pure red cell aplasia -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 5781,
+      "fromModule": 144,
+      "toModule": 146,
+      "reason": "Direct Coombs test in autoimmune hemolytic anemia -> Pathology (Mod 146: G6PD Deficiency and Autoimmune Hemolytic Anemias)"
+    },
+    {
+      "id": 5788,
+      "fromModule": 185,
+      "toModule": 150,
+      "reason": "Child with lymphadenopathy and bone marrow lymphoblasts in ALL -> Pathology (Mod 150: Acute Lymphocytic Leukemia)"
+    },
+    {
+      "id": 5793,
+      "fromModule": 185,
+      "toModule": 134,
+      "reason": "Gaucher disease with crumpled tissue paper histiocytes and glucocerebroside accumulation -> Pathology (Mod 134: Lysosomal and Glycogen Storage Diseases)"
+    },
+    {
+      "id": 5794,
+      "fromModule": 187,
+      "toModule": 148,
+      "reason": "Disseminated intravascular coagulation (DIC) consumptive coagulopathy -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5801,
+      "fromModule": 143,
+      "toModule": 144,
+      "reason": "CD59 deficiency in paroxysmal nocturnal hemoglobinuria -> Pathology (Mod 144: Basics of Hemolysis and Intravascular Hemolysis)"
+    },
+    {
+      "id": 5806,
+      "fromModule": 143,
+      "toModule": 144,
+      "reason": "Paroxysmal nocturnal hemoglobinuria (PNH) intravascular hemolysis -> Pathology (Mod 144: Basics of Hemolysis and Intravascular Hemolysis)"
+    },
+    {
+      "id": 5807,
+      "fromModule": 161,
+      "toModule": 148,
+      "reason": "Sepsis and obstetric complications as common causes of DIC -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5808,
+      "fromModule": 144,
+      "toModule": 148,
+      "reason": "Heparin use in disseminated intravascular coagulation (DIC) -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5810,
+      "fromModule": 143,
+      "toModule": 144,
+      "reason": "Flow cytometry for CD55 and CD59 in PNH -> Pathology (Mod 144: Basics of Hemolysis and Intravascular Hemolysis)"
+    },
+    {
+      "id": 5812,
+      "fromModule": 143,
+      "toModule": 144,
+      "reason": "Diagnostic confirmation of PNH by flow cytometry -> Pathology (Mod 144: Basics of Hemolysis and Intravascular Hemolysis)"
+    },
+    {
+      "id": 5821,
+      "fromModule": 165,
+      "toModule": 188,
+      "reason": "Creutzfeldt-Jakob disease (CJD) prion protein misfolding encephalopathy -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 5824,
+      "fromModule": 179,
+      "toModule": 145,
+      "reason": "Sickle cell anemia vaso-occlusive crisis and acute abdominal pain -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 5825,
+      "fromModule": 147,
+      "toModule": 156,
+      "reason": "BCR-ABL translocation in CML with massive splenomegaly -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 5827,
+      "fromModule": 146,
+      "toModule": 145,
+      "reason": "Hereditary spherocytosis with elevated MCHC and extravascular hemolysis -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 5836,
+      "fromModule": 126,
+      "toModule": 145,
+      "reason": "Crew cut appearance and Gamma-Gandy bodies in sickle cell anemia -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 5839,
+      "fromModule": 151,
+      "toModule": 156,
+      "reason": "Chronic myeloid leukemia massive splenomegaly with left-shifted granulocytosis -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 5840,
+      "fromModule": 151,
+      "toModule": 156,
+      "reason": "Chronic myeloid leukemia presentation and Philadelphia chromosome -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 5841,
+      "fromModule": 157,
+      "toModule": 156,
+      "reason": "Primary myelofibrosis with leukoerythroblastosis and JAK2V617F mutation -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 5844,
+      "fromModule": 179,
+      "toModule": 142,
+      "reason": "Beta-thalassemia major with severe anemia, jaundice and bone changes -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 5848,
+      "fromModule": 146,
+      "toModule": 144,
+      "reason": "Babesia intra-erythrocytic tetrads ('Maltese cross') causing hemolysis -> Pathology (Mod 144: Basics of Hemolysis and Intravascular Hemolysis)"
+    },
+    {
+      "id": 5857,
+      "fromModule": 135,
+      "toModule": 148,
+      "reason": "Factor V Leiden mutation in inherited thrombophilia -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5858,
+      "fromModule": 146,
+      "toModule": 143,
+      "reason": "Subacute combined degeneration of spinal cord in vitamin B12 deficiency -> Pathology (Mod 143: Normocytic And Macrocytic Anemia)"
+    },
+    {
+      "id": 5859,
+      "fromModule": 144,
+      "toModule": 146,
+      "reason": "G6PD deficiency hemolysis following sulfamethoxazole -> Pathology (Mod 146: G6PD Deficiency and Autoimmune Hemolytic Anemias)"
+    },
+    {
+      "id": 5860,
+      "fromModule": 139,
+      "toModule": 130,
+      "reason": "Neisseria susceptibility in terminal complement component (C5-C9) deficiency -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5861,
+      "fromModule": 146,
+      "toModule": 142,
+      "reason": "Reduced transferrin saturation in iron deficiency anemia -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 5863,
+      "fromModule": 146,
+      "toModule": 142,
+      "reason": "Serum transferrin saturation reduction in iron deficiency -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 5864,
+      "fromModule": 146,
+      "toModule": 148,
+      "reason": "Factor XII (Hageman factor) deficiency prolonged aPTT without bleeding in vivo -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5866,
+      "fromModule": 146,
+      "toModule": 148,
+      "reason": "Factor XIII deficiency presenting with umbilical stump bleeding -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5867,
+      "fromModule": 187,
+      "toModule": 148,
+      "reason": "Warfarin-induced skin necrosis due to rapid protein C depletion -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5869,
+      "fromModule": 134,
+      "toModule": 172,
+      "reason": "Alpha-1 antitrypsin deficiency PAS-positive diastase resistant globules -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 5870,
+      "fromModule": 146,
+      "toModule": 145,
+      "reason": "Spherocytes on peripheral smear in hereditary spherocytosis -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 5871,
+      "fromModule": 146,
+      "toModule": 145,
+      "reason": "Howell-Jolly bodies following splenectomy -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 5872,
+      "fromModule": 177,
+      "toModule": 176,
+      "reason": "Vitamin B12 supplementation following gastrectomy due to intrinsic factor loss -> Pathology (Mod 176: Stomach)"
+    },
+    {
+      "id": 5874,
+      "fromModule": 134,
+      "toModule": 135,
+      "reason": "Familial hypercholesterolemia protein misfolding -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 5878,
+      "fromModule": 153,
+      "toModule": 146,
+      "reason": "G6PD deficiency acute hemolytic crisis following oxidant stress -> Pathology (Mod 146: G6PD Deficiency and Autoimmune Hemolytic Anemias)"
+    },
+    {
+      "id": 5881,
+      "fromModule": 144,
+      "toModule": 147,
+      "reason": "Hemolytic uremic syndrome (HUS) with schistocytes after diarrhea -> Pathology (Mod 147: Platelet Disorders)"
+    },
+    {
+      "id": 5883,
+      "fromModule": 156,
+      "toModule": 147,
+      "reason": "Bernard-Soulier syndrome defective platelet GpIb-IX-V receptor -> Pathology (Mod 147: Platelet Disorders)"
+    },
+    {
+      "id": 5891,
+      "fromModule": 133,
+      "toModule": 129,
+      "reason": "Chediak-Higashi syndrome phagolysosome defect -> Pathology (Mod 129: Acute Inflammation)"
+    },
+    {
+      "id": 5894,
+      "fromModule": 135,
+      "toModule": 147,
+      "reason": "Platelet adhesion mediated by vWF and GpIb -> Pathology (Mod 147: Platelet Disorders)"
+    },
+    {
+      "id": 5898,
+      "fromModule": 147,
+      "toModule": 158,
+      "reason": "Henoch-Schonlein purpura (IgA vasculitis) -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 5900,
+      "fromModule": 147,
+      "toModule": 149,
+      "reason": "Plateletpheresis and apheresis platelet collections -> Pathology (Mod 149: Blood Products and Transfusion Reactions)"
+    },
+    {
+      "id": 5901,
+      "fromModule": 150,
+      "toModule": 189,
+      "reason": "Jamshidi bone marrow aspiration and biopsy needle -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 5905,
+      "fromModule": 147,
+      "toModule": 156,
+      "reason": "Polycythemia vera evaluation and LAP score -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 5907,
+      "fromModule": 147,
+      "toModule": 151,
+      "reason": "Granulocytic sarcoma / chloroma in acute myeloid leukemia -> Pathology (Mod 151: Acute Myeloid Leukemia)"
+    },
+    {
+      "id": 5908,
+      "fromModule": 144,
+      "toModule": 147,
+      "reason": "Thrombotic thrombocytopenic purpura (TTP) pentad -> Pathology (Mod 147: Platelet Disorders)"
+    },
+    {
+      "id": 5909,
+      "fromModule": 144,
+      "toModule": 147,
+      "reason": "Total plasma exchange in TTP targeting ADAMTS13 -> Pathology (Mod 147: Platelet Disorders)"
+    },
+    {
+      "id": 5913,
+      "fromModule": 186,
+      "toModule": 140,
+      "reason": "Systemic lupus erythematosus with anti-Smith antibody and malar rash -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 5914,
+      "fromModule": 147,
+      "toModule": 187,
+      "reason": "Dermatofibrosarcoma protuberans COL1A1-PDGFB translocation -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 5921,
+      "fromModule": 188,
+      "toModule": 135,
+      "reason": "Optic glioma in Neurofibromatosis type 1 -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 5922,
+      "fromModule": 146,
+      "toModule": 148,
+      "reason": "Hemophilia A/B presenting with hemarthrosis and retroperitoneal bleed -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5928,
+      "fromModule": 147,
+      "toModule": 148,
+      "reason": "Von Willebrand disease with prolonged BT and aPTT -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5936,
+      "fromModule": 187,
+      "toModule": 148,
+      "reason": "Coagulation factor deficiency vs platelet disorder features -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5939,
+      "fromModule": 139,
+      "toModule": 130,
+      "reason": "Membrane attack complex (MAC C5b-9) in terminal complement pathway -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 5947,
+      "fromModule": 126,
+      "toModule": 188,
+      "reason": "Hypoglycemic/hypoxic ischemic neuronal necrosis (red neurons) in hippocampus -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 5948,
+      "fromModule": 135,
+      "toModule": 145,
+      "reason": "Sickle cell anemia missense point mutation -> Pathology (Mod 145: Extravascular Hemolysis)"
+    },
+    {
+      "id": 5950,
+      "fromModule": 132,
+      "toModule": 168,
+      "reason": "Schistosoma haematobium causing hematuria and bladder cancer risk -> Pathology (Mod 168: Lower Urinary Tract)"
+    },
+    {
+      "id": 5958,
+      "fromModule": 187,
+      "toModule": 172,
+      "reason": "Autoimmune hepatitis with elevated IgG, transaminases and jaundice -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 5961,
+      "fromModule": 130,
+      "toModule": 149,
+      "reason": "Transfusion-related acute lung injury (TRALI) -> Pathology (Mod 149: Blood Products and Transfusion Reactions)"
+    },
+    {
+      "id": 5964,
+      "fromModule": 146,
+      "toModule": 153,
+      "reason": "Chronic lymphocytic leukemia (CLL) with fatigue and absolute lymphocytosis -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 5968,
+      "fromModule": 178,
+      "toModule": 201,
+      "reason": "Invasive bacillary and amoebic dysentery -> Microbiology (Mod 201: Enterobacteriaceae)"
+    },
+    {
+      "id": 5970,
+      "fromModule": 171,
+      "toModule": 132,
+      "reason": "Active hyperemia and vascular dilation mechanisms -> Pathology (Mod 132: Disorders of Hemodynamics and Hemostasis)"
+    },
+    {
+      "id": 5976,
+      "fromModule": 178,
+      "toModule": 141,
+      "reason": "Living donor kidney transplant eligibility and HLA crossmatching -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 5977,
+      "fromModule": 187,
+      "toModule": 148,
+      "reason": "Thromboelastography (TEG) global hemostatic assessment -> Pathology (Mod 148: Coagulation Pathway Disorders)"
+    },
+    {
+      "id": 5982,
+      "fromModule": 144,
+      "toModule": 149,
+      "reason": "Febrile non-hemolytic transfusion reaction (FNHTR) -> Pathology (Mod 149: Blood Products and Transfusion Reactions)"
+    },
+    {
+      "id": 5989,
+      "fromModule": 187,
+      "toModule": 149,
+      "reason": "Lewis blood group system antigen characteristics -> Pathology (Mod 149: Blood Products and Transfusion Reactions)"
+    },
+    {
+      "id": 5995,
+      "fromModule": 157,
+      "toModule": 179,
+      "reason": "Cytomegalovirus (CMV) owl-eye inclusion bodies -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6001,
+      "fromModule": 155,
+      "toModule": 189,
+      "reason": "Phlebotomy blood collection procedures and tube order -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 6002,
+      "fromModule": 134,
+      "toModule": 149,
+      "reason": "Malaria transmission via blood components -> Pathology (Mod 149: Blood Products and Transfusion Reactions)"
+    },
+    {
+      "id": 6004,
+      "fromModule": 187,
+      "toModule": 156,
+      "reason": "Primary myelofibrosis with leukoerythroblastosis and dacrocytes (BCR-ABL negative) -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 6005,
+      "fromModule": 149,
+      "toModule": 158,
+      "reason": "Henoch-Schonlein purpura (IgA vasculitis) with palpable purpura and abdominal pain -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6006,
+      "fromModule": 187,
+      "toModule": 44,
+      "reason": "Dual blood supply of liver from portal vein and hepatic artery -> Anatomy (Mod 44: Stomach, Liver & Spleen)"
+    },
+    {
+      "id": 6008,
+      "fromModule": 149,
+      "toModule": 142,
+      "reason": "Beta-thalassemia major confirmation by hemoglobin HPLC -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 6009,
+      "fromModule": 144,
+      "toModule": 189,
+      "reason": "Phlebotomy sequence of tubes for blood collection -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 6012,
+      "fromModule": 185,
+      "toModule": 129,
+      "reason": "Axial streaming of RBCs in center of vessel lumen in acute inflammation -> Pathology (Mod 129: Acute Inflammation)"
+    },
+    {
+      "id": 6015,
+      "fromModule": 153,
+      "toModule": 150,
+      "reason": "B-cell acute lymphoblastic leukemia (ALL) with t(12;21) in 12yo child -> Pathology (Mod 150: Acute Lymphocytic Leukemia)"
+    },
+    {
+      "id": 6016,
+      "fromModule": 153,
+      "toModule": 156,
+      "reason": "Polycythemia vera clinical features and JAK2 mutation -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 6019,
+      "fromModule": 149,
+      "toModule": 144,
+      "reason": "Spur cells (acanthocytes) in abetalipoproteinemia and severe liver disease -> Pathology (Mod 144: Basics of Hemolysis and Intravascular Hemolysis)"
+    },
+    {
+      "id": 6021,
+      "fromModule": 130,
+      "toModule": 144,
+      "reason": "Acanthocytes (spur cells) in abetalipoproteinemia -> Pathology (Mod 144: Basics of Hemolysis and Intravascular Hemolysis)"
+    },
+    {
+      "id": 6024,
+      "fromModule": 129,
+      "toModule": 171,
+      "reason": "Alcoholic hepatitis with AST:ALT ratio > 2:1 and elevated GGT -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6025,
+      "fromModule": 149,
+      "toModule": 171,
+      "reason": "Hepatic lobular architecture and microvascular zones 1, 2, 3 -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6028,
+      "fromModule": 179,
+      "toModule": 165,
+      "reason": "IgA nephropathy (Berger disease) recurrent hematuria after URI -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6031,
+      "fromModule": 135,
+      "toModule": 182,
+      "reason": "Pancreatic neuroendocrine tumor (insulinoma) -> Pathology (Mod 182: Pituitary, Parathyroid and Pancreas)"
+    },
+    {
+      "id": 6044,
+      "fromModule": 146,
+      "toModule": 143,
+      "reason": "Parvovirus B19 pure red cell aplasia / aplastic crisis -> Pathology (Mod 143: Normocytic And Macrocytic Anemia)"
+    },
+    {
+      "id": 6046,
+      "fromModule": 151,
+      "toModule": 129,
+      "reason": "H2O2-MPO-halide system primary bactericidal mechanism of neutrophils -> Pathology (Mod 129: Acute Inflammation)"
+    },
+    {
+      "id": 6047,
+      "fromModule": 148,
+      "toModule": 151,
+      "reason": "Acute promyelocytic leukemia (AML M3) with PML-RARA t(15;17) and DIC -> Pathology (Mod 151: Acute Myeloid Leukemia)"
+    },
+    {
+      "id": 6050,
+      "fromModule": 150,
+      "toModule": 151,
+      "reason": "All-trans retinoic acid (ATRA) differentiation therapy in acute promyelocytic leukemia (APL) -> Pathology (Mod 151: Acute Myeloid Leukemia)"
+    },
+    {
+      "id": 6052,
+      "fromModule": 151,
+      "toModule": 152,
+      "reason": "Reed-Sternberg cells in classic Hodgkin lymphoma lymph node biopsy -> Pathology (Mod 152: Hodgkin's Lymphoma)"
+    },
+    {
+      "id": 6053,
+      "fromModule": 151,
+      "toModule": 156,
+      "reason": "Chronic myeloid leukemia with basophilia and t(9;22) BCR-ABL -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 6056,
+      "fromModule": 151,
+      "toModule": 153,
+      "reason": "Small lymphocytic lymphoma / CLL cervical lymphadenopathy in elderly -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6057,
+      "fromModule": 135,
+      "toModule": 156,
+      "reason": "CML with t(9;22) Philadelphia chromosome -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 6058,
+      "fromModule": 173,
+      "toModule": 176,
+      "reason": "Gastrointestinal stromal tumor (GIST) immunohistochemical markers (KIT, DOG1, PDGFRA, SDH) -> Pathology (Mod 176: Stomach)"
+    },
+    {
+      "id": 6059,
+      "fromModule": 186,
+      "toModule": 151,
+      "reason": "Granulocytic sarcoma / chloroma extramedullary blast proliferation in AML -> Pathology (Mod 151: Acute Myeloid Leukemia)"
+    },
+    {
+      "id": 6061,
+      "fromModule": 152,
+      "toModule": 186,
+      "reason": "Orbital rhabdomyosarcoma with desmin positivity in child -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6062,
+      "fromModule": 152,
+      "toModule": 186,
+      "reason": "Embryonal rhabdomyosarcoma presenting with childhood proptosis -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6063,
+      "fromModule": 152,
+      "toModule": 179,
+      "reason": "Pneumocystis jirovecii pneumonia opportunist infection in HIV/AIDS -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6064,
+      "fromModule": 152,
+      "toModule": 138,
+      "reason": "AIDS-defining malignancies (Kaposi sarcoma, non-Hodgkin lymphoma, cervical ca) -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6065,
+      "fromModule": 150,
+      "toModule": 185,
+      "reason": "Ewing sarcoma small round blue cell bone tumor in child -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6069,
+      "fromModule": 152,
+      "toModule": 153,
+      "reason": "Stomach as most common extranodal site of non-Hodgkin lymphoma (MALT lymphoma) -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6071,
+      "fromModule": 152,
+      "toModule": 138,
+      "reason": "Epstein-Barr virus oncogenic associations in malignancies -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6072,
+      "fromModule": 173,
+      "toModule": 153,
+      "reason": "Primary extranodal non-Hodgkin lymphoma classification -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6073,
+      "fromModule": 130,
+      "toModule": 178,
+      "reason": "Crohn's disease noncaseating granuloma and bloody diarrhea -> Pathology (Mod 178: Large Intestine - Non Neoplastic Conditions)"
+    },
+    {
+      "id": 6074,
+      "fromModule": 152,
+      "toModule": 154,
+      "reason": "Burkitt lymphoma jaw mass with t(8;14) c-MYC translocation -> Pathology (Mod 154: Non Hodgkin Lymphomas: High Grade)"
+    },
+    {
+      "id": 6079,
+      "fromModule": 161,
+      "toModule": 180,
+      "reason": "Chylothorax etiology and pleural fluid analysis -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6080,
+      "fromModule": 152,
+      "toModule": 154,
+      "reason": "Diffuse large B-cell lymphoma (DLBCL) as most common primary testicular lymphoma -> Pathology (Mod 154: Non Hodgkin Lymphomas: High Grade)"
+    },
+    {
+      "id": 6081,
+      "fromModule": 152,
+      "toModule": 154,
+      "reason": "Anaplastic large cell lymphoma / Mycosis fungoides as T-cell lymphoma -> Pathology (Mod 154: Non Hodgkin Lymphomas: High Grade)"
+    },
+    {
+      "id": 6083,
+      "fromModule": 153,
+      "toModule": 150,
+      "reason": "B-cell acute lymphoblastic leukemia (B-ALL) in young child -> Pathology (Mod 150: Acute Lymphocytic Leukemia)"
+    },
+    {
+      "id": 6086,
+      "fromModule": 152,
+      "toModule": 153,
+      "reason": "MALT lymphoma / Hashimoto thyroiditis-associated lymphoma -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6087,
+      "fromModule": 178,
+      "toModule": 176,
+      "reason": "Virchow's node from gastric adenocarcinoma -> Pathology (Mod 176: Stomach)"
+    },
+    {
+      "id": 6093,
+      "fromModule": 143,
+      "toModule": 153,
+      "reason": "Dry tap on bone marrow in Hairy cell leukemia -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6095,
+      "fromModule": 150,
+      "toModule": 153,
+      "reason": "Tartrate-resistant acid phosphatase (TRAP) positivity in Hairy cell leukemia -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6096,
+      "fromModule": 150,
+      "toModule": 153,
+      "reason": "Hairy cell leukemia with splenomegaly and dry tap on bone marrow -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6102,
+      "fromModule": 136,
+      "toModule": 324,
+      "reason": "Erythroplakia persistent premalignant red lesion of lateral tongue -> ENT (Mod 324: Oral Cavity & Oropharyngeal Tumors)"
+    },
+    {
+      "id": 6106,
+      "fromModule": 127,
+      "toModule": 171,
+      "reason": "Ground-glass hepatocytes in chronic HBV (least likely in acute HBV) -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6107,
+      "fromModule": 187,
+      "toModule": 174,
+      "reason": "Pancreatic adenocarcinoma with migratory thrombophlebitis (Trousseau syndrome) -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6108,
+      "fromModule": 130,
+      "toModule": 188,
+      "reason": "Bacterial meningitis CSF polymorphs and findings -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6110,
+      "fromModule": 154,
+      "toModule": 167,
+      "reason": "Wilms tumor (nephroblastoma) abdominal mass in young child -> Pathology (Mod 167: Renal Tumors)"
+    },
+    {
+      "id": 6112,
+      "fromModule": 144,
+      "toModule": 143,
+      "reason": "Low reticulocyte percentage in megaloblastic anemia -> Pathology (Mod 143: Normocytic And Macrocytic Anemia)"
+    },
+    {
+      "id": 6114,
+      "fromModule": 154,
+      "toModule": 150,
+      "reason": "T-ALL presenting as anterior mediastinal mass in young adult male -> Pathology (Mod 150: Acute Lymphocytic Leukemia)"
+    },
+    {
+      "id": 6115,
+      "fromModule": 154,
+      "toModule": 169,
+      "reason": "Complete hydatidiform mole with markedly elevated beta-hCG -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6116,
+      "fromModule": 134,
+      "toModule": 153,
+      "reason": "Smudge cells in chronic lymphocytic leukemia (CLL) -> Pathology (Mod 153: Non Hodgkin Lymphomas: Low Grade)"
+    },
+    {
+      "id": 6117,
+      "fromModule": 150,
+      "toModule": 154,
+      "reason": "Burkitt lymphoma presenting as jaw tumor in African child -> Pathology (Mod 154: Non Hodgkin Lymphomas: High Grade)"
+    },
+    {
+      "id": 6119,
+      "fromModule": 187,
+      "toModule": 179,
+      "reason": "Reactivated secondary tuberculosis localization to lung apex -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6120,
+      "fromModule": 155,
+      "toModule": 186,
+      "reason": "Gouty tophi with monosodium urate crystals in joint pathology -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6121,
+      "fromModule": 155,
+      "toModule": 130,
+      "reason": "Complement system proteins in acute inflammatory response -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 6122,
+      "fromModule": 155,
+      "toModule": 138,
+      "reason": "Chemical carcinogenesis initiation and promotion stages -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6123,
+      "fromModule": 155,
+      "toModule": 187,
+      "reason": "Dermatosis papulosa nigra seborrheic keratosis variant -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6124,
+      "fromModule": 130,
+      "toModule": 174,
+      "reason": "Autoimmune pancreatitis with IgG4-secreting plasma cells -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6125,
+      "fromModule": 135,
+      "toModule": 137,
+      "reason": "N-MYC oncogene amplification (double minutes / HSR) in neuroblastoma -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 6127,
+      "fromModule": 155,
+      "toModule": 189,
+      "reason": "Flow cytometry applications in hematopathology -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 6132,
+      "fromModule": 161,
+      "toModule": 155,
+      "reason": "Multiple myeloma presenting with low back pain and lytic bone lesions -> Pathology (Mod 155: Multiple Myeloma and Plasma Cell Disorders)"
+    },
+    {
+      "id": 6153,
+      "fromModule": 151,
+      "toModule": 155,
+      "reason": "Multiple myeloma bone marrow aspirate showing neoplastic plasma cells -> Pathology (Mod 155: Multiple Myeloma and Plasma Cell Disorders)"
+    },
+    {
+      "id": 6154,
+      "fromModule": 134,
+      "toModule": 168,
+      "reason": "Michaelis-Gutmann bodies in malakoplakia -> Pathology (Mod 168: Lower Urinary Tract)"
+    },
+    {
+      "id": 6156,
+      "fromModule": 155,
+      "toModule": 142,
+      "reason": "Hepcidin blocking ferroportin iron export in enterocytes -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 6157,
+      "fromModule": 155,
+      "toModule": 169,
+      "reason": "Mature cystic teratoma / dermoid cyst of ovary in 25yo female -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6162,
+      "fromModule": 155,
+      "toModule": 187,
+      "reason": "Pityriasis versicolor / macular skin lesions -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6170,
+      "fromModule": 177,
+      "toModule": 178,
+      "reason": "Familial adenomatous polyposis (FAP) APC mutation and prophylactic colectomy -> Pathology (Mod 178: Large Intestine - Non Neoplastic Conditions)"
+    },
+    {
+      "id": 6171,
+      "fromModule": 187,
+      "toModule": 180,
+      "reason": "Silicosis pulmonary nodules histopathology matching -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6175,
+      "fromModule": 156,
+      "toModule": 186,
+      "reason": "Reactive arthritis clinical tetrad (urethritis, conjunctivitis, arthritis, balanitis) -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6176,
+      "fromModule": 162,
+      "toModule": 130,
+      "reason": "Procalcitonin marker of bacterial sepsis -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 6177,
+      "fromModule": 156,
+      "toModule": 140,
+      "reason": "Anti-Smith (Sm) autoantibody specificity for Systemic Lupus Erythematosus -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 6178,
+      "fromModule": 162,
+      "toModule": 170,
+      "reason": "Testicular Sertoli cell tumor in Carney complex -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6179,
+      "fromModule": 156,
+      "toModule": 165,
+      "reason": "Lupus nephritis full-house immunofluorescence on kidney biopsy -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6181,
+      "fromModule": 168,
+      "toModule": 187,
+      "reason": "Sebaceous neoplasms in Muir-Torre syndrome -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6182,
+      "fromModule": 172,
+      "toModule": 186,
+      "reason": "Anti-CCP autoantibody in Rheumatoid arthritis -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6184,
+      "fromModule": 151,
+      "toModule": 156,
+      "reason": "Polycythemia vera presenting with aquagenic pruritus and erythrocytosis -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 6190,
+      "fromModule": 155,
+      "toModule": 137,
+      "reason": "Gorlin syndrome (Nevoid basal cell carcinoma syndrome) PTCH mutation -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 6193,
+      "fromModule": 156,
+      "toModule": 135,
+      "reason": "Turner syndrome (45,XO) short stature and streak ovaries -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6194,
+      "fromModule": 133,
+      "toModule": 135,
+      "reason": "Fibrillin-1 mutation in Marfan syndrome -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6196,
+      "fromModule": 175,
+      "toModule": 174,
+      "reason": "Familial syndromes predisposing to pancreatic adenocarcinoma -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6199,
+      "fromModule": 167,
+      "toModule": 135,
+      "reason": "FBN1 mutation coding for fibrillin in Marfan syndrome -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6200,
+      "fromModule": 130,
+      "toModule": 139,
+      "reason": "Hyper-IgM syndrome flow cytometry defective CD40 signaling -> Pathology (Mod 139: Components of Immune System)"
+    },
+    {
+      "id": 6201,
+      "fromModule": 178,
+      "toModule": 172,
+      "reason": "Dubin-Johnson syndrome conjugated hyperbilirubinemia -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6202,
+      "fromModule": 156,
+      "toModule": 183,
+      "reason": "Anti-TPO and anti-thyroglobulin autoantibodies in autoimmune thyroiditis -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6208,
+      "fromModule": 156,
+      "toModule": 158,
+      "reason": "c-ANCA (PR3-ANCA) specificity in Granulomatosis with polyangiitis (Wegener) -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6209,
+      "fromModule": 156,
+      "toModule": 185,
+      "reason": "McCune-Albright syndrome with GNAS1 mutation and polyostotic fibrous dysplasia -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6212,
+      "fromModule": 156,
+      "toModule": 135,
+      "reason": "Turner syndrome (45,XO) somatic karyotype features -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6213,
+      "fromModule": 156,
+      "toModule": 186,
+      "reason": "Desmoid tumor (deep fibromatosis) APC/beta-catenin mutation -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6214,
+      "fromModule": 134,
+      "toModule": 158,
+      "reason": "ANCA negativity in Henoch-Schonlein purpura -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6215,
+      "fromModule": 156,
+      "toModule": 180,
+      "reason": "Yellow nail syndrome with bronchiectasis and pleural effusion -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6217,
+      "fromModule": 156,
+      "toModule": 336,
+      "reason": "Anterior uveitis with raised intraocular pressure -> Ophthalmology (Mod 336: Glaucoma)"
+    },
+    {
+      "id": 6221,
+      "fromModule": 183,
+      "toModule": 162,
+      "reason": "Carney complex cardiac myxoma components -> Pathology (Mod 162: Myocardial and Pericardial Diseases and Cardiac Tumors)"
+    },
+    {
+      "id": 6222,
+      "fromModule": 147,
+      "toModule": 171,
+      "reason": "Budd-Chiari syndrome hepatic vein thrombosis -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6223,
+      "fromModule": 179,
+      "toModule": 172,
+      "reason": "Dubin-Johnson and Rotor syndrome conjugated hyperbilirubinemia -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6224,
+      "fromModule": 136,
+      "toModule": 170,
+      "reason": "Leydig / Sertoli germ cell testicular tumor evaluation -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6227,
+      "fromModule": 139,
+      "toModule": 135,
+      "reason": "DiGeorge syndrome (22q11 deletion) with thymic and parathyroid hypoplasia -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6228,
+      "fromModule": 156,
+      "toModule": 137,
+      "reason": "Bloom syndrome defective BLM DNA helicase and genomic instability -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 6232,
+      "fromModule": 156,
+      "toModule": 165,
+      "reason": "Minimal change disease nephrotic syndrome in 10yo child -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6235,
+      "fromModule": 172,
+      "toModule": 187,
+      "reason": "Cutaneous manifestations of metabolic syndrome (acanthosis nigricans, acrochordons, skin tags) -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6238,
+      "fromModule": 147,
+      "toModule": 139,
+      "reason": "Wiskott-Aldrich syndrome with thrombocytopenia and eczema -> Pathology (Mod 139: Components of Immune System)"
+    },
+    {
+      "id": 6240,
+      "fromModule": 133,
+      "toModule": 135,
+      "reason": "Marfan syndrome fibrillin defect and arachnodactyly -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6241,
+      "fromModule": 156,
+      "toModule": 187,
+      "reason": "Muir-Torre syndrome sebaceous neoplasms and internal malignancies -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6243,
+      "fromModule": 185,
+      "toModule": 143,
+      "reason": "Shwachman-Diamond syndrome bone marrow failure and pancreatic exocrine deficiency -> Pathology (Mod 143: Normocytic And Macrocytic Anemia)"
+    },
+    {
+      "id": 6244,
+      "fromModule": 156,
+      "toModule": 169,
+      "reason": "Meigs syndrome triad of ovarian fibroma, ascites, and hydrothorax -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6245,
+      "fromModule": 168,
+      "toModule": 186,
+      "reason": "Reactive arthritis (Reiter syndrome) association with HLA-B27 -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6246,
+      "fromModule": 163,
+      "toModule": 135,
+      "reason": "Plexiform neurofibroma in NF1 -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6250,
+      "fromModule": 126,
+      "toModule": 188,
+      "reason": "Spongiform degeneration of cerebral cortex in Creutzfeldt-Jakob disease -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6254,
+      "fromModule": 130,
+      "toModule": 140,
+      "reason": "Sjogren syndrome sicca complex (keratoconjunctivitis and xerostomia) -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 6256,
+      "fromModule": 130,
+      "toModule": 156,
+      "reason": "Leukoerythroblastosis in primary myelofibrosis -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 6258,
+      "fromModule": 135,
+      "toModule": 156,
+      "reason": "FISH for Philadelphia chromosome in CML -> Pathology (Mod 156: Myelodysplastic Syndrome, Myeloproliferative Neoplasms and Histiocytosis)"
+    },
+    {
+      "id": 6269,
+      "fromModule": 130,
+      "toModule": 159,
+      "reason": "Abdominal aortic aneurysm and TGF-beta vascular remodeling -> Pathology (Mod 159: Aneurysm and Dissection)"
+    },
+    {
+      "id": 6276,
+      "fromModule": 150,
+      "toModule": 138,
+      "reason": "Oncogenic DNA viruses (HPV, EBV, HBV, KSHV) vs RNA viruses -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6277,
+      "fromModule": 160,
+      "toModule": 187,
+      "reason": "HMB-45 tumor marker for malignant melanoma -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6278,
+      "fromModule": 187,
+      "toModule": 160,
+      "reason": "Hemangiopericytoma staghorn / fish-hook vascular branching pattern -> Pathology (Mod 160: Vascular Tumors)"
+    },
+    {
+      "id": 6279,
+      "fromModule": 160,
+      "toModule": 173,
+      "reason": "Hepatocellular adenoma in liver -> Pathology (Mod 173: Neoplasms of Liver and Biliary Tract)"
+    },
+    {
+      "id": 6280,
+      "fromModule": 150,
+      "toModule": 160,
+      "reason": "CD31 and CD34 endothelial markers in Angiosarcoma -> Pathology (Mod 160: Vascular Tumors)"
+    },
+    {
+      "id": 6281,
+      "fromModule": 187,
+      "toModule": 181,
+      "reason": "Malignant mesothelioma following asbestos exposure -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6286,
+      "fromModule": 187,
+      "toModule": 188,
+      "reason": "Childhood CNS tumors posterior fossa / infratentorial predilection -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6290,
+      "fromModule": 160,
+      "toModule": 173,
+      "reason": "Thorotrast-induced hepatic angiosarcoma -> Pathology (Mod 173: Neoplasms of Liver and Biliary Tract)"
+    },
+    {
+      "id": 6293,
+      "fromModule": 161,
+      "toModule": 158,
+      "reason": "Eosinophilic granulomatosis with polyangiitis (Churg-Strauss) vasculitis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6295,
+      "fromModule": 161,
+      "toModule": 178,
+      "reason": "Hirschsprung disease congenital absence of ganglion cells in rectal submucosa -> Pathology (Mod 178: Large Intestine - Non Neoplastic Conditions)"
+    },
+    {
+      "id": 6298,
+      "fromModule": 161,
+      "toModule": 179,
+      "reason": "Secondary pulmonary tuberculosis apical fibrocaseous granuloma -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6300,
+      "fromModule": 162,
+      "toModule": 131,
+      "reason": "Permanent vs stable cells in tissue repair -> Pathology (Mod 131: Tissue Repair)"
+    },
+    {
+      "id": 6303,
+      "fromModule": 188,
+      "toModule": 132,
+      "reason": "Sympathetic and baroreceptor compensatory reflexes in nonprogressive shock -> Pathology (Mod 132: Disorders of Hemodynamics and Hemostasis)"
+    },
+    {
+      "id": 6304,
+      "fromModule": 162,
+      "toModule": 188,
+      "reason": "Vulnerability of cerebral neurons to hypoxia -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6305,
+      "fromModule": 161,
+      "toModule": 162,
+      "reason": "Hypertrophic cardiomyopathy (HCM) asymmetric septal hypertrophy and myofiber disarray -> Pathology (Mod 162: Myocardial and Pericardial Diseases and Cardiac Tumors)"
+    },
+    {
+      "id": 6310,
+      "fromModule": 162,
+      "toModule": 164,
+      "reason": "Aschoff bodies in rheumatic pancarditis -> Pathology (Mod 164: Rheumatic Fever and Endocarditis)"
+    },
+    {
+      "id": 6311,
+      "fromModule": 162,
+      "toModule": 169,
+      "reason": "Ayer's spatula and cytobrush for cervical Pap smear -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6312,
+      "fromModule": 162,
+      "toModule": 164,
+      "reason": "Infective endocarditis with septic embolus causing cerebral infarction -> Pathology (Mod 164: Rheumatic Fever and Endocarditis)"
+    },
+    {
+      "id": 6313,
+      "fromModule": 163,
+      "toModule": 186,
+      "reason": "Nemaline myopathy / congenital myopathy histology -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6314,
+      "fromModule": 129,
+      "toModule": 164,
+      "reason": "Fish-mouth deformity of mitral valve in rheumatic heart disease -> Pathology (Mod 164: Rheumatic Fever and Endocarditis)"
+    },
+    {
+      "id": 6315,
+      "fromModule": 187,
+      "toModule": 186,
+      "reason": "Bible bump / ganglion cyst of joint and tendon sheath -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6318,
+      "fromModule": 150,
+      "toModule": 185,
+      "reason": "Fracture callus formation in bone healing -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6320,
+      "fromModule": 164,
+      "toModule": 141,
+      "reason": "Cytomegalovirus (CMV) infection opportunistic pathogen post solid-organ transplant -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 6321,
+      "fromModule": 157,
+      "toModule": 179,
+      "reason": "Cytomegalovirus (CMV) pneumonia in immunocompromised patient -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6323,
+      "fromModule": 153,
+      "toModule": 157,
+      "reason": "Infectious mononucleosis with atypical reactive CD8+ T lymphocytes (Downey cells) -> Pathology (Mod 157: Leukemoid, Leukocytosis and Lymphadenitis)"
+    },
+    {
+      "id": 6324,
+      "fromModule": 164,
+      "toModule": 157,
+      "reason": "Kikuchi-Fujimoto histiocytic necrotizing lymphadenitis -> Pathology (Mod 157: Leukemoid, Leukocytosis and Lymphadenitis)"
+    },
+    {
+      "id": 6328,
+      "fromModule": 164,
+      "toModule": 186,
+      "reason": "Acute septic arthritis of knee requiring urgent arthrocentesis -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6332,
+      "fromModule": 162,
+      "toModule": 164,
+      "reason": "Bulky friable vegetations in infective endocarditis -> Pathology (Mod 164: Rheumatic Fever and Endocarditis)"
+    },
+    {
+      "id": 6334,
+      "fromModule": 187,
+      "toModule": 165,
+      "reason": "Post-streptococcal glomerulonephritis hypercellular glomeruli following impetigo -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6338,
+      "fromModule": 130,
+      "toModule": 158,
+      "reason": "Giant cell arteritis / Takayasu arteritis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6339,
+      "fromModule": 187,
+      "toModule": 164,
+      "reason": "Rheumatic mitral stenosis fish-mouth deformity and Aschoff bodies -> Pathology (Mod 164: Rheumatic Fever and Endocarditis)"
+    },
+    {
+      "id": 6340,
+      "fromModule": 178,
+      "toModule": 172,
+      "reason": "Primary sclerosing cholangitis ERCP beaded appearance -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6343,
+      "fromModule": 130,
+      "toModule": 179,
+      "reason": "Pulmonary tuberculosis with upper lobe cavitation and caseating granuloma -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6352,
+      "fromModule": 187,
+      "toModule": 165,
+      "reason": "Post-streptococcal glomerulonephritis enlarged hypercellular glomeruli following skin infection -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6353,
+      "fromModule": 165,
+      "toModule": 158,
+      "reason": "Flea-bitten kidney appearance in malignant nephrosclerosis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6358,
+      "fromModule": 166,
+      "toModule": 326,
+      "reason": "Warthin tumor of parotid salivary gland -> ENT (Mod 326: Salivary Gland Tumors)"
+    },
+    {
+      "id": 6359,
+      "fromModule": 166,
+      "toModule": 188,
+      "reason": "Medulloblastoma of cerebellum in child -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6360,
+      "fromModule": 166,
+      "toModule": 186,
+      "reason": "Schwannoma showing Antoni A and Verocay bodies -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6361,
+      "fromModule": 166,
+      "toModule": 188,
+      "reason": "Pilocytic astrocytoma with mural nodule in cerebellum -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6364,
+      "fromModule": 166,
+      "toModule": 326,
+      "reason": "Warthin tumor of parotid gland with oncocytic epithelium -> ENT (Mod 326: Salivary Gland Tumors)"
+    },
+    {
+      "id": 6366,
+      "fromModule": 135,
+      "toModule": 186,
+      "reason": "Ganglion cyst of wrist tendon sheath -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6367,
+      "fromModule": 137,
+      "toModule": 326,
+      "reason": "Adenoid cystic / mucoepidermoid carcinoma of salivary glands -> ENT (Mod 326: Salivary Gland Tumors)"
+    },
+    {
+      "id": 6368,
+      "fromModule": 166,
+      "toModule": 174,
+      "reason": "Solid pseudopapillary neoplasm of pancreas with beta-catenin mutation -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6369,
+      "fromModule": 166,
+      "toModule": 160,
+      "reason": "Hemangioma as most common benign tumor of infancy -> Pathology (Mod 160: Vascular Tumors)"
+    },
+    {
+      "id": 6372,
+      "fromModule": 138,
+      "toModule": 173,
+      "reason": "Choledochal cyst congenital cystic dilatation of biliary tree -> Pathology (Mod 173: Neoplasms of Liver and Biliary Tract)"
+    },
+    {
+      "id": 6374,
+      "fromModule": 130,
+      "toModule": 180,
+      "reason": "Bronchiectasis caused by cystic fibrosis CFTR defect -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6375,
+      "fromModule": 136,
+      "toModule": 174,
+      "reason": "Serous cystic neoplasm of pancreas -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6377,
+      "fromModule": 126,
+      "toModule": 138,
+      "reason": "Radiosensitivity of testicular seminoma -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6379,
+      "fromModule": 187,
+      "toModule": 166,
+      "reason": "Acute pyelonephritis with glomerular sparing in early stages -> Pathology (Mod 166: Tubulointerstitial, Vascular and Cystic Diseases)"
+    },
+    {
+      "id": 6380,
+      "fromModule": 187,
+      "toModule": 158,
+      "reason": "Malignant hypertension hyperplastic arteriolosclerosis and necrotizing arteriolitis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6381,
+      "fromModule": 130,
+      "toModule": 158,
+      "reason": "Granulomatosis with polyangiitis (Wegener) with crescentic glomerulonephritis -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6382,
+      "fromModule": 142,
+      "toModule": 167,
+      "reason": "Painless hematuria in renal cell carcinoma -> Pathology (Mod 167: Renal Tumors)"
+    },
+    {
+      "id": 6386,
+      "fromModule": 167,
+      "toModule": 165,
+      "reason": "Membranoproliferative glomerulonephritis lobular accentuation -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6387,
+      "fromModule": 155,
+      "toModule": 166,
+      "reason": "Autosomal dominant polycystic kidney disease (ADPKD) with berry aneurysm -> Pathology (Mod 166: Tubulointerstitial, Vascular and Cystic Diseases)"
+    },
+    {
+      "id": 6389,
+      "fromModule": 187,
+      "toModule": 165,
+      "reason": "Rapidly progressive glomerulonephritis with glomerular crescent formation on PAS -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6391,
+      "fromModule": 153,
+      "toModule": 187,
+      "reason": "Diabetic neuropathic plantar foot ulceration -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6392,
+      "fromModule": 161,
+      "toModule": 165,
+      "reason": "Goodpasture syndrome anti-GBM crescentic glomerulonephritis -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6393,
+      "fromModule": 168,
+      "toModule": 165,
+      "reason": "Membranous nephropathy with subepithelial deposits -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6394,
+      "fromModule": 167,
+      "toModule": 165,
+      "reason": "Tramtrack appearance of GBM in MPGN -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6397,
+      "fromModule": 167,
+      "toModule": 158,
+      "reason": "Onion skin hyperplastic arteriolosclerosis in malignant hypertension -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6398,
+      "fromModule": 168,
+      "toModule": 165,
+      "reason": "Minimal change disease podocyte effacement -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6399,
+      "fromModule": 134,
+      "toModule": 167,
+      "reason": "Chromophobe renal cell carcinoma histology -> Pathology (Mod 167: Renal Tumors)"
+    },
+    {
+      "id": 6400,
+      "fromModule": 130,
+      "toModule": 165,
+      "reason": "Membranoproliferative glomerulonephritis (MPGN) GBM splitting on silver stain -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6401,
+      "fromModule": 168,
+      "toModule": 165,
+      "reason": "Post-streptococcal glomerulonephritis hypercellularity -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6404,
+      "fromModule": 161,
+      "toModule": 166,
+      "reason": "Renal tuberculosis with sterile pyuria and caseous necrosis -> Pathology (Mod 166: Tubulointerstitial, Vascular and Cystic Diseases)"
+    },
+    {
+      "id": 6405,
+      "fromModule": 161,
+      "toModule": 141,
+      "reason": "Chronic allograft rejection in renal transplant -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 6406,
+      "fromModule": 187,
+      "toModule": 167,
+      "reason": "Wilms tumor (nephroblastoma) commonest pediatric primary renal neoplasm -> Pathology (Mod 167: Renal Tumors)"
+    },
+    {
+      "id": 6407,
+      "fromModule": 167,
+      "toModule": 181,
+      "reason": "Malignant mesothelioma strongest association with asbestosis -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6408,
+      "fromModule": 176,
+      "toModule": 137,
+      "reason": "ERBB proto-oncogene associations in malignancies -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 6409,
+      "fromModule": 130,
+      "toModule": 179,
+      "reason": "Aspiration pneumonia diffuse infiltrates -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6411,
+      "fromModule": 168,
+      "toModule": 188,
+      "reason": "Neural tube defect / myelomeningocele -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6414,
+      "fromModule": 161,
+      "toModule": 187,
+      "reason": "Erythema migrans in Lyme disease -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6415,
+      "fromModule": 168,
+      "toModule": 331,
+      "reason": "Chlamydia trachomatis conjunctivitis -> Ophthalmology (Mod 331: Diseases of Conjunctiva)"
+    },
+    {
+      "id": 6416,
+      "fromModule": 168,
+      "toModule": 189,
+      "reason": "Urine microscopy crystal identification -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 6417,
+      "fromModule": 168,
+      "toModule": 38,
+      "reason": "Supine foreign body aspiration into apical segment of RLL -> Anatomy (Mod 38: Lungs & Tracheobronchial Tree)"
+    },
+    {
+      "id": 6418,
+      "fromModule": 168,
+      "toModule": 38,
+      "reason": "Peanut aspiration into right bronchus / RLL -> Anatomy (Mod 38: Lungs & Tracheobronchial Tree)"
+    },
+    {
+      "id": 6419,
+      "fromModule": 168,
+      "toModule": 165,
+      "reason": "Post-streptococcal glomerulonephritis in child -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6424,
+      "fromModule": 129,
+      "toModule": 174,
+      "reason": "Acute calculous cholecystitis in patient with female 40 fertile obese risk profile -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6425,
+      "fromModule": 130,
+      "toModule": 171,
+      "reason": "Hepatitis B viral replication markers (HBeAg, HBV DNA) -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6431,
+      "fromModule": 187,
+      "toModule": 188,
+      "reason": "Oligodendroglioma fried-egg appearance and chicken-wire capillaries -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6436,
+      "fromModule": 184,
+      "toModule": 165,
+      "reason": "Membranous nephropathy secondary to solid malignancies -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6437,
+      "fromModule": 171,
+      "toModule": 169,
+      "reason": "Candidal vaginitis with budding cells and pseudohyphae -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6440,
+      "fromModule": 187,
+      "toModule": 169,
+      "reason": "Dysgerminoma solid ovarian neoplasm with elevated LDH -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6446,
+      "fromModule": 169,
+      "toModule": 183,
+      "reason": "Thyroid nodule multinodular goiter gross examination -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6449,
+      "fromModule": 127,
+      "toModule": 170,
+      "reason": "Spermatocytic seminoma not arising from GCNIS -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6463,
+      "fromModule": 170,
+      "toModule": 344,
+      "reason": "Retinoblastoma with Flexner-Wintersteiner rosettes -> Ophthalmology (Mod 344: Diseases of Retina)"
+    },
+    {
+      "id": 6466,
+      "fromModule": 187,
+      "toModule": 169,
+      "reason": "Granulosa cell tumor of ovary with elevated inhibin levels -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6470,
+      "fromModule": 158,
+      "toModule": 188,
+      "reason": "Ependymoma ventricular neoplasm -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6471,
+      "fromModule": 170,
+      "toModule": 188,
+      "reason": "Psammoma bodies in meningioma brain tumor -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6479,
+      "fromModule": 134,
+      "toModule": 170,
+      "reason": "Seminoma histology and scrotal mass -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6480,
+      "fromModule": 138,
+      "toModule": 162,
+      "reason": "Most common primary cardiac neoplasm (Atrial myxoma) -> Pathology (Mod 162: Myocardial and Pericardial Diseases and Cardiac Tumors)"
+    },
+    {
+      "id": 6482,
+      "fromModule": 170,
+      "toModule": 167,
+      "reason": "Renal cell carcinoma presenting with hematuria and flank mass -> Pathology (Mod 167: Renal Tumors)"
+    },
+    {
+      "id": 6485,
+      "fromModule": 170,
+      "toModule": 179,
+      "reason": "Pneumocystis jirovecii pneumonia in HIV-positive patient -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6486,
+      "fromModule": 170,
+      "toModule": 186,
+      "reason": "Duchenne muscular dystrophy with pseudohypertrophy of calf muscle -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6487,
+      "fromModule": 187,
+      "toModule": 135,
+      "reason": "SRY sex-determining region gene location on Y chromosome -> Pathology (Mod 135: Chromosomal Disorders and Other Genetic Diseases)"
+    },
+    {
+      "id": 6489,
+      "fromModule": 170,
+      "toModule": 178,
+      "reason": "Pseudomembranous colitis (C. difficile) following antibiotic intake -> Pathology (Mod 178: Large Intestine - Non Neoplastic Conditions)"
+    },
+    {
+      "id": 6490,
+      "fromModule": 170,
+      "toModule": 178,
+      "reason": "Gardner syndrome colonic polyposis and osteomas -> Pathology (Mod 178: Large Intestine - Non Neoplastic Conditions)"
+    },
+    {
+      "id": 6491,
+      "fromModule": 135,
+      "toModule": 165,
+      "reason": "Rapidly progressive glomerulonephritis (RPGN) with GBM rupture -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6492,
+      "fromModule": 170,
+      "toModule": 165,
+      "reason": "Membranous glomerulopathy with subepithelial IgG deposits -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6497,
+      "fromModule": 170,
+      "toModule": 158,
+      "reason": "Strawberry gums in Granulomatosis with polyangiitis (Wegener) -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6499,
+      "fromModule": 187,
+      "toModule": 165,
+      "reason": "Diabetic nephropathy with nodular glomerulosclerosis and visual blurring -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6500,
+      "fromModule": 170,
+      "toModule": 187,
+      "reason": "Nodular melanoma vertical growth phase -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6503,
+      "fromModule": 128,
+      "toModule": 186,
+      "reason": "Retroperitoneal liposarcoma with multivacuolated lipoblasts -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6504,
+      "fromModule": 128,
+      "toModule": 180,
+      "reason": "Breathlessness, wheeze, emphysema/COPD -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6505,
+      "fromModule": 135,
+      "toModule": 172,
+      "reason": "Wilson's disease with low ceruloplasmin -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6506,
+      "fromModule": 128,
+      "toModule": 187,
+      "reason": "Pilomatricoma showing basaloid cells and ghost cells with calcification -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6509,
+      "fromModule": 170,
+      "toModule": 181,
+      "reason": "Lung carcinoma differentiation markers (TTF1, p40, p63) -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6510,
+      "fromModule": 130,
+      "toModule": 180,
+      "reason": "Farmer's lung hypersensitivity pneumonitis -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6513,
+      "fromModule": 128,
+      "toModule": 178,
+      "reason": "Juvenile polyp with rectal bleeding -> Pathology (Mod 178: Large Intestine - Non Neoplastic Conditions)"
+    },
+    {
+      "id": 6514,
+      "fromModule": 150,
+      "toModule": 178,
+      "reason": "Juvenile hamartomatous retention polyp of rectum / colon -> Pathology (Mod 178: Large Intestine - Non Neoplastic Conditions)"
+    },
+    {
+      "id": 6517,
+      "fromModule": 135,
+      "toModule": 141,
+      "reason": "HLA matching in living donor transplantation -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 6518,
+      "fromModule": 158,
+      "toModule": 171,
+      "reason": "Liver function tests in parenchymal liver disease -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6520,
+      "fromModule": 177,
+      "toModule": 171,
+      "reason": "Acetaminophen hepatotoxicity centrilobular necrosis -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6524,
+      "fromModule": 173,
+      "toModule": 171,
+      "reason": "Mallory hyaline bodies in alcoholic liver cirrhosis, HCC, and PBC -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6526,
+      "fromModule": 172,
+      "toModule": 128,
+      "reason": "Sirtuin protein functions in cellular ageing and metabolism -> Pathology (Mod 128: Intracellular Accumulations, Pathological Calcification and Cellular Ageing)"
+    },
+    {
+      "id": 6530,
+      "fromModule": 128,
+      "toModule": 172,
+      "reason": "Periductal 'onion-skin' fibrosis in Primary Sclerosing Cholangitis -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6531,
+      "fromModule": 173,
+      "toModule": 172,
+      "reason": "Infant with neonatal hepatitis and PAS-positive diastase-resistant globules in alpha-1 antitrypsin deficiency -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6532,
+      "fromModule": 173,
+      "toModule": 172,
+      "reason": "Primary sclerosing cholangitis (PSC) with onion-skin periductal fibrosis -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6533,
+      "fromModule": 173,
+      "toModule": 131,
+      "reason": "Hepatocyte growth factor (HGF / scatter factor) mitogen in tissue repair -> Pathology (Mod 131: Tissue Repair)"
+    },
+    {
+      "id": 6535,
+      "fromModule": 130,
+      "toModule": 174,
+      "reason": "Risk factors for gallstone formation -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6536,
+      "fromModule": 175,
+      "toModule": 138,
+      "reason": "Smoking as chemical carcinogen in various malignancies -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6539,
+      "fromModule": 153,
+      "toModule": 168,
+      "reason": "Urothelial (transitional cell) carcinoma commonest bladder cancer -> Pathology (Mod 168: Lower Urinary Tract)"
+    },
+    {
+      "id": 6540,
+      "fromModule": 134,
+      "toModule": 168,
+      "reason": "Malakoplakia of urinary bladder with Michaelis-Gutmann bodies -> Pathology (Mod 168: Lower Urinary Tract)"
+    },
+    {
+      "id": 6541,
+      "fromModule": 180,
+      "toModule": 168,
+      "reason": "Bladder botryoid embryonal rhabdomyosarcoma in child -> Pathology (Mod 168: Lower Urinary Tract)"
+    },
+    {
+      "id": 6544,
+      "fromModule": 134,
+      "toModule": 174,
+      "reason": "Cholesterolosis of gallbladder ('strawberry gallbladder') -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6546,
+      "fromModule": 181,
+      "toModule": 330,
+      "reason": "Basal cell carcinoma with rolled edges at medial canthus of eyelid -> Ophthalmology (Mod 330: Diseases of Eyelids)"
+    },
+    {
+      "id": 6547,
+      "fromModule": 128,
+      "toModule": 187,
+      "reason": "Squamous cell carcinoma of skin with keratin pearls -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6550,
+      "fromModule": 128,
+      "toModule": 187,
+      "reason": "Basal cell carcinoma with peripheral palisading -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6551,
+      "fromModule": 187,
+      "toModule": 181,
+      "reason": "Squamous cell lung carcinoma causing paraneoplastic hypercalcemia via PTHrP -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6556,
+      "fromModule": 176,
+      "toModule": 83,
+      "reason": "Activation of pancreatic digestive proenzymes by enteropeptidase in duodenum -> Physiology (Mod 83: Gastrointestinal Physiology)"
+    },
+    {
+      "id": 6558,
+      "fromModule": 176,
+      "toModule": 174,
+      "reason": "Pancreatic adenocarcinoma distant metastasis to bones and lungs -> Pathology (Mod 174: Gall Bladder and Pancreas)"
+    },
+    {
+      "id": 6559,
+      "fromModule": 176,
+      "toModule": 499,
+      "reason": "Gastrotomy definition as surgical opening of stomach -> Surgery (Mod 499: Stomach and Duodenum)"
+    },
+    {
+      "id": 6561,
+      "fromModule": 177,
+      "toModule": 137,
+      "reason": "KRAS GTP-binding protein in cell signaling -> Pathology (Mod 137: Molecular Basis of Cancer and Tumor Immunity)"
+    },
+    {
+      "id": 6562,
+      "fromModule": 128,
+      "toModule": 181,
+      "reason": "Squamous cell carcinoma of lung with intercellular bridges -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6563,
+      "fromModule": 134,
+      "toModule": 181,
+      "reason": "TTF-1 immunohistochemical marker for lung adenocarcinoma -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6565,
+      "fromModule": 177,
+      "toModule": 170,
+      "reason": "Cryptorchidism undescended testis histopathology -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6567,
+      "fromModule": 177,
+      "toModule": 182,
+      "reason": "Zellballen pattern in Paraganglioma / Pheochromocytoma -> Pathology (Mod 182: Pituitary, Parathyroid and Pancreas)"
+    },
+    {
+      "id": 6573,
+      "fromModule": 128,
+      "toModule": 158,
+      "reason": "Flea-bitten kidney in malignant hypertension -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6575,
+      "fromModule": 177,
+      "toModule": 158,
+      "reason": "Microscopic polyangiitis small-vessel vasculitis with P-ANCA -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6577,
+      "fromModule": 187,
+      "toModule": 186,
+      "reason": "Duchenne muscular dystrophy with absence of dystrophin on muscle biopsy -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6579,
+      "fromModule": 155,
+      "toModule": 187,
+      "reason": "Molluscum contagiosum Henderson-Paterson viral inclusion bodies -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6580,
+      "fromModule": 178,
+      "toModule": 158,
+      "reason": "Microscopic polyangiitis with P-ANCA and pulmonary-renal syndrome -> Pathology (Mod 158: Hypertensive Vascular Disease and Atherosclerosis)"
+    },
+    {
+      "id": 6581,
+      "fromModule": 180,
+      "toModule": 181,
+      "reason": "Small cell lung carcinoma IHC positivity for NSE -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6582,
+      "fromModule": 180,
+      "toModule": 179,
+      "reason": "Miliary tuberculosis granulomatous lung pattern -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6583,
+      "fromModule": 180,
+      "toModule": 179,
+      "reason": "Cytomegalovirus (CMV) pneumonitis with intranuclear inclusions -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6584,
+      "fromModule": 128,
+      "toModule": 181,
+      "reason": "Adenocarcinoma of lung showing malignant glandular structures -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6585,
+      "fromModule": 128,
+      "toModule": 181,
+      "reason": "Squamous cell carcinoma of lung causing hypercalcemia (PTHrP) -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6586,
+      "fromModule": 136,
+      "toModule": 181,
+      "reason": "Bronchogenic lung carcinoma presenting with chronic cough and hoarseness -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6587,
+      "fromModule": 128,
+      "toModule": 173,
+      "reason": "Fibrolamellar hepatocellular carcinoma in young patient -> Pathology (Mod 173: Neoplasms of Liver and Biliary Tract)"
+    },
+    {
+      "id": 6588,
+      "fromModule": 178,
+      "toModule": 188,
+      "reason": "Glioblastoma multiforme serpentine pseudopalisading necrosis -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6589,
+      "fromModule": 187,
+      "toModule": 177,
+      "reason": "Carcinoid syndrome flushing, diarrhea and bronchospasm from small bowel carcinoid -> Pathology (Mod 177: Small Intestine)"
+    },
+    {
+      "id": 6590,
+      "fromModule": 135,
+      "toModule": 187,
+      "reason": "Bullous dermatoses classification -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6591,
+      "fromModule": 178,
+      "toModule": 184,
+      "reason": "Mucinous (colloid) carcinoma of breast -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 6593,
+      "fromModule": 158,
+      "toModule": 188,
+      "reason": "Hemangioblastoma of cerebellum in VHL -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6595,
+      "fromModule": 128,
+      "toModule": 162,
+      "reason": "Cardiac myxoma histopathology -> Pathology (Mod 162: Myocardial and Pericardial Diseases and Cardiac Tumors)"
+    },
+    {
+      "id": 6596,
+      "fromModule": 178,
+      "toModule": 189,
+      "reason": "DNA microarrays in gene expression analysis -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 6597,
+      "fromModule": 178,
+      "toModule": 184,
+      "reason": "Invasive ductal carcinoma of breast histology -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 6598,
+      "fromModule": 187,
+      "toModule": 169,
+      "reason": "Mature cystic teratoma / dermoid cyst of ovary -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6599,
+      "fromModule": 128,
+      "toModule": 186,
+      "reason": "Soft tissue tumor of the hand -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6603,
+      "fromModule": 129,
+      "toModule": 179,
+      "reason": "Interleukin-8 neutrophil recruitment in ARDS pathogenesis -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6604,
+      "fromModule": 130,
+      "toModule": 179,
+      "reason": "COVID-19 post-mortem lung findings (diffuse alveolar damage) -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6605,
+      "fromModule": 130,
+      "toModule": 179,
+      "reason": "Duration of gray hepatization stage in lobar pneumonia -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6606,
+      "fromModule": 130,
+      "toModule": 179,
+      "reason": "Inflammatory stages of lobar pneumonia -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6612,
+      "fromModule": 171,
+      "toModule": 161,
+      "reason": "Nutmeg liver in chronic passive congestion from heart failure -> Pathology (Mod 161: Heart Failure and Ischemic Heart Disease)"
+    },
+    {
+      "id": 6613,
+      "fromModule": 179,
+      "toModule": 129,
+      "reason": "Leukocyte adhesion deficiency (LAD-1) with delayed umbilical cord separation -> Pathology (Mod 129: Acute Inflammation)"
+    },
+    {
+      "id": 6615,
+      "fromModule": 180,
+      "toModule": 179,
+      "reason": "Diffuse alveolar damage (DAD) / ARDS in patient with hypoxemia -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6616,
+      "fromModule": 180,
+      "toModule": 179,
+      "reason": "Red hepatization stage of lobar pneumonia -> Pathology (Mod 179: Congenital Anomalies, ARDS, Infections)"
+    },
+    {
+      "id": 6621,
+      "fromModule": 172,
+      "toModule": 180,
+      "reason": "Alpha-1 antitrypsin deficiency causing panacinar emphysema -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6622,
+      "fromModule": 155,
+      "toModule": 166,
+      "reason": "Tamm-Horsfall uromodulin protein forming urinary hyaline casts -> Pathology (Mod 166: Tubulointerstitial, Vascular and Cystic Diseases)"
+    },
+    {
+      "id": 6623,
+      "fromModule": 155,
+      "toModule": 180,
+      "reason": "Bronchial asthma with bronchospasm and mucous plugging -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6628,
+      "fromModule": 130,
+      "toModule": 180,
+      "reason": "Usual interstitial pneumonitis (UIP) restrictive lung disease -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6629,
+      "fromModule": 180,
+      "toModule": 181,
+      "reason": "Small cell carcinoma of lung cytology and histology -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6631,
+      "fromModule": 180,
+      "toModule": 181,
+      "reason": "Pleural malignant mesothelioma electron microscopy long microvilli -> Pathology (Mod 181: Lung Tumors)"
+    },
+    {
+      "id": 6632,
+      "fromModule": 182,
+      "toModule": 130,
+      "reason": "Procalcitonin as a systemic marker for severe bacterial sepsis -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 6636,
+      "fromModule": 182,
+      "toModule": 94,
+      "reason": "Inhibin function inhibiting FSH secretion -> Physiology (Mod 94: Male and Female Reproductive Physiology)"
+    },
+    {
+      "id": 6639,
+      "fromModule": 130,
+      "toModule": 182,
+      "reason": "Clear cell hyperplasia of parathyroid gland in hyperparathyroidism -> Pathology (Mod 182: Pituitary, Parathyroid and Pancreas)"
+    },
+    {
+      "id": 6641,
+      "fromModule": 183,
+      "toModule": 169,
+      "reason": "Endometriosis causing cyclic abdominal pain and dysmenorrhea -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6642,
+      "fromModule": 155,
+      "toModule": 183,
+      "reason": "Papillary thyroid carcinoma FNAC with Orphan Annie eyes -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6643,
+      "fromModule": 158,
+      "toModule": 183,
+      "reason": "Follicular adenoma needing capsular evaluation on histology -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6644,
+      "fromModule": 127,
+      "toModule": 170,
+      "reason": "Gleason grade 5 acinar adenocarcinoma of prostate with central necrosis -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6645,
+      "fromModule": 150,
+      "toModule": 183,
+      "reason": "Anaplastic thyroid carcinoma presenting as rapidly enlarging midline neck mass -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6646,
+      "fromModule": 167,
+      "toModule": 183,
+      "reason": "Medullary thyroid carcinoma RET gene mutation -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6647,
+      "fromModule": 128,
+      "toModule": 183,
+      "reason": "Orphan Annie eye nuclei in Papillary thyroid carcinoma -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6648,
+      "fromModule": 128,
+      "toModule": 183,
+      "reason": "Papillary thyroid carcinoma biopsy -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6649,
+      "fromModule": 155,
+      "toModule": 183,
+      "reason": "Hashimoto thyroiditis with autoimmune lymphocytic infiltration -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6650,
+      "fromModule": 128,
+      "toModule": 183,
+      "reason": "Medullary thyroid carcinoma with amyloid stroma -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6652,
+      "fromModule": 138,
+      "toModule": 183,
+      "reason": "Medullary thyroid carcinoma presenting as thyroid swelling with amyloid stroma -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6653,
+      "fromModule": 128,
+      "toModule": 183,
+      "reason": "Medullary thyroid carcinoma calcitonin amyloid deposits -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6654,
+      "fromModule": 138,
+      "toModule": 183,
+      "reason": "Thyroglossal duct cyst midline anterior neck swelling -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6657,
+      "fromModule": 171,
+      "toModule": 183,
+      "reason": "RET proto-oncogene in Medullary thyroid carcinoma -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6659,
+      "fromModule": 136,
+      "toModule": 170,
+      "reason": "Prostate adenocarcinoma Gleason microscopic architectural grading -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6660,
+      "fromModule": 128,
+      "toModule": 170,
+      "reason": "Benign prostatic hyperplasia (BPH) histology -> Pathology (Mod 170: Male Genital Tract)"
+    },
+    {
+      "id": 6662,
+      "fromModule": 178,
+      "toModule": 183,
+      "reason": "Papillary carcinoma of thyroid with clear Orphan Annie nuclei -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6665,
+      "fromModule": 128,
+      "toModule": 183,
+      "reason": "Ground-glass Orphan Annie nuclei in Papillary thyroid carcinoma -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6667,
+      "fromModule": 186,
+      "toModule": 140,
+      "reason": "Sjogren syndrome with anti-Ro/La and lymphocytic exocrine gland destruction -> Pathology (Mod 140: Hypersensitivity and Autoimmunity)"
+    },
+    {
+      "id": 6668,
+      "fromModule": 128,
+      "toModule": 183,
+      "reason": "Medullary carcinoma of thyroid with amyloid -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6672,
+      "fromModule": 134,
+      "toModule": 183,
+      "reason": "Follicular thyroid carcinoma capsular invasion -> Pathology (Mod 183: Thyroid Glands)"
+    },
+    {
+      "id": 6674,
+      "fromModule": 187,
+      "toModule": 188,
+      "reason": "Brain metastases most commonly originating from lung carcinoma -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6675,
+      "fromModule": 134,
+      "toModule": 184,
+      "reason": "Fibroadenoma of breast histology -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 6677,
+      "fromModule": 184,
+      "toModule": 490,
+      "reason": "Latissimus dorsi flap for breast reconstruction after mastectomy -> Surgery (Mod 490: Breast Diseases)"
+    },
+    {
+      "id": 6680,
+      "fromModule": 128,
+      "toModule": 184,
+      "reason": "Fibroadenoma of breast -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 6683,
+      "fromModule": 184,
+      "toModule": 189,
+      "reason": "DAB chromogen staining in immunohistochemistry -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 6685,
+      "fromModule": 130,
+      "toModule": 184,
+      "reason": "Recurrent painful subareolar breast abscess / Zuska disease -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 6688,
+      "fromModule": 131,
+      "toModule": 184,
+      "reason": "Fibroadenoma ('breast mouse') in young female -> Pathology (Mod 184: The Breast)"
+    },
+    {
+      "id": 6689,
+      "fromModule": 185,
+      "toModule": 142,
+      "reason": "DMT-1 mediated iron absorption across apical membrane of enterocytes -> Pathology (Mod 142: Microcytic Anemia)"
+    },
+    {
+      "id": 6690,
+      "fromModule": 135,
+      "toModule": 131,
+      "reason": "Type 1 collagen distribution in extracellular matrix -> Pathology (Mod 131: Tissue Repair)"
+    },
+    {
+      "id": 6691,
+      "fromModule": 158,
+      "toModule": 182,
+      "reason": "Brown tumor of hyperparathyroidism -> Pathology (Mod 182: Pituitary, Parathyroid and Pancreas)"
+    },
+    {
+      "id": 6697,
+      "fromModule": 187,
+      "toModule": 139,
+      "reason": "Thymus lack of reticular fibers in structural framework -> Pathology (Mod 139: Components of Immune System)"
+    },
+    {
+      "id": 6699,
+      "fromModule": 134,
+      "toModule": 185,
+      "reason": "Paget's disease of bone mosaic pattern -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6700,
+      "fromModule": 128,
+      "toModule": 185,
+      "reason": "Avascular bone marrow infarction / osteonecrosis from corticosteroids -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6703,
+      "fromModule": 178,
+      "toModule": 151,
+      "reason": "Acute myeloid leukemia (AML M4/M5) with gingival hypertrophy and MPO positivity -> Pathology (Mod 151: Acute Myeloid Leukemia)"
+    },
+    {
+      "id": 6704,
+      "fromModule": 158,
+      "toModule": 185,
+      "reason": "Acute hematogenous osteomyelitis of long bone -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6706,
+      "fromModule": 185,
+      "toModule": 141,
+      "reason": "Chimeric DNA analysis in bone marrow / organ transplantation -> Pathology (Mod 141: Amyloidosis and Graft Rejection)"
+    },
+    {
+      "id": 6707,
+      "fromModule": 127,
+      "toModule": 185,
+      "reason": "Giant cell tumor of bone with multinucleated osteoclast-like giant cells -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6709,
+      "fromModule": 134,
+      "toModule": 185,
+      "reason": "Giant cell tumor of bone with soap bubble appearance -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6711,
+      "fromModule": 128,
+      "toModule": 185,
+      "reason": "Giant cell tumor of bone in wrist -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6715,
+      "fromModule": 128,
+      "toModule": 185,
+      "reason": "Giant cell tumor of distal femur / knee joint -> Pathology (Mod 185: Developmental Disorders, Infections and Tumors of Bone)"
+    },
+    {
+      "id": 6717,
+      "fromModule": 186,
+      "toModule": 307,
+      "reason": "Schwannoma (Acoustic neuroma) presenting with SNHL and tinnitus -> ENT (Mod 307: Diseases of Middle and Inner Ear)"
+    },
+    {
+      "id": 6718,
+      "fromModule": 137,
+      "toModule": 186,
+      "reason": "Retroperitoneal liposarcoma malignant soft tissue tumor -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6721,
+      "fromModule": 128,
+      "toModule": 160,
+      "reason": "Capillary hemangioma of chest -> Pathology (Mod 160: Vascular Tumors)"
+    },
+    {
+      "id": 6722,
+      "fromModule": 187,
+      "toModule": 138,
+      "reason": "Ionizing radiation induced leukemias and thyroid neoplasms -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6723,
+      "fromModule": 128,
+      "toModule": 130,
+      "reason": "Membrane attack complex (MAC C5-C9) deficiency and Neisseria infections -> Pathology (Mod 130: Inflammatory Mediators and Chronic Granulomatous Inflammation)"
+    },
+    {
+      "id": 6726,
+      "fromModule": 187,
+      "toModule": 188,
+      "reason": "Myelomeningocele lumbar neural tube defect -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6728,
+      "fromModule": 171,
+      "toModule": 172,
+      "reason": "Primary sclerosing cholangitis with pANCA and bile duct fibrosis -> Pathology (Mod 172: Autoimmune and Metabolic Liver Diseases)"
+    },
+    {
+      "id": 6732,
+      "fromModule": 134,
+      "toModule": 187,
+      "reason": "Pemphigus vulgaris with intraepidermal blisters and fishnet IF -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6733,
+      "fromModule": 187,
+      "toModule": 171,
+      "reason": "Palmar erythema from impaired estrogen metabolism in cirrhosis -> Pathology (Mod 171: Alcoholic and Infectious Liver Diseases)"
+    },
+    {
+      "id": 6734,
+      "fromModule": 170,
+      "toModule": 138,
+      "reason": "Acanthosis nigricans as paraneoplastic marker and skin manifestation -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6737,
+      "fromModule": 187,
+      "toModule": 165,
+      "reason": "Henoch-Schonlein purpura nephritis with mesangial IgA deposits -> Pathology (Mod 165: Glomerular Diseases)"
+    },
+    {
+      "id": 6739,
+      "fromModule": 187,
+      "toModule": 131,
+      "reason": "Re-epithelialization of burn wounds from basal stem cells -> Pathology (Mod 131: Tissue Repair)"
+    },
+    {
+      "id": 6740,
+      "fromModule": 187,
+      "toModule": 131,
+      "reason": "Epidermal stem cells in skin regeneration -> Pathology (Mod 131: Tissue Repair)"
+    },
+    {
+      "id": 6741,
+      "fromModule": 187,
+      "toModule": 180,
+      "reason": "Sarcoidosis systemic organ involvement and pulmonary manifestations -> Pathology (Mod 180: Obstructive and Restrictive Lung Diseases)"
+    },
+    {
+      "id": 6742,
+      "fromModule": 187,
+      "toModule": 138,
+      "reason": "UV-B pyrimidine dimer formation in carcinogenesis -> Pathology (Mod 138: Carcinogenesis, Paraneoplastic Syndromes and Tumor Markers)"
+    },
+    {
+      "id": 6743,
+      "fromModule": 155,
+      "toModule": 132,
+      "reason": "Post-traumatic systemic fat embolism syndrome -> Pathology (Mod 132: Disorders of Hemodynamics and Hemostasis)"
+    },
+    {
+      "id": 6744,
+      "fromModule": 188,
+      "toModule": 209,
+      "reason": "Viral quantification by plaque assay -> Microbiology (Mod 209: General Virology)"
+    },
+    {
+      "id": 6746,
+      "fromModule": 189,
+      "toModule": 188,
+      "reason": "Ganglioglioma neuronal-glial CNS neoplasm -> Pathology (Mod 188: Infective and Vascular CNS Pathology)"
+    },
+    {
+      "id": 6747,
+      "fromModule": 189,
+      "toModule": 129,
+      "reason": "NADPH oxidase (PHOX) in respiratory burst of neutrophils -> Pathology (Mod 129: Acute Inflammation)"
+    },
+    {
+      "id": 6749,
+      "fromModule": 147,
+      "toModule": 149,
+      "reason": "Circulatory life span of transfused platelets -> Pathology (Mod 149: Blood Products and Transfusion Reactions)"
+    },
+    {
+      "id": 6750,
+      "fromModule": 189,
+      "toModule": 169,
+      "reason": "Sequential steps of cervical Pap smear -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6751,
+      "fromModule": 189,
+      "toModule": 169,
+      "reason": "Actinomyces colonies in Pap smear -> Pathology (Mod 169: Female Genital Tract)"
+    },
+    {
+      "id": 6752,
+      "fromModule": 189,
+      "toModule": 187,
+      "reason": "Melanoma immunohistochemical markers (Melan-A, SOX10, S100) -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6754,
+      "fromModule": 187,
+      "toModule": 189,
+      "reason": "10% buffered neutral formalin fixative in histopathology -> Pathology (Mod 189: Mixed / Miscellaneous Topics)"
+    },
+    {
+      "id": 6756,
+      "fromModule": 189,
+      "toModule": 152,
+      "reason": "Nodular lymphocyte predominant Hodgkin lymphoma (NLPHL) -> Pathology (Mod 152: Hodgkin's Lymphoma)"
+    },
+    {
+      "id": 6757,
+      "fromModule": 189,
+      "toModule": 157,
+      "reason": "Eosinophilia in parasitic infections -> Pathology (Mod 157: Leukemoid, Leukocytosis and Lymphadenitis)"
+    },
+    {
+      "id": 6758,
+      "fromModule": 189,
+      "toModule": 186,
+      "reason": "Extra-articular manifestations of Rheumatoid arthritis -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6759,
+      "fromModule": 189,
+      "toModule": 186,
+      "reason": "Anti-CCP and Rheumatoid factor antibodies -> Pathology (Mod 186: Joints and Soft Tissue Tumors)"
+    },
+    {
+      "id": 6760,
+      "fromModule": 189,
+      "toModule": 187,
+      "reason": "Ribbon candy linear IF at basement membrane in Bullous pemphigoid -> Pathology (Mod 187: Skin Pathology)"
+    },
+    {
+      "id": 6764,
+      "fromModule": 189,
+      "toModule": 259,
+      "reason": "Penicillin treatment for Actinomycosis -> Pharmacology (Mod 259: Penicillins)"
+    },
+    {
+      "id": 6765,
+      "fromModule": 189,
+      "toModule": 389,
+      "reason": "Epidemiology of sexually transmitted infections (Chlamydia) -> PSM (Mod 389: National AIDS and STI Control)"
+    },
+    {
+      "id": 6766,
+      "fromModule": 189,
+      "toModule": 262,
+      "reason": "Antimalarial therapeutics in malignant falciparum malaria -> Pharmacology (Mod 262: Antimalarial Drugs)"
+    },
+    {
+      "id": 6767,
+      "fromModule": 189,
+      "toModule": 259,
+      "reason": "Ampicillin as drug of choice for Listeria meningitis -> Pharmacology (Mod 259: Penicillins)"
+    },
+    {
+      "id": 6768,
+      "fromModule": 187,
+      "toModule": 169,
+      "reason": "Adenomyosis diagnosis and clinical pathology -> Pathology (Mod 169: Female Genital Tract)"
+    }
+  ]
+}
