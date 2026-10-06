@@ -2604,7 +2604,7 @@ window.addEventListener('error', function (ev) {
 
           app.innerHTML =
             '<header class="masthead glass" role="banner">' +
-            '<a href="/" class="brand" style="text-decoration:none;"><span class="brand-icon">⚡</span><span>MedLadder</span></a>' +
+            '<a href="/" class="brand" style="text-decoration:none;"><span class="brand-icon" style="overflow:hidden;display:inline-flex;align-items:center;justify-content:center;"><img src="/icons/icon-72.png" alt="MedLadder" style="width:100%;height:100%;border-radius:inherit;display:block;object-fit:cover;"></span><span>MedLadder</span></a>' +
             '<span class="right"><span class="stat"><span class="stat-dot"></span>' + totalQuestions().toLocaleString() + ' MCQs</span>' + proHeaderBtnHtml() + authBtnHtml() + themeBtnHtml() + '</span>' +
             '</header>' +
             '<main id="mainContent" role="main">' +
