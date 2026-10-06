@@ -1252,6 +1252,31 @@ window.addEventListener('error', function (ev) {
         console.warn('Supabase client failed to initialize:', e);
       }
 
+      function resetAuthModalButtons() {
+        var gIcon = '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>';
+        var btns = document.querySelectorAll('.auth-google-btn');
+        btns.forEach(function (b) {
+          b.disabled = false;
+          var isSignUp = b.id === 'googleAuthBtnSignUp';
+          b.innerHTML = gIcon + '<span>' + (isSignUp ? 'Sign up with Google' : 'Continue with Google') + '</span>';
+        });
+        var inBtn = document.getElementById('authSignInSubmit');
+        if (inBtn) {
+          inBtn.disabled = false;
+          inBtn.innerHTML = 'Sign In';
+        }
+        var upBtn = document.getElementById('authSignUpSubmit');
+        if (upBtn) {
+          upBtn.disabled = false;
+          upBtn.innerHTML = 'Create Account';
+        }
+        var fgBtn = document.getElementById('authForgotSubmit');
+        if (fgBtn) {
+          fgBtn.disabled = false;
+          fgBtn.innerHTML = 'Send Recovery Email';
+        }
+      }
+
       function finishNativeOAuth(urlString) {
         var nativeBridge = window.MedLadderNative;
         if (!nativeBridge || !nativeBridge.isNative || !urlString ||
@@ -1264,6 +1289,7 @@ window.addEventListener('error', function (ev) {
         var authError = callback.searchParams.get('error_description') || callbackParams.get('error_description') ||
           callback.searchParams.get('error') || callbackParams.get('error');
         if (authError) {
+          resetAuthModalButtons();
           setAuthAlert('error', authError);
           return;
         }
@@ -1275,12 +1301,21 @@ window.addEventListener('error', function (ev) {
         } else {
           var accessToken = callbackParams.get('access_token');
           var refreshToken = callbackParams.get('refresh_token');
-          if (!accessToken || !refreshToken) return;
+          if (!accessToken || !refreshToken) {
+            resetAuthModalButtons();
+            return;
+          }
           sessionPromise = supabaseClient.auth.setSession({ access_token: accessToken, refresh_token: refreshToken });
         }
         sessionPromise.then(function (result) {
-          if (result && result.error) setAuthAlert('error', result.error.message || 'Could not finish sign-in.');
+          resetAuthModalButtons();
+          if (result && result.error) {
+            setAuthAlert('error', result.error.message || 'Could not finish sign-in.');
+          } else {
+            closeAuthModal();
+          }
         }).catch(function (error) {
+          resetAuthModalButtons();
           setAuthAlert('error', error && error.message ? error.message : 'Could not finish sign-in.');
         });
       }
@@ -1291,6 +1326,16 @@ window.addEventListener('error', function (ev) {
         nativeBridge.App.addListener('appUrlOpen', function (event) {
           finishNativeOAuth(event && event.url);
         });
+        nativeBridge.App.addListener('appStateChange', function (state) {
+          if (state && state.isActive) {
+            resetAuthModalButtons();
+          }
+        });
+        if (nativeBridge.Browser && typeof nativeBridge.Browser.addListener === 'function') {
+          nativeBridge.Browser.addListener('browserFinished', function () {
+            resetAuthModalButtons();
+          });
+        }
         nativeBridge.App.getLaunchUrl().then(function (launch) {
           if (launch && launch.url) finishNativeOAuth(launch.url);
         }).catch(function () {});
@@ -1883,6 +1928,7 @@ window.addEventListener('error', function (ev) {
 
       function switchAuthTab(tab) {
         clearAuthAlerts();
+        resetAuthModalButtons();
         var titleEl = document.getElementById('authModalTitle');
         var subEl = document.getElementById('authModalSub');
         var tabIn = document.getElementById('tabSignIn');
@@ -1921,6 +1967,7 @@ window.addEventListener('error', function (ev) {
       function openAuthModal(tab, options) {
         ensureAuthModalDOMElements();
         clearAuthAlerts();
+        resetAuthModalButtons();
         switchAuthTab(tab || 'signin');
         if (options && options.onSuccess) {
           pendingAuthAction = options.onSuccess;
@@ -1945,6 +1992,7 @@ window.addEventListener('error', function (ev) {
           overlay.classList.add('hidden');
         }
         clearAuthAlerts();
+        resetAuthModalButtons();
         pendingAuthAction = null;
       }
 
@@ -1986,6 +2034,11 @@ window.addEventListener('error', function (ev) {
           b.innerHTML = '<span class="auth-spinner" style="border-top-color:var(--accent);"></span> Connecting to Google...';
         });
 
+        // Fail-safe auto-reset timer in case browser does not launch or user cancels
+        var resetTimer = setTimeout(function () {
+          resetAuthModalButtons();
+        }, 10000);
+
         var nativeBridge = window.MedLadderNative;
         var isNativeApp = !!(nativeBridge && nativeBridge.isNative);
         supabaseClient.auth.signInWithOAuth({
@@ -1996,26 +2049,29 @@ window.addEventListener('error', function (ev) {
           }
         }).then(function (res) {
           if (res && res.error) {
-            btns.forEach(function (b) {
-              b.disabled = false;
-              b.innerHTML = '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Continue with Google</span>';
-            });
+            clearTimeout(resetTimer);
+            resetAuthModalButtons();
             if (res.error.message && res.error.message.toLowerCase().includes('provider is not enabled')) {
               setAuthAlert('error', 'Google Sign-In is not enabled yet in your Supabase project. Enable it in Supabase Dashboard → Authentication → Providers → Google.');
             } else {
               setAuthAlert('error', res.error.message || 'Google Sign-In failed.');
             }
           } else if (isNativeApp && res && res.data && res.data.url) {
-            nativeBridge.Browser.open({ url: res.data.url }).catch(function (err) {
-              btns.forEach(function (b) { b.disabled = false; });
+            nativeBridge.Browser.open({ url: res.data.url }).then(function () {
+              // Browser has opened; reset button so returning to the app never shows a stuck spinner
+              setTimeout(function () {
+                clearTimeout(resetTimer);
+                resetAuthModalButtons();
+              }, 1500);
+            }).catch(function (err) {
+              clearTimeout(resetTimer);
+              resetAuthModalButtons();
               setAuthAlert('error', err && err.message ? err.message : 'Could not open Google Sign-In.');
             });
           }
         }).catch(function (err) {
-          btns.forEach(function (b) {
-            b.disabled = false;
-            b.innerHTML = '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Continue with Google</span>';
-          });
+          clearTimeout(resetTimer);
+          resetAuthModalButtons();
           setAuthAlert('error', err && err.message ? err.message : 'Google Sign-In failed.');
         });
       }
@@ -2182,9 +2238,11 @@ window.addEventListener('error', function (ev) {
       }
 
       function handleSignOut() {
+        resetAuthModalButtons();
         var doSignOut = function () {
           currentUser = null;
           resetProState();
+          resetAuthModalButtons();
           showToast('Signed out successfully.');
           updateProModalUI();
           if (state.screen === 'quiz' || state.screen === 'results') {
@@ -2224,6 +2282,7 @@ window.addEventListener('error', function (ev) {
         // and Pro checks cannot pass until the server has confirmed who is signed in.
         currentUser = null;
         resetProState();
+        resetAuthModalButtons();
 
         if (!supabaseClient) return;
 
@@ -2245,6 +2304,7 @@ window.addEventListener('error', function (ev) {
           if (event === 'SIGNED_OUT') {
             currentUser = null;
             resetProState();
+            resetAuthModalButtons();
             updateMastheadAuth();
             updateProModalUI();
             showToast('You have signed out.');
