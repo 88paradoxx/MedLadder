@@ -1404,10 +1404,17 @@ window.addEventListener('error', function (ev) {
         var url = targetUrl || '/MedLadder-latest.apk';
         var isNative = !!(window.MedLadderNative && window.MedLadderNative.isNative);
 
-        // Inside native Android app with our DownloadListener:
+        // 1. Direct native Android bridge (zero WebView navigation, zero blank screen):
+        if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.downloadApk === 'function') {
+          showToast('📥 Starting MedLadder APK download in background...', 'success');
+          window.MedLadderAndroidApp.downloadApk('https://medladder.top/MedLadder-latest.apk');
+          return;
+        }
+
+        // 2. Native app fallback (use hidden iframe so WebView never unloads/blanks):
         if (isNative) {
           showToast('📥 Starting MedLadder APK download in background...', 'success');
-          window.location.href = 'https://medladder.top/MedLadder-latest.apk';
+          triggerIframeDownload('https://medladder.top/MedLadder-latest.apk');
           return;
         }
 
