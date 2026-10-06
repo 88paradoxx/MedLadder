@@ -1402,11 +1402,19 @@ window.addEventListener('error', function (ev) {
         var btn = e.target.closest('.footer-apk-btn');
         if (btn) {
           showToast('📥 Starting MedLadder APK download...', 'success');
-          if (window.MedLadderNative && window.MedLadderNative.isNative && window.MedLadderNative.Browser) {
+          var isNative = !!(window.MedLadderNative && window.MedLadderNative.isNative);
+          var isLocalhost = window.location.hostname === 'localhost' || window.location.protocol === 'capacitor:';
+
+          if (isNative && window.MedLadderNative.Browser) {
             e.preventDefault();
-            var target = btn.getAttribute('href') || '/MedLadder-latest.apk';
-            var fullUrl = target.startsWith('http') ? target : (window.location.origin + target);
-            window.MedLadderNative.Browser.open({ url: fullUrl });
+            window.MedLadderNative.Browser.open({ url: 'https://medladder.top/MedLadder-latest.apk' });
+            return;
+          }
+
+          if (isLocalhost && window.navigator && window.navigator.userAgent && window.navigator.userAgent.indexOf('Android') !== -1) {
+            e.preventDefault();
+            window.open('https://medladder.top/MedLadder-latest.apk', '_system');
+            return;
           }
         }
       });
