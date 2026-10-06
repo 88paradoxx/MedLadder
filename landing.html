@@ -1491,13 +1491,88 @@
   <script src="/gtag-init.js" defer></script>
   <script src="/analytics-loader.js" defer></script>
   <script>
+    var isDownloadingApk = false;
+
+    function downloadMedLadderApkInPage() {
+      if (isDownloadingApk) return;
+      isDownloadingApk = true;
+      var toast = showDownloadToast('📥 Preparing MedLadder APK (7.5 MB)...', true);
+
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', '/MedLadder-latest.apk', true);
+      xhr.responseType = 'blob';
+
+      xhr.onprogress = function(e) {
+        if (e.lengthComputable && e.total > 0) {
+          var pct = Math.min(100, Math.round((e.loaded / e.total) * 100));
+          if (toast) toast.textContent = '📥 Downloading MedLadder APK... ' + pct + '%';
+        }
+      };
+
+      xhr.onload = function() {
+        isDownloadingApk = false;
+        if (xhr.status >= 200 && xhr.status < 300) {
+          try {
+            var blob = xhr.response;
+            var blobUrl = window.URL.createObjectURL(blob);
+            var a = document.createElement('a');
+            a.style.display = 'none';
+            a.href = blobUrl;
+            a.download = 'MedLadder-latest.apk';
+            document.body.appendChild(a);
+            a.click();
+            setTimeout(function() {
+              if (a.parentNode) a.parentNode.removeChild(a);
+              window.URL.revokeObjectURL(blobUrl);
+            }, 60000);
+            if (toast) {
+              toast.textContent = '✅ Download complete! Saved to your device.';
+              setTimeout(function() {
+                toast.classList.remove('visible');
+                setTimeout(function() { if (toast.parentNode) toast.parentNode.removeChild(toast); }, 300);
+              }, 4000);
+            }
+            return;
+          } catch (err) {}
+        }
+        if (toast) {
+          toast.textContent = '📥 Starting direct download...';
+          setTimeout(function() {
+            toast.classList.remove('visible');
+            setTimeout(function() { if (toast.parentNode) toast.parentNode.removeChild(toast); }, 300);
+          }, 3000);
+        }
+        triggerFallbackDownload('/MedLadder-latest.apk');
+      };
+
+      xhr.onerror = function() {
+        isDownloadingApk = false;
+        triggerFallbackDownload('/MedLadder-latest.apk');
+      };
+
+      xhr.send();
+    }
+
+    function triggerFallbackDownload(url) {
+      var iframe = document.getElementById('medladderApkDownloader');
+      if (!iframe) {
+        iframe = document.createElement('iframe');
+        iframe.id = 'medladderApkDownloader';
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+      }
+      iframe.src = url;
+    }
+
     document.addEventListener('click', function(e) {
       var btn = e.target.closest('.nav-download-btn, .footer-apk-btn');
       if (btn) {
-        showDownloadToast('📥 Starting MedLadder APK download...');
+        e.preventDefault();
+        downloadMedLadderApkInPage();
       }
     });
-    function showDownloadToast(msg) {
+
+    function showDownloadToast(msg, persistent) {
       var container = document.getElementById('landingToastContainer');
       if (!container) {
         container = document.createElement('div');
@@ -1510,10 +1585,13 @@
       toast.textContent = msg;
       container.appendChild(toast);
       setTimeout(function() { toast.classList.add('visible'); }, 10);
-      setTimeout(function() {
-        toast.classList.remove('visible');
-        setTimeout(function() { toast.remove(); }, 300);
-      }, 3500);
+      if (!persistent) {
+        setTimeout(function() {
+          toast.classList.remove('visible');
+          setTimeout(function() { if (toast.parentNode) toast.parentNode.removeChild(toast); }, 300);
+        }, 3500);
+      }
+      return toast;
     }
   </script>
 </body>
