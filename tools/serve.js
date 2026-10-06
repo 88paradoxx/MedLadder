@@ -18,7 +18,8 @@ const MIME_TYPES = {
   '.svg': 'image/svg+xml',
   '.ico': 'image/x-icon',
   '.xml': 'application/xml; charset=UTF-8',
-  '.txt': 'text/plain; charset=UTF-8'
+  '.txt': 'text/plain; charset=UTF-8',
+  '.apk': 'application/vnd.android.package-archive'
 };
 
 const server = http.createServer((req, res) => {
@@ -64,12 +65,17 @@ const server = http.createServer((req, res) => {
       const ext = path.extname(filePath).toLowerCase();
       const contentType = MIME_TYPES[ext] || 'application/octet-stream';
 
-      // Disable caching for development
-      res.writeHead(200, {
+      const responseHeaders = {
         'Content-Type': contentType,
+        'Content-Length': data.length,
         'Cache-Control': 'no-cache, no-store, must-revalidate',
         'Access-Control-Allow-Origin': '*'
-      });
+      };
+      if (ext === '.apk') {
+        responseHeaders['Content-Disposition'] = 'attachment; filename="MedLadder-latest.apk"';
+      }
+
+      res.writeHead(200, responseHeaders);
       res.end(data);
     });
   });
