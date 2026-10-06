@@ -5,13 +5,19 @@
       "source": "/ini-cet",
       "destination": "/inicet",
       "permanent": true
+    },
+    {
+      "source": "/download-apk",
+      "destination": "https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk",
+      "permanent": false
+    },
+    {
+      "source": "/MedLadder-latest.apk",
+      "destination": "https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk",
+      "permanent": false
     }
   ],
   "rewrites": [
-    {
-      "source": "/download-apk",
-      "destination": "/MedLadder-latest.apk"
-    },
     {
       "source": "/(.*)",
       "destination": "/index.html"
