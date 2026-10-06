@@ -48,3 +48,15 @@ export_db.ps1
 medladder_backup*/
 medladder_*backup*
 medladder_*data*.sql
+
+# One-off data dumps and audit scripts (keep local, never commit)
+tools/*.json
+tools/*.txt
+tools/*.md
+tools/peds_modules/
+
+# Local build artifacts (keep MedLadder-latest.apk tracked for Vercel)
+android/app/build/
+*.apk
+!MedLadder-latest.apk
+
