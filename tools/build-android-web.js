@@ -14,9 +14,9 @@ fs.mkdirSync(webDir, { recursive: true });
 const files = [
   'index.html', 'app.css', 'quiz-pro.css', 'app.js', 'syllabus.js',
   'gtag-init.js', 'analytics-loader.js', 'theme-init.js', 'manifest.json', 'favicon.ico',
-  'privacy.html', 'terms.html', 'robots.txt', 'sitemap.xml'
+  'privacy.html', 'terms.html'
 ];
-const directories = ['assets', 'icons', 'subjects', 'fmge', 'inicet', 'ini-cet', 'neet-pg', 'neet-ss'];
+const directories = ['assets', 'icons'];
 
 for (const file of files) {
   const source = path.join(root, file);
@@ -26,7 +26,16 @@ for (const file of files) {
 for (const directory of directories) {
   const source = path.join(root, directory);
   if (fs.existsSync(source)) {
-    fs.cpSync(source, path.join(webDir, directory), { recursive: true });
+    fs.cpSync(source, path.join(webDir, directory), {
+      recursive: true,
+      filter: (src) => {
+        // Exclude unused raw PNG subject icons (app.js uses subjects-webp) and splash files
+        const normalized = src.replace(/\\/g, '/');
+        if (normalized.includes('/assets/subjects/') && !normalized.includes('subjects-webp')) return false;
+        if (normalized.includes('splash')) return false;
+        return true;
+      }
+    });
   }
 }
 
