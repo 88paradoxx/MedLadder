@@ -1400,16 +1400,31 @@ window.addEventListener('error', function (ev) {
 
       var GITHUB_APK_URL = 'https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk';
 
+      function triggerIframeDownload(url) {
+        var iframe = document.getElementById('medladderApkDownloader');
+        if (!iframe) {
+          iframe = document.createElement('iframe');
+          iframe.id = 'medladderApkDownloader';
+          iframe.style.display = 'none';
+          document.body.appendChild(iframe);
+        }
+        iframe.src = url;
+      }
+
       document.addEventListener('click', function (e) {
         var btn = e.target.closest('.footer-apk-btn');
         if (btn) {
-          if (window.MedLadderNative && window.MedLadderNative.isNative && window.MedLadderNative.Browser) {
-            e.preventDefault();
-            showToast('📥 Starting MedLadder APK download...', 'success');
-            window.MedLadderNative.Browser.open({ url: GITHUB_APK_URL });
-          } else {
-            showToast('📥 Starting MedLadder APK download...', 'success');
+          e.preventDefault();
+          // 1. Direct native Android bridge in APK (zero WebView navigation, zero blank screen):
+          if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.downloadApk === 'function') {
+            showToast('📥 Starting MedLadder APK download in background...', 'success');
+            window.MedLadderAndroidApp.downloadApk(GITHUB_APK_URL);
+            return;
           }
+
+          // 2. Fallback for mobile / web: invisible iframe prevents page navigation / blank screen
+          showToast('📥 Starting MedLadder APK download...', 'success');
+          triggerIframeDownload(GITHUB_APK_URL);
         }
       });
 

@@ -1491,10 +1491,23 @@
   <script src="/gtag-init.js" defer></script>
   <script src="/analytics-loader.js" defer></script>
   <script>
+    function triggerFallbackDownload(url) {
+      var iframe = document.getElementById('medladderApkDownloader');
+      if (!iframe) {
+        iframe = document.createElement('iframe');
+        iframe.id = 'medladderApkDownloader';
+        iframe.style.display = 'none';
+        document.body.appendChild(iframe);
+      }
+      iframe.src = url;
+    }
+
     document.addEventListener('click', function(e) {
       var btn = e.target.closest('.nav-download-btn, .footer-apk-btn');
       if (btn) {
+        e.preventDefault();
         showDownloadToast('📥 Starting MedLadder APK download...');
+        triggerFallbackDownload('https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk');
       }
     });
 
