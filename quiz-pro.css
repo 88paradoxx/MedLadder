@@ -272,9 +272,25 @@ html.dark .explain th {
   background: var(--glass-bg-strong) !important;
   border: 1px solid var(--glass-border) !important;
   box-shadow: 0 4px 16px -4px rgba(109, 40, 217, 0.08), 0 1px 4px rgba(30, 16, 53, 0.04) !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
 }
 html.dark .review-item {
   box-shadow: 0 4px 16px -4px rgba(0,0,0,0.4), 0 1px 4px rgba(0,0,0,0.2) !important;
+}
+
+/* --- Review Item Images & General Content Constraints --- */
+.review-item img,
+.review-item .rq img,
+.review-item .rexplain img,
+.w-100 {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  margin: 12px auto !important;
+  border-radius: 12px !important;
+  object-fit: contain !important;
+  box-sizing: border-box !important;
 }
 
 /* --- Review Question Text --- */
@@ -1112,7 +1128,7 @@ html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .scr
   touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
 }
-.screen-quiz .explain img, .screen-quiz .qtext img { max-height: 60vh; width: auto; max-width: 100%; object-fit: contain; }
+.screen-quiz .explain img, .screen-quiz .qtext img, .review-item img, .review-item .rq img, .review-item .rexplain img { max-height: 65vh; width: auto; max-width: 100% !important; object-fit: contain; }
 .screen-quiz .explain { contain: layout paint; }
 /* Mobile fix: restore green/red answer fills on phones/touch devices */
 @media (max-width: 768px), (pointer: coarse) {
