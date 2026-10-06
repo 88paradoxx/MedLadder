@@ -1398,31 +1398,24 @@ window.addEventListener('error', function (ev) {
         }, 3200);
       }
 
+      var GITHUB_APK_URL = 'https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk';
       var isDownloadingApk = false;
 
       function downloadMedLadderApkInPage(targetUrl) {
-        var url = targetUrl || '/MedLadder-latest.apk';
-        var isNative = !!(window.MedLadderNative && window.MedLadderNative.isNative);
-
-        // 1. Direct native Android bridge (zero WebView navigation, zero blank screen):
-        if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.downloadApk === 'function') {
-          showToast('📥 Starting MedLadder APK download in background...', 'success');
-          window.MedLadderAndroidApp.downloadApk('https://medladder.top/MedLadder-latest.apk');
+        // Inside native Android app: trigger GitHub release URL via Browser plugin
+        // (GitHub's 302 redirect triggers Android's system DownloadManager directly without blanking)
+        if (window.MedLadderNative && window.MedLadderNative.isNative && window.MedLadderNative.Browser) {
+          showToast('📥 Starting MedLadder APK download...', 'success');
+          window.MedLadderNative.Browser.open({ url: GITHUB_APK_URL });
           return;
         }
 
-        // 2. Native app fallback (use hidden iframe so WebView never unloads/blanks):
-        if (isNative) {
-          showToast('📥 Starting MedLadder APK download in background...', 'success');
-          triggerIframeDownload('https://medladder.top/MedLadder-latest.apk');
-          return;
-        }
-
-        // On the web (mobile or desktop browsers):
+        // On the web (mobile or desktop browsers): in-page download without redirect to Git
         if (isDownloadingApk) return;
         isDownloadingApk = true;
         showToast('📥 Preparing MedLadder APK (7.5 MB)...', 'info');
 
+        var url = targetUrl || '/MedLadder-latest.apk';
         var xhr = new XMLHttpRequest();
         xhr.open('GET', url, true);
         xhr.responseType = 'blob';
@@ -1552,9 +1545,11 @@ window.addEventListener('error', function (ev) {
       }
 
       function footerHtml() {
+        var isApp = typeof window !== 'undefined' && window.MedLadderNative && window.MedLadderNative.isNative;
+        var apkHref = isApp ? GITHUB_APK_URL : '/MedLadder-latest.apk';
         return '<footer class="credit">' +
           '<div class="footer-content">' +
-          '<a href="/MedLadder-latest.apk" class="footer-apk-btn" download="MedLadder-latest.apk" title="Download MedLadder Android APK">' +
+          '<a href="' + apkHref + '" class="footer-apk-btn" download="MedLadder-latest.apk" title="Download MedLadder Android APK">' +
           '<span class="footer-apk-icon">' +
           '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.4116 13.8533 8.125 12 8.125s-3.5902.2866-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg>' +
           '</span>' +
