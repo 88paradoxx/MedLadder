@@ -97,16 +97,52 @@ def slugify(value):
 def esc(text):
     return html.escape(str(text or ''))
 
+def masthead_html():
+    return (
+        '    <header class="masthead glass" role="banner">\n'
+        '      <a href="/" class="brand" style="text-decoration:none;">\n'
+        '        <span class="brand-icon" style="overflow:hidden;display:inline-flex;align-items:center;justify-content:center;">\n'
+        '          <img src="/icons/icon-72.png" alt="MedLadder" style="width:100%;height:100%;border-radius:inherit;display:block;object-fit:cover;">\n'
+        '        </span>\n'
+        '        <span>MedLadder</span>\n'
+        '      </a>\n'
+        '      <span class="right">\n'
+        '        <span class="stat"><span class="stat-dot"></span>37,076 MCQs</span>\n'
+        '        <button class="theme-toggle" id="themeToggle" title="Toggle theme" aria-label="Toggle theme">🌙</button>\n'
+        '      </span>\n'
+        '    </header>'
+    )
+
+def footer_html():
+    return (
+        '    <footer class="credit">\n'
+        '      <div class="footer-content">\n'
+        '        <a href="https://github.com/88paradoxx/MedLadder/releases/latest" class="footer-apk-btn" download="MedLadder-latest.apk" title="Download MedLadder Android APK">\n'
+        '          <span class="footer-apk-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.4116 13.8533 8.125 12 8.125s-3.5902.2866-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg></span>\n'
+        '          <span class="footer-apk-text"><span class="footer-apk-sub">Android App</span><span class="footer-apk-title">Download APK</span></span>\n'
+        '          <span class="footer-apk-badge">Latest</span>\n'
+        '        </a>\n'
+        '        <div class="footer-links-row">\n'
+        '          <a href="/privacy" class="footer-link">Privacy Policy</a>\n'
+        '          <span class="footer-dot" aria-hidden="true">·</span>\n'
+        '          <a href="/terms" class="footer-link">Terms of Service</a>\n'
+        '        </div>\n'
+        '        <div class="footer-copy"><strong>MedLadder</strong> · Medical Entrance Exam Question Bank</div>\n'
+        '        <div class="footer-subcopy">MBBS · FMGE · NEET PG · INI-CET · NEET SS · USMLE · MCAT · PLAB · MRCS · MRCP · State PG</div>\n'
+        '      </div>\n'
+        '    </footer>'
+    )
+
 def exam_links_html(heading_id="examHubs"):
     links = "".join(
-        f'<a href="/{slug}" style="display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;'
-        f'color:var(--ink);text-decoration:none;background:var(--paper-raised);"><strong>{esc(name)} question bank</strong>'
-        f'<br><small>Topic-wise MCQs and previous-year questions</small></a>'
+        f'<a href="/{slug}" class="seo-card">'
+        f'<strong>{esc(name)} Question Bank</strong>'
+        f'<small>Topic-wise MCQs and previous-year questions</small></a>'
         for slug, name in EXAM_HUBS
     )
-    return (f'<section aria-labelledby="{heading_id}" style="margin-top:28px;">'
-            f'<h2 id="{heading_id}">Prepare for your exam</h2>'
-            f'<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;">{links}</div>'
+    return (f'<section aria-labelledby="{heading_id}" style="margin-top:34px;">'
+            f'<h2 id="{heading_id}" class="seo-section-title">Prepare for your exam</h2>'
+            f'<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;">{links}</div>'
             f'</section>')
 
 def sample_schema(sample):
@@ -132,19 +168,27 @@ def samples_html(samples, topic_name):
     letters = "ABCD"
     blocks = []
     for n, sm in enumerate(samples, 1):
-        opts = "".join(f"<li>{esc(o)}</li>" for o in sm["o"])
+        opts = "".join(
+            f'<div class="seo-opt"><span class="letter">{let}</span><span>{esc(o)}</span></div>'
+            for let, o in zip(letters, sm["o"])
+        )
         ai = letters.index(sm["a"])
         blocks.append(
-            f'<article style="padding:16px 18px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);margin-bottom:12px;">'
-            f'<h3 style="font-size:16px;line-height:1.5;margin:0 0 10px;">Q{n}. {esc(sm["q"])}</h3>'
-            f'<ol type="A" style="line-height:1.7;padding-left:22px;margin:0 0 10px;">{opts}</ol>'
-            f'<details><summary style="font-weight:700;cursor:pointer;">Show answer and explanation</summary>'
-            f'<p style="margin:10px 0 6px;"><strong>Correct answer: {sm["a"]}. {esc(sm["o"][ai])}</strong></p>'
-            f'<p style="color:var(--ink-soft);line-height:1.65;margin:0;">{esc(sm["e"])}</p></details>'
+            f'<article class="seo-qcard">'
+            f'<div class="qnum-eyebrow" style="color:var(--accent);font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;margin-bottom:8px;">Sample MCQ #{n}</div>'
+            f'<h3 style="font-size:16.5px;font-weight:700;line-height:1.45;margin:0 0 14px;color:var(--ink);">{esc(sm["q"])}</h3>'
+            f'<div style="margin-bottom:12px;">{opts}</div>'
+            f'<details style="margin-top:12px;">'
+            f'<summary class="btn secondary" style="display:inline-flex;align-items:center;gap:6px;font-size:12.5px;padding:8px 16px;cursor:pointer;list-style:none;">Show Answer &amp; Explanation ▾</summary>'
+            f'<div class="explain show" style="display:block;margin-top:12px;border-left:4px solid var(--accent);">'
+            f'<div class="exlabel" style="color:var(--green);font-weight:800;margin-bottom:8px;">✓ Correct Answer: {sm["a"]}. {esc(sm["o"][ai])}</div>'
+            f'<p style="margin:0;line-height:1.65;color:var(--ink);font-size:14.5px;">{esc(sm["e"])}</p>'
+            f'</div>'
+            f'</details>'
             f'</article>'
         )
-    return (f'<section aria-labelledby="seoSamples" style="margin-top:28px;">'
-            f'<h2 id="seoSamples">Sample {esc(topic_name)} MCQs with answers</h2>{"".join(blocks)}</section>')
+    return (f'<section aria-labelledby="seoSamples" style="margin-top:34px;">'
+            f'<h2 id="seoSamples" class="seo-section-title">Sample {esc(topic_name)} MCQs with answers</h2>{"".join(blocks)}</section>')
 
 def fit_desc(text, limit=158):
     if len(text) <= limit:
@@ -263,6 +307,7 @@ def main():
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="/theme-init.js"></script>
   <title>{esc(title)}</title>
   <meta name="description" content="{esc(description)}">
   <meta name="robots" content="index, follow, max-image-preview:large">
@@ -294,13 +339,20 @@ def main():
 
   {schema_tags}
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,500&family=DM+Sans:wght@400;500;600;700&display=optional" media="print" id="gfonts-css">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,500&family=DM+Sans:wght@400;500;600;700&display=optional"></noscript>
+
   <link rel="stylesheet" href="/app.css">
   <link rel="stylesheet" href="/quiz-pro.css" media="print" id="quiz-pro-css">
 </head>
 
 <body>
   <div class="app" id="app">
+{masthead_html()}
 {pre_rendered_body}
+{footer_html()}
   </div>
 
   <script src="{SUPABASE_JS_URL}" crossorigin="anonymous" integrity="sha384-0w2KAL2YHP6wKOkUDzkCDGgVvfmHnj02DHeQ6XcHOgTfFsGyonKOpShMH1x6nk9o" defer></script>
@@ -466,49 +518,57 @@ def main():
 
         # Pre-rendered body content
         subjects_cards_html = "".join([
-            f'<a href="/subjects/{slugify(s["name"])}" style="display:block;padding:14px;border:1px solid var(--line);border-radius:12px;color:var(--ink);text-decoration:none;background:var(--paper-raised);">'
-            f'<strong>{esc(s["name"])}</strong><br><small>{s.get("questionCount", 0):,} MCQs · {s.get("moduleCount", 0)} modules</small></a>'
+            f'<a href="/subjects/{slugify(s["name"])}" class="seo-card">'
+            f'<strong>{esc(s["name"])}</strong><small>{s.get("questionCount", 0):,} MCQs · {s.get("moduleCount", 0)} modules</small></a>'
             for s in syllabus
         ])
 
         faq_details_html = "".join([
-            f'<details style="padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--paper-raised);margin-bottom:10px;">'
-            f'<summary style="font-weight:700;cursor:pointer;">{esc(f["q"])}</summary>'
-            f'<p style="margin-top:8px;color:var(--ink-soft);line-height:1.6;">{esc(f["a"])}</p>'
+            f'<details class="seo-faq-card">'
+            f'<summary><span>{esc(f["q"])}</span><span style="color:var(--accent);font-size:14px;margin-left:12px;">▾</span></summary>'
+            f'<p>{esc(f["a"])}</p>'
             f'</details>'
             for f in ex["faqs"]
         ])
 
-        body_html = f"""    <main style="max-width:960px;margin:0 auto;padding:28px 20px 60px;">
-      <nav aria-label="Breadcrumb" style="font-size:14px;margin-bottom:22px;">
-        <a href="/" id="seoHomeTop" style="color:var(--accent-deep);font-weight:800;text-decoration:none;">← Home</a>
-        <span aria-hidden="true">/</span> <span>{esc(ex["name"])}</span>
+        body_html = f"""    <main class="seo-main" role="main">
+      <nav class="seo-breadcrumb" aria-label="Breadcrumb">
+        <a href="/" id="seoHomeTop">Home</a>
+        <span class="sep" aria-hidden="true">/</span> <span>{esc(ex["name"])}</span>
       </nav>
-      <h1 class="title" style="margin-bottom:14px;">{esc(ex["heading"])}</h1>
-      <p class="subtitle" style="max-width:820px;line-height:1.65;">{esc(ex["intro"])}</p>
-      <p style="font-size:16px;"><strong>{esc(ex["coverage"])}</strong></p>
-      <div style="display:flex;flex-wrap:wrap;gap:12px;margin:26px 0;">
-        <button id="seoStartBtn" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 22px;border:0;border-radius:14px;color:#fff;background:linear-gradient(135deg,var(--cta-a),var(--cta-b));font-weight:800;font-size:15px;cursor:pointer;">Start Practising {esc(ex["name"])}</button>
-        <a href="/" id="seoHomeBottom" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 20px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);color:var(--ink);font-weight:800;font-size:15px;text-decoration:none;">Back to Home</a>
+      <div class="hero-wrap" style="padding:10px 4px 24px;text-align:center;">
+        <div class="hero-eyebrow">⚡ {esc(ex["name"])} Question Bank &amp; PYQs</div>
+        <h1 class="title">{esc(ex["name"])} <span class="brand-gradient">Question Bank</span></h1>
+        <p class="subtitle" style="max-width:760px;margin:0 auto 18px;line-height:1.65;">{esc(ex["intro"])}</p>
+        <div class="bento-bar" style="max-width:680px;margin:18px auto 24px;">
+          <div class="bento-stat"><div class="bento-stat-num">37,076</div><div class="bento-stat-lbl">Total MCQs</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">{esc(ex["name"])}</div><div class="bento-stat-lbl">Verified PYQs</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">19</div><div class="bento-stat-lbl">Subjects</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">100%</div><div class="bento-stat-lbl">With Explanations</div></div>
+        </div>
+        <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin:22px 0 6px;">
+          <button id="seoStartBtn" class="btn" style="font-size:15px;padding:14px 28px;cursor:pointer;">Start Practising {esc(ex["name"])}</button>
+          <a href="/" id="seoHomeBottom" class="btn secondary" style="font-size:15px;padding:14px 24px;text-decoration:none;">Back to Home</a>
+        </div>
       </div>
-      <section aria-labelledby="seoTopics">
-        <h2 id="seoTopics">What you can practise</h2>
-        <ul style="line-height:1.8;padding-left:22px;">
-          <li>Previous-year question papers with year and session filtering</li>
-          <li>Topic-wise medical MCQs across all 19 medical entrance subjects</li>
-          <li>Detailed explanations for every question to learn from mistakes</li>
-          <li>Timed exam simulation mode with performance tracking</li>
+      <section aria-labelledby="seoTopics" style="margin-top:28px;">
+        <h2 id="seoTopics" class="seo-section-title">What you can practise</h2>
+        <ul style="line-height:1.8;padding-left:22px;color:var(--ink-soft);font-size:15px;">
+          <li><strong style="color:var(--ink);">Previous-year question papers</strong> with year and session filtering</li>
+          <li><strong style="color:var(--ink);">Topic-wise medical MCQs</strong> across all 19 medical entrance subjects</li>
+          <li><strong style="color:var(--ink);">Detailed explanations</strong> for every question to learn from mistakes</li>
+          <li><strong style="color:var(--ink);">Timed exam simulation mode</strong> with instant score and performance tracking</li>
         </ul>
       </section>
-      <section aria-labelledby="subjectTopics" style="margin-top:28px;">
-        <h2 id="subjectTopics">19 Subject-Wise Question Banks for {esc(ex["name"])}</h2>
-        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:10px;">
+      <section aria-labelledby="subjectTopics" style="margin-top:34px;">
+        <h2 id="subjectTopics" class="seo-section-title">19 Subject-Wise Question Banks for {esc(ex["name"])}</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;">
           {subjects_cards_html}
         </div>
       </section>
-      <section aria-labelledby="seoFaq" style="margin-top:36px;">
-        <h2 id="seoFaq" style="margin-bottom:16px;">Frequently Asked Questions</h2>
-        <div style="display:flex;flex-direction:column;gap:10px;">
+      <section aria-labelledby="seoFaq" style="margin-top:38px;">
+        <h2 id="seoFaq" class="seo-section-title">Frequently Asked Questions</h2>
+        <div style="display:flex;flex-direction:column;gap:6px;">
           {faq_details_html}
         </div>
       </section>
@@ -597,50 +657,58 @@ def main():
 
         modules = subj.get("modules", [])
         modules_cards_html = "".join([
-            f'<a href="/subjects/{s_slug}/{slugify(m["name"])}" style="display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;color:var(--ink);text-decoration:none;background:var(--paper-raised);">'
-            f'<strong>{esc(m["name"])}</strong><br><small>{m.get("questionCount", 0):,} questions · {esc(m.get("section", ""))}</small></a>'
+            f'<a href="/subjects/{s_slug}/{slugify(m["name"])}" class="seo-card">'
+            f'<strong>{esc(m["name"])}</strong><small>{m.get("questionCount", 0):,} questions · {esc(m.get("section", ""))}</small></a>'
             for m in modules
         ])
 
         s_faq_html = "".join([
-            f'<details style="padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--paper-raised);margin-bottom:10px;">'
-            f'<summary style="font-weight:700;cursor:pointer;">{esc(f["q"])}</summary>'
-            f'<p style="margin-top:8px;color:var(--ink-soft);line-height:1.6;">{esc(f["a"])}</p>'
+            f'<details class="seo-faq-card">'
+            f'<summary><span>{esc(f["q"])}</span><span style="color:var(--accent);font-size:14px;margin-left:12px;">▾</span></summary>'
+            f'<p>{esc(f["a"])}</p>'
             f'</details>'
             for f in s_faqs
         ])
 
-        s_body_html = f"""    <main style="max-width:960px;margin:0 auto;padding:28px 20px 60px;">
-      <nav aria-label="Breadcrumb" style="font-size:14px;margin-bottom:22px;">
-        <a href="/" id="seoHomeTop" style="color:var(--accent-deep);font-weight:800;text-decoration:none;">← Home</a>
-        <span aria-hidden="true">/</span> <span>{esc(subj["name"])}</span>
+        s_body_html = f"""    <main class="seo-main" role="main">
+      <nav class="seo-breadcrumb" aria-label="Breadcrumb">
+        <a href="/" id="seoHomeTop">Home</a>
+        <span class="sep" aria-hidden="true">/</span> <span>{esc(subj["name"])}</span>
       </nav>
-      <h1 class="title" style="margin-bottom:14px;">{esc(s_heading)}</h1>
-      <p class="subtitle" style="max-width:820px;line-height:1.65;">{esc(s_intro)}</p>
-      <p style="font-size:16px;"><strong>{subj.get('questionCount', 0):,} questions</strong> across {subj.get('moduleCount', 0)} topics/modules.</p>
-      <div style="display:flex;flex-wrap:wrap;gap:12px;margin:26px 0;">
-        <button id="seoStartBtn" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 22px;border:0;border-radius:14px;color:#fff;background:linear-gradient(135deg,var(--cta-a),var(--cta-b));font-weight:800;font-size:15px;cursor:pointer;">Open {esc(subj["name"])} Topics</button>
-        <a href="/" id="seoHomeBottom" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 20px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);color:var(--ink);font-weight:800;font-size:15px;text-decoration:none;">Back to Home</a>
+      <div class="hero-wrap" style="padding:10px 4px 24px;text-align:center;">
+        <div class="hero-eyebrow">⚡ {esc(subj["name"])} Question Bank</div>
+        <h1 class="title">{esc(subj["name"])} <span class="brand-gradient">MCQs</span></h1>
+        <p class="subtitle" style="max-width:760px;margin:0 auto 18px;line-height:1.65;">{esc(s_intro)}</p>
+        <div class="bento-bar" style="max-width:680px;margin:18px auto 24px;">
+          <div class="bento-stat"><div class="bento-stat-num">{subj.get('questionCount', 0):,}</div><div class="bento-stat-lbl">Questions</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">{subj.get('moduleCount', 0)}</div><div class="bento-stat-lbl">Topics</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">4 Exams</div><div class="bento-stat-lbl">NEET PG · INICET · FMGE · SS</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">100%</div><div class="bento-stat-lbl">With Rationales</div></div>
+        </div>
+        <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin:22px 0 6px;">
+          <button id="seoStartBtn" class="btn" style="font-size:15px;padding:14px 28px;cursor:pointer;">Open {esc(subj["name"])} Topics</button>
+          <a href="/" id="seoHomeBottom" class="btn secondary" style="font-size:15px;padding:14px 24px;text-decoration:none;">Back to Home</a>
+        </div>
       </div>
-      <section aria-labelledby="seoTopics">
-        <h2 id="seoTopics">What you can practise</h2>
-        <ul style="line-height:1.8;padding-left:22px;">
-          <li>Topic-wise medical MCQs for focused revision</li>
-          <li>Previous-year question practice</li>
-          <li>Detailed explanations for learning from mistakes</li>
-          <li>Progress and performance tracking</li>
+      <section aria-labelledby="seoTopics" style="margin-top:28px;">
+        <h2 id="seoTopics" class="seo-section-title">What you can practise</h2>
+        <ul style="line-height:1.8;padding-left:22px;color:var(--ink-soft);font-size:15px;">
+          <li><strong style="color:var(--ink);">Topic-wise medical MCQs</strong> for targeted revision</li>
+          <li><strong style="color:var(--ink);">Previous-year questions</strong> verified across NEET PG, INI-CET, and FMGE</li>
+          <li><strong style="color:var(--ink);">Detailed explanations</strong> for every question</li>
+          <li><strong style="color:var(--ink);">Performance tracking</strong> to spot and strengthen weak areas</li>
         </ul>
       </section>
-      <section aria-labelledby="subjectTopics" style="margin-top:28px;">
-        <h2 id="subjectTopics">{esc(subj["name"])} topic-wise question banks</h2>
-        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:10px;">
+      <section aria-labelledby="subjectTopics" style="margin-top:34px;">
+        <h2 id="subjectTopics" class="seo-section-title">{esc(subj["name"])} topic-wise question banks</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;">
           {modules_cards_html}
         </div>
       </section>
       {exam_links_html()}
-      <section aria-labelledby="seoFaq" style="margin-top:36px;">
-        <h2 id="seoFaq" style="margin-bottom:16px;">Frequently Asked Questions</h2>
-        <div style="display:flex;flex-direction:column;gap:10px;">
+      <section aria-labelledby="seoFaq" style="margin-top:38px;">
+        <h2 id="seoFaq" class="seo-section-title">Frequently Asked Questions</h2>
+        <div style="display:flex;flex-direction:column;gap:6px;">
           {s_faq_html}
         </div>
       </section>
@@ -728,15 +796,15 @@ def main():
                     nearby.append(modules[pos])
 
             nearby_cards_html = "".join([
-                f'<a href="/subjects/{s_slug}/{slugify(n["name"])}" style="display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;color:var(--ink);text-decoration:none;background:var(--paper-raised);">'
-                f'<strong>{esc(n["name"])}</strong><br><small>{n.get("questionCount", 0):,} questions</small></a>'
+                f'<a href="/subjects/{s_slug}/{slugify(n["name"])}" class="seo-card" style="display:block;text-decoration:none;">'
+                f'<strong style="font-size:15px;color:var(--ink);">{esc(n["name"])}</strong><br><small style="color:var(--ink-soft);">{n.get("questionCount", 0):,} questions</small></a>'
                 for n in nearby
             ])
 
             m_faq_html = "".join([
-                f'<details style="padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--paper-raised);margin-bottom:10px;">'
-                f'<summary style="font-weight:700;cursor:pointer;">{esc(f["q"])}</summary>'
-                f'<p style="margin-top:8px;color:var(--ink-soft);line-height:1.6;">{esc(f["a"])}</p>'
+                f'<details class="seo-faq-card">'
+                f'<summary>{esc(f["q"])}</summary>'
+                f'<p>{esc(f["a"])}</p>'
                 f'</details>'
                 for f in m_faqs
             ])
@@ -745,46 +813,54 @@ def main():
             next_mod = modules[idx + 1] if idx + 1 < len(modules) else None
             pn_parts = []
             if prev_mod:
-                pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(prev_mod["name"])}" rel="prev" style="color:var(--accent-deep);font-weight:700;text-decoration:none;">← {esc(prev_mod["name"])} MCQs</a>')
+                pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(prev_mod["name"])}" rel="prev" class="btn secondary" style="font-size:14px;padding:10px 18px;text-decoration:none;">← {esc(prev_mod["name"])}</a>')
             if next_mod:
-                pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(next_mod["name"])}" rel="next" style="color:var(--accent-deep);font-weight:700;text-decoration:none;">{esc(next_mod["name"])} MCQs →</a>')
-            pn_html = (f'<nav aria-label="Previous and next topic" style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:24px;">{"".join(pn_parts)}</nav>') if pn_parts else ""
+                pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(next_mod["name"])}" rel="next" class="btn secondary" style="font-size:14px;padding:10px 18px;text-decoration:none;">{esc(next_mod["name"])} →</a>')
+            pn_html = (f'<nav aria-label="Previous and next topic" style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:32px;">{"".join(pn_parts)}</nav>') if pn_parts else ""
             samples_block = samples_html(samples, mod["name"])
             exam_block = exam_links_html()
 
-            m_body_html = f"""    <main style="max-width:960px;margin:0 auto;padding:28px 20px 60px;">
-      <nav aria-label="Breadcrumb" style="font-size:14px;margin-bottom:22px;">
-        <a href="/" id="seoHomeTop" style="color:var(--accent-deep);font-weight:800;text-decoration:none;">← Home</a>
+            m_body_html = f"""    <main class="seo-main">
+      <nav aria-label="Breadcrumb" class="seo-breadcrumb">
+        <a href="/" id="seoHomeTop">← Home</a>
         <span aria-hidden="true">/</span>
-        <a href="/subjects/{s_slug}" id="seoSubjectCrumb" style="color:var(--accent-deep);font-weight:800;text-decoration:none;">{esc(subj["name"])}</a>
+        <a href="/subjects/{s_slug}" id="seoSubjectCrumb">{esc(subj["name"])}</a>
         <span aria-hidden="true">/</span> <span>{esc(mod["name"])}</span>
       </nav>
-      <h1 class="title" style="margin-bottom:14px;">{esc(m_heading)}</h1>
-      <p class="subtitle" style="max-width:820px;line-height:1.65;">{esc(m_intro)}</p>
-      <p style="font-size:16px;"><strong>{mod.get('questionCount', 0):,} questions</strong> in this topic · {esc(mod.get('section', 'Core syllabus'))}</p>
-      <div style="display:flex;flex-wrap:wrap;gap:12px;margin:26px 0;">
-        <button id="seoStartBtn" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 22px;border:0;border-radius:14px;color:#fff;background:linear-gradient(135deg,var(--cta-a),var(--cta-b));font-weight:800;font-size:15px;cursor:pointer;">Start {esc(mod["name"])} Questions</button>
-        <a href="/" id="seoHomeBottom" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 20px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);color:var(--ink);font-weight:800;font-size:15px;text-decoration:none;">Back to Home</a>
+      <div class="hero-wrap" style="text-align:center;padding:32px 18px 26px;margin-bottom:28px;">
+        <div class="hero-eyebrow">Medical Entrance Revision · {esc(subj["name"])}</div>
+        <h1 class="title">{esc(mod["name"])} <span class="brand-gradient">MCQs</span></h1>
+        <p class="subtitle" style="max-width:760px;margin:0 auto 18px;line-height:1.65;">{esc(m_intro)}</p>
+        <div class="bento-bar" style="max-width:680px;margin:18px auto 24px;">
+          <div class="bento-stat"><div class="bento-stat-num">{mod.get('questionCount', 0):,}</div><div class="bento-stat-lbl">Questions</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">Core</div><div class="bento-stat-lbl">{esc(mod.get('section', 'Syllabus'))}</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">4 Exams</div><div class="bento-stat-lbl">NEET PG · INICET · FMGE · SS</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">100%</div><div class="bento-stat-lbl">With Rationales</div></div>
+        </div>
+        <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin:22px 0 6px;">
+          <button id="seoStartBtn" class="btn" style="font-size:15px;padding:14px 28px;cursor:pointer;">Start {esc(mod["name"])} Practice</button>
+          <a href="/subjects/{s_slug}" class="btn secondary" style="font-size:15px;padding:14px 24px;text-decoration:none;">All {esc(subj["name"])} Topics</a>
+        </div>
       </div>
       {samples_block}
-      <section aria-labelledby="seoTopics" style="margin-top:28px;">
-        <h2 id="seoTopics">What you can practise in {esc(mod["name"])}</h2>
-        <ul style="line-height:1.8;padding-left:22px;">
-          <li>{mod.get('questionCount', 0)} {esc(subj["name"])} MCQs on {esc(mod["name"])}, with detailed explanations</li>
-          <li>Previous-year question practice across NEET PG, FMGE, INI-CET and NEET SS</li>
-          <li>Progress and performance tracking for every topic</li>
+      <section aria-labelledby="seoTopics" style="margin-top:30px;">
+        <h2 id="seoTopics" class="seo-section-title">What you can practise in {esc(mod["name"])}</h2>
+        <ul style="line-height:1.8;padding-left:22px;color:var(--ink-soft);font-size:15px;">
+          <li><strong style="color:var(--ink);">{mod.get('questionCount', 0)} {esc(subj["name"])} MCQs</strong> on {esc(mod["name"])}, with detailed explanations</li>
+          <li><strong style="color:var(--ink);">Previous-year question practice</strong> across NEET PG, FMGE, INI-CET and NEET SS</li>
+          <li><strong style="color:var(--ink);">Progress and performance tracking</strong> to measure retention</li>
         </ul>
       </section>
-      <section aria-labelledby="relatedTopics" style="margin-top:28px;">
-        <h2 id="relatedTopics">More {esc(subj["name"])} topics</h2>
-        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;">
+      <section aria-labelledby="relatedTopics" style="margin-top:36px;">
+        <h2 id="relatedTopics" class="seo-section-title">More {esc(subj["name"])} topics</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;">
           {nearby_cards_html}
         </div>
       </section>
       {exam_block}
-      <section aria-labelledby="seoFaq" style="margin-top:36px;">
-        <h2 id="seoFaq" style="margin-bottom:16px;">Frequently Asked Questions</h2>
-        <div style="display:flex;flex-direction:column;gap:10px;">
+      <section aria-labelledby="seoFaq" style="margin-top:38px;">
+        <h2 id="seoFaq" class="seo-section-title">Frequently Asked Questions</h2>
+        <div style="display:flex;flex-direction:column;gap:6px;">
           {m_faq_html}
         </div>
       </section>
@@ -798,8 +874,8 @@ def main():
 
     # 7. Update root index.html with crawlable homepage fallback and extracted assets
     home_subject_links = "".join([
-        f'<a href="/subjects/{slugify(s["name"])}" style="display:block;padding:14px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);color:var(--ink);text-decoration:none;">'
-        f'<strong style="font-size:16px;">{esc(s["name"])}</strong><br>'
+        f'<a href="/subjects/{slugify(s["name"])}" class="seo-card" style="display:block;text-decoration:none;">'
+        f'<strong style="font-size:16px;color:var(--ink);">{esc(s["name"])}</strong><br>'
         f'<small style="color:var(--ink-soft);">{s.get("questionCount", 0):,} MCQs · {s.get("moduleCount", 0)} modules</small></a>'
         for s in syllabus
     ])
@@ -824,51 +900,60 @@ def main():
     ]
 
     home_faq_html = "".join([
-        f'<details style="padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--paper-raised);margin-bottom:10px;">'
-        f'<summary style="font-weight:700;cursor:pointer;">{esc(f["q"])}</summary>'
-        f'<p style="margin-top:8px;color:var(--ink-soft);line-height:1.6;">{esc(f["a"])}</p>'
+        f'<details class="seo-faq-card">'
+        f'<summary>{esc(f["q"])}</summary>'
+        f'<p>{esc(f["a"])}</p>'
         f'</details>'
         for f in home_faqs
     ])
 
-    home_body_fallback = f"""    <main style="max-width:960px;margin:0 auto;padding:24px 20px 60px;">
-      <h1 class="title" style="margin-top:12px;margin-bottom:12px;">Medical Entrance Exam Question Bank</h1>
-      <p class="subtitle" style="max-width:820px;line-height:1.6;margin-bottom:24px;">
-        Master <strong>FMGE, NEET PG, INI-CET &amp; NEET SS</strong> with 37,076 topic-wise MCQs across 19 subjects, previous-year question papers, high-yield clinical explanations, and progress tracking.
-      </p>
+    home_body_fallback = f"""    <main class="seo-main">
+      <div class="hero-wrap" style="text-align:center;padding:34px 18px 28px;margin-bottom:32px;">
+        <div class="hero-eyebrow">India's Medical PG &amp; Licensure Question Bank</div>
+        <h1 class="title">Medical Entrance Exam <span class="brand-gradient">Question Bank</span></h1>
+        <p class="subtitle" style="max-width:780px;margin:0 auto 20px;line-height:1.65;">
+          Master <strong>FMGE, NEET PG, INI-CET &amp; NEET SS</strong> with 37,076 topic-wise MCQs across 19 subjects, previous-year question papers, high-yield clinical explanations, and progress tracking.
+        </p>
+        <div class="bento-bar" style="max-width:680px;margin:20px auto 10px;">
+          <div class="bento-stat"><div class="bento-stat-num">37,076</div><div class="bento-stat-lbl">Questions</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">19</div><div class="bento-stat-lbl">Subjects</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">4 Exams</div><div class="bento-stat-lbl">NEET PG · INICET · FMGE · SS</div></div>
+          <div class="bento-stat"><div class="bento-stat-num">100%</div><div class="bento-stat-lbl">Verified Rationales</div></div>
+        </div>
+      </div>
 
-      <section aria-labelledby="homeExams" style="margin-bottom:32px;">
-        <h2 id="homeExams" style="font-size:19px;font-weight:800;margin-bottom:14px;">Previous-Year Question Papers (PYQ Bank)</h2>
+      <section aria-labelledby="homeExams" style="margin-bottom:36px;">
+        <h2 id="homeExams" class="seo-section-title">Previous-Year Question Papers (PYQ Bank)</h2>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;">
-          <a href="/neet-pg" style="padding:16px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);text-decoration:none;color:var(--ink);display:block;">
-            <strong style="font-size:16px;">🏥 NEET PG PYQs</strong><br>
+          <a href="/neet-pg" class="seo-card" style="text-decoration:none;display:block;">
+            <strong style="font-size:16px;color:var(--ink);">🏥 NEET PG PYQs</strong><br>
             <small style="color:var(--ink-soft);">2018–2025 · 8 Years (1,640+ MCQs)</small>
           </a>
-          <a href="/inicet" style="padding:16px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);text-decoration:none;color:var(--ink);display:block;">
-            <strong style="font-size:16px;">🔬 INI-CET PYQs</strong><br>
+          <a href="/inicet" class="seo-card" style="text-decoration:none;display:block;">
+            <strong style="font-size:16px;color:var(--ink);">🔬 INI-CET PYQs</strong><br>
             <small style="color:var(--ink-soft);">2020–2025 · 10 Sessions (1,460+ MCQs)</small>
           </a>
-          <a href="/fmge" style="padding:16px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);text-decoration:none;color:var(--ink);display:block;">
-            <strong style="font-size:16px;">🌐 FMGE PYQs</strong><br>
+          <a href="/fmge" class="seo-card" style="text-decoration:none;display:block;">
+            <strong style="font-size:16px;color:var(--ink);">🌐 FMGE PYQs</strong><br>
             <small style="color:var(--ink-soft);">2020–2025 · 10 Sessions (2,430+ MCQs)</small>
           </a>
-          <a href="/neet-ss" style="padding:16px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);text-decoration:none;color:var(--ink);display:block;">
-            <strong style="font-size:16px;">⚕️ NEET SS PYQs</strong><br>
+          <a href="/neet-ss" class="seo-card" style="text-decoration:none;display:block;">
+            <strong style="font-size:16px;color:var(--ink);">⚕️ NEET SS PYQs</strong><br>
             <small style="color:var(--ink-soft);">2022–2024 Exam Question Papers</small>
           </a>
         </div>
       </section>
 
       <section aria-labelledby="homeSubjects">
-        <h2 id="homeSubjects" style="font-size:19px;font-weight:800;margin-bottom:14px;">19 Subject-Wise Question Banks</h2>
+        <h2 id="homeSubjects" class="seo-section-title">19 Subject-Wise Question Banks</h2>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;">
           {home_subject_links}
         </div>
       </section>
 
       <section aria-labelledby="homeFaqs" style="margin-top:40px;">
-        <h2 id="homeFaqs" style="font-size:19px;font-weight:800;margin-bottom:14px;">Frequently Asked Questions</h2>
-        <div style="display:flex;flex-direction:column;gap:10px;">
+        <h2 id="homeFaqs" class="seo-section-title">Frequently Asked Questions</h2>
+        <div style="display:flex;flex-direction:column;gap:6px;">
           {home_faq_html}
         </div>
       </section>

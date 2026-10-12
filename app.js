@@ -4377,41 +4377,66 @@ window.addEventListener('error', function (ev) {
             var n = mods[idx + d];
             if (n) nearby.push(n);
           }
-          linksHtml = '<section aria-labelledby="relatedTopics" style="margin-top:28px;">' +
-            '<h2 id="relatedTopics">More ' + esc(subj.name) + ' topics</h2>' +
-            '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;">' +
-            nearby.map(function (n) { return '<a href="' + topicPath(subj,n) + '" style="display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;color:var(--ink);text-decoration:none;background:var(--paper-raised);"><strong>' + esc(n.name) + '</strong><br><small>' + Number(n.questionCount || 0).toLocaleString() + ' questions</small></a>'; }).join('') +
+          linksHtml = '<section aria-labelledby="relatedTopics" style="margin-top:32px;">' +
+            '<h2 id="relatedTopics" class="seo-section-title">More ' + esc(subj.name) + ' topics</h2>' +
+            '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;">' +
+            nearby.map(function (n) { return '<a href="' + topicPath(subj,n) + '" class="seo-card"><strong>' + esc(n.name) + '</strong><small>' + Number(n.questionCount || 0).toLocaleString() + ' questions</small></a>'; }).join('') +
             '</div></section>';
         } else if (subject) {
-          linksHtml = '<section aria-labelledby="subjectTopics" style="margin-top:28px;"><h2 id="subjectTopics">' + esc(item.name) + ' topic-wise question banks</h2>' +
-            '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:10px;">' +
-            (Array.isArray(item.modules) ? item.modules : []).map(function (n) { return '<a href="' + topicPath(item,n) + '" style="display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;color:var(--ink);text-decoration:none;background:var(--paper-raised);"><strong>' + esc(n.name) + '</strong><br><small>' + Number(n.questionCount || 0).toLocaleString() + ' questions · ' + esc(n.section || '') + '</small></a>'; }).join('') +
+          linksHtml = '<section aria-labelledby="subjectTopics" style="margin-top:32px;"><h2 id="subjectTopics" class="seo-section-title">' + esc(item.name) + ' topic-wise question banks</h2>' +
+            '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;">' +
+            (Array.isArray(item.modules) ? item.modules : []).map(function (n) { return '<a href="' + topicPath(item,n) + '" class="seo-card"><strong>' + esc(n.name) + '</strong><small>' + Number(n.questionCount || 0).toLocaleString() + ' questions · ' + esc(n.section || '') + '</small></a>'; }).join('') +
             '</div></section>';
         }
 
+        var bentoHtml = topic
+          ? '<div class="bento-bar" style="max-width:680px;margin:18px auto 24px;">' +
+            '<div class="bento-stat"><div class="bento-stat-num">' + Number(mod.questionCount || 0).toLocaleString() + '</div><div class="bento-stat-lbl">Questions</div></div>' +
+            '<div class="bento-stat"><div class="bento-stat-num">4 Exams</div><div class="bento-stat-lbl">NEET PG · INICET · FMGE · SS</div></div>' +
+            '<div class="bento-stat"><div class="bento-stat-num">100%</div><div class="bento-stat-lbl">With Rationales</div></div>' +
+            '<div class="bento-stat"><div class="bento-stat-num">Interactive</div><div class="bento-stat-lbl">Instant Feedback</div></div>' +
+            '</div>'
+          : subject
+            ? '<div class="bento-bar" style="max-width:680px;margin:18px auto 24px;">' +
+              '<div class="bento-stat"><div class="bento-stat-num">' + Number(item.questionCount || 0).toLocaleString() + '</div><div class="bento-stat-lbl">Questions</div></div>' +
+              '<div class="bento-stat"><div class="bento-stat-num">' + item.moduleCount + '</div><div class="bento-stat-lbl">Topics</div></div>' +
+              '<div class="bento-stat"><div class="bento-stat-num">4 Exams</div><div class="bento-stat-lbl">NEET PG · INICET · FMGE · SS</div></div>' +
+              '<div class="bento-stat"><div class="bento-stat-num">100%</div><div class="bento-stat-lbl">With Rationales</div></div>' +
+              '</div>'
+            : '';
+
+        var eyebrow = topic
+          ? '⚡ ' + esc(subj.name) + ' · ' + esc(mod.section || 'Core syllabus')
+          : subject
+            ? '⚡ ' + esc(item.name) + ' QBank'
+            : '⚡ ' + esc(item.name) + ' Question Bank & PYQs';
+
         app.innerHTML =
           topBar('Home', function () { goHomeFromSeo(); }) +
-          '<main id="mainContent" role="main" style="max-width:960px;margin:0 auto;padding:28px 20px 60px;">' +
-          '<nav aria-label="Breadcrumb" style="font-size:14px;margin-bottom:22px;">' +
-          '<a href="/" id="seoHomeTop" style="color:var(--accent-deep);font-weight:800;text-decoration:none;">← Home</a> ' +
-          '<span aria-hidden="true">/</span> ' + breadcrumb +
+          '<main id="mainContent" role="main" class="seo-main">' +
+          '<nav class="seo-breadcrumb" aria-label="Breadcrumb">' +
+          '<a href="/" id="seoHomeTop">Home</a> ' +
+          '<span class="sep" aria-hidden="true">/</span> ' + breadcrumb +
           '</nav>' +
-          '<h1 class="title" style="margin-bottom:14px;">' + esc(heading) + '</h1>' +
-          '<p class="subtitle" style="max-width:820px;line-height:1.65;">' + esc(intro) + '</p>' +
-          count +
-          '<div style="display:flex;flex-wrap:wrap;gap:12px;margin:26px 0;">' +
-          '<button id="seoStartBtn" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 22px;border:0;border-radius:14px;color:#fff;background:linear-gradient(135deg,var(--cta-a),var(--cta-b));font-weight:800;font-size:15px;cursor:pointer;">' + esc(startLabel) + '</button>' +
-          '<a href="/" id="seoHomeBottom" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 20px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);color:var(--ink);font-weight:800;font-size:15px;text-decoration:none;">Back to Home</a>' +
+          '<div class="hero-wrap" style="padding:10px 4px 24px;text-align:center;">' +
+          '<div class="hero-eyebrow">' + eyebrow + '</div>' +
+          '<h1 class="title">' + esc(heading) + ' <span class="brand-gradient">MCQs</span></h1>' +
+          '<p class="subtitle" style="max-width:760px;margin:0 auto 18px;line-height:1.65;">' + esc(intro) + '</p>' +
+          bentoHtml +
+          '<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin:22px 0 6px;">' +
+          '<button id="seoStartBtn" class="btn" style="font-size:15px;padding:14px 28px;cursor:pointer;">' + esc(startLabel) + '</button>' +
+          '<a href="/" id="seoHomeBottom" class="btn secondary" style="font-size:15px;padding:14px 24px;text-decoration:none;">Back to Home</a>' +
           '</div>' +
-          '<section aria-labelledby="seoTopics"><h2 id="seoTopics">What you can practise</h2>' +
-          '<ul style="line-height:1.8;padding-left:22px;">' +
-          '<li>Topic-wise medical MCQs for focused revision</li>' +
-          '<li>Previous-year question practice</li>' +
-          '<li>Detailed explanations for learning from mistakes</li>' +
-          '<li>Progress and performance tracking</li>' +
+          '</div>' +
+          '<section aria-labelledby="seoTopics" style="margin-top:28px;"><h2 id="seoTopics" class="seo-section-title">What you can practise</h2>' +
+          '<ul style="line-height:1.8;padding-left:22px;color:var(--ink-soft);font-size:15px;">' +
+          '<li><strong style="color:var(--ink);">Topic-wise medical MCQs</strong> for focused revision</li>' +
+          '<li><strong style="color:var(--ink);">Previous-year question practice</strong> across all sessions</li>' +
+          '<li><strong style="color:var(--ink);">Detailed explanations</strong> for learning from mistakes</li>' +
+          '<li><strong style="color:var(--ink);">Progress and performance tracking</strong></li>' +
           '</ul></section>' +
           linksHtml +
-          '<section aria-labelledby="seoExplore" style="margin-top:28px;"><h2 id="seoExplore">Continue your preparation</h2><p>Use the topic links above to move through the syllabus, or return to the MedLadder home page to explore the complete question bank.</p></section>' +
+          '<section aria-labelledby="seoExplore" style="margin-top:32px;"><h2 id="seoExplore" class="seo-section-title">Continue your preparation</h2><p style="color:var(--ink-soft);line-height:1.65;">Use the topic links above to move through the syllabus, or return to the MedLadder home page to explore the complete question bank.</p></section>' +
           '</main>' +
           footerHtml();
 
@@ -4443,6 +4468,50 @@ window.addEventListener('error', function (ev) {
         };
       }
 
+      function wireSeoStaticLanding(type, item) {
+        state.screen = 'seo';
+        var subject = type === 'subject';
+        var topic = type === 'topic';
+        var subj = topic ? item.subject : (subject ? item : null);
+        var mod = topic ? item.module : null;
+
+        wireThemeBtn();
+        wireAuthControls();
+
+        var topHome = document.getElementById('seoHomeTop');
+        if (topHome) topHome.addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
+        var bottomHome = document.getElementById('seoHomeBottom');
+        if (bottomHome) bottomHome.addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
+        var crumb = document.getElementById('seoSubjectCrumb');
+        if (crumb && subj) crumb.addEventListener('click', function(e){ e.preventDefault(); goSubjectFromSeo(subj); });
+
+        var startBtn = document.getElementById('seoStartBtn');
+        if (startBtn) {
+          startBtn.onclick = function () {
+            if (topic) {
+              renderSetup(subj.subjectId, mod.moduleId);
+            } else if (subject) {
+              renderModuleList(item.subjectId);
+            } else {
+              renderPYQSetup(item.pyqId);
+            }
+          };
+        }
+
+        app.querySelectorAll('a[href^="/subjects/"]').forEach(function(a){
+          if (a.id === 'seoSubjectCrumb') return;
+          a.addEventListener('click', function(e){
+            var href = a.getAttribute('href');
+            var found = resolveSeoPath(href);
+            if (found) {
+              e.preventDefault();
+              if (found.type === 'subject') goSubjectFromSeo(found.item);
+              else goTopicFromSeo(found.subject, found.module);
+            }
+          });
+        });
+      }
+
       function resolveSeoPath(path) {
         var clean = String(path || '').replace(/\/$/, '').toLowerCase();
         if (clean.indexOf('/subjects/') !== 0) return null;
@@ -4466,13 +4535,23 @@ window.addEventListener('error', function (ev) {
           '/fmge': { name: 'FMGE', pyqId: 'FMGE' },
           '/neet-ss': { name: 'NEET SS', pyqId: 'NEET SS' }
         };
+        var isPreRendered = !!document.getElementById('seoStartBtn');
         if (exams[path]) {
-          renderSeoLanding('exam', exams[path]);
+          if (!isPreRendered) {
+            renderSeoLanding('exam', exams[path]);
+          } else {
+            wireSeoStaticLanding('exam', exams[path]);
+          }
           return;
         }
         var resolved = resolveSeoPath(path);
         if (resolved) {
-          renderSeoLanding(resolved.type, resolved.type === 'subject' ? resolved.item : { subject: resolved.subject, module: resolved.module });
+          var item = resolved.type === 'subject' ? resolved.item : { subject: resolved.subject, module: resolved.module };
+          if (!isPreRendered) {
+            renderSeoLanding(resolved.type, item);
+          } else {
+            wireSeoStaticLanding(resolved.type, item);
+          }
           return;
         }
         updateSeoMeta('MedLadder — FMGE, NEET PG, INI-CET & NEET SS QBank', 'Prepare for FMGE, NEET PG, INI-CET and NEET SS with MedLadder. Practice medical MCQs, previous-year questions, detailed explanations and track your performance.', '/');
