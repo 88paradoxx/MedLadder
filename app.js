@@ -1449,31 +1449,47 @@ window.addEventListener('error', function (ev) {
 
       var GITHUB_APK_URL = 'https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk';
 
-      function triggerIframeDownload(url) {
-        var iframe = document.getElementById('medladderApkDownloader');
-        if (!iframe) {
-          iframe = document.createElement('iframe');
-          iframe.id = 'medladderApkDownloader';
-          iframe.style.display = 'none';
-          document.body.appendChild(iframe);
+      function triggerApkDownload() {
+        // 1. Direct native Android bridge in APK (DownloadManager in background with toast)
+        if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.downloadApk === 'function') {
+          showToast('📥 Starting MedLadder APK download in background...', 'success');
+          window.MedLadderAndroidApp.downloadApk(GITHUB_APK_URL);
+          return;
         }
-        iframe.src = url;
+
+        // 2. Direct Capacitor Browser plugin if available in APK (opens external browser directly)
+        if (window.MedLadderNative && window.MedLadderNative.Browser && typeof window.MedLadderNative.Browser.open === 'function') {
+          showToast('📥 Opening MedLadder APK download...', 'success');
+          window.MedLadderNative.Browser.open({ url: GITHUB_APK_URL });
+          return;
+        }
+
+        // 3. Native platform fallback using system browser
+        if (window.Capacitor && typeof window.Capacitor.isNativePlatform === 'function' && window.Capacitor.isNativePlatform()) {
+          showToast('📥 Starting MedLadder APK download...', 'success');
+          window.open(GITHUB_APK_URL, '_system');
+          return;
+        }
+
+        // 4. Web browser download (trigger direct download link without iframe X-Frame-Options blocking)
+        showToast('📥 Starting MedLadder APK download...', 'success');
+        var link = document.createElement('a');
+        link.href = GITHUB_APK_URL;
+        link.setAttribute('download', 'MedLadder-latest.apk');
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        document.body.appendChild(link);
+        link.click();
+        setTimeout(function () {
+          if (link.parentNode) link.parentNode.removeChild(link);
+        }, 150);
       }
 
       document.addEventListener('click', function (e) {
         var btn = e.target.closest('.footer-apk-btn');
         if (btn) {
           e.preventDefault();
-          // 1. Direct native Android bridge in APK (zero WebView navigation, zero blank screen):
-          if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.downloadApk === 'function') {
-            showToast('📥 Starting MedLadder APK download in background...', 'success');
-            window.MedLadderAndroidApp.downloadApk(GITHUB_APK_URL);
-            return;
-          }
-
-          // 2. Fallback for mobile / web: invisible iframe prevents page navigation / blank screen
-          showToast('📥 Starting MedLadder APK download...', 'success');
-          triggerIframeDownload(GITHUB_APK_URL);
+          triggerApkDownload();
         }
       });
 
