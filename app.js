@@ -124,6 +124,7 @@ window.addEventListener('error', function (ev) {
       // ---------- SUPABASE AUTHENTICATION & DATA CLIENT ----------
       var SUPABASE_URL = 'https://groeibwykzrliphzzruk.supabase.co';
       var SUPABASE_ANON_KEY = 'sb_publishable_tXvgKaWrUfWlpy8SB3c1mQ_ZMrHxzVY';
+      var R2_IMAGES_BASE = 'https://pub-5e62ac2b4d1c43fcb7fb6b025a52e189.r2.dev';
       var supabaseClient = null;
       var currentUser = null;
       var pendingAuthAction = null;
@@ -2408,16 +2409,19 @@ window.addEventListener('error', function (ev) {
           .replace(/'/g, '&#39;');
       }
       // Bound Supabase question images to direct CDN object cache (avoiding slow on-the-fly transcoding freezes).
+      // Serve question images directly from fast, edge-cached Cloudflare R2 storage.
       function optimizeQuestionImageUrl(src) {
         if (!src) return '';
         try {
           var url = new URL(String(src), window.location.href);
-          if (!/\.supabase\.co$/i.test(url.hostname)) return String(src);
-          if (url.pathname.startsWith('/storage/v1/render/image/public/')) {
-            url.pathname = url.pathname.replace('/storage/v1/render/image/public/', '/storage/v1/object/public/');
-            url.search = '';
-          } else if (url.pathname.startsWith('/storage/v1/object/public/')) {
-            url.search = '';
+          if (/\.supabase\.co$/i.test(url.hostname)) {
+            var prefix = '/storage/v1/object/public/question-images/';
+            var renderPrefix = '/storage/v1/render/image/public/question-images/';
+            if (url.pathname.startsWith(prefix)) {
+              return R2_IMAGES_BASE + '/' + url.pathname.slice(prefix.length);
+            } else if (url.pathname.startsWith(renderPrefix)) {
+              return R2_IMAGES_BASE + '/' + url.pathname.slice(renderPrefix.length);
+            }
           }
           return url.toString();
         } catch (_) {
@@ -2485,10 +2489,9 @@ window.addEventListener('error', function (ev) {
       }
 
       function storageImageUrl(image) {
-        if (!image || !image.storage_bucket || !image.storage_path) return '';
-        return SUPABASE_URL + '/storage/v1/object/public/' +
-          encodeURIComponent(image.storage_bucket) + '/' +
-          String(image.storage_path).split('/').map(encodeURIComponent).join('/');
+        if (!image || !image.storage_path) return '';
+        var path = String(image.storage_path).split('/').map(encodeURIComponent).join('/');
+        return R2_IMAGES_BASE + '/' + path;
       }
 
       function renderQuestionContent(text, images) {
