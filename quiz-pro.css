@@ -1167,3 +1167,32 @@ html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .scr
   .screen-quiz .opt.dim { opacity: 0.42 !important; background-color: transparent !important; border-color: transparent !important; }
   html.dark .screen-quiz .opt.dim { opacity: 0.40 !important; background-color: rgba(255,255,255,0.02) !important; border-color: rgba(255,255,255,0.04) !important; }
 }
+
+/* Ensure quiz, setup, and results screens maintain identical 760px centered geometry in ALL themes */
+.app.screen-quiz,
+.app.screen-setup,
+.app.screen-results,
+html .app.screen-quiz,
+html .app.screen-setup,
+html .app.screen-results,
+html.dark .app.screen-quiz,
+html.dark .app.screen-setup,
+html.dark .app.screen-results,
+html:not(.dark) .app.screen-quiz,
+html:not(.dark) .app.screen-setup,
+html:not(.dark) .app.screen-results {
+  max-width: 760px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  transition: none !important;
+}
+
+.app.screen-quiz > .masthead,
+.app.screen-setup > .masthead,
+.app.screen-results > .masthead {
+  width: 100% !important;
+  max-width: 760px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+

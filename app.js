@@ -2692,7 +2692,7 @@ window.addEventListener('error', function (ev) {
         releaseQuizPayload();
         state.screen = 'home';
         if (app) {
-          app.classList.remove('screen-quiz', 'screen-setup');
+          app.classList.remove('screen-quiz', 'screen-setup', 'screen-results');
         }
 
         var grid = document.getElementById('subjectGrid');
@@ -3276,6 +3276,9 @@ window.addEventListener('error', function (ev) {
         clearTimer();
         releaseQuizPayload();
         state.screen = 'modules';
+        if (app) {
+          app.classList.remove('screen-quiz', 'screen-setup', 'screen-results');
+        }
         var subjMeta = SUBJECT_INDEX.find(function (s) { return s.subjectId === subjectId; });
         var modules = getSubjectModules(subjectId);
         state.subjectId = subjectId;
@@ -4129,6 +4132,10 @@ window.addEventListener('error', function (ev) {
         clearTimer();
         releaseQuestionImages();
         state.screen = 'results';
+        if (app) {
+          app.classList.remove('screen-setup');
+          app.classList.add('screen-quiz', 'screen-results');
+        }
         var total = state.order.length;
         var correct = Object.values(state.answers).filter(function (a) { return a.isCorrect; }).length;
         var pct = Math.round((correct / total) * 100);
