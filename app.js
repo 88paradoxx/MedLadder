@@ -3157,8 +3157,13 @@ window.addEventListener('error', function (ev) {
 
         var link = document.getElementById('quiz-pro-css');
         if (!link) {
-          quizStylesReady = true;
-          return Promise.resolve();
+          // Static SEO pages (e.g. /subjects/ob-g/abnormal-labour) only ship app.css,
+          // so create the quiz stylesheet link on demand.
+          link = document.createElement('link');
+          link.rel = 'stylesheet';
+          link.href = '/quiz-pro.css';
+          link.id = 'quiz-pro-css';
+          document.head.appendChild(link);
         }
 
         quizStylesPromise = new Promise(function (resolve) {

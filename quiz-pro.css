@@ -588,16 +588,11 @@ html.dark #moduleItemList > .item:nth-of-type(4n + 4) .num { background: rgba(16
 
 /* Bring the same color-edge language into the quiz itself. */
 .screen-quiz .qcard { border-left: 4px solid #8b5cf6 !important; }
+/* Option tiles are deliberately colour-neutral so no colour hints at the answer.
+   Only the post-answer correct/incorrect states use green/red. */
 .screen-quiz .options .opt { position: relative; overflow: hidden; border-left-width: 4px !important; }
-.screen-quiz .options .opt:nth-child(1) { border-left-color: #dc2626 !important; }
-.screen-quiz .options .opt:nth-child(2) { border-left-color: #22c1dc !important; }
-.screen-quiz .options .opt:nth-child(3) { border-left-color: #f5ad2f !important; }
-.screen-quiz .options .opt:nth-child(4) { border-left-color: #a855f7 !important; }
-.screen-quiz .options .opt:nth-child(5) { border-left-color: #ef6c9d !important; }
+.screen-quiz .options .opt:not(.correct):not(.incorrect) { border-left-color: var(--line) !important; }
 .screen-quiz .options .opt .letter { background: var(--accent-soft) !important; color: var(--accent-deep) !important; }
-.screen-quiz .options .opt:nth-child(2) .letter { background: rgba(34,193,220,.14) !important; color: #08758b !important; }
-.screen-quiz .options .opt:nth-child(3) .letter { background: rgba(245,173,47,.18) !important; color: #8a5700 !important; }
-.screen-quiz .options .opt:nth-child(4) .letter { background: rgba(168,85,247,.16) !important; color: #6b21a8 !important; }
 .screen-quiz .explain { border-left: 4px solid #22c1dc !important; }
 
 /* Keep every quiz image responsive and stable; embedded stems may contain very tall images. */
@@ -639,17 +634,7 @@ html:not(.dark) .screen-quiz .options .opt .letter {
   border: 2px solid #8b5cf6 !important;
   box-shadow: 0 3px 8px rgba(91,33,182,.18) !important;
 }
-html:not(.dark) .screen-quiz .options .opt:nth-child(1) .letter { background: #fee2e2 !important; color: #991b1b !important; border-color: #dc2626 !important; }
-html:not(.dark) .screen-quiz .options .opt:nth-child(2) .letter { background: #d5f5fa !important; color: #075985 !important; border-color: #22a9c2 !important; }
-html:not(.dark) .screen-quiz .options .opt:nth-child(3) .letter { background: #fff0c9 !important; color: #7c4a03 !important; border-color: #e6a31e !important; }
-html:not(.dark) .screen-quiz .options .opt:nth-child(4) .letter { background: #eedcff !important; color: #6b21a8 !important; border-color: #a855f7 !important; }
-html:not(.dark) .screen-quiz .options .opt:nth-child(5) .letter { background: #ffe0eb !important; color: #9d174d !important; border-color: #e85d8d !important; }
 html.dark .screen-quiz .options .opt .letter { box-shadow: 0 3px 10px rgba(0,0,0,.35) !important; }
-html.dark .screen-quiz .options .opt:nth-child(2) .letter { color: #67e8f9 !important; }
-html.dark .screen-quiz .options .opt:nth-child(1) { border-left-color: #f87171 !important; }
-html.dark .screen-quiz .options .opt:nth-child(1) .letter { background: rgba(220,38,38,.24) !important; color: #fca5a5 !important; border-color: #f87171 !important; }
-html.dark .screen-quiz .options .opt:nth-child(3) .letter { color: #fcd34d !important; }
-html.dark .screen-quiz .options .opt:nth-child(4) .letter { color: #d8b4fe !important; }
 .pro-tier-banner {
   margin: 18px 0 !important;
   padding: 16px 18px !important;

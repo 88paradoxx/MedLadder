@@ -19,6 +19,23 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SITE_URL = "https://medladder.top"
 CURRENT_DATE = datetime.date.today().isoformat()
 
+# --- Pricing-neutral wording -------------------------------------------------
+# Whether MedLadder keeps a Pro tier or becomes fully free is undecided. Edit these
+# two strings in ONE place once decided, then re-run this script.
+ACCESS_FAQ_Q = "How do I start practising on MedLadder?"
+ACCESS_FAQ_A = ("You can start practising right away on MedLadder, and every question comes with "
+                "a detailed explanation. Access options can change over time, so check the app "
+                "for the latest details.")
+
+EXAM_HUBS = [("neet-pg", "NEET PG"), ("inicet", "INI-CET"), ("fmge", "FMGE"), ("neet-ss", "NEET SS")]
+
+# Sample MCQs per topic, produced by tools/export_seo_samples.py (optional file).
+SAMPLES = {}
+_samples_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seo_samples.json")
+if os.path.exists(_samples_path):
+    with open(_samples_path, "r", encoding="utf-8") as _f:
+        SAMPLES = json.load(_f)
+
 # Pinned (never a floating "@2") so a compromised/breaking release can't reach the site.
 # To add Subresource Integrity, see supabase/README.md ("Pin + SRI") and add integrity="sha384-..." below.
 SUPABASE_JS_URL = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"
@@ -61,7 +78,7 @@ gtag('config', 'G-P5VJLV9KRH');
 
 def fit_title(head, subject, brand="MedLadder", limit=60):
     """Module page title that fits ~60 chars: prefer '<head> MCQs | <subject> | <brand>'."""
-    for cand in (f"{head} MCQs | {subject} | {brand}", f"{head} MCQs | {subject}"):
+    for cand in (f"{head} MCQs with Answers | {subject}", f"{head} MCQs | {subject} | {brand}", f"{head} MCQs | {subject}"):
         if len(cand) <= limit:
             return cand
     tail = f" MCQs | {subject}"
@@ -79,6 +96,60 @@ def slugify(value):
 
 def esc(text):
     return html.escape(str(text or ''))
+
+def exam_links_html(heading_id="examHubs"):
+    links = "".join(
+        f'<a href="/{slug}" style="display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;'
+        f'color:var(--ink);text-decoration:none;background:var(--paper-raised);"><strong>{esc(name)} question bank</strong>'
+        f'<br><small>Topic-wise MCQs and previous-year questions</small></a>'
+        for slug, name in EXAM_HUBS
+    )
+    return (f'<section aria-labelledby="{heading_id}" style="margin-top:28px;">'
+            f'<h2 id="{heading_id}">Prepare for your exam</h2>'
+            f'<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;">{links}</div>'
+            f'</section>')
+
+def sample_schema(sample):
+    letters = "ABCD"
+    return {
+        "@type": "Question",
+        "eduQuestionType": "Multiple choice",
+        "text": sample["q"],
+        "suggestedAnswer": [
+            {"@type": "Answer", "position": i + 1, "text": o} for i, o in enumerate(sample["o"])
+        ],
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "position": letters.index(sample["a"]) + 1,
+            "text": sample["o"][letters.index(sample["a"])],
+            "answerExplanation": {"@type": "Comment", "text": sample["e"]},
+        },
+    }
+
+def samples_html(samples, topic_name):
+    if not samples:
+        return ""
+    letters = "ABCD"
+    blocks = []
+    for n, sm in enumerate(samples, 1):
+        opts = "".join(f"<li>{esc(o)}</li>" for o in sm["o"])
+        ai = letters.index(sm["a"])
+        blocks.append(
+            f'<article style="padding:16px 18px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);margin-bottom:12px;">'
+            f'<h3 style="font-size:16px;line-height:1.5;margin:0 0 10px;">Q{n}. {esc(sm["q"])}</h3>'
+            f'<ol type="A" style="line-height:1.7;padding-left:22px;margin:0 0 10px;">{opts}</ol>'
+            f'<details><summary style="font-weight:700;cursor:pointer;">Show answer and explanation</summary>'
+            f'<p style="margin:10px 0 6px;"><strong>Correct answer: {sm["a"]}. {esc(sm["o"][ai])}</strong></p>'
+            f'<p style="color:var(--ink-soft);line-height:1.65;margin:0;">{esc(sm["e"])}</p></details>'
+            f'</article>'
+        )
+    return (f'<section aria-labelledby="seoSamples" style="margin-top:28px;">'
+            f'<h2 id="seoSamples">Sample {esc(topic_name)} MCQs with answers</h2>{"".join(blocks)}</section>')
+
+def fit_desc(text, limit=158):
+    if len(text) <= limit:
+        return text
+    return text[:limit - 1].rsplit(" ", 1)[0].rstrip(",;:-– ") + "…"
 
 def main():
     syllabus_js_path = os.path.join(BASE_DIR, "syllabus.js")
@@ -224,6 +295,7 @@ def main():
   {schema_tags}
 
   <link rel="stylesheet" href="/app.css">
+  <link rel="stylesheet" href="/quiz-pro.css" media="print" id="quiz-pro-css">
 </head>
 
 <body>
@@ -271,8 +343,8 @@ def main():
                     "a": "Yes, you can practice both full exam papers and topic-wise questions divided across all 19 medical entrance subjects."
                 },
                 {
-                    "q": "How many questions can I practice for free?",
-                    "a": "The first 8 modules in every single subject are completely free, allowing you to practice hundreds of questions before upgrading to Pro."
+                    "q": ACCESS_FAQ_Q,
+                    "a": ACCESS_FAQ_A
                 }
             ]
         },
@@ -486,8 +558,8 @@ def main():
                 "a": f"These questions cover high-yield topics for FMGE, NEET PG, INI-CET, AIIMS, and NEET SS."
             },
             {
-                "q": f"Can I practice {subj['name']} modules for free?",
-                "a": "Yes! The first 8 modules of every subject on MedLadder are free to practice with explanations included."
+                "q": f"How do I start practising {subj['name']} on MedLadder?",
+                "a": ACCESS_FAQ_A
             }
         ]
 
@@ -565,6 +637,7 @@ def main():
           {modules_cards_html}
         </div>
       </section>
+      {exam_links_html()}
       <section aria-labelledby="seoFaq" style="margin-top:36px;">
         <h2 id="seoFaq" style="margin-bottom:16px;">Frequently Asked Questions</h2>
         <div style="display:flex;flex-direction:column;gap:10px;">
@@ -589,9 +662,11 @@ def main():
             if m_title in used_module_titles:          # never let truncation create duplicate titles
                 m_title = f"{mod['name']} MCQs | {subj['name']}"
             used_module_titles.add(m_title)
-            m_desc = f"Practice {mod['name']} questions and medical MCQs in {subj['name']} with {mod.get('questionCount', 0)} questions, detailed explanations and topic-wise revision on MedLadder."
+            m_desc = fit_desc(f"{mod['name']} MCQs with answers: {mod.get('questionCount', 0)} {subj['name']} questions for NEET PG, FMGE, INI-CET and NEET SS, each with a detailed explanation, on MedLadder.")
             m_heading = f"{mod['name']} — {subj['name']} MCQs"
-            m_intro = f"Practice {mod['name']} with focused {subj['name']} medical MCQs, detailed explanations and topic-wise revision."
+            m_intro = (f"{mod['name']} is part of the {mod.get('section', 'core')} section of {subj['name']}. "
+                       f"Practise {mod.get('questionCount', 0)} exam-style MCQs for NEET PG, FMGE, INI-CET and NEET SS, "
+                       f"each with the correct answer and a detailed explanation.")
 
             m_faqs = [
                 {
@@ -603,11 +678,12 @@ def main():
                     "a": f"These {subj['name']} questions prepare you for FMGE, NEET PG, INI-CET, and NEET SS, covering both conceptual MCQs and clinical scenarios."
                 },
                 {
-                    "q": f"Can I practice {mod['name']} for free?",
-                    "a": "MedLadder offers free access to the first 8 modules of every subject. Full access to all modules and PYQs is available with MedLadder Pro."
+                    "q": f"How do I start practising {mod['name']} on MedLadder?",
+                    "a": ACCESS_FAQ_A
                 }
             ]
 
+            samples = SAMPLES.get(str(mod.get("id")), [])
             m_schemas = [
                 {
                     "@context": "https://schema.org",
@@ -625,6 +701,7 @@ def main():
                     "description": m_desc,
                     "educationalLevel": "Postgraduate Medical Entrance",
                     "assesses": f"{subj['name']} - {mod['name']}",
+                    **({"hasPart": [sample_schema(sm) for sm in samples]} if samples else {}),
                     "provider": {
                         "@type": "EducationalOrganization",
                         "name": "MedLadder",
@@ -664,6 +741,17 @@ def main():
                 for f in m_faqs
             ])
 
+            prev_mod = modules[idx - 1] if idx > 0 else None
+            next_mod = modules[idx + 1] if idx + 1 < len(modules) else None
+            pn_parts = []
+            if prev_mod:
+                pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(prev_mod["name"])}" rel="prev" style="color:var(--accent-deep);font-weight:700;text-decoration:none;">← {esc(prev_mod["name"])} MCQs</a>')
+            if next_mod:
+                pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(next_mod["name"])}" rel="next" style="color:var(--accent-deep);font-weight:700;text-decoration:none;">{esc(next_mod["name"])} MCQs →</a>')
+            pn_html = (f'<nav aria-label="Previous and next topic" style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:24px;">{"".join(pn_parts)}</nav>') if pn_parts else ""
+            samples_block = samples_html(samples, mod["name"])
+            exam_block = exam_links_html()
+
             m_body_html = f"""    <main style="max-width:960px;margin:0 auto;padding:28px 20px 60px;">
       <nav aria-label="Breadcrumb" style="font-size:14px;margin-bottom:22px;">
         <a href="/" id="seoHomeTop" style="color:var(--accent-deep);font-weight:800;text-decoration:none;">← Home</a>
@@ -678,13 +766,13 @@ def main():
         <button id="seoStartBtn" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 22px;border:0;border-radius:14px;color:#fff;background:linear-gradient(135deg,var(--cta-a),var(--cta-b));font-weight:800;font-size:15px;cursor:pointer;">Start {esc(mod["name"])} Questions</button>
         <a href="/" id="seoHomeBottom" style="display:inline-flex;align-items:center;justify-content:center;padding:14px 20px;border:1px solid var(--line);border-radius:14px;background:var(--paper-raised);color:var(--ink);font-weight:800;font-size:15px;text-decoration:none;">Back to Home</a>
       </div>
-      <section aria-labelledby="seoTopics">
-        <h2 id="seoTopics">What you can practise</h2>
+      {samples_block}
+      <section aria-labelledby="seoTopics" style="margin-top:28px;">
+        <h2 id="seoTopics">What you can practise in {esc(mod["name"])}</h2>
         <ul style="line-height:1.8;padding-left:22px;">
-          <li>Topic-wise medical MCQs for focused revision</li>
-          <li>Previous-year question practice</li>
-          <li>Detailed explanations for learning from mistakes</li>
-          <li>Progress and performance tracking</li>
+          <li>{mod.get('questionCount', 0)} {esc(subj["name"])} MCQs on {esc(mod["name"])}, with detailed explanations</li>
+          <li>Previous-year question practice across NEET PG, FMGE, INI-CET and NEET SS</li>
+          <li>Progress and performance tracking for every topic</li>
         </ul>
       </section>
       <section aria-labelledby="relatedTopics" style="margin-top:28px;">
@@ -693,12 +781,14 @@ def main():
           {nearby_cards_html}
         </div>
       </section>
+      {exam_block}
       <section aria-labelledby="seoFaq" style="margin-top:36px;">
         <h2 id="seoFaq" style="margin-bottom:16px;">Frequently Asked Questions</h2>
         <div style="display:flex;flex-direction:column;gap:10px;">
           {m_faq_html}
         </div>
       </section>
+      {pn_html}
     </main>"""
 
             write_page(os.path.join(m_dir, "index.html"), render_page(m_title, m_desc, m_url, m_schemas, m_body_html), m_url)
@@ -724,8 +814,8 @@ def main():
             "a": "Yes! MedLadder contains verified PYQ banks covering NEET PG (2018–2025), INI-CET (2020–2025), FMGE (2020–2025), AIIMS PG, and NEET SS."
         },
         {
-            "q": "How many modules can I practice for free?",
-            "a": "The first 8 modules in every single subject are completely free, with full access to questions, answer keys, and detailed explanations."
+            "q": ACCESS_FAQ_Q,
+            "a": ACCESS_FAQ_A
         },
         {
             "q": "Can I practice questions in timed test mode?",
