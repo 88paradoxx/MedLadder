@@ -5,8 +5,8 @@
 // Cross-origin traffic (Supabase, Razorpay, Google, CDN) is never intercepted.
 //
 // Bump CACHE_NAME if you ever need to force-drop old caches.
-const CACHE_NAME = 'medladder-186902fc903b';
-const APP_SHELL = ['/', '/app.css', '/quiz-pro.css', '/app.js', '/syllabus.js', '/gtag-init.js', '/manifest.json'];
+const CACHE_NAME = 'medladder-186902fc903d';
+const APP_SHELL = ['/', '/app.css', '/quiz-pro.css', '/app.js', '/syllabus.js', '/gtag-init.js', '/theme-init.js', '/manifest.json'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(

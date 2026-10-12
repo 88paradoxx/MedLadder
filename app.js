@@ -102,13 +102,16 @@ window.addEventListener('error', function (ev) {
       }
 
       var progress = {}; // "subjectId:moduleId" or "subjectId:all" -> {done, correct}
-      var darkMode = true; // Dark mode is default
+      var darkMode = document.documentElement.classList.contains('dark');
       try {
         var savedTheme = localStorage.getItem('medladder_theme');
         if (savedTheme !== null) {
           darkMode = (savedTheme === 'dark');
         }
       } catch (e) { }
+      window.__onThemeToggle = function (isDark) {
+        darkMode = isDark;
+      };
       applyTheme();
       wireThemeBtn();
 
@@ -2374,25 +2377,30 @@ window.addEventListener('error', function (ev) {
 
       function applyTheme() {
         document.documentElement.classList.toggle('dark', darkMode);
-        var btn = document.getElementById('themeToggle');
-        if (btn) {
-          btn.textContent = darkMode ? '☀' : '☾';
+        var btns = document.querySelectorAll('.theme-toggle, #themeToggle');
+        btns.forEach(function (btn) {
+          btn.textContent = darkMode ? '🌙' : '☀️';
           btn.title = darkMode ? 'Switch to light mode' : 'Switch to dark mode';
           btn.setAttribute('aria-label', darkMode ? 'Switch to light mode' : 'Switch to dark mode');
-        }
-      }
-      function toggleTheme() {
-        document.documentElement.classList.add('theme-switching');
-        darkMode = !darkMode;
-        applyTheme();
-        try {
-          localStorage.setItem('medladder_theme', darkMode ? 'dark' : 'light');
-        } catch (e) { }
-        requestAnimationFrame(function () {
-          requestAnimationFrame(function () {
-            document.documentElement.classList.remove('theme-switching');
-          });
         });
+      }
+      function toggleTheme(e) {
+        if (e && e.preventDefault) e.preventDefault();
+        if (typeof window.medladderToggleTheme === 'function') {
+          darkMode = window.medladderToggleTheme();
+        } else {
+          document.documentElement.classList.add('theme-switching');
+          darkMode = !darkMode;
+          applyTheme();
+          try {
+            localStorage.setItem('medladder_theme', darkMode ? 'dark' : 'light');
+          } catch (err) { }
+          requestAnimationFrame(function () {
+            requestAnimationFrame(function () {
+              document.documentElement.classList.remove('theme-switching');
+            });
+          });
+        }
       }
       function shuffle(arr) {
         var a = arr.slice();
@@ -2539,15 +2547,21 @@ window.addEventListener('error', function (ev) {
         });
       }
       function themeBtnHtml() {
-        return '<button class="theme-toggle" id="themeToggle" title="' + (darkMode ? 'Switch to light mode' : 'Switch to dark mode') + '" aria-label="Toggle theme">' + (darkMode ? '☀' : '☾') + '</button>';
+        var isDark = document.documentElement.classList.contains('dark');
+        return '<button class="theme-toggle" id="themeToggle" title="' + (isDark ? 'Switch to light mode' : 'Switch to dark mode') + '" aria-label="Toggle theme">' + (isDark ? '🌙' : '☀️') + '</button>';
       }
       function wireThemeBtn() {
         var b = document.getElementById('themeToggle');
         if (b) {
-          b.onclick = toggleTheme;
-          b.textContent = darkMode ? '☀' : '☾';
-          b.title = darkMode ? 'Switch to light mode' : 'Switch to dark mode';
-          b.setAttribute('aria-label', darkMode ? 'Switch to light mode' : 'Switch to dark mode');
+          var isDark = document.documentElement.classList.contains('dark');
+          b.textContent = isDark ? '🌙' : '☀️';
+          b.title = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+          b.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+          b.onclick = function (e) {
+            if (e) { e.preventDefault(); e.stopPropagation(); }
+            toggleTheme(e);
+          };
+          b.__themeWired = true;
         }
         wireAuthControls();
       }
@@ -2745,7 +2759,7 @@ window.addEventListener('error', function (ev) {
         function wireHomeEvents() {
           wireThemeBtn();
           wireAuthControls();
-          wireRipples('.item, .theme-toggle, .reset-link, .auth-btn, .btn-go-pro, .cat-tab');
+          wireRipples('.item, .reset-link, .auth-btn, .btn-go-pro, .cat-tab');
           app.querySelectorAll('.item[data-sid]').forEach(function (btn) {
             btn.onclick = function () { renderModuleList(parseInt(btn.getAttribute('data-sid'), 10)); };
           });
@@ -2972,7 +2986,7 @@ window.addEventListener('error', function (ev) {
           '</main>';
 
         wireTopBar(renderHome);
-        wireRipples('.type-card, .pill-choice, .pyq-year-pill, .btn, .theme-toggle, .auth-btn');
+        wireRipples('.type-card, .pill-choice, .pyq-year-pill, .btn, .auth-btn');
 
         app.querySelectorAll('#yearRow .pyq-year-pill').forEach(function (btn) {
           btn.addEventListener('click', function () {
@@ -3311,7 +3325,7 @@ window.addEventListener('error', function (ev) {
           footerHtml();
 
         wireTopBar(function () { renderHome(); });
-        wireRipples('.item, .theme-toggle, .auth-btn');
+        wireRipples('.item, .auth-btn');
 
         var searchInput = document.getElementById('topicSearch');
         var searchClear = document.getElementById('searchClear');
@@ -3470,7 +3484,7 @@ window.addEventListener('error', function (ev) {
         var typeHtml = '<button class="type-card ' + (setupChoice.quizType === 'practice' ? 'active' : '') + '" data-type="practice"><span class="tname">Practice</span><span class="tdesc">Instant answer and explanation after every question.</span></button><button class="type-card ' + (setupChoice.quizType === 'timed' ? 'active' : '') + '" data-type="timed"><span class="tname">Timed Test</span><span class="tdesc">Set a clock and work through your custom question set.</span></button>';
         app.innerHTML = topBar('Back to Home', renderHome) + '<main id="mainContent" role="main"><h1 class="setup-chapname">✦ Custom Module</h1><p class="setup-sub">Choose questions from all ' + SUBJECT_INDEX.length + ' subjects and every topic.</p><div class="setup-section"><div class="setup-label">Quiz type</div><div class="type-grid" id="typeGrid">' + typeHtml + '</div></div><div class="setup-section"><div class="setup-label">Number of questions</div><div class="pill-row" id="countRow">' + countHtml + '</div>' + customCountHtml + '</div><div class="setup-section"><div class="setup-label">Time limit</div><div class="pill-row" id="timeRow">' + timeHtml + '</div>' + customTimeHtml + '</div><div class="setup-section"><div class="setup-label">Question order</div><div class="pill-row" id="orderRow"><button class="pill-choice ' + (setupChoice.orderMode === 'structured' ? 'active' : '') + '" data-order="structured">Structured</button><button class="pill-choice ' + (setupChoice.orderMode === 'shuffled' ? 'active' : '') + '" data-order="shuffled">Shuffled</button></div></div><div class="start-btn-wrap"><button class="btn start" id="startBtn">Start custom quiz</button></div></main>';
         wireTopBar(renderHome);
-        wireRipples('.type-card, .pill-choice, .btn, .theme-toggle, .auth-btn');
+        wireRipples('.type-card, .pill-choice, .btn, .auth-btn');
         app.querySelectorAll('#typeGrid .type-card').forEach(function (btn) { btn.onclick = function () { setupChoice.quizType = btn.getAttribute('data-type'); renderCustomSetup(); }; });
         app.querySelectorAll('#countRow .pill-choice').forEach(function (btn) { btn.onclick = function () { var v = btn.getAttribute('data-count'); setupChoice.count = v === 'all' ? 'all' : (v === 'custom' ? 'custom' : parseInt(v, 10)); renderCustomSetup(); }; });
         app.querySelectorAll('#timeRow .pill-choice').forEach(function (btn) { btn.onclick = function () { var v = btn.getAttribute('data-time'); setupChoice.timeLimit = v === 'custom' ? 'custom' : parseInt(v, 10); renderCustomSetup(); }; });
@@ -3578,7 +3592,7 @@ window.addEventListener('error', function (ev) {
           '</main>';
 
         wireTopBar(function () { renderModuleList(subjectId); });
-        wireRipples('.type-card, .pill-choice, .btn, .theme-toggle, .auth-btn');
+        wireRipples('.type-card, .pill-choice, .btn, .auth-btn');
 
         app.querySelectorAll('#typeGrid .type-card').forEach(function (btn) {
           btn.addEventListener('click', function () { setupChoice.quizType = btn.getAttribute('data-type'); renderSetup(subjectId, moduleId); });
@@ -3911,7 +3925,7 @@ window.addEventListener('error', function (ev) {
           '</main>';
 
         wireTopBar(backFn);
-        wireRipples('.opt, .btn, .theme-toggle, .auth-btn');
+        wireRipples('.opt, .btn, .auth-btn');
         if (state.timeLimit > 0) updateTimerBadge();
 
         var explainBox = app.querySelector('.explain');
@@ -4113,7 +4127,7 @@ window.addEventListener('error', function (ev) {
           footerHtml();
 
         wireTopBar(resBackFn);
-        wireRipples('.btn, .theme-toggle, .auth-btn');
+        wireRipples('.btn, .auth-btn');
 
         document.getElementById('retryBtn').addEventListener('click', function () {
           if (state.isPyqMode) startPYQQuiz(state.pyqExam);

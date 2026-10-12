@@ -28,6 +28,9 @@ html.dark .qcard {
   color: var(--accent) !important;
   font-weight: 800 !important;
 }
+html.dark .qnum-eyebrow span {
+  color: #c4b5fd !important;
+}
 
 /* --- Question Text (stem) --- */
 .qtext {
@@ -96,7 +99,7 @@ html.dark .qtext img {
   line-height: 1.5;
 }
 
-/* --- Correct/Incorrect Option States --- */
+/* --- Correct/Incorrect/Dim Option States --- */
 .opt.correct {
   border-width: 2px !important;
 }
@@ -108,6 +111,25 @@ html.dark .qtext img {
 }
 .opt.incorrect .letter {
   font-weight: 800 !important;
+}
+.opt.dim {
+  opacity: 0.45 !important;
+  border-color: transparent !important;
+  background: rgba(0, 0, 0, 0.02) !important;
+  transform: none !important;
+  box-shadow: none !important;
+}
+html.dark .opt.dim {
+  opacity: 0.42 !important;
+  background: rgba(255, 255, 255, 0.02) !important;
+  border-color: rgba(255, 255, 255, 0.04) !important;
+}
+.opt.dim .letter {
+  opacity: 0.6 !important;
+  border-color: rgba(0, 0, 0, 0.1) !important;
+}
+html.dark .opt.dim .letter {
+  border-color: rgba(255, 255, 255, 0.08) !important;
 }
 
 /* --- Explanation Section --- */
@@ -126,8 +148,9 @@ html.dark .qtext img {
   font-optical-sizing: auto;
 }
 html.dark .explain {
-  background: linear-gradient(135deg, #173c3b, #123331) !important;
-  border-color: rgba(72, 187, 173, 0.52) !important;
+  background: linear-gradient(135deg, rgba(26, 18, 48, 0.94), rgba(18, 14, 34, 0.96)) !important;
+  border-color: rgba(167, 139, 250, 0.35) !important;
+  box-shadow: 0 8px 32px -8px rgba(0, 0, 0, 0.6), 0 0 20px -6px rgba(139, 92, 246, 0.18) !important;
 }
 
 /* --- Explanation Label --- */
@@ -233,7 +256,17 @@ html.dark .explain th {
 .qmeta-row .chap-tag {
   font-size: 11.5px !important;
   font-weight: 800 !important;
-  letter-spacing: 0.06em !important;
+  letter-spacing: 0.05em !important;
+  padding: 5px 12px !important;
+  border-radius: 999px !important;
+  background: rgba(123, 47, 247, 0.12) !important;
+  color: var(--accent) !important;
+  border: 1px solid rgba(123, 47, 247, 0.25) !important;
+}
+html.dark .qmeta-row .chap-tag {
+  background: rgba(139, 92, 246, 0.14) !important;
+  color: #c4b5fd !important;
+  border-color: rgba(167, 139, 250, 0.28) !important;
 }
 .score-tag {
   font-family: 'DM Sans', Inter, sans-serif !important;
@@ -592,8 +625,8 @@ html.dark #moduleItemList > .item:nth-of-type(4n + 4) .num { background: rgba(16
    Only the post-answer correct/incorrect states use green/red. */
 .screen-quiz .options .opt { position: relative; overflow: hidden; border-left-width: 4px !important; }
 .screen-quiz .options .opt:not(.correct):not(.incorrect) { border-left-color: var(--line) !important; }
-.screen-quiz .options .opt .letter { background: var(--accent-soft) !important; color: var(--accent-deep) !important; }
-.screen-quiz .explain { border-left: 4px solid #22c1dc !important; }
+.screen-quiz .explain { border-left: 4px solid #8b5cf6 !important; }
+html.dark .screen-quiz .explain { border-left: 4px solid #a78bfa !important; }
 
 /* Keep every quiz image responsive and stable; embedded stems may contain very tall images. */
 .screen-quiz #mainContent .qtext img.qtext-img,
@@ -794,13 +827,22 @@ select:focus, input:focus, textarea:focus { outline: none !important; border-col
   letter-spacing: -.01em;
   transition: transform .2s cubic-bezier(.16,1,.3,1), box-shadow .2s ease, border-color .2s ease !important;
 }
-.start-btn, .quiz-actions .next-btn, .result-actions .primary, .auth-submit-btn {
+.start-btn, .quiz-actions #nextBtn:not(:disabled), .quiz-actions .btn:not(:disabled), .quiz-actions .next-btn, .result-actions .primary, .auth-submit-btn {
   background: var(--accent-gradient) !important;
   color: #fff !important;
   border: 0 !important;
   box-shadow: 0 10px 24px -8px var(--accent-glow, rgba(124,58,237,.5)) !important;
 }
-.start-btn:hover, .quiz-actions button:hover, .result-actions button:hover, .auth-submit-btn:hover { transform: translateY(-2px); box-shadow: 0 14px 28px -8px var(--accent-glow, rgba(124,58,237,.55)) !important; }
+.quiz-actions #nextBtn:disabled, .quiz-actions .btn:disabled {
+  background: var(--paper-raised) !important;
+  color: var(--ink-muted) !important;
+  border: 1px solid var(--line) !important;
+  box-shadow: none !important;
+  opacity: 0.55 !important;
+  cursor: not-allowed !important;
+  transform: none !important;
+}
+.start-btn:hover, .quiz-actions #nextBtn:not(:disabled):hover, .quiz-actions button:hover, .result-actions button:hover, .auth-submit-btn:hover { transform: translateY(-2px); box-shadow: 0 14px 28px -8px var(--accent-glow, rgba(124,58,237,.55)) !important; }
 .start-btn:active, .quiz-actions button:active, .result-actions button:active { transform: scale(.98); }
 
 /* Quiz navigation and progress header. */
@@ -1108,17 +1150,20 @@ html:not(.dark) .screen-setup #countRow .pill-choice.active,html:not(.dark) .scr
 .screen-quiz .masthead::before { animation: none !important; filter: none !important; }
 .screen-quiz .timer-badge.low { animation: none !important; }
 
-/* Tap-to-answer responsiveness */
-.screen-quiz .opt, .screen-quiz .btn, .screen-quiz .back-btn {
+/* Tap-to-answer & theme-toggle responsiveness */
+.screen-quiz .opt, .screen-quiz .btn, .screen-quiz .back-btn, .theme-toggle, #themeToggle {
   touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
 }
 .screen-quiz .explain img, .screen-quiz .qtext img, .review-item img, .review-item .rq img, .review-item .rexplain img { max-height: 65vh; width: auto; max-width: 100% !important; object-fit: contain; }
 .screen-quiz .explain { contain: layout paint; }
-/* Mobile fix: restore green/red answer fills on phones/touch devices */
+/* Mobile fix: restore green/red answer fills and dimming on phones/touch devices */
 @media (max-width: 768px), (pointer: coarse) {
   .screen-quiz .opt.correct   { background-color: var(--green-soft) !important; border-color: var(--green) !important; }
   .screen-quiz .opt.incorrect { background-color: var(--coral-soft) !important; border-color: var(--coral) !important; }
   html.dark .screen-quiz .opt.correct   { background-color: rgba(52,211,153,.15) !important; }
   html.dark .screen-quiz .opt.incorrect { background-color: rgba(248,113,113,.15) !important; }
+  .screen-quiz .opt.dim { opacity: 0.42 !important; background-color: transparent !important; border-color: transparent !important; }
+  html.dark .screen-quiz .opt.dim { opacity: 0.40 !important; background-color: rgba(255,255,255,0.02) !important; border-color: rgba(255,255,255,0.04) !important; }
 }
