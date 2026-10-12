@@ -10,7 +10,18 @@ Run locally (never commit the key):
 Why the service-role key: questions are protected by RLS, so the public anon key cannot
 read them. The key stays on your machine; only the sample text is written to seo_samples.json.
 """
-import json, os, re, sys, time, urllib.request, urllib.parse
+import json, os, re, socket, sys, time, urllib.request, urllib.parse
+
+# Fallback DNS resolution in case local router DNS fails to resolve supabase host
+_orig_getaddrinfo = socket.getaddrinfo
+def _custom_getaddrinfo(host, port, *args, **kwargs):
+    try:
+        return _orig_getaddrinfo(host, port, *args, **kwargs)
+    except socket.gaierror:
+        if host == "groeibwykzrliphzzruk.supabase.co":
+            return [(socket.AF_INET, socket.SOCK_STREAM, 6, '', ('104.18.38.10', port))]
+        raise
+socket.getaddrinfo = _custom_getaddrinfo
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 URL = "https://groeibwykzrliphzzruk.supabase.co"
