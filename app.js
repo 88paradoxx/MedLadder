@@ -1447,49 +1447,94 @@ window.addEventListener('error', function (ev) {
         }, 3200);
       }
 
-      var GITHUB_APK_URL = 'https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk';
+      var isDownloadingApk = false;
 
-      function triggerApkDownload() {
-        // 1. Direct native Android bridge in APK (DownloadManager in background with toast)
+      function downloadMedLadderApkInPage(targetUrl) {
+        var url = targetUrl || '/MedLadder-latest.apk';
+        var isNative = !!(window.MedLadderNative && window.MedLadderNative.isNative);
+
+        // 1. Inside native Android app: trigger DownloadManager in background (zero WebView navigation, zero blank screen)
         if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.downloadApk === 'function') {
           showToast('📥 Starting MedLadder APK download in background...', 'success');
-          window.MedLadderAndroidApp.downloadApk(GITHUB_APK_URL);
+          window.MedLadderAndroidApp.downloadApk('https://medladder.top/MedLadder-latest.apk');
           return;
         }
 
-        // 2. Direct Capacitor Browser plugin if available in APK (opens external browser directly)
-        if (window.MedLadderNative && window.MedLadderNative.Browser && typeof window.MedLadderNative.Browser.open === 'function') {
-          showToast('📥 Opening MedLadder APK download...', 'success');
-          window.MedLadderNative.Browser.open({ url: GITHUB_APK_URL });
+        // 2. Native app fallback: trigger hidden iframe download without unloading page
+        if (isNative) {
+          showToast('📥 Starting MedLadder APK download in background...', 'success');
+          triggerIframeDownload('https://medladder.top/MedLadder-latest.apk');
           return;
         }
 
-        // 3. Native platform fallback using system browser
-        if (window.Capacitor && typeof window.Capacitor.isNativePlatform === 'function' && window.Capacitor.isNativePlatform()) {
-          showToast('📥 Starting MedLadder APK download...', 'success');
-          window.open(GITHUB_APK_URL, '_system');
-          return;
-        }
+        // 3. On the web (mobile or desktop browser): 100% in-page blob download with progress, no redirect, no blank tab
+        if (isDownloadingApk) return;
+        isDownloadingApk = true;
+        showToast('📥 Preparing MedLadder APK (7.5 MB)...', 'info');
 
-        // 4. Web browser download (trigger direct download link without iframe X-Frame-Options blocking)
-        showToast('📥 Starting MedLadder APK download...', 'success');
-        var link = document.createElement('a');
-        link.href = GITHUB_APK_URL;
-        link.setAttribute('download', 'MedLadder-latest.apk');
-        link.target = '_blank';
-        link.rel = 'noopener noreferrer';
-        document.body.appendChild(link);
-        link.click();
-        setTimeout(function () {
-          if (link.parentNode) link.parentNode.removeChild(link);
-        }, 150);
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.responseType = 'blob';
+
+        var lastReported = 0;
+        xhr.onprogress = function (e) {
+          if (e.lengthComputable && e.total > 0) {
+            var pct = Math.min(100, Math.round((e.loaded / e.total) * 100));
+            if (pct >= lastReported + 25 || pct === 100) {
+              lastReported = pct;
+              showToast('📥 Downloading MedLadder APK... ' + pct + '%', 'info');
+            }
+          }
+        };
+
+        xhr.onload = function () {
+          isDownloadingApk = false;
+          if (xhr.status >= 200 && xhr.status < 300) {
+            try {
+              var blob = xhr.response;
+              var blobUrl = window.URL.createObjectURL(blob);
+              var link = document.createElement('a');
+              link.style.display = 'none';
+              link.href = blobUrl;
+              link.download = 'MedLadder-latest.apk';
+              document.body.appendChild(link);
+              link.click();
+              setTimeout(function () {
+                if (link.parentNode) link.parentNode.removeChild(link);
+                window.URL.revokeObjectURL(blobUrl);
+              }, 60000);
+              showToast('✅ Download complete! Saved to your device.', 'success');
+              return;
+            } catch (err) {}
+          }
+          showToast('📥 Starting direct download...', 'info');
+          triggerIframeDownload(url);
+        };
+
+        xhr.onerror = function () {
+          isDownloadingApk = false;
+          triggerIframeDownload(url);
+        };
+
+        xhr.send();
+      }
+
+      function triggerIframeDownload(url) {
+        var iframe = document.getElementById('medladderApkDownloader');
+        if (!iframe) {
+          iframe = document.createElement('iframe');
+          iframe.id = 'medladderApkDownloader';
+          iframe.style.display = 'none';
+          document.body.appendChild(iframe);
+        }
+        iframe.src = url;
       }
 
       document.addEventListener('click', function (e) {
         var btn = e.target.closest('.footer-apk-btn');
         if (btn) {
           e.preventDefault();
-          triggerApkDownload();
+          downloadMedLadderApkInPage(btn.getAttribute('href') || '/MedLadder-latest.apk');
         }
       });
 
@@ -1558,7 +1603,7 @@ window.addEventListener('error', function (ev) {
       function footerHtml() {
         return '<footer class="credit">' +
           '<div class="footer-content">' +
-          '<a href="' + GITHUB_APK_URL + '" class="footer-apk-btn" download="MedLadder-latest.apk" title="Download MedLadder Android APK">' +
+          '<a href="/MedLadder-latest.apk" class="footer-apk-btn" download="MedLadder-latest.apk" title="Download MedLadder Android APK">' +
           '<span class="footer-apk-icon">' +
           '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.4116 13.8533 8.125 12 8.125s-3.5902.2866-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg>' +
           '</span>' +

@@ -56,7 +56,7 @@ public class MainActivity extends BridgeActivity {
     }
 
     private void triggerNativeDownload(String urlString) {
-        String url = (urlString != null && !urlString.isEmpty()) ? urlString : "https://github.com/88paradoxx/MedLadder/releases/download/medladder/MedLadder-latest.apk";
+        String url = (urlString != null && !urlString.isEmpty()) ? urlString : "https://medladder.top/MedLadder-latest.apk";
         try {
             DownloadManager dm = (DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE);
             if (dm != null) {
@@ -69,18 +69,9 @@ public class MainActivity extends BridgeActivity {
                 request.setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, filename);
                 dm.enqueue(request);
                 Toast.makeText(getApplicationContext(), "📥 Downloading " + filename + " in background...", Toast.LENGTH_LONG).show();
-                return;
             }
         } catch (Exception ex) {
-            // Fallback to launching in external browser
-        }
-
-        try {
-            android.content.Intent browserIntent = new android.content.Intent(android.content.Intent.ACTION_VIEW, Uri.parse(url));
-            browserIntent.addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK);
-            startActivity(browserIntent);
-        } catch (Exception e) {
-            Toast.makeText(getApplicationContext(), "Download error: " + e.getMessage(), Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), "Download error: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
         }
     }
 }
