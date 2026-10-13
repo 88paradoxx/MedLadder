@@ -204,12 +204,29 @@
     if (phase === 'upcoming') return '<span class="mt-badge upcoming">UPCOMING</span>';
     return '<span class="mt-badge ended">ENDED</span>';
   }
+  var expandedDetails = {};
+  function detailRow(label, value) {
+    return '<div class="mt-detail"><span class="mt-detail-k">' + esc(label) +
+      '</span><span class="mt-detail-v">' + esc(value) + '</span></div>';
+  }
+  function detailsHtml(t) {
+    var open = !!expandedDetails[t.id];
+    return '<div class="mt-test-details"' + (open ? '' : ' hidden') + '>' +
+      '<div class="mt-detail-grid">' +
+      detailRow('Starts', new Date(t.starts_at).toLocaleString()) +
+      detailRow('Ends', new Date(t.ends_at).toLocaleString()) +
+      detailRow('Duration', t.duration_minutes + ' minutes') +
+      detailRow('Questions', String(t.total_questions)) +
+      detailRow('Marking', '+' + t.positive_marks + '  /  \u2212' + t.negative_marks) +
+      detailRow('Access', t.is_free ? 'Free for signed-in users' : 'Pro members only') +
+      '</div></div>';
+  }
   function loadLobby() {
     showView('lobbyView');
     var list = $('testList');
     list.innerHTML = '<p style="color:var(--muted)">Loading mock tests…</p>';
     sb.from('mock_tests')
-      .select('id,title,exam,description,starts_at,ends_at,duration_minutes,total_questions,is_free')
+      .select('id,title,exam,description,starts_at,ends_at,duration_minutes,total_questions,positive_marks,negative_marks,is_free')
       .eq('status', 'published')
       .order('starts_at', { ascending: false })
       .limit(20)
@@ -243,15 +260,28 @@
             '<span>' + t.total_questions + ' questions</span>' +
             '<span>' + t.duration_minutes + ' min</span>' +
             '<span>' + esc(when) + '</span>' +
-            '</div></div>' +
+            '</div>' +
+            (phase === 'upcoming' ? detailsHtml(t) : '') +
+            '</div>' +
             '<div>' + phaseBadge(phase) + ' ' +
             (t.is_free ? '<span class="mt-badge free">FREE</span>' : '<span class="mt-badge pro">PRO</span>') +
             '</div>' +
-            '<button class="mt-btn mt-btn-primary" data-act="open">' + btn + '</button>' +
+            '<button class="mt-btn mt-btn-primary" data-act="open">' +
+            (phase === 'upcoming' && expandedDetails[t.id] ? 'Hide details' : btn) + '</button>' +
             ' <button class="mt-btn" data-act="share" title="Share this test">🔗</button>';
-          card.querySelector('[data-act="open"]').onclick = function () {
-            openTest(t.id);
-          };
+          var openBtn = card.querySelector('[data-act="open"]');
+          if (phase === 'upcoming') {
+            openBtn.onclick = function () {
+              expandedDetails[t.id] = !expandedDetails[t.id];
+              var d = card.querySelector('.mt-test-details');
+              d.hidden = !expandedDetails[t.id];
+              openBtn.textContent = expandedDetails[t.id] ? 'Hide details' : 'View details';
+            };
+          } else {
+            openBtn.onclick = function () {
+              openTest(t.id);
+            };
+          }
           card.querySelector('[data-act="share"]').onclick = function () {
             shareLink(t.title,
               'Join this free mock test on MedLadder: ' + t.title,
