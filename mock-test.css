@@ -108,6 +108,8 @@ body {
 }
 .mt-qcard .qnum { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
 .mt-qcard .qtext { font-size: 17px; line-height: 1.55; margin-bottom: 18px; }
+.qtext-img, .mt-qcard .qtext img { max-width: 100%; height: auto; display: block;
+  margin: 12px auto; border-radius: 10px; }
 .mt-opt {
   display: flex; gap: 12px; align-items: flex-start; width: 100%;
   text-align: left; background: var(--panel-2); color: var(--text);

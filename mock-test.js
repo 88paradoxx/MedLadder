@@ -28,6 +28,67 @@
       .replace(/&/g, '&amp;').replace(/</g, '&lt;')
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
+  /* Images live on Cloudflare R2; the bank stores legacy Supabase URLs.
+   * Same rewrite the main site uses, so mock questions show the same images. */
+  var R2_IMAGES_BASE = 'https://pub-5e62ac2b4d1c43fcb7fb6b025a52e189.r2.dev';
+  function optimizeQuestionImageUrl(src) {
+    if (!src) return '';
+    try {
+      var url = new URL(String(src), window.location.href);
+      if (/\.supabase\.co$/i.test(url.hostname)) {
+        var prefix = '/storage/v1/object/public/question-images/';
+        var renderPrefix = '/storage/v1/render/image/public/question-images/';
+        if (url.pathname.indexOf(prefix) === 0) {
+          return R2_IMAGES_BASE + '/' + url.pathname.slice(prefix.length);
+        } else if (url.pathname.indexOf(renderPrefix) === 0) {
+          return R2_IMAGES_BASE + '/' + url.pathname.slice(renderPrefix.length);
+        }
+      }
+      return url.toString();
+    } catch (_) {
+      return String(src);
+    }
+  }
+  /* Render question stems that may contain trusted editorial HTML (<br>, <img>)
+   * with an allowlist, matching the main site's sanitizer. */
+  function sanitizeQuestionHtml(input) {
+    if (input === null || input === undefined || input === '') return '';
+    var tpl = document.createElement('template');
+    tpl.innerHTML = String(input);
+    var allowed = {
+      BR: true, B: true, STRONG: true, I: true, EM: true,
+      U: true, S: true, SUB: true, SUP: true, SMALL: true,
+      SPAN: true, P: true, DIV: true
+    };
+    function clean(parent) {
+      Array.prototype.forEach.call(parent.childNodes, function (node) {
+        if (node.nodeType === Node.COMMENT_NODE) { node.remove(); return; }
+        if (node.nodeType !== Node.ELEMENT_NODE) return;
+        var tag = node.tagName.toUpperCase();
+        if (tag === 'IMG') {
+          var src = node.getAttribute('src') || '';
+          var alt = node.getAttribute('alt') || 'Clinical exhibit';
+          if (!/^https?:\/\//i.test(src)) { node.remove(); return; }
+          Array.prototype.forEach.call(node.attributes, function (attr) {
+            node.removeAttribute(attr.name);
+          });
+          node.setAttribute('src', optimizeQuestionImageUrl(src));
+          node.setAttribute('alt', alt);
+          node.className = 'qtext-img';
+          node.setAttribute('loading', 'lazy');
+          node.setAttribute('decoding', 'async');
+          return;
+        }
+        if (!allowed[tag]) { node.remove(); return; }
+        Array.prototype.forEach.call(node.attributes, function (attr) {
+          node.removeAttribute(attr.name);
+        });
+        clean(node);
+      });
+    }
+    clean(tpl.content);
+    return tpl.innerHTML;
+  }
   function toast(msg) {
     var t = $('toast');
     t.textContent = msg;
@@ -278,11 +339,11 @@
     var letters = optLetters(q);
     var html = '<div class="qnum">Question ' + (currentIdx + 1) + ' of ' + questions.length +
       (q.subject ? ' · ' + esc(q.subject) : '') + '</div>' +
-      '<div class="qtext">' + esc(q.question_text) + '</div>';
+      '<div class="qtext">' + sanitizeQuestionHtml(q.question_text) + '</div>';
     letters.forEach(function (k) {
       var sel = answers[q.sort_order] === k ? ' selected' : '';
       html += '<button class="mt-opt' + sel + '" data-k="' + k + '">' +
-        '<span class="key">' + k + '</span><span>' + esc(q['option_' + k]) + '</span></button>';
+        '<span class="key">' + k + '</span><span>' + sanitizeQuestionHtml(q['option_' + k]) + '</span></button>';
     });
     card.innerHTML = html;
     Array.prototype.forEach.call(card.querySelectorAll('.mt-opt'), function (btn) {
@@ -453,16 +514,16 @@
         var cls = !pick ? 'skipped-q' : (pick === ans ? 'correct-q' : 'wrong-q');
         html += '<div class="mt-qcard ' + cls + '">' +
           '<div class="qnum">Question ' + (i + 1) + (q.subject ? ' · ' + esc(q.subject) : '') + '</div>' +
-          '<div class="qtext">' + esc(q.question_text) + '</div>';
+          '<div class="qtext">' + sanitizeQuestionHtml(q.question_text) + '</div>';
         optLetters(q).forEach(function (k) {
           var c = '';
           if (k === ans) c = ' correct-opt';
           else if (k === pick) c = ' wrong-pick';
           html += '<div class="mt-opt' + c + '"><span class="key">' + k + '</span>' +
-            '<span>' + esc(q['option_' + k]) + '</span></div>';
+            '<span>' + sanitizeQuestionHtml(q['option_' + k]) + '</span></div>';
         });
         if (q.explanation) {
-          html += '<div class="mt-expl"><strong>Explanation:</strong> ' + esc(q.explanation) + '</div>';
+          html += '<div class="mt-expl"><strong>Explanation:</strong> ' + sanitizeQuestionHtml(q.explanation) + '</div>';
         }
         html += '</div>';
       });
