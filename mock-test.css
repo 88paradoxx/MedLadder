@@ -210,3 +210,31 @@ body {
   border-radius: 10px; padding: 13px 16px; margin-bottom: 10px; }
 .mt-seo summary { cursor: pointer; font-weight: 700; color: var(--text); font-size: 15px; }
 .mt-seo details p { margin: 10px 0 2px; }
+
+/* ---------- small screens: fit without zooming ---------- */
+@media (max-width: 640px) {
+  #app { padding: 0 12px 48px; }
+  .mt-topbar { gap: 10px; flex-wrap: wrap; padding: 10px 0; }
+  .mt-brand { font-size: 18px; }
+  .mt-auth { margin-left: 0; width: 100%; }
+  .mt-auth-form { flex-wrap: wrap; width: 100%; }
+  .mt-auth-form input { flex: 1 1 140px; min-width: 0; }
+  .mt-hero { margin-bottom: 20px; }
+  .mt-hero h1 { font-size: 26px; }
+  .mt-hero p { font-size: 14px; }
+  .mt-test-card { padding: 16px; gap: 12px; }
+  .mt-test-info { min-width: 0; flex: 1 1 100%; }
+  .mt-test-header { flex-wrap: wrap; gap: 10px; top: 0; padding: 10px 0; }
+  .mt-test-title { flex: 1 1 100%; font-size: 15px; }
+  .mt-timer { font-size: 17px; padding: 5px 12px; }
+  .mt-qcard { padding: 16px; min-height: 0; }
+  .mt-qcard .qtext { font-size: 16px; }
+  .mt-opt { font-size: 14px; padding: 11px 12px; }
+  .mt-qnav .mt-btn { flex: 1 1 auto; padding: 10px 8px; font-size: 13px; }
+  .mt-breakup { flex-wrap: wrap; gap: 8px 14px; }
+  .mt-big-rank { font-size: 42px; }
+  .mt-score { font-size: 24px; }
+  .mt-score-card, .mt-board-card { padding: 16px; }
+  .mt-board-row { font-size: 13px; padding: 9px 10px; }
+  .mt-seo h2 { font-size: 19px; }
+}
