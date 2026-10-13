@@ -11,7 +11,7 @@
   var BANNER_ID = 'mockTestBanner';
   var ADMIN_LINK_ID = 'mockAdminLink';
   var STYLE_ID = 'mockBannerStyle';
-  var isHome = window.location.pathname === '/';
+  var isHome = window.location.pathname === '/' || window.location.pathname === '/index.html' || window.location.pathname === '';
   var lastMode = '';
   var lastState = null;
 
@@ -75,7 +75,7 @@
       el.href = '/mock-test';
       section.parentNode.insertBefore(el, section);
     }
-    if (mode !== lastMode) {
+    if (mode !== lastMode || !el.innerHTML) {
       lastMode = mode;
       var live = mode === 'live';
       el.setAttribute('style',
