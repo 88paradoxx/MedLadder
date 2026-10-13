@@ -96,6 +96,27 @@
     clearTimeout(t._h);
     t._h = setTimeout(function () { t.hidden = true; }, 3200);
   }
+  /* Share via the native sheet where available, else copy the link. */
+  function shareLink(title, text, url) {
+    if (window.navigator && navigator.share) {
+      navigator.share({ title: title, text: text, url: url }).catch(function () {});
+      return;
+    }
+    function done() { toast('Link copied to clipboard'); }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(done, function () { legacyCopy(url, done); });
+    } else {
+      legacyCopy(url, done);
+    }
+  }
+  function legacyCopy(text, done) {
+    var ta = document.createElement('textarea');
+    ta.value = text; ta.style.cssText = 'position:fixed;opacity:0;top:0;left:0;';
+    document.body.appendChild(ta); ta.select();
+    try { document.execCommand('copy'); done(); }
+    catch (e) { window.prompt('Copy this link:', text); }
+    document.body.removeChild(ta);
+  }
   function pad(n) { return (n < 10 ? '0' : '') + n; }
   function fmtHMS(ms) {
     if (ms < 0) ms = 0;
@@ -226,9 +247,15 @@
             '<div>' + phaseBadge(phase) + ' ' +
             (t.is_free ? '<span class="mt-badge free">FREE</span>' : '<span class="mt-badge pro">PRO</span>') +
             '</div>' +
-            '<button class="mt-btn mt-btn-primary">' + btn + '</button>';
-          card.querySelector('button').onclick = function () {
+            '<button class="mt-btn mt-btn-primary" data-act="open">' + btn + '</button>' +
+            ' <button class="mt-btn" data-act="share" title="Share this test">🔗</button>';
+          card.querySelector('[data-act="open"]').onclick = function () {
             location.href = '/mock-test?id=' + t.id;
+          };
+          card.querySelector('[data-act="share"]').onclick = function () {
+            shareLink(t.title,
+              'Join this free mock test on MedLadder: ' + t.title,
+              location.origin + '/mock-test?id=' + t.id);
           };
           list.appendChild(card);
         });
@@ -433,6 +460,15 @@
       });
     }
     $('reviewBtn').onclick = loadReview;
+    $('shareRankBtn').onclick = function () {
+      var rank = $('resRank').textContent || '';
+      var score = $('resScore').textContent || '';
+      var title = currentTest ? currentTest.title : 'Mock Test';
+      shareLink(title,
+        'I ranked ' + rank + ' scoring ' + score + ' in "' + title +
+        '" on MedLadder! Can you beat me?',
+        location.href);
+    };
   }
 
   function renderScore(d) {
