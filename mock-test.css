@@ -361,3 +361,25 @@ body {
   .mt-board-row { font-size: 13px; padding: 10px; gap: 8px; }
   .mt-seo h2 { font-size: 19px; }
 }
+
+/* ---------- inline test details (upcoming tests) ---------- */
+.mt-test-details {
+  margin-top: 14px; padding-top: 14px;
+  border-top: 1px dashed var(--border-strong);
+}
+.mt-detail-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;
+}
+.mt-detail {
+  background: var(--panel-2); border: 1px solid var(--border);
+  border-radius: 12px; padding: 10px 14px;
+  display: flex; flex-direction: column; gap: 3px;
+}
+.mt-detail-k {
+  font-size: 10.5px; font-weight: 800; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--faint);
+}
+.mt-detail-v { font-size: 14px; font-weight: 600; color: var(--text); }
+@media (max-width: 640px) {
+  .mt-detail-grid { grid-template-columns: repeat(2, 1fr); }
+}
