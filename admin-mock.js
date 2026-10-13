@@ -97,45 +97,67 @@
   }
 
   /* ---------- editor ---------- */
+  function fillTestForm(t) {
+    $('fTitle').value = t.title || '';
+    $('fExam').value = t.exam || 'NEET PG';
+    $('fDesc').value = t.description || '';
+    $('fStarts').value = toLocalInput(t.starts_at);
+    $('fEnds').value = toLocalInput(t.ends_at);
+    $('fDur').value = t.duration_minutes;
+    $('fTotal').value = t.total_questions;
+    $('fPos').value = t.positive_marks;
+    $('fNeg').value = t.negative_marks;
+    $('fFree').value = t.is_free ? 'true' : 'false';
+    $('fStatus').value = t.status;
+  }
+
   function openEditor(testId) {
     editingTestId = testId || null;
     editingQId = null;
     $('editorTitle').textContent = testId ? 'Edit test' : 'New test';
     $('testForm').reset();
     $('qSection').hidden = true;
+    showView('editorView');
     if (testId) {
+      // Show the questions UI immediately; fill the form when the fetch lands.
+      $('qSection').hidden = false;
+      loadQuestions();
       sb.rpc('admin_list_tests').then(function (res) {
+        if (res.error) { toast(rpcErr(res.error)); return; }
         var t = (res.data || []).filter(function (x) { return x.id === testId; })[0];
-        if (!t) { toast('Test not found.'); return; }
-        $('fTitle').value = t.title || '';
-        $('fExam').value = t.exam || 'NEET PG';
-        $('fDesc').value = t.description || '';
-        $('fStarts').value = toLocalInput(t.starts_at);
-        $('fEnds').value = toLocalInput(t.ends_at);
-        $('fDur').value = t.duration_minutes;
-        $('fTotal').value = t.total_questions;
-        $('fPos').value = t.positive_marks;
-        $('fNeg').value = t.negative_marks;
-        $('fFree').value = t.is_free ? 'true' : 'false';
-        $('fStatus').value = t.status;
-        $('qSection').hidden = false;
-        loadQuestions();
+        if (!t) { toast('Test not found — it may have been deleted.'); return; }
+        fillTestForm(t);
       });
     }
-    showView('editorView');
   }
 
+  function parseDt(v) {
+    if (!v) return null;
+    var t = new Date(v).getTime();
+    return isNaN(t) ? null : new Date(t).toISOString();
+  }
   function collectTest() {
+    var starts = parseDt($('fStarts').value);
+    var ends = parseDt($('fEnds').value);
+    var dur = parseInt($('fDur').value, 10);
+    var total = parseInt($('fTotal').value, 10);
+    var pos = parseFloat($('fPos').value);
+    var neg = parseFloat($('fNeg').value);
+    if (!starts || !ends) throw new Error('BAD_DATES');
+    if (ends <= starts) throw new Error('BAD_WINDOW');
+    if (!(dur >= 5 && dur <= 600)) throw new Error('BAD_NUM');
+    if (!(total >= 1 && total <= 500)) throw new Error('BAD_NUM');
+    if (isNaN(pos) || isNaN(neg)) throw new Error('BAD_NUM');
     return {
       p_title: $('fTitle').value.trim(),
       p_exam: $('fExam').value,
       p_description: $('fDesc').value.trim(),
-      p_starts_at: new Date($('fStarts').value).toISOString(),
-      p_ends_at: new Date($('fEnds').value).toISOString(),
-      p_duration_minutes: parseInt($('fDur').value, 10),
-      p_total_questions: parseInt($('fTotal').value, 10),
-      p_positive_marks: parseFloat($('fPos').value),
-      p_negative_marks: parseFloat($('fNeg').value),
+      p_starts_at: starts,
+      p_ends_at: ends,
+      p_duration_minutes: dur,
+      p_total_questions: total,
+      p_positive_marks: pos,
+      p_negative_marks: neg,
       p_is_free: $('fFree').value === 'true',
       p_status: $('fStatus').value
     };
@@ -146,7 +168,16 @@
     $('newTestBtn').onclick = function () { openEditor(null); };
     $('testForm').onsubmit = function (ev) {
       ev.preventDefault();
-      var d = collectTest();
+      var d;
+      try {
+        d = collectTest();
+      } catch (e) {
+        if (e.message === 'BAD_DATES') toast('Please set both start and end date/time.');
+        else if (e.message === 'BAD_WINDOW') toast('End time must be after start time.');
+        else toast('Please check the duration, question count and marks fields.');
+        return;
+      }
+      if (!d.p_title) { toast('Please give the test a title.'); return; }
       if (editingTestId) {
         d.p_test_id = editingTestId;
         sb.rpc('admin_update_test', d).then(function (r) {
