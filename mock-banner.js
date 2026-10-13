@@ -9,9 +9,9 @@
 
   function inject() {
     if (document.getElementById(BANNER_ID)) return;
-    var anchor = document.querySelector('.pyq-bank-section, #pyqBankToggle');
+    var anchor = document.querySelector('.pyq-section-wrap, #pyqBankToggle');
     if (!anchor || !anchor.parentNode) return;
-    var section = (anchor.closest && anchor.closest('.pyq-bank-section')) || anchor;
+    var section = (anchor.closest && anchor.closest('.pyq-section-wrap')) || anchor;
     var a = document.createElement('a');
     a.id = BANNER_ID;
     a.href = '/mock-test';
