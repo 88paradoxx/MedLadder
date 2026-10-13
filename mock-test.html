@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="/theme-init.js"></script>
+  <title>Mock Tests — Live All-India Leaderboard | MedLadder</title>
+  <meta name="description" content="Take free live mock tests for NEET PG, INI-CET and FMGE on MedLadder. Compete on the All-India leaderboard with real-time ranks.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://medladder.top/mock-test">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MedLadder">
+  <meta property="og:title" content="Mock Tests — Live All-India Leaderboard | MedLadder">
+  <meta property="og:description" content="Free live mock tests for NEET PG, INI-CET and FMGE. Compete on the All-India leaderboard.">
+  <meta property="og:url" content="https://medladder.top/mock-test">
+  <meta property="og:image" content="https://medladder.top/og-image.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png">
+  <link rel="stylesheet" href="/mock-test.css">
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js" crossorigin="anonymous" integrity="sha384-0w2KAL2YHP6wKOkUDzkCDGgVvfmHnj02DHeQ6XcHOgTfFsGyonKOpShMH1x6nk9o" defer></script>
+  <script src="/mock-test.js" defer></script>
+</head>
+
+<body>
+  <div id="app">
+    <header class="mt-topbar">
+      <a class="mt-brand" href="/">MedLadder</a>
+      <nav class="mt-nav">
+        <a href="/mock-test" class="active">Mock Tests</a>
+      </nav>
+      <div id="authArea" class="mt-auth"></div>
+    </header>
+
+    <main id="viewRoot">
+      <!-- Lobby -->
+      <section id="lobbyView" class="mt-view" hidden>
+        <div class="mt-hero">
+          <h1>Live Mock Tests</h1>
+          <p>Free All-India mocks for NEET PG, INI-CET &amp; FMGE. One leaderboard. Real ranks. Real bragging rights.</p>
+        </div>
+        <div id="testList" class="mt-test-list"></div>
+      </section>
+
+      <!-- Live test -->
+      <section id="testView" class="mt-view" hidden>
+        <div class="mt-test-header">
+          <div class="mt-test-title" id="testTitle"></div>
+          <div class="mt-timer" id="timer">--:--:--</div>
+          <button id="submitBtn" class="mt-btn mt-btn-primary">Submit Test</button>
+        </div>
+        <div class="mt-test-body">
+          <aside class="mt-palette" id="palette"></aside>
+          <div class="mt-question-pane">
+            <div id="questionCard" class="mt-qcard"></div>
+            <div class="mt-qnav">
+              <button id="prevBtn" class="mt-btn">← Previous</button>
+              <button id="markBtn" class="mt-btn">Mark for review</button>
+              <button id="clearBtn" class="mt-btn">Clear response</button>
+              <button id="nextBtn" class="mt-btn">Next →</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Result + leaderboard -->
+      <section id="resultView" class="mt-view" hidden>
+        <div class="mt-result-grid">
+          <div class="mt-score-card">
+            <h2>Your Result</h2>
+            <div class="mt-big-rank"><span id="resRank">#–</span></div>
+            <div class="mt-score" id="resScore">–</div>
+            <div class="mt-breakup" id="resBreakup"></div>
+            <button id="reviewBtn" class="mt-btn">Review answers</button>
+          </div>
+          <div class="mt-board-card">
+            <div class="mt-board-head">
+              <h2>🏆 Live Leaderboard</h2>
+              <span id="liveDot" class="mt-live-dot" hidden>LIVE</span>
+            </div>
+            <div id="leaderboard" class="mt-board"></div>
+          </div>
+        </div>
+        <div id="reviewPane" class="mt-review" hidden></div>
+      </section>
+
+      <div id="toast" class="mt-toast" hidden></div>
+    </main>
+  </div>
+</body>
+
+</html>
