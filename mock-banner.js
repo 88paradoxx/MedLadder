@@ -1,5 +1,5 @@
 /* MedLadder small site enhancements (standalone, so app.js stays untouched).
- * 1. Home-page mock-test banner & category tab. Turns RED/GREEN with a pulsing LIVE badge while a
+ * 1. Home-page mock-test banner. Turns RED with a pulsing LIVE badge while a
  *    test is live (via the public mock_banner_state RPC); purple otherwise.
  * 2. "Mock Test Admin" shortcut button inside the Admin Control Center modal.
  * Both re-inject after SPA re-renders via MutationObserver. */
@@ -9,16 +9,11 @@
   var SUPABASE_URL = 'https://groeibwykzrliphzzruk.supabase.co';
   var SUPABASE_ANON_KEY = 'sb_publishable_tXvgKaWrUfWlpy8SB3c1mQ_ZMrHxzVY';
   var BANNER_ID = 'mockTestBanner';
-  var TAB_ID = 'mockCategoryTab';
   var ADMIN_LINK_ID = 'mockAdminLink';
   var STYLE_ID = 'mockBannerStyle';
+  var isHome = window.location.pathname === '/';
   var lastMode = '';
   var lastState = null;
-
-  function isHome() {
-    var p = (window.location.pathname || '').replace(/\/$/, '');
-    return p === '' || p === '/index.html';
-  }
 
   function ensureStyle() {
     if (document.getElementById(STYLE_ID)) return;
@@ -28,9 +23,7 @@
       '@keyframes mockPulse { 0%,100% { opacity:1; transform:scale(1); }' +
       ' 50% { opacity:.45; transform:scale(.8); } }' +
       '.mock-live-dot { display:inline-block; width:10px; height:10px; border-radius:50%;' +
-      ' background:#22c55e; animation:mockPulse 1.4s ease-in-out infinite;box-shadow:0 0 12px #22c55e; }' +
-      '.mock-cat-tab { display:inline-flex; align-items:center; text-decoration:none; color:inherit; font-weight:600; cursor:pointer; }' +
-      '.mock-cat-tab.live { background:linear-gradient(135deg,rgba(34,197,94,.25),rgba(34,197,94,.08)) !important; border-color:#22c55e !important; color:#4ade80 !important; }';
+      ' background:#22c55e; animation:mockPulse 1.4s ease-in-out infinite;box-shadow:0 0 12px #22c55e; }';
     document.head.appendChild(st);
   }
 
@@ -68,44 +61,21 @@
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
-  function injectCategoryTab(state) {
-    if (!isHome()) return;
-    var catTabs = document.querySelector('.category-tabs');
-    if (!catTabs) return;
-    var tab = document.getElementById(TAB_ID);
-    var isLive = !!(state && state.live);
-    if (!tab) {
-      tab = document.createElement('a');
-      tab.id = TAB_ID;
-      tab.className = 'cat-tab mock-cat-tab' + (isLive ? ' live' : '');
-      tab.href = '/mock-test';
-      tab.style.textDecoration = 'none';
-      catTabs.appendChild(tab);
-    } else {
-      tab.className = 'cat-tab mock-cat-tab' + (isLive ? ' live' : '');
-    }
-    tab.innerHTML = isLive
-      ? '<span class="mock-live-dot" style="width:8px;height:8px;margin-right:6px;"></span>LIVE Mock'
-      : '🏆 Mock Tests';
-  }
-
   function renderBanner(state) {
-    if (!isHome()) return;
+    if (!isHome) return;
     ensureStyle();
-    injectCategoryTab(state);
     var mode = state && state.live ? 'live' : (state && state.next ? 'next' : 'idle');
-    var anchor = document.getElementById('subjectGrid') || document.querySelector('.pyq-section-wrap, #pyqBankToggle');
+    var anchor = document.querySelector('.pyq-section-wrap, #pyqBankToggle');
     if (!anchor || !anchor.parentNode) return;
+    var section = (anchor.closest && anchor.closest('.pyq-section-wrap')) || anchor;
     var el = document.getElementById(BANNER_ID);
     if (!el) {
       el = document.createElement('a');
       el.id = BANNER_ID;
       el.href = '/mock-test';
-      anchor.parentNode.insertBefore(el, anchor);
-    } else if (el.nextSibling !== anchor) {
-      anchor.parentNode.insertBefore(el, anchor);
+      section.parentNode.insertBefore(el, section);
     }
-    if (mode !== lastMode || !el.innerHTML) {
+    if (mode !== lastMode) {
       lastMode = mode;
       var live = mode === 'live';
       el.setAttribute('style',
@@ -119,7 +89,7 @@
   }
 
   function refreshState() {
-    if (!isHome()) return;
+    if (!isHome) return;
     fetch(SUPABASE_URL + '/rest/v1/rpc/mock_banner_state', {
       headers: {
         apikey: SUPABASE_ANON_KEY,
