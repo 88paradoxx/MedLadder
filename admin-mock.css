@@ -70,3 +70,7 @@ body { margin: 0; background: var(--bg); color: var(--text);
   padding: 12px 22px; border-radius: 12px; z-index: 50; font-size: 14px; }
 .am-actions { display: flex; gap: 8px; align-items: center; }
 @media (max-width: 760px) { .am-form { grid-template-columns: 1fr; } }
+
+/* image questions in the admin list */
+.am-qimg { max-width: 100%; height: auto; display: block; margin: 10px 0;
+  border-radius: 10px; border: 1px solid var(--border); }

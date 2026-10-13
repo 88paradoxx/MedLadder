@@ -16,6 +16,16 @@
     return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;')
       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
+  /* Admin question list: escape everything, then restore whitelisted <img>
+   * tags (https src only) so image questions show their images. */
+  function renderAdminQText(t) {
+    var html = esc(t);
+    return html.replace(/&lt;img\s+src=&quot;(https?:\/\/[^&\s"]+)&quot;(\s+alt=&quot;([^&]*?)&quot;)?\s*\/?&gt;/gi,
+      function (m, src, _a, alt) {
+        return '<img class="am-qimg" loading="lazy" src="' + src +
+          '" alt="' + (alt || 'Clinical exhibit') + '">';
+      });
+  }
   function toast(msg) {
     var t = $('toast'); t.textContent = msg; t.hidden = false;
     clearTimeout(t._h); t._h = setTimeout(function () { t.hidden = true; }, 3200);
@@ -270,7 +280,7 @@
           '<span class="sp"></span>' +
           '<button class="am-btn" data-act="edit">Edit</button>' +
           '<button class="am-btn am-btn-danger" data-act="del">Delete</button></div>' +
-          '<div class="qt">' + esc(q.question_text) + '</div>' +
+          '<div class="qt">' + renderAdminQText(q.question_text) + '</div>' +
           '<div class="opts">' + opts + '</div>' +
           (q.explanation ? '<div class="expl"><strong>Explanation:</strong> ' + esc(q.explanation) + '</div>' : '');
         div.querySelector('[data-act="edit"]').onclick = function () {
