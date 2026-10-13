@@ -1184,6 +1184,7 @@ html:not(.dark) .app.screen-results {
   max-width: 760px !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  padding-top: 6px !important;
   transition: none !important;
 }
 
