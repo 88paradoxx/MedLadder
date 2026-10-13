@@ -26,7 +26,10 @@
     if (m.indexOf('BAD_ANSWER') !== -1) return 'Answer must be A–E.';
     if (m.indexOf('BAD_WINDOW') !== -1) return 'End time must be after start time.';
     if (m.indexOf('TEST_NOT_FOUND') !== -1) return 'Test not found.';
-    return 'Something went wrong. Please try again.';
+    var ml = m.toLowerCase();
+    if (ml.indexOf('expired') !== -1)
+      return 'Your session expired — please sign out and sign back in, then retry.';
+    return 'Save failed: ' + (m || 'no response from server') + ' — please retry or share this message for support.';
   }
   function toLocalInput(iso) {
     var d = new Date(iso);
@@ -166,6 +169,14 @@
   function wireEditor() {
     $('backBtn').onclick = loadTests;
     $('newTestBtn').onclick = function () { openEditor(null); };
+    // Auto-fill the end time when a start time is picked (start + duration).
+    $('fStarts').addEventListener('change', function () {
+      if ($('fEnds').value) return;
+      var s = new Date($('fStarts').value).getTime();
+      if (isNaN(s)) return;
+      var dur = parseInt($('fDur').value, 10) || 180;
+      $('fEnds').value = toLocalInput(new Date(s + dur * 60000).toISOString());
+    });
     $('testForm').onsubmit = function (ev) {
       ev.preventDefault();
       var d;
