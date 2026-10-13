@@ -187,3 +187,13 @@ body {
   .mt-board-row { grid-template-columns: 40px 1fr auto; }
   .mt-board-row .sub { display: none; }
 }
+
+/* ---------- SEO content section ---------- */
+.mt-seo { max-width: 860px; margin: 48px auto 0; padding: 0 4px; color: var(--muted); }
+.mt-seo h2 { color: var(--text); font-size: 21px; margin: 30px 0 12px; }
+.mt-seo p, .mt-seo li { font-size: 15px; line-height: 1.7; }
+.mt-seo ol { padding-left: 22px; display: grid; gap: 10px; }
+.mt-seo details { background: var(--panel); border: 1px solid var(--border);
+  border-radius: 10px; padding: 13px 16px; margin-bottom: 10px; }
+.mt-seo summary { cursor: pointer; font-weight: 700; color: var(--text); font-size: 15px; }
+.mt-seo details p { margin: 10px 0 2px; }
