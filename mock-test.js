@@ -250,7 +250,7 @@
             '<button class="mt-btn mt-btn-primary" data-act="open">' + btn + '</button>' +
             ' <button class="mt-btn" data-act="share" title="Share this test">🔗</button>';
           card.querySelector('[data-act="open"]').onclick = function () {
-            location.href = '/mock-test?id=' + t.id;
+            openTest(t.id);
           };
           card.querySelector('[data-act="share"]').onclick = function () {
             shareLink(t.title,
@@ -579,6 +579,34 @@
     window.scrollTo(0, 0);
   }
 
+  /* ---------- client-side routing (no page reloads) ---------- */
+  function stopTestLoops() {
+    clearInterval(timerInt);
+    clearInterval(countdownInt);
+    window.onbeforeunload = null;
+    if (lbChannel) { sb.removeChannel(lbChannel); lbChannel = null; }
+  }
+  function route() {
+    stopTestLoops();
+    var params = new URLSearchParams(location.search);
+    var testId = params.get('id');
+    if (testId) {
+      sb.from('mock_tests').select('*').eq('id', testId).single().then(function (tr) {
+        if (tr.error || !tr.data) { toast('Mock test not found.'); loadLobby(); return; }
+        currentTest = tr.data;
+        startTestFlow(testId);
+      });
+    } else {
+      loadLobby();
+    }
+  }
+  function openTest(id) {
+    if (('' + location.search) !== ('?id=' + id)) {
+      history.pushState({}, '', '/mock-test?id=' + id);
+    }
+    route();
+  }
+
   /* ---------- init ---------- */
   function init() {
     if (!window.supabase) {
@@ -593,17 +621,8 @@
       currentUser = res.data.session ? res.data.session.user : null;
       renderAuth();
 
-      var params = new URLSearchParams(location.search);
-      var testId = params.get('id');
-      if (testId) {
-        sb.from('mock_tests').select('*').eq('id', testId).single().then(function (tr) {
-          if (tr.error || !tr.data) { toast('Mock test not found.'); loadLobby(); return; }
-          currentTest = tr.data;
-          startTestFlow(testId);
-        });
-      } else {
-        loadLobby();
-      }
+      route();
+      window.addEventListener('popstate', route);
     });
 
     sb.auth.onAuthStateChange(function (_ev, session) {

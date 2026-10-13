@@ -23,7 +23,7 @@
       '@keyframes mockPulse { 0%,100% { opacity:1; transform:scale(1); }' +
       ' 50% { opacity:.45; transform:scale(.8); } }' +
       '.mock-live-dot { display:inline-block; width:10px; height:10px; border-radius:50%;' +
-      ' background:#ef4444; animation:mockPulse 1.4s ease-in-out infinite; }';
+      ' background:#22c55e; animation:mockPulse 1.4s ease-in-out infinite;box-shadow:0 0 12px #22c55e; }';
     document.head.appendChild(st);
   }
 
@@ -39,10 +39,10 @@
       var t = state.live;
       return '<span class="mock-live-dot"></span>' +
         '<span style="flex:1;min-width:0;"><strong style="display:block;font-size:17px;">' +
-        '<span style="color:#ef4444;">LIVE NOW</span> &middot; ' + escapeHtml(t.title) + '</strong>' +
+        '<span style="color:#22c55e;">LIVE NOW</span> &middot; ' + escapeHtml(t.title) + '</strong>' +
         '<span style="opacity:.75;font-size:13px;">Ends ' + fmtDate(t.ends_at) +
         ' &middot; join before time runs out</span></span>' +
-        '<span style="font-weight:800;font-size:14px;color:#ef4444;">Join &rsaquo;</span>';
+        '<span style="font-weight:800;font-size:14px;color:#22c55e;">Join &rsaquo;</span>';
     }
     var sub;
     if (mode === 'next' && state.next) {
@@ -82,7 +82,7 @@
         'display:flex;align-items:center;gap:14px;margin:18px 0;padding:18px 20px;' +
         'border-radius:14px;text-decoration:none;color:inherit;' +
         (live
-          ? 'background:linear-gradient(135deg,rgba(239,68,68,.22),rgba(239,68,68,.05));border:1px solid #ef4444;'
+          ? 'background:linear-gradient(135deg,rgba(34,197,94,.22),rgba(34,197,94,.06));border:1px solid #22c55e;box-shadow:0 0 24px rgba(34,197,94,.25);'
           : 'background:linear-gradient(135deg,rgba(123,47,247,.20),rgba(123,47,247,.05));border:1px solid #7b2ff7;'));
       el.innerHTML = bannerHtml(mode, state);
     }
