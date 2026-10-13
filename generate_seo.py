@@ -368,6 +368,7 @@ def main():
     sitemap_entries = [
         {"loc": f"{SITE_URL}/", "priority": "1.0", "changefreq": "daily"},
         {"loc": f"{SITE_URL}/landing", "priority": "0.9", "changefreq": "weekly"},
+        {"loc": f"{SITE_URL}/mock-test", "priority": "0.9", "changefreq": "weekly"},
         {"loc": f"{SITE_URL}/privacy", "priority": "0.5", "changefreq": "monthly"},
         {"loc": f"{SITE_URL}/terms", "priority": "0.5", "changefreq": "monthly"}
     ]
