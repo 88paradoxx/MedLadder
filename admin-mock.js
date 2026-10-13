@@ -169,14 +169,25 @@
   function wireEditor() {
     $('backBtn').onclick = loadTests;
     $('newTestBtn').onclick = function () { openEditor(null); };
-    // Auto-fill the end time when a start time is picked (start + duration).
+    // Auto-fill the end time when a start time is picked (start + duration),
+    // and always derive the duration from the start/end window.
+    function syncDuration() {
+      var s = new Date($('fStarts').value).getTime();
+      var e = new Date($('fEnds').value).getTime();
+      if (isNaN(s) || isNaN(e) || e <= s) return;
+      $('fDur').value = Math.round((e - s) / 60000);
+    }
     $('fStarts').addEventListener('change', function () {
-      if ($('fEnds').value) return;
       var s = new Date($('fStarts').value).getTime();
       if (isNaN(s)) return;
-      var dur = parseInt($('fDur').value, 10) || 180;
-      $('fEnds').value = toLocalInput(new Date(s + dur * 60000).toISOString());
+      if (!$('fEnds').value) {
+        var dur = parseInt($('fDur').value, 10) || 180;
+        $('fEnds').value = toLocalInput(new Date(s + dur * 60000).toISOString());
+      } else {
+        syncDuration();
+      }
     });
+    $('fEnds').addEventListener('change', syncDuration);
     $('testForm').onsubmit = function (ev) {
       ev.preventDefault();
       var d;
@@ -195,10 +206,27 @@
           if (r.error) toast(rpcErr(r.error)); else toast('Test saved.');
         });
       } else {
-        sb.rpc('admin_create_test', d).then(function (r) {
+        // admin_create_test has no p_status param (always creates a draft):
+        // create first, then apply the chosen status via admin_update_test.
+        var createData = {};
+        Object.keys(d).forEach(function (k) { if (k !== 'p_status') createData[k] = d[k]; });
+        sb.rpc('admin_create_test', createData).then(function (r) {
           if (r.error) { toast(rpcErr(r.error)); return; }
-          toast('Test created. Now add questions.');
-          openEditor(r.data.id);
+          var newId = r.data.id;
+          var afterCreate = function () {
+            toast('Test created. Now add questions.');
+            openEditor(newId);
+          };
+          if (d.p_status && d.p_status !== 'draft') {
+            var upd = { p_test_id: newId };
+            Object.keys(d).forEach(function (k) { upd[k] = d[k]; });
+            sb.rpc('admin_update_test', upd).then(function (u) {
+              if (u.error) toast(rpcErr(u.error) + ' (status not applied — test saved as draft)');
+              afterCreate();
+            });
+          } else {
+            afterCreate();
+          }
         });
       }
     };
