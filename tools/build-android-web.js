@@ -14,7 +14,10 @@ fs.mkdirSync(webDir, { recursive: true });
 const files = [
   'index.html', 'app.css', 'quiz-pro.css', 'app.js', 'syllabus.js',
   'gtag-init.js', 'analytics-loader.js', 'theme-init.js', 'manifest.json', 'favicon.ico',
-  'privacy.html', 'terms.html'
+  'privacy.html', 'terms.html',
+  // Mock-test feature (user + admin)
+  'mock-test.html', 'mock-test.css', 'mock-test.js', 'mock-banner.js',
+  'admin-mock.html', 'admin-mock.css', 'admin-mock.js'
 ];
 const directories = ['assets', 'icons'];
 
@@ -56,8 +59,8 @@ appHtml = appHtml.replace(
 );
 fs.writeFileSync(appHtmlPath, appHtml);
 
-// The static host rewrites these clean policy URLs; mirror that for Android's local asset server.
-for (const route of ['privacy', 'terms']) {
+// The static host rewrites these clean URLs; mirror that for Android's local asset server.
+for (const route of ['privacy', 'terms', 'mock-test', 'admin-mock']) {
   const routeDir = path.join(webDir, route);
   fs.mkdirSync(routeDir, { recursive: true });
   fs.copyFileSync(path.join(root, `${route}.html`), path.join(routeDir, 'index.html'));
