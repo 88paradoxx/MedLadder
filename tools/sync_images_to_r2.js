@@ -19,15 +19,15 @@ const http = require('http');
 const https = require('https');
 
 const SUPABASE_BASE = 'https://groeibwykzrliphzzruk.supabase.co';
-const SUPABASE_KEY = (process.env.SUPABASE_SERVICE_ROLE_KEY && process.env.SUPABASE_SERVICE_ROLE_KEY.startsWith('eyJ')) 
-  ? process.env.SUPABASE_SERVICE_ROLE_KEY 
-  : 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdyb2VpYnd5a3pybGlwaHp6cnVrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4ODYyNTM1MSwiZXhwIjoyMTA0MjAxMzUxfQ.tyyOb-4oaUcirocXJvUueyh0xnhrEQd-yGn0NdT9rug';
+const SUPABASE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY || '';
+if (!SUPABASE_KEY) throw new Error('Set SUPABASE_SERVICE_ROLE_KEY in the environment (never hardcode it).');
 const BUCKET_NAME = 'question-images';
 
 const R2_BUCKET = 'medladder-images';
-const R2_ENDPOINT = 'https://854ae1925107f3e63f0df9a168b60203.r2.cloudflarestorage.com';
-const R2_ACCESS_KEY = '2e7b97892a73bd8b487fe9f622c7acd9';
-const R2_SECRET_KEY = '61cfa182dddbc80dfa194cf0ea64afe11f8c5cf0da59b054fc0d37148879756a';
+const R2_ENDPOINT = process.env.R2_ENDPOINT || '';
+const R2_ACCESS_KEY = process.env.R2_ACCESS_KEY_ID || '';
+const R2_SECRET_KEY = process.env.R2_SECRET_ACCESS_KEY || '';
+if (!R2_ENDPOINT || !R2_ACCESS_KEY || !R2_SECRET_KEY) throw new Error('Set R2_ENDPOINT, R2_ACCESS_KEY_ID and R2_SECRET_ACCESS_KEY in the environment (never hardcode them).');
 
 const s3 = new S3Client({
   region: 'auto',
