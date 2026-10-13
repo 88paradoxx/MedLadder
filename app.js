@@ -4613,6 +4613,14 @@ window.addEventListener('error', function (ev) {
 
       function handleSeoRoute() {
         var path = window.location.pathname.replace(/\/$/, '').toLowerCase();
+        if (path === '/mock-test' || path === '/mock-test.html') {
+          window.location.replace('/mock-test.html' + (window.location.search || ''));
+          return;
+        }
+        if (path === '/admin-mock' || path === '/admin-mock.html') {
+          window.location.replace('/admin-mock.html' + (window.location.search || ''));
+          return;
+        }
         var exams = {
           '/neet-pg': { name: 'NEET PG', pyqId: 'NEET PG' },
           '/inicet': { name: 'INI-CET', pyqId: 'INICET' },

@@ -72,7 +72,11 @@
     if (!el) {
       el = document.createElement('a');
       el.id = BANNER_ID;
-      el.href = '/mock-test';
+      el.href = '/mock-test.html';
+      el.onclick = function (e) {
+        e.preventDefault();
+        window.location.href = '/mock-test.html';
+      };
       section.parentNode.insertBefore(el, section);
     }
     if (mode !== lastMode || !el.innerHTML) {
@@ -80,7 +84,7 @@
       var live = mode === 'live';
       el.setAttribute('style',
         'display:flex;align-items:center;gap:14px;margin:18px 0;padding:18px 20px;' +
-        'border-radius:14px;text-decoration:none;color:inherit;' +
+        'border-radius:14px;text-decoration:none;color:inherit;cursor:pointer;' +
         (live
           ? 'background:linear-gradient(135deg,rgba(34,197,94,.22),rgba(34,197,94,.06));border:1px solid #22c55e;box-shadow:0 0 24px rgba(34,197,94,.25);'
           : 'background:linear-gradient(135deg,rgba(123,47,247,.20),rgba(123,47,247,.05));border:1px solid #7b2ff7;'));
@@ -107,7 +111,7 @@
     if (!body) return;
     var a = document.createElement('a');
     a.id = ADMIN_LINK_ID;
-    a.href = '/admin-mock';
+    a.href = '/admin-mock.html';
     a.setAttribute('style', 'display:flex;align-items:center;gap:10px;margin:0 0 14px;padding:12px 16px;border-radius:10px;background:rgba(123,47,247,.12);border:1px solid #7b2ff7;text-decoration:none;color:inherit;font-weight:700;font-size:14px;');
     a.innerHTML =
       '<span style="font-size:18px;">&#127942;</span>' +

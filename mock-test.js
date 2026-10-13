@@ -632,7 +632,7 @@
   }
   function openTest(id) {
     if (('' + location.search) !== ('?id=' + id)) {
-      history.pushState({}, '', '/mock-test?id=' + id);
+      history.pushState({}, '', (location.pathname || '/mock-test.html') + '?id=' + id);
     }
     route();
   }
