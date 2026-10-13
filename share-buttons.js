@@ -20,7 +20,8 @@
       '.ml-share-btn:hover{background:rgba(123,47,247,.22)}' +
       '.ml-share-toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);' +
       'background:#1b1b29;color:#f2f2f7;border:1px solid #7b2ff7;padding:11px 20px;' +
-      'border-radius:12px;z-index:99999;font-size:14px;font-family:system-ui,sans-serif}';
+      'border-radius:12px;z-index:99999;font-size:14px;font-family:system-ui,sans-serif}' +
+      '.ml-share-home{margin:2px auto 18px;display:flex;font-size:14px;padding:10px 22px}';
     document.head.appendChild(st);
   }
 
@@ -107,9 +108,39 @@
     actions.appendChild(btn);
   }
 
+  /* ---- 3. homepage: "Share MedLadder" button under the mock banner ---- */
+  function injectHomeShare() {
+    if (window.location.pathname !== '/') return;
+    if (document.getElementById('mlShareHome')) return;
+    var anchor = document.getElementById('mockTestBanner');
+    var parent = null, ref = null;
+    if (anchor && anchor.parentNode) {
+      parent = anchor.parentNode;
+      ref = anchor.nextSibling;
+    } else {
+      var h1 = document.querySelector('h1.title');
+      if (!h1 || !h1.parentNode) return;
+      parent = h1.parentNode;
+      ref = h1.nextSibling;
+    }
+    ensureStyle();
+    var btn = document.createElement('button');
+    btn.id = 'mlShareHome';
+    btn.type = 'button';
+    btn.className = 'ml-share-btn ml-share-home';
+    btn.innerHTML = '&#128279; Share MedLadder';
+    btn.addEventListener('click', function () {
+      share('MedLadder — Your Medical Learning Companion',
+        'MedLadder: medical MCQs, 19 subjects, free All-India mock tests. Learn • Practice • Grow.',
+        'https://medladder.top/');
+    });
+    parent.insertBefore(btn, ref);
+  }
+
   function injectAll() {
     injectTitleShare();
     injectResultShare();
+    injectHomeShare();
   }
 
   function init() {
