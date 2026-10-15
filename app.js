@@ -831,6 +831,12 @@ window.addEventListener('error', function (ev) {
             email: currentUser.email || '',
             contact: ''
           },
+          method: {
+            upi: true,
+            card: true,
+            netbanking: true,
+            wallet: true
+          },
           notes: {
             user_id: currentUser.id,
             plan_id: plan.id,

@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.webkit.DownloadListener;
 import android.webkit.WebResourceRequest;
+import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.widget.Toast;
 import com.getcapacitor.BridgeActivity;
@@ -33,25 +34,38 @@ public class MainActivity extends BridgeActivity {
     public void onStart() {
         super.onStart();
         setupDownloadBridge();
+        setupUpiIntentHandler();
     }
 
     @Override
     public void onResume() {
         super.onResume();
         setupDownloadBridge();
+        setupUpiIntentHandler();
     }
 
     /**
      * Lets Razorpay's UPI flow work inside the app's WebView.
      *
-     * Razorpay opens the user's UPI app (GPay/PhonePe/Paytm) via intent:// URLs.
-     * A stock WebView drops those silently, so Razorpay hides the UPI option.
-     * This client forwards intent:// and upi:// URLs to Android's intent system
-     * while delegating everything else to Capacitor's default handling.
+     * 1. Strips '; wv' and 'Version/X.X' so Razorpay detects standard Chrome on Android
+     *    and renders the UPI payment methods instead of suppressing them.
+     * 2. Catches upi://, intent://, tez://, phonepe://, paytmmp://, etc. and dispatches
+     *    them to installed UPI apps via Android's Intent system.
      */
     private void setupUpiIntentHandler() {
         try {
             if (getBridge() == null || getBridge().getWebView() == null) return;
+
+            // Strip WebView markers from User-Agent so Razorpay unlocks UPI Intent
+            WebSettings settings = getBridge().getWebView().getSettings();
+            if (settings != null) {
+                String ua = settings.getUserAgentString();
+                if (ua != null && (ua.contains("; wv") || ua.contains("Version/"))) {
+                    String cleanUa = ua.replace("; wv", "").replaceAll("Version/\\d+\\.\\d+\\s*", "");
+                    settings.setUserAgentString(cleanUa);
+                }
+            }
+
             getBridge().getWebView().setWebViewClient(new BridgeWebViewClient(getBridge()) {
                 @Override
                 public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
@@ -68,18 +82,47 @@ public class MainActivity extends BridgeActivity {
 
                 private boolean handleUpiIntent(WebView view, String url) {
                     if (url == null) return false;
-                    if (!url.startsWith("intent://") && !url.startsWith("upi://")) return false;
-                    try {
-                        Intent intent = Intent.parseUri(url, Intent.URI_INTENT_SCHEME);
-                        intent.addCategory(Intent.CATEGORY_BROWSABLE);
-                        intent.setComponent(null);
-                        intent.setSelector(null);
-                        view.getContext().startActivity(intent);
-                        return true;
-                    } catch (Exception e) {
-                        // No UPI app available — let the WebView/Razorpay fall back gracefully.
-                        return false;
+
+                    // 1. Direct UPI / wallet schemes
+                    if (url.startsWith("upi://") || url.startsWith("tez://") || url.startsWith("phonepe://")
+                            || url.startsWith("paytmmp://") || url.startsWith("credpay://") || url.startsWith("bhim://")) {
+                        try {
+                            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+                            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                            view.getContext().startActivity(intent);
+                            return true;
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                            return false;
+                        }
                     }
+
+                    // 2. Android intent:// scheme (used by Razorpay for UPI apps)
+                    if (url.startsWith("intent://")) {
+                        try {
+                            Intent intent = Intent.parseUri(url, Intent.URI_INTENT_SCHEME);
+                            intent.addCategory(Intent.CATEGORY_BROWSABLE);
+                            intent.setComponent(null);
+                            intent.setSelector(null);
+                            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+
+                            if (view.getContext().getPackageManager().resolveActivity(intent, 0) != null) {
+                                view.getContext().startActivity(intent);
+                                return true;
+                            }
+
+                            String fallbackUrl = intent.getStringExtra("browser_fallback_url");
+                            if (fallbackUrl != null && !fallbackUrl.isEmpty()) {
+                                view.loadUrl(fallbackUrl);
+                                return true;
+                            }
+                            return false;
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                            return false;
+                        }
+                    }
+                    return false;
                 }
             });
         } catch (Exception e) {
