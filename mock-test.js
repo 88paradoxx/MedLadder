@@ -153,25 +153,73 @@
     return out;
   }
 
-  /* ---------- auth ---------- */
+  /* ---------- auth (same pill as the index page) ---------- */
+  function userInitials(u) {
+    var meta = u.user_metadata || {};
+    var name = String(meta.full_name || meta.name || '').trim();
+    var parts = name.split(/\s+/).filter(Boolean);
+    if (parts.length >= 2) return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
+    if (parts.length === 1 && parts[0].length >= 2) return parts[0].slice(0, 2).toUpperCase();
+    return (u.email || 'U').slice(0, 2).toUpperCase();
+  }
+  function userDisplayName(u) {
+    var meta = u.user_metadata || {};
+    var name = String(meta.full_name || meta.name || '').trim();
+    if (name) return name;
+    return (u.email || 'User').split('@')[0];
+  }
+  function doGoogleSignIn() {
+    sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.href } });
+  }
+  function closeAuthDropdown(ev) {
+    var dd = $('authDropdown'), btn = $('authUserBtn'), wrap = $('userMenuWrap');
+    if (dd && !dd.classList.contains('hidden') && (!ev || !wrap || !wrap.contains(ev.target))) {
+      dd.classList.add('hidden');
+      if (btn) { btn.classList.remove('open'); btn.setAttribute('aria-expanded', 'false'); }
+    }
+  }
   function renderAuth() {
     var area = $('authArea');
     if (currentUser) {
-      var name = esc(currentUser.email || 'Signed in');
-      area.innerHTML = '<span>' + name + '</span>' +
-        '<button class="mt-btn" id="signOutBtn">Sign out</button>';
-      $('signOutBtn').onclick = function () {
+      var initials = esc(userInitials(currentUser));
+      var name = esc(userDisplayName(currentUser));
+      var email = esc(currentUser.email || '');
+      area.innerHTML =
+        '<div class="user-menu-wrap" id="userMenuWrap">' +
+        '<button class="auth-user-btn" id="authUserBtn" aria-label="Account menu" aria-expanded="false">' +
+        '<span class="auth-avatar">' + initials + '</span>' +
+        '<span class="auth-user-name">' + name + '</span>' +
+        '<span class="auth-caret">\u25BE</span>' +
+        '</button>' +
+        '<div class="auth-dropdown hidden" id="authDropdown">' +
+        '<div class="dropdown-header">' +
+        '<div class="dropdown-avatar">' + initials + '</div>' +
+        '<div class="dropdown-details">' +
+        '<div class="dropdown-name">' + name + '</div>' +
+        '<div class="dropdown-email">' + email + '</div>' +
+        '</div></div>' +
+        '<div class="dropdown-divider"></div>' +
+        '<button class="dropdown-action-btn" id="authSignOutBtn">Sign Out</button>' +
+        '</div></div>';
+      var btn = $('authUserBtn'), dd = $('authDropdown');
+      btn.onclick = function (ev) {
+        ev.stopPropagation();
+        var isHidden = dd.classList.toggle('hidden');
+        btn.classList.toggle('open', !isHidden);
+        btn.setAttribute('aria-expanded', String(!isHidden));
+      };
+      document.removeEventListener('click', closeAuthDropdown);
+      document.addEventListener('click', closeAuthDropdown);
+      $('authSignOutBtn').onclick = function () {
         sb.auth.signOut().then(function () { location.reload(); });
       };
     } else {
       area.innerHTML =
-        '<button class="mt-btn mt-btn-primary" type="button" id="googleBtn">Sign in with Google</button>';
-      $('googleBtn').onclick = function () {
-        sb.auth.signInWithOAuth({
-          provider: 'google',
-          options: { redirectTo: location.href }
-        });
-      };
+        '<button class="auth-btn" id="authTriggerBtn" title="Sign in">' +
+        '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>' +
+        '<span>Sign In</span>' +
+        '</button>';
+      $('authTriggerBtn').onclick = doGoogleSignIn;
     }
   }
 
@@ -279,7 +327,41 @@
           list.appendChild(card);
         });
         tickCountdowns(tests);
+        loadMyResults();
       });
+  }
+  /* Past submitted attempts — review questions, answers and explanations any time. */
+  function loadMyResults() {
+    var box = $('myResults');
+    box.innerHTML = '';
+    if (!currentUser) return;
+    sb.rpc('get_my_mock_attempts', { p_limit: 20 }).then(function (res) {
+      if (res.error || !(res.data && res.data.length)) return;
+      var html = '<h2>My Past Results</h2>';
+      (res.data || []).forEach(function (a) {
+        html += '<div class="mt-result-row" data-aid="' + a.attempt_id + '" data-tid="' + a.mock_test_id + '">' +
+          '<div><div class="rr-title">' + esc(a.test_title) + '</div>' +
+          '<div class="rr-sub">' + esc(a.exam || '') + ' \u00B7 ' +
+          new Date(a.submitted_at).toLocaleDateString() + '</div></div>' +
+          '<div class="rr-score"><div class="rr-rank">#' + a.rank + '</div>' +
+          '<div class="rr-pts">' + a.score + ' pts</div></div>' +
+          '</div>';
+      });
+      box.innerHTML = html;
+      Array.prototype.forEach.call(box.querySelectorAll('.mt-result-row'), function (row) {
+        row.onclick = function () { openPastAttempt(row.dataset.aid, row.dataset.tid); };
+      });
+    });
+  }
+  function openPastAttempt(aid, tid) {
+    sb.from('mock_tests').select('*').eq('id', tid).single().then(function (tr) {
+      if (tr.error || !tr.data) { toast('Mock test not found.'); return; }
+      currentTest = tr.data;
+      attemptId = aid;
+      questions = []; answers = {}; marked = {}; currentIdx = 0;
+      if (lbChannel) { sb.removeChannel(lbChannel); lbChannel = null; }
+      showResultView();
+    });
   }
   var countdownInt = null;
   function tickCountdowns(tests) {
@@ -557,9 +639,7 @@
     if (!currentUser) {
       box.innerHTML = '<div class="mt-board-empty">Sign in to view the final leaderboard.<br><br>' +
         '<button class="mt-btn mt-btn-primary" id="endedGoogleBtn">Sign in with Google</button></div>';
-      $('endedGoogleBtn').onclick = function () {
-        sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.href } });
-      };
+      $('endedGoogleBtn').onclick = doGoogleSignIn;
       return;
     }
     box.innerHTML = '<div class="mt-board-empty">Loading final leaderboard…</div>';
