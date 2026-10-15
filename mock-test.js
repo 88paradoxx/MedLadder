@@ -165,22 +165,7 @@
       };
     } else {
       area.innerHTML =
-        '<form class="mt-auth-form" id="authForm">' +
-        '<input type="email" id="authEmail" placeholder="Email for magic link" required>' +
-        '<button class="mt-btn" type="submit">Sign in</button>' +
-        '<button class="mt-btn" type="button" id="googleBtn">Google</button>' +
-        '</form>';
-      $('authForm').onsubmit = function (ev) {
-        ev.preventDefault();
-        var email = $('authEmail').value.trim();
-        sb.auth.signInWithOtp({
-          email: email,
-          options: { emailRedirectTo: location.href }
-        }).then(function (res) {
-          if (res.error) toast(res.error.message);
-          else toast('Check your email for the sign-in link.');
-        });
-      };
+        '<button class="mt-btn mt-btn-primary" type="button" id="googleBtn">Sign in with Google</button>';
       $('googleBtn').onclick = function () {
         sb.auth.signInWithOAuth({
           provider: 'google',
@@ -276,6 +261,10 @@
               var d = card.querySelector('.mt-test-details');
               d.hidden = !expandedDetails[t.id];
               openBtn.textContent = expandedDetails[t.id] ? 'Hide details' : 'View details';
+            };
+          } else if (phase === 'ended') {
+            openBtn.onclick = function () {
+              openEndedTest(t.id);
             };
           } else {
             openBtn.onclick = function () {
@@ -525,9 +514,14 @@
   }
 
   function renderBoard(rows) {
-    var box = $('leaderboard');
+    renderBoardInto(rows, $('leaderboard'));
+    var live = testPhase(currentTest) === 'live';
+    $('liveDot').hidden = !live;
+  }
+  function renderBoardInto(rows, box, emptyMsg) {
     if (!rows.length) {
-      box.innerHTML = '<div class="mt-board-empty">No submissions yet — be the first on the board!</div>';
+      box.innerHTML = '<div class="mt-board-empty">' +
+        esc(emptyMsg || 'No submissions yet — be the first on the board!') + '</div>';
       return;
     }
     var html = '';
@@ -541,8 +535,39 @@
         '</div>';
     });
     box.innerHTML = html;
-    var live = testPhase(currentTest) === 'live';
-    $('liveDot').hidden = !live;
+  }
+
+  /* ---------- ended test: final leaderboard (no attempt needed) ---------- */
+  function openEndedTest(id) {
+    if (('' + location.search) !== ('?id=' + id)) {
+      history.pushState({}, '', (location.pathname || '/mock-test.html') + '?id=' + id);
+    }
+    route();
+  }
+  function showEndedView(t) {
+    currentTest = t;
+    showView('endedView');
+    $('endedTitle').textContent = t.title;
+    $('endedMeta').textContent = t.exam + ' · ' + t.total_questions + ' questions · ' +
+      'Ended ' + new Date(t.ends_at).toLocaleString();
+    loadEndedLeaderboard();
+  }
+  function loadEndedLeaderboard() {
+    var box = $('endedLeaderboard');
+    if (!currentUser) {
+      box.innerHTML = '<div class="mt-board-empty">Sign in to view the final leaderboard.<br><br>' +
+        '<button class="mt-btn mt-btn-primary" id="endedGoogleBtn">Sign in with Google</button></div>';
+      $('endedGoogleBtn').onclick = function () {
+        sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.href } });
+      };
+      return;
+    }
+    box.innerHTML = '<div class="mt-board-empty">Loading final leaderboard…</div>';
+    sb.rpc('get_leaderboard', { p_mock_test_id: currentTest.id, p_limit: 100 })
+      .then(function (res) {
+        if (res.error) { box.innerHTML = '<div class="mt-board-empty">Could not load.</div>'; return; }
+        renderBoardInto(res.data || [], box, 'No submissions were recorded for this test.');
+      });
   }
 
   function subscribeBoard() {
@@ -599,7 +624,7 @@
 
   /* ---------- view switching ---------- */
   function showView(id) {
-    ['lobbyView', 'testView', 'resultView'].forEach(function (v) {
+    ['lobbyView', 'testView', 'resultView', 'endedView'].forEach(function (v) {
       $(v).hidden = v !== id;
     });
     if (id !== 'resultView' && lbChannel) {
@@ -624,6 +649,7 @@
       sb.from('mock_tests').select('*').eq('id', testId).single().then(function (tr) {
         if (tr.error || !tr.data) { toast('Mock test not found.'); loadLobby(); return; }
         currentTest = tr.data;
+        if (testPhase(currentTest) === 'ended') { showEndedView(currentTest); return; }
         startTestFlow(testId);
       });
     } else {
