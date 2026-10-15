@@ -2,12 +2,16 @@ package com.medladder.app;
 
 import android.app.DownloadManager;
 import android.content.Context;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.webkit.DownloadListener;
+import android.webkit.WebResourceRequest;
+import android.webkit.WebView;
 import android.widget.Toast;
 import com.getcapacitor.BridgeActivity;
+import com.getcapacitor.BridgeWebViewClient;
 
 public class MainActivity extends BridgeActivity {
 
@@ -22,6 +26,7 @@ public class MainActivity extends BridgeActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setupDownloadBridge();
+        setupUpiIntentHandler();
     }
 
     @Override
@@ -34,6 +39,52 @@ public class MainActivity extends BridgeActivity {
     public void onResume() {
         super.onResume();
         setupDownloadBridge();
+    }
+
+    /**
+     * Lets Razorpay's UPI flow work inside the app's WebView.
+     *
+     * Razorpay opens the user's UPI app (GPay/PhonePe/Paytm) via intent:// URLs.
+     * A stock WebView drops those silently, so Razorpay hides the UPI option.
+     * This client forwards intent:// and upi:// URLs to Android's intent system
+     * while delegating everything else to Capacitor's default handling.
+     */
+    private void setupUpiIntentHandler() {
+        try {
+            if (getBridge() == null || getBridge().getWebView() == null) return;
+            getBridge().getWebView().setWebViewClient(new BridgeWebViewClient(getBridge()) {
+                @Override
+                public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
+                    return handleUpiIntent(view, request.getUrl().toString())
+                            || super.shouldOverrideUrlLoading(view, request);
+                }
+
+                @Override
+                @SuppressWarnings("deprecation")
+                public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                    return handleUpiIntent(view, url)
+                            || super.shouldOverrideUrlLoading(view, url);
+                }
+
+                private boolean handleUpiIntent(WebView view, String url) {
+                    if (url == null) return false;
+                    if (!url.startsWith("intent://") && !url.startsWith("upi://")) return false;
+                    try {
+                        Intent intent = Intent.parseUri(url, Intent.URI_INTENT_SCHEME);
+                        intent.addCategory(Intent.CATEGORY_BROWSABLE);
+                        intent.setComponent(null);
+                        intent.setSelector(null);
+                        view.getContext().startActivity(intent);
+                        return true;
+                    } catch (Exception e) {
+                        // No UPI app available — let the WebView/Razorpay fall back gracefully.
+                        return false;
+                    }
+                }
+            });
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     private void setupDownloadBridge() {
@@ -70,9 +121,8 @@ public class MainActivity extends BridgeActivity {
                 dm.enqueue(request);
                 Toast.makeText(getApplicationContext(), "📥 Downloading " + filename + " in background...", Toast.LENGTH_LONG).show();
             }
-        } catch (Exception ex) {
+        } catch (ex) {
             Toast.makeText(getApplicationContext(), "Download error: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
         }
     }
 }
-
