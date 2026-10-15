@@ -121,7 +121,7 @@ public class MainActivity extends BridgeActivity {
                 dm.enqueue(request);
                 Toast.makeText(getApplicationContext(), "📥 Downloading " + filename + " in background...", Toast.LENGTH_LONG).show();
             }
-        } catch (ex) {
+        } catch (Exception ex) {
             Toast.makeText(getApplicationContext(), "Download error: " + ex.getMessage(), Toast.LENGTH_SHORT).show();
         }
     }
