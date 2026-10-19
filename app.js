@@ -4401,15 +4401,13 @@ window.addEventListener('error', function (ev) {
       }
 
       function goSubjectFromSeo(subject) {
-        var path = '/subjects/' + slugifySeo(subject.name);
-        history.pushState({}, '', path);
-        renderSeoLanding('subject', subject);
+        // Full page load so the pre-rendered (current) SEO page is served, not the JS fallback template.
+        window.location.assign('/subjects/' + slugifySeo(subject.name));
       }
 
       function goTopicFromSeo(subject, module) {
-        var path = '/subjects/' + slugifySeo(subject.name) + '/' + slugifySeo(module.name);
-        history.pushState({}, '', path);
-        renderSeoLanding('topic', { subject: subject, module: module });
+        // Full page load so the pre-rendered (current) SEO page is served, not the JS fallback template.
+        window.location.assign('/subjects/' + slugifySeo(subject.name) + '/' + slugifySeo(module.name));
       }
 
       function topicPath(subject, module) {
@@ -4536,17 +4534,7 @@ window.addEventListener('error', function (ev) {
 
         document.getElementById('seoHomeTop').addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
         document.getElementById('seoHomeBottom').addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
-        var crumb = document.getElementById('seoSubjectCrumb');
-        if (crumb) crumb.addEventListener('click', function(e){ e.preventDefault(); goSubjectFromSeo(subj); });
-
-        app.querySelectorAll('a[href^="/subjects/"]').forEach(function(a){
-          if (a.id === 'seoSubjectCrumb') return;
-          a.addEventListener('click', function(e){
-            var href = a.getAttribute('href');
-            var found = resolveSeoPath(href);
-            if (found) { e.preventDefault(); if (found.type === 'subject') goSubjectFromSeo(found.item); else goTopicFromSeo(found.subject, found.module); }
-          });
-        });
+        // /subjects/* links are left as normal links: the browser loads the pre-rendered page.
 
         document.getElementById('seoStartBtn').onclick = function () {
           if (topic) {
@@ -4573,9 +4561,6 @@ window.addEventListener('error', function (ev) {
         if (topHome) topHome.addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
         var bottomHome = document.getElementById('seoHomeBottom');
         if (bottomHome) bottomHome.addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
-        var crumb = document.getElementById('seoSubjectCrumb');
-        if (crumb && subj) crumb.addEventListener('click', function(e){ e.preventDefault(); goSubjectFromSeo(subj); });
-
         var startBtn = document.getElementById('seoStartBtn');
         if (startBtn) {
           startBtn.onclick = function () {
@@ -4589,18 +4574,7 @@ window.addEventListener('error', function (ev) {
           };
         }
 
-        app.querySelectorAll('a[href^="/subjects/"]').forEach(function(a){
-          if (a.id === 'seoSubjectCrumb') return;
-          a.addEventListener('click', function(e){
-            var href = a.getAttribute('href');
-            var found = resolveSeoPath(href);
-            if (found) {
-              e.preventDefault();
-              if (found.type === 'subject') goSubjectFromSeo(found.item);
-              else goTopicFromSeo(found.subject, found.module);
-            }
-          });
-        });
+        // /subjects/* links (breadcrumb, related topics) are normal links: full load of the pre-rendered page.
       }
 
       function resolveSeoPath(path) {
@@ -4686,7 +4660,13 @@ window.addEventListener('error', function (ev) {
         }
       }
 
-      window.addEventListener('popstate', handleSeoRoute);
+      window.addEventListener('popstate', function () {
+        var p = window.location.pathname.replace(/\/$/, '').toLowerCase();
+        var isSeoUrl = p.indexOf('/subjects/') === 0 || ['/neet-pg', '/inicet', '/ini-cet', '/fmge', '/neet-ss'].indexOf(p) !== -1;
+        // The DOM may have been replaced by renderHome()/quiz screens; reload so the current pre-rendered page is shown.
+        if (isSeoUrl && !document.getElementById('seoStartBtn')) { window.location.reload(); return; }
+        handleSeoRoute();
+      });
       handleSeoRoute();
       document.documentElement.classList.add('app-ready');
       initAuth();
