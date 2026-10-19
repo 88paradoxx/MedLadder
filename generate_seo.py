@@ -133,13 +133,13 @@ def footer_html():
         '    </footer>'
     )
 
-def exam_links_html(heading_id="examHubs"):
+def exam_links_html(heading_id="examHubs", extra_cards=""):
     links = "".join(
         f'<a href="/{slug}" class="seo-card">'
         f'<strong>{esc(name)} Question Bank</strong>'
         f'<small>Topic-wise MCQs and previous-year questions</small></a>'
         for slug, name in EXAM_HUBS
-    )
+    ) + extra_cards
     return (f'<section aria-labelledby="{heading_id}" style="margin-top:34px;">'
             f'<h2 id="{heading_id}" class="seo-section-title">Prepare for your exam</h2>'
             f'<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;">{links}</div>'
@@ -194,6 +194,128 @@ def fit_desc(text, limit=158):
     if len(text) <= limit:
         return text
     return text[:limit - 1].rsplit(" ", 1)[0].rstrip(",;:-– ") + "…"
+
+# --- SEO upgrade: key-phrase derivation, cross-subject links, money pages ----
+SEO_YEAR = "2026"  # freshness signal used in titles/descriptions
+
+# Title/description patterns — grounded in 38-search ranking-title research:
+# Dominant: "[Topic] MCQs for NEET PG" (EduRev/PrepLadder rank #1 everywhere);
+# "with Answers/Solutions" near-universal; "Important"/"High-Yield" beat
+# "practice questions" in Indian results; year suffix signals freshness.
+# {topic}, {n}, {subject}, {phrases}, {year} are substituted per page.
+SEO_TITLE_PATTERN = "{topic} MCQs with Answers for NEET PG {year}"
+SEO_TITLE_FALLBACK = "{topic} MCQs for NEET PG {year}"
+# Three rotated description templates (deterministic md5 pick, stable across runs)
+# so the boilerplate itself varies across pages, not just the substituted phrases.
+SEO_DESC_PATTERNS = [
+    ("{topic} MCQs: practice {n} high-yield questions on {phrases} for NEET PG, FMGE, "
+     "INI-CET & NEET SS — each with detailed explanations on MedLadder."),
+    ("Practice {n} {topic} MCQs covering {phrases} — NEET PG, FMGE, INI-CET & "
+     "NEET SS preparation with detailed answer explanations on MedLadder."),
+    ("{topic} important questions: {n} MCQs on {phrases} with answers & "
+     "explanations for NEET PG, FMGE, INI-CET, NEET SS — on MedLadder."),
+]
+
+_GENERIC_PHRASES = {"treatment", "basics", "general", "overview", "introduction",
+                    "part", "approach", "evaluation", "miscellaneous", "mixed",
+                    "disorders", "disorder", "diseases", "disease"}
+
+def topic_key_phrases(mod_name, section_name, max_phrases=4, subj_name=""):
+    """Derive 2-4 distinctive key phrases from the topic's own data (name + section)."""
+    phrases, seen = [], set()
+    for p in re.split(r'\s*(?:,|&|\band\b|\bof\b|\bin\b| – | — | - | / |\bvs\.?\b|\bversus\b)\s*',
+                      mod_name, flags=re.I):
+        p = p.strip(' -–—').strip()
+        # strip leading articles/generic adjectives: "General Anatomy of Thorax" -> "Anatomy", "Thorax"
+        p = re.sub(r'^(the|a|general|important|basic|basics|clinical)\s+', '', p, flags=re.I).strip()
+        pl = p.lower()
+        if p and pl not in seen and pl not in _GENERIC_PHRASES and len(p) >= 3:
+            phrases.append(p)
+            seen.add(pl)
+    sec = (section_name or '').strip()
+    if sec and sec.lower() not in seen and sec.lower() not in mod_name.lower():
+        phrases.append(sec)
+        seen.add(sec.lower())
+    # thin-topic fallback: never echo the bare topic name alone — add subject context
+    if len(phrases) <= 1 and subj_name and subj_name.lower() not in seen:
+        phrases.append(subj_name)
+        seen.add(subj_name.lower())
+    # drop a phrase that merely echoes the full topic name when other phrases exist
+    ml = mod_name.lower()
+    if len(phrases) > 1:
+        phrases = [p for p in phrases if p.lower() != ml] or phrases
+    return phrases[:max_phrases] or [mod_name]
+
+_XSTOP = {'and', 'the', 'with', 'for', 'from', 'into', 'general', 'principles',
+          'basics', 'clinical', 'medical', 'system', 'systems', 'disorders',
+          'diseases', 'disease', 'anatomy', 'physiology', 'management', 'disorder',
+          'syndrome', 'part', 'approach'}
+
+def build_cross_subject_index(syllabus):
+    """Index every topic's significant words + document frequency for IDF scoring."""
+    from collections import Counter
+    topics = []
+    for s in syllabus:
+        for m in s.get('modules', []):
+            words = {w for w in re.findall(r'[a-z]{4,}', m['name'].lower()) if w not in _XSTOP}
+            topics.append({'subject': s['name'], 'ssub': slugify(s['name']),
+                           'name': m['name'], 'slug': slugify(m['name']), 'words': words})
+    df = Counter()
+    for t in topics:
+        df.update(t['words'])
+    return topics, df
+
+def cross_subject_links(topics, df, subject_name, mod_name, topn=2):
+    """Genuinely overlapping topics in OTHER subjects, ranked by IDF word overlap."""
+    mine = {w for w in re.findall(r'[a-z]{4,}', mod_name.lower()) if w not in _XSTOP}
+    scored = []
+    for t in topics:
+        if t['subject'] == subject_name:
+            continue
+        ov = mine & t['words']
+        if not ov:
+            continue
+        score = sum(1.0 / df[w] for w in ov)
+        if len(ov) >= 2 or score >= 0.25:
+            scored.append((score, t))
+    scored.sort(key=lambda x: -x[0])
+    return [t for _, t in scored[:topn]]
+
+def build_topic_title(mod_name, subj_name, qcount):
+    title = SEO_TITLE_PATTERN.format(topic=mod_name, n=f"{qcount:,}",
+                                     subject=subj_name, year=SEO_YEAR)
+    if len(title) <= 62:
+        return title
+    title = SEO_TITLE_FALLBACK.format(topic=mod_name, n=f"{qcount:,}",
+                                     subject=subj_name, year=SEO_YEAR)
+    if len(title) <= 62:
+        return title
+    room = 62 - len(f" MCQs for NEET PG {SEO_YEAR}")
+    return mod_name[:room - 1].rstrip(" ,-–—:;(") + "…" + f" MCQs for NEET PG {SEO_YEAR}"
+
+def build_topic_desc(mod_name, subj_name, qcount, phrases):
+    import hashlib
+    phr = ", ".join(phrases)
+    # deterministic variant pick (md5, NOT hash() — must be stable across runs)
+    vi = int(hashlib.md5(mod_name.encode("utf-8")).hexdigest(), 16) % len(SEO_DESC_PATTERNS)
+    desc = SEO_DESC_PATTERNS[vi].format(topic=mod_name, n=f"{qcount:,}",
+                                        subject=subj_name, phrases=phr, year=SEO_YEAR)
+    return fit_desc(desc)
+
+def money_page_cards(subject_name):
+    """Contextual money-page cards appended to the 'Prepare for your exam' section."""
+    cards = [
+        '<a href="/mock-test" class="seo-card">'
+        '<strong>Free All-India Mock Tests</strong>'
+        '<small>Timed mocks with live leaderboards</small></a>'
+    ]
+    if subject_name == "Pediatrics":
+        cards.append(
+            '<a href="/neet-ss-books" class="seo-card">'
+            '<strong>NEET SS Books — Free PDFs</strong>'
+            '<small>Super-speciality review books incl. Pediatrics</small></a>'
+        )
+    return "".join(cards)
 
 def main():
     syllabus_js_path = os.path.join(BASE_DIR, "syllabus.js")
@@ -267,6 +389,10 @@ def main():
         with open(syllabus_js_path, "w", encoding="utf-8") as f:
             f.write("window.SYLLABUS_DATA = " + syllabus_raw + ";\n")
         print(f"✓ Extracted syllabus.js ({len(syllabus)} subjects)")
+
+    # SEO upgrade: precompute cross-subject topic index (IDF word overlap)
+    _x_topics, _x_df = build_cross_subject_index(syllabus)
+    print(f"✓ Built cross-subject link index ({len(_x_topics)} topics)")
 
     # 3. Main JS
     if os.path.exists(app_js_path):
@@ -369,6 +495,7 @@ def main():
         {"loc": f"{SITE_URL}/", "priority": "1.0", "changefreq": "daily"},
         {"loc": f"{SITE_URL}/landing", "priority": "0.9", "changefreq": "weekly"},
         {"loc": f"{SITE_URL}/mock-test", "priority": "0.9", "changefreq": "weekly"},
+        {"loc": f"{SITE_URL}/neet-ss-books", "priority": "0.9", "changefreq": "weekly"},
         {"loc": f"{SITE_URL}/privacy", "priority": "0.5", "changefreq": "monthly"},
         {"loc": f"{SITE_URL}/terms", "priority": "0.5", "changefreq": "monthly"}
     ]
@@ -604,8 +731,21 @@ def main():
         s_url = f"{SITE_URL}/subjects/{s_slug}"
         sitemap_entries.append({"loc": s_url, "priority": "0.8", "changefreq": "weekly"})
 
-        s_title = f"{subj['name']} MCQs | MedLadder"
-        s_desc = f"Practice {subj['name']} MCQs and previous-year questions with detailed explanations on MedLadder. Revise topic-wise across {subj.get('moduleCount', 0)} modules and track your performance."
+        s_title = f"{subj['name']} MCQs with Answers for NEET PG {SEO_YEAR}"
+        _s_secs, _s_seen = [], set()
+        for _m in subj.get("modules", []):
+            _sec = (_m.get("section") or "").strip()
+            if _sec and _sec.lower() not in _s_seen:
+                _s_secs.append(_sec)
+                _s_seen.add(_sec.lower())
+            if len(_s_secs) >= 3:
+                break
+        _s_phr = ", ".join(_s_secs)
+        s_desc = fit_desc(
+            f"{subj['name']} MCQs: practice {subj.get('questionCount', 0):,} topic-wise questions "
+            f"across {subj.get('moduleCount', 0)} modules ({_s_phr}) for NEET PG, FMGE, INI-CET & NEET SS "
+            f"— detailed explanations on MedLadder."
+        )
         s_heading = f"{subj['name']} MCQs and Previous-Year Questions"
         s_intro = f"Practice {subj['name']} with topic-wise medical MCQs, previous-year questions, detailed explanations and progress tracking."
 
@@ -706,7 +846,7 @@ def main():
           {modules_cards_html}
         </div>
       </section>
-      {exam_links_html()}
+      {exam_links_html(extra_cards=money_page_cards(subj["name"]))}
       <section aria-labelledby="seoFaq" style="margin-top:38px;">
         <h2 id="seoFaq" class="seo-section-title">Frequently Asked Questions</h2>
         <div style="display:flex;flex-direction:column;gap:6px;">
@@ -727,11 +867,13 @@ def main():
             m_url = f"{SITE_URL}/subjects/{s_slug}/{m_slug}"
             sitemap_entries.append({"loc": m_url, "priority": "0.6", "changefreq": "monthly"})
 
-            m_title = fit_title(mod['name'], subj['name'])
+            m_title = build_topic_title(mod['name'], subj['name'], mod.get('questionCount', 0))
             if m_title in used_module_titles:          # never let truncation create duplicate titles
-                m_title = f"{mod['name']} MCQs | {subj['name']}"
+                m_title = f"{mod['name']} MCQs | {subj['name']} | MedLadder"
             used_module_titles.add(m_title)
-            m_desc = fit_desc(f"{mod['name']} MCQs with answers: {mod.get('questionCount', 0)} {subj['name']} questions for NEET PG, FMGE, INI-CET and NEET SS, each with a detailed explanation, on MedLadder.")
+            _phrases = topic_key_phrases(mod['name'], mod.get('section', ''), subj_name=subj['name'])
+            m_desc = build_topic_desc(mod['name'], subj['name'], mod.get('questionCount', 0), _phrases)
+            _xlinks = cross_subject_links(_x_topics, _x_df, subj['name'], mod['name'])
             m_heading = f"{mod['name']} — {subj['name']} MCQs"
             m_intro = (f"{mod['name']} is part of the {mod.get('section', 'core')} section of {subj['name']}. "
                        f"Practise {mod.get('questionCount', 0)} exam-style MCQs for NEET PG, FMGE, INI-CET and NEET SS, "
@@ -819,7 +961,19 @@ def main():
                 pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(next_mod["name"])}" rel="next" class="btn secondary" style="font-size:14px;padding:10px 18px;text-decoration:none;">{esc(next_mod["name"])} →</a>')
             pn_html = (f'<nav aria-label="Previous and next topic" style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:32px;">{"".join(pn_parts)}</nav>') if pn_parts else ""
             samples_block = samples_html(samples, mod["name"])
-            exam_block = exam_links_html()
+            exam_block = exam_links_html(extra_cards=money_page_cards(subj["name"]))
+            _xlink_cards = "".join(
+                f'<a href="/subjects/{t["ssub"]}/{t["slug"]}" class="seo-card" style="display:block;text-decoration:none;">'
+                f'<strong style="font-size:15px;color:var(--ink);">{esc(t["name"])}</strong><br><small style="color:var(--ink-soft);">{esc(t["subject"])}</small></a>'
+                for t in _xlinks
+            )
+            _xlink_section = (
+                f'<section aria-labelledby="xSubjectTopics" style="margin-top:36px;">'
+                f'<h2 id="xSubjectTopics" class="seo-section-title">Related topics in other subjects</h2>'
+                f'<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;">'
+                f'{_xlink_cards}</div></section>'
+            ) if _xlink_cards else ""
+            _practise_phrases = ", ".join(_phrases[:3])
 
             m_body_html = f"""    <main class="seo-main">
       <nav aria-label="Breadcrumb" class="seo-breadcrumb">
@@ -847,7 +1001,7 @@ def main():
       <section aria-labelledby="seoTopics" style="margin-top:30px;">
         <h2 id="seoTopics" class="seo-section-title">What you can practise in {esc(mod["name"])}</h2>
         <ul style="line-height:1.8;padding-left:22px;color:var(--ink-soft);font-size:15px;">
-          <li><strong style="color:var(--ink);">{mod.get('questionCount', 0)} {esc(subj["name"])} MCQs</strong> on {esc(mod["name"])}, with detailed explanations</li>
+          <li><strong style="color:var(--ink);">{mod.get('questionCount', 0)} {esc(subj["name"])} MCQs</strong> on {esc(_practise_phrases)} — each with detailed explanations</li>
           <li><strong style="color:var(--ink);">Previous-year question practice</strong> across NEET PG, FMGE, INI-CET and NEET SS</li>
           <li><strong style="color:var(--ink);">Progress and performance tracking</strong> to measure retention</li>
         </ul>
@@ -858,6 +1012,7 @@ def main():
           {nearby_cards_html}
         </div>
       </section>
+      {_xlink_section}
       {exam_block}
       <section aria-labelledby="seoFaq" style="margin-top:38px;">
         <h2 id="seoFaq" class="seo-section-title">Frequently Asked Questions</h2>
@@ -982,8 +1137,19 @@ def main():
         home_body_fallback
     )
 
-    write_page(index_path, new_index_html, f"{SITE_URL}/")
-    print("✓ Updated index.html with crawlable semantic fallback and linked assets")
+    # Render clean index.html — but NEVER clobber a hand-customized homepage.
+    # Only write when the file is missing or already matches this template.
+    _gen_marker = "MedLadder — FMGE, NEET PG, INI-CET & NEET SS QBank"
+    _existing_index = None
+    if os.path.exists(index_path):
+        with open(index_path, "r", encoding="utf-8") as f:
+            _existing_index = f.read()
+    if _existing_index is None or _gen_marker in _existing_index:
+        write_page(index_path, new_index_html, f"{SITE_URL}/")
+        print("✓ Updated index.html with crawlable semantic fallback and linked assets")
+    else:
+        lastmods[f"{SITE_URL}/"] = prev_lastmod.get(f"{SITE_URL}/", CURRENT_DATE)
+        print("✓ Skipped index.html (hand-customized homepage preserved)")
 
     # 8. Generate optimized sitemap.xml
     sitemap_xml_lines = [
@@ -1010,6 +1176,15 @@ def main():
     print("✓ Updated _redirects (with /ini-cet -> /inicet 301 redirect)")
 
     vercel_path = os.path.join(BASE_DIR, "vercel.json")
+    # NOTE: vercel.json on main carries two hand-added production blocks that the
+    # generator must preserve: the /download-apk rewrite (+ APK headers) and the
+    # github.com CSP allowances. They are baked into the template below so that
+    # regeneration never drops them again.
+    vercel_csp = CSP.replace(
+        "https://www.googletagmanager.com; frame-src https://api.razorpay.com https://checkout.razorpay.com;",
+        "https://www.googletagmanager.com https://github.com https://*.github.com https://*.githubusercontent.com; "
+        "frame-src https://api.razorpay.com https://checkout.razorpay.com https://github.com https://*.github.com https://*.githubusercontent.com;"
+    )
     vercel_config = {
         "cleanUrls": True,
         "redirects": [
@@ -1021,14 +1196,26 @@ def main():
         ],
         "rewrites": [
             {
+                "source": "/download-apk",
+                "destination": "/MedLadder-latest.apk"
+            },
+            {
                 "source": "/(.*)",
                 "destination": "/index.html"
             }
         ],
         "headers": [
             {
+                "source": "/MedLadder-latest.apk",
+                "headers": [
+                    {"key": "Content-Type", "value": "application/vnd.android.package-archive"},
+                    {"key": "Content-Disposition", "value": "attachment; filename=\"MedLadder-latest.apk\""},
+                    {"key": "Cache-Control", "value": "public, max-age=0, must-revalidate"}
+                ]
+            },
+            {
                 "source": "/(.*)",
-                "headers": [{"key": k, "value": v} for k, v in SECURITY_HEADERS]
+                "headers": [{"key": "Content-Security-Policy", "value": vercel_csp}] + [{"key": k, "value": v} for k, v in SECURITY_HEADERS[1:]]
             },
             {
                 "source": "/sw.js",
