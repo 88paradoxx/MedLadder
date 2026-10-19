@@ -1001,7 +1001,7 @@ def main():
       <section aria-labelledby="seoTopics" style="margin-top:30px;">
         <h2 id="seoTopics" class="seo-section-title">What you can practise in {esc(mod["name"])}</h2>
         <ul style="line-height:1.8;padding-left:22px;color:var(--ink-soft);font-size:15px;">
-          <li><strong style="color:var(--ink);">{mod.get('questionCount', 0)} {esc(subj["name"])} MCQs</strong> on {esc(_practise_phrases)} — each with detailed explanations</li>
+          <li><strong style="color:var(--ink);">{mod.get('questionCount', 0)} {esc(mod["name"])} MCQs</strong> on {esc(_practise_phrases)} — each with detailed explanations</li>
           <li><strong style="color:var(--ink);">Previous-year question practice</strong> across NEET PG, FMGE, INI-CET and NEET SS</li>
           <li><strong style="color:var(--ink);">Progress and performance tracking</strong> to measure retention</li>
         </ul>
