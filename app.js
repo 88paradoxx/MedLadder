@@ -4395,9 +4395,8 @@ window.addEventListener('error', function (ev) {
       }
 
       function goHomeFromSeo() {
-        history.pushState({}, '', '/');
-        updateSeoMeta('MedLadder — FMGE, NEET PG, INI-CET & NEET SS QBank', 'Prepare for FMGE, NEET PG, INI-CET and NEET SS with MedLadder. Practice medical MCQs, previous-year questions, detailed explanations and track your performance.', '/');
-        renderHome();
+        // Full load: swapping the DOM in place left the topic page's JSON-LD/OG tags on the home URL.
+        window.location.assign('/');
       }
 
       function goSubjectFromSeo(subject) {
