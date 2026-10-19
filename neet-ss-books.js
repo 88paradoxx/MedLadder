@@ -8,11 +8,12 @@
   var SECTION_ID = 'neetSsBooksSection';
 
   // ---------------------------------------------------------------------------
-  // SETUP: upload neet-ss-pediatrics-book-web.pdf to your R2 bucket under
-  // books/neet-ss-pediatrics-book.pdf, connect a custom domain (e.g.
-  // cdn.medladder.top), then make sure PDF_URL below matches the public URL.
+  // PDF hosted on Cloudflare R2 (bucket: medladder-images, key:
+  // books/neet-ss-pediatrics-book.pdf). Public r2.dev domain is enabled.
+  // If you later connect a custom domain (e.g. cdn.medladder.top), update
+  // the URL below to https://cdn.medladder.top/books/neet-ss-pediatrics-book.pdf
   // ---------------------------------------------------------------------------
-  var PEDIATRICS_PDF_URL = 'https://cdn.medladder.top/books/neet-ss-pediatrics-book.pdf';
+  var PEDIATRICS_PDF_URL = 'https://pub-5e62ac2b4d1c43fcb7fb6b025a52e189.r2.dev/books/neet-ss-pediatrics-book.pdf';
 
   var BOOKS = [
     { n: 1, title: 'Pediatrics', live: true,
