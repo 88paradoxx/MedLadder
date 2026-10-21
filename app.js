@@ -420,7 +420,7 @@ window.addEventListener('error', function (ev) {
           '</div>' +
           '<div class="pro-legal-links" style="font-size:11px;color:var(--ink-soft);text-align:center;margin-top:8px;line-height:1.45;">' +
           'By subscribing, you agree to our <a href="/terms" target="_blank" style="color:var(--accent);text-decoration:underline;">Terms</a>, <a href="/privacy" target="_blank" style="color:var(--accent);text-decoration:underline;">Privacy</a> &amp; <a href="/terms#cancellation-refund" target="_blank" style="color:var(--accent);text-decoration:underline;">Cancellation/Refund Policy</a>.<br>' +
-          'Instant digital activation · Billing support: <a href="mailto:88mirbilal@gmail.com" style="color:var(--accent);text-decoration:underline;">88mirbilal@gmail.com</a>' +
+          'Instant digital activation · Billing support: <a href="mailto:99medladder@gmail.com" style="color:var(--accent);text-decoration:underline;">99medladder@gmail.com</a>' +
           '</div>' +
 
           '<div class="pro-restore-wrap" style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line);text-align:center;">' +
@@ -1607,8 +1607,14 @@ window.addEventListener('error', function (ev) {
       }
 
       function footerHtml() {
-        return '<footer class="credit">' +
-          '<div class="footer-content">' +
+        var isNative = !!(
+          (window.MedLadderNative && window.MedLadderNative.isNative) ||
+          window.MedLadderAndroidApp ||
+          (window.Capacitor && typeof window.Capacitor.isNativePlatform === 'function' && window.Capacitor.isNativePlatform()) ||
+          (document.documentElement && document.documentElement.classList.contains('is-native-app')) ||
+          (document.body && document.body.classList.contains('is-native-app'))
+        );
+        var apkBtnHtml = isNative ? '' :
           '<a href="/MedLadder-latest.apk" class="footer-apk-btn" download="MedLadder-latest.apk" title="Download MedLadder Android APK">' +
           '<span class="footer-apk-icon">' +
           '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993.0001.5511-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993 0 .5511-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5902 8.4116 13.8533 8.125 12 8.125s-3.5902.2866-5.1368.8247L4.8409 5.4467a.4161.4161 0 00-.5677-.1521.4157.4157 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3432 14.6589 0 18.761h24c-.3432-4.1021-2.6889-7.5743-6.1185-9.4396"/></svg>' +
@@ -1621,7 +1627,10 @@ window.addEventListener('error', function (ev) {
           '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>' +
           '<span>Latest</span>' +
           '</span>' +
-          '</a>' +
+          '</a>';
+        return '<footer class="credit">' +
+          '<div class="footer-content">' +
+          apkBtnHtml +
           '<div class="footer-social-row">' +
           '<a href="https://www.facebook.com/profile.php?id=61568903965858" target="_blank" rel="noopener noreferrer" class="footer-social-btn fb" aria-label="Facebook" title="MedLadder on Facebook">' +
           '<svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>' +

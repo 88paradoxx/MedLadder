@@ -59,4 +59,7 @@ tools/peds_modules/
 android/app/build/
 *.apk
 !MedLadder-latest.apk
+*.aab
+*.jks
+*.keystore
 

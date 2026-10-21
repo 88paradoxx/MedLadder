@@ -168,9 +168,534 @@
     if (name) return name;
     return (u.email || 'User').split('@')[0];
   }
-  function doGoogleSignIn() {
-    sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.href } });
+  /* ---------- auth modal & session (matches index page, zero redirect for email/password) ---------- */
+  var pendingAuthAction = null;
+
+  function resetAuthModalButtons() {
+    var inBtn = $('authSignInSubmit');
+    if (inBtn) {
+      inBtn.disabled = false;
+      inBtn.innerHTML = 'Sign In';
+    }
+    var upBtn = $('authSignUpSubmit');
+    if (upBtn) {
+      upBtn.disabled = false;
+      upBtn.innerHTML = 'Create Account';
+    }
+    var fgBtn = $('authForgotSubmit');
+    if (fgBtn) {
+      fgBtn.disabled = false;
+      fgBtn.innerHTML = 'Send Recovery Email';
+    }
+    var gBtns = document.querySelectorAll ? document.querySelectorAll('.auth-google-btn') : [];
+    for (var i = 0; i < gBtns.length; i++) {
+      gBtns[i].disabled = false;
+      var isSignUp = gBtns[i].id === 'googleAuthBtnSignUp';
+      gBtns[i].innerHTML =
+        '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>' +
+        '<span>' + (isSignUp ? 'Sign up with Google' : 'Continue with Google') + '</span>';
+    }
   }
+
+  function setAuthAlert(type, msg) {
+    var errEl = $('authAlertError');
+    var succEl = $('authAlertSuccess');
+    if (type === 'error') {
+      if (errEl) {
+        errEl.innerHTML = '<span>⚠️</span><span>' + esc(msg) + '</span>';
+        errEl.style.display = 'flex';
+      }
+      if (succEl) succEl.style.display = 'none';
+    } else {
+      if (succEl) {
+        succEl.innerHTML = '<span>✓</span><span>' + esc(msg) + '</span>';
+        succEl.style.display = 'flex';
+      }
+      if (errEl) errEl.style.display = 'none';
+    }
+  }
+
+  function clearAuthAlerts() {
+    var errEl = $('authAlertError');
+    var succEl = $('authAlertSuccess');
+    if (errEl) { errEl.innerHTML = ''; errEl.style.display = 'none'; }
+    if (succEl) { succEl.innerHTML = ''; succEl.style.display = 'none'; }
+  }
+
+  function ensureAuthModalDOMElements() {
+    if ($('authModalOverlay')) return;
+    var wrap = document.createElement('div');
+    wrap.innerHTML =
+      '<div class="auth-modal-overlay hidden" id="authModalOverlay" role="dialog" aria-modal="true" aria-labelledby="authModalTitle">' +
+      '<div class="auth-modal-card">' +
+      '<button class="auth-modal-close" id="authModalClose" aria-label="Close modal">✕</button>' +
+      '<div class="auth-modal-badge">MedLadder Account</div>' +
+      '<h2 class="auth-modal-title" id="authModalTitle">Sign In</h2>' +
+      '<p class="auth-modal-sub" id="authModalSub">Access your test history and sync progress across devices.</p>' +
+      '<div class="auth-tabs" id="authTabs">' +
+      '<button class="auth-tab active" id="tabSignIn" type="button">Sign In</button>' +
+      '<button class="auth-tab" id="tabSignUp" type="button">Sign Up</button>' +
+      '<button class="auth-tab" id="tabForgot" type="button">Forgot Password</button>' +
+      '</div>' +
+      '<div class="auth-alert error" id="authAlertError"></div>' +
+      '<div class="auth-alert success" id="authAlertSuccess"></div>' +
+
+      // Sign In Form
+      '<form id="authSignInForm" autocomplete="on">' +
+      '<button type="button" class="auth-google-btn" id="googleAuthBtn">' +
+      '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Continue with Google</span>' +
+      '</button>' +
+      '<div class="auth-divider"><span>or continue with email</span></div>' +
+      '<div class="auth-field">' +
+      '<label for="authSignInEmail">Email Address</label>' +
+      '<div class="auth-input-wrap">' +
+      '<input type="email" id="authSignInEmail" class="auth-input" placeholder="doctor@example.com" required autocomplete="email">' +
+      '</div>' +
+      '</div>' +
+      '<div class="auth-field">' +
+      '<label for="authSignInPassword">Password</label>' +
+      '<div class="auth-input-wrap">' +
+      '<input type="password" id="authSignInPassword" class="auth-input" placeholder="••••••••" required autocomplete="current-password">' +
+      '<button type="button" class="auth-pw-toggle" data-target="authSignInPassword" aria-label="Toggle password visibility">👁</button>' +
+      '</div>' +
+      '</div>' +
+      '<button type="submit" class="auth-submit-btn" id="authSignInSubmit">Sign In</button>' +
+      '<div class="auth-footer-links">' +
+      '<button type="button" class="auth-link" id="authLinkToForgot">Forgot password?</button>' +
+      '<span>No account? <button type="button" class="auth-link" id="authLinkToSignUp">Sign up</button></span>' +
+      '</div>' +
+      '</form>' +
+
+      // Sign Up Form
+      '<form id="authSignUpForm" class="hidden" autocomplete="on">' +
+      '<button type="button" class="auth-google-btn" id="googleAuthBtnSignUp">' +
+      '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Sign up with Google</span>' +
+      '</button>' +
+      '<div class="auth-divider"><span>or register with email</span></div>' +
+      '<div class="auth-field">' +
+      '<label for="authSignUpName">Full Name / Dr. Name</label>' +
+      '<div class="auth-input-wrap">' +
+      '<input type="text" id="authSignUpName" class="auth-input" placeholder="Dr. Jane Doe" required autocomplete="name">' +
+      '</div>' +
+      '</div>' +
+      '<div class="auth-field">' +
+      '<label for="authSignUpEmail">Email Address</label>' +
+      '<div class="auth-input-wrap">' +
+      '<input type="email" id="authSignUpEmail" class="auth-input" placeholder="doctor@example.com" required autocomplete="email">' +
+      '</div>' +
+      '</div>' +
+      '<div class="auth-field">' +
+      '<label for="authSignUpPassword">Password (minimum 6 characters)</label>' +
+      '<div class="auth-input-wrap">' +
+      '<input type="password" id="authSignUpPassword" class="auth-input" placeholder="••••••••" minlength="6" required autocomplete="new-password">' +
+      '<button type="button" class="auth-pw-toggle" data-target="authSignUpPassword" aria-label="Toggle password visibility">👁</button>' +
+      '</div>' +
+      '</div>' +
+      '<div class="auth-legal-note" style="font-size:11.5px;color:var(--muted);text-align:center;margin:8px 0 12px;line-height:1.45;">' +
+      'By creating an account, you agree to our <a href="/terms" target="_blank" style="color:var(--accent);text-decoration:underline;">Terms</a> &amp; <a href="/privacy" target="_blank" style="color:var(--accent);text-decoration:underline;">Privacy Policy</a>.' +
+      '</div>' +
+      '<button type="submit" class="auth-submit-btn" id="authSignUpSubmit">Create Account</button>' +
+      '<div class="auth-footer-links">' +
+      '<span>Already registered? <button type="button" class="auth-link" id="authLinkToSignIn">Sign In</button></span>' +
+      '</div>' +
+      '</form>' +
+
+      // Forgot Password Form
+      '<form id="authForgotForm" class="hidden" autocomplete="on">' +
+      '<div class="auth-field">' +
+      '<label for="authForgotEmail">Registered Email Address</label>' +
+      '<div class="auth-input-wrap">' +
+      '<input type="email" id="authForgotEmail" class="auth-input" placeholder="doctor@example.com" required autocomplete="email">' +
+      '</div>' +
+      '</div>' +
+      '<button type="submit" class="auth-submit-btn" id="authForgotSubmit">Send Recovery Email</button>' +
+      '<div class="auth-footer-links">' +
+      '<button type="button" class="auth-link" id="authForgotLinkToSignIn">‹ Back to Sign In</button>' +
+      '</div>' +
+      '</form>' +
+
+      '</div>' +
+      '</div>';
+
+    while (wrap.firstChild) {
+      document.body.appendChild(wrap.firstChild);
+    }
+
+    $('authModalClose').addEventListener('click', closeAuthModal);
+    $('authModalOverlay').addEventListener('click', function (e) {
+      if (e.target === this) closeAuthModal();
+    });
+
+    $('tabSignIn').addEventListener('click', function () { switchAuthTab('signin'); });
+    $('tabSignUp').addEventListener('click', function () { switchAuthTab('signup'); });
+    $('tabForgot').addEventListener('click', function () { switchAuthTab('forgot'); });
+
+    $('authLinkToForgot').addEventListener('click', function () { switchAuthTab('forgot'); });
+    $('authLinkToSignUp').addEventListener('click', function () { switchAuthTab('signup'); });
+    $('authLinkToSignIn').addEventListener('click', function () { switchAuthTab('signin'); });
+    $('authForgotLinkToSignIn').addEventListener('click', function () { switchAuthTab('signin'); });
+
+    var toggles = document.querySelectorAll('.auth-pw-toggle');
+    for (var i = 0; i < toggles.length; i++) {
+      toggles[i].addEventListener('click', function (e) {
+        e.preventDefault();
+        var targetId = this.getAttribute('data-target');
+        var input = $(targetId);
+        if (input) {
+          if (input.type === 'password') {
+            input.type = 'text';
+            this.textContent = '🙈';
+          } else {
+            input.type = 'password';
+            this.textContent = '👁';
+          }
+        }
+      });
+    }
+
+    var gBtn1 = $('googleAuthBtn');
+    if (gBtn1) gBtn1.addEventListener('click', handleGoogleSignIn);
+    var gBtn2 = $('googleAuthBtnSignUp');
+    if (gBtn2) gBtn2.addEventListener('click', handleGoogleSignIn);
+
+    $('authSignInForm').addEventListener('submit', handleSignInSubmit);
+    $('authSignUpForm').addEventListener('submit', handleSignUpSubmit);
+    $('authForgotForm').addEventListener('submit', handleForgotSubmit);
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') {
+        var authOverlay = $('authModalOverlay');
+        if (authOverlay && authOverlay.classList.contains('open')) {
+          closeAuthModal();
+        }
+      }
+    });
+  }
+
+  function switchAuthTab(tab) {
+    clearAuthAlerts();
+    resetAuthModalButtons();
+    var titleEl = $('authModalTitle');
+    var subEl = $('authModalSub');
+    var tabIn = $('tabSignIn');
+    var tabUp = $('tabSignUp');
+    var tabFg = $('tabForgot');
+    var formIn = $('authSignInForm');
+    var formUp = $('authSignUpForm');
+    var formFg = $('authForgotForm');
+
+    tabIn.classList.toggle('active', tab === 'signin');
+    tabUp.classList.toggle('active', tab === 'signup');
+    tabFg.classList.toggle('active', tab === 'forgot');
+
+    formIn.classList.toggle('hidden', tab !== 'signin');
+    formUp.classList.toggle('hidden', tab !== 'signup');
+    formFg.classList.toggle('hidden', tab !== 'forgot');
+
+    if (tab === 'signin') {
+      titleEl.textContent = 'Sign In';
+      subEl.textContent = 'Access your test history and sync progress across devices.';
+      var emailIn = $('authSignInEmail');
+      if (emailIn) setTimeout(function () { emailIn.focus(); }, 80);
+    } else if (tab === 'signup') {
+      titleEl.textContent = 'Create Account';
+      subEl.textContent = 'Register to track quiz performance and preserve test scores.';
+      var nameIn = $('authSignUpName');
+      if (nameIn) setTimeout(function () { nameIn.focus(); }, 80);
+    } else if (tab === 'forgot') {
+      titleEl.textContent = 'Reset Password';
+      subEl.textContent = 'Enter your registered email to receive a password recovery link.';
+      var fgEmail = $('authForgotEmail');
+      if (fgEmail) setTimeout(function () { fgEmail.focus(); }, 80);
+    }
+  }
+
+  function openAuthModal(tab, options) {
+    ensureAuthModalDOMElements();
+    clearAuthAlerts();
+    resetAuthModalButtons();
+    switchAuthTab(tab || 'signin');
+    if (options && options.onSuccess) {
+      pendingAuthAction = options.onSuccess;
+    } else {
+      pendingAuthAction = null;
+    }
+    if (options && options.reason) {
+      var subEl = $('authModalSub');
+      if (subEl) subEl.textContent = options.reason;
+    }
+    var overlay = $('authModalOverlay');
+    if (overlay) {
+      overlay.classList.remove('hidden');
+      overlay.classList.add('open');
+    }
+  }
+
+  function closeAuthModal() {
+    var overlay = $('authModalOverlay');
+    if (overlay) {
+      overlay.classList.remove('open');
+      overlay.classList.add('hidden');
+    }
+    clearAuthAlerts();
+    resetAuthModalButtons();
+    pendingAuthAction = null;
+  }
+
+  function handleGoogleSignIn() {
+    if (!sb) {
+      setAuthAlert('error', 'Authentication service is currently unavailable.');
+      return;
+    }
+    clearAuthAlerts();
+    var btns = document.querySelectorAll('.auth-google-btn');
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].disabled = true;
+      btns[i].innerHTML = '<span class="auth-spinner" style="border-top-color:var(--accent);"></span> Connecting to Google...';
+    }
+
+    var resetTimer = setTimeout(function () {
+      resetAuthModalButtons();
+    }, 10000);
+
+    var nativeBridge = window.MedLadderNative;
+    var isNativeApp = !!(nativeBridge && nativeBridge.isNative);
+
+    sb.auth.signInWithOAuth({
+      provider: 'google',
+      options: {
+        redirectTo: isNativeApp ? 'com.medladder.app://auth/callback' : window.location.origin + window.location.pathname,
+        skipBrowserRedirect: isNativeApp
+      }
+    }).then(function (res) {
+      if (res && res.error) {
+        clearTimeout(resetTimer);
+        resetAuthModalButtons();
+        setAuthAlert('error', res.error.message || 'Google Sign-In failed.');
+      } else if (isNativeApp && res && res.data && res.data.url) {
+        nativeBridge.Browser.open({ url: res.data.url }).then(function () {
+          setTimeout(function () {
+            clearTimeout(resetTimer);
+            resetAuthModalButtons();
+          }, 1500);
+        }).catch(function (err) {
+          clearTimeout(resetTimer);
+          resetAuthModalButtons();
+          setAuthAlert('error', err && err.message ? err.message : 'Could not open Google Sign-In.');
+        });
+      }
+    }).catch(function (err) {
+      clearTimeout(resetTimer);
+      resetAuthModalButtons();
+      setAuthAlert('error', err && err.message ? err.message : 'Google Sign-In failed.');
+    });
+  }
+
+  function handleSignInSubmit(e) {
+    e.preventDefault();
+    if (!sb) {
+      setAuthAlert('error', 'Authentication service is currently unavailable.');
+      return;
+    }
+    var email = $('authSignInEmail').value.trim();
+    var password = $('authSignInPassword').value;
+    var btn = $('authSignInSubmit');
+
+    if (!email || !password) {
+      setAuthAlert('error', 'Please provide both email and password.');
+      return;
+    }
+
+    clearAuthAlerts();
+    btn.disabled = true;
+    var origText = btn.innerHTML;
+    btn.innerHTML = '<span class="auth-spinner"></span> Signing in...';
+
+    sb.auth.signInWithPassword({
+      email: email,
+      password: password
+    }).then(function (res) {
+      btn.disabled = false;
+      btn.innerHTML = origText;
+      if (res.error) {
+        setAuthAlert('error', res.error.message || 'Failed to sign in.');
+      } else {
+        currentUser = res.data.user;
+        var act = pendingAuthAction;
+        closeAuthModal();
+        toast('Welcome back, ' + userDisplayName(currentUser) + '!');
+        renderAuth();
+        if ($('lobbyView') && !$('lobbyView').hidden) loadLobby();
+        if (typeof act === 'function') act();
+      }
+    }).catch(function (err) {
+      btn.disabled = false;
+      btn.innerHTML = origText;
+      setAuthAlert('error', err && err.message ? err.message : 'An unexpected error occurred.');
+    });
+  }
+
+  function handleSignUpSubmit(e) {
+    e.preventDefault();
+    if (!sb) {
+      setAuthAlert('error', 'Authentication service is currently unavailable.');
+      return;
+    }
+    var name = $('authSignUpName').value.trim();
+    var email = $('authSignUpEmail').value.trim();
+    var password = $('authSignUpPassword').value;
+    var btn = $('authSignUpSubmit');
+
+    if (!name || !email || !password) {
+      setAuthAlert('error', 'Please fill in all fields.');
+      return;
+    }
+    if (password.length < 6) {
+      setAuthAlert('error', 'Password must be at least 6 characters.');
+      return;
+    }
+
+    clearAuthAlerts();
+    btn.disabled = true;
+    var origText = btn.innerHTML;
+    btn.innerHTML = '<span class="auth-spinner"></span> Creating account...';
+
+    sb.auth.signUp({
+      email: email,
+      password: password,
+      options: {
+        data: { full_name: name }
+      }
+    }).then(function (res) {
+      btn.disabled = false;
+      btn.innerHTML = origText;
+      if (res.error) {
+        setAuthAlert('error', res.error.message || 'Failed to create account.');
+      } else {
+        if (res.data && res.data.session) {
+          currentUser = res.data.user;
+          var act = pendingAuthAction;
+          closeAuthModal();
+          toast('Welcome to MedLadder, ' + userDisplayName(currentUser) + '!');
+          renderAuth();
+          if ($('lobbyView') && !$('lobbyView').hidden) loadLobby();
+          if (typeof act === 'function') act();
+        } else {
+          setAuthAlert('success', 'Account registered! If confirmation is required, please check your email.');
+        }
+      }
+    }).catch(function (err) {
+      btn.disabled = false;
+      btn.innerHTML = origText;
+      setAuthAlert('error', err && err.message ? err.message : 'An unexpected error occurred.');
+    });
+  }
+
+  function handleForgotSubmit(e) {
+    e.preventDefault();
+    if (!sb) {
+      setAuthAlert('error', 'Authentication service is currently unavailable.');
+      return;
+    }
+    var email = $('authForgotEmail').value.trim();
+    var btn = $('authForgotSubmit');
+
+    if (!email) {
+      setAuthAlert('error', 'Please enter your registered email.');
+      return;
+    }
+
+    clearAuthAlerts();
+    btn.disabled = true;
+    var origText = btn.innerHTML;
+    btn.innerHTML = '<span class="auth-spinner"></span> Sending email...';
+
+    sb.auth.resetPasswordForEmail(email, {
+      redirectTo: window.location.origin + window.location.pathname
+    }).then(function (res) {
+      btn.disabled = false;
+      btn.innerHTML = origText;
+      if (res.error) {
+        setAuthAlert('error', res.error.message || 'Could not send reset link.');
+      } else {
+        setAuthAlert('success', 'Password reset instructions have been sent to your email.');
+      }
+    }).catch(function (err) {
+      btn.disabled = false;
+      btn.innerHTML = origText;
+      setAuthAlert('error', err && err.message ? err.message : 'An unexpected error occurred.');
+    });
+  }
+
+  function finishNativeOAuth(urlString) {
+    var nativeBridge = window.MedLadderNative;
+    if (!nativeBridge || !nativeBridge.isNative || !urlString ||
+        urlString.indexOf('com.medladder.app://auth/callback') !== 0) return;
+
+    if (nativeBridge.Browser && typeof nativeBridge.Browser.close === 'function') {
+      nativeBridge.Browser.close().catch(function () {});
+    }
+    var callback;
+    try { callback = new URL(urlString); } catch (e) { return; }
+    var callbackParams = new URLSearchParams(callback.hash.replace(/^#/, ''));
+    var authError = callback.searchParams.get('error_description') || callbackParams.get('error_description') ||
+      callback.searchParams.get('error') || callbackParams.get('error');
+    if (authError) {
+      resetAuthModalButtons();
+      setAuthAlert('error', authError);
+      return;
+    }
+
+    var authCode = callback.searchParams.get('code');
+    var sessionPromise;
+    if (authCode) {
+      sessionPromise = sb.auth.exchangeCodeForSession(authCode);
+    } else {
+      var accessToken = callbackParams.get('access_token');
+      var refreshToken = callbackParams.get('refresh_token');
+      if (!accessToken || !refreshToken) {
+        resetAuthModalButtons();
+        return;
+      }
+      sessionPromise = sb.auth.setSession({ access_token: accessToken, refresh_token: refreshToken });
+    }
+    sessionPromise.then(function (result) {
+      resetAuthModalButtons();
+      if (result && result.error) {
+        setAuthAlert('error', result.error.message || 'Could not finish sign-in.');
+      } else {
+        currentUser = (result.data && result.data.user) || null;
+        closeAuthModal();
+        renderAuth();
+        if ($('lobbyView') && !$('lobbyView').hidden) loadLobby();
+      }
+    }).catch(function (error) {
+      resetAuthModalButtons();
+      setAuthAlert('error', error && error.message ? error.message : 'Could not finish sign-in.');
+    });
+  }
+
+  function listenForNativeOAuthReturn() {
+    var nativeBridge = window.MedLadderNative;
+    if (!nativeBridge || !nativeBridge.isNative) return;
+    if (nativeBridge.App && typeof nativeBridge.App.addListener === 'function') {
+      nativeBridge.App.addListener('appUrlOpen', function (event) {
+        finishNativeOAuth(event && event.url);
+      });
+      nativeBridge.App.addListener('appStateChange', function (state) {
+        if (state && state.isActive) resetAuthModalButtons();
+      });
+      nativeBridge.App.getLaunchUrl().then(function (launch) {
+        if (launch && launch.url) finishNativeOAuth(launch.url);
+      }).catch(function () {});
+    }
+    if (nativeBridge.Browser && typeof nativeBridge.Browser.addListener === 'function') {
+      nativeBridge.Browser.addListener('browserFinished', function () {
+        resetAuthModalButtons();
+      });
+    }
+  }
+
   function closeAuthDropdown(ev) {
     var dd = $('authDropdown'), btn = $('authUserBtn'), wrap = $('userMenuWrap');
     if (dd && !dd.classList.contains('hidden') && (!ev || !wrap || !wrap.contains(ev.target))) {
@@ -219,7 +744,7 @@
         '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>' +
         '<span>Sign In</span>' +
         '</button>';
-      $('authTriggerBtn').onclick = doGoogleSignIn;
+      $('authTriggerBtn').onclick = function () { openAuthModal('signin'); };
     }
   }
 
@@ -393,6 +918,11 @@
   function startTestFlow(testId) {
     if (!currentUser) {
       toast('Please sign in to take the mock test.');
+      openAuthModal('signin', {
+        onSuccess: function () {
+          startTestFlow(testId);
+        }
+      });
       showView('lobbyView');
       return;
     }
@@ -638,8 +1168,8 @@
     var box = $('endedLeaderboard');
     if (!currentUser) {
       box.innerHTML = '<div class="mt-board-empty">Sign in to view the final leaderboard.<br><br>' +
-        '<button class="mt-btn mt-btn-primary" id="endedGoogleBtn">Sign in with Google</button></div>';
-      $('endedGoogleBtn').onclick = doGoogleSignIn;
+        '<button class="mt-btn mt-btn-primary" id="endedGoogleBtn">Sign In</button></div>';
+      $('endedGoogleBtn').onclick = function () { openAuthModal('signin'); };
       return;
     }
     box.innerHTML = '<div class="mt-board-empty">Loading final leaderboard…</div>';
@@ -752,6 +1282,7 @@
     }
     sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
     wireTestButtons();
+    listenForNativeOAuthReturn();
 
     sb.auth.getSession().then(function (res) {
       currentUser = res.data.session ? res.data.session.user : null;
@@ -763,9 +1294,14 @@
 
     sb.auth.onAuthStateChange(function (_ev, session) {
       var u = session ? session.user : null;
-      if ((u && !currentUser) || (!u && currentUser)) {
+      if ((u && !currentUser) || (!u && currentUser) || (u && currentUser && u.id !== currentUser.id)) {
         currentUser = u;
         renderAuth();
+        if ($('lobbyView') && !$('lobbyView').hidden) {
+          loadLobby();
+        } else if ($('endedView') && !$('endedView').hidden) {
+          loadEndedLeaderboard();
+        }
       }
     });
   }

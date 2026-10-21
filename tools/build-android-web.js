@@ -17,7 +17,9 @@ const files = [
   'privacy.html', 'terms.html',
   // Mock-test feature (user + admin)
   'mock-test.html', 'mock-test.css', 'mock-test.js', 'mock-banner.js',
-  'admin-mock.html', 'admin-mock.css', 'admin-mock.js'
+  'admin-mock.html', 'admin-mock.css', 'admin-mock.js',
+  // NEET SS Books
+  'neet-ss-books.html', 'neet-ss-books.js'
 ];
 const directories = ['assets', 'icons'];
 
@@ -57,13 +59,36 @@ appHtml = appHtml.replace(
   '<script src="/app.js" defer></script>',
   '<script src="/medladder-native.js" defer></script>\n  <script src="/app.js" defer></script>'
 );
+if (!appHtml.includes('is-native-app')) {
+  if (appHtml.includes('<html lang="en" class="dark"')) {
+    appHtml = appHtml.replace('<html lang="en" class="dark"', '<html lang="en" class="dark is-native-app" data-native="true"');
+  } else {
+    appHtml = appHtml.replace('<html lang="en"', '<html lang="en" class="is-native-app" data-native="true"');
+  }
+}
 fs.writeFileSync(appHtmlPath, appHtml);
 
+const mockHtmlPath = path.join(webDir, 'mock-test.html');
+if (fs.existsSync(mockHtmlPath)) {
+  let mockHtml = fs.readFileSync(mockHtmlPath, 'utf8');
+  mockHtml = mockHtml.replace(
+    '<script src="/mock-test.js" defer></script>',
+    '<script src="/medladder-native.js" defer></script>\n  <script src="/mock-test.js" defer></script>'
+  );
+  if (!mockHtml.includes('is-native-app')) {
+    mockHtml = mockHtml.replace('<html lang="en" class="dark"', '<html lang="en" class="dark is-native-app" data-native="true"');
+  }
+  fs.writeFileSync(mockHtmlPath, mockHtml);
+}
+
 // The static host rewrites these clean URLs; mirror that for Android's local asset server.
-for (const route of ['privacy', 'terms', 'mock-test', 'admin-mock']) {
+for (const route of ['privacy', 'terms', 'mock-test', 'admin-mock', 'neet-ss-books']) {
   const routeDir = path.join(webDir, route);
   fs.mkdirSync(routeDir, { recursive: true });
-  fs.copyFileSync(path.join(root, `${route}.html`), path.join(routeDir, 'index.html'));
+  const src = fs.existsSync(path.join(webDir, `${route}.html`))
+    ? path.join(webDir, `${route}.html`)
+    : path.join(root, `${route}.html`);
+  fs.copyFileSync(src, path.join(routeDir, 'index.html'));
 }
 
 console.log(`Prepared Android web assets in ${path.relative(root, webDir)}.`);

@@ -716,5 +716,11 @@ html:not(.dark) .app.screen-results {
   margin-right: auto !important;
 }
 
-
-
+html.is-native-app .footer-apk-btn,
+html.is-native-app .nav-download-btn,
+body.is-native-app .footer-apk-btn,
+body.is-native-app .nav-download-btn,
+[data-native="true"] .footer-apk-btn,
+[data-native="true"] .nav-download-btn {
+  display: none !important;
+}
