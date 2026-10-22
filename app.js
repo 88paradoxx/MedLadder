@@ -1255,6 +1255,43 @@ window.addEventListener('error', function (ev) {
       var bootUrlSearch = window.location.search;
       var bootUrlHash = window.location.hash;
 
+      // Password-recovery returns. Supabase marks a PKCE reset by storing the
+      // code verifier as "<verifier>/PASSWORD_RECOVERY" when the reset email is
+      // requested; the client deletes it once the ?code= is exchanged, so it has
+      // to be read here, before createClient runs. Older (implicit-flow) reset
+      // links carry #...type=recovery instead.
+      var recoveryMode = false;
+      function hasRecoveryVerifier() {
+        try {
+          for (var i = 0; i < localStorage.length; i++) {
+            var k = localStorage.key(i);
+            if (k && /^sb-.*-auth-token-code-verifier$/.test(k) &&
+                /\/PASSWORD_RECOVERY$/.test(localStorage.getItem(k) || '')) return true;
+          }
+        } catch (e) {}
+        return false;
+      }
+      (function detectRecoveryReturn() {
+        try {
+          var qs = new URLSearchParams(bootUrlSearch);
+          var hs = new URLSearchParams(String(bootUrlHash || '').replace(/^#/, ''));
+          if (hs.get('type') === 'recovery') { recoveryMode = true; return; }
+          if (qs.get('code') && hasRecoveryVerifier()) recoveryMode = true;
+        } catch (e) {}
+      })();
+
+      // Cross-device reset links: the email template links to
+      // /?token_hash=...&type=recovery. No browser-bound verifier is needed, so
+      // the link works on any device. The token is only verified when the user
+      // submits the new password, so email link scanners cannot consume it.
+      var recoveryTokenHash = null;
+      (function detectRecoveryTokenHash() {
+        try {
+          var q = new URLSearchParams(bootUrlSearch);
+          if (q.get('token_hash') && q.get('type') === 'recovery') recoveryTokenHash = q.get('token_hash');
+        } catch (e) {}
+      })();
+
       try {
         if (window.supabase && typeof window.supabase.createClient === 'function') {
           supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
@@ -1296,6 +1333,11 @@ window.addEventListener('error', function (ev) {
         if (fgBtn) {
           fgBtn.disabled = false;
           fgBtn.innerHTML = 'Send Recovery Email';
+        }
+        var rsBtn = document.getElementById('authResetSubmit');
+        if (rsBtn) {
+          rsBtn.disabled = false;
+          rsBtn.innerHTML = 'Update Password';
         }
       }
 
@@ -1377,6 +1419,7 @@ window.addEventListener('error', function (ev) {
       function captureWebAuthReturn() {
         if (!supabaseClient) return;
         if (window.MedLadderNative && window.MedLadderNative.isNative) return;
+        if (recoveryMode) return; // handled by the reset-password flow in initAuth()
         var search, hash;
         try {
           search = new URLSearchParams(bootUrlSearch);
@@ -1432,7 +1475,9 @@ window.addEventListener('error', function (ev) {
                   if (currentUser) return;
                   supabaseClient.auth.getSession().then(function (res2) {
                     if (!(res2 && res2.data && res2.data.session)) {
-                      showToast('Sign-in failed: ' + (result.error.message || 'please try again.'), 'error');
+                      var em = result.error.message || 'please try again.';
+                      if (/code verifier/i.test(em)) em = 'open the email link in the same browser where you requested it, then try again.';
+                      showToast('Sign-in failed: ' + em, 'error');
                     }
                   }).catch(function () {});
                 }, 600);
@@ -2011,6 +2056,25 @@ window.addEventListener('error', function (ev) {
           '</div>' +
           '</form>' +
 
+          // Create New Password Form (opened from the password-reset email link)
+          '<form id="authResetForm" class="hidden" autocomplete="on">' +
+          '<div class="auth-field">' +
+          '<label for="authResetPassword">New password (minimum 6 characters)</label>' +
+          '<div class="auth-input-wrap">' +
+          '<input type="password" id="authResetPassword" class="auth-input" placeholder="••••••••" minlength="6" required autocomplete="new-password">' +
+          '<button type="button" class="auth-pw-toggle" data-target="authResetPassword" aria-label="Toggle password visibility">👁</button>' +
+          '</div>' +
+          '</div>' +
+          '<div class="auth-field">' +
+          '<label for="authResetConfirm">Confirm new password</label>' +
+          '<div class="auth-input-wrap">' +
+          '<input type="password" id="authResetConfirm" class="auth-input" placeholder="••••••••" minlength="6" required autocomplete="new-password">' +
+          '<button type="button" class="auth-pw-toggle" data-target="authResetConfirm" aria-label="Toggle password visibility">👁</button>' +
+          '</div>' +
+          '</div>' +
+          '<button type="submit" class="auth-submit-btn" id="authResetSubmit">Update Password</button>' +
+          '</form>' +
+
           '</div>' +
           '</div>' +
           '<div class="toast-container" id="toastContainer"></div>';
@@ -2062,6 +2126,7 @@ window.addEventListener('error', function (ev) {
         document.getElementById('authSignInForm').addEventListener('submit', handleSignInSubmit);
         document.getElementById('authSignUpForm').addEventListener('submit', handleSignUpSubmit);
         document.getElementById('authForgotForm').addEventListener('submit', handleForgotSubmit);
+        document.getElementById('authResetForm').addEventListener('submit', handleResetSubmit);
 
         // Wire global escape key
         document.addEventListener('keydown', function (e) {
@@ -2109,6 +2174,11 @@ window.addEventListener('error', function (ev) {
         var formIn = document.getElementById('authSignInForm');
         var formUp = document.getElementById('authSignUpForm');
         var formFg = document.getElementById('authForgotForm');
+        var formRs = document.getElementById('authResetForm');
+        var tabsBar = document.getElementById('authTabs');
+
+        if (tabsBar) tabsBar.classList.toggle('hidden', tab === 'reset');
+        if (formRs) formRs.classList.toggle('hidden', tab !== 'reset');
 
         tabIn.classList.toggle('active', tab === 'signin');
         tabUp.classList.toggle('active', tab === 'signup');
@@ -2128,6 +2198,11 @@ window.addEventListener('error', function (ev) {
           subEl.textContent = 'Register to track quiz performance and preserve test scores.';
           var nameIn = document.getElementById('authSignUpName');
           if (nameIn) setTimeout(function () { nameIn.focus(); }, 80);
+        } else if (tab === 'reset') {
+          titleEl.textContent = 'Create New Password';
+          subEl.textContent = 'Choose a new password for your MedLadder account.';
+          var rsPw = document.getElementById('authResetPassword');
+          if (rsPw) setTimeout(function () { rsPw.focus(); }, 80);
         } else if (tab === 'forgot') {
           titleEl.textContent = 'Reset Password';
           subEl.textContent = 'Enter your registered email to receive a password recovery link.';
@@ -2166,6 +2241,7 @@ window.addEventListener('error', function (ev) {
         clearAuthAlerts();
         resetAuthModalButtons();
         pendingAuthAction = null;
+        recoveryMode = false;
       }
 
       function setAuthAlert(type, msg) {
@@ -2409,6 +2485,69 @@ window.addEventListener('error', function (ev) {
         });
       }
 
+      function handleResetSubmit(e) {
+        e.preventDefault();
+        if (!supabaseClient) {
+          setAuthAlert('error', 'Authentication service is currently unavailable.');
+          return;
+        }
+        var pw = document.getElementById('authResetPassword').value;
+        var pw2 = document.getElementById('authResetConfirm').value;
+        var btn = document.getElementById('authResetSubmit');
+
+        if (pw.length < 6) {
+          setAuthAlert('error', 'Password must be at least 6 characters.');
+          return;
+        }
+        if (pw !== pw2) {
+          setAuthAlert('error', 'Passwords do not match.');
+          return;
+        }
+
+        clearAuthAlerts();
+        btn.disabled = true;
+        btn.innerHTML = '<span class="auth-spinner"></span> Updating...';
+
+        var finishUpdate = function () { return supabaseClient.auth.updateUser({ password: pw }); };
+        var updateChain;
+        if (recoveryTokenHash) {
+          recoveryMode = true; // keep the "Signed in" toast / modal close out of the way
+          updateChain = supabaseClient.auth.verifyOtp({ token_hash: recoveryTokenHash, type: 'recovery' }).then(function (vr) {
+            if (vr && vr.error) { recoveryMode = false; return { error: vr.error, verifyFailed: true }; }
+            recoveryTokenHash = null;
+            return finishUpdate();
+          });
+        } else {
+          updateChain = finishUpdate();
+        }
+        updateChain.then(function (res) {
+          btn.disabled = false;
+          btn.innerHTML = 'Update Password';
+          if (res && res.verifyFailed) {
+            switchAuthTab('forgot');
+            setAuthAlert('error', 'This reset link is invalid or has expired. Request a new one below.');
+            return;
+          }
+          if (res && res.error) {
+            var msg = res.error.message || 'Could not update password.';
+            if (/session missing/i.test(msg)) {
+              switchAuthTab('forgot');
+              setAuthAlert('error', 'This reset link has expired. Request a new one below.');
+            } else {
+              setAuthAlert('error', msg);
+            }
+            return;
+          }
+          setAuthAlert('success', 'Password updated. You are signed in.');
+          showToast('Password updated successfully.');
+          setTimeout(closeAuthModal, 1400);
+        }).catch(function (err) {
+          btn.disabled = false;
+          btn.innerHTML = 'Update Password';
+          setAuthAlert('error', err && err.message ? err.message : 'An unexpected error occurred.');
+        });
+      }
+
       function handleSignOut() {
         resetAuthModalButtons();
         var doSignOut = function () {
@@ -2458,6 +2597,8 @@ window.addEventListener('error', function (ev) {
 
         if (!supabaseClient) return;
 
+        if (recoveryTokenHash) { cleanAuthReturnUrl(); openAuthModal('reset'); }
+
         supabaseClient.auth.getSession().then(function (res) {
           if (res && res.data && res.data.session && res.data.session.user) {
             currentUser = res.data.session.user;
@@ -2465,6 +2606,7 @@ window.addEventListener('error', function (ev) {
             updateMastheadAuth();
             updateProModalUI();
             refreshProStatus();
+            if (recoveryMode) { cleanAuthReturnUrl(); openAuthModal('reset'); }
           } else {
             // No session: still render the masthead auth controls, so the
             // signed-out Sign In pill also appears on the pre-rendered SEO
@@ -2472,6 +2614,13 @@ window.addEventListener('error', function (ev) {
             // auth element of its own.
             updateMastheadAuth();
             updateProModalUI();
+            if (recoveryMode) {
+              // Reset link was invalid, expired, or already used.
+              recoveryMode = false;
+              cleanAuthReturnUrl();
+              openAuthModal('forgot');
+              setAuthAlert('error', 'This reset link is invalid or has expired. Request a new one.');
+            }
           }
         }).catch(function (err) {
           console.warn('Session check error:', err);
@@ -2492,6 +2641,15 @@ window.addEventListener('error', function (ev) {
             return;
           }
 
+          if (event === 'PASSWORD_RECOVERY') {
+            recoveryMode = true;
+            cleanAuthReturnUrl();
+            var rsForm = document.getElementById('authResetForm');
+            if (!rsForm || rsForm.classList.contains('hidden')) {
+              setTimeout(function () { openAuthModal('reset'); }, 0);
+            }
+          }
+
           if (session && session.user) {
             currentUser = session.user;
             var userChanged = !prevUser || prevUser.id !== currentUser.id;
@@ -2503,7 +2661,7 @@ window.addEventListener('error', function (ev) {
             updateProModalUI();
             // Deferred: supabase-js must not be re-entered from inside this callback.
             if (userChanged) setTimeout(refreshProStatus, 0);
-            if (event === 'SIGNED_IN' && !prevUser) {
+            if (event === 'SIGNED_IN' && !prevUser && !recoveryMode) {
               if ((window.location.hash && window.location.hash.includes('access_token')) ||
                   (window.location.search && window.location.search.includes('code='))) {
                 window.history.replaceState({}, document.title, window.location.pathname);
