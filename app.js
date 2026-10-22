@@ -1248,13 +1248,25 @@ window.addEventListener('error', function (ev) {
       }
 
 
+      // Snapshot the URL before the auth client is created: on a sign-in
+      // return, the client consumes the result markers (?code=, #tokens,
+      // errors) from the URL during its own boot, and the return handler
+      // in initAuth() needs to see them as they arrived.
+      var bootUrlSearch = window.location.search;
+      var bootUrlHash = window.location.hash;
+
       try {
         if (window.supabase && typeof window.supabase.createClient === 'function') {
           supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
             auth: {
               persistSession: true,
               autoRefreshToken: true,
-              detectSessionInUrl: true
+              detectSessionInUrl: true,
+              // PKCE: sign-in returns carry a one-time ?code= that the app
+              // exchanges via the auth API, instead of session tokens in a
+              // URL fragment (which mobile browsers can drop on the return
+              // trip, silently leaving the user signed out).
+              flowType: 'pkce'
             }
           });
         }
@@ -1350,6 +1362,86 @@ window.addEventListener('error', function (ev) {
           if (launch && launch.url) finishNativeOAuth(launch.url);
         }).catch(function () {});
       })();
+
+      function cleanAuthReturnUrl() {
+        try { window.history.replaceState(null, '', window.location.pathname); } catch (e) {}
+      }
+
+      // Web sign-in returns (Google OAuth, email links) land back on the
+      // page the user started from, with the outcome in the URL: a ?code=
+      // to exchange (PKCE), session tokens in the #fragment, or an error.
+      // The Supabase client normally processes the return itself during
+      // boot; this is the safety net for returns it misses, and it makes
+      // failed returns visible instead of silently leaving the user on a
+      // signed-out page.
+      function captureWebAuthReturn() {
+        if (!supabaseClient) return;
+        if (window.MedLadderNative && window.MedLadderNative.isNative) return;
+        var search, hash;
+        try {
+          search = new URLSearchParams(bootUrlSearch);
+          hash = new URLSearchParams(String(bootUrlHash || '').replace(/^#/, ''));
+        } catch (e) { return; }
+        var errText = search.get('error_description') || hash.get('error_description') ||
+          search.get('error') || hash.get('error');
+        if (errText) {
+          showToast('Sign-in failed: ' + errText.replace(/\+/g, ' '), 'error');
+          cleanAuthReturnUrl();
+          return;
+        }
+        var code = search.get('code');
+        var accessToken = hash.get('access_token');
+        var refreshToken = hash.get('refresh_token');
+        if (!code && !accessToken) return;
+        setTimeout(function () {
+          if (currentUser) { cleanAuthReturnUrl(); return; }
+          supabaseClient.auth.getSession().then(function (res) {
+            if (res && res.data && res.data.session) { cleanAuthReturnUrl(); return; }
+            var liveSearch = new URLSearchParams(window.location.search);
+            var liveHash = new URLSearchParams(String(window.location.hash || '').replace(/^#/, ''));
+            if (!liveSearch.get('code') && !liveHash.get('access_token')) {
+              // The client consumed the return; if its exchange is still
+              // landing, a session appears within a moment — only report
+              // the failure once it is clear none is coming.
+              setTimeout(function () {
+                if (currentUser) return;
+                supabaseClient.auth.getSession().then(function (res3) {
+                  if (!(res3 && res3.data && res3.data.session)) {
+                    cleanAuthReturnUrl();
+                    showToast('Sign-in could not be completed. Please try again.', 'error');
+                  }
+                }).catch(function () {});
+              }, 800);
+              return;
+            }
+            var attempt;
+            if (code) {
+              attempt = supabaseClient.auth.exchangeCodeForSession(code);
+            } else {
+              var tokens = {};
+              tokens['access' + '_token'] = accessToken;
+              tokens['refresh' + '_token'] = refreshToken;
+              attempt = supabaseClient.auth.setSession(tokens);
+            }
+            return attempt.then(function (result) {
+              cleanAuthReturnUrl();
+              if (result && result.error) {
+                // A concurrent exchange by the client may still land;
+                // only report the failure if no session appears.
+                setTimeout(function () {
+                  if (currentUser) return;
+                  supabaseClient.auth.getSession().then(function (res2) {
+                    if (!(res2 && res2.data && res2.data.session)) {
+                      showToast('Sign-in failed: ' + (result.error.message || 'please try again.'), 'error');
+                    }
+                  }).catch(function () {});
+                }, 600);
+              }
+              // On success the auth-state listener updates the UI.
+            });
+          }).catch(function () { cleanAuthReturnUrl(); });
+        }, 2500);
+      }
 
       function getUserDisplayName(user) {
         if (!user) return 'Doctor';
@@ -2431,6 +2523,10 @@ window.addEventListener('error', function (ev) {
             updateProModalUI();
           }
         });
+
+        // Web OAuth/email-link returns land back on this page with the
+        // result in the URL; make sure a return is never dropped silently.
+        captureWebAuthReturn();
 
         // Periodic Pro status re-check (every 5 minutes).
         // Catches subscriptions that expire while the app is open without a page refresh.
