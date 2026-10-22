@@ -2373,9 +2373,17 @@ window.addEventListener('error', function (ev) {
             updateMastheadAuth();
             updateProModalUI();
             refreshProStatus();
+          } else {
+            // No session: still render the masthead auth controls, so the
+            // signed-out Sign In pill also appears on the pre-rendered SEO
+            // pages (subject/topic hubs), whose static header markup has no
+            // auth element of its own.
+            updateMastheadAuth();
+            updateProModalUI();
           }
         }).catch(function (err) {
           console.warn('Session check error:', err);
+          updateMastheadAuth();
         });
 
         supabaseClient.auth.onAuthStateChange(function (event, session) {
