@@ -25,6 +25,9 @@ window.addEventListener('error', function (ev) {
           } else if (window.dataLayer && Array.isArray(window.dataLayer)) {
             window.dataLayer.push(Object.assign({ event: eventName }, eventParams || {}));
           }
+          if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.logEvent === 'function') {
+            window.MedLadderAndroidApp.logEvent(eventName, JSON.stringify(eventParams || {}));
+          }
         } catch (err) {}
       }
 
@@ -1783,11 +1786,11 @@ window.addEventListener('error', function (ev) {
           '</a>' +
           '</div>' +
           '<div class="footer-links-row">' +
-          '<a href="/privacy" class="footer-link">Privacy Policy</a>' +
+          '<a href="/privacy.html" class="footer-link">Privacy Policy</a>' +
           '<span class="footer-dot" aria-hidden="true">·</span>' +
-          '<a href="/terms" class="footer-link">Terms of Service</a>' +
+          '<a href="/terms.html" class="footer-link">Terms of Service</a>' +
           '<span class="footer-dot" aria-hidden="true">·</span>' +
-          '<a href="/terms#cancellation-refund" class="footer-link">Refund Policy</a>' +
+          '<a href="/terms.html#cancellation-refund" class="footer-link">Refund Policy</a>' +
           (isAdmin(currentUser) ? '<span class="footer-dot" aria-hidden="true">·</span><a href="#" class="admin-footer-link footer-link admin-pill">👑 Admin Access</a>' : '') +
           '</div>' +
           '<div class="footer-copy"><strong>MedLadder</strong> · Medical Entrance Exam Question Bank</div>' +
@@ -4558,6 +4561,30 @@ window.addEventListener('error', function (ev) {
         }
       });
 
+      // Open external footer social and community links cleanly
+      document.addEventListener('click', function (e) {
+        var socialLink = e.target && e.target.closest ? e.target.closest('a.footer-social-btn, .footer-content a[target="_blank"]') : null;
+        if (socialLink && socialLink.href) {
+          var isNative = !!(
+            (window.MedLadderNative && window.MedLadderNative.isNative) ||
+            window.MedLadderAndroidApp ||
+            (window.Capacitor && typeof window.Capacitor.isNativePlatform === 'function' && window.Capacitor.isNativePlatform()) ||
+            (document.documentElement && document.documentElement.classList.contains('is-native-app')) ||
+            (document.body && document.body.classList.contains('is-native-app'))
+          );
+          if (isNative) {
+            e.preventDefault();
+            if (window.Capacitor && window.Capacitor.Plugins && window.Capacitor.Plugins.Browser) {
+              window.Capacitor.Plugins.Browser.open({ url: socialLink.href });
+            } else if (window.MedLadderNative && window.MedLadderNative.Browser) {
+              window.MedLadderNative.Browser.open({ url: socialLink.href });
+            } else {
+              window.open(socialLink.href, '_system');
+            }
+          }
+        }
+      });
+
       // Prevent any link navigation from inside explanations
       document.addEventListener('click', function (e) {
         var link = e.target && e.target.closest ? e.target.closest('.explain a, .rexplain a, .explain-text-link') : null;
@@ -4869,6 +4896,18 @@ window.addEventListener('error', function (ev) {
         }
         if (path === '/admin-mock' || path === '/admin-mock.html') {
           window.location.replace('/admin-mock.html' + (window.location.search || ''));
+          return;
+        }
+        if (path === '/privacy' || path === '/privacy.html') {
+          window.location.replace('/privacy.html' + (window.location.search || '') + (window.location.hash || ''));
+          return;
+        }
+        if (path === '/terms' || path === '/terms.html') {
+          window.location.replace('/terms.html' + (window.location.search || '') + (window.location.hash || ''));
+          return;
+        }
+        if (path === '/neet-ss-books' || path === '/neet-ss-books.html') {
+          window.location.replace('/neet-ss-books.html' + (window.location.search || ''));
           return;
         }
         var exams = {

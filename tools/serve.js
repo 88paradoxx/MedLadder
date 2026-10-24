@@ -32,6 +32,9 @@ const server = http.createServer((req, res) => {
   const cleanRouteFiles = {
     '/privacy': '/privacy.html',
     '/terms': '/terms.html',
+    '/mock-test': '/mock-test.html',
+    '/admin-mock': '/admin-mock.html',
+    '/neet-ss-books': '/neet-ss-books.html',
     '/landing': '/landing.html'
   };
   const cleanRouteKey = safePath.replace(/\\/g, '/');

@@ -97,7 +97,16 @@
     t._h = setTimeout(function () { t.hidden = true; }, 3200);
   }
   /* Share via the native sheet where available, else copy the link. */
+  function normalizeShareUrl(url) {
+    if (!url) return 'https://medladder.top/mock-test';
+    return String(url).replace(/^(https?:\/\/localhost(:\d+)?|capacitor:\/\/localhost)/i, 'https://medladder.top');
+  }
+  function getShareUrl(testId) {
+    var id = testId ? encodeURIComponent(testId) : '';
+    return 'https://medladder.top/mock-test' + (id ? '?id=' + id : '');
+  }
   function shareLink(title, text, url) {
+    url = normalizeShareUrl(url);
     if (window.navigator && navigator.share) {
       navigator.share({ title: title, text: text, url: url }).catch(function () {});
       return;
@@ -847,7 +856,7 @@
           card.querySelector('[data-act="share"]').onclick = function () {
             shareLink(t.title,
               'Join this free mock test on MedLadder: ' + t.title,
-              location.origin + '/mock-test?id=' + t.id);
+              getShareUrl(t.id));
           };
           list.appendChild(card);
         });
@@ -1098,7 +1107,7 @@
       shareLink(title,
         'I ranked ' + rank + ' scoring ' + score + ' in "' + title +
         '" on MedLadder! Can you beat me?',
-        location.href);
+        getShareUrl(currentTest ? currentTest.id : ''));
     };
   }
 

@@ -13,19 +13,45 @@ import android.webkit.WebView;
 import android.widget.Toast;
 import com.getcapacitor.BridgeActivity;
 import com.getcapacitor.BridgeWebViewClient;
+import com.google.firebase.analytics.FirebaseAnalytics;
+import org.json.JSONObject;
+import java.util.Iterator;
 
 public class MainActivity extends BridgeActivity {
+
+    private FirebaseAnalytics mFirebaseAnalytics;
 
     public class NativeBridge {
         @android.webkit.JavascriptInterface
         public void downloadApk(String downloadUrl) {
             runOnUiThread(() -> triggerNativeDownload(downloadUrl));
         }
+
+        @android.webkit.JavascriptInterface
+        public void logEvent(String eventName, String paramsJson) {
+            try {
+                Bundle bundle = new Bundle();
+                if (paramsJson != null && !paramsJson.isEmpty()) {
+                    JSONObject obj = new JSONObject(paramsJson);
+                    Iterator<String> keys = obj.keys();
+                    while (keys.hasNext()) {
+                        String k = keys.next();
+                        bundle.putString(k, obj.optString(k));
+                    }
+                }
+                if (mFirebaseAnalytics != null) {
+                    mFirebaseAnalytics.logEvent(eventName, bundle);
+                }
+            } catch (Exception ignored) {}
+        }
     }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        try {
+            mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+        } catch (Exception ignored) {}
         setupDownloadBridge();
         setupUpiIntentHandler();
     }
@@ -45,12 +71,13 @@ public class MainActivity extends BridgeActivity {
     }
 
     /**
-     * Lets Razorpay's UPI flow work inside the app's WebView.
+     * Lets Razorpay's UPI flow and external social links work inside the app's WebView.
      *
      * 1. Strips '; wv' and 'Version/X.X' so Razorpay detects standard Chrome on Android
      *    and renders the UPI payment methods instead of suppressing them.
      * 2. Catches upi://, intent://, tez://, phonepe://, paytmmp://, etc. and dispatches
      *    them to installed UPI apps via Android's Intent system.
+     * 3. Dispatches external social links (FB, Instagram, X, Telegram) to external apps/browser.
      */
     private void setupUpiIntentHandler() {
         try {
@@ -122,6 +149,23 @@ public class MainActivity extends BridgeActivity {
                             return false;
                         }
                     }
+
+                    // 3. External social & community links (open outside the WebView)
+                    if (url.startsWith("https://www.facebook.com/") || url.startsWith("https://facebook.com/")
+                            || url.startsWith("https://www.instagram.com/") || url.startsWith("https://instagram.com/")
+                            || url.startsWith("https://x.com/") || url.startsWith("https://twitter.com/")
+                            || url.startsWith("https://t.me/") || url.startsWith("https://telegram.me/")) {
+                        try {
+                            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+                            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                            view.getContext().startActivity(intent);
+                            return true;
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                            return false;
+                        }
+                    }
+
                     return false;
                 }
             });

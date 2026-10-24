@@ -63,3 +63,8 @@ android/app/build/
 *.jks
 *.keystore
 
+# Firebase & Google services config (never commit API keys)
+google-services.json
+*/google-services.json
+
+

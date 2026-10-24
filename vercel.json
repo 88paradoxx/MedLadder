@@ -13,6 +13,26 @@
       "destination": "/MedLadder-latest.apk"
     },
     {
+      "source": "/privacy",
+      "destination": "/privacy.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/terms.html"
+    },
+    {
+      "source": "/mock-test",
+      "destination": "/mock-test.html"
+    },
+    {
+      "source": "/admin-mock",
+      "destination": "/admin-mock.html"
+    },
+    {
+      "source": "/neet-ss-books",
+      "destination": "/neet-ss-books.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
