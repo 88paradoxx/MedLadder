@@ -36,6 +36,17 @@ if os.path.exists(_samples_path):
     with open(_samples_path, "r", encoding="utf-8") as _f:
         SAMPLES = json.load(_f)
 
+# Curated per-topic About sections (Oct 2026): one individually written
+# text per topic, replacing the old formula-built About (which produced
+# generic "Covers {concepts}" text with junk terms). The generator FAILS
+# if any topic lacks an entry — a missing About must never silently
+# fall back to a formula.
+ABOUTS = {}
+_abouts_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "about_sections.json")
+if os.path.exists(_abouts_path):
+    with open(_abouts_path, "r", encoding="utf-8") as _f:
+        ABOUTS = json.load(_f)
+
 # Pinned (never a floating "@2") so a compromised/breaking release can't reach the site.
 # To add Subresource Integrity, see supabase/README.md ("Pin + SRI") and add integrity="sha384-..." below.
 SUPABASE_JS_URL = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"
@@ -442,13 +453,9 @@ def topic_concepts(samples, mod_name, subj_name, max_terms=4):
 
 
 def build_topic_about(mod_name, concepts, phrases):
-    """Short topic-specific description for the About section.
-
-    Deliberately carries ONLY the new information (what the questions
-    cover). It must NOT restate the hero subtitle (topic/section/subject/
-    count), which already sits directly above this section — restating it
-    put the same description on every page twice (Cell Death, Oct 2026).
-    """
+    """SUPERSEDED (Oct 2026): Abouts now come from about_sections.json
+    (one curated text per topic). Kept for reference only; the generator
+    no longer calls this — do not reintroduce a formula About."""
     if concepts:
         conc = _join_terms(concepts)
     else:
@@ -1036,8 +1043,11 @@ def main():
                        f"each with the correct answer and a detailed explanation.")
 
             samples = SAMPLES.get(str(mod.get("id")), [])
-            _concepts = topic_concepts(samples, mod["name"], subj["name"])
-            m_about = build_topic_about(mod["name"], _concepts, _phrases)
+            # Curated About (Oct 2026) from about_sections.json. Fail loudly
+            # on a gap — never silently fall back to a formula About.
+            m_about = ABOUTS.get(str(mod.get("id")))
+            if m_about is None:
+                raise SystemExit(f"Missing curated About for module {mod['id']} {mod['name']} — refusing to regen with a gap")
             # Two FAQs, neither duplicating the hero: what the questions
             # cover (the About text) and the real count + exams.
             m_faqs = [
