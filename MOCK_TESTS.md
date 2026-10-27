@@ -12,15 +12,28 @@ with an admin account — `app_metadata.role = 'admin'`, see `grant-admin.sql`).
 - **Question editor:** add questions one by one (text, options A–E, answer,
   explanation, subject), edit or delete existing ones.
 - **Bulk paste:** drop many questions at once using the documented block format
-  (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:, blocks split by `---`).
-  Preview before importing.
+  (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:/Topic:, blocks split by `---`).
+  Preview before importing. Batch subject/topic selects above the box
+  override a block's own Subject:/Topic: labels when set; leave them unset
+  to route each block from its own labels. Topic names resolve against the
+  syllabus (within the effective subject when given, else globally when
+  unique) and are stored as the snapshot's topic. Every valid
+  question goes to the mock; questions with a resolved topic, options C + D
+  and an explanation ALSO go to the question bank, live immediately. Failed
+  blocks never stop the batch — they are put back in the box for fixing.
 - **Fill from bank:** snapshot N random bank questions into the test (for the
   weekly cadence).
-- **Question bank authoring (Question bank tab):** pick a subject, then a
-  topic (sliding subject/topic menu, same data as the main site), and add
+- **Question bank authoring (Question bank tab):** pick a subject and topic
+  from the dropdowns in the form (same data as the main site), and add
   questions one by one (text, options A–E, answer, explanation). Questions
   go live in the bank immediately — no review queue — and the form stays on
-  the same topic for rapid entry.
+  the same topic for rapid entry. The tab also has a bulk paste box: same
+  block format as the editor (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:/
+  Topic:, blocks split by `---`), bank-only writes, with batch subject/topic
+  selects above the box (same as the editor): when set they override block
+  labels; when unset each block routes from its own Subject:/Topic:. Only
+  blocks with a resolved topic, options C + D and an
+  explanation are imported; the rest are listed as skipped.
 - **Fill from subjects (test editor):** pick a subject, tick topics, enter a
   count, and Draw snapshots that many random questions from just those
   topics into the test. New tests start as draft; publish with the existing
