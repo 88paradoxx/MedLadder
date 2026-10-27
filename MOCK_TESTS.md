@@ -26,7 +26,12 @@ with an admin account — `app_metadata.role = 'admin'`, see `grant-admin.sql`).
   topic (sliding subject/topic menu, same data as the main site), and add
   questions one by one (text, options A–E, answer, explanation). Questions
   go live in the bank immediately — no review queue — and the form stays on
-  the same topic for rapid entry.
+  the same topic for rapid entry. The tab also has a bulk paste box: same
+  block format as the editor (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:/
+  Topic:, blocks split by `---`), bank-only writes, with the picked topic as
+  the default for blocks that omit Subject:/Topic:. Only blocks with a
+  resolved topic, options C + D and an explanation are imported; the rest
+  are listed as skipped.
 - **Fill from subjects (test editor):** pick a subject, tick topics, enter a
   count, and Draw snapshots that many random questions from just those
   topics into the test. New tests start as draft; publish with the existing

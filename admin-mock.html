@@ -70,6 +70,32 @@
           <div class="am-wide"><button class="am-btn am-btn-primary" type="submit">Add to bank</button>
             <span id="bankInfo" class="am-hint"></span></div>
         </form>
+        <h3>Bulk paste</h3>
+        <div class="am-card">
+          <p class="am-hint">One block per question, separated by <code>---</code>.
+            Blocks without Subject:/Topic: use the topic picked above. A block's own
+            labels always win. Only questions with a resolved topic, options C + D
+            and an explanation can go to the bank — the preview lists the rest as
+            skipped with the reason.
+<pre class="am-sample">Q: A 45-year-old man has…
+A: First option
+B: Second option
+C: Third option
+D: Fourth option
+Answer: B
+Explanation: Because…
+Subject: Anatomy
+Topic: Cardiovascular, Lymphatic and Nervous Systems
+---
+Q: Next question…</pre></p>
+          <textarea id="bankBulkText" rows="10" class="am-wide" placeholder="Paste questions here…"></textarea>
+          <div class="am-row" style="margin-top:10px">
+            <button id="bankBulkParseBtn" class="am-btn">Preview</button>
+            <button id="bankBulkImportBtn" class="am-btn am-btn-primary" disabled>Import to bank</button>
+            <span id="bankBulkInfo" class="am-hint"></span>
+          </div>
+          <div id="bankBulkPreview" class="am-list" style="margin-top:10px"></div>
+        </div>
       </section>
 
       <!-- editor -->

@@ -336,6 +336,8 @@
     };
     $('bankBackBtn').onclick = loadTests;
     $('bankQForm').onsubmit = submitBankQuestion;
+    $('bankBulkParseBtn').onclick = previewBankBulk;
+    $('bankBulkImportBtn').onclick = importBankBulk;
     $('subjFillBtn').onclick = drawFromTopics;
     // Auto-fill the end time when a start time is picked (start + duration),
     // and always derive the duration from the start/end window.
@@ -717,6 +719,98 @@
           }
           next();
         });
+      });
+    }
+    next();
+  }
+
+  /* ---------- bank-tab bulk paste ----------
+   * Same block format and topic resolution as the editor's bulk paste,
+   * but bank-only: no mock is involved. The topic picked in the menu
+   * above is the default for blocks that omit Subject:/Topic:; a
+   * block's own labels win. A block is importable only with a resolved
+   * topic AND options C + D AND an explanation (bank rules) — the rest
+   * are listed as skipped in preview, never imported silently.
+   * Failures are collected per question and failed blocks are put
+   * back in the box, exactly like the editor import. */
+  var bankBulkParsed = [];
+
+  function previewBankBulk() {
+    var parsed = parseBulk($('bankBulkText').value);
+    var defSubj = bankTopic ? bankTopic.subject : '';
+    var defTopic = bankTopic ? bankTopic.name : '';
+    bankBulkParsed = parsed.questions;
+    var willImport = 0;
+    bankBulkParsed.forEach(function (q) {
+      var r = resolveBulkTopic(q, defSubj, defTopic);
+      q._moduleId = r.moduleId; q._subject = r.subject; q._topicName = r.topicName;
+      q._topicStatus = r.status; q._note = r.note;
+      q._bankOk = r.status === 'ok' && !!q.c && !!q.d && !!q.explanation;
+      if (q._bankOk) willImport++;
+    });
+    var pv = $('bankBulkPreview');
+    $('bankBulkInfo').textContent = bankBulkParsed.length + ' valid question(s) · ' +
+      willImport + ' will import · ' + (bankBulkParsed.length - willImport) + ' skipped' +
+      (parsed.skipped ? ' · ' + parsed.skipped + ' block(s) dropped (need Q + A + B + answer).' : '') +
+      (!bankTopic ? ' Pick a topic above to use it as the default.' : '');
+    $('bankBulkImportBtn').disabled = !willImport;
+    pv.innerHTML = '';
+    bankBulkParsed.slice(0, 5).forEach(function (q, i) {
+      var div = document.createElement('div');
+      div.className = 'am-q';
+      var loc = q._topicStatus === 'ok'
+        ? esc(q._subject) + ' / ' + esc(q._topicName)
+        : (q._subject ? esc(q._subject) + ' · ' : '') + esc(q._note || 'no topic');
+      var verdict = q._bankOk ? 'will import'
+        : 'skipped' + (q._topicStatus === 'ok' ? ' (needs C + D + explanation)' : '');
+      div.innerHTML = '<div class="qhead"><span class="n">#' + (i + 1) + '</span></div>' +
+        '<div class="qt">' + esc(q.text.slice(0, 160)) + (q.text.length > 160 ? '…' : '') + '</div>' +
+        '<div class="opts">Answer: <b>' + q.answer.toUpperCase() + '</b> · ' + loc + ' · ' + verdict + '</div>';
+      pv.appendChild(div);
+    });
+    if (bankBulkParsed.length > 5) {
+      pv.innerHTML += '<p class="am-hint">…and ' + (bankBulkParsed.length - 5) + ' more.</p>';
+    }
+  }
+
+  function importBankBulk() {
+    var queue = [];
+    bankBulkParsed.forEach(function (q, k) {
+      if (q._bankOk) queue.push({ q: q, n: k + 1 });
+    });
+    if (!queue.length) return;
+    $('bankBulkImportBtn').disabled = true;
+    $('bankBulkInfo').textContent = 'Importing…';
+    var i = 0, done = 0, failures = [];
+    function finish() {
+      var msg = 'Imported ' + done + ' to bank.';
+      var skipped = bankBulkParsed.length - queue.length;
+      if (skipped) msg += ' ' + skipped + ' skipped (see preview).';
+      if (failures.length) {
+        msg += ' Failed: ' + failures.map(function (f) {
+          return '#' + f.n + ' (' + f.reason + ')';
+        }).join('; ') + '. Failed blocks are back in the box — fix and re-preview.';
+        $('bankBulkText').value = failures.map(function (f) { return f.q._raw; }).join('\n---\n');
+      } else {
+        $('bankBulkText').value = '';
+      }
+      bankBulkParsed = [];
+      $('bankBulkInfo').textContent = msg;
+    }
+    function next() {
+      if (i >= queue.length) { finish(); return; }
+      var item = queue[i++];
+      var q = item.q;
+      $('bankBulkInfo').textContent = 'Importing… ' + i + '/' + queue.length;
+      sb.rpc('admin_add_bank_question', {
+        p_module_id: q._moduleId, p_subject: q._subject,
+        p_question_text: q.text, p_option_a: q.a, p_option_b: q.b,
+        p_option_c: q.c, p_option_d: q.d, p_option_e: q.e,
+        p_answer: q.answer, p_explanation: q.explanation
+      }).then(function (br) {
+        if (br.error) failures.push({ n: item.n, reason: rpcErr(br.error), q: q });
+        else done++;
+        next();
       });
     }
     next();
