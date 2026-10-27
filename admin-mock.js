@@ -532,10 +532,11 @@
    * Subject:, Topic:. Q text and Explanation may span lines; other
    * labels are single-line. A block is valid for the mock when it has
    * Q + A + B + an answer.
-   * Batch defaults (the two selects above the box) fill blocks that
-   * omit Subject:/Topic:; a block's own labels always win. Topic names
-   * resolve against window.SYLLABUS_DATA: inside the block's subject
-   * when one is given, otherwise globally when the name is unique
+   * Batch selects (the two dropdowns above the box) override a block's
+   * own Subject:/Topic: labels when set; leave them unset to route
+   * each block from its own labels. Topic names resolve against
+   * window.SYLLABUS_DATA: inside the effective subject when one is
+   * given, otherwise globally when the name is unique
    * (19 topics share the name "Mixed / Miscellaneous Topics", so a
    * bare topic name is ambiguous without its subject).
    * Every valid question is saved to the mock. Questions with a
@@ -603,8 +604,12 @@
   }
 
   function resolveBulkTopic(q, defSubj, defTopic) {
-    var subj = (q.subject || defSubj || '').trim();
-    var topic = (q.topic || defTopic || '').trim();
+    // The batch selects override the block's own labels when set: the
+    // user only picks them when they know the source, so the pasted
+    // text is never second-guessed. Unset selects fall back to the
+    // block's Subject:/Topic: labels.
+    var subj = (defSubj || q.subject || '').trim();
+    var topic = (defTopic || q.topic || '').trim();
     if (!topic) {
       return { moduleId: null, subject: subj, topicName: '', status: 'no-topic', note: '' };
     }
@@ -757,10 +762,10 @@
 
   /* ---------- bank-tab bulk paste ----------
    * Same block format and topic resolution as the editor's bulk paste,
-   * but bank-only: no mock is involved. Batch subject/topic defaults
-   * above the box (same as the editor) fill blocks that omit
-   * Subject:/Topic:; a block's own labels win. Nothing is inherited
-   * from the topic picked in the menu above. A block is importable
+   * but bank-only: no mock is involved. Batch subject/topic selects
+   * above the box (same as the editor) override a block's own labels
+   * when set; leave them unset to route each block from its own
+   * labels. A block is importable
    * only with a resolved topic AND options C + D AND an explanation
    * (bank rules) — the rest are listed as skipped in preview, never
    * imported silently. Failures are collected per question and failed

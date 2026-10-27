@@ -13,10 +13,11 @@ with an admin account — `app_metadata.role = 'admin'`, see `grant-admin.sql`).
   explanation, subject), edit or delete existing ones.
 - **Bulk paste:** drop many questions at once using the documented block format
   (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:/Topic:, blocks split by `---`).
-  Preview before importing. Batch subject/topic defaults above the box fill
-  blocks that omit Subject:/Topic:; a block's own labels win. Topic names
-  resolve against the syllabus (within the block's subject when given, else
-  globally when unique) and are stored as the snapshot's topic. Every valid
+  Preview before importing. Batch subject/topic selects above the box
+  override a block's own Subject:/Topic: labels when set; leave them unset
+  to route each block from its own labels. Topic names resolve against the
+  syllabus (within the effective subject when given, else globally when
+  unique) and are stored as the snapshot's topic. Every valid
   question goes to the mock; questions with a resolved topic, options C + D
   and an explanation ALSO go to the question bank, live immediately. Failed
   blocks never stop the batch — they are put back in the box for fixing.
@@ -29,8 +30,9 @@ with an admin account — `app_metadata.role = 'admin'`, see `grant-admin.sql`).
   the same topic for rapid entry. The tab also has a bulk paste box: same
   block format as the editor (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:/
   Topic:, blocks split by `---`), bank-only writes, with batch subject/topic
-  defaults above the box (same as the editor) for blocks that omit
-  Subject:/Topic:. Only blocks with a resolved topic, options C + D and an
+  selects above the box (same as the editor): when set they override block
+  labels; when unset each block routes from its own Subject:/Topic:. Only
+  blocks with a resolved topic, options C + D and an
   explanation are imported; the rest are listed as skipped.
 - **Fill from subjects (test editor):** pick a subject, tick topics, enter a
   count, and Draw snapshots that many random questions from just those
