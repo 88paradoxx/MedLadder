@@ -363,6 +363,24 @@ _CONCEPT_STOP = set(_GENERIC_PHRASES) | set(_XSTOP) | {
     "worse", "longer", "shorter", "short", "long",
     "pass", "passes", "passing",
     "have", "few", "presented", "topic", "year-old", "until", "min",
+    # generic quantifiers, colors, descriptors, verbs and adverbs that
+    # surface as fake "concepts" (Cell Death showed "red and only")
+    "only", "both", "each", "every", "either", "neither", "none",
+    "much", "many", "even", "still",
+    "red", "white", "black", "blue", "yellow", "green", "brown",
+    "pink", "purple", "grey", "gray", "orange",
+    "characterized", "characterised", "manifested", "manifests",
+    "change", "changes",
+    "contain", "contains", "remain", "remains", "become", "becomes",
+    "produce", "produces", "form", "forms", "allow", "allows",
+    "require", "requires",
+    "sometimes", "occasionally", "frequently", "generally", "mostly",
+    "mainly", "primarily", "largely", "seldom", "hardly", "barely",
+    "nearly", "almost", "quite", "rather", "very", "too", "just",
+    "already",
+    # citation words (belt-and-braces: the reference-line strip below can
+    # miss HTML-encoded dashes, e.g. "Reference &ndash; ...")
+    "reference", "references", "textbook", "edition", "page",
 }
 
 
@@ -398,10 +416,15 @@ def topic_concepts(samples, mod_name, subj_name, max_terms=4):
     forms = {}
     for sm in samples:
         # explanations usually end with a "Reference: ..." citation line;
-        # cut it so textbook names and edition/page words never become concepts
-        e_text = re.split(r"references?\s*[:\-]|ref\s*[.:-]", sm['e'], flags=re.I)[0]
+        # cut it so textbook names and edition/page words never become concepts.
+        # Strip HTML entities first: citations often use "&ndash;" for the dash,
+        # which the plain "reference:" pattern would miss (and "ndash" itself
+        # would otherwise surface as a fake concept).
+        e_text = re.sub(r"&[a-z]+;", " ", sm['e'])
+        e_text = re.split(r"references?\s*[:\-]|ref\s*[.:-]", e_text, flags=re.I)[0]
+        q_text = re.sub(r"&[a-z]+;", " ", sm['q'])
         stems = set()
-        for w in re.findall(r"[a-z][a-z\-']{2,}", f"{sm['q']} {e_text}".lower()):
+        for w in re.findall(r"[a-z][a-z\-']{2,}", f"{q_text} {e_text}".lower()):
             w = w.strip("-'")
             if len(w) < 3 or w in banned:
                 continue
@@ -418,15 +441,20 @@ def topic_concepts(samples, mod_name, subj_name, max_terms=4):
     return [forms[st].most_common(1)[0][0] for st in ranked[:max_terms]]
 
 
-def build_topic_about(mod_name, subj_name, section, qcount, concepts, phrases):
-    """Short topic-specific description for the About section and FAQ Q1."""
+def build_topic_about(mod_name, concepts, phrases):
+    """Short topic-specific description for the About section.
+
+    Deliberately carries ONLY the new information (what the questions
+    cover). It must NOT restate the hero subtitle (topic/section/subject/
+    count), which already sits directly above this section — restating it
+    put the same description on every page twice (Cell Death, Oct 2026).
+    """
     if concepts:
         conc = _join_terms(concepts)
     else:
         conc = _join_terms(phrases[:3])
     return (
-        f"{mod_name} is part of the {section} section of {subj_name}. "
-        f"Practise {qcount:,} {mod_name} MCQs covering {conc} — high-yield {mod_name} MCQs "
+        f"Covers {conc} — high-yield {mod_name} MCQs "
         f"for NEET PG, FMGE, INI-CET and NEET SS revision, each with a detailed explanation."
     )
 
@@ -1009,23 +1037,19 @@ def main():
 
             samples = SAMPLES.get(str(mod.get("id")), [])
             _concepts = topic_concepts(samples, mod["name"], subj["name"])
-            m_about = build_topic_about(mod["name"], subj["name"], mod.get("section", "core"),
-                                        mod.get("questionCount", 0), _concepts, _phrases)
+            m_about = build_topic_about(mod["name"], _concepts, _phrases)
+            # Two FAQs, neither duplicating the hero: what the questions
+            # cover (the About text) and the real count + exams.
             m_faqs = [
                 {
-                    "q": f"What is {mod['name']}?",
+                    "q": f"What do {mod['name']} MCQs cover?",
                     "a": m_about
                 },
+                {
+                    "q": f"How many {mod['name']} questions are there, and which exams do they cover?",
+                    "a": f"MedLadder includes {mod.get('questionCount', 0):,} curated MCQs for {mod['name']} under {subj['name']} ({mod.get('section', 'General')}), covering NEET PG, FMGE, INI-CET and NEET SS preparation."
+                },
             ]
-            if _concepts:
-                m_faqs.append({
-                    "q": f"What concepts are covered in {mod['name']} MCQs?",
-                    "a": f"The {mod.get('questionCount', 0):,} {mod['name']} questions cover {_join_terms(_concepts)}, with a detailed explanation for every answer."
-                })
-            m_faqs.append({
-                "q": f"How many {mod['name']} questions are there, and which exams do they cover?",
-                "a": f"MedLadder includes {mod.get('questionCount', 0):,} curated MCQs for {mod['name']} under {subj['name']} ({mod.get('section', 'General')}), covering NEET PG, FMGE, INI-CET and NEET SS preparation."
-            })
             m_schemas = [
                 {
                     "@context": "https://schema.org",
