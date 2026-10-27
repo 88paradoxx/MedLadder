@@ -12,8 +12,14 @@ with an admin account — `app_metadata.role = 'admin'`, see `grant-admin.sql`).
 - **Question editor:** add questions one by one (text, options A–E, answer,
   explanation, subject), edit or delete existing ones.
 - **Bulk paste:** drop many questions at once using the documented block format
-  (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:, blocks split by `---`).
-  Preview before importing.
+  (Q:/A:/B:/C:/D:/E:/Answer:/Explanation:/Subject:/Topic:, blocks split by `---`).
+  Preview before importing. Batch subject/topic defaults above the box fill
+  blocks that omit Subject:/Topic:; a block's own labels win. Topic names
+  resolve against the syllabus (within the block's subject when given, else
+  globally when unique) and are stored as the snapshot's topic. Every valid
+  question goes to the mock; questions with a resolved topic, options C + D
+  and an explanation ALSO go to the question bank, live immediately. Failed
+  blocks never stop the batch — they are put back in the box for fixing.
 - **Fill from bank:** snapshot N random bank questions into the test (for the
   weekly cadence).
 - **Question bank authoring (Question bank tab):** pick a subject, then a
