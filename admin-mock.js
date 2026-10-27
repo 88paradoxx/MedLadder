@@ -10,10 +10,7 @@
   var editingTestId = null;
   var editingQId = null;
   var bulkParsed = [];
-  var bankTopic = null;       // {id, name, subject} selected in the bank menu
-  var bankMenuState = null;
   var subjMenuState = null;
-  var bankMenuBuilt = false;
   var subjMenuBuilt = false;
 
   function $(id) { return document.getElementById(id); }
@@ -133,12 +130,53 @@
   }
 
   /* ---------- question bank authoring ---------- */
+  function populateBqDefaults() {
+    var subjSel = $('bqSubj'), topicSel = $('bqTopic');
+    if (!subjSel || !topicSel) return;
+    var idx = bulkBuildIndex();
+    if (!idx.subjects.length) {
+      subjSel.innerHTML = '<option value="">Subject list failed to load</option>';
+      subjSel.disabled = true; topicSel.disabled = true;
+      return;
+    }
+    subjSel.disabled = false;
+    var curSubj = subjSel.value, curTopic = topicSel.value;
+    subjSel.innerHTML = '<option value="">Select subject</option>';
+    idx.subjects.forEach(function (s) {
+      var o = document.createElement('option');
+      o.value = s.name; o.textContent = s.name;
+      subjSel.appendChild(o);
+    });
+    if (curSubj) subjSel.value = curSubj;
+    rebuildBqTopics();
+    if (curTopic) topicSel.value = curTopic;
+  }
+
+  function rebuildBqTopics() {
+    var subjSel = $('bqSubj'), topicSel = $('bqTopic');
+    if (!subjSel || !topicSel) return;
+    var idx = bulkBuildIndex();
+    var subj = idx.bySubject[(subjSel.value || '').toLowerCase()];
+    topicSel.innerHTML = '<option value="">Select topic</option>';
+    topicSel.disabled = !subj;
+    if (!subj) return;
+    subj.modules.forEach(function (m) {
+      var o = document.createElement('option');
+      o.value = m.name; o.textContent = m.name;
+      topicSel.appendChild(o);
+    });
+  }
+
   function submitBankQuestion(ev) {
     ev.preventDefault();
-    if (!bankTopic) { toast('Pick a subject and topic first.'); return; }
+    var subj = $('bqSubj') ? $('bqSubj').value : '';
+    var topic = $('bqTopic') ? $('bqTopic').value : '';
+    var hit = subj && topic
+      ? bulkBuildIndex().byKey[subj.toLowerCase() + '\n' + topic.toLowerCase()] : null;
+    if (!hit) { toast('Pick a subject and topic first.'); return; }
     var d = {
-      p_module_id: bankTopic.id,
-      p_subject: bankTopic.subject,
+      p_module_id: hit.id,
+      p_subject: hit.subject,
       p_question_text: $('bqText').value.trim(),
       p_option_a: $('bqA').value.trim(), p_option_b: $('bqB').value.trim(),
       p_option_c: $('bqC').value.trim(), p_option_d: $('bqD').value.trim(),
@@ -154,7 +192,7 @@
       var num = (r.data && r.data.question_num) || '';
       toast('Added to bank (question #' + num + ').');
       $('bankInfo').textContent = 'Last added: question #' + num + ' → ' +
-        bankTopic.subject + ' / ' + bankTopic.name;
+        hit.subject + ' / ' + hit.name;
       // Keep the subject/topic: only the question fields are cleared, so the
       // next question goes to the same topic without re-picking.
       ['bqText', 'bqA', 'bqB', 'bqC', 'bqD', 'bqE', 'bqExpl'].forEach(function (id) {
@@ -322,20 +360,11 @@
   function wireEditor() {
     $('backBtn').onclick = loadTests;
     $('newTestBtn').onclick = function () { openEditor(null); };
-    $('bankBtn').onclick = function () {
-      showView('bankView');
-      if (!bankMenuBuilt) {
-        bankMenuBuilt = true;
-        bankMenuState = buildTopicMenu($('bankMenu'), false, function (sel) {
-          bankTopic = sel[0] || null;
-          $('bankTopicLabel').textContent = bankTopic
-            ? 'Selected: ' + bankTopic.subject + ' / ' + bankTopic.name
-            : 'No topic selected yet — expand a subject above and pick a topic.';
-        });
-      }
-    };
+    $('bankBtn').onclick = function () { showView('bankView'); };
     $('bankBackBtn').onclick = loadTests;
     $('bankQForm').onsubmit = submitBankQuestion;
+    if ($('bqSubj')) $('bqSubj').onchange = rebuildBqTopics;
+    populateBqDefaults();
     $('bankBulkParseBtn').onclick = previewBankBulk;
     $('bankBulkImportBtn').onclick = importBankBulk;
     if ($('bankBulkSubj')) $('bankBulkSubj').onchange = rebuildBankBulkTopics;

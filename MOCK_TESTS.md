@@ -22,8 +22,8 @@ with an admin account — `app_metadata.role = 'admin'`, see `grant-admin.sql`).
   blocks never stop the batch — they are put back in the box for fixing.
 - **Fill from bank:** snapshot N random bank questions into the test (for the
   weekly cadence).
-- **Question bank authoring (Question bank tab):** pick a subject, then a
-  topic (sliding subject/topic menu, same data as the main site), and add
+- **Question bank authoring (Question bank tab):** pick a subject and topic
+  from the dropdowns in the form (same data as the main site), and add
   questions one by one (text, options A–E, answer, explanation). Questions
   go live in the bank immediately — no review queue — and the form stays on
   the same topic for rapid entry. The tab also has a bulk paste box: same

@@ -51,12 +51,12 @@
           <button id="bankBackBtn" class="am-btn">← All tests</button>
           <h1>Question bank</h1>
         </div>
-        <p class="am-hint">Pick a subject, then a topic. New questions go live in the bank
-          immediately — no review queue. After adding, the form stays on the same topic
-          so you can keep entering questions.</p>
-        <div id="bankMenu" class="am-list"></div>
-        <p id="bankTopicLabel" class="am-hint">No topic selected yet — expand a subject above and pick a topic.</p>
+        <p class="am-hint">New questions go live in the bank immediately — no review
+          queue. Pick a subject and topic in the form; after adding, the form stays
+          on the same topic so you can keep entering questions.</p>
         <form id="bankQForm" class="am-card am-form">
+          <label class="am-wide">Subject <select id="bqSubj"></select></label>
+          <label class="am-wide">Topic <select id="bqTopic"></select></label>
           <label class="am-wide">Question <textarea id="bqText" rows="3" required></textarea></label>
           <label>A <input id="bqA" required></label>
           <label>B <input id="bqB" required></label>
