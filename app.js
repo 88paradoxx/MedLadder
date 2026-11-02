@@ -4502,7 +4502,7 @@ window.addEventListener('error', function (ev) {
         var q = currentQuestion();
         if (!q || String(btn.getAttribute('data-qid')) !== String(q.id)) return;
         var saved = isBookmarked(q.id);
-        btn.textContent = saved ? '🔖 Saved' : '🔖 Save';
+        btn.textContent = saved ? '🔖 Bookmarked' : '🔖 Bookmark';
         btn.classList.toggle('active', saved);
       }
 
@@ -4646,7 +4646,7 @@ window.addEventListener('error', function (ev) {
               };
             }
             if (!marks.length) {
-              listEl.innerHTML = '<p class="bm-hint">No bookmarks yet. While practising, tap 🔖 Save on any question to keep it here.</p>';
+              listEl.innerHTML = '<p class="bm-hint">No bookmarks yet. While practising, tap 🔖 Bookmark on any question to keep it here.</p>';
               return;
             }
             var ids = marks.map(function (m) { return m.question_id; });
