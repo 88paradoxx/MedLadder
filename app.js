@@ -3083,9 +3083,9 @@ window.addEventListener('error', function (ev) {
             '</div>' +
             bookmarksHomeCardHtml() +
             '</div>' +
-            pyqSectionHtml +
             '<div class="subject-grid" id="subjectGrid">' + rows + '</div>' +
             '<div id="homeNoMatch" class="no-match-card hidden">No subjects match your search.</div>' +
+            pyqSectionHtml +
             modeNoteHtml() +
             '</main>' +
             footerHtml();
