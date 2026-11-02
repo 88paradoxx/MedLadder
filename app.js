@@ -4273,13 +4273,13 @@ window.addEventListener('error', function (ev) {
           '<div class="qprog-track"><div class="qprog-fill" style="width:' + Math.round(((state.idx) / total) * 100) + '%"></div></div>' +
           '<div class="qcard glass">' +
           '<h1 class="qnum-eyebrow" style="margin:0 0 10px;font-size:11px;line-height:1.4;">Question ' + (state.idx + 1) + ' of ' + total + ' · <span style="color:var(--accent);text-transform:none;letter-spacing:normal;font-weight:700;">' + esc(state.poolTitle) + '</span></h1>' +
+          (q.id ? '<div class="bm-top-row"><button class="btn secondary bm-btn' + (isBookmarked(q.id) ? ' active' : '') + '" id="bookmarkBtn" data-qid="' + q.id + '">' + (isBookmarked(q.id) ? '🔖 Bookmarked' : '🔖 Bookmark') + '</button><button class="btn secondary bm-btn" id="flagBtn" data-qid="' + q.id + '">🚩 Flag</button></div>' : '') +
           '<div class="qtext">' + renderQuestionContent(q.question || '', q.questionImages) + '</div>' +
           '<div class="options">' + optsHtml + '</div>' +
           explainHtml +
           '</div>' +
           '<div class="quiz-actions" style="display:flex;align-items:center;justify-content:space-between;margin-top:18px;">' +
           '<div class="quiz-shortcuts-hint" style="font-size:12px;color:var(--ink-soft);opacity:0.8;">Keys <strong>1-4</strong> or <strong>A-D</strong> · <strong>Enter</strong> to advance</div>' +
-          (q.id ? '<span class="bm-row"><button class="btn secondary bm-btn' + (isBookmarked(q.id) ? ' active' : '') + '" id="bookmarkBtn" data-qid="' + q.id + '">' + (isBookmarked(q.id) ? '🔖 Saved' : '🔖 Save') + '</button><button class="btn secondary bm-btn" id="flagBtn" data-qid="' + q.id + '">🚩 Flag</button></span>' : '') +
           '<button class="btn" id="nextBtn" ' + (existing ? '' : 'disabled') + '>' + (isLast ? 'See results' : 'Next question') + '</button>' +
           '</div>' +
           '</main>';
