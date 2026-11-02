@@ -3075,12 +3075,14 @@ window.addEventListener('error', function (ev) {
             '</div>' +
             '</div>' +
             '<div class="quick-actions-label">Quick actions</div>' +
+            '<div class="quick-actions-grid" id="quickActionsGrid">' +
             '<div class="custom-module-card" id="customModuleCard" role="button" tabindex="0">' +
             '<span class="custom-module-icon">🧩</span>' +
             '<span class="custom-module-copy"><strong>Custom Module</strong><span>Build a mixed quiz from every subject and topic.</span><small>50 · 100 · 150 · 200 · 300 · Custom&nbsp;&nbsp; · &nbsp;Practice or timed · Shuffle</small></span>' +
             '<span class="custom-module-arrow">›</span>' +
             '</div>' +
             bookmarksHomeCardHtml() +
+            '</div>' +
             pyqSectionHtml +
             '<div class="subject-grid" id="subjectGrid">' + rows + '</div>' +
             '<div id="homeNoMatch" class="no-match-card hidden">No subjects match your search.</div>' +
