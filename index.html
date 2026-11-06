@@ -4,7 +4,63 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="/theme-init.js"></script>
+  <!-- Theme init inlined verbatim from theme-init.js (same bytes; topic and subject pages still load the file). This is the only inline executable script, allowlisted by a CSP sha256 hash in _headers: if you edit the script, update the hash too. -->
+  <script>// Apply the saved theme before stylesheets paint, without an inline script.
+(function () {
+  try {
+    if (localStorage.getItem('medladder_theme') === 'light') {
+      document.documentElement.classList.remove('dark');
+    }
+  } catch (_) {}
+
+  window.medladderToggleTheme = function () {
+    document.documentElement.classList.add('theme-switching');
+    var isDark = document.documentElement.classList.toggle('dark');
+    try {
+      localStorage.setItem('medladder_theme', isDark ? 'dark' : 'light');
+    } catch (_) {}
+    var btns = document.querySelectorAll('.theme-toggle, #themeToggle');
+    btns.forEach(function (b) {
+      b.textContent = isDark ? '🌙' : '☀️';
+      b.title = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+      b.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+    });
+    if (typeof window.__onThemeToggle === 'function') {
+      try { window.__onThemeToggle(isDark); } catch (_) {}
+    }
+    requestAnimationFrame(function () {
+      requestAnimationFrame(function () {
+        document.documentElement.classList.remove('theme-switching');
+      });
+    });
+    return isDark;
+  };
+
+  function initThemeBtn() {
+    var isDark = document.documentElement.classList.contains('dark');
+    var btns = document.querySelectorAll('.theme-toggle, #themeToggle');
+    btns.forEach(function (b) {
+      b.textContent = isDark ? '🌙' : '☀️';
+      b.title = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+      b.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+      if (!b.__themeWired) {
+        b.__themeWired = true;
+        b.addEventListener('click', function (e) {
+          e.preventDefault();
+          e.stopPropagation();
+          window.medladderToggleTheme();
+        });
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initThemeBtn);
+  } else {
+    initThemeBtn();
+  }
+}());
+</script>
   <title>MedLadder — MBBS · NEET PG · FMGE · INI-CET · USMLE · PLAB · MRCS · MRCP QBank</title>
   <meta name="description" content="Prepare for MBBS, FMGE, NEET PG, INI-CET, NEET SS, USMLE, MCAT, PLAB, MRCS, MRCP and State PG exams with MedLadder. Practice 37,076 medical MCQs, previous-year questions, detailed explanations and track your performance.">
   <meta name="robots" content="index, follow, max-image-preview:large">

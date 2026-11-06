@@ -36,24 +36,17 @@
 
   function bannerHtml(mode, state) {
     if (mode === 'live') {
-      var t = state.live;
-      return '<span class="mock-live-dot"></span>' +
-        '<span style="flex:1;min-width:0;"><strong style="display:block;font-size:17px;">' +
-        '<span style="color:#22c55e;">LIVE NOW</span> &middot; ' + escapeHtml(t.title) + '</strong>' +
-        '<span style="opacity:.75;font-size:13px;">Ends ' + fmtDate(t.ends_at) +
-        ' &middot; join before time runs out</span></span>' +
-        '<span style="font-weight:800;font-size:14px;color:#22c55e;">Join &rsaquo;</span>';
+      // Uniform box: icon + name only. Live state still shows via the
+      // pulsing dot and the green border/glow set in renderBanner.
+      return '<span class="qa-icon">&#127942;</span>' +
+        '<span style="flex:1;min-width:0;display:flex;align-items:center;gap:8px;">' +
+        '<span class="mock-live-dot"></span>' +
+        '<strong style="font-size:15px;">Mock Tests</strong></span>' +
+        '<span style="font-size:20px;opacity:.7;">&rsaquo;</span>';
     }
-    var sub;
-    if (mode === 'next' && state.next) {
-      sub = 'Next: ' + escapeHtml(state.next.title) + ' &middot; ' + fmtDate(state.next.starts_at);
-    } else {
-      sub = 'Free All-India mocks &middot; real-time leaderboard';
-    }
-    return '<span style="font-size:28px;line-height:1;">&#127942;</span>' +
-      '<span style="flex:1;min-width:0;"><strong style="display:block;font-size:17px;">Live Mock Tests</strong>' +
-      '<span style="opacity:.72;font-size:13px;">' + sub + '</span></span>' +
-      '<span style="font-size:22px;opacity:.7;">&rsaquo;</span>';
+    return '<span class="qa-icon">&#127942;</span>' +
+      '<span style="flex:1;min-width:0;"><strong style="display:block;font-size:15px;">Mock Tests</strong></span>' +
+      '<span style="font-size:20px;opacity:.7;">&rsaquo;</span>';
   }
 
   function escapeHtml(s) {
@@ -65,9 +58,6 @@
     if (!isHome) return;
     ensureStyle();
     var mode = state && state.live ? 'live' : (state && state.next ? 'next' : 'idle');
-    var anchor = document.querySelector('.pyq-section-wrap, #pyqBankToggle');
-    if (!anchor || !anchor.parentNode) return;
-    var section = (anchor.closest && anchor.closest('.pyq-section-wrap')) || anchor;
     var el = document.getElementById(BANNER_ID);
     if (!el) {
       el = document.createElement('a');
@@ -77,14 +67,24 @@
         e.preventDefault();
         window.location.href = '/mock-test.html';
       };
-      section.parentNode.insertBefore(el, section);
+      // Join the quick-actions grid when it exists (compact 2+/row layout);
+      // otherwise fall back to sitting directly before the PYQ section.
+      var grid = document.getElementById('quickActionsGrid');
+      if (grid) {
+        grid.appendChild(el);
+      } else {
+        var anchor = document.querySelector('.pyq-section-wrap, #pyqBankToggle');
+        if (!anchor || !anchor.parentNode) return;
+        var section = (anchor.closest && anchor.closest('.pyq-section-wrap')) || anchor;
+        section.parentNode.insertBefore(el, section);
+      }
     }
     if (mode !== lastMode || !el.innerHTML) {
       lastMode = mode;
       var live = mode === 'live';
       el.setAttribute('style',
-        'display:flex;align-items:center;gap:14px;margin:18px 0;padding:18px 20px;' +
-        'border-radius:14px;text-decoration:none;color:inherit;cursor:pointer;' +
+        'display:flex;align-items:center;gap:10px;margin:0;padding:12px;' +
+        'border-radius:16px;text-decoration:none;color:inherit;cursor:pointer;' +
         (live
           ? 'background:linear-gradient(135deg,rgba(34,197,94,.22),rgba(34,197,94,.06));border:1px solid #22c55e;box-shadow:0 0 24px rgba(34,197,94,.25);'
           : 'background:linear-gradient(135deg,rgba(123,47,247,.20),rgba(123,47,247,.05));border:1px solid #7b2ff7;'));
