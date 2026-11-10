@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en" class="dark"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Developmental Milestone Assessment | MedLadder</title>
+<meta name="description" content="Age-based child developmental milestone assessment across gross motor, fine motor, language, cognitive and social-emotional domains.">
+<link rel="canonical" href="https://medladder.top/tools/developmental-assessment">
+<meta name="theme-color" content="#7B2FF7">
+<style>
+:root{color-scheme:dark;--bg:#0b0718;--panel:#17112b;--panel2:#211a35;--text:#f5f3ff;--muted:#b7aecf;--border:#34294f;--accent:#a78bfa}
+*{box-sizing:border-box}body{margin:0;padding:18px;background:var(--bg);color:var(--text);font:15px system-ui,sans-serif}
+a{color:#c4b5fd;text-decoration:none}.top{max-width:1120px;margin:0 auto 18px;display:flex;justify-content:space-between;align-items:center;gap:14px}.brand{display:flex;align-items:center;gap:10px;color:white;font-weight:800}.mark{display:grid;place-items:center;width:34px;height:34px;border-radius:11px;background:linear-gradient(135deg,#7c3aed,#c084fc)}
+.nav{display:flex;gap:16px;flex-wrap:wrap}.wrap{max-width:1120px;margin:auto;background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:28px;box-shadow:0 18px 60px #0006}
+header{display:flex;justify-content:space-between;align-items:center;gap:16px;border-bottom:1px solid var(--border);padding-bottom:18px;margin-bottom:20px}h1{font-size:1.65rem;margin:0 0 6px;color:var(--accent)}header p,.hint{color:var(--muted);margin:0}.btn{background:#7c3aed;color:white;border:0;border-radius:8px;padding:11px 16px;font-weight:700;cursor:pointer}
+.inputs{display:grid;grid-template-columns:1fr 1fr 2fr;gap:14px;padding:18px;border:1px solid var(--border);border-radius:12px;margin-bottom:16px;background:#120d20}
+label.field{display:flex;flex-direction:column;gap:7px;color:var(--muted);font-size:.85rem;font-weight:700}.field input{width:100%;padding:11px;border:1px solid var(--border);border-radius:8px;background:#0d0918;color:var(--text);font:inherit}
+.age{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:12px 14px;border-radius:9px;background:var(--panel2);color:var(--muted)}.age strong{color:var(--accent);font-size:1.1rem}
+.message{padding:13px 15px;border:1px solid #49366e;background:#21183a;color:#ddd6fe;border-radius:9px;margin:14px 0}
+.summary{display:flex;align-items:center;gap:15px;padding:14px 16px;background:#21183a;border:1px solid #49366e;border-radius:9px;margin:16px 0}.score{font-weight:800;color:var(--accent);white-space:nowrap}.track{height:12px;border-radius:99px;background:var(--border);overflow:hidden;flex:1}.bar{height:100%;width:0;background:var(--accent);transition:width .2s}.pct{color:var(--muted);font-weight:700}
+.age-section{border:1px solid var(--border);border-radius:10px;overflow:hidden;margin:16px 0}.age-head{padding:13px 17px;background:var(--panel2);font-weight:800}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(205px,1fr));gap:12px;padding:16px}.domain{padding:14px;border:1px solid var(--border);border-radius:8px;background:#1b142d}.domain h3{margin:0 0 12px;padding-bottom:7px;border-bottom:2px solid var(--border);font-size:.82rem;color:var(--muted);letter-spacing:.05em;text-transform:uppercase}.checks{display:grid;gap:11px}.checks label{display:flex;gap:9px;align-items:flex-start;line-height:1.4;cursor:pointer}.checks input{margin-top:3px;accent-color:#a78bfa}.upcoming{opacity:.88;border-style:dashed}.upcoming .age-head:after{content:" · PREVIEW ONLY";font-size:.7rem;color:var(--muted)}
+.up-title{margin:26px 0 5px}.hint{font-size:.88rem}.foot{border-top:1px solid var(--border);padding-top:18px;margin-top:30px;text-align:center;color:var(--muted);font-size:.8rem}
+@media(max-width:700px){body{padding:10px}.wrap{padding:16px}.inputs{grid-template-columns:1fr 1fr}.age{grid-column:1/-1}header{align-items:flex-start;flex-direction:column}.summary{flex-wrap:wrap}.track{flex-basis:100%;order:3}.top{padding:0 4px}}
+@media print{body{padding:0;background:white;color:#111}.top,.btn,.inputs,.message,.upcoming,#upcoming-title{display:none!important}.wrap{border:0;box-shadow:none;background:white;color:#111;padding:0}.age-section,.domain{break-inside:avoid;background:white;color:#111;border-color:#bbb}.age-head{background:#eee;color:#111}.domain h3{color:#444}.checks label{color:#111}.summary{background:#eee;color:#111}.foot{color:#555}}
+</style></head><body>
+<nav class="top"><a class="brand" href="/"><span class="mark">M</span>MedLadder</a><div class="nav"><a href="/subjects/pediatrics">Pediatrics</a><a href="/subjects/pediatrics/developmental-milestones">Developmental Milestones MCQs</a></div></nav>
+<main class="wrap">
+<header><div><h1>Developmental Milestone Assessment</h1><p>Age-based checklist across five developmental domains. Age entry is optional.</p></div><button class="btn" onclick="window.print()">Print / Save PDF</button></header>
+<section class="inputs">
+<label class="field">Age (years) — optional<input id="years" type="number" min="0" max="5" step="1" placeholder="e.g. 2"></label>
+<label class="field">Additional months — optional<input id="months" type="number" min="0" max="11" step="1" placeholder="e.g. 5"></label>
+<div class="age"><span>Selected age</span><strong id="ageText">Not specified</strong><span id="ageMonths"></span></div>
+</section>
+<div id="message" class="message">Age is optional. Leave both fields blank to view all five supplied age groups.</div>
+<div id="summary" class="summary"><div class="score">Milestones: <span id="score">0/0</span></div><div class="track"><div id="bar" class="bar"></div></div><div id="pct" class="pct">0%</div></div>
+<section id="current"></section>
+<section id="upcoming" hidden><h2 class="up-title" id="upcoming-title">Upcoming milestones</h2><p class="hint">Preview only — these items are not included in the current assessment score.</p><div id="upcoming-content"></div></section>
+<div class="foot">Clinical support for structured milestone documentation. Interpret findings in the context of history, examination and validated developmental screening. This checklist is not a stand-alone diagnostic instrument.</div>
+</main>
+<script>
+const data=[
+{month:12,label:"1 Year (12 Months)",domains:{
+"Gross Motor":["Pulls to stand","Takes a few steps"],
+"Fine Motor":["Puts things in a container"],
+"Language & Comm.":["Says \"mama\" or \"dada\"","Waves bye-bye"],
+"Cognitive":["Looks for hidden items"],
+"Social-Emotional":["Shy/nervous with strangers","Hands a book to read"]}},
+{month:24,label:"2 Years (24 Months)",domains:{
+"Gross Motor":["Kicks a ball","Walks up steps"],
+"Fine Motor":["Draws straight lines/copies"],
+"Language & Comm.":["Uses 2-4 word phrases","Follows simple commands"],
+"Cognitive":["Finds items under 2-3 layers"],
+"Social-Emotional":["Gets excited with other kids","Shows independence"]}},
+{month:36,label:"3 Years (36 Months)",domains:{
+"Gross Motor":["Climbs well and safely","Pedals a tricycle"],
+"Fine Motor":["Puzzles with 3-4 pieces"],
+"Language & Comm.":["Conversational sentences","Understood by strangers"],
+"Cognitive":["Plays pretend with dolls/toys"],
+"Social-Emotional":["Shows affection for friends","Takes turns in games"]}},
+{month:48,label:"4 Years (48 Months)",domains:{
+"Gross Motor":["Hops on one leg","Catches a bounced ball"],
+"Fine Motor":["Cuts using safety scissors"],
+"Language & Comm.":["Tells descriptive stories","Uses who/what/where/why"],
+"Cognitive":["Names colors and numbers","Understands same/different"],
+"Social-Emotional":["Cooperates with other kids","Discerning real from fantasy"]}},
+{month:60,label:"5 Years (60 Months)",domains:{
+"Gross Motor":["Balances on 1 foot 10s+"],
+"Fine Motor":["Uses everyday fork & spoon"],
+"Language & Comm.":["Speaks clearly and fluidly","Narrative with full sentences"],
+"Cognitive":["Counts to 10 or more items","Knows basic shapes/letters"],
+"Social-Emotional":["Wants to please friends","Exhibits distinct autonomy"]}}
+];
+const current=document.getElementById("current"),upcoming=document.getElementById("upcoming-content"),upcomingWrap=document.getElementById("upcoming"),summary=document.getElementById("summary");
+const esc=s=>s.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function renderGroup(group,preview=false){return '<section class="age-section '+(preview?'upcoming':'')+'"><div class="age-head">'+group.label+'</div><div class="grid">'+Object.entries(group.domains).map(([domain,items])=>'<div class="domain"><h3>'+esc(domain)+'</h3><div class="checks">'+items.map(item=>'<label><input type="checkbox" class="milestone-check"> <span>'+esc(item)+'</span></label>').join("")+'</div></div>').join("")+'</div></section>'}
+function updateScore(){const boxes=[...current.querySelectorAll(".milestone-check")],done=boxes.filter(x=>x.checked).length,total=boxes.length,p=total?Math.round(done/total*100):0;document.getElementById("score").textContent=done+"/"+total;document.getElementById("bar").style.width=p+"%";document.getElementById("pct").textContent=p+"%"}
+function bind(){current.querySelectorAll("input").forEach(x=>x.addEventListener("change",updateScore));updateScore()}
+function ageName(m){const y=Math.floor(m/12),r=m%12;return (y?y+" year"+(y===1?"":"s"):"")+(y&&r?", ":"")+(r?r+" month"+(r===1?"":"s"):"")}
+function render(){
+current.replaceChildren();upcoming.replaceChildren();upcomingWrap.hidden=true;
+const yr=document.getElementById("years").value.trim(),mo=document.getElementById("months").value.trim();
+if(!yr&&!mo){document.getElementById("ageText").textContent="Not specified";document.getElementById("ageMonths").textContent="";document.getElementById("message").textContent="Age is optional. All five supplied milestone groups are displayed; the combined score covers all displayed items.";current.innerHTML=data.map(g=>renderGroup(g)).join("");bind();return}
+const y=yr?Number(yr):0,m=mo?Number(mo):0;
+if(!Number.isInteger(y)||!Number.isInteger(m)||y<0||y>5||m<0||m>11||(y===0&&m===0)){document.getElementById("ageText").textContent="Check entered age";document.getElementById("ageMonths").textContent="";document.getElementById("message").textContent="Enter 0–5 years and 0–11 additional months, or leave both fields blank to show all groups.";return}
+const total=y*12+m;document.getElementById("ageText").textContent=ageName(total);document.getElementById("ageMonths").textContent="("+total+" completed months)";
+if(total<12){document.getElementById("message").textContent="The supplied milestone checklist begins at 12 months. The 12-month group is shown as a preview only.";upcoming.innerHTML=renderGroup(data[0],true);upcomingWrap.hidden=false;return}
+let idx=0;data.forEach((g,i)=>{if(g.month<=total)idx=i});current.innerHTML=renderGroup(data[idx]);bind();
+if(data[idx+1]){upcoming.innerHTML=renderGroup(data[idx+1],true);upcomingWrap.hidden=false;document.getElementById("message").textContent="Current assessment: "+data[idx].label+". The next checkpoint is shown separately as a preview and excluded from the score."}else{document.getElementById("message").textContent="Showing the 60-month checkpoint, the latest age group in the supplied checklist."}
+}
+document.getElementById("years").addEventListener("input",render);document.getElementById("months").addEventListener("input",render);render();
+</script></body></html>
