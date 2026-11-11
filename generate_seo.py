@@ -36,6 +36,17 @@ if os.path.exists(_samples_path):
     with open(_samples_path, "r", encoding="utf-8") as _f:
         SAMPLES = json.load(_f)
 
+# Curated per-topic About sections (Oct 2026): one individually written
+# text per topic, replacing the old formula-built About (which produced
+# generic "Covers {concepts}" text with junk terms). The generator FAILS
+# if any topic lacks an entry — a missing About must never silently
+# fall back to a formula.
+ABOUTS = {}
+_abouts_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "about_sections.json")
+if os.path.exists(_abouts_path):
+    with open(_abouts_path, "r", encoding="utf-8") as _f:
+        ABOUTS = json.load(_f)
+
 # Pinned (never a floating "@2") so a compromised/breaking release can't reach the site.
 # To add Subresource Integrity, see supabase/README.md ("Pin + SRI") and add integrity="sha384-..." below.
 SUPABASE_JS_URL = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"
@@ -71,7 +82,18 @@ SECURITY_HEADERS = [
 ]
 
 GTAG_INIT_JS = """window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
+function gtag(){
+  dataLayer.push(arguments);
+  try {
+    if (arguments[0] === 'event' && typeof arguments[1] === 'string') {
+      var eventName = arguments[1];
+      var eventParams = arguments[2] || {};
+      if (window.MedLadderAndroidApp && typeof window.MedLadderAndroidApp.logEvent === 'function') {
+        window.MedLadderAndroidApp.logEvent(eventName, JSON.stringify(eventParams));
+      }
+    }
+  } catch (_) {}
+}
 gtag('js', new Date());
 gtag('config', 'G-P5VJLV9KRH');
 """
@@ -301,6 +323,147 @@ def build_topic_desc(mod_name, subj_name, qcount, phrases):
     desc = SEO_DESC_PATTERNS[vi].format(topic=mod_name, n=f"{qcount:,}",
                                         subject=subj_name, phrases=phr, year=SEO_YEAR)
     return fit_desc(desc)
+
+# Words that carry no topic meaning: question phrasing, generic clinical terms,
+# and the existing generic/stop lists. A concept term must survive this filter.
+_CONCEPT_STOP = set(_GENERIC_PHRASES) | set(_XSTOP) | {
+    "following", "patient", "patients", "presents", "presentation", "presenting",
+    "most", "likely", "common", "commonly", "associated", "causes", "caused",
+    "diagnosis", "diagnosed", "treatment", "management", "clinical", "medical",
+    "disease", "disorder", "syndrome", "symptoms", "symptom", "history",
+    "examination", "findings", "finding", "reveals", "shows", "show", "indicates",
+    "include", "includes", "including", "which", "what", "when", "with", "from",
+    "about", "after", "before", "during", "between", "under", "over", "through",
+    "would", "should", "could", "also", "then", "than", "into", "upon", "among",
+    "within", "without", "because", "however", "therefore", "given", "known",
+    "described", "characteristic", "typically", "usually", "often", "rarely",
+    "always", "never", "first", "second", "third", "fourth", "fifth",
+    "per", "day", "days", "week", "weeks", "month", "months", "year", "years",
+    "old", "male", "female", "child", "children", "adult", "adults", "elderly",
+    "blood", "level", "levels", "increased", "decreased", "normal", "abnormal",
+    "acute", "chronic", "severe", "mild", "moderate", "primary", "secondary",
+    "right", "left", "upper", "lower", "anterior", "posterior", "superior",
+    "inferior", "medial", "lateral", "bilateral", "unilateral", "central",
+    "peripheral", "general", "specific", "various", "multiple", "single",
+    "best", "next", "step", "investigation", "test", "tests", "result",
+    "results", "answer", "answers", "question", "questions", "option",
+    "correct", "incorrect", "true", "false", "except", "least", "statement",
+    "regarding", "concerning", "feature", "features", "factor", "factors",
+    "condition", "conditions", "cases", "case", "study", "group", "groups",
+    "rate", "rates", "risk", "high", "low", "used", "using", "use", "uses",
+    "due", "leads", "lead", "develop", "developed", "develops",
+    "occurs", "occur", "present", "absent", "positive", "negative", "amongst",
+    # question-language verbs and filler that survive the lists above
+    "check", "assess", "start", "give", "select", "choose", "identify",
+    "indicate", "shown", "seen", "noted", "observed", "reported", "called",
+    "termed", "defined", "step", "steps", "component", "components",
+    "part", "parts", "type", "types", "form", "forms", "cause",
+    "action", "actions", "effect", "effects", "example", "examples", "namely",
+    # short filler words (terms are now 3+ letters, so these need stopping)
+    "one", "two", "six", "ten", "age", "sex", "new", "all", "any", "are",
+    "was", "has", "had", "did", "get", "got", "via", "may", "can", "see",
+    "way", "yet",
+    # pronouns, auxiliaries, negations and comparatives
+    "this", "that", "these", "those", "its", "their", "them", "they",
+    "he", "she", "it", "we", "you", "your", "our", "his", "her",
+    "who", "whom", "whose", "there", "here", "where", "why", "how",
+    "not", "must", "will", "shall", "were", "been", "being", "does", "do",
+    "is", "be", "am", "as", "at", "by", "for", "in", "of", "on", "or",
+    "to", "and", "but", "if", "so", "no", "nor",
+    "higher", "greater", "less", "more", "larger", "smaller", "better",
+    "worse", "longer", "shorter", "short", "long",
+    "pass", "passes", "passing",
+    "have", "few", "presented", "topic", "year-old", "until", "min",
+    # generic quantifiers, colors, descriptors, verbs and adverbs that
+    # surface as fake "concepts" (Cell Death showed "red and only")
+    "only", "both", "each", "every", "either", "neither", "none",
+    "much", "many", "even", "still",
+    "red", "white", "black", "blue", "yellow", "green", "brown",
+    "pink", "purple", "grey", "gray", "orange",
+    "characterized", "characterised", "manifested", "manifests",
+    "change", "changes",
+    "contain", "contains", "remain", "remains", "become", "becomes",
+    "produce", "produces", "form", "forms", "allow", "allows",
+    "require", "requires",
+    "sometimes", "occasionally", "frequently", "generally", "mostly",
+    "mainly", "primarily", "largely", "seldom", "hardly", "barely",
+    "nearly", "almost", "quite", "rather", "very", "too", "just",
+    "already",
+    # citation words (belt-and-braces: the reference-line strip below can
+    # miss HTML-encoded dashes, e.g. "Reference &ndash; ...")
+    "reference", "references", "textbook", "edition", "page",
+}
+
+
+def _stem(w):
+    # naive singularisation for grouping only (display uses the original form,
+    # so a mangled stem like "analysi" never surfaces in the text)
+    if len(w) > 4 and w.endswith("s") and not w.endswith("ss"):
+        return w[:-1]
+    return w
+
+
+def _join_terms(terms):
+    if not terms:
+        return ""
+    if len(terms) == 1:
+        return terms[0]
+    return ", ".join(terms[:-1]) + " and " + terms[-1]
+
+
+def topic_concepts(samples, mod_name, subj_name, max_terms=4):
+    """Distinctive concept terms drawn from the topic's own sample questions.
+
+    Ranked by in how many samples a term appears, then by total frequency,
+    then by first appearance (deterministic). Singular/plural forms group
+    under one stem; topic/subject name words are excluded so the terms add
+    information beyond the title.
+    """
+    from collections import Counter
+    banned = set(_CONCEPT_STOP)
+    for src in (mod_name, subj_name):
+        banned |= {w for w in re.findall(r"[a-z]{3,}", src.lower())}
+    doc_freq, total, first_seen = Counter(), Counter(), {}
+    forms = {}
+    for sm in samples:
+        # explanations usually end with a "Reference: ..." citation line;
+        # cut it so textbook names and edition/page words never become concepts.
+        # Strip HTML entities first: citations often use "&ndash;" for the dash,
+        # which the plain "reference:" pattern would miss (and "ndash" itself
+        # would otherwise surface as a fake concept).
+        e_text = re.sub(r"&[a-z]+;", " ", sm['e'])
+        e_text = re.split(r"references?\s*[:\-]|ref\s*[.:-]", e_text, flags=re.I)[0]
+        q_text = re.sub(r"&[a-z]+;", " ", sm['q'])
+        stems = set()
+        for w in re.findall(r"[a-z][a-z\-']{2,}", f"{q_text} {e_text}".lower()):
+            w = w.strip("-'")
+            if len(w) < 3 or w in banned:
+                continue
+            st = _stem(w)
+            if st in banned:
+                continue
+            stems.add(st)
+            forms.setdefault(st, Counter())[w] += 1
+            total[st] += 1
+            first_seen.setdefault(st, len(first_seen))
+        for st in stems:
+            doc_freq[st] += 1
+    ranked = sorted(doc_freq, key=lambda st: (-doc_freq[st], -total[st], first_seen[st]))
+    return [forms[st].most_common(1)[0][0] for st in ranked[:max_terms]]
+
+
+def build_topic_about(mod_name, concepts, phrases):
+    """SUPERSEDED (Oct 2026): Abouts now come from about_sections.json
+    (one curated text per topic). Kept for reference only; the generator
+    no longer calls this — do not reintroduce a formula About."""
+    if concepts:
+        conc = _join_terms(concepts)
+    else:
+        conc = _join_terms(phrases[:3])
+    return (
+        f"Covers {conc} — high-yield {mod_name} MCQs "
+        f"for NEET PG, FMGE, INI-CET and NEET SS revision, each with a detailed explanation."
+    )
 
 def money_page_cards(subject_name):
     """Contextual money-page cards appended to the 'Prepare for your exam' section."""
@@ -879,22 +1042,24 @@ def main():
                        f"Practise {mod.get('questionCount', 0)} exam-style MCQs for NEET PG, FMGE, INI-CET and NEET SS, "
                        f"each with the correct answer and a detailed explanation.")
 
+            samples = SAMPLES.get(str(mod.get("id")), [])
+            # Curated About (Oct 2026) from about_sections.json. Fail loudly
+            # on a gap — never silently fall back to a formula About.
+            m_about = ABOUTS.get(str(mod.get("id")))
+            if m_about is None:
+                raise SystemExit(f"Missing curated About for module {mod['id']} {mod['name']} — refusing to regen with a gap")
+            # Two FAQs, neither duplicating the hero: what the questions
+            # cover (the About text) and the real count + exams.
             m_faqs = [
                 {
-                    "q": f"How many questions are in {mod['name']}?",
-                    "a": f"MedLadder includes {mod.get('questionCount', 0)} curated MCQs with explanations for {mod['name']} under {subj['name']} ({mod.get('section', 'General')})."
+                    "q": f"What do {mod['name']} MCQs cover?",
+                    "a": m_about
                 },
                 {
-                    "q": "Which medical exams does this topic prepare for?",
-                    "a": f"These {subj['name']} questions prepare you for FMGE, NEET PG, INI-CET, and NEET SS, covering both conceptual MCQs and clinical scenarios."
+                    "q": f"How many {mod['name']} questions are there, and which exams do they cover?",
+                    "a": f"MedLadder includes {mod.get('questionCount', 0):,} curated MCQs for {mod['name']} under {subj['name']} ({mod.get('section', 'General')}), covering NEET PG, FMGE, INI-CET and NEET SS preparation."
                 },
-                {
-                    "q": f"How do I start practising {mod['name']} on MedLadder?",
-                    "a": ACCESS_FAQ_A
-                }
             ]
-
-            samples = SAMPLES.get(str(mod.get("id")), [])
             m_schemas = [
                 {
                     "@context": "https://schema.org",
@@ -961,6 +1126,12 @@ def main():
                 pn_parts.append(f'<a href="/subjects/{s_slug}/{slugify(next_mod["name"])}" rel="next" class="btn secondary" style="font-size:14px;padding:10px 18px;text-decoration:none;">{esc(next_mod["name"])} →</a>')
             pn_html = (f'<nav aria-label="Previous and next topic" style="display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:32px;">{"".join(pn_parts)}</nav>') if pn_parts else ""
             samples_block = samples_html(samples, mod["name"])
+            about_section = (
+                f'<section aria-labelledby="seoAbout" style="margin-top:30px;">'
+                f'<h2 id="seoAbout" class="seo-section-title">About {esc(mod["name"])} MCQs</h2>'
+                f'<p style="line-height:1.8;color:var(--ink-soft);font-size:15.5px;">{esc(m_about)}</p>'
+                f'</section>'
+            )
             exam_block = exam_links_html(extra_cards=money_page_cards(subj["name"]))
             _xlink_cards = "".join(
                 f'<a href="/subjects/{t["ssub"]}/{t["slug"]}" class="seo-card" style="display:block;text-decoration:none;">'
@@ -997,6 +1168,7 @@ def main():
           <a href="/subjects/{s_slug}" class="btn secondary" style="font-size:15px;padding:14px 24px;text-decoration:none;">All {esc(subj["name"])} Topics</a>
         </div>
       </div>
+      {about_section}
       {samples_block}
       <section aria-labelledby="seoTopics" style="margin-top:30px;">
         <h2 id="seoTopics" class="seo-section-title">What you can practise in {esc(mod["name"])}</h2>
@@ -1176,10 +1348,11 @@ def main():
     print("✓ Updated _redirects (with /ini-cet -> /inicet 301 redirect)")
 
     vercel_path = os.path.join(BASE_DIR, "vercel.json")
-    # NOTE: vercel.json on main carries two hand-added production blocks that the
-    # generator must preserve: the /download-apk rewrite (+ APK headers) and the
-    # github.com CSP allowances. They are baked into the template below so that
-    # regeneration never drops them again.
+    # NOTE: vercel.json on main carries hand-added production blocks that the
+    # generator must preserve: the /download-apk rewrite (+ APK headers), the
+    # github.com CSP allowances, and the clean-URL rewrites for /privacy,
+    # /terms, /mock-test, /admin-mock and /neet-ss-books. They are baked into
+    # the template below so that regeneration never drops them again.
     vercel_csp = CSP.replace(
         "https://www.googletagmanager.com; frame-src https://api.razorpay.com https://checkout.razorpay.com;",
         "https://www.googletagmanager.com https://github.com https://*.github.com https://*.githubusercontent.com; "
@@ -1198,6 +1371,26 @@ def main():
             {
                 "source": "/download-apk",
                 "destination": "/MedLadder-latest.apk"
+            },
+            {
+                "source": "/privacy",
+                "destination": "/privacy.html"
+            },
+            {
+                "source": "/terms",
+                "destination": "/terms.html"
+            },
+            {
+                "source": "/mock-test",
+                "destination": "/mock-test.html"
+            },
+            {
+                "source": "/admin-mock",
+                "destination": "/admin-mock.html"
+            },
+            {
+                "source": "/neet-ss-books",
+                "destination": "/neet-ss-books.html"
             },
             {
                 "source": "/(.*)",
