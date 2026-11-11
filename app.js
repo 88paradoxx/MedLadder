@@ -31,6 +31,52 @@ window.addEventListener('error', function (ev) {
         } catch (err) {}
       }
 
+      // ─── GA4 SPA VIRTUAL PAGEVIEWS ─────────────────────────────────────────
+      // The gtag config sends one automatic page_view for the initial load.
+      // Every later in-app view sends exactly one manual page_view via
+      // trackPageView(path, view). Same view+path re-renders are ignored, and
+      // the load view itself is never double-counted: its first call is
+      // skipped because the config already covered that URL.
+      var __mlLoadPath = window.location.pathname || '/';
+      var __mlLoadViewCounted = false;
+      var __mlLastViewKey = null;
+      function trackPageView(path, view, title) {
+        try {
+          var p = path || window.location.pathname || '/';
+          var key = (view || 'view') + '|' + p;
+          if (!__mlLoadViewCounted && p === __mlLoadPath) { __mlLoadViewCounted = true; __mlLastViewKey = key; return; }
+          if (key === __mlLastViewKey) return;
+          __mlLastViewKey = key;
+          trackEvent('page_view', {
+            page_title: title || document.title,
+            page_location: 'https://medladder.top' + p,
+            page_path: p
+          });
+        } catch (err) {}
+      }
+      function pyqSlug(examId) {
+        var s = String(examId || '').toLowerCase();
+        if (s === 'inicet') return 'ini-cet';
+        return s.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+      }
+      function practiceBasePath() {
+        try {
+          if (state.isPyqMode && state.pyqExam) return '/pyqs/' + pyqSlug(state.pyqExam);
+          if (state.moduleId === 'bookmarks') return '/bookmarks';
+          if (state.moduleId === 'custom') return '/custom-module';
+          var subj = null, mod = null;
+          if (state.subjectId) {
+            subj = SUBJECT_INDEX.find(function (s) { return s.subjectId === state.subjectId; });
+            if (subj && state.moduleId && state.moduleId !== 'all') {
+              mod = getSubjectModules(state.subjectId).find(function (m) { return m.moduleId === state.moduleId; });
+            }
+          }
+          if (subj && mod) return topicPath(subj, mod);
+          if (subj) return subjectPath(subj) + (state.moduleId === 'all' ? '/all' : '');
+          return '/';
+        } catch (err) { return '/'; }
+      }
+
       // Preserve campaign UTM attribution across auth / payment redirects
       (function captureUtmParams() {
         try {
@@ -301,9 +347,11 @@ window.addEventListener('error', function (ev) {
 
       function rerenderLockedScreens() {
         try {
+          var y = window.scrollY;
           if (state.screen === 'modules' && state.subjectId) renderModuleList(state.subjectId);
           else if (state.screen === 'setup' && state.subjectId && state.moduleId) renderSetup(state.subjectId, state.moduleId);
           else if (state.screen === 'home') renderHome(true);
+          window.scrollTo(0, y);
         } catch (e) { console.warn('rerenderLockedScreens:', e); }
       }
 
@@ -1320,7 +1368,7 @@ window.addEventListener('error', function (ev) {
         btns.forEach(function (b) {
           b.disabled = false;
           var isSignUp = b.id === 'googleAuthBtnSignUp';
-          b.innerHTML = gIcon + '<span>' + (isSignUp ? 'Sign up with Google' : 'Continue with Google') + '</span>';
+          b.innerHTML = gIcon + '<span>' + (isSignUp ? 'Sign up with Google' : 'Continue with Google') + '</span><span class="auth-google-badge">Fastest</span>';
         });
         var inBtn = document.getElementById('authSignInSubmit');
         if (inBtn) {
@@ -1563,9 +1611,12 @@ window.addEventListener('error', function (ev) {
         } catch (e) { }
         // Then overlay with server data (async)
         loadModuleProgressFromDB(userId).then(function () {
-          // Re-render current screen to show updated progress pills
+          // Re-render current screen to show updated progress pills.
+          // Content refresh, not navigation: keep the user's scroll spot.
+          var y = window.scrollY;
           if (state.screen === 'home') renderHome();
           else if (state.screen === 'modules') renderModuleList(state.subjectId);
+          window.scrollTo(0, y);
         });
       }
 
@@ -1746,6 +1797,15 @@ window.addEventListener('error', function (ev) {
           '</div>';
       }
 
+      // Hide the page's baked-in generic footer when the app renders its own,
+      // so static documents don't show the same footer twice.
+      function hideStaticFooter() {
+        var appEl = document.getElementById('app');
+        if (!appEl) return;
+        document.querySelectorAll('footer.credit').forEach(function (f) {
+          if (!appEl.contains(f)) f.style.display = 'none';
+        });
+      }
       function footerHtml() {
         var isNative = !!(
           (window.MedLadderNative && window.MedLadderNative.isNative) ||
@@ -1976,7 +2036,7 @@ window.addEventListener('error', function (ev) {
           '<button class="auth-modal-close" id="authModalClose" aria-label="Close modal">✕</button>' +
           '<div class="auth-modal-badge">MedLadder Account</div>' +
           '<h2 class="auth-modal-title" id="authModalTitle">Sign In</h2>' +
-          '<p class="auth-modal-sub" id="authModalSub">Access your test history and sync progress across devices.</p>' +
+          '<p class="auth-modal-sub" id="authModalSub">Fastest way in — one tap with Google, no password to remember.</p>' +
           '<div class="auth-tabs" id="authTabs">' +
           '<button class="auth-tab active" id="tabSignIn" type="button">Sign In</button>' +
           '<button class="auth-tab" id="tabSignUp" type="button">Sign Up</button>' +
@@ -1988,7 +2048,7 @@ window.addEventListener('error', function (ev) {
           // Sign In Form
           '<form id="authSignInForm" autocomplete="on">' +
           '<button type="button" class="auth-google-btn" id="googleAuthBtn">' +
-          '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Continue with Google</span>' +
+          '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Continue with Google</span><span class="auth-google-badge">Fastest</span>' +
           '</button>' +
           '<div class="auth-divider"><span>or continue with email</span></div>' +
           '<div class="auth-field">' +
@@ -2014,7 +2074,7 @@ window.addEventListener('error', function (ev) {
           // Sign Up Form
           '<form id="authSignUpForm" class="hidden" autocomplete="on">' +
           '<button type="button" class="auth-google-btn" id="googleAuthBtnSignUp">' +
-          '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Sign up with Google</span>' +
+          '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Sign up with Google</span><span class="auth-google-badge">Fastest</span>' +
           '</button>' +
           '<div class="auth-divider"><span>or register with email</span></div>' +
           '<div class="auth-field">' +
@@ -2193,12 +2253,12 @@ window.addEventListener('error', function (ev) {
 
         if (tab === 'signin') {
           titleEl.textContent = 'Sign In';
-          subEl.textContent = 'Access your test history and sync progress across devices.';
+          subEl.textContent = 'Fastest way in — one tap with Google, no password to remember.';
           var emailIn = document.getElementById('authSignInEmail');
           if (emailIn) setTimeout(function () { emailIn.focus(); }, 80);
         } else if (tab === 'signup') {
           titleEl.textContent = 'Create Account';
-          subEl.textContent = 'Register to track quiz performance and preserve test scores.';
+          subEl.textContent = 'One tap with Google creates your account — no password to remember.';
           var nameIn = document.getElementById('authSignUpName');
           if (nameIn) setTimeout(function () { nameIn.focus(); }, 80);
         } else if (tab === 'reset') {
@@ -2967,10 +3027,21 @@ window.addEventListener('error', function (ev) {
       var activeHomeCategory = 'all';
 
       // ---------- HOME: subject list ----------
+      // Every in-place view change resets the window scroll: without this,
+      // opening a subject/topic from the bottom of a list showed the new
+      // view scrolled to that same position instead of its top.
+      function scrollToPageTop() { window.scrollTo(0, 0); }
+
       function renderHome(force) {
+        // Home is document-dependent (home-only scripts, URL, title, tags):
+        // on any other document, load the real homepage instead of
+        // rendering home content in place and dropping pieces of it.
+        if (window.location.pathname !== '/' && window.location.pathname !== '/index.html' && window.location.pathname !== '') { goHomeFromSeo(); return; }
         clearTimer();
         releaseQuizPayload();
         state.screen = 'home';
+        trackPageView('/', 'home');
+        scrollToPageTop();
         if (app) {
           app.classList.remove('screen-quiz', 'screen-setup', 'screen-results');
         }
@@ -3074,18 +3145,23 @@ window.addEventListener('error', function (ev) {
             '</div>' +
             '</div>' +
             '</div>' +
-            '<div class="subject-grid" id="subjectGrid">' + rows + '</div>' +
+            '<div class="quick-actions-label">Quick actions</div>' +
+            '<div class="quick-actions-grid" id="quickActionsGrid">' +
             '<div class="custom-module-card" id="customModuleCard" role="button" tabindex="0">' +
             '<span class="custom-module-icon">🧩</span>' +
-            '<span class="custom-module-copy"><strong>Custom Module</strong><span>Build a mixed quiz from every subject and topic.</span><small>50 · 100 · 150 · 200 · 300 · Custom&nbsp;&nbsp; · &nbsp;Practice or timed · Shuffle</small></span>' +
+            '<span class="custom-module-copy"><strong>Custom Module</strong></span>' +
             '<span class="custom-module-arrow">›</span>' +
             '</div>' +
             bookmarksHomeCardHtml() +
+            '</div>' +
+            '<div class="section-divider divider-subjects"></div>' +
+            '<div class="subject-grid" id="subjectGrid">' + rows + '</div>' +
             '<div id="homeNoMatch" class="no-match-card hidden">No subjects match your search.</div>' +
+            '<div class="section-divider divider-pyq"></div>' +
             pyqSectionHtml +
             modeNoteHtml() +
             '</main>' +
-            footerHtml();
+            footerHtml(); hideStaticFooter();
         }
 
         function setPyqExpanded(expanded) {
@@ -3226,6 +3302,7 @@ window.addEventListener('error', function (ev) {
         }
         clearTimer();
         releaseQuizPayload();
+        scrollToPageTop();
 
         // If server Pro check is in-flight, wait for it before showing paywall
         if (_proStatusPromise) {
@@ -3252,6 +3329,7 @@ window.addEventListener('error', function (ev) {
         state.screen = 'setup';
         state.isPyqMode = true;
         state.pyqExam = examId;
+        trackPageView('/pyqs/' + pyqSlug(examId), 'pyq');
         state.subjectId = null;
         state.moduleId = 'pyq_' + examId;
 
@@ -3305,8 +3383,9 @@ window.addEventListener('error', function (ev) {
         }).join('');
         var pyqCustomTimeHtml = setupChoice.timeLimit === 'custom' ? '<div class="custom-setup-control"><label for="customTimeInput">Minutes</label><input id="customTimeInput" type="number" min="1" max="600" value="' + esc(String(setupChoice.customTime || 30)) + '" inputmode="numeric"><span>1–600 min</span></div>' : '';
 
+        if (app) app.classList.remove('screen-quiz');
         app.innerHTML =
-          topBar('Back to Home', renderHome) +
+          topBar('Back to Home', goHomeFromSeo) +
           '<main id="mainContent" role="main">' +
           '<div class="pyq-setup-badge">📚 PYQ BANK · ' + esc(exam.name) + '</div>' +
           '<h1 class="setup-chapname">' + esc(exam.icon + ' ' + exam.name) + ' Official Exam Papers</h1>' +
@@ -3338,7 +3417,7 @@ window.addEventListener('error', function (ev) {
           '<div class="start-btn-wrap"><button class="btn start" id="startBtn">🚀 Start ' + esc(exam.name) + ' ' + esc(setupChoice.pyqYear) + ' Test</button></div>' +
           '</main>';
 
-        wireTopBar(renderHome);
+        wireTopBar(goHomeFromSeo);
         wireRipples('.type-card, .pill-choice, .pyq-year-pill, .btn, .auth-btn');
 
         app.querySelectorAll('#yearRow .pyq-year-pill').forEach(function (btn) {
@@ -3506,6 +3585,7 @@ window.addEventListener('error', function (ev) {
             pyqYear: selectedYear
           };
 
+          scrollToPageTop();
           renderQuiz();
           if (state.timeLimit > 0) startOverallTimer();
 
@@ -3569,11 +3649,13 @@ window.addEventListener('error', function (ev) {
         clearTimer();
         releaseQuizPayload();
         state.screen = 'modules';
+        scrollToPageTop();
         if (app) {
           app.classList.remove('screen-quiz', 'screen-setup', 'screen-results');
         }
         var subjMeta = SUBJECT_INDEX.find(function (s) { return s.subjectId === subjectId; });
         var modules = getSubjectModules(subjectId);
+        trackPageView(subjectPath(subjMeta), 'modules');
         state.subjectId = subjectId;
 
         var allCount = modules.reduce(function (s, m) { return s + m.questionCount; }, 0);
@@ -3679,7 +3761,7 @@ window.addEventListener('error', function (ev) {
           '<div class="item-list" id="moduleItemList" style="list-style:none;padding:0;margin:12px 0 0;">' + allCard + rows + '</div>' +
           '<div id="noMatchCard" class="no-match-card hidden">No subtopics match your search.</div>' +
           '</main>' +
-          footerHtml();
+          footerHtml(); hideStaticFooter();
 
         wireTopBar(function () { renderHome(); });
         wireRipples('.item, .auth-btn');
@@ -3816,10 +3898,12 @@ window.addEventListener('error', function (ev) {
         }
         clearTimer();
         releaseQuizPayload();
+        scrollToPageTop();
         state.screen = 'setup';
         state.isPyqMode = false;
         state.subjectId = null;
         state.moduleId = 'custom';
+        trackPageView('/custom-module', 'custom');
         app.classList.remove('screen-quiz');
         app.classList.add('screen-setup');
         var pool = customPool();
@@ -3883,11 +3967,13 @@ window.addEventListener('error', function (ev) {
         }
         clearTimer();
         releaseQuizPayload();
+        scrollToPageTop();
         state.screen = 'setup';
         app.classList.remove('screen-quiz');
         app.classList.add('screen-setup');
         state.subjectId = subjectId;
         state.moduleId = moduleId;
+        trackPageView(practiceBasePath(), 'setup');
         var pool = resolvePool(subjectId, moduleId);
         setupChoice.pool = pool;
         var total = pool.questionCount;
@@ -4132,6 +4218,7 @@ window.addEventListener('error', function (ev) {
               remaining: setupChoice.timeLimit, timerId: null, progressKey: pool.key
             };
 
+          scrollToPageTop();
           renderQuiz();
           prefetchBookmarks();
           trackEvent('quiz_start', {
@@ -4216,8 +4303,9 @@ window.addEventListener('error', function (ev) {
         }
 
         state.screen = 'quiz';
+        trackPageView(practiceBasePath() + '/quiz', 'quiz');
         if (app) {
-          app.classList.remove('screen-setup');
+          app.classList.remove('screen-setup', 'screen-results');
           app.classList.add('screen-quiz');
         }
 
@@ -4426,7 +4514,7 @@ window.addEventListener('error', function (ev) {
       function bookmarksHomeCardHtml() {
         return '<div class="custom-module-card" id="bookmarksHomeCard" role="button" tabindex="0">' +
           '<span class="custom-module-icon">🔖</span>' +
-          '<span class="custom-module-copy"><strong>My bookmarks</strong><span>Questions you saved for later — practise them anytime.</span></span>' +
+          '<span class="custom-module-copy"><strong>Bookmarks</strong></span>' +
           '<span class="custom-module-arrow">›</span>' +
           '</div>';
       }
@@ -4609,12 +4697,14 @@ window.addEventListener('error', function (ev) {
         clearTimer();
         releaseQuizPayload();
         state.screen = 'bookmarks';
+        scrollToPageTop();
         if (app) app.classList.remove('screen-quiz', 'screen-setup', 'screen-results');
         if (!currentUser) {
           openAuthModal('signin', { reason: 'Please sign in to view your bookmarks.' });
           renderHome();
           return;
         }
+        trackPageView('/bookmarks', 'bookmarks');
         app.innerHTML =
           topBar('Back', renderHome) +
           '<main id="mainContent" role="main">' +
@@ -4624,7 +4714,7 @@ window.addEventListener('error', function (ev) {
           '<div class="bm-actions"><button class="btn" id="bmPractiseAll" disabled>Practise all</button><span id="bmCount" class="bm-hint"></span></div>' +
           '<div id="bmList" class="bm-list"><p class="bm-hint">Loading…</p></div>' +
           '</div></main>' +
-          footerHtml();
+          footerHtml(); hideStaticFooter();
         wireTopBar(renderHome);
         wireRipples('.btn');
         var listEl = document.getElementById('bmList');
@@ -4805,6 +4895,7 @@ window.addEventListener('error', function (ev) {
                 remaining: 0, timerId: null, progressKey: 'bookmarks',
                 bookmarkOrder: questionIds, bookmarkedIds: bmIds
               };
+              scrollToPageTop();
               renderQuiz();
             });
           });
@@ -4823,6 +4914,8 @@ window.addEventListener('error', function (ev) {
         clearTimer();
         releaseQuestionImages();
         state.screen = 'results';
+        trackPageView(practiceBasePath() + '/results', 'results');
+        scrollToPageTop();
         if (app) {
           app.classList.remove('screen-setup');
           app.classList.add('screen-quiz', 'screen-results');
@@ -4883,7 +4976,7 @@ window.addEventListener('error', function (ev) {
           '<button class="review-toggle" id="reviewToggle">Show full review ▾</button>' +
           '<div id="reviewBlock" class="hidden" data-loaded="false">' + reviewHtml + '</div>' +
           '</main>' +
-          footerHtml();
+          footerHtml(); hideStaticFooter();
 
         wireTopBar(resBackFn);
         wireRipples('.btn, .auth-btn');
@@ -5104,12 +5197,8 @@ window.addEventListener('error', function (ev) {
         if (ogDesc) ogDesc.setAttribute('content', description);
         if (ogUrl) ogUrl.setAttribute('content', 'https://medladder.top' + (path || '/'));
 
-        // GA4 SPA Virtual Pageview Telemetry
-        trackEvent('page_view', {
-          page_title: title,
-          page_location: window.location.href,
-          page_path: path || window.location.pathname
-        });
+        // GA4 page_view for this view is sent by trackPageView at the render
+        // call site (the gtag config already covers the initial load).
       }
 
       function goHomeFromSeo() {
@@ -5137,6 +5226,7 @@ window.addEventListener('error', function (ev) {
 
       function renderSeoLanding(type, item) {
         state.screen = 'seo';
+        scrollToPageTop();
         var subject = type === 'subject';
         var topic = type === 'topic';
         var subj = topic ? item.subject : (subject ? item : null);
@@ -5244,10 +5334,11 @@ window.addEventListener('error', function (ev) {
           linksHtml +
           '<section aria-labelledby="seoExplore" style="margin-top:32px;"><h2 id="seoExplore" class="seo-section-title">Continue your preparation</h2><p style="color:var(--ink-soft);line-height:1.65;">Use the topic links above to move through the syllabus, or return to the MedLadder home page to explore the complete question bank.</p></section>' +
           '</main>' +
-          footerHtml();
+          footerHtml(); hideStaticFooter();
 
         wireTopBar(function () { goHomeFromSeo(); });
         updateSeoMeta(title, description, window.location.pathname);
+        trackPageView(window.location.pathname, 'seo', title);
 
         document.getElementById('seoHomeTop').addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
         document.getElementById('seoHomeBottom').addEventListener('click', function(e){ e.preventDefault(); goHomeFromSeo(); });
@@ -5266,6 +5357,7 @@ window.addEventListener('error', function (ev) {
 
       function wireSeoStaticLanding(type, item) {
         state.screen = 'seo';
+        scrollToPageTop();
         var subject = type === 'subject';
         var topic = type === 'topic';
         var subj = topic ? item.subject : (subject ? item : null);

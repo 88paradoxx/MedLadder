@@ -747,3 +747,179 @@ body.is-native-app .nav-download-btn,
 .bm-subj:first-child{margin-top:0}
 .bm-topic{font-size:13px;font-weight:700;color:var(--ink-soft);margin:12px 0 6px}
 .bm-top-row{display:flex;gap:8px;justify-content:flex-end;margin:0 0 12px}
+
+/* Home refresh: fresh tile washes + quick-action boxes (appended overrides). */
+.quick-actions-label{font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-muted);margin:6px 0 12px}
+/* Subject tiles: mint / sky / violet washes instead of flat grey. */
+.subject-grid .item:nth-child(3n+1){background:linear-gradient(135deg,rgba(16,185,129,.16),rgba(16,185,129,.04)),var(--glass-bg-strong)!important;border-color:rgba(16,185,129,.35)!important}
+.subject-grid .item:nth-child(3n+2){background:linear-gradient(135deg,rgba(14,165,233,.16),rgba(14,165,233,.04)),var(--glass-bg-strong)!important;border-color:rgba(14,165,233,.35)!important}
+.subject-grid .item:nth-child(3n){background:linear-gradient(135deg,rgba(167,139,250,.18),rgba(167,139,250,.05)),var(--glass-bg-strong)!important;border-color:rgba(167,139,250,.4)!important}
+.subject-grid .item:nth-child(3n+1)::before{background:#10b981}
+.subject-grid .item:nth-child(3n+2)::before{background:#0ea5e9}
+.subject-grid .item:nth-child(3n)::before{background:#a78bfa}
+.subject-grid .item:nth-child(3n+1) .item-icon-box{background:#d1fae5!important}
+.subject-grid .item:nth-child(3n+2) .item-icon-box{background:#e0f2fe!important}
+.subject-grid .item:nth-child(3n) .item-icon-box{background:#ede9fe!important}
+.subject-grid .item:nth-child(3n+1) .item-category-tag{color:#059669}
+.subject-grid .item:nth-child(3n+2) .item-category-tag{color:#0284c7}
+.subject-grid .item:nth-child(3n) .item-category-tag{color:#7c3aed}
+html.dark .subject-grid .item:nth-child(3n+1) .item-category-tag{color:#34d399}
+html.dark .subject-grid .item:nth-child(3n+2) .item-category-tag{color:#38bdf8}
+html.dark .subject-grid .item:nth-child(3n) .item-category-tag{color:#c4b5fd}
+/* Quick-action boxes: chunky filled boxes, one accent each. */
+.custom-module-card{margin:0 0 12px;border-radius:16px;padding:20px}
+#customModuleCard{background:linear-gradient(135deg,rgba(167,139,250,.22),rgba(167,139,250,.06)),var(--glass-bg-strong);border:1px solid rgba(167,139,250,.45);border-left:4px solid #a78bfa}
+#bookmarksHomeCard{background:linear-gradient(135deg,rgba(251,191,36,.20),rgba(251,191,36,.05)),var(--glass-bg-strong);border:1px solid rgba(251,191,36,.45);border-left:4px solid #fbbf24}
+#bookmarksHomeCard .custom-module-icon{background:linear-gradient(135deg,#f59e0b,#f97316);box-shadow:0 8px 18px rgba(245,158,11,.35)}
+.pyq-section-wrap{margin:0 0 24px}
+.subject-grid{margin:4px 0 32px}
+/* Hero refresh: mint-tinged glow, fresh stat numbers, fresh active tab. */
+.hero-wrap::before{background:radial-gradient(circle,rgba(16,185,129,.16),rgba(124,58,237,.06) 48%,transparent 72%)}
+.bento-bar .bento-stat:nth-child(1) .bento-stat-num{color:#10b981}
+.bento-bar .bento-stat:nth-child(2) .bento-stat-num{color:#0ea5e9}
+.bento-bar .bento-stat:nth-child(3) .bento-stat-num{color:#a78bfa}
+.bento-bar .bento-stat:nth-child(4) .bento-stat-num{color:#f59e0b}
+html.dark .cat-tab.active{background:linear-gradient(135deg,#10b981,#0ea5e9);border-color:transparent;box-shadow:0 6px 16px rgba(16,185,129,.3)}
+html:not(.dark) .cat-tab.active{background:linear-gradient(135deg,#10b981,#0ea5e9);border-color:transparent;color:#fff;box-shadow:0 5px 14px rgba(16,185,129,.25)}
+html.dark .home-search-input:focus{border-color:#34d399!important;box-shadow:0 0 0 4px rgba(52,211,153,.18),0 8px 22px rgba(0,0,0,.25)!important}
+html:not(.dark) .home-search-input:focus{border-color:#10b981!important;box-shadow:0 0 0 4px rgba(16,185,129,.14),0 8px 22px rgba(16,185,129,.10)!important}
+
+/* Home compact pass: quick-action grid + tighter hero (colors unchanged). */
+.quick-actions-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:0 0 12px}
+@media(min-width:860px){.quick-actions-grid{grid-template-columns:repeat(4,1fr)}}
+.quick-actions-grid .custom-module-card{margin:0;padding:14px;gap:10px}
+.quick-actions-grid .custom-module-icon{flex-basis:38px;width:38px;height:38px;font-size:20px;border-radius:12px}
+.quick-actions-grid .custom-module-copy strong{font-size:15px}
+.quick-actions-grid .custom-module-copy span{font-size:12px}
+.quick-actions-grid .custom-module-arrow{font-size:20px}
+/* Hero: less vertical space, same content and colors. */
+.hero-wrap{padding:8px 4px 16px}
+.hero-wrap .hero-eyebrow{margin-bottom:6px}
+.hero-wrap h1.title{font-size:clamp(30px,4.5vw,40px);margin:0 0 8px}
+.hero-wrap .subtitle{font-size:13px;line-height:1.5;margin:0 auto 10px}
+.hero-wrap .bento-bar{margin-bottom:12px;gap:8px}
+.bento-stat{padding:8px 6px}
+.bento-stat-num{font-size:16px}
+.home-controls{margin-bottom:14px}
+.home-search-input{height:44px}
+.cat-tab{padding:7px 12px;font-size:12px}
+
+/* Clean uniform boxes: icon + name only (subtitles removed from markup). */
+.quick-actions-grid .custom-module-card{padding:12px}
+.quick-actions-grid .custom-module-copy{display:flex;align-items:center}
+.quick-actions-grid .qa-icon{display:grid;place-items:center;flex:0 0 38px;width:38px;height:38px;border-radius:12px;background:rgba(255,255,255,.08);font-size:20px}
+/* Upper segment, tighter still (colors unchanged). */
+.hero-wrap{padding:4px 4px 10px}
+.hero-wrap h1.title{font-size:clamp(28px,4.5vw,36px);margin:0 0 6px}
+.hero-wrap .subtitle{margin:0 auto 8px}
+.hero-wrap .bento-bar{grid-template-columns:repeat(4,1fr);gap:6px;margin-bottom:10px}
+.bento-stat{padding:6px 4px}
+.bento-stat-num{font-size:15px}
+.home-controls{margin-bottom:10px}
+.home-search-input{height:42px}
+.cat-tab{padding:6px 11px}
+/* PYQ card: emerald redesign. */
+.pyq-section-header{background:linear-gradient(135deg,rgba(16,185,129,.22),rgba(14,165,233,.08));border:1.5px solid rgba(16,185,129,.5);border-left:4px solid #10b981}
+.pyq-header-icon{display:grid;place-items:center;width:40px;height:40px;border-radius:12px;background:rgba(16,185,129,.18);font-size:20px;flex-shrink:0}
+
+/* Tighter vertical rhythm + colored section dividers. */
+.masthead{margin-bottom:8px}
+.hero-wrap{padding:0 4px 6px}
+.hero-eyebrow{margin-bottom:4px}
+.hero-wrap h1.title{margin:0 0 4px}
+.hero-wrap .subtitle{margin:0 auto 6px}
+.hero-wrap .bento-bar{margin-bottom:8px}
+.bento-stat{min-height:48px}
+.home-controls{margin-bottom:8px}
+.quick-actions-label{margin:4px 0 8px}
+.quick-actions-grid{margin:0}
+.subject-grid{margin:0}
+.section-divider{height:2px;border-radius:2px;margin:12px 0}
+.divider-subjects{background:linear-gradient(90deg,transparent,#8b5cf6,#0ea5e9,transparent)}
+.divider-pyq{background:linear-gradient(90deg,transparent,#10b981,#14b8a6,transparent)}
+
+/* Theme-proof rhythm: light rules are html:not(.dark)-scoped and beat
+   unscoped rules, so re-assert the same tight values per theme. */
+html:not(.dark) .masthead, html.dark .masthead{margin-bottom:8px}
+html:not(.dark) .hero-wrap, html.dark .hero-wrap{padding:0 4px 6px}
+html:not(.dark) .hero-eyebrow, html.dark .hero-eyebrow{margin-bottom:4px}
+html:not(.dark) .hero-wrap h1.title, html.dark .hero-wrap h1.title{font-size:clamp(28px,4.5vw,36px);margin:0 0 4px}
+html:not(.dark) .hero-wrap .subtitle, html.dark .hero-wrap .subtitle{margin:0 auto 6px}
+html:not(.dark) .hero-wrap .bento-bar, html.dark .hero-wrap .bento-bar{grid-template-columns:repeat(4,1fr);gap:6px;margin-bottom:8px}
+html:not(.dark) .bento-stat, html.dark .bento-stat{min-height:48px;padding:6px 4px}
+html:not(.dark) .home-controls, html.dark .home-controls{margin-bottom:8px}
+html:not(.dark) .home-search-input, html.dark .home-search-input{height:42px}
+html:not(.dark) .home-controls .cat-tab, html.dark .home-controls .cat-tab{padding:6px 11px}
+html:not(.dark) .quick-actions-label, html.dark .quick-actions-label{margin:4px 0 8px}
+html:not(.dark) .quick-actions-grid, html.dark .quick-actions-grid{margin:0}
+html:not(.dark) .subject-grid, html.dark .subject-grid{margin:0}
+
+
+/* One text size per element in BOTH themes: light/dark size differences
+   (subtitle, eyebrow, tile name/meta) moved everything below on toggle. */
+html:not(.dark) .hero-wrap .subtitle, html.dark .hero-wrap .subtitle{font-size:14px;line-height:1.6}
+html:not(.dark) .hero-eyebrow, html.dark .hero-eyebrow{font-size:10px;padding:4px 10px}
+html:not(.dark) .cname, html.dark .cname{font-size:16px;line-height:1.25}
+html:not(.dark) .cmeta, html.dark .cmeta{font-size:13px}
+@media (max-width:640px){
+html:not(.dark) .hero-wrap .subtitle, html.dark .hero-wrap .subtitle{font-size:13px;line-height:1.55}
+}
+
+/* Footer link directory as a colored box + tighter lower section. */
+nav[aria-label="Browse MedLadder"]{border-radius:16px}
+nav[aria-label="Browse MedLadder"] a{color:var(--accent)}
+html:not(.dark) nav[aria-label="Browse MedLadder"]{background:rgba(124,58,237,.07);border:1px solid rgba(124,58,237,.28)}
+html.dark nav[aria-label="Browse MedLadder"]{background:rgba(167,139,250,.12);border:1px solid rgba(167,139,250,.40)}
+footer.credit{margin-top:12px;padding-top:16px;padding-bottom:12px}
+.app{padding-bottom:24px}
+
+/* Dark-mode QUICK ACTIONS label contrast: --ink-muted (#73638E) is 3.65:1
+   on the dark page bg, below the 4.5:1 bar. --ink-soft (#A79BBF) is 7.55:1
+   and keeps the muted look. Light mode already passes (10.73:1). */
+html.dark .quick-actions-label{color:var(--ink-soft)}
+
+:root{--pal-sky:#0284C7;--pal-orange:#EA580C}
+html.dark{--pal-sky:#38BDF8;--pal-orange:#FB923C}
+/* SEO gloss restyle 2026-11-02 (approved preview): homepage treatment for SEO pages, scoped to .seo-main */
+:root{--pal-sky:#0284C7;--pal-orange:#EA580C}
+html.dark{--pal-sky:#38BDF8;--pal-orange:#FB923C}
+.seo-main .seo-qcard{background:var(--glass-bg);border:1px solid var(--glass-border);border-radius:20px;box-shadow:var(--glass-shadow);padding:22px 22px 16px;position:relative;overflow:hidden;transition:transform .18s ease,box-shadow .18s ease}
+.seo-main .seo-qcard::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,var(--accent),var(--cta-b))}
+.seo-main .seo-qcard:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
+.seo-main .seo-opt{background:var(--accent-soft);border:1px solid var(--line);border-radius:12px;padding:9px 12px;margin-bottom:8px}
+.seo-main .seo-opt .letter{background:linear-gradient(135deg,var(--accent),var(--cta-b));color:#fff;border-radius:50%;width:24px;height:24px;display:inline-flex;align-items:center;justify-content:center;font-weight:800;font-size:12px;margin-right:10px;flex:none}
+.seo-main .explain{background:var(--green-soft);border-radius:12px;padding:12px 14px}
+.seo-main .seo-card{background:var(--glass-bg);border:1px solid var(--glass-border);border-radius:18px;box-shadow:var(--glass-shadow);padding:16px 18px;position:relative;overflow:hidden;transition:transform .18s ease,box-shadow .18s ease}
+.seo-main .seo-card::before{content:"";position:absolute;top:0;left:0;right:0;height:4px;background:var(--accent)}
+.seo-main .seo-card:nth-child(6n+2)::before{background:var(--green)}
+.seo-main .seo-card:nth-child(6n+3)::before{background:var(--amber)}
+.seo-main .seo-card:nth-child(6n+4)::before{background:var(--cta-b)}
+.seo-main .seo-card:nth-child(6n+5)::before{background:var(--pal-sky)}
+.seo-main .seo-card:nth-child(6n+6)::before{background:var(--pal-orange)}
+.seo-main .seo-card:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
+.seo-main .seo-faq-card{background:var(--glass-bg);border:1px solid var(--glass-border);border-radius:18px;box-shadow:var(--glass-shadow);padding:16px 18px;position:relative;overflow:hidden}
+.seo-main .seo-faq-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,var(--accent),var(--cta-b))}
+.seo-main .seo-section-title{position:relative;padding-bottom:12px}
+.seo-main .seo-section-title::after{content:"";position:absolute;left:0;bottom:0;width:56px;height:4px;border-radius:4px;background:linear-gradient(90deg,var(--accent),var(--cta-b))}
+.seo-main .bento-stat:nth-child(1) .bento-stat-num{color:var(--accent)}
+.seo-main .bento-stat:nth-child(2) .bento-stat-num{color:var(--green)}
+.seo-main .bento-stat:nth-child(3) .bento-stat-num{color:var(--amber)}
+.seo-main .bento-stat:nth-child(4) .bento-stat-num{color:var(--cta-b)}
+.seo-main .btn:not(.secondary){background:linear-gradient(120deg,var(--cta-a),var(--cta-b));color:#fff;border:0}
+.seo-divider{height:2px;border:0;margin:30px 0;background:linear-gradient(90deg,transparent,var(--accent),var(--cta-b),transparent)}
+.seo-divider.emerald{background:linear-gradient(90deg,transparent,var(--green),var(--pal-sky),transparent)}
+
+/* Hide the footer directory on question and setup screens (results keep it). */
+body:has(#app.screen-quiz:not(.screen-results), #app.screen-setup, #app .pyq-setup-badge) nav[aria-label="Browse MedLadder"]{display:none}
+
+/* Google hero button (auth modal): one-tap Google sign-in is the main action,
+   so it reads as a white Google button first and the email form second.
+   Explicit colours (same in light and dark) by design. */
+.auth-google-btn{background:#fff;border:1px solid #dadce0;color:#1f1f1f;font-size:15px;font-weight:700;padding:14px 16px;gap:12px;margin-bottom:16px;box-shadow:0 1px 3px rgba(0,0,0,.18),0 4px 14px rgba(0,0,0,.10)}
+.auth-google-btn:hover{transform:translateY(-1px);border-color:#bdc1c6;box-shadow:0 1px 3px rgba(0,0,0,.18),0 6px 18px rgba(0,0,0,.14)}
+.auth-google-btn:active{transform:scale(.985)}
+.auth-google-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.auth-google-btn svg{width:20px;height:20px;flex-shrink:0}
+.auth-google-badge{font-size:11px;font-weight:700;line-height:1;padding:3px 8px;border-radius:999px;background:#e6f4ea;color:#137333;white-space:nowrap}
+.auth-google-btn .auth-spinner{border:2px solid rgba(0,0,0,.14)}
+.auth-google-btn:disabled{opacity:.75}

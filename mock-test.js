@@ -22,6 +22,35 @@
   var lbChannel = null;
   var submitLock = false;
 
+  /* ---------- GA4 SPA virtual pageviews ---------- */
+  // The gtag config sends one automatic page_view for the initial load.
+  // Every later mock view sends exactly one manual page_view via
+  // trackMockPageView. Same view+path re-renders are ignored, and the load
+  // view itself is never double-counted.
+  var __mlMockLoadPath = window.location.pathname || '/mock-test';
+  var __mlMockBase = __mlMockLoadPath.replace(/\.html$/, '') || '/mock-test';
+  var __mlMockLoadViewCounted = false;
+  var __mlMockLastViewKey = null;
+  function trackMockPageView(path, view) {
+    try {
+      var p = path || window.location.pathname || '/mock-test';
+      var key = (view || 'view') + '|' + p;
+      if (!__mlMockLoadViewCounted && p === __mlMockLoadPath) { __mlMockLoadViewCounted = true; __mlMockLastViewKey = key; return; }
+      if (key === __mlMockLastViewKey) return;
+      __mlMockLastViewKey = key;
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'page_view', {
+          page_title: document.title,
+          page_location: 'https://medladder.top' + p,
+          page_path: p
+        });
+      } else if (window.dataLayer && Array.isArray(window.dataLayer)) {
+        window.dataLayer.push({ event: 'page_view', page_title: document.title, page_location: 'https://medladder.top' + p, page_path: p });
+      }
+    } catch (err) {}
+  }
+
+
   /* ---------- utils ---------- */
   function $(id) { return document.getElementById(id); }
   function esc(s) {
@@ -203,7 +232,7 @@
       var isSignUp = gBtns[i].id === 'googleAuthBtnSignUp';
       gBtns[i].innerHTML =
         '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg>' +
-        '<span>' + (isSignUp ? 'Sign up with Google' : 'Continue with Google') + '</span>';
+        '<span>' + (isSignUp ? 'Sign up with Google' : 'Continue with Google') + '</span><span class="auth-google-badge">Fastest</span>';
     }
   }
 
@@ -241,7 +270,7 @@
       '<button class="auth-modal-close" id="authModalClose" aria-label="Close modal">✕</button>' +
       '<div class="auth-modal-badge">MedLadder Account</div>' +
       '<h2 class="auth-modal-title" id="authModalTitle">Sign In</h2>' +
-      '<p class="auth-modal-sub" id="authModalSub">Access your test history and sync progress across devices.</p>' +
+      '<p class="auth-modal-sub" id="authModalSub">Fastest way in — one tap with Google, no password to remember.</p>' +
       '<div class="auth-tabs" id="authTabs">' +
       '<button class="auth-tab active" id="tabSignIn" type="button">Sign In</button>' +
       '<button class="auth-tab" id="tabSignUp" type="button">Sign Up</button>' +
@@ -253,7 +282,7 @@
       // Sign In Form
       '<form id="authSignInForm" autocomplete="on">' +
       '<button type="button" class="auth-google-btn" id="googleAuthBtn">' +
-      '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Continue with Google</span>' +
+      '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Continue with Google</span><span class="auth-google-badge">Fastest</span>' +
       '</button>' +
       '<div class="auth-divider"><span>or continue with email</span></div>' +
       '<div class="auth-field">' +
@@ -279,7 +308,7 @@
       // Sign Up Form
       '<form id="authSignUpForm" class="hidden" autocomplete="on">' +
       '<button type="button" class="auth-google-btn" id="googleAuthBtnSignUp">' +
-      '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Sign up with Google</span>' +
+      '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M23.745 12.27c0-.7-.06-1.4-.19-2.07H12v4.51h6.6c-.29 1.52-1.14 2.82-2.4 3.68v3.05h3.88c2.27-2.09 3.665-5.17 3.665-9.17z"/><path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.88-3.05c-1.08.72-2.45 1.16-4.05 1.16-3.12 0-5.77-2.1-6.72-4.93H1.25v3.15C3.26 21.36 7.33 24 12 24z"/><path fill="#FBBC05" d="M5.28 14.27c-.25-.72-.38-1.49-.38-2.27s.13-1.55.38-2.27V6.58H1.25C.45 8.18 0 9.99 0 12s.45 3.82 1.25 5.42l4.03-3.15z"/><path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.33 0 3.26 2.64 1.25 6.58l4.03 3.15c.95-2.83 3.6-4.98 6.72-4.98z"/></svg><span>Sign up with Google</span><span class="auth-google-badge">Fastest</span>' +
       '</button>' +
       '<div class="auth-divider"><span>or register with email</span></div>' +
       '<div class="auth-field">' +
@@ -404,12 +433,12 @@
 
     if (tab === 'signin') {
       titleEl.textContent = 'Sign In';
-      subEl.textContent = 'Access your test history and sync progress across devices.';
+      subEl.textContent = 'Fastest way in — one tap with Google, no password to remember.';
       var emailIn = $('authSignInEmail');
       if (emailIn) setTimeout(function () { emailIn.focus(); }, 80);
     } else if (tab === 'signup') {
       titleEl.textContent = 'Create Account';
-      subEl.textContent = 'Register to track quiz performance and preserve test scores.';
+      subEl.textContent = 'One tap with Google creates your account — no password to remember.';
       var nameIn = $('authSignUpName');
       if (nameIn) setTimeout(function () { nameIn.focus(); }, 80);
     } else if (tab === 'forgot') {
@@ -1273,6 +1302,10 @@
 
   /* ---------- view switching ---------- */
   function showView(id) {
+    if (id === 'lobbyView') trackMockPageView(__mlMockLoadPath, 'lobby');
+    else if (id === 'testView') trackMockPageView(__mlMockBase + '/test', 'test');
+    else if (id === 'resultView') trackMockPageView(__mlMockBase + '/results', 'result');
+    else if (id === 'endedView') trackMockPageView(__mlMockBase + '/ended', 'ended');
     ['lobbyView', 'testView', 'resultView', 'endedView'].forEach(function (v) {
       $(v).hidden = v !== id;
     });
