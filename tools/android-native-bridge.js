@@ -2,6 +2,7 @@ import { App } from '@capacitor/app';
 import { Browser } from '@capacitor/browser';
 import { Capacitor } from '@capacitor/core';
 import { CapacitorUpdater } from '@capgo/capacitor-updater';
+import { Haptics, ImpactStyle, NotificationType } from '@capacitor/haptics';
 
 var isNative = Capacitor.isNativePlatform();
 if (isNative) {
@@ -274,6 +275,20 @@ if (isNative) {
   }
 }
 
+// ---------------------------------------------------------------------------
+// Haptic feedback (quiz screen). kind: 'success' | 'error' | 'tap'
+// Users can turn it off with localStorage 'ml_haptics' = 'off'.
+// ---------------------------------------------------------------------------
+function haptic(kind) {
+  try { if (localStorage.getItem('ml_haptics') === 'off') return; } catch (e) {}
+  if (!isNative) return;
+  try {
+    if (kind === 'success') Haptics.notification({ type: NotificationType.Success }).catch(function () {});
+    else if (kind === 'error') Haptics.notification({ type: NotificationType.Error }).catch(function () {});
+    else Haptics.impact({ style: ImpactStyle.Light }).catch(function () {});
+  } catch (e) {}
+}
+
 window.MedLadderNative = {
   isNative: isNative,
   App: App,
@@ -283,5 +298,6 @@ window.MedLadderNative = {
   exitApp: exitApp,
   showToast: showExitToast,
   checkForLiveUpdate: checkForLiveUpdate,
+  haptic: haptic,
   Updater: CapacitorUpdater
 };

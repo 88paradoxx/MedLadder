@@ -4316,6 +4316,7 @@ window.addEventListener('error', function (ev) {
             });
             var nextButton = document.getElementById('nextBtn');
             if (nextButton) nextButton.disabled = false;
+            try { if (window.MedLadderNative && window.MedLadderNative.haptic) window.MedLadderNative.haptic(answer.isCorrect ? 'success' : 'error'); } catch (e) {}
 
             var correctNow = Object.values(state.answers).filter(function (item) { return item.isCorrect; }).length;
             var scoreText = document.getElementById('scoreText');
@@ -4348,7 +4349,7 @@ window.addEventListener('error', function (ev) {
             }, 0);
           });
         });
-        document.getElementById('nextBtn').addEventListener('click', function () { commitAndAdvance(); });
+        document.getElementById('nextBtn').addEventListener('click', function () { try { if (window.MedLadderNative && window.MedLadderNative.haptic) window.MedLadderNative.haptic('tap'); } catch (e) {} commitAndAdvance(); });
 
         // Warm the explanation images while the user reads, so revealing the
         // answer doesn't trigger a big network fetch + decode at tap time.
