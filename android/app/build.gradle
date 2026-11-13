@@ -7,8 +7,8 @@ android {
         applicationId "com.medladder.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 7
-        versionName "1.6"
+        versionCode 10
+        versionName "1.9"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
@@ -16,12 +16,21 @@ android {
             ignoreAssetsPattern = '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
         }
     }
+    // Signing: CI passes these as env vars (GitHub secrets). Locally, put them in
+    // android/keystore.properties (gitignored): storeFile, storePassword, keyAlias, keyPassword.
+    def keystoreProps = new Properties()
+    def keystorePropsFile = rootProject.file('keystore.properties')
+    if (keystorePropsFile.exists()) { keystorePropsFile.withInputStream { keystoreProps.load(it) } }
+    def signingValue = { String envName, String propName ->
+        System.getenv(envName) ?: keystoreProps.getProperty(propName)
+    }
     signingConfigs {
         release {
-            storeFile file('medladder-release-key.jks')
-            storePassword 'MedLadder@2026'
-            keyAlias 'medladder'
-            keyPassword 'MedLadder@2026'
+            def storePath = signingValue('ANDROID_KEYSTORE_PATH', 'storeFile') ?: 'medladder-release-key.jks'
+            storeFile file(storePath)
+            storePassword signingValue('ANDROID_KEYSTORE_PASSWORD', 'storePassword')
+            keyAlias signingValue('ANDROID_KEY_ALIAS', 'keyAlias') ?: 'medladder'
+            keyPassword signingValue('ANDROID_KEY_PASSWORD', 'keyPassword')
         }
     }
     buildTypes {

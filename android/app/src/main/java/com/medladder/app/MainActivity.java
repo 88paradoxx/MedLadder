@@ -44,6 +44,16 @@ public class MainActivity extends BridgeActivity {
                 }
             } catch (Exception ignored) {}
         }
+
+        @android.webkit.JavascriptInterface
+        public void showToast(String message) {
+            runOnUiThread(() -> Toast.makeText(MainActivity.this, message, Toast.LENGTH_SHORT).show());
+        }
+
+        @android.webkit.JavascriptInterface
+        public void exitApp() {
+            runOnUiThread(() -> finishAffinity());
+        }
     }
 
     @Override

@@ -53,32 +53,45 @@ esbuild.buildSync({
   target: ['es2020']
 });
 
-const appHtmlPath = path.join(webDir, 'index.html');
-let appHtml = fs.readFileSync(appHtmlPath, 'utf8');
-appHtml = appHtml.replace(
-  '<script src="/app.js" defer></script>',
-  '<script src="/medladder-native.js" defer></script>\n  <script src="/app.js" defer></script>'
-);
-if (!appHtml.includes('is-native-app')) {
-  if (appHtml.includes('<html lang="en" class="dark"')) {
-    appHtml = appHtml.replace('<html lang="en" class="dark"', '<html lang="en" class="dark is-native-app" data-native="true"');
-  } else {
-    appHtml = appHtml.replace('<html lang="en"', '<html lang="en" class="is-native-app" data-native="true"');
-  }
-}
-fs.writeFileSync(appHtmlPath, appHtml);
+function injectNativeScript(filePath) {
+  if (!fs.existsSync(filePath)) return;
+  let html = fs.readFileSync(filePath, 'utf8');
 
-const mockHtmlPath = path.join(webDir, 'mock-test.html');
-if (fs.existsSync(mockHtmlPath)) {
-  let mockHtml = fs.readFileSync(mockHtmlPath, 'utf8');
-  mockHtml = mockHtml.replace(
-    '<script src="/mock-test.js" defer></script>',
-    '<script src="/medladder-native.js" defer></script>\n  <script src="/mock-test.js" defer></script>'
-  );
-  if (!mockHtml.includes('is-native-app')) {
-    mockHtml = mockHtml.replace('<html lang="en" class="dark"', '<html lang="en" class="dark is-native-app" data-native="true"');
+  // Strip SEO directory navigation and website footers from native app assets
+  html = html.replace(/<nav\s+aria-label="Browse MedLadder"[\s\S]*?<\/nav>/gi, '');
+
+  if (!html.includes('medladder-native.js')) {
+    if (html.includes('<script src="/app.js" defer></script>')) {
+      html = html.replace(
+        '<script src="/app.js" defer></script>',
+        '<script src="/medladder-native.js" defer></script>\n  <script src="/app.js" defer></script>'
+      );
+    } else if (html.includes('<script src="/mock-test.js" defer></script>')) {
+      html = html.replace(
+        '<script src="/mock-test.js" defer></script>',
+        '<script src="/medladder-native.js" defer></script>\n  <script src="/mock-test.js" defer></script>'
+      );
+    } else if (html.includes('</head>')) {
+      html = html.replace('</head>', '  <script src="/medladder-native.js" defer></script>\n</head>');
+    }
   }
-  fs.writeFileSync(mockHtmlPath, mockHtml);
+
+  if (!html.includes('is-native-app')) {
+    if (html.includes('<html lang="en" class="dark"')) {
+      html = html.replace('<html lang="en" class="dark"', '<html lang="en" class="dark is-native-app" data-native="true"');
+    } else if (html.includes('<html lang="en"')) {
+      html = html.replace('<html lang="en"', '<html lang="en" class="is-native-app" data-native="true"');
+    }
+  }
+
+  fs.writeFileSync(filePath, html);
+}
+
+// Inject native script into all top-level HTML files
+for (const file of files) {
+  if (file.endsWith('.html')) {
+    injectNativeScript(path.join(webDir, file));
+  }
 }
 
 // The static host rewrites these clean URLs; mirror that for Android's local asset server.
@@ -88,7 +101,9 @@ for (const route of ['privacy', 'terms', 'mock-test', 'admin-mock', 'neet-ss-boo
   const src = fs.existsSync(path.join(webDir, `${route}.html`))
     ? path.join(webDir, `${route}.html`)
     : path.join(root, `${route}.html`);
-  fs.copyFileSync(src, path.join(routeDir, 'index.html'));
+  const dest = path.join(routeDir, 'index.html');
+  fs.copyFileSync(src, dest);
+  injectNativeScript(dest);
 }
 
 console.log(`Prepared Android web assets in ${path.relative(root, webDir)}.`);

@@ -68,3 +68,8 @@ google-services.json
 */google-services.json
 
 
+
+# Android signing + live update output
+keystore.properties
+android/keystore.properties
+live-updates/
