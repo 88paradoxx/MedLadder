@@ -11,11 +11,12 @@ export interface Plan {
 // SERVER-SIDE price list. The browser only ever sends a plan id — it can never
 // choose the amount or the duration. Keep in sync with PRO_PLANS in app.js
 // (that copy is for display only).
+// Prices revised 2026-11-19: 3 months 399 -> 499, 1 year 999 -> 1299.
 export const PLANS: Record<string, Plan> = {
   '1_month':  { id: '1_month',  name: '1 Month',  days: 30,  amountPaise: 19900 },
-  '3_months': { id: '3_months', name: '3 Months', days: 90,  amountPaise: 39900 },
+  '3_months': { id: '3_months', name: '3 Months', days: 90,  amountPaise: 49900 },
   '6_months': { id: '6_months', name: '6 Months', days: 180, amountPaise: 79900 },
-  '1_year':   { id: '1_year',   name: '1 Year',   days: 365, amountPaise: 99900 },
+  '1_year':   { id: '1_year',   name: '1 Year',   days: 365, amountPaise: 129900 },
 };
 
 export function getPlan(id: unknown): Plan | null {
