@@ -32,8 +32,8 @@ jobs:
           PROJECT_REF="${{ secrets.SUPABASE_PROJECT_REF }}"
           PROJECT_REF="${PROJECT_REF:-groeibwykzrliphzzruk}"
 
-          supabase functions deploy razorpay-order          --project-ref "$PROJECT_REF" --use-api --no-verify-jwt
-          supabase functions deploy razorpay-verify         --project-ref "$PROJECT_REF" --use-api --no-verify-jwt
-          supabase functions deploy razorpay-webhook        --project-ref "$PROJECT_REF" --use-api --no-verify-jwt
-          supabase functions deploy razorpay-refund-webhook --project-ref "$PROJECT_REF" --use-api --no-verify-jwt
-          supabase functions deploy admin-grant-pro         --project-ref "$PROJECT_REF" --use-api --no-verify-jwt
+          supabase functions deploy razorpay-order          --project-ref "$PROJECT_REF" --use-api --no-verify-jwt --yes
+          supabase functions deploy razorpay-verify         --project-ref "$PROJECT_REF" --use-api --no-verify-jwt --yes
+          supabase functions deploy razorpay-webhook        --project-ref "$PROJECT_REF" --use-api --no-verify-jwt --yes
+          supabase functions deploy razorpay-refund-webhook --project-ref "$PROJECT_REF" --use-api --no-verify-jwt --yes
+          supabase functions deploy admin-grant-pro         --project-ref "$PROJECT_REF" --use-api --no-verify-jwt --yes
