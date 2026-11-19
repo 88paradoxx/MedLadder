@@ -62,8 +62,11 @@ Deno.serve(async (req: Request) => {
       return json({ verified: false, error: 'Order not found for this account' }, 404, req);
     }
 
+    // The amount was fixed by the server when this order was created (razorpay-order),
+    // so a price change between opening checkout and paying never strands a buyer.
     const plan = getPlan(order.plan_id as string);
-    if (!plan || order.amount_paise !== plan.amountPaise) {
+    const expectedPaise = Number(order.amount_paise);
+    if (!plan || !Number.isInteger(expectedPaise) || expectedPaise <= 0) {
       return json({ verified: false, error: 'Order does not match a plan' }, 400, req);
     }
 
@@ -75,7 +78,7 @@ Deno.serve(async (req: Request) => {
     const pay = await pr.json();
 
     // Validate amount, currency, and order_id match
-    if (pay.amount !== plan.amountPaise || pay.currency !== 'INR') {
+    if (pay.amount !== expectedPaise || pay.currency !== 'INR') {
       return json({ verified: false, error: 'Payment does not match plan' }, 400, req);
     }
     if (isSafeId(orderId) && pay.order_id !== orderId) {
@@ -86,7 +89,7 @@ Deno.serve(async (req: Request) => {
       const cap = await fetch('https://api.razorpay.com/v1/payments/' + paymentId + '/capture', {
         method: 'POST',
         headers: { Authorization: razorpayAuthHeader(), 'Content-Type': 'application/json' },
-        body: JSON.stringify({ amount: plan.amountPaise, currency: 'INR' }),
+        body: JSON.stringify({ amount: expectedPaise, currency: 'INR' }),
       });
       if (!cap.ok) return json({ verified: false, error: 'Capture failed' }, 502, req);
     } else if (pay.status !== 'captured') {

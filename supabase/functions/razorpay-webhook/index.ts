@@ -87,9 +87,13 @@ Deno.serve(async (req: Request) => {
       return new Response('unknown plan', { status: 200 }); // 200 so Razorpay stops retrying
     }
 
-    // Amount / currency guard
-    if (pay.amount !== plan.amountPaise || pay.currency !== 'INR') {
-      console.error('webhook amount/plan mismatch', pay.id, pay.amount, plan.id, plan.amountPaise);
+    // Amount / currency guard. The expected amount is the one the server recorded
+    // when it created the order, so a price change between checkout and payment
+    // never strands a buyer. With no payments row, fall back to today's price.
+    const recorded = order ? Number(order.amount_paise) : NaN;
+    const expectedPaise = Number.isInteger(recorded) && recorded > 0 ? recorded : plan.amountPaise;
+    if (pay.amount !== expectedPaise || pay.currency !== 'INR') {
+      console.error('webhook amount/plan mismatch', pay.id, pay.amount, plan.id, expectedPaise);
       return new Response('mismatch', { status: 200 });
     }
 
@@ -111,7 +115,7 @@ Deno.serve(async (req: Request) => {
         razorpay_order_id: pay.order_id || null,
         plan_id: plan.id,
         plan_name: plan.name,
-        amount_paise: plan.amountPaise,
+        amount_paise: expectedPaise,
         currency: 'INR',
         status: 'paid',
         verified_on_server: true,
